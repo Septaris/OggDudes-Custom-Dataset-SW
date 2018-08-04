@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Species xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Key>BITH</Key>
+  <Name>Bith</Name>
+  <Description>
+    [H4]Bith[h4]
+
+Bith are a peaceful, highly-evolved craniopod species native to the planet Clak'dor VII. Fully adapted to a civilized, high-technology lifestyle, Bith are found galaxy-wide at all levels of society, most notably as engineers, scientists, intellectuals, consultants, and musicians.
+
+[P][B]Physiology:[b] Bith are craniopods with pale pink, yellow, or (rarely) green skin, large heads, large lidless eyes, toeless feet, and long fingers. Their thumb and small finger are both fully opposable. The Bith's internal systems are different from most humanoids, as the Bith have only one lung, and exhale through their skin. Bith also lack a proper nose, instead having highly sensitive olfactory organs hidden in the skin-flaps of their cheeks.
+
+[P]The other Bith senses are also acute. Bith can sense the tonal qualities of sound as well as other races sense colors. Their eyes, as big as a Menahuun's, are able to focus to 0.07 on the Gandok Scale and they can see microscopic details of nearby objects, but are extremely nearsighted as a result. An interesting side effect of their incredible sensors is the effect of sonic grenades, or screamers, on them. It is described as causing their heads to explode. Similarly, Bith have high manual dexterity which helped them manipulate fine tools, though their physical prowess with gross motor skills is only average.
+
+[P]Bith have even evolved past the need for sleep. Instead, they will slip into a light meditative trance, which allows them to get as much rest in four hours as other species can get in eight. During this trance, Bith are still almost fully aware of their surroundings. A Bith's reproductive organs atrophied over time, as did the portions of their brain governing such impulses. As such, Bith are unable to reproduce naturally, instead relying on artificial conception and gestation. Mates bring genetic material to a Computer Mating Service for analysis against prospective mates. Bith children are created from genetic material from two parents, which is combined, fertilized, and incubated for a year.
+
+[P][B]Society:[b] A species of pacifists following the devastation of their homeworld during the Nozho-Weogar War many Bith work as engineers, data analysts, or in other intellectual professions. Others use their intelligence, natural technical skills, and dexterity to work in the criminal underworld. Many Bith work as cantina staff, since bartenders in Bith society held a position equivalent in many ways to priests in other cultures.
+
+[P][B]Homeworld:[b] Clak'dor VII is a small planet orbiting the large white star Colu in the Colu system of the Outer Rim Territories on the Rimma Trade Route. It was a long-time member of the Galactic Republic and was also the homeworld of the Bith species.
+
+[P]The Bith evolved over the millennia, and making use of their powerful senses of sight and hearing became a race of artists, scientists and musicians. They built great cities in the mountains and the jungles of Clak'dor VII. However around 320 BBY, a conflict erupted on the planet between the capital city of Weogar and its domed counterpart Nozho over a stardrive patent. When subterfuge was detected by Weogar, war soon broke out and a chemical attack was launched by Nozho on the capital. The retaliatory biological strike on Nozho wiped the city out and destroyed Clak'dor VII's ecosystem, destroying the planet's ability to produce either the basic needs for its citizens or goods for export. The surviving Bith on the planet were forced to relocate into domed cities, now proclaiming themselves pacifists and seldom venturing into the irradiated swamps, where the wildlife mutated into such lifeforms as the Ghhhk.
+
+[P][B]Language:[b] Bith or Bithian is the native language of the Bith from Clak'dor VII. It is one of the official languages of the planet, the other one being Galactic Basic. Biths learn to speak and write Basic at a young age, being bilingual.</Description>
+  <Source>Unofficial Species Menagerie</Source>
+  <Custom>DescOnly</Custom>
+  <StartingChars>
+    <Brawn>1</Brawn>
+    <Agility>2</Agility>
+    <Intellect>3</Intellect>
+    <Cunning>2</Cunning>
+    <Willpower>2</Willpower>
+    <Presence>2</Presence>
+  </StartingChars>
+  <StartingAttrs>
+    <WoundThreshold>9</WoundThreshold>
+    <StrainThreshold>11</StrainThreshold>
+    <Experience>100</Experience>
+  </StartingAttrs>
+  <SkillModifiers>
+    <SkillModifier>
+      <Key>PERC</Key>
+      <RankStart>1</RankStart>
+      <RankLimit>2</RankLimit>
+    </SkillModifier>
+  </SkillModifiers>
+  <TalentModifiers>
+    <TalentModifier>
+      <Key>RESEARCH</Key>
+      <RankAdd>1</RankAdd>
+    </TalentModifier>
+  </TalentModifiers>
+</Species>
