@@ -3,7 +3,7 @@
   <Key>UNINS</Key>
   <Name>Unmatched Insight</Name>
   <Description>People are a politician's business, so understanding other sentient beings is absolutely critical to a representative's job. Many veteran Diplomats develop an astounding ability to read others with only a moments glance, discerning precisely what to tell a constituent to win his support or which question to ask a fellow politician to undermine his authority.</Description>
-  <Source>Desperate Allies</Source>
+  <Source Page="40">Desperate Allies</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>
