@@ -14,21 +14,24 @@ A Spy's eight career skills are [B]Computers, Cool, Coordination, Deception, Kno
 [P]The primary role of any Spy is the gathering of intelligence—information about what is happening in the areas of operation, as well as what the enemy is doing—for those in command of Allied forces. There are many ways to do this, meaning there are many types of Spies with divergent specialties. Some focus on infiltrating the ranks of the enemy and gathering data from within, while others focus on external observations of troop and asset movements. Some take advantage of the dependency of modern military forces on electronic means of data collation, tapping into their opponents' networks and siphoning off everything that can be snagged. 
 
 [P]The Alliance's reliance on Spies cannot be understated. Together with other specialist operatives, Spies are critical to the Rebellion's chance for success. Their skills and talents play a crucial role in balancing the scales against the Empire's overwhelming superiority in both forces and resources. As the war progresses, however, the Alliance can no longer treat its Spies as untouchable assets, never to be unduly risked; more and more, Spies are being called on to make direct strikes against the targets from which they are sent to gain information.</Description>
-  <Source>Age of Rebellion Core Rulebook</Source>
-  <Custom>DescOnly</Custom>
+  <Source Page="94">Age of Rebellion Core Rulebook</Source>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>COMP</Key>
     <Key>COOL</Key>
     <Key>COORD</Key>
     <Key>DECEP</Key>
-    <Key>WARF</Key>
     <Key>PERC</Key>
     <Key>SKUL</Key>
     <Key>STEAL</Key>
+    <Key>WARF</Key>
   </CareerSkills>
   <Specializations>
-    <Key>SCOUT</Key>
+    <Key>COURIER</Key>
     <Key>INFILTRATOR</Key>
+    <Key>INTERROGATOR</Key>
+    <Key>SCOUT</Key>
+    <Key>SLEEPERAGENT</Key>
     <Key>SLICER</Key>
   </Specializations>
   <Attributes />
