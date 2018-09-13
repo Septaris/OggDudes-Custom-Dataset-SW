@@ -3,7 +3,7 @@
   <Key>UNMATCHEXPERT</Key>
   <Name>Unmatched Expertise</Name>
   <Description>A combination of education and hard-earned life experiences can make Colonists far more capable individuals than they appear. When the time is right, they can put their vast experience to good use, making challenging tasks look easy, and the impossible merely difficult. </Description>
-  <Source>Far Horizons</Source>
+  <Source Page="37">Far Horizons</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>
