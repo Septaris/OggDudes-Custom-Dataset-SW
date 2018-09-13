@@ -8,7 +8,7 @@
 Flying speeders and fighters into combat is a dangerous job. Amidst the chaos of a battle, one stray blast can knock an unsuspecting ship out of commission. Experienced Aces know this, and know every little trick to keep their vehicle going as long as possible.
 
 [P][H4]&lt;font size=1&gt;Please see page 37 of the Stay on Target Sourcebook for details.&lt;/font&gt;[h4]</Description>
-  <Source>Stay on Target</Source>
+  <Source Page="37">Stay on Target</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>
