@@ -3,7 +3,7 @@
   <Key>UNMATCHEDFORTUNE</Key>
   <Name>Unmatched Fortune</Name>
   <Description>Smugglers learn early on to be self-reliant and sure of themselves. It isn't enough to hope things will work out or believe in some hokey religion—they have to take luck into their own hands if they want to keep flying, much less make a credit or two.</Description>
-  <Source>Fly Casual</Source>
+  <Source Page="39">Fly Casual</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>
