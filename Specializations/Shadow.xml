@@ -13,7 +13,7 @@ In the ancient days of the Jedi Order, Sentinels worked tirelessly to police the
 [P]Shadows acquire [B]Knowledge (Underworld), Skulduggery, Stealth,[b] and [B]Streetwise[b] as additional career skills. If this is the character's starting specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. These characters recognize that stealth and deception are integral to finding the targets they hunt. Criminal organizations are often mired in secrecy. and uncovering these secrets requires underhanded methods. While their techniques are frequently of questionable moral character. Shadows firmly believe their ultimate accomplishments more than justify the tools that they must use. 
 
 [P]Of course, an initiate who has turned to the dark side can prove a powerful opponent for a Shadow. Working against such an adversary can require all of an adept's mundane and Force talents. A Shadow's willingness to examine and utilize every tool and asset can play a major factor in overcoming such capable foes. </Description>
-  <Source>Force and Destiny Core Rulebook</Source>
+  <Source Page="94">Force and Destiny Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>SKUL</Key>

@@ -11,7 +11,7 @@
 [P]Scoundrels fulfill many roles in the Outer Rim. Some are grifters, others are middle-men, and still others are simply thrill-seekers looking to see what they can get into next. Scoundrels tend to avoid taking charge of anything, but they are more than willing to ride the coattails of powerful people, often applying their unique skill set to help their employer in any number of ways. Scoundrels rarely put down roots for very long, and will always be looking for the next interesting thing to do (especially if it can make them some money). 
 
 [P]In a Player Character group, the Scoundrel is a kind of all-purpose character. He's got enough underworld savvy and social ability to act as a "face" for the group, and he's no slouch in a fight. He may or may not be a pilot, but it's almost certain he's got many of the rogue-style abilities a group might need.</Description>
-  <Source>Edge of the Empire Core Rulebook</Source>
+  <Source Page="84">Edge of the Empire Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>CHARM</Key>

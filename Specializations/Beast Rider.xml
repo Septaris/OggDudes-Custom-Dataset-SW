@@ -15,7 +15,7 @@ Many worlds in the galaxy are too backward, too poor, or have environments too e
 [P]The Rebellion often assigns Beast Riders as scouts at Rebel bases and outposts, conducting patrols and setting up advance defenses and other contingency measures to prepare for potential Imperial discovery. When an Imperial or one of his allies spots creature tracks, he might think it belongs to a wild creature—whereas, if he sees vehicle tracks, he is very likely to investigate. In battle, mounted cavalry might not be quite as fast, agile, or heavily armed and armored as its mechanized counterparts, but it has several advantages. Creature mounts have better camouflage, more mobility in close quarters, and in battle, Imperial vehicles often ignore them outright. 
 
 [P]Most groups can benefit from a Beast Rider in their ranks. The Beast Rider is second only to the Spy carer's Scout specialization in matters of wilderness survival and guerrilla warfare. His ability to traverse difficult terrain, capture and train indigenous mounts, and locate food and shelter are critical to a number of Rebel mission profiles. Further, should a team member crash land, or otherwise become stranded, a Beast Rider might be critical to their very survival.</Description>
-  <Source>Stay on Target</Source>
+  <Source Page="26">Stay on Target</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>ATHL</Key>

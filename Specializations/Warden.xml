@@ -8,7 +8,7 @@ Whether they wield the power of the Force consciously or not, Wardens know that 
 [P]To assist in their task of identifying and subduing threats to their allies, Wardens have [B]Brawl, Coercion, Discipline and Knowledge (Underworld)[b] as additional career skills. If this is the characters stating specialization, he may choose two of these skills and gain one free rank in each without spending starting experience.
 [P]Wardens are suited to taking major roles on and off the battlefield, thanks to their specialization's focus on Coercion. While using intimidation as a primary social tool can have consequences for the character's morality, many unnecessary fights can be avoided if potential foes are too afraid to draw weapons against a Warden. In battle, Wardens shine in close quarters, where foes must approach to attack and thus suffer the consequences of engaging such frightening enemies. Wardens do what is needed to give their allies the best chance of survival in a harsh galaxy, and if this includes some unsavory tasks, so be it.
 </Description>
-  <Source>Keeping the Peace</Source>
+  <Source Page="26">Keeping the Peace</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>BRAWL</Key>

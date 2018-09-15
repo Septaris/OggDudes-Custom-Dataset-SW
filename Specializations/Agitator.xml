@@ -12,7 +12,7 @@ The Empire's main weapon, more effective than all of the incredible firepower at
 [P]Most Agitators come by the calling through hardship and suffering. Their own personal tragedies at the hands of their oppressors drive them to call upon others to resist injustice and authoritarianism. Some are more altruistic in nature, sufficiently moved,by the suffering of others to take action and rouse the people to a cause in which they can believe. Only those with charisma and will in sufficient quantities can truly succeed in this dangerous and demanding course. 
 
 [P]Many in the Alliance's upper levels consider Agitators a necessary evil; they are not keen to move populations of untrained civilians to go to war against the Empire's stormtroopers and other resources, yet they accept that, ultimately, it will take the entire galaxy doing just that if victory is to be achieved. When possible, Agitators are supported by other Alliance operatives, and a plan to arm and support the populace is usually in place before the Agitator goes to work.</Description>
-  <Source>Age of Rebellion Core Rulebook</Source>
+  <Source Page="80">Age of Rebellion Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>COERC</Key>

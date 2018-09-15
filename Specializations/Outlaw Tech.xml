@@ -11,7 +11,7 @@
 [P]Outlaw Techs find the Outer Rim very comfortable. They're able to practice their unique style of work with far less chance of running afoul of Imperial agents or other repressive government restrictions. They also find it far easier to make the contacts and get the kinds of customers that really appreciate their services. Of course, it's a lot harder to get true state-of-the-art equipment, but making do with what's on hand is a specialty of the Outlaw Tech. 
 
 [P]Outlaw Techs in a Player Character group will be highly prized, especially for their ability to make all kinds of improvements on other characters' gear. They are also adept at keeping ships and vehicles operational, and in some situations, they're as handy at acquiring certain goods as some Explorers. Without a Smuggler in the group, an Outlaw Tech may be the best bet for dealing with the local black markets.</Description>
-  <Source>Edge of the Empire Core Rulebook</Source>
+  <Source Page="90">Edge of the Empire Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>EDU</Key>

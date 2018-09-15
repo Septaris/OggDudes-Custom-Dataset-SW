@@ -11,7 +11,7 @@ Almost anathema to the usual technician's mentality, the Saboteur specializes in
 
 [P]Blowing things up is a popular way to commit sabotage, and Saboteurs are often the best at handling demolitions tasks (often using a combination of Mechanics and Skulduggery). However, there are many other ways to disrupt and destroy machinery, and the Saboteur knows them all. Most often, he will seek a way to cause the most damage and the most chaos at just the right moment. For the Saboteur (especially one with a sense of style), timing is everything. 
 [P]The Alliance makes quiet yet effective use of its Saboteurs. Though terrorism is not a part of the battle plan (and is expressly forbidden by Mon Mothma and the rest of the Alliance Council), acts of military sabotage are known to be highly effective in evening the odds before a battle. Most commanders in the Rebellion will simply indicate a target and a time frame, allowing the Saboteur to use his creativity and resourcefulness to achieve the objective.</Description>
-  <Source>Age of Rebellion Core Rulebook</Source>
+  <Source Page="86">Age of Rebellion Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>COORD</Key>

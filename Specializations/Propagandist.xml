@@ -13,7 +13,7 @@ Truth is often a matter of perspective, and Propagandists serve the Rebel Allian
 [P]Ideally, a Propagandist reveals truths that the Empire would conceal: galactic atrocities, corruption, and the terrible cost of its policies. However, few Propagandists deal strictly in truth as such, more likely distributing misinformation to enrage the oppressed. Criticizing the ethics of such tactics is difficult when they serve the cause so effectively. Propagandists might argue that small lies expose much greater truths that the Empire tries to conceal. For some, news is as much a business as a political pursuit, while for others, propaganda is of paramount importance.
 
 [P]In a group of Player Characters, a Propagandist can act as a master of information collection, interviewing civilians and even military personnel for rumors and secrets. Perhaps even more importantly, by planting information in the right ears, a skilled Propagandist can demoralize enemies, manipulating them into believing untruths. For this, a Propagandist is well served by a high Cunning and a high Presence. </Description>
-  <Source>Desperate Allies</Source>
+  <Source Page="30">Desperate Allies</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>CHARM</Key>

@@ -14,7 +14,7 @@ Due to [B]Age of Rebellion's[b] focus on the Galactic Civil War, most groups of 
 [P]Characters from almost any career can benefit from becoming a Recruit and gaining some basic military training. Small teams of specialists going up against the Empire's best will likely need to call upon every scrap of combat ability they collectively possess to survive dramatic fights for their very lives. 
 
 [P]The Alliance strongly recommends such training for any Rebels who are actively going into the field, regardless of their career, goals, or role in a team. Even Diplomats are actively encouraged to undergo military training; they do no good to anyone if they cannot come back alive from their latest efforts to negotiate a treaty or acquire supplies. Becoming a Recruit might not make a character a full-fledged special forces hero, but it certainly doesn't hurt.</Description>
-  <Source>Age of Rebellion Core Rulebook</Source>
+  <Source Page="100">Age of Rebellion Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>ATHL</Key>

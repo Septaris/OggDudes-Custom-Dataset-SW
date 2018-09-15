@@ -11,7 +11,7 @@ A lightsaber is a potent weapon. When wielded forcefully, it can even overpower 
 [P]Whenever possible, a Shien Expert prepares a battleground well in advance of a conflict. Often, these individuals take the time to study a range of different locations soon after they arrive in a city. Once combat begins, they can carefully exploit the environment and trigger any traps they may have prepared to unleash upon their opponents. 
 
 [P]During combat, Shien Experts continue to constantly analyze the situation. While they take advantage of the terrain throughout a battle, they are also selective in choosing the best way to use their training as well as their lightsaber. This can change with each passing instant, in reaction to the armament, position, and stance of their enemies. For these individuals, an extended conflict is a sure route to victory as they react to every move their opponents make with a clever counter or powerful strike.</Description>
-  <Source>Force and Destiny Core Rulebook</Source>
+  <Source Page="95">Force and Destiny Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>ATHL</Key>
@@ -23,7 +23,7 @@ A lightsaber is a potent weapon. When wielded forcefully, it can even overpower 
     <TalentRow>
       <Cost>5</Cost>
       <Talents>
-        <Key>DEFTRAIN</Key>
+        <Key>SIDESTEP</Key>
         <Key>CONDITIONED</Key>
         <Key>STRSMART</Key>
         <Key>REFLECT</Key>

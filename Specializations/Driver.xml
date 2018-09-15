@@ -14,8 +14,8 @@
 
 [P]An Explorer with a Driver specialization is a natural fit for almost any Player Character group. His basic skill set as an Explorer is already helpful, and his talents for moving the group around on a planet automatically make him exceedingly valuable. This is especially true when the inevitable situation arises demanding a quick getaway under a hail of blaster fire.</Description>
   <Sources>
-    <Source>Age of Rebellion Core Rulebook</Source>
-    <Source>Enter the Unknown</Source>
+    <Source Page="67">Age of Rebellion Core Rulebook</Source>
+    <Source Page="29">Enter the Unknown</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <CareerSkills>

@@ -11,7 +11,7 @@
 [P]Even in the Outer Rim, there are those who have a keen respect for knowledge and learning. Even criminal overlords find having some "brains" around helps them when they want to expand their operations or exploit a new opportunity. Other Scholars, however, are far more interested in getting out into the galaxy, seeing for themselves the things they wish to study, and digging around in ancient places for the lost knowledge they want to uncover. 
 
 [P]A Scholar in a group is very likely of the field researcher variety; seeking allies with physical capabilities who can defend him is a matter of simple expediency. It may be that he's signed on with some kind of operation that actually has no direct impact on his research, but the group is likely to travel to places he wishes to go, which suits his desires well.</Description>
-  <Source>Edge of the Empire Core Rulebook</Source>
+  <Source Page="67">Edge of the Empire Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>OUT</Key>

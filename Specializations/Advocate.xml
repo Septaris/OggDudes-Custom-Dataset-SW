@@ -15,7 +15,7 @@ Not all politicians contribute to the cause through stirring speeches to win the
 [P]An Advocate benefits greatly from a high Cunning or Willpower characteristic. One who invests in both can be extremely flexible in social situations, filling the role of mentor, manipulator, mediator, or attack dog as the circumstances of the negotiation require. Whatever skills the character wields to this end, a good Advocate gets results above all. 
 
 [P]Advocates approach the negotiation table in several different ways. Some seek to act entirely behind the scenes, writing speeches or giving guidance to assist </Description>
-  <Source>Desperate Allies</Source>
+  <Source Page="26">Desperate Allies</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>COERC</Key>

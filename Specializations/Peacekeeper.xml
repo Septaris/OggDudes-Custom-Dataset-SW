@@ -11,7 +11,7 @@ Across the galaxy, there are always tyrants, and those unlucky enough to suffer 
 [P]Many Peacekeepers only assume this specialization after they have been thrust into a position of authority—sometimes repeatedly. Because of their naturally protective personalities, these Guardians want to do everything in their power to protect their friends. Often, they decide the best choice is to become the best leader they can, out of a sense of responsibility rather than a desire for power. 
 
 [P]Characters who pursue the Peacekeeper's path seldom limit their activities to a single region. Often once one region has been pacified or a tyrant overthrown, a Peacekeeper sets his sight on the next challenge and leads his friends and fellow freedom fighters to overcome it. Under the shadow of the Empire, Peacekeepers are always needed.</Description>
-  <Source>Force and Destiny Core Rulebook</Source>
+  <Source Page="75">Force and Destiny Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>DISC</Key>

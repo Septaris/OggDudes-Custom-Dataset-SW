@@ -3,7 +3,7 @@
   <Key>UNPROT</Key>
   <Name>Unmatched Protection</Name>
   <Description>Some of the toughest sentients in the galaxy are Hired Guns. A lifetime of conflict leaves them covered in scars from countless wounds. However, this also leaves them as tough and resilient as durasteel.</Description>
-  <Source>Dangerous Covenants</Source>
+  <Source Page="37">Dangerous Covenants</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

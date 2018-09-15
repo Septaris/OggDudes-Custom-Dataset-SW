@@ -11,7 +11,7 @@ An old military saying goes something like this—"Empty stomachs make for poor 
 [P]The greatest commanders in any military place extraordinary emphasis on supply, relying heavily on their Quartermasters to see to it that logistical needs are met at all times. An otherwise-successful campaign will come to a screeching halt, perhaps even degrading into a terrible rout, if supply lines are not maintained and the warriors engaged with the enemy lose access to food, ammunition, and other vital needs. The Quartermaster understands the unique and challenging puzzle of finding, securing, and moving assets, and he seeks to fulfill his unit's needs no matter what is required.
 
 One of the greatest challenges for the Alliance is that of supply; the best Quartermasters in service to the Rebellion are indispensable assets. As long as other Alliance units are not endangered by their actions, Quartermasters are given great leeway in their methods for acquiring needed resources and getting them to the front lines. Many of the best Quartermasters indulge in more than a little larceny, often targeting criminal organizations and even the Empire itself to get what they need.</Description>
-  <Source>Age of Rebellion Core Rulebook</Source>
+  <Source Page="81">Age of Rebellion Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>COMP</Key>

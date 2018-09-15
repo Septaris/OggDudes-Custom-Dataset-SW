@@ -14,7 +14,7 @@
 [P]The Gunslinger often needs to remain one step ahead of the law, and so he wanders the Outer Rim in search of his next job. The hard life of the galactic frontier is not all gunfights, so the Gunslinger takes on work wherever he can find it. The Gunslinger uses his underworld contacts to secure odd jobs for a variety of criminal groups. Gunslingers also use their piloting knowledge to take on freight or smuggling jobs. 
 
 [P]A Gunslinger character can fill countless roles within a campaign. He might find work onboard a bulk freighter defending crew and cargo from pirates. A Bodyguard might opt to pick up the Gunslinger specialization on the side to improve his ability to defend his spoiled Coruscanti debutante client. A Tapani nobleman taking up pistols in a duel to maintain the honor of his house might also find the Gunslinger specialization invaluable.</Description>
-  <Source>Fly Casual</Source>
+  <Source Page="30">Fly Casual</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>COERC</Key>

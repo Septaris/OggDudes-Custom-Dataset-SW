@@ -89,10 +89,10 @@ Racers race. Whether by landspeeder, airspeeder, starship, or on foot, the Racer
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
-          <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
@@ -117,11 +117,11 @@ Racers race. Whether by landspeeder, airspeeder, starship, or on foot, the Racer
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
-          <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Up>true</Up>
         </Direction>
       </Directions>
     </TalentRow>

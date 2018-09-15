@@ -3,7 +3,7 @@
   <Key>LOS</Key>
   <Name>Last One Standing</Name>
   <Description>Sometimes, when he has no other choice a character must defy the odds and fight against overwhelming opposition. This action seems suicidal. However, the very best can walk through the fire of overwhelming odds, defeat their enemies, and emerge bloody but victorious.</Description>
-  <Source>Dangerous Covenants</Source>
+  <Source Page="36">Dangerous Covenants</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

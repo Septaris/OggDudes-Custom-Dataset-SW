@@ -13,7 +13,7 @@ Where the Ace Pilot uses hard-won skill, technique, and by-the-book tactics, the
 [P]The Rebellion usually puts Hotshots through their paces in simulators before letting them get into a real fight. However, the Rebels can't afford to keep their best combat Aces sidelined for long. Command usually assigns Hotshots to X-wing or A-wing squadrons, or to other light, maneuverable vehicles that take full advantage of a Hotshot's preternatural skill. Veteran Hotshots are usually retired once their value as a symbol eclipses whatever good they might do on the battlefield. High Command often parades them around on low-risk, high-visibility missions, or transfers them to training commands. 
 
 [P]Any group can benefit from the honed dogfighting skills of a Hotshot. However, despite the Hotshot's predilection for flying into combat ahead of his squadron, he works best when he has a team not far behind, cleaning up whatever enemies the Hotshot misses. A vehicle formation with a Hotshot in the lead usually results in a costly engagement for the enemy, as long as the Hotshot's luck holds out.</Description>
-  <Source>Stay on Target</Source>
+  <Source Page="28">Stay on Target</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>COOL</Key>

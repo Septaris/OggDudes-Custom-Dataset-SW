@@ -1,41 +1,37 @@
 <?xml version="1.0"?>
 <Specialization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Key>SHIICHO</Key>
-  <Name>Shii-Cho Knight</Name>
-  <Description>[H4]Shii-Cho Knight[h4]
+  <Key>SORESU</Key>
+  <Name>Soresu Defender</Name>
+  <Description>[H4]Soresu Defender[h4]
 
-The ancient lightsaber fighting style of Shii-Cho is said to be the first lightsaber form taught to the Jedi and their predecessors. It focuses on the essentials of saber fighting and borrows heavily from other sword fighting techniques. Appropriately, the modern practitioners of this form focus on perfecting the core tenants of sword fighting, recognizing the strength of simplicity. Shii-Cho Knights eschew fancy maneuvers, preferring to focus on the fundamentals of block, parry. and strike. 
+Guardians frequently and deliberately put themselves in harm's way in order to aid others. However, just as the Protector is unmatched at keeping others safe. the Soresu Defender has mastered the art of self defense. With lightsaber in hand, Soresu Defenders can fend off hordes of enemies or stand firm against hails of blaster fire. surviving the worst the enemy can throw at them. 
 
-[P]Shii-Cho Knights acquire [B]Athletics, Coordination, Lightsaber,[b] and [B]Melee[b] as additional career skills. If this is the character's starting specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. These skills provide them with a solid grounding in the core techniques of any physical conflict. They are familiar with the weapon they wield, but they are also very comfortable exploiting their natural athleticism and flexibility. Because of this, they can not only avoid an enemy's attack, but also make certain that they are able to strike effectively when their target is at a disadvantage.
+[P]A Soresu Defender earns additional career skill access to [B]Discipline, Knowledge (Lore), Lightsaber,[b] and [B]Vigilance[b]. If this is the character's starting specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. With this combination of skills, the character can maintain constant vigilance, recognize threats, and remain resolute in the face of danger. 
 
-[P]Followers of this path are seldom concerned with personal appearances or the style that they exhibit in a conflict. Instead, they are focused on precision and on achieving their ultimate goal of victory. For them, a solid grounding in the basics is something they can rely on in any situation. When lives are on the line, they devote their attention to executing their maneuvers in a traditional way, using them to counter an opponent while simultaneously restricting his options.</Description>
-  <Source>Force and Destiny Core Rulebook</Source>
+[P]Soresu Defenders depend on the Force to guide them through dangers. Their techniques rest almost entirely on knowing how best to use their weapons for defensive purposes. In many ways, this style approaches the level of precognition, as the Force guides its practitioners to use their weapons to deflect an incoming attack or to move out of the way of an assault. Individuals who are unaware of their Force potential can become accomplished martial artists using these techniques, but true Soresu Defenders must be sensitive to the Force.</Description>
+  <Source Page="77">Force and Destiny Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
-    <Key>ATHL</Key>
-    <Key>COORD</Key>
+    <Key>DISC</Key>
     <Key>LTSABER</Key>
-    <Key>MELEE</Key>
+    <Key>LORE</Key>
+    <Key>VIGIL</Key>
   </CareerSkills>
   <TalentRows>
     <TalentRow>
       <Cost>5</Cost>
       <Talents>
         <Key>PARRY</Key>
-        <Key>SECWIND</Key>
-        <Key>TOUGH</Key>
         <Key>PARRY</Key>
+        <Key>TOUGH</Key>
+        <Key>DEFSTA</Key>
       </Talents>
       <Directions>
         <Direction>
           <Down>true</Down>
         </Direction>
-        <Direction>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Down>true</Down>
-        </Direction>
+        <Direction />
+        <Direction />
         <Direction>
           <Down>true</Down>
         </Direction>
@@ -44,10 +40,10 @@ The ancient lightsaber fighting style of Shii-Cho is said to be the first lights
     <TalentRow>
       <Cost>10</Cost>
       <Talents>
-        <Key>SECWIND</Key>
-        <Key>CONDITIONED</Key>
-        <Key>MULTOPP</Key>
-        <Key>DURA</Key>
+        <Key>SORESUTECH</Key>
+        <Key>REFLECT</Key>
+        <Key>GRIT</Key>
+        <Key>GRIT</Key>
       </Talents>
       <Directions>
         <Direction>
@@ -58,12 +54,10 @@ The ancient lightsaber fighting style of Shii-Cho is said to be the first lights
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
-          <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
-          <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
@@ -75,17 +69,13 @@ The ancient lightsaber fighting style of Shii-Cho is said to be the first lights
     <TalentRow>
       <Cost>15</Cost>
       <Talents>
-        <Key>QUICKDR</Key>
-        <Key>GRIT</Key>
+        <Key>CONF</Key>
+        <Key>PARRYIMP</Key>
+        <Key>DEFCIRCLE</Key>
         <Key>PARRY</Key>
-        <Key>DEFTRAIN</Key>
       </Talents>
       <Directions>
         <Direction>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
@@ -98,6 +88,10 @@ The ancient lightsaber fighting style of Shii-Cho is said to be the first lights
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Up>true</Up>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
@@ -106,10 +100,10 @@ The ancient lightsaber fighting style of Shii-Cho is said to be the first lights
     <TalentRow>
       <Cost>20</Cost>
       <Talents>
-        <Key>NATBLADE</Key>
-        <Key>SARSWEEP</Key>
-        <Key>PARRYIMP</Key>
-        <Key>SUMDJEM</Key>
+        <Key>PARRY</Key>
+        <Key>REFLECT</Key>
+        <Key>REFLECT</Key>
+        <Key>DEFSTA</Key>
       </Talents>
       <Directions>
         <Direction>
@@ -119,12 +113,14 @@ The ancient lightsaber fighting style of Shii-Cho is said to be the first lights
         </Direction>
         <Direction>
           <Left>true</Left>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
           <Right>true</Right>
           <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Left>true</Left>
+          <Right>true</Right>
+          <Up>true</Up>
+          <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
@@ -135,10 +131,10 @@ The ancient lightsaber fighting style of Shii-Cho is said to be the first lights
     <TalentRow>
       <Cost>25</Cost>
       <Talents>
-        <Key>CENTBEING</Key>
-        <Key>DURA</Key>
+        <Key>PARRYSUP</Key>
         <Key>DEDI</Key>
-        <Key>PARRY</Key>
+        <Key>REFLECTIMP</Key>
+        <Key>STRATFORM</Key>
       </Talents>
       <Directions>
         <Direction>
@@ -148,11 +144,11 @@ The ancient lightsaber fighting style of Shii-Cho is said to be the first lights
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
-          <Up>true</Up>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
+          <Up>true</Up>
         </Direction>
         <Direction>
           <Left>true</Left>

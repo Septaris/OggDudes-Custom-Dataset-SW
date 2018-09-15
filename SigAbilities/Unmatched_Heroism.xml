@@ -3,7 +3,7 @@
   <Key>UNMATCHHERO</Key>
   <Name>Unmatched Heroism</Name>
   <Description>The act of sheltering allies is frequently a literal one for Guardians. This signature ability allows Guardians to intercept attacks meant for friends, taking mighty strikes in their allies' place. Since Guardians often have the means of mitigating incoming attacks, from deft sword skills to resilient armor to Force-enhanced toughness, they can often resist strikes that would incapacitate or even slay their comrades. Some Guardians can even capitalize on being hit, launching counterstrikes or otherwise smiting foes who strike at them. Armed with this signature ability, a Guardian can safeguard a whole party against numerous foes for several rounds.</Description>
-  <Source>Keeping the Peace</Source>
+  <Source Page="37">Keeping the Peace</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

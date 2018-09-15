@@ -9,7 +9,7 @@ Few are as capable of exploring a planet and discovering its secrets as a Pathfi
 [P]Some Pathfinders follow this career because they discover they have a knack for independent survival. This is most commonly true for Force-sensitive Individuals who matured on primitive and uncivilized planets. If his small community was surrounded by hostile wilderness, a character is certain to have spent his youth exploring that environment—likely making friends with many of the wild animals present there. Pathfinders' natural abilities likely led them to a position of some responsibility within their tribe. Their roles might have included securing the safety of the surrounding wilderness and maintaining any trails leading to agricultural resources or other necessities needed by the community's residents. 
 
 [P]Others who follow the Pathfinder career do so out of a preference for the company of animals over that of sentient beings. Through their Force abilities, some learn to establish effective communications with the relatively primitive minds. In these interactions, they find that they enjoy the sincerity and straightforward nature of wild creatures.</Description>
-  <Source>Force and Destiny Core Rulebook</Source>
+  <Source Page="89">Force and Destiny Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>MED</Key>
