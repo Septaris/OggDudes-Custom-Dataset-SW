@@ -20,25 +20,31 @@
 [P]The clever Colonists—the ones most likely to survive their first few months in the Outer Rim—figure out how to parlay their knowledge and talents into currency and contacts. Providing excellent advice, medical aid, or valuable knowledge can easily endear a Colonist to a warlord or gang leader, giving him the very thing he needs most: security. From a position of relative safety, a wise Colonist will begin gathering connections and data, building up a network that he can one day exploit for his aims, whatever they may be. 
 
 [P]Colonists are the consummate leaders, negotiators, inspirational speakers, and strategists. A Colonist can take any small group of capable operators and turn them into a true force to be reckoned with. A capable Colonist in a group can mean the difference between just getting by and doing something truly spectacular in the galaxy.</Description>
-  <Source>Edge of the Empire Core Rulebook</Source>
-  <Custom>DescOnly</Custom>
+  <Source Page="62">Edge of the Empire Core Rulebook</Source>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>CHARM</Key>
-    <Key>DECEP</Key>
     <Key>CORE</Key>
+    <Key>DECEP</Key>
     <Key>EDU</Key>
-    <Key>LORE</Key>
     <Key>LEAD</Key>
+    <Key>LORE</Key>
     <Key>NEG</Key>
     <Key>SW</Key>
   </CareerSkills>
   <Specializations>
     <Key>DOCTOR</Key>
-    <Key>POLITICO</Key>
-    <Key>SCHOLAR</Key>
     <Key>ENTREPRENEUR</Key>
+    <Key>FORCEADHERENT</Key>
+    <Key>IMPERIALACADEMYCADET</Key>
     <Key>MARSHAL</Key>
+    <Key>PADAWANSURVIVOR</Key>
     <Key>PERFORMER</Key>
+    <Key>PIRATE</Key>
+    <Key>POLITICO</Key>
+    <Key>RETIREDCLONETROOPER</Key>
+    <Key>SCHOLAR</Key>
+    <Key>SHIPCAPTAIN</Key>
   </Specializations>
   <Attributes />
   <FreeRanks>4</FreeRanks>

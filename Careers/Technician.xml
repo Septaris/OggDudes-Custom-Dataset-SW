@@ -17,21 +17,30 @@
 [P]This is why Technicians tend to gravitate to one another socially, or bond with someone who has an appreciation for machinery. Gadgeteer-oriented Bounty Hunters and Smugglers are most likely to befriend a Technician in a group. This can be a mutually beneficial relationship, considering all of the wonderful things a technically proficient individual can do for someone's gear. 
 
 [P]Like Pilots and Doctors, Technicians of almost any specialization will have a relatively easy time finding work in the Outer Rim. Every operation, from small farmsteads to large space stations, has need of those who can keep the tech running. Criminal overlords particularly enjoy having a Technician on their payroll, not only to take care of their many assets, but also to craft the occasional "toy" for them with which to surprise their enemies.</Description>
-  <Source>Edge of the Empire Core Rulebook</Source>
-  <Custom>DescOnly</Custom>
+  <Source Page="86">Edge of the Empire Core Rulebook</Source>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>ASTRO</Key>
     <Key>COMP</Key>
     <Key>COORD</Key>
     <Key>DISC</Key>
-    <Key>OUT</Key>
     <Key>MECH</Key>
+    <Key>OUT</Key>
     <Key>PERC</Key>
     <Key>PILOTPL</Key>
   </CareerSkills>
   <Specializations>
+    <Key>CYBERTECH</Key>
+    <Key>DROIDTECH</Key>
+    <Key>FORCEADHERENT</Key>
+    <Key>IMPERIALACADEMYCADET</Key>
     <Key>MECHANIC</Key>
+    <Key>MODDER</Key>
     <Key>OUTLAW</Key>
+    <Key>PADAWANSURVIVOR</Key>
+    <Key>PIRATE</Key>
+    <Key>RETIREDCLONETROOPER</Key>
+    <Key>SHIPCAPTAIN</Key>
     <Key>SLICER</Key>
   </Specializations>
   <Attributes />

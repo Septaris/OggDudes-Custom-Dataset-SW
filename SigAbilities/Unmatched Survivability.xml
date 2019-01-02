@@ -9,11 +9,9 @@ Flying speeders and fighters into combat is a dangerous job. Amidst the chaos of
 
 [P][H4]&lt;font size=1&gt;Please see page 37 of the Stay on Target Sourcebook for details.&lt;/font&gt;[h4]</Description>
   <Source>Stay on Target</Source>
-  <Sources />
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>
-      <Index>0</Index>
       <Abilities>
         <Key>UNMATCHEDSURVBASE</Key>
         <Key>UNMATCHEDSURVBASE</Key>
@@ -22,29 +20,15 @@ Flying speeders and fighters into combat is a dangerous job. Amidst the chaos of
       </Abilities>
       <Directions>
         <Direction>
-          <Left>false</Left>
-          <Right>false</Right>
-          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>false</Left>
-          <Right>false</Right>
-          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>false</Left>
-          <Right>false</Right>
-          <Up>false</Up>
           <Down>true</Down>
         </Direction>
-        <Direction>
-          <Left>false</Left>
-          <Right>false</Right>
-          <Up>false</Up>
-          <Down>false</Down>
-        </Direction>
+        <Direction />
       </Directions>
       <AbilitySpan>
         <Span>4</Span>
@@ -84,7 +68,6 @@ Flying speeders and fighters into combat is a dangerous job. Amidst the chaos of
       </Costs>
     </AbilityRow>
     <AbilityRow>
-      <Index>0</Index>
       <Abilities>
         <Key>UNMATCHEDSURVSIL</Key>
         <Key>UNMATCHEDSURVFREQ</Key>
@@ -93,27 +76,19 @@ Flying speeders and fighters into combat is a dangerous job. Amidst the chaos of
       </Abilities>
       <Directions>
         <Direction>
-          <Left>false</Left>
-          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>false</Left>
-          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
-          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
-          <Right>false</Right>
-          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
@@ -131,7 +106,6 @@ Flying speeders and fighters into combat is a dangerous job. Amidst the chaos of
       </Costs>
     </AbilityRow>
     <AbilityRow>
-      <Index>0</Index>
       <Abilities>
         <Key>UNMATCHEDSURVSIL</Key>
         <Key>UNMATCHEDSURVDEST</Key>
@@ -140,28 +114,21 @@ Flying speeders and fighters into combat is a dangerous job. Amidst the chaos of
       </Abilities>
       <Directions>
         <Direction>
-          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
-          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
-          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
-          <Up>false</Up>
-          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
-          <Right>false</Right>
           <Up>true</Up>
-          <Down>false</Down>
         </Direction>
       </Directions>
       <AbilitySpan>

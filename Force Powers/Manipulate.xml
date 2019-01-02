@@ -2,7 +2,7 @@
 <ForcePower xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Key>MANIPULATE</Key>
   <Name>Manipulate</Name>
-  <Description>[H4]Manipulate[h4]
+  <Description>[H4]Force Power: Manipulate[h4]
 The Force user shapes machine components on a molecular level, allowing better crafting and repairing of items.
 [P]The Force user may spend [FP] to cause one vehicle or ship he is engaged with to recover one system strain. The user may activate this multiple times, increasing the system strain recovered by one each time.
 </Description>

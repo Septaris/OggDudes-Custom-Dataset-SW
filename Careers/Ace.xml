@@ -13,8 +13,8 @@ An Ace's eight career skills are [B]Astrogation, Cool, Gunnery, Mechanics, Perce
 [P]Just getting from one place to another is not enough for the Ace; this flier wants to get there faster, and to do so with style. He'd rather dive headlong into an asteroid field with half a dozen ships on his tail than safely move cargo down a well-traveled hyperspace lane. Aces are not the kind of people most transport companies want to hire to move their goods. They are, however, in very high demand when it comes to ship-to-ship combat of any kind, or when war machines need to be maneuvered into place during a planet-side battle. 
 
 [P]The Ace isn't just a master of piloting and driving, but often has a gift for using vehicular weapons to deadly effect. He understands that shooting is about more than merely looking through a scope and pulling a trigger—leading the target, compensating for the complexities of moving bodies in space, and aiming for vulnerable systems make the Ace a force to be reckoned with in any dogfight or speeder chase.</Description>
-  <Source>Age of Rebellion Core Rulebook</Source>
-  <Custom>DescOnly</Custom>
+  <Source Page="64">Age of Rebellion Core Rulebook</Source>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>ASTRO</Key>
     <Key>COOL</Key>
@@ -26,12 +26,18 @@ An Ace's eight career skills are [B]Astrogation, Cool, Gunnery, Mechanics, Perce
     <Key>RANGLT</Key>
   </CareerSkills>
   <Specializations>
-    <Key>DRIVER</Key>
-    <Key>GUNNER</Key>
-    <Key>PILOT</Key>
     <Key>BEASTRIDER</Key>
+    <Key>DRIVER</Key>
+    <Key>FORCEADHERENT</Key>
+    <Key>GUNNER</Key>
     <Key>HOTSHOT</Key>
+    <Key>IMPERIALACADEMYCADET</Key>
+    <Key>PADAWANSURVIVOR</Key>
+    <Key>PILOT</Key>
+    <Key>PIRATE</Key>
+    <Key>RETIREDCLONETROOPER</Key>
     <Key>RIGGER</Key>
+    <Key>SHIPCAPTAIN</Key>
   </Specializations>
   <Attributes />
   <FreeRanks>4</FreeRanks>

@@ -28,9 +28,15 @@ A Spy's eight career skills are [B]Computers, Cool, Coordination, Deception, Kno
   </CareerSkills>
   <Specializations>
     <Key>COURIER</Key>
+    <Key>FORCEADHERENT</Key>
+    <Key>IMPERIALACADEMYCADET</Key>
     <Key>INFILTRATOR</Key>
     <Key>INTERROGATOR</Key>
+    <Key>PADAWANSURVIVOR</Key>
+    <Key>PIRATE</Key>
+    <Key>RETIREDCLONETROOPER</Key>
     <Key>SCOUT</Key>
+    <Key>SHIPCAPTAIN</Key>
     <Key>SLEEPERAGENT</Key>
     <Key>SLICER</Key>
   </Specializations>

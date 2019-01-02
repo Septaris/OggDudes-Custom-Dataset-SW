@@ -1,38 +1,30 @@
 <?xml version="1.0"?>
 <Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Key>FANGFIGHT</Key>
+  <Key>DORFANGFIGHTER</Key>
   <Name>Fang Fighter</Name>
-  <Description>[H3]Mandalorian Protectorate Fang Fighter[h3]
-The designers of the Mandalorian Protectorate starfighter, or Fang fighter, consider it to be the pinnacle of space fighters, building on the tradtion of the much larger Guantlet fighter. Instead of acting as a heavy fighter and transport like its older sibling, however, the Fang fighter is a precision strike fighter used by the Concord Dawn Protectors, a militia are known and feared throughout the Mandalorian sector. Flown by some of the best pilots in the secotr, the Fang fighter is a common sight both in the Concord Dawn system and throughout the sector.
-[P]An elegent, broad-shouldered starfighter with an aggressive look, the Fang fighter is unlike anything else in its class. With its thin, angular silhoette and cranked-delta planform, there is no mistaking a Fang fighter as it speeds through space. This fuselage is a small, elongated haxagon with a single, massive high-output ion engine dominating the aft section, and a low-profile cnaopy covering the midships-mounted cockpit. Two massive, articulated S-foils—half again as long as the fuselage—are mounted to the fuselage, each one mounting a single huge ion engine and the majority of the ship's weapon systems. The S-foils can rotate, and be raised an lowered through an impressive range of motion which combined with the engines' sophisticated vectored thrust system, advanced flight control systems, and clever use of automated vernier thrusters, make these big fighters shockingly agile.
-[P]The Fang fighter's standard weapons loadout is, at first glance, relatively light. A pair of medium laser cannons mounted in the S-foils makes up the bulk of the fighter's wepaon systems. Mounted in the fighter's belly however, just forward of the cockpit, is a retractable proton torpedo launcher carrying a single torpedo. The torpedo launcher, although it gives the fighter much needed tactical flexiblity and the ability to punch well above its weight, is used sparingly by Protectorate pilots and its presence is not widely known. While they carry no shields, the Fang fighters have a studily built fuselage covered in heavy armor designed to absorb or deflect most incoming ordnance or energy blasts. In addition, the ship's blistering speed and remarkable agility, combinged with its narrow silhoette, make the ship an incredibly hard target to hit.
-[P]Most of these impressive fighters were sold to the Protectorate, but a small handful have made it to the open market in one way or another. The Black Sun Syndicate has resold some of these ships that have made their way away from Concord Dawn Protectors, though these craft remain difficult to track down and thus are in demand among collectors and mercenary pilots alike.</Description>
-  <Source Page="58">No Disintegrations</Source>
-  <Custom>DescOnly</Custom>
+  <Description>[H3]Protector Fang Fighter[h3]
+Built for the Protectors' exclusive use, this agile starfighter is based on the designs for the Death Watch Gauntlet fighter used in the Clone Wars. The Fang fighter, however, is more compact and agile. Combining blazing speeds rarely found in other snubfighters with a unique pivot wing design to allow for unmatched maneuverability, the Fang Fighter is almost unrivaled when it comes to dogfighting. With dual laser cannons mounted on its rotating wingtips and a hidden proton torpedo launcher in its underbelly, the Fang fighter is capable of quickly destroying more heavily armored starfighters. Unfortunately, its lack of heavy armor, which allows it to maintain precision maneuverability, means that the Fang fighter can be destroyed with a few well aimed laser blasts.</Description>
+  <Source Page="86">Dawn of Rebellion</Source>
+  <Custom>AddedItem</Custom>
   <Type>Starfighter</Type>
   <Categories>
     <Category>Starship</Category>
   </Categories>
   <HP>1</HP>
-  <Price>120000</Price>
-  <Rarity>9</Rarity>
-  <BaseMods>
-    <Mod>
-      <Count>1</Count>
-      <MiscDesc>[B]Narrow Attack Profile[b]: Enemies at close range count this ship's silhouette as 1 lower (min 1) for determining attack difficulty.</MiscDesc>
-    </Mod>
-  </BaseMods>
-  <HyperdrivePrimary>2</HyperdrivePrimary>
-  <NaviComputer>true</NaviComputer>
+  <Price>185000</Price>
+  <Rarity>7</Rarity>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot</Crew>
-  <EncumbranceCapacity>2</EncumbranceCapacity>
-  <Consumables>One day</Consumables>
+  <EncumbranceCapacity>4</EncumbranceCapacity>
+  <Consumables>Three days</Consumables>
   <Silhouette>3</Silhouette>
   <Speed>6</Speed>
   <Handling>3</Handling>
+  <DefFore>1</DefFore>
+  <DefAft>1</DefAft>
   <Armor>2</Armor>
-  <HullTrauma>12</HullTrauma>
-  <SystemStrain>10</SystemStrain>
+  <HullTrauma>6</HullTrauma>
+  <SystemStrain>8</SystemStrain>
   <Starship>true</Starship>
   <SinglePilot>true</SinglePilot>
   <VehicleWeapons>
@@ -47,7 +39,7 @@ The designers of the Mandalorian Protectorate starfighter, or Fang fighter, cons
           <Count>1</Count>
         </Quality>
       </Qualities>
-      <Key>LASERLT</Key>
+      <Key>LASERMED</Key>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
@@ -58,5 +50,5 @@ The designers of the Mandalorian Protectorate starfighter, or Fang fighter, cons
       <Key>PTL</Key>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
+  <SensorRange>Short</SensorRange>
 </Vehicle>

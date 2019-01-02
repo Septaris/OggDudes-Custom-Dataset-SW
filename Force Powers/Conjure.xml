@@ -2,9 +2,10 @@
 <ForcePower xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Key>CONJURE</Key>
   <Name>Conjure</Name>
-  <Description>Enter description for Force Power "Conjure" here.
-</Description>
-  <Source>User Data</Source>
+  <Description>[H4]Force Power: Conjure[h4]
+Some of the more esoteric uses of the Force can seem like magic to the ignorant and uninformed. While most Force users can move objects with their mind and sense what's going on around them with otherworldly perception, some Force-sensitives can do far stranger and more wondrous things. These individuals often learn the ways of the Force as a part of one of the many minor Force traditions scattered around the galaxy. Organizations such as the now-destroyed Nightsisters of Dathomir or the secretive Dagoyan Order teach ways to use the Force that would seem strange to most of the ancient Jedi, or those who no struggle to inherit their mantle.
+[P] The Nightsisters were known to be able to use the Force to summon a glowing green ichor known as the "Waters of Life." With this, they could form tools, weapons, and even facsimiles of living creatures. While this power could not create complicated technological implements such as a blaster or a speeder bike, the most powerful Nightsisters were said to have been able to conjure blades that could withstand a Jedi's lightsaber, and even imbue the bodies of the dead with a ghastly parody of life.</Description>
+  <Source Page="39">Unlimited Power</Source>
   <Custom>AddedItem</Custom>
   <AbilityRows>
     <AbilityRow>
@@ -82,7 +83,7 @@
       <Abilities>
         <Key>CONJUREMAGNITUDE</Key>
         <Key>CONJUREMAGNITUDE</Key>
-        <Key>CONJURECONTROL</Key>
+        <Key>CONJURECONTROL1</Key>
         <Key>CONJUREDURATION</Key>
       </Abilities>
       <Directions>
@@ -120,7 +121,7 @@
     <AbilityRow>
       <Abilities>
         <Key>CONJURENUMBER</Key>
-        <Key>CONJURECONTROLOFF</Key>
+        <Key>CONJURECONTROL2</Key>
         <Key>CONJURERANGE</Key>
         <Key>CONJUREDURATION</Key>
       </Abilities>

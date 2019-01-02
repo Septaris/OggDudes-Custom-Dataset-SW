@@ -3,7 +3,7 @@
   <Key>INSIGHTREVEL</Key>
   <Name>Insightful Revelation</Name>
   <Description>Many fringers may scoff at the highly educated individual, mocking him as an ivory tower academic with no experience in the real world. What most people don't realize is just how effective the academic can be when he applies his formidable intellect and lengthy education to the task at hand. When confronted with an impossible quandary, the Colonist can use his vast store of knowledge to analyze the problem and arrive at a solution nobody else could have even begun to figure out.</Description>
-  <Source Page="36">Far Horizons</Source>
+  <Source>Far Horizons</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

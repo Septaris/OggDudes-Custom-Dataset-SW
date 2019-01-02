@@ -151,7 +151,7 @@ per success) per encounter. The difficulty of the Mechanics check is determined 
   <VehAction>
     <Key>ACCDEC</Key>
     <Name>Accelerate/Decelerate</Name>
-    <Description>Any The pilot may increase or decrease the ship or vehicle's current speed by one, to a minimum of zero or a maximum of the ship's maximum speed rating.</Description>
+    <Description>The pilot may increase or decrease the ship or vehicle's current speed by one, to a minimum of zero or a maximum of the ship's maximum speed rating.</Description>
     <Custom>DescOnly</Custom>
     <PilotOnly>true</PilotOnly>
     <ActionTypeValue>vaAction</ActionTypeValue>

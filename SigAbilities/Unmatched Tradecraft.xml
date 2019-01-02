@@ -1,18 +1,17 @@
 <?xml version="1.0"?>
 <SigAbility xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Key>UNMATCHEDTRADE</Key>
+  <Key>UNMATCHEDTRAD</Key>
   <Name>Unmatched Tradecraft</Name>
-  <Description>Enter description for Signature Ability "Unmatched Tradecraft" here.
-</Description>
-  <Source>User Data</Source>
+  <Description>The essence of tradecraft is that of perfect deception. The greatest of espionage agents turn adopting false identities, spouting convincing cover stories at a moment's notice, moving across secured areas without detection, picking locks, and other vital skills into art forms. They are not simply skilled at performing deception—to them, deception is an almost reflexive action, seamlessly brought into play before an enemy might even think to detect it. When facing such masters of tradecraft, even the most disciplined of security guards, high-ranking military officers, or opposing agents might be forgiven for falling for the deceptions these master spies utilize in the hidden war.</Description>
+  <Source Page="35">Cyphers and Masks</Source>
   <Custom>AddedItem</Custom>
   <AbilityRows>
     <AbilityRow>
       <Abilities>
-        <Key>UNMATCHEDTRADEBASE</Key>
-        <Key>UNMATCHEDTRADEBASE</Key>
-        <Key>UNMATCHEDTRADEBASE</Key>
-        <Key>UNMATCHEDTRADEBASE</Key>
+        <Key>UNMATCHEDTRADBASE</Key>
+        <Key>UNMATCHEDTRADBASE</Key>
+        <Key>UNMATCHEDTRADBASE</Key>
+        <Key>UNMATCHEDTRADBASE</Key>
       </Abilities>
       <Directions>
         <Direction>
@@ -65,10 +64,10 @@
     </AbilityRow>
     <AbilityRow>
       <Abilities>
-        <Key>UNMATCHEDTRADESETBACK</Key>
-        <Key>UNMATCHEDTRADENUMBER</Key>
-        <Key>UNMATCHEDTRADESTEALTH</Key>
-        <Key>UNMATCHEDTRADESKULLDUGGERY</Key>
+        <Key>UNMATCHEDTRADSETBACK</Key>
+        <Key>UNMATCHEDTRADNUMBER</Key>
+        <Key>UNMATCHEDTRADSTEALTH</Key>
+        <Key>UNMATCHEDTRADSKULDUGGERY</Key>
       </Abilities>
       <Directions>
         <Direction>
@@ -103,10 +102,10 @@
     </AbilityRow>
     <AbilityRow>
       <Abilities>
-        <Key>UNMATCHEDTRADECHALLENGE</Key>
-        <Key>UNMATCHEDTRADEDESTINY</Key>
-        <Key>UNMATCHEDTRADEFREQ</Key>
-        <Key>UNMATCHEDTRADENUMBER</Key>
+        <Key>UNMATCHEDTRADCHALLENGE</Key>
+        <Key>UNMATCHEDTRADDESTINY</Key>
+        <Key>UNMATCHEDTRADFREQ</Key>
+        <Key>UNMATCHEDTRADNUMBER</Key>
       </Abilities>
       <Directions>
         <Direction>

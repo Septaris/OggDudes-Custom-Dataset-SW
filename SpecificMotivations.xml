@@ -2540,4 +2540,479 @@ whatever it takes to accomplish this.</Description>
     <Custom>DescOnly</Custom>
     <Motivation>Conflict</Motivation>
   </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>GROWTH10</Key>
+    <Name>Apprentice</Name>
+    <Description>
+      [H4]Apprentice[h4]
+Some Consulars are focused less on their own growth and more on the personal growth of others. These Consulars see great potential in a student and hope to guide that student on a path in keeping with their own ideals.</Description>
+    <Source Page="32">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Motivation>Growth</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>GROWTH8</Key>
+    <Name>Knowledge</Name>
+    <Description>
+      [H4]Knowledge[h4]
+The galaxy is in a state of turmoil and tyranny thanks to the Galactic Empire, which exercises absolute control over the flow of information. Many Consulars realize that breaking the restriction of information and sharing that knowledge with those around them are the only ways to check the darker forces in the galaxy.</Description>
+    <Source Page="32">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Motivation>Growth</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>GROWTH9</Key>
+    <Name>Wisdom/Experience</Name>
+    <Description>
+      [H4]Wisdom/Experience[h4]
+Most Consulars aspire to be wise leaders or advisors, enabling those in their orbit to lead happier, fuller lives. Unlike knowledge, wisdom comes only from doing, by experiencing life in all its challenges. Those seeking wisdom often search for those who have it and, more importantly, have a zeal for experiencing, seeing, and trying new things to broaden their perspective. </Description>
+    <Source Page="32">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Motivation>Growth</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>GROWTH6</Key>
+    <Name>Allies</Name>
+    <Description>
+      [H4]Allies[h4]
+Consulars know that achieving a lasting peace can only happen when lines of communication between various factions are open to diplomacy. Growing and strengthening friendly, diplomatic connections between groups is a way to ensure they keep talking to each other and only engage in violence as a last resort. This might mean bringing a small community closer together, overseeing diplomatic negotiations between warring planets, or bringing new resistance movements into the Rebel Alliance fold.</Description>
+    <Source Page="32">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Motivation>Growth</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>GROWTH7</Key>
+    <Name>Community</Name>
+    <Description>
+      [H4]Community[h4]
+While many Consulars take a macro view of the galaxy, just as many find that perspective fat too detached from the beings who inhabit it. Consulars focused on community think small, believing that peace is a natural result when community members grow together and engage in the lives of their neighbors.</Description>
+    <Source Page="32">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Motivation>Growth</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>GROWTH4</Key>
+    <Name>The Jedi Order</Name>
+    <Description>
+      [H4]The Jedi Order[h4]
+Many Consulars believe the only way to restore peace and harmony to the galaxy is to rebuild the Jedi Order. This means not only locating and training other Force sensitives, but also convincing those in hiding to do the same. It can also mean helping those fallen to the dark side become Jedi once again. Consulars with this Motivation may wish to spread the ideals of the Jedi Order, even to those who cannot touch the Force.</Description>
+    <Source Page="32">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Motivation>Growth</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>GROWTH5</Key>
+    <Name>Life</Name>
+    <Description>
+      [H4]Life[h4]
+Life itself creates the Force, and places teeming with life tend to be strong in the Force. PCs with this Motivation hope to see life flourish everywhere and do their part to help life along. This might mean using their unique skills to stop war, plague, or famine. This Motivation can also express itself in smaller ways, such as cultivating a garden or planting seeds of nearly extinct species wherever the Consular goes.</Description>
+    <Source Page="32">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Motivation>Growth</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>GROWTH2</Key>
+    <Name>Friendship</Name>
+    <Description>
+      [H4]Friendship[h4]
+Trust in the Force, and it often provides its servants with all they might need. The solution to any puzzle is often a matter of obtaining the right perspective or finding the right person for the job. Consulars looking to grow their circle of friends know that being kind and generous to others is its own reward and often brings kindness and generosity back tenfold. Though Jedi were warned against attachment, most had many friends from their travels.</Description>
+    <Source Page="32">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Motivation>Growth</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>GROWTH3</Key>
+    <Name>Hope</Name>
+    <Description>
+      [H4]Hope[h4]
+It is a dark time for the galaxy, when the Empire crushes resistance and those who are different without care. In this era of oppression, many Consulars know that the best they can offer the downtrodden is the hope that one day things can get better. These PCs have visions of hope spreading across the galaxy, and seek to inspire even the lowliest beggar or prisoner to hope again.</Description>
+    <Source Page="32">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Motivation>Growth</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>GROWTH1</Key>
+    <Name>Force Connection</Name>
+    <Description>
+      [H4]Force Connection[h4]
+For many Consulars, the Force is like water, flowing between the life that creates it and the Consular, connecting them. For most, this flow of energy is a mere trickle, but with effort and time, it can flow like a powerful river. PCs with the Force Connection Growth Motivation seek new means to expand their connection to the Force, certain that as their connection grows, the means to bring peace to the galaxy becomes clearer.</Description>
+    <Source Page="32">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Motivation>Growth</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>IMPROVE1</Key>
+    <Name>Accuracy</Name>
+    <Description>
+      [H4]Accuracy[h4]
+Precision is important, in everything from sensors to weapons. These Engineers can become passionate over increasing exactness in all things, and might hate the Empire all the more for the way it twists truths and rewrites history.
+    </Description>
+    <Source Page="32">Fully Operational</Source>
+    <Custom>CustomItem</Custom>
+    <Motivation>Improvements</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>IMPROVE2</Key>
+    <Name>Challenge</Name>
+    <Description>
+      [H4]Challenge[h4]
+It would be easier to leave things as they are, but these Engineers view difficulty as part of the reward and a sign of their prowess. Similarly, the struggle against the Empire is perhaps the most important challenge they face.</Description>
+    <Source Page="32">Fully Operational</Source>
+    <Custom>CustomItem</Custom>
+    <Motivation>Improvements</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>IMPROVE3</Key>
+    <Name>Lethality</Name>
+    <Description>
+      [H4]Lethality[h4]
+It is clear to these Engineers that the more deadly the weapon, the better it is. They may also strive to make themselves as dangerous as possible through martial trainig and physical conditioning.
+    </Description>
+    <Source Page="32">Fully Operational</Source>
+    <Custom>CustomItem</Custom>
+    <Motivation>Improvements</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>IMPROVE4</Key>
+    <Name>Aesthetics</Name>
+    <Description>
+      [H4]Aesthetics[h4]
+These Engineers search for ways to make their creations as pleasing to look at as they are effective; some apply this personality to improve their social interactions and thus garner more support for their efforts.</Description>
+    <Source Page="32">Fully Operational</Source>
+    <Custom>CustomItem</Custom>
+    <Motivation>Improvements</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>IMPROVE5</Key>
+    <Name>Reliability</Name>
+    <Description>
+      [H4]Reliability[h4]
+Weapons and ships that won't work cannot serve the Rebellion, so Engineers cannot allow them to become or remain unreliable. Increasing dependability not only aids in the war, but increases morale and fighting effectiveness.
+    </Description>
+    <Source Page="32">Fully Operational</Source>
+    <Custom>CustomItem</Custom>
+    <Motivation>Improvements</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>IMPROVE6</Key>
+    <Name>Flexibility</Name>
+    <Description>
+      [H4]Flexibility[h4]
+Good Engineers work toward making sure everything - from tools to tanks - can be used in a variety of ways. These Engineers might also seek to improve themselves so that they are able to perform a wide variety of tasks.
+    </Description>
+    <Source Page="32">Fully Operational</Source>
+    <Custom>CustomItem</Custom>
+    <Motivation>Improvements</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>IMPROVE7</Key>
+    <Name>Durability</Name>
+    <Description>
+      [H4]Durability[h4]
+Replacement items are always an issue, so everything in the Rebellion must last as long as possible. Engineers are always working to ensure weapons and vehicles function longer and to craft defenses to ensure they survive to fight another day.</Description>
+    <Source Page="32">Fully Operational</Source>
+    <Custom>CustomItem</Custom>
+    <Motivation>Improvements</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>IMPROVE8</Key>
+    <Name>Makeshift</Name>
+    <Description>
+      [H4]Makeshift[h4]
+Anyone can improve things given sufficient resources, but true artisans can take whatever might be around and craft mechanical art. While Rebels are often starved for parts, these Enginers might deliberately use improvised items to create personal works.</Description>
+    <Source Page="32">Fully Operational</Source>
+    <Custom>CustomItem</Custom>
+    <Motivation>Improvements</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>IMPROVE9</Key>
+    <Name>Simplicity</Name>
+    <Description>
+      [H4]Simplicity[h4]
+The best items are the ones that perform their functions in a basic manner, and Engineers work to eliminate anything that stands in the way of this goal. Lives are also lived best this way, but the Empire's harsh oversight or all aspects of its citizenry is in direct opposition to thie ideal.</Description>
+    <Source Page="32">Fully Operational</Source>
+    <Custom>CustomItem</Custom>
+    <Motivation>Improvements</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>IMPROVE10</Key>
+    <Name>Efficiency</Name>
+    <Description>
+      [H4]Efficiency[h4]
+Fuel and materiel are always being wasted, and these Engineers are driven to eliminate such losses at every opportunity. The Empire wastes lives and productivity, adding yet another reason for its elimination.
+    </Description>
+    <Source Page="32">Fully Operational</Source>
+    <Custom>CustomItem</Custom>
+    <Motivation>Improvements</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>MYSTERIES1</Key>
+    <Name>Death</Name>
+    <Description>[H4]Death[h4]
+</Description>
+    <Source Page="35">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Mysteries</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>MYSTERIES2</Key>
+    <Name>The Force</Name>
+    <Description>[H4]The Force[h4]
+</Description>
+    <Source Page="35">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Mysteries</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>MYSTERIES3</Key>
+    <Name>Destiny and Fate</Name>
+    <Description>[H4]Destiny and Fate[h4]
+</Description>
+    <Source Page="35">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Mysteries</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>MYSTERIES4</Key>
+    <Name>Happiness</Name>
+    <Description>[H4]Happiness[h4]
+</Description>
+    <Source Page="35">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Mysteries</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>MYSTERIES5</Key>
+    <Name>Balance</Name>
+    <Description>[H4]Balance[h4]
+</Description>
+    <Source Page="35">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Mysteries</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>MYSTERIES6</Key>
+    <Name>Suffering</Name>
+    <Description>[H4]Suffering[h4]
+</Description>
+    <Source Page="35">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Mysteries</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>MYSTERIES7</Key>
+    <Name>The Jedi</Name>
+    <Description>[H4]The Jedi[h4]
+</Description>
+    <Source Page="35">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Mysteries</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>MYSTERIES8</Key>
+    <Name>Other Force Traditions</Name>
+    <Description>[H4]Other Force Traditions[h4]
+</Description>
+    <Source Page="35">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Mysteries</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>MYSTERIES9</Key>
+    <Name>The Dark Side of the Force</Name>
+    <Description>[H4]The Dark Side of the Force[h4]
+</Description>
+    <Source Page="35">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Mysteries</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>MYSTERIES10</Key>
+    <Name>Life</Name>
+    <Description>[H4]Life[h4]
+</Description>
+    <Source Page="35">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Mysteries</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>LIBERATION</Key>
+    <Name>Liberation</Name>
+    <Description>[H4]Liberation[h4]
+This character works against oppression of all kinds. Harsh masters, domineering societies, even overzealous companions can spark the need to rise up against oppression and liberate the helpless.</Description>
+    <Source Page="32">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Challenges</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>CHALLENGES1</Key>
+    <Name>Birthright</Name>
+    <Description>[H4]Birthright[h4]
+This character's discovery of the Force awakened a need to claim forgotten teachings, martial techniques, and a forbidden way of life. Legends drive this character both to learn about and strive to emulate the Jedi of old.</Description>
+    <Source Page="32">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Challenges</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>CHALLENGES2</Key>
+    <Name>Perfection</Name>
+    <Description>[H4]Perfection[h4]
+This character is determined to be the best, to uncover the best in others, and to seek out perfection in an imperfect universe. The impossibility of the goal is irrelevant, as all improvement is beneficial, and the intent matters. This character continually seeks betterment, resulting in brilliance or, more often, disappointment.</Description>
+    <Source Page="32">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Challenges</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>CHALLENGES3</Key>
+    <Name>Meaning</Name>
+    <Description>[H4]Meaning[h4]
+</Description>
+    <Source Page="32">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Challenges</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>CHALLENGES4</Key>
+    <Name>Acceptance</Name>
+    <Description>[H4]Acceptance[h4]
+</Description>
+    <Source Page="32">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Challenges</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>CHALLENGES5</Key>
+    <Name>Legacy</Name>
+    <Description>[H4]Legacy[h4]
+</Description>
+    <Source Page="32">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Challenges</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>CHALLENGES6</Key>
+    <Name>Recognition</Name>
+    <Description>[H4]Recognition[h4]
+</Description>
+    <Source Page="32">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Challenges</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>CHALLENGES7</Key>
+    <Name>Worthy Opponents</Name>
+    <Description>[H4]Worthy Opponents[h4]
+</Description>
+    <Source Page="32">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Challenges</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>CHALLENGES8</Key>
+    <Name>Martial Mastery</Name>
+    <Description>[H4]Martial Mastery[h4]
+</Description>
+    <Source Page="32">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Challenges</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>CHALLENGES9</Key>
+    <Name>Superiority</Name>
+    <Description>[H4]Superiority[h4]
+</Description>
+    <Source Page="32">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Challenges</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>SECRETS1</Key>
+    <Name>Falsification</Name>
+    <Description>[H4]Falsification[h4]
+</Description>
+    <Source Page="32">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Secrets</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>SECRETS2</Key>
+    <Name>Detection</Name>
+    <Description>[H4]Detection[h4]
+</Description>
+    <Source Page="32">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Secrets</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>SECRETS3</Key>
+    <Name>Extraction</Name>
+    <Description>[H4]Extraction[h4]
+</Description>
+    <Source Page="32">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Secrets</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>SECRETS4</Key>
+    <Name>Classification</Name>
+    <Description>[H4]Classification[h4]
+</Description>
+    <Source Page="32">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Secrets</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>SECRETS5</Key>
+    <Name>Analysis</Name>
+    <Description>[H4]Analysis[h4]
+</Description>
+    <Source Page="32">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Secrets</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>SECRETS6</Key>
+    <Name>Security</Name>
+    <Description>[H4]Security[h4]
+</Description>
+    <Source Page="32">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Secrets</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>SECRETS7</Key>
+    <Name>Revelation</Name>
+    <Description>[H4]Revelation[h4]
+</Description>
+    <Source Page="32">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Secrets</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>SECRETS8</Key>
+    <Name>Tracking</Name>
+    <Description>[H4]Tracking[h4]
+</Description>
+    <Source Page="32">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Secrets</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>SECRETS9</Key>
+    <Name>Preservation</Name>
+    <Description>[H4]Preservation[h4]
+</Description>
+    <Source Page="32">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Secrets</Motivation>
+  </SpecificMotivation>
+  <SpecificMotivation>
+    <Key>SECRETS10</Key>
+    <Name>Retrieval</Name>
+    <Description>[H4]Retrieval[h4]
+</Description>
+    <Source Page="32">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Motivation>Secrets</Motivation>
+  </SpecificMotivation>
 </SpecificMotivations>

@@ -13,7 +13,10 @@
 [P]While some Heavies may work as independent operators, most find themselves as a permanent addition to a group. Heavies can easily find a place among a mercenary band. Having a Heavy in a group is a great boon. The mere sight of the heavy weapons they carry can ensure that no one hassles them, and a single Heavy—when properly equipped—is easily a match for numerous foes. 
 
 [P]In a Player Character group, a Heavy fulfills a similar role to that of a light battle tank in a military force. Heavies can often deal out enough damage to wipe out entire groups of enemies single-handedly, and are also typically able to absorb a great deal of punishment. Heavies must have a high Brawn in order to wield heavy, cumbersome weapons, which helps them to shrug off damage, and also allows them to wear heavy armor that may be too encumbering for other characters. A Heavy's skills and talents are narrowly focused, but they make him a master of ranged combat.</Description>
-  <Source Page="30">Dangerous Covenants</Source>
+  <Sources>
+    <Source Page="30">Dangerous Covenants</Source>
+    <Source Page="28">Forged in Battle</Source>
+  </Sources>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>GUNN</Key>

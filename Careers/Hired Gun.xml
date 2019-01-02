@@ -16,8 +16,8 @@
 [P]Many Hired Guns are true mercenaries, either working for themselves or contracted to a guild or company of some kind. Much like Bounty Hunters, the Hired Guns who are part of a guild tend to enjoy a great deal of support. They do not, however, have much in the way of freedom. More than a few Hired Guns have walked away from contracts that either violated their personal ethics or left them feeling completely exploited with terrible terms of service. Unfortunately, such mercenaries are left watching their backs for years after. 
 
 [P]Independent Hired Guns enjoy the greatest freedom, yet they also spend a lot of time just trying to find a good job, and preferably one that doesn't give them a life expectancy measured in days. Reputation can mean everything for such professionals, yet a simple test of skills and competency may often result in a better arrangement if the right employer is impressed.</Description>
-  <Source>Edge of the Empire Core Rulebook</Source>
-  <Custom>DescOnly</Custom>
+  <Source Page="74">Edge of the Empire Core Rulebook</Source>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>ATHL</Key>
     <Key>BRAWL</Key>
@@ -30,11 +30,17 @@
   </CareerSkills>
   <Specializations>
     <Key>BODYGUARD</Key>
+    <Key>DEMOLITIONIST</Key>
+    <Key>ENFORCER</Key>
+    <Key>FORCEADHERENT</Key>
+    <Key>HEAVY</Key>
+    <Key>IMPERIALACADEMYCADET</Key>
     <Key>MARAUDER</Key>
     <Key>MERCENARY</Key>
-    <Key>ENFORCER</Key>
-    <Key>DEMOLITIONIST</Key>
-    <Key>HEAVY</Key>
+    <Key>PADAWANSURVIVOR</Key>
+    <Key>PIRATE</Key>
+    <Key>RETIREDCLONETROOPER</Key>
+    <Key>SHIPCAPTAIN</Key>
   </Specializations>
   <Attributes />
   <FreeRanks>4</FreeRanks>
