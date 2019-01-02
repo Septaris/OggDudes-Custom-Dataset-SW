@@ -2,9 +2,10 @@
 <ForcePower xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Key>ALTER</Key>
   <Name>Alter</Name>
-  <Description>Enter description for Force Power "Alter" here.
+  <Description>[H4]Force Power: Alter[h4]
+Many Force users have the ability to sense the life force of the environment around them. Some Force users take this sense a bit further. By tapping into that living gestalt, the can manipulate the land around them. Intruders may find vines choking their path or mists rising up to block their sight. Meanwhile, allies find that trails and paths mysteriously open up before them, only to vanish once they have reached their destination.
 </Description>
-  <Source>User Data</Source>
+  <Source Page="42">Unlimited Power</Source>
   <Custom>AddedItem</Custom>
   <AbilityRows>
     <AbilityRow>
@@ -44,7 +45,7 @@
         <Key>ALTERCONTROL1</Key>
         <Key>ALTERRANGE</Key>
         <Key>ALTERCONTROL2</Key>
-        <Key>ALTERBASIC</Key>
+        <Key>ALTERCONTROL2</Key>
       </Abilities>
       <Directions>
         <Direction>
@@ -85,12 +86,10 @@
       </Abilities>
       <Directions>
         <Direction>
-          <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>true</Left>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
@@ -187,7 +186,7 @@
       </AbilitySpan>
       <Costs>
         <Cost>20</Cost>
-        <Cost>25</Cost>
+        <Cost>20</Cost>
         <Cost>0</Cost>
         <Cost>15</Cost>
       </Costs>

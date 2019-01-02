@@ -28,10 +28,16 @@ An Engineer's eight career skills are [B]Athletics, Computers, Knowledge (Educat
   </CareerSkills>
   <Specializations>
     <Key>DROIDSPEC</Key>
+    <Key>FORCEADHERENT</Key>
+    <Key>IMPERIALACADEMYCADET</Key>
     <Key>MECHANIC</Key>
+    <Key>PADAWANSURVIVOR</Key>
+    <Key>PIRATE</Key>
+    <Key>RETIREDCLONETROOPER</Key>
     <Key>SABOTEUR</Key>
     <Key>SAPPER</Key>
     <Key>SCIENTIST</Key>
+    <Key>SHIPCAPTAIN</Key>
     <Key>SHIPWRIGHT</Key>
   </Specializations>
   <Attributes />

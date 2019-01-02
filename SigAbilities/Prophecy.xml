@@ -2,17 +2,16 @@
 <SigAbility xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Key>PROPHECY</Key>
   <Name>Prophecy</Name>
-  <Description>Enter description for Signature Ability "Prophecy" here.
-</Description>
-  <Source>User Data</Source>
+  <Description>The future is always in motion, and trying to predict it through the Force is a tricky and even dangerous endeavor. Even if one can sift through the shifting strands of fate and pick out the future most likely to occur, trying to bring about or stop that future may cause one to take actions that end up having the opposite effect. Nevertheless, many Force users delve into the dangerous art of prophecy, because if they succeed, the rewards can be great beyond measure.</Description>
+  <Source Page="36">Unlimited Power</Source>
   <Custom>AddedItem</Custom>
   <AbilityRows>
     <AbilityRow>
       <Abilities>
-        <Key>PROPHECYBASIC</Key>
-        <Key>PROPHECYBASIC</Key>
-        <Key>PROPHECYBASIC</Key>
-        <Key>PROPHECYBASIC</Key>
+        <Key>PROPHECYBASE</Key>
+        <Key>PROPHECYBASE</Key>
+        <Key>PROPHECYBASE</Key>
+        <Key>PROPHECYBASE</Key>
       </Abilities>
       <Directions>
         <Direction>
@@ -65,10 +64,10 @@
     </AbilityRow>
     <AbilityRow>
       <Abilities>
-        <Key>PROPHECYREDUCESETBACK</Key>
-        <Key>PROPHECYFLOWUNIVERSE</Key>
-        <Key>PROPHECYSHAREDREVELATION</Key>
-        <Key>PROPHECYREDUCESETBACK</Key>
+        <Key>PROPHECYSETBACK</Key>
+        <Key>PROPHECYFLOW</Key>
+        <Key>PROPHECYSHAREV</Key>
+        <Key>PROPHECYSETBACK</Key>
       </Abilities>
       <Directions>
         <Direction>
@@ -108,8 +107,8 @@
     </AbilityRow>
     <AbilityRow>
       <Abilities>
-        <Key>PROPECYRECURRENCE</Key>
-        <Key>PROPHECYREDUCEDIFFICULTY</Key>
+        <Key>PROPHECYRECUR</Key>
+        <Key>PROPHECYREDIFF</Key>
         <Key>PROPHECYDOOM</Key>
         <Key>PROPHECYDESTINY</Key>
       </Abilities>

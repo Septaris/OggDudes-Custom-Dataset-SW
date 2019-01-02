@@ -343,7 +343,8 @@ Characters who select this Motivation have a deep and abiding trust in some recu
     <Key>INNOV</Key>
     <Name>Innovation</Name>
     <Description>
-      [H4]Innovation[h4]</Description>
+      [H4]Innovation[h4]
+The [B]Edge of the Empire[b] Core Rulebook includes many Motivations, broken up into three catigories: Ambition, Causes, and Relationships. [B]Special Modifications[b] adds a new, Technician-centric list of Motivations called Innovations. Though this category and its enteries were created specifically for Technicians, characters of other careers may also use Innovation at the GM's discretion.</Description>
     <Source Page="36">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
@@ -591,7 +592,7 @@ Similar to the Cause catagory of Motivation as presented in the [B]Force and Des
     <Name>Code</Name>
     <Description>
       [H4]Code[h4]
-    </Description>
+The Motivations presented in the [B]Edge of the Empire[b] Core Rulebook necessarily cover as broad a spectrum as possible in an effort to serve the careers presented in [B]Chapter II[b]. For those players looking for a more tailored approach, [B]No Disintegrations[b] presents a number of Motivations designed specifically with Bounty Hunters in mind, called Codes.</Description>
     <Source Page="37">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
@@ -605,6 +606,120 @@ Similar to the Cause catagory of Motivation as presented in the [B]Force and Des
       <Key>CODERULE</Key>
       <Key>CODESURV</Key>
       <Key>CODESCORE</Key>
+    </SpecificMotivations>
+  </Motivation>
+  <Motivation>
+    <Key>GROWTH</Key>
+    <Name>Growth</Name>
+    <Description>
+      [H4]Growth[h4]
+Consulars reject complacency, striving to make themselves and their surroundings better than they were the day before. This drive for improvement can manifest itself in many ways, from self-improvement to helping feuding families resolve their differences. Other Consulars take a broader view and work toward nothing less than galactic peace.
+[P]In some instances, the desire not just for their own growth, but that of the party, might run counter to the goals of allied characters. This can create some intra-party tension and conflict, which the Consular is uniquely equipped to resolve peacefully. Still, it is important to note that Consulars with the Growth Motivation may put it ahead of more immediate concerns, or even initiate debates over compromised ideals at inopportune moments.</Description>
+    <Source Page="31">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <SpecificMotivations>
+      <Key>GROWTH1</Key>
+      <Key>GROWTH2</Key>
+      <Key>GROWTH3</Key>
+      <Key>GROWTH4</Key>
+      <Key>GROWTH5</Key>
+      <Key>GROWTH6</Key>
+      <Key>GROWTH7</Key>
+      <Key>GROWTH8</Key>
+      <Key>GROWTH9</Key>
+      <Key>GROWTH10</Key>
+    </SpecificMotivations>
+  </Motivation>
+  <Motivation>
+    <Key>MYSTERY</Key>
+    <Name>Mysteries</Name>
+    <Description>[H4]Mysteries[h4]
+
+Any being can be motivated by their ambition or a cause, but a Mystic tends to be deeply interested in the most fundamental mysteries of their universe. They want to understand their world on a profound, even instinctual level, and often eschew worldly things for such knowledge. Sometimes they seek answers to these mysteries for personal growth and enlightenment. Sometimes they seek them for power. And sometimes, as they seek one, they find the other as well.</Description>
+    <Source Page="35">Unlimited Power</Source>
+    <Custom>DescOnly</Custom>
+    <SpecificMotivations />
+  </Motivation>
+  <Motivation>
+    <Key>IMPROVE</Key>
+    <Name>Improvements</Name>
+    <Description>
+      [H4]Improvements[h4]
+For Engineers, there is nothing that cannot be improved with a bit of thought and effort. This conviction reinforces many in striving toward ending the Empire and replacing it with improved governance. The technological impetus carries over into the personal lives of most Engineers as well. Motivations related to these concepts help to determine why Engineers joined the Alliance and how they behave in combat and social challenges.
+    </Description>
+    <Source Page="32">Fully Operational</Source>
+    <Custom>CustomItem</Custom>
+    <SpecificMotivations>
+      <Key>IMPROVE1</Key>
+      <Key>IMPROVE4</Key>
+      <Key>IMPROVE2</Key>
+      <Key>IMPROVE7</Key>
+      <Key>IMPROVE10</Key>
+      <Key>IMPROVE6</Key>
+      <Key>IMPROVE3</Key>
+      <Key>IMPROVE8</Key>
+      <Key>IMPROVE5</Key>
+      <Key>IMPROVE9</Key>
+    </SpecificMotivations>
+  </Motivation>
+  <Motivation>
+    <Key>MYSTERIES</Key>
+    <Name>Mysteries</Name>
+    <Description>[H4]Mysteries[h4]
+Any being can be motivated by their ambition or a cause, but a Mystic tends to be deeply interested in the most fundamental mysteries of their universe. They want to understand their world on a profound, even instinctual level, and often eschew worldly things for such knowledge. Sometimes they seek the answers to these mysteries for personal growth and enlightenment. Sometimes they seek them for power. And sometimes. as they seek one, they find the other as well.</Description>
+    <Source Page="35">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <SpecificMotivations>
+      <Key>MYSTERIES5</Key>
+      <Key>MYSTERIES1</Key>
+      <Key>MYSTERIES3</Key>
+      <Key>MYSTERIES4</Key>
+      <Key>MYSTERIES10</Key>
+      <Key>MYSTERIES8</Key>
+      <Key>MYSTERIES6</Key>
+      <Key>MYSTERIES9</Key>
+      <Key>MYSTERIES2</Key>
+      <Key>MYSTERIES7</Key>
+    </SpecificMotivations>
+  </Motivation>
+  <Motivation>
+    <Key>CHALLENGES</Key>
+    <Name>Challenges</Name>
+    <Description>[H4]Challenges[h4]
+A Warrior is defined by the ability and willingness to fight. It is in the Warrior's nature to rise to challenges, and these challenges test the Warrior's mettle and hone their skills. It is by seeking out and overcoming challenges that a Warrior improves. The challenges a Warrior faces are not all on a battle field, but a Warrior approaches challenges of every type with the same determination and zeal.</Description>
+    <Source Page="32">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <SpecificMotivations>
+      <Key>CHALLENGES4</Key>
+      <Key>CHALLENGES1</Key>
+      <Key>CHALLENGES5</Key>
+      <Key>LIBERATION</Key>
+      <Key>CHALLENGES8</Key>
+      <Key>CHALLENGES3</Key>
+      <Key>CHALLENGES2</Key>
+      <Key>CHALLENGES6</Key>
+      <Key>CHALLENGES9</Key>
+      <Key>CHALLENGES7</Key>
+    </SpecificMotivations>
+  </Motivation>
+  <Motivation>
+    <Key>SECRETS</Key>
+    <Name>Secrets</Name>
+    <Description>[H4]Secrets[h4]
+Spies deal with secrets. Secrets are often the reason for their missions, but aspects of secrecy can also be what drew them to become Spies in the first place. They might be driven to uncover secrets, believing no information should be hidden. Alternatively, they could have a desire to keep secrets secured and believe that sometimes society is better off not knowing the truth Motivations related to secrecy can help mold backgrounds for Spy characters and offer guidance in playing them, especially when dealing with enemy agents.</Description>
+    <Source Page="32">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <SpecificMotivations>
+      <Key>SECRETS5</Key>
+      <Key>SECRETS4</Key>
+      <Key>SECRETS2</Key>
+      <Key>SECRETS3</Key>
+      <Key>SECRETS1</Key>
+      <Key>SECRETS9</Key>
+      <Key>SECRETS10</Key>
+      <Key>SECRETS7</Key>
+      <Key>SECRETS6</Key>
+      <Key>SECRETS8</Key>
     </SpecificMotivations>
   </Motivation>
 </Motivations>

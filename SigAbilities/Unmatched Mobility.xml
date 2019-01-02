@@ -3,7 +3,7 @@
   <Key>UNMOB</Key>
   <Name>Unmatched Mobility</Name>
   <Description>Agile and talented, Explorer characters often survive and thrive among the dangers of the galaxy through the use of speed and mobility. A seasoned Explorer can focus under pressure, using adrenaline and training to move around and complete tasks faster than those around him. Some use this ability to evade danger, keeping themselves out of harm's way. Others use it to gain an edge against their foes, outmaneuvering them in battle.</Description>
-  <Source Page="35">Enter the Unknown</Source>
+  <Source>Enter the Unknown</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

@@ -243,12 +243,20 @@ knows it’s been soundly beaten, though the Commander must take care not to res
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
+    <Key>PSYCHWAR</Key>
+    <Name>Psychological Warfare</Name>
+    <Description>
+      [H4]Psychological Warfare[h4]
+While Imperial stormtroopers might appear fearless and disciplined, others within the Imperial Army and Officer Corps aren't as willing to die for the Emporer. Some PCs recognize that it is possible to intimidate, confuse, or frighten an enemy to gain an advantage in an engagement, or avoid one altogether.</Description>
+    <Source Page="17">Forged in Battle</Source>
+    <Custom>DescOnly</Custom>
+  </Duty>
+  <Duty>
     <Key>CLEARSKIES</Key>
     <Name>Clear Skies</Name>
     <Description>
       [H4]Clear Skies[h4]
-    This PC recognizes the danger that infantry units face from enemy air power. A pair of TIE fighters can turn certain victory on the ground into disaster. This PC always has a plan to take out any enemy air support, whether through the judicious use of portable launchers, jammers, camouflage, concealing terrain, or even anti-air emplacement weapons.
-    </Description>
+The PC recognizes the danger that infantry units face from enemy air power. A pair of TIE fighters can turn certain victory on the ground into disasrer. This PC always has a plan to take out any enemy air support, whether through the judicious use of portable launchers, jammers, camouflage, concealing terrain, or even anti-air emplacement weapons.</Description>
     <Source Page="17">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
   </Duty>
@@ -257,18 +265,212 @@ knows it’s been soundly beaten, though the Commander must take care not to res
     <Name>Morale</Name>
     <Description>
       [H4]Morale[h4]
-      While the troops of the Rebel Alliance know their cause to be just, the hopeless odds stacked against them can be demoralizing. This PC knows that to have any hope of victory, the freedom fighters have to keep their spirits up, and works to help with this via well-timed jokes or inspirational gestures such as flying the Rebellion's insignia on the battlefield.</Description>
+While the troops of the Rebel Alliance know their cause to be just, the hopeless odds stacked against them can be demoralizing. This PC knows that to have any hope of victory, the freedom fighters have to keep their spirits up, and works to help with this via well-timed jokes or inspirational gestures such as flying the Rebellion's insignia on the battlefield.</Description>
     <Source Page="17">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
-    <Key>PSYCHWAR</Key>
-    <Name>Psychological Warfare</Name>
+    <Key>CHEMBIO</Key>
+    <Name>Chemical/Biological Analysis</Name>
     <Description>
-      [H4]Psychological Warfare[h4]
-      While the Imperial stormtroopers might appear fearless and disciplined, others within the Imperial Army and Officer Corps aren't as willing to die for the Emperor. Some PC's recognize that it is possible to intimidate, confuse, or frighten an enemy to gain an advantage in an engagement, or avoid one altogether.
-    </Description>
-    <Source Page="17">Forged in Battle</Source>
+      [H4]Chemical/Biological Analysis[h4]
+The Player Character identifies environmental problems from sources biological (alien flora and fauna, viruses, bacteria) or chemical (toxic gases, poisons, heavy metals in the soil), The Engineer understands that environments can damage delicate machinery, make it seize up, or cause it to perform under spec. The environment can also affect the construction and destruction of structures, and harm or hinder soldiers who have to march through the terrain.</Description>
+    <Source Page="17">Fully Operational</Source>
     <Custom>DescOnly</Custom>
+  </Duty>
+  <Duty>
+    <Key>CIVOUT</Key>
+    <Name>Civilian Outreach</Name>
+    <Description>
+      [H4]Civilian Outreach[h4]
+The PC believes that the Alliance fights for the civilians. That includes spearheading urban repair as well as communicating with the local population to coordinate and establish supply agreements and recruit new trainee mechanics. The Engineer's work doesn't change, merely the focus. Sometimes, Engineers integrate themselves with the civilian populace to provide technological resources, work with them in resisting the Empire, or prevent civilians from receiving retribution due to Alliance actions.</Description>
+    <Source Page="17">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+  </Duty>
+  <Duty>
+    <Key>DISREL</Key>
+    <Name>Disaster Relief</Name>
+    <Description>
+      [H4]Disaster Relief[h4]
+While similar to Civilian Outreach, Disaster Relief involves procuring and delivering medical supplies, food, water, and temporary shelters after natural or artificial disasters. This PC destroys fallen buildings to clear areas for traffic and repairs building to provide safe places to congregate. Ground vehicles, ship, and droids need to be repaired or repurposed to handle rubble and tight urban environments. These Engineers try to help get civilians' live back to normal.</Description>
+    <Source Page="17">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+  </Duty>
+  <Duty>
+    <Key>ENVMANIP</Key>
+    <Name>Environmental Manipulation</Name>
+    <Description>
+      [H4]Environmental Manipulation[h4]
+These PCs use their skills to alter the environment to clear the way or obstruct passage. This includes constructing and destroying bridges, burrowing around natural and artificial obstructions, and improving or impeding movement. These Engineers also manipulate the environment of outer space, exciting the ions in a nebula to provide sensor cover or harnessing the electromagnetic core of an asteroid to protect a fleet from a solar flare.</Description>
+    <Source Page="17">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+  </Duty>
+  <Duty>
+    <Key>FIELDTRAIN</Key>
+    <Name>Field Training</Name>
+    <Description>
+      [H4]Field Training[h4]
+The PC trains new Engineers and rank-and-file soldiers to use new and old specialty equipment. Some bases schedule classes and provide classroom space so that Engineers can become full-time instructors. Most Alliance outposts don't have these luxuries, however, so Engineers teach by training in the field. Field training includes teaching civilians with potential, either to assist their own communities or to serve as contracted help for the Alliance.</Description>
+    <Source Page="17">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+  </Duty>
+  <Duty>
+    <Key>MUNITIONS</Key>
+    <Name>Munitions</Name>
+    <Description>
+      [H4]Munitions[h4]
+This includes the maintenance and use of ammunition and weapons that should detonate at the appropriate time, or at least shouldn't do so while within the soldier's gun or vehicle. Work with munitions also includes placing minefields, disarming explosives. and setting explosives to destroy environmental obstacles or enemy fortifications. Those who work with vehicles, starships, or droids often modify the machines to handle and use specialized munitions.</Description>
+    <Source Page="17">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+  </Duty>
+  <Duty>
+    <Key>RANDD</Key>
+    <Name>Research and Development</Name>
+    <Description>
+      [H4]Research and Development[h4]
+Engineers also partake in research and development for technologies and other applied solutions. Necessity is the parent of invention, and every situation, enemy. and environment creates new necessities. Research can include stealing technology from the enemy or finding it in a ruin. These characters set aside time and resources to keep their base evolving, growing, and learning; that knowledge can also be passed on to other Engineers at other bases.</Description>
+    <Source Page="17">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+  </Duty>
+  <Duty>
+    <Key>SURVEYENEMY</Key>
+    <Name>Surveying the Enemy</Name>
+    <Description>
+      [H4]Surveying the Enemy[h4]
+This PC focuses on the technical aspects of scouting. the gathering of geographical knowledge, and the mapping of data via the use of sensors, drones, droids, and satellites. This includes constructing physical and electronic camouflage to hide a Rebel base and any vehicle movements from Empire scouts. More destructive methods include eliminating similar enemy systems with electromagnetic devices, damaging probes or satellites, and providing snipers and anti-aircraft ordnance data useful in targeting enemy units.</Description>
+    <Source Page="17">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+  </Duty>
+  <Duty>
+    <Key>SIEGEENG</Key>
+    <Name>Siege Engineering</Name>
+    <Description>
+      [H4]Siege Engineering[h4]
+Engineers often set up and build defensive fortifications (bunkers, trenches, and walls) , artillery (gun towers, and weapon reinforcements), and orbital defense platforms (ground attack satellites, anti-ship satellites, and orbital flak). Natural formations such as caves, ancient temples, canyons, and even asteroid fields can form the basis of an outpost. This PC emphasizes the importance of this kind of constructive support in warfare.</Description>
+    <Source Page="17">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+  </Duty>
+  <Duty>
+    <Key>TESTING</Key>
+    <Name>Testing</Name>
+    <Description>
+      [H4]Testing[h4]
+The Alliance often must procure new supplies and technologies from less-than-reputable sources. This PC tests first and tests often. The moment an Engineer neglects safety checks, devices become a dangerous uncertainty. Stolen Imperial technology also carries the risk of sabotage. This PC tests researched technologies and methodologies in controlled labs, during live-fire exercises, and in the middle of battle.</Description>
+    <Source Page="17">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+  </Duty>
+  <Duty>
+    <Key>TRANSPORT</Key>
+    <Name>Transportation</Name>
+    <Description>
+      [H4]Transportation[h4]
+This PC takes on the responsibility of establishing protected routes to and from a base and the front lines. The Alliance uses a wide variety of transports, ranging from swift airspeeders, agile corvettes, and blocky freighters to slow, wheeled haulers and even pack animals. The character might also recruit private or public civilian transportation organizations. While an army marches on its stomach, this PC would rather it rode instead.</Description>
+    <Source Page="17">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+  </Duty>
+  <Duty>
+    <Key>RESCUEREC</Key>
+    <Name>Rescue and Recovery/Evac</Name>
+    <Description>
+      [H4]Rescue and Recovery/Evac[h4]
+This PC prepares and plans the logistics and execution of rescue operations of both civilians and military personnel. While similar to the Transportation Duty, this work includes defense training, medical support, survival training, observation, and rapid deployment operations. These Engineers live and die by their comms; they need to communicate exactly where they and their personnel are and where they need to be at a moment's notice.</Description>
+    <Source Page="17">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+  </Duty>
+  <Duty>
+    <Key>COMMUNICATIONS</Key>
+    <Name>Communications</Name>
+    <Description>[H4]Communications[h4]
+Player Characters with this Duty understand that the Empire maintains its stranglehold on the galaxy via a strong communications network. Whether working locally of across the galaxy, they specialize in deciphering Imperial communications as well as encrypting and concealing Rebel transmissions. Often these PCs are on the forefront of innovative communication methods, such as using special patterns on fabrics to alert agents of enemy activities of inserting code into Imperial broadcasts to pass secret messages to sleeper agents.</Description>
+    <Source Page="17">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+  </Duty>
+  <Duty>
+    <Key>ANTIISB</Key>
+    <Name>Anti-ISB Efforts</Name>
+    <Description>[H4]Anti-ISB Efforts[h4]
+The Empire has a vast information network headed by the Imperial Security Bureau, or ISB. Characters with this Duty focus their efforts on undermining this network with actions that specifically target the ISB, such as feeding false information to its known moles, recovering captured prisoners from ISB detention calls, developing profiles of ISB agents, and ensuring that the hated agency spends its resources chasing dead-end leads.</Description>
+    <Source Page="17">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+  </Duty>
+  <Duty>
+    <Key>COUNTERMEASURES</Key>
+    <Name>Countermeasures</Name>
+    <Description>[H4]Countermeasures[h4]
+Characters with this Duty serve as cryptographers, secure communications specialists, and data manipulators. Whether spreading false transmissions across subspace or the HoloNet, crafting new electronic protection to keep Rebel data secure, or slicing into Imperial transmissions and data vaults, they are phantoms in the code, capable of weaving digital misdirection while ensuring Rebel electronics remain secure.</Description>
+    <Source Page="17">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+  </Duty>
+  <Duty>
+    <Key>DOUBLEAGENT</Key>
+    <Name>Double Agent Recruitment</Name>
+    <Description>[H4]Double Agent Recruitment[h4]
+PCs selecting this Duty focus on turning Imperial personnel—especially its spies—into Rebellion assets. By playing on the sentiments of those who remain idealistic about the betterment of the galaxy, they gain valuable insight from individuals in positions of trust within the Empire. When that fails, tactics such as blackmail, extortion, and other coercive efforts may be necessary in these desperate times.</Description>
+    <Source Page="17">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+  </Duty>
+  <Duty>
+    <Key>DROIDRETASK</Key>
+    <Name>Droid Retasking</Name>
+    <Description>[H4]Droid Retasking[h4]
+While the Empire seems to have an infinite number of organic beings in its service, droids also play a critical role in almost all Imperial operations. PCs with this Duty focus their efforts on disabling and reprogramming these droids to gather intelligence or even setting them against their Imperial masters. By attacking this vulnerable and often- overlooked Imperial resource, such PCs provide vital aid to the Rebel Alliance.</Description>
+    <Source Page="17">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+  </Duty>
+  <Duty>
+    <Key>INSECURITY</Key>
+    <Name>Internal Security</Name>
+    <Description>[H4]Internal Security[h4]
+Deceivers know their own kind. PCs with this Duty focus on protecting the Alliance from moles, double agents, and traitors. They also help maintain safety by ensuring that strongholds, outposts, and safe houses remain undetected by the Empire. This sometimes includes ensuring that supply lines for these locations are maintained and kept secret.</Description>
+    <Source Page="17">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+  </Duty>
+  <Duty>
+    <Key>INTERRESIST</Key>
+    <Name>Interrogation Resistance</Name>
+    <Description>[H4]Interrogation Resistance[h4]
+Even the most skilled Rebel agent can be captured and subjected to Imperial interrogation. PCs with this Duty specialize in ensuring that they and their fellow Rebels have the physical and mental fortitude to endure interrogation. They also work to ensure that information critical to the Alliance is compartmentalized and secure, so that agents who are unable to resist Imperial questioning don't compromise the entire Rebellion.</Description>
+    <Source Page="17">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+  </Duty>
+  <Duty>
+    <Key>LEGENDCRAFT</Key>
+    <Name>Legend Crafting</Name>
+    <Description>[H4]Legend Crafting[h4]
+PCs selecting this Duty work to create fictitious histories and evidence to back up an infiltrating Spy's cover identity. Known as legends, these false histories help Spies assume a cover identity that becomes a fully realized person and can be easily presented to others. These efforts usually also include planting falsified information or doctored holos into Imperial databases, so that anyone researching the Spy's cover identity will find a host of data that corroborates the legend, enough to pass rigorous examination.</Description>
+    <Source Page="17">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+  </Duty>
+  <Duty>
+    <Key>PSYCHOWAR</Key>
+    <Name>Psychological Warfare</Name>
+    <Description>[H4]Psychological Warfare[h4]
+Fear is not only the purview of the Empire. PCs with this Duty attempt to spread fear among enemy forces in an effort to weaken morale and destroy the discipline that is the hallmark of the Imperial Army and Navy. They also regularly combat Imperial propaganda and look within the ranks of the Empire itself for personnel who might easily be swayed into joining the Rebellion. </Description>
+    <Source Page="17">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+  </Duty>
+  <Duty>
+    <Key>RESOURCEACQ</Key>
+    <Name>Resource Acquisition</Name>
+    <Description>[H4]Resource Acquisition[h4]
+Blasters and bacta are important for survival, but Spies with this Duty endeavor to acquire other resources to aid the Alliance. These include enemy uniforms, Imperial credentials, and other tools of deception. Spies with this Duty are certainly glad to acquire medical supplies, weapons, and other necessities, but their skillset allows them to obtain equipment more suited to subtle missions. </Description>
+    <Source Page="17">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+  </Duty>
+  <Duty>
+    <Key>TACINSIGHT</Key>
+    <Name>Tactical Insight</Name>
+    <Description>[H4]Tactical Insight[h4]
+Wars are sometimes won before a battle is ever fought. These PCs specialize in gathering information on Imperial military tactics and using these secrets to exploit weaknesses in the Empire's deployment plans and combat strategies. They also attempt to undermine Imperial tactics by planting false intelligence in Imperial battlefield reports or allowing fabricated reports on Rebel troop movements to "fall into enemy hands."</Description>
+    <Source Page="17">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+  </Duty>
+  <Duty>
+    <Key>WETWORK</Key>
+    <Name>Wetwork</Name>
+    <Description>[H4]Wetwork[h4]
+PCs with this Duty know that sometimes questionable, if not downright immoral, acts must be committed in the name of the greater good. The quiet death of a single key individual, after all, can save many lives or keep important secrets buried for good. They're willing to do the unthinkable for the cause, and eliminate or assassinate critical Imperial personnel to prevent or undo a greater evil.</Description>
+    <Source Page="17">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
   </Duty>
 </Duties>

@@ -27,10 +27,16 @@ The Mystic's six career skills are [B]Charm, Coercion, Knowledge (Lore), Knowled
   <Specializations>
     <Key>ADVISOR</Key>
     <Key>ALCHEMIST</Key>
+    <Key>FORCEADHERENT</Key>
+    <Key>IMPERIALACADEMYCADET</Key>
     <Key>MAGUS</Key>
     <Key>MAKASHI</Key>
+    <Key>PADAWANSURVIVOR</Key>
+    <Key>PIRATE</Key>
     <Key>PROPHET</Key>
+    <Key>RETIREDCLONETROOPER</Key>
     <Key>SEER</Key>
+    <Key>SHIPCAPTAIN</Key>
   </Specializations>
   <Attributes>
     <ForceRating>1</ForceRating>

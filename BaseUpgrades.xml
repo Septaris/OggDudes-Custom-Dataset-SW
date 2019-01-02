@@ -1708,4 +1708,46 @@ This upgrade may be purchased three additional times, each time selecting a diff
     <PurchaseCount>1</PurchaseCount>
     <Cost />
   </BaseUpgrade>
+  <BaseUpgrade>
+    <Key>COMC-52</Key>
+    <Name>COM C-52 Modular Command Center</Name>
+    <Description>[H4]Delvin Constructs COM C-52 Modular Command Center[h4]
+
+Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check[b] and roughly 2 hours of narrative time.
+[P]A center can hold roughly twenty depending on its configuration. and grants the occupants [BO] on Computers, Leadership, and Vigilance checks. Only one command center can be purchased per base.
+</Description>
+    <Source Page="45">Fully Operational</Source>
+    <Custom>AddedItem</Custom>
+    <PurchaseCount>1</PurchaseCount>
+    <Cost>
+      <Credits>2750</Credits>
+    </Cost>
+  </BaseUpgrade>
+  <BaseUpgrade>
+    <Key>HNGF-304</Key>
+    <Name>HNG F304 Modular Hanger/Motor Pool</Name>
+    <Description>[H4]Delvin Constructs HNG F304 Modular Hanger/Motor Pool[h4]
+Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check[b] and roughly 2 hours of narrative time.
+[P]These facilities usually take the form of simple buildings with an open floor area; a large. lockable bay door wide enough for vehicles to easily move through; and two smaller entry doors. They can hold a number of vehicles with a combined silhouette of 12 and no single vehicle larger than silhouette 4. Each also includes a full set of mechanics' tools (allowing characters to perform Mechanics checks to heal droids or repair vehicles or starships without penalty), and an oil bath for droids. When used to repair starships or vehicles stored inside, the character repairs 1 additional hull trauma or 2 additional system strain on a successful check.
+[P]If purchased multiple times. they can be used as separate vehicle storage facilities. Alternatively, up to two additional units may be combined together with the original one to increase the silhouette limit by 10 per additional unit (although the maximum single vehicle size remains at Silhouette 4).</Description>
+    <Source Page="45">Fully Operational</Source>
+    <Custom>AddedItem</Custom>
+    <PurchaseCount>3</PurchaseCount>
+    <Cost>
+      <Credits>4200</Credits>
+    </Cost>
+  </BaseUpgrade>
+  <BaseUpgrade>
+    <Key>MILBARF-221</Key>
+    <Name>MILBAR F-221 Modular Barracks</Name>
+    <Description>[H4]Delvin Constructs MILBAR F-221 Modular Barracks[h4]
+Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check[b] and roughly 2 hours of narrative time.
+[P]Modular barracks come in many configurations for easy tailoring to a unit's specific needs. The F-221 model is a medium-sized building made to hold a platoon-sized unit and that unit's equipment. The barracks include a large common area; smaller rooms for offices, lounges, and refreshers; climate control; and an environmental sealing system proof against chemical and biological attacks.</Description>
+    <Source Page="45">Fully Operational</Source>
+    <Custom>AddedItem</Custom>
+    <PurchaseCount>1</PurchaseCount>
+    <Cost>
+      <Credits>2100</Credits>
+    </Cost>
+  </BaseUpgrade>
 </BaseUpgrades>
