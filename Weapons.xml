@@ -17283,7 +17283,7 @@ Morellian Weapons Conglomerate MWC-35c heavy repeating blaster cannon is one of 
       </Mod>
     </BaseMods>
     <SkillKey>GUNN</SkillKey>
-    <Damage>12</Damage>
+    <Damage>13</Damage>
     <Crit>3</Crit>
     <SizeHigh>10</SizeHigh>
     <RangeValue>wrMedium</RangeValue>

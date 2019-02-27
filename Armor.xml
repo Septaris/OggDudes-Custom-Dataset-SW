@@ -2756,7 +2756,7 @@ Worn by the Grand Army of the Republic's elite Advanced Recon Commandos. Phase I
       </Mod>
     </BaseMods>
     <Defense>1</Defense>
-    <Soak>3</Soak>
+    <Soak>2</Soak>
   </Armor>
   <Armor>
     <Key>CLIMBSUIT</Key>
