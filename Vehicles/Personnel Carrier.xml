@@ -22,8 +22,8 @@ Many smaller or poorer fringe worlds can not afford military or law enforcement 
   <Silhouette>3</Silhouette>
   <Speed>2</Speed>
   <Handling>-2</Handling>
-  <Armor>4</Armor>
+  <Armor>0</Armor>
   <HullTrauma>8</HullTrauma>
   <SystemStrain>4</SystemStrain>
-  <SensorRange>Close</SensorRange>
+  <SensorRange>None</SensorRange>
 </Vehicle>
