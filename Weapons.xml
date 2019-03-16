@@ -17967,10 +17967,10 @@ The ST-M40 is a repeating blaster pistol based loosely on Merr-Sonn's best-selli
       </Mod>
     </BaseMods>
     <SkillKey>RANGLT</SkillKey>
-    <Damage>10</Damage>
-    <Crit>2</Crit>
+    <Damage>6</Damage>
+    <Crit>3</Crit>
     <SizeHigh>10</SizeHigh>
-    <RangeValue>wrExtreme</RangeValue>
+    <RangeValue>wrShort</RangeValue>
     <Qualities>
       <Quality>
         <Key>AUTOFIRE</Key>
@@ -17980,7 +17980,7 @@ The ST-M40 is a repeating blaster pistol based loosely on Merr-Sonn's best-selli
         <Count>1</Count>
       </Quality>
     </Qualities>
-    <Range>Extreme</Range>
+    <Range>Short</Range>
   </Weapon>
   <Weapon>
     <Key>VACATTACKDISCLAUNCHER</Key>
