@@ -1429,7 +1429,7 @@ to activate Rousing Oratory.</Description>
   <SigAbilityNode>
     <Key>UNMATCHEDCOURAGEBASIC</Key>
     <Name>Unmatched Courage Base Ability</Name>
-    <Description>Once per game session, as an out of turn incidental, the character may spend 2 Destiny Points to ignore the effects of all Critical Injuries for 2 rounds. When this effect ends, he fuggers the effects of these Critical Injuries as normal.</Description>
+    <Description>Once per game session, as an out of turn incidental, the character may spend 2 Destiny Points to ignore the effects of all Critical Injuries for 2 rounds. When this effect ends, he suffers the effects of these Critical Injuries as normal.</Description>
     <Source Page="39">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Courage</SigAbility>
