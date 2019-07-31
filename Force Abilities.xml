@@ -1329,7 +1329,7 @@
     <Name>Ebb/Flow Basic Power</Name>
     <Description>The Force user's action empower himself or sap strength from his foes.
 [P][B]Ebb:[b] When the Force user makes a skill check, he may roll an [B]Ebb power check[b] as part of the roll. The user may spend [FP] to suffer 1 strain, then inflict 1 strain on all other engaged characters. The Force user may not activate this multiple times.
-[P][B]Flow:[b] When the Force user makes a skill check, he may roll an [B]Flow power check[b] as part of the roll. The user may spend [FP] to heal 1 strain, then inflict 1 strain on all other engaged characters. The Force user may not activate this multiple times.</Description>
+[P][B]Flow:[b] When the Force user makes a skill check, he may roll an [B]Flow power check[b] as part of the roll. The user may spend [FP] to heal 1 strain. The Force user may not activate this multiple times.</Description>
     <Source Page="39">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
     <Power>Ebb/Flow</Power>
