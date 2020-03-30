@@ -1750,4 +1750,108 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
       <Credits>2100</Credits>
     </Cost>
   </BaseUpgrade>
+    <BaseUpgrade>
+    <Key>CIVREFITREPAIR</Key>
+    <Name>Civilian Refit:  Repair Room</Name>
+    <Description>[H4]Civilian Refit:  Repair Room[h4]
+The facility has a tool room filled with spare parts and salvaged components gathered from junk yards and firefights. This allows characters to perform Mechanics checks to repair and modify weapons and armor without penalty. [AD][AD] can be spent as [SU] on such checks here, but the GM can spend [DE] to exhaust its contents and the characters must spend 100 credits to restock the room before using it again.[P] 
+This upgrade can only be taken once. </Description>
+    <Source Page="75">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+    <PurchaseCount>1</PurchaseCount>
+    <Cost>
+      <Credits>350</Credits>
+    </Cost>
+    <CivilianRefit>true</CivilianRefit>
+  </BaseUpgrade>
+  <BaseUpgrade>
+    <Key>CIVREFITSEC</Key>
+    <Name>Civilian Refit:  Security Upgrades</Name>
+    <Description>[H4]Civilian Refit:  Security Upgrades[h4]
+The once-civilian facility's security improves somewhat, better protecting the Rebels within. When this upgrade is purchased, select one of the following: [BR]
+• The exterior doors of the building gain better locks that can only be opened with a special electronic key, an [B]Average ([DI][DI]) Computers check[b], or a [B]Hard ([DI][DI][DI]) Skulduggery check[b].[BR] • The structure of the facility is reinforced, giving it an armor value of I (weapons unable to inflict more than 1 planetary scale damage cannot damage the facility). 
+[BR]• The building's walls are fitted with scanner baffles and sound deadening insulation, which increase the difficulty of checks to detect life signs, movement, sounds, and other signs of activity within once. 
+[BR]• The facility gains security cameras that can be monitored on terminals throughout the facility. 
+[BR]• The facility has a disguised entrance set along a rubble-strewn wall or seemingly solid window panelling, detectable only though a [B]Hard ([DI][DI][DI]) Perception check[b]. [P]This upgrade may be purchased four additional times, each time with a different option selected.    </Description>
+    <Source Page="75">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+    <PurchaseCount>5</PurchaseCount>
+    <Cost>
+      <Credits>2250</Credits>
+    </Cost>
+    <CivilianRefit>true</CivilianRefit>
+    <Options>
+      <Option>
+        <Key>CIVREFITSEC1</Key>
+        <Name>Better Locks</Name>
+        <Description>
+          Exterior doors gain better locks that can only
+          be opened with an electronic key, an [B]Average ([DI][DI]) Computers check[b], or a [B]Hard ([DI][DI][DI]) Skulduggery check[b].
+        </Description>
+        <PurchaseCount>1</PurchaseCount>
+      </Option>
+      <Option>
+        <Key>CIVREFITSEC2</Key>
+        <Name>Reinforced Structure</Name>
+        <Description>
+          Structure of the facility is reinforced, giving it armor value of 1.
+        </Description>
+        <PurchaseCount>1</PurchaseCount>
+      </Option>
+      <Option>
+        <Key>CIVREFITSEC3</Key>
+        <Name>Baffled Walls</Name>
+        <Description>
+          Facility's walls are fitted with scanner baffles and sound deadening insulation.  All checks to detect
+          life signs, movement, sounds, and other activity are increased once.
+        </Description>
+        <PurchaseCount>1</PurchaseCount>
+      </Option>
+      <Option>
+        <Key>CIVREFITSEC4</Key>
+        <Name>Security Cameras</Name>
+        <Description>
+          Facilty gains security cameras that can be monitored throughout the facility.
+        </Description>
+        <PurchaseCount>1</PurchaseCount>
+      </Option>
+      <Option>
+        <Key>CIVREFITSEC5</Key>
+        <Name>Disguised Entrance</Name>
+        <Description>
+          Facility's entrance is only detectable with a [B]Hard ([DI][DI][DI]) Perception check[b].
+        </Description>
+        <PurchaseCount>1</PurchaseCount>
+      </Option>
+    </Options>
+  </BaseUpgrade>
+  <BaseUpgrade>
+    <Key>CIVREFITHANG</Key>
+    <Name>Civilian Refit:  Hidden Hanger</Name>
+    <Description>[H4]Civilian Refit:  Hidden Hanger[h4]
+The facility Incudes a large, reinforced room along with a wide passageway so that small vehicles can be stored inside and kept out of sight from Imperial eyes.[BR]
+This upgrade allows four vehicles of silhouette 2 or smaller to be secured inside the base.[BR]
+This upgrade may be purchased one additional time. </Description>
+    <Source Page="75">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+    <PurchaseCount>2</PurchaseCount>
+    <Cost>
+      <Credits>600</Credits>
+    </Cost>
+    <CivilianRefit>true</CivilianRefit>
+  </BaseUpgrade>
+  <BaseUpgrade>
+    <Key>CIVREFITINFIRM</Key>
+    <Name>Civilian Refit:  Infirmary</Name>
+    <Description>[H4]Civilian Refit:  Infirmary[h4]
+The facility includes a basic infirmary stocked to handle basic medical crises. The infirmary has cots and treatmenl space tor three patients, medical supplies (allowing characters to perform Medicine checks without penalty), and one bacta tank with supplies of bacta. [BR]
+This upgrade may be taken up to two additional times, increasing the number of patients it can accommodate by three and the number of bacta tanks by one each time.     </Description>
+    <Source Page="75">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+    <PurchaseCount>3</PurchaseCount>
+    <Cost>
+      <Credits>2400</Credits>
+    </Cost>
+    <CivilianRefit>true</CivilianRefit>
+  </BaseUpgrade>
 </BaseUpgrades>
