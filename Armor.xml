@@ -2582,14 +2582,14 @@ Skakoans require methane to live, and wear special pressure suits to emulate the
     <Soak>2</Soak>
   </Armor>
   <Armor>
-    <Key>SITHPAINHARNESS</Key>
+    <Key>SITHPAIN</Key>
     <Name>Sith Pain Harness</Name>
     <Description>[H3]Sith Pain Harness[h3]
 Constant enemies of the Jedi Order, the Sith have always sought to dominate and destroy. They even seek to pervert the Force itself, turning its energies into a weapon to torture and maim. They build all their greatest strengths on the pain they can inflict.
 [P]Developed over generations, the Sith Pain Harness represents the pinnacle of this philosophy. It is little more than a set of interlocking metal plates, each sharp enough to easily draw blood. Any being wearing the armor must take extreme caution, lest the metal carve into their flesh. Granted, the point of the device is not to avoid hurting oneself. Instead, Sith are to embrace the pain, using it to fuel their hatred. The pain they feel suffuses all their Force power, a gruesome attempt to spread their own agony.
 [P]While wearing the Sith Pain Harness, a character can choose to suffer one wound as an incidental to add automatic [SU] to the next Discipline check they make during the current round. They then suffer 1 Conflict.</Description>
     <Source Page="51">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Categories>
       <Category>Half Body</Category>
     </Categories>
@@ -2599,14 +2599,13 @@ Constant enemies of the Jedi Order, the Sith have always sought to dominate and 
     <Restricted>true</Restricted>
     <BaseMods>
       <Mod>
-        <Count>1</Count>
-        <MiscDesc>While wearing the Sith Pain Harness, a character can choose to suffer one wound as an incidental to add automatic [SU] to the next Discipline check they make during the current round. They then suffer 1 Conflict.</MiscDesc>
+        <MiscDesc>Wearer may suffer 1 wound as incidental to add [SU] to next Discipline check that round.  Must suffer 1 Conflict.</MiscDesc>
       </Mod>
     </BaseMods>
     <Soak>2</Soak>
   </Armor>
   <Armor>
-    <Key>TIMBERCUIRASS</Key>
+    <Key>TIMBERCUIR</Key>
     <Name>Timber Cuirass</Name>
     <Description>[H3]Timber Cuirass[h3]
 Before the Empire, Tholothian Defense Forces looked the same as their offworld counterparts. Guards wore synthetic body armor and wielded transparisteel riot shields. When deadly force was necessary, they carried a variety of blasters to do the job. While beautiful and poignant, traditional equipment lacked the practicality of offworld gear. In the years following the Clone Wars, the Empire sought to tighten its grip over the Outer Rim. Though it took years to make it there, the full brunt of Imperial force finally made its way to Tholoth.
@@ -2614,8 +2613,10 @@ Before the Empire, Tholothian Defense Forces looked the same as their offworld c
 weaponsmiths became the sale reliable source of arms and armaments. Before the Empire, Tholothians took their heritage for granted. Now that it is their last weapon against the Empire, Tholothians have embraced it with open arms.
 [P]The Timber Cuirass has become one of the planet's best products-a modern update for ancient Tholothian armor. Armorers crafted the classic cuirass from a single living piece of Heartwood. Generally, a noble would commission it as soon as they came of age, as the process could take decades. The cuirass must be shaped and refined while still growing as part of the tree. On completion, the resulting armor is as strong as durasteel, but only a fraction of the weight.</Description>
     <Source Page="51">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
-    <Categories />
+    <Custom>DescOnly</Custom>
+    <Categories>
+      <Category>Half Body</Category>
+    </Categories>
     <Encumbrance>4</Encumbrance>
     <HP>1</HP>
     <Price>4000</Price>
@@ -2624,14 +2625,14 @@ weaponsmiths became the sale reliable source of arms and armaments. Before the E
     <Soak>2</Soak>
   </Armor>
   <Armor>
-    <Key>WEATERWEAVE</Key>
+    <Key>WATERWEAVE</Key>
     <Name>Waterweave</Name>
     <Description>[H3]Waterweave[h3]
 Waterweave is a composite material created out of native Semblan alloys and minerals. While it is heavy and bulky normally, its buoyancy actually increases while submerged. Most scientists are at a complete loss to explain this, and mumble something about air pockets when pressed.
 [P]Waterweave deflects even the strongest blows instead of absorbing their force. Moreover, its buoyancy allows users to fight in the water without being dragged down by what would normally be bulky, restricting clothing. Warriors equipped with waterweave report fighting better underwater than on any other terrain.
 [P]Waterweave armor has encumbrance 7. However, while submerged, the armor's encumbrance changes to 0.</Description>
     <Source Page="51">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>CustomItem</Custom>
     <Categories>
       <Category>Full Body</Category>
     </Categories>
@@ -2641,21 +2642,20 @@ Waterweave is a composite material created out of native Semblan alloys and mine
     <Rarity>5</Rarity>
     <BaseMods>
       <Mod>
-        <Count>1</Count>
-        <MiscDesc>Waterweave armor has encumbrance 7. However, while submerged, the armor's encumbrance changes to 0.</MiscDesc>
+        <MiscDesc>When submerged, encumbrance changes to 0.</MiscDesc>
       </Mod>
     </BaseMods>
     <Defense>2</Defense>
     <Soak>1</Soak>
   </Armor>
   <Armor>
-    <Key>ANCIENTARMOR</Key>
+    <Key>ANCBATARM</Key>
     <Name>Ancient Battle Armor</Name>
     <Description>[H3]Ancient Battle Armor[h3]
 The precursors of the ancient Jedi faced much more primitive weapons than lightsabers and blasters, and so found heavy combat armor to be more worthwhile than did later generations. Although most such suits were destroyed in battle or by the passage of the millennia, on rare occasions, archaeologists or construction droids uncover ancient suits of metal armor in buried or forgotten ruins. With generous cleaning and repair work, this kind of ancient armor can prove serviceable, if heavy and burdensome. Some claim that such armor is effective against even modern blasters when worn by an individual strong in the Force, although weapon developers and metallurgists dismiss such stories.
 [P]While worn by a character with a Force rating of 1 or higher, ancient battle armor gains Defense 1.</Description>
     <Source Page="47">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Categories>
       <Category>Full Body</Category>
       <Category>Heavy</Category>
@@ -2666,28 +2666,28 @@ The precursors of the ancient Jedi faced much more primitive weapons than lights
     <Rarity>9</Rarity>
     <BaseMods>
       <Mod>
+        <Key>DEFADDFORCE</Key>
         <Count>1</Count>
-        <MiscDesc>While worn by a character with a Force rating of 1 or higher, ancient battle armor gains Defense 1</MiscDesc>
       </Mod>
     </BaseMods>
     <Soak>2</Soak>
   </Armor>
   <Armor>
-    <Key>KATARNARMOR</Key>
-    <Name>Mk I Katarn-class Commando Armor</Name>
+    <Key>MK1KATARN</Key>
+    <Name>Mk I Katarn-Class Commando Armor</Name>
     <Description>[H3]Mk I Katarn-class Commando Armor[h3]
 Katarn-class armor was originally designed for use by clone commandos during the Clone Wars. Named for a dangerous predatory beast native to Kashyyyk, this is one of the most advanced suits of heavy combat armor ever produced.
 [P]Each set of armor consists of a fully enclosed, environmentally sealed duraplast suit worn over an insulated, breathable, ballistic-fiber bodysuit. The armor is effective against most portable infantry weapons, light ordnance, shrapnel, and even light vehicle-mounted weapons like autoblasters and light laser cannons. It is resistant to heat, cold, toxins, radiation, and other hazardous environments and features reinforcements at strategic points such as the neck, spine, and forearms to protect against blasts and impacts. The helmet is equipped with an integrated combat scanner, an encrypted communications suite, and an on-board combat computer that monitors the physical conditions of the wearer and any nearby allies wearing Katarn-class armor. It also has an integrated breath mask and an on-board oxygen supply good for six hours of heavy combat.
 [P]In addition to its numerous on-board systems, Katarn-class armor can be equipped with a modular backpack system that can be tailored to various battlefield roles. Special plug-in modules provide long-range comms, medpacs, extended oxygen supplies, and even power generation.
 [P]A full suit of Katarn-class armor provides a wearer with all the benefits of a combat scanner and a breath mask, and increases the wearer's encumbrance threshold by 3. In addition, the suit's systems remove [SE] from all Perception and Survival checks made by the wearer.</Description>
     <Source Page="47">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Categories>
       <Category>Full Body</Category>
+      <Category>Hard</Category>
       <Category>Hard Full Body</Category>
-      <Category>Powered</Category>
-      <Category>Resistant</Category>
-      <Category>Sealable</Category>
+      <Category>Heavy</Category>
+      <Category>Sealed</Category>
     </Categories>
     <Encumbrance>4</Encumbrance>
     <HP>3</HP>
@@ -2697,7 +2697,11 @@ Katarn-class armor was originally designed for use by clone commandos during the
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>A full suit of Katarn-class armor provides a wearer with all the benefits of a combat scanner and a breath mask</MiscDesc>
+        <MiscDesc>Suit provides all benefits of a combat scanner</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Suit provides all benefits of a breath mask</MiscDesc>
       </Mod>
       <Mod>
         <Key>ENCTADD3</Key>
@@ -2705,7 +2709,7 @@ Katarn-class armor was originally designed for use by clone commandos during the
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>The suit's systems remove [SE] from all Perception and Survival checks made by the wearer</MiscDesc>
+        <MiscDesc>Removes [SE] from Perception and Survival checks</MiscDesc>
         <DieModifiers>
           <DieModifier>
             <SkillKey>PERC</SkillKey>
@@ -2722,17 +2726,17 @@ Katarn-class armor was originally designed for use by clone commandos during the
     <Soak>2</Soak>
   </Armor>
   <Armor>
-    <Key>ARCARMOR</Key>
+    <Key>PHASEIARC</Key>
     <Name>Phase I ARC Trooper Armor</Name>
     <Description>[H3]Phase I ARC Trooper Armor[h3]
 Worn by the Grand Army of the Republic's elite Advanced Recon Commandos. Phase I ARC armor filled a gap between standard clone trooper armor and the heavy, highly advanced Katarn-class armor. Like the clone trooper armor from which it is derived, Phase I ARC armor is a full suit of plastoid armor worn over a formfitting bodysuit. It has heavier armor on the forearms, thighs, and chest, and an advanced helmet that features a hardened long-range comlink. A skirtlike kama made from advanced armored textiles is worn around the waist, providing extra protection to the legs and groin, and each suit is equipped with a built-in load-bearing harness and a survival pack.
 [P]The various systems built into Phase I ARC trooper armor remove [SE] from all Perception checks made by the wearer and provide all the benefits of a hardened comlink. In addition, the integrated load-bearing harness increases the wearer's encumbrance threshold by 3.</Description>
     <Source Page="48">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Categories>
       <Category>Full Body</Category>
-      <Category>Hard Full Body</Category>
       <Category>Hard</Category>
+      <Category>Hard Full Body</Category>
     </Categories>
     <Encumbrance>4</Encumbrance>
     <HP>2</HP>
@@ -2742,17 +2746,21 @@ Worn by the Grand Army of the Republic's elite Advanced Recon Commandos. Phase I
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>The various systems built into Phase I ARC trooper armor remove [SE] from all Perception checks made by the wearer and provide all the benefits of a hardened comlink</MiscDesc>
+        <MiscDesc>Provides all benefits of a hardened comlink</MiscDesc>
+      </Mod>
+      <Mod>
+        <Key>ENCTADD3</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Removes [SE] from all Perception checks</MiscDesc>
         <DieModifiers>
           <DieModifier>
             <SkillKey>PERC</SkillKey>
             <SetbackCount>1</SetbackCount>
           </DieModifier>
         </DieModifiers>
-      </Mod>
-      <Mod>
-        <Key>ENCTADD3</Key>
-        <Count>1</Count>
       </Mod>
     </BaseMods>
     <Defense>1</Defense>
@@ -2767,7 +2775,7 @@ Ayelixe/Krongbing's Climbsuit is a popular set of lightweight armor designed spe
 [P]Wearing a Climbsuit upgrades the ability of the wearer's checks to climb or rappel down a surface once. The Climbsuit also reduces damage and strain suffered from falling by 5 and reduces any related Critical Injury results from falling by 10.
 </Description>
     <Source Page="41">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Categories>
       <Category>Full Body</Category>
     </Categories>
@@ -2777,24 +2785,25 @@ Ayelixe/Krongbing's Climbsuit is a popular set of lightweight armor designed spe
     <Rarity>4</Rarity>
     <BaseMods>
       <Mod>
-        <Count>1</Count>
-        <MiscDesc>Wearing a Climbsuit upgrades the ability of the wearer's checks to climb or rappel down a surface once.</MiscDesc>
+        <MiscDesc>Upgrades the ability of checks to climb or rappel down a surface once.</MiscDesc>
       </Mod>
       <Mod>
-        <Count>1</Count>
-        <MiscDesc>The Climbsuit also reduces damage and strain suffered from falling by 5 and reduces any related Critical Injury results from falling by 10.</MiscDesc>
+        <MiscDesc>Reduces damage and strain suffered from falling by 5.</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>Reduces Critical Injury results due to falling by 10..</MiscDesc>
       </Mod>
     </BaseMods>
     <Soak>1</Soak>
   </Armor>
   <Armor>
-    <Key>MKINIGHTSTALKER SUIT</Key>
-    <Name>Mk I NightStalker Suit</Name>
+    <Key>MKINIGHTSTALK</Key>
+    <Name>Mk I Nightstalker Suit</Name>
     <Description>[H3]Bantin Corp Mk I NightStalker Infiltrator Suit[h3]
 The Mk I NightStalker is a lightweight, surprisingly durable suit of armor that Bantin Corp recently produced. Marketed toward law enforcement and intelligence agencies, the NightStalker combines light-absorbing materials, armorweave, gel-insert plates, and sound dampening fabric to produce a suit that provides both respectable protection and decent passive stealth capabilities. The NightStalker is a full-body suit that covers everything but the wearer's eyes. It is typically worn with scanner goggles or other wearable vision-enhancement systems.
 [P]When wearing a NightStalker suit, the wearer adds automatic [SU] to Stealth checks he makes and adds automatic [TH] to social skill checks he makes.</Description>
     <Source Page="41">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Categories>
       <Category>Full Body</Category>
     </Categories>
@@ -2805,13 +2814,17 @@ The Mk I NightStalker is a lightweight, surprisingly durable suit of armor that 
     <Restricted>true</Restricted>
     <BaseMods>
       <Mod>
-        <Count>1</Count>
-        <MiscDesc>When wearing a NightStalker suit, the wearer adds automatic [SU] to Stealth checks he makes and adds automatic [TH] to social skill checks he makes.</MiscDesc>
+        <MiscDesc>Wearer adds automatic [SU] to Stealth checks.</MiscDesc>
         <DieModifiers>
           <DieModifier>
-            <SkillKey>CHARM</SkillKey>
-            <ThreatCount>1</ThreatCount>
+            <SkillKey>STEAL</SkillKey>
+            <SuccessCount>1</SuccessCount>
           </DieModifier>
+        </DieModifiers>
+      </Mod>
+      <Mod>
+        <MiscDesc>Wearer adds automatic [TH] to social skill checks.</MiscDesc>
+        <DieModifiers>
           <DieModifier>
             <SkillKey>COERC</SkillKey>
             <ThreatCount>1</ThreatCount>
@@ -2825,12 +2838,12 @@ The Mk I NightStalker is a lightweight, surprisingly durable suit of armor that 
             <ThreatCount>1</ThreatCount>
           </DieModifier>
           <DieModifier>
-            <SkillKey>NEG</SkillKey>
+            <SkillKey>CHARM</SkillKey>
             <ThreatCount>1</ThreatCount>
           </DieModifier>
           <DieModifier>
-            <SkillKey>STEAL</SkillKey>
-            <SuccessCount>1</SuccessCount>
+            <SkillKey>NEG</SkillKey>
+            <ThreatCount>1</ThreatCount>
           </DieModifier>
         </DieModifiers>
       </Mod>
@@ -2838,13 +2851,13 @@ The Mk I NightStalker is a lightweight, surprisingly durable suit of armor that 
     <Soak>2</Soak>
   </Armor>
   <Armor>
-    <Key>MKIXMIMETIC</Key>
+    <Key>MKIXMIM</Key>
     <Name>Mk IX Personal Mimetic Concealment Suit</Name>
     <Description>[H3]Cyricept Mk IX Mimetic Concealment Suit[h3]
 Cyricept's Mk IX Personal Mimetic Concealment Suits use active stealth technologies combined with advanced textiles to provide one of the best personal stealth suits available. When active, a mimetic suit uses an optical camouflage (OC) system that bends light around the wearer and reflects back images of the surrounding area. This OC system is combined with electromagnetic and heat shielding, sound bafflers, and other systems to render a wearer essentially invisible to both the naked eye and most common security sensors. To run these systems, mimetic suits require a small, high-output energy cell built into a belt or wristband. Mimetic suits consume energy at an extremely high rate, and a power pack is good for about an hour of constant use. Like all mimetic suits, the Mk IX is illegal to own and to sell to civilians. While they are primarily used by governmental intelligence and law enforcement agencies, many suits have found their way into the hands of dangerous criminals throughout the galaxy. 
 [P]Wearing a Mk IX Personal Mimetic Concealment Suit upgrades the ability of all Stealth checks made by the wearer twice. In addition, the Game Master may spend [TH][TH][TH] or [DE] on any Stealth check made by the wearer while the suit is active to have the suit's power pack run dry. The suit cannot be used again until the power pack is replaced; replacing a power pack requires a maneuver.</Description>
     <Source Page="42">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Categories>
       <Category>Full Body</Category>
     </Categories>
@@ -2855,8 +2868,7 @@ Cyricept's Mk IX Personal Mimetic Concealment Suits use active stealth technolog
     <Restricted>true</Restricted>
     <BaseMods>
       <Mod>
-        <Count>1</Count>
-        <MiscDesc>Wearing a Mk IX Personal Mimetic Concealment Suit upgrades the ability of all Stealth checks made by the wearer twice.</MiscDesc>
+        <MiscDesc>Wearer upgrades ability of all Stealth checks twice.</MiscDesc>
         <DieModifiers>
           <DieModifier>
             <SkillKey>STEAL</SkillKey>
@@ -2865,8 +2877,7 @@ Cyricept's Mk IX Personal Mimetic Concealment Suits use active stealth technolog
         </DieModifiers>
       </Mod>
       <Mod>
-        <Count>1</Count>
-        <MiscDesc>In addition, the Game Master may spend [TH][TH][TH] or [DE] on any Stealth check made by the wearer while the suit is active to have the suit's power pack run dry. The suit cannot be used again until the power pack is replaced; replacing a power pack requires a maneuver.</MiscDesc>
+        <MiscDesc>GM may spend [TH][TH][TH] or [DE] to cause the power pack to run out.</MiscDesc>
       </Mod>
     </BaseMods>
     <Defense>1</Defense>
