@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<Specialization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Key>CLONETROOP</Key>
+  <Name>Clone Trooper</Name>
+  <Description>[H4]Clone Trooper[h4]
+Standard infantry make up the largest portion of the soldiers in almost every army. Their units handle the direct, personal conflict on the surface of every battlefield, whether that battlefield is on the ground, under the sea, or within the confines of a space station. Because the Clone Troopers—the infantry—represent the front line of the Grand Army of the Republic, their basic level of competency defines the army's capabilities. In order for the army to be able to overcome its foes quickly and effectively, every Clone Trooper must be more capable than the rank and file of the Separatists' droid aimies.
+
+[P]Clone Troopers receive [B]Gunnery, Perception, Ranged (Heavy),[b] and [B]Resilience[b] as additional career skills. Characters who select this as their starting specialization may choose two of these skills and gain one free rank in each without spending starting experience. These expand upon the core skills that a soldier needs to succeed in basic battlefield situations. While not every Clone Trooper masters all of them, they are expected to have some level or competency so that they can effectively engage in battle under diverse conditions. 
+
+[P]This specialization provides a versatile set of skills that are valuable to every Clone Soldier. A background as a member of the infantry provides a Clone Officer with a better understanding of the soldiers he commands. Similarly, infantry experience gives a Clone Pilot some familiarity with the risks faced by soldiers on the ground, which is useful for providing air support or extraction.
+
+[P]The Clone Trooper specialization encompasses a range of non-specific roles. Some of these are devoted to particular environmental conditions, including the combat roles of cold assault trooper, SCUBA trooper, and Galactic Marine. Other Clone Troopers, including paratroopers, flame troopers, and medics, have more extensive training to work with particular equipment. Soldiers who exhibit particular skills in service might be selected for advanced training within that skill set, including ARC troopers, scout troopers, and special ops clone troopers. While distinctive equipment characterizes each of these different combat and support roles, the training to use that gear and work under extreme situations is also critical to success within these niches.
+
+[P]Even within a unit, soldiers assume particular responsibilities. Often, one trooper is assigned to carry a heavier weapon—such as the Z-6 rotary blaster cannon—while others might wield alternative tools, such as explosives, communications gear, a medpac, or other equipment necessary to complete the mission at hand. Typically, Clone Troopers receive particular training to make use of any non-standard equipment they carry. However, Clone Troopers with less specialized training might redistribute such gear over the course of a mission.
+</Description>
+  <Source Page="23">Rise of the Separatists</Source>
+  <Custom>AddedItem</Custom>
+  <CareerSkills>
+    <Key>GUNN</Key>
+    <Key>PERC</Key>
+    <Key>RANGHVY</Key>
+    <Key>RESIL</Key>
+  </CareerSkills>
+  <TalentRows>
+    <TalentRow>
+      <Cost>5</Cost>
+      <Talents>
+        <Key>GRIT</Key>
+        <Key>PHYSTRAIN</Key>
+        <Key>TOUGH</Key>
+        <Key>BRA</Key>
+      </Talents>
+      <Directions>
+        <Direction />
+        <Direction>
+          <Down>true</Down>
+        </Direction>
+        <Direction />
+        <Direction>
+          <Down>true</Down>
+        </Direction>
+      </Directions>
+    </TalentRow>
+    <TalentRow>
+      <Cost>10</Cost>
+      <Talents>
+        <Key>SUPPRFIRE</Key>
+        <Key>CLANKKILL</Key>
+        <Key>BRA</Key>
+        <Key>TOUGH</Key>
+      </Talents>
+      <Directions>
+        <Direction>
+          <Right>true</Right>
+        </Direction>
+        <Direction>
+          <Left>true</Left>
+          <Up>true</Up>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
+          <Right>true</Right>
+        </Direction>
+        <Direction>
+          <Left>true</Left>
+          <Up>true</Up>
+          <Down>true</Down>
+        </Direction>
+      </Directions>
+    </TalentRow>
+    <TalentRow>
+      <Cost>15</Cost>
+      <Talents>
+        <Key>ARM</Key>
+        <Key>DEADACC</Key>
+        <Key>SUPPRFIRE</Key>
+        <Key>IMPBRACE</Key>
+      </Talents>
+      <Directions>
+        <Direction>
+          <Right>true</Right>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
+          <Left>true</Left>
+          <Right>true</Right>
+          <Up>true</Up>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
+          <Left>true</Left>
+          <Right>true</Right>
+        </Direction>
+        <Direction>
+          <Left>true</Left>
+          <Up>true</Up>
+          <Down>true</Down>
+        </Direction>
+      </Directions>
+    </TalentRow>
+    <TalentRow>
+      <Cost>20</Cost>
+      <Talents>
+        <Key>TOUGH</Key>
+        <Key>CLANKKILL</Key>
+        <Key>ENDUR</Key>
+        <Key>SUPBRACE</Key>
+      </Talents>
+      <Directions>
+        <Direction>
+          <Up>true</Up>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
+          <Up>true</Up>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
+          <Up>true</Up>
+          <Down>true</Down>
+        </Direction>
+      </Directions>
+    </TalentRow>
+    <TalentRow>
+      <Cost>25</Cost>
+      <Talents>
+        <Key>ARMIMP</Key>
+        <Key>NATTRO</Key>
+        <Key>DEDI</Key>
+        <Key>LATTHINK</Key>
+      </Talents>
+      <Directions>
+        <Direction>
+          <Right>true</Right>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Left>true</Left>
+          <Right>true</Right>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Left>true</Left>
+          <Right>true</Right>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Left>true</Left>
+          <Up>true</Up>
+        </Direction>
+      </Directions>
+    </TalentRow>
+  </TalentRows>
+</Specialization>
