@@ -11237,4 +11237,525 @@ Usually formed from rigid plates or packed with protective padding, most types o
       </Mod>
     </BaseMods>
   </ItemAttachment>
+  <ItemAttachment>
+    <Key>ASCGUN</Key>
+    <Name>Ascension Gun</Name>
+    <Description>[H4]Ascension Gun[h4]
+Ascension guns are tools used to traverse difficult environments, from steep cliffs to urban battlefields. The frame resembles a gun barrel, but instead of a blaster bolt, it fires a grappling hook and tether that can latch onto most surfaces, then reel in the gun and its bearer with a localized repulsor field. Some variations of the ascension gun also use magnetized grapnels that can stick to sheer surfaces. “Ascension gun” is something of a misnomer, often used to refer not only to the attachment. but to modified blasters.</Description>
+    <Source Page="61">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Blaster</Category>
+    </CategoryLimit>
+    <Price>500</Price>
+    <Rarity>4</Rarity>
+    <HP>1</HP>
+    <Encumbrance>1</Encumbrance>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>The user can fire the ascension gun at an anchor point within medium range with an [B]Easy ([DI]) Ranged (Light) or Coordination check.[b] At the GMs discretion, aiming for a precise placement or attaching a grapnel to certain surfaces might add one or more [SE] to the check. Once the grapnel is in place the wearer can activate the repulsor field to ascend one range band toward it every round.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Add [BO] to checks to fire the ascension gun Mod</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Increase ascension speed by one range band Mod</MiscDesc>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>AUGVIBRO</Key>
+    <Name>Augmented Vibro-motor</Name>
+    <Description>[H4]Augmented Vibro-motor[h4]
+
+The cutting edge of a vibro weapon's blade is made many times more dangerous than that of a standard blade by the power of the weapon's rapid vibro-motor, which turns the wielder’s slightest motion into a powerful and potentially lethal stroke. Naturally, those who favor such weapons often look to the vibro-motor first when modifying their weapon. Enhancing the output of a vibro weapon's motor can make the weapon even more powerful, capable of shearing through armored plating with ease-provided the wielder can control the weapon's more active motions. This attachment can be installed on any vibro weapon.
+</Description>
+    <Source Page="61">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Powered Melee</Category>
+      <Category>Powered Brawl</Category>
+    </CategoryLimit>
+    <Price>500</Price>
+    <Rarity>4</Rarity>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <Count>3</Count>
+        <MiscDesc>Grants the weapon the Cumbersome 3 quality or increases its existing Cumbersome rating by 1.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Increases the weapon’s base damage by 1. </MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Damage +1 Mod</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Item Quality (Vicious +1 ) Mod </MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>-1</Count>
+        <MiscDesc>Decrease the weapon's Cumbersome quality by 1 Mod</MiscDesc>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CLONEKEY</Key>
+    <Name>Clone Firing Key</Name>
+    <Description>[H4]Clone Firing Key[h4]
+One of the early initiatives the Kaminoans considered when developing equipment for the clone troopers was to code their equipment specifically to the clone genetic sequence, to prevent looting and sabotage. The notion was eventually abandoned as an unnecessary cost, despite the savings from having a single genetic sequence shared across an entire army, but prototypes of the technology were made. In some cases, clone firing keys have been commissioned for clone units operating deep behind enemy lines. A weapon with this system installed reads the genetic sequence of the combatant holding it and does not fire unless the sequence matches that of an authorized wielder: normally, a clone. This attachment can be installed on any personal blaster weapon.</Description>
+    <Source Page="61">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Blaster</Category>
+    </CategoryLimit>
+    <Price>250</Price>
+    <Rarity>7</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>The weapon functions only in the hands of a clone.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>1 reprogram authorized user genetic sequence (choose one non-clone character) Mod.</MiscDesc>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>COMBATTESTED</Key>
+    <Name>Combat Tested</Name>
+    <Description>[H4]Combat Tested[h4]
+Over the course of numerous battles, combatants can make a variety of minor personalizations and tweaks to their gear, from notches for successful missions or targets destroyed carved into the butts of rifes, to the attachment of trophies taken from enemy droids or the battlefield. Weapons customized in this way become comforting reminders of victories past, helping their wielders stay calm under fire and in tough situations. Such personalizations can be installed on any weapon that the owner has used through extended periods of combat, as determined by the GM.</Description>
+    <Source Page="61">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <Price>50</Price>
+    <Rarity>3</Rarity>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Owner adds [BO] to Discipline checks.</MiscDesc>
+        <DieModifiers>
+          <DieModifier>
+            <SkillKey>DISC</SkillKey>
+            <BoostCount>1</BoostCount>
+          </DieModifier>
+        </DieModifiers>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <MiscDesc>1 add [BO] to checks to resist Fear Mod.</MiscDesc>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CORTFORG</Key>
+    <Name>Cortosis Forging</Name>
+    <Description>[H4]Cortosis Forging[h4]
+For most, dueling a Jedi is a fool’s errand, and even more so in close combat, where their lightsabers dictate the terms of battle. If they can afford it, bounty hunters and Separatist agents who believe they might need to pit their blade against a lightsaber purchase a vibro weapon made of cortosis alloy. This can give them a fighting chance against the deadliest weapons in the galaxy. This attachment can be installed on any Melee weapon.</Description>
+    <Source Page="61">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <TypeLimit>
+      <Type>Melee</Type>
+    </TypeLimit>
+    <Price>8000</Price>
+    <Rarity>8</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Weapon gains the Cortosis quality.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Item Quality (Pierce +1) Mod.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Item Quality (Pierce +1) Mod.</MiscDesc>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>INSULATEDFIRING</Key>
+    <Name>Insulated Firing Mechanisms</Name>
+    <Description>[H4]Insulated Firing Mechanisms[h4]
+One of the most insidious dangers of the battlefield comes not from the foes combatants face, but from the risks of their own gear failing. Regular maintenance and examination of weapons under heavy use is a must for soldiers and mercenaries alike, but sometimes modification of a weapon can make the concerns less grave. By removing complex, failure-prone regulatory circuitry and replacing it with more basic analog systems, blasters become easier to maintain and less prone to failure or damage. This attachment can be installed on any personaI-scale blaster weapon 
+
+</Description>
+    <Source Page="61">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Blaster</Category>
+    </CategoryLimit>
+    <Price>1000</Price>
+    <Rarity>7</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Increase the [AD] or [TH] cost of any effect that damages the weapon (such as the Sunder quality) by [AD] or [TH] (as applicable). The weapon gains the Prepare 1 quality, or increases its existing Prepare quality by 1. Repairs to the weapon when damaged cost half as much.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Count>-1</Count>
+        <MiscDesc>Reduce Prepare quality by 1 Mod.</MiscDesc>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>IONFOCUSCOIL</Key>
+    <Name>Ionizing Focusing Coils</Name>
+    <Description>[H4]Ionizing Focusing Coils[h4]
+Dealing with the droid army of the CIS has made advancements in ion technology a high priority for Republic military researchers ard contractors, although research in the field has produced mixed results, in an effort to make blaster weapons more damaging against droids, some manufacturers have begun offering modified focusing coils that ionize blaster gas as it is fired, granting increased stopping power against mechanical targets. However, adequately shielding the internal circuits of the blasters against the ionized gas has proven difficult, making such weapons temperamental at best. Clone detachments with a chance to customize their gear sometimes requisition these altered coils, while independent operators who anticipate interference from droid security forces or similar threats may also invest in the technology. This attachment can be installed on any personal scale blaster weapon.</Description>
+    <Source Page="61">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Blaster</Category>
+    </CategoryLimit>
+    <Price>800</Price>
+    <Rarity>5</Rarity>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Increase weapon damage by 2 versus droids. Opponents may spend [TH][TH] or [DE] on combat checks using the weapon to damage the weapon one step (see [B]Table 5-4: Repairing Gear[b] in any core rulebook).
+</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <MiscDesc>Damage +1 versus droids Mod. </MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>Damage +1 versus droids Mod. </MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>Decrease weapon's critical rating versus droids by 1 to a minimum of 1 Mod. </MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>Increase [TH] required to backfire by 1 Mod.</MiscDesc>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>FUSSHUNT</Key>
+    <Name>Fusion Shunt</Name>
+    <Description>[H4]Fusion Shunt[h4]
+A lightsaber is more than just a weapon. It is a symbol, a badge of office-and a tool. When its wielder is faced with a situation that requires that latter approach, a lightsaber can carve through obstacles or debris to clear a path forward. Some Jedi modify their lightsaber's power output to allow a secondary “fusion shunt" mode for the blade, amplifying the power and profile of the blade. The wielder must take great care to keep the blade's motions precise, as the energy pours forth from the emitter while the shunt is active.</Description>
+    <Source Page="64">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Lightsaber</Category>
+    </CategoryLimit>
+    <Price>2000</Price>
+    <Rarity>6</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Activating or deactivating the fusion shunt requires a maneuver. If the lightsaber is used as a weapon while the shunt is active, all combat checks suffer [TH][TH][TH], but the weapon’s Breach quality increases by 1. While the fusion shunt is active, the lightsaber can slice through obstacles with ease, destroying or cutting through barriers and other inanimate targets at twice the normal rate. Exact details are up to GM's discretion, but in general, hardened security doors and reinforced walls should withstand two to three rounds of cutting, with other obstacles being dealt with in a corresponding time frame.</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>IONEMITMAT</Key>
+    <Name>Ionizing Emitter Matrix</Name>
+    <Description>[H4]Ionizing Emitter Matrix[h4]
+Few droids can stand up to a lightsaber, but some heavily reinforced droid models have been known to fight through the destruction of their limbs and even some of their core systems to achieve their objectives. Some Jedi have taken to tuning their lightsabers specifically to deal with these foes, the better to bring the war to a close by disabling the droid armies. With the right modifications, a lightsaber can be made to emit a low-level ion pulse as it strikes, although such modulation reduces its overall energy output.
+</Description>
+    <Source Page="64">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Lightsaber</Category>
+    </CategoryLimit>
+    <Price>4000</Price>
+    <Rarity>6</Rarity>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Increase weapon's base damage by 2 when targeting droids and vehicles, but decrease base damage by 1 against organic and other targets</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>THONTIIN</Key>
+    <Name>Thontiin Crystal</Name>
+    <Description>[H4]Thontiin Crystal[h4]
+Although long recognized as kyber crystals, Thontiin crystals were unheard of as lightsaber cores until recently. Instead, these crystals have been utilized for their unique properties as healing aids, capable of assisting a Jedi healer in easing the pain of a patient and making their treatment easier. The needs of the war have brought these crystals closer to the front lines. After one young Knight's lightsaber suffered disastrous damage in battle, they attempted to replace their ruined crystal from Ilum with a Thontiin crystal. In doing so, the Knight discovered that the crystals' healing properties were focused through a carried lightsaber in new ways, allowing ihe bearer to fight through debilitating pain. The healers of the Jedi Order are reluctant to see these sacred artifacts turned into weapons, but the desperate circumstances of the war have caused a handful of them to be repurposed in this manner nevertheless.
+</Description>
+    <Source Page="64">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Lightsaber</Category>
+      <Category>Lightsaber Hilt</Category>
+    </CategoryLimit>
+    <Price>9000</Price>
+    <Rarity>9</Rarity>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <Key>DAMSET</Key>
+        <Count>6</Count>
+      </Mod>
+      <Mod>
+        <Key>CRITSET</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Key>BREACH</Key>
+        <Count>1</Count>
+        <QualSet>true</QualSet>
+      </Mod>
+      <Mod>
+        <Key>SUNDER</Key>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Once per encounter, the wielder may ignore the effect of a single Critical Injury of [B]Easy ([DI])[b] Seventy (the character still suffers the Critical Injury).</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>DAMADD</Key>
+        <Count>3</Count>
+      </Mod>
+      <Mod>
+        <Key>CRITSUB</Key>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+    <IsCrystal>true</IsCrystal>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>ZOPHIS</Key>
+    <Name>Zophis Crystal</Name>
+    <Description>[H4]Zophis Crystal[h4]
+In ancient days, the Outer Rim world of Zoph was well traveled by the Jedi, and some padawans would sojourn to the distant world to seek their kyber crystal. As Ilum increased in prominence for the Jedi Order, such visits waned. Now, the world is held by Separatist forces, who would not look kindly upon Jedi crystal seekers. However, some records remain of the unusual kyber crystals gathered on that world, whose unique resonance made for devastating, if unstable, blades. A Iightsaber fitted with a Zophis crystal can carve through durasteel plating with ease, but it is vulnerable to fluctuations in power from the crystal core.</Description>
+    <Source Page="64">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Lightsaber</Category>
+      <Category>Lightsaber Hilt</Category>
+    </CategoryLimit>
+    <Price>11000</Price>
+    <Rarity>10</Rarity>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <Key>DAMSET</Key>
+        <Count>8</Count>
+      </Mod>
+      <Mod>
+        <Key>CRITSET</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Key>BREACH</Key>
+        <Count>2</Count>
+        <QualSet>true</QualSet>
+      </Mod>
+      <Mod>
+        <Key>SUNDER</Key>
+      </Mod>
+      <Mod>
+        <Key>VICIOUS</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>When this weapon's Sunder quality is activated by spending one or more [AD], the damage suffered by the targeted item automatically increases by one step (see [B]Table 5-4: Repairing Gear[b] in any core rulebook). However, on a combat check using this weapon, [TH][TH][TH] or [DE] may be spent to cause the crystal's resonance to temporarily interrupt the power flow, disabling the weapon until the end of the wielder's next turn.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>DAMADD</Key>
+        <Count>2</Count>
+      </Mod>
+    </AddedMods>
+    <IsCrystal>true</IsCrystal>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>BIOSUPPDISP</Key>
+    <Name>Bio-Support Dispenser</Name>
+    <Description>[H4]Bio-Support Dispenser[h4]
+Sophisticated medical technology integrated into armor can enhance the effects of in-combat treatments through carefully regulated and distributed dosages. This system applies medication automatically as the wearer's vitals begin to suffer, and It includes an internal bacta reservoir for sealing the most grievous injuries. This attachment may only be installed on a fully enclosed suit of armor, such as laminate, clone trooper, or heavy battle armor.</Description>
+    <Source Page="65">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Armor</Type>
+    <CategoryLimit>
+      <Category>Full Body</Category>
+    </CategoryLimit>
+    <Price>4000</Price>
+    <Rarity>6</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>When the character heals strain at the end of an encounter, they also heal 1 wound if they suffered any wounds during the encounter. In addition, the first time in an encounter that the character's current wounds exceed half their wound threshold, the armor automatically applies a stimpack to the character.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Heal 1 additional wound at the end of an encounter.</MiscDesc>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CEREADORN</Key>
+    <Name>Ceremonial Adornment</Name>
+    <Description>[H4]Ceremonial Adornment[h4]
+Diplomats and their retinues typically avoid armor and weapons, the better to clearly signal their sincerity. However, at times, even diplomacy is dangerous enough to warrant looking into personal protection. Those who seek a compromise between protecting their lives and putting others at ease sometimes don ornamented armor with a ceremonial style that downplays its combat-oriented nature. The best armor of this type is as functional as it is beautiful, but usually brings an attendant cost in mobility due to the elaborate decorations over the protective wear. This attachment may be installed on any armor, although the GM may alter its effects tor particularly intimidating or heavy armor.</Description>
+    <Source Page="65">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Armor</Type>
+    <Price>2500</Price>
+    <Rarity>4</Rarity>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Removes [SE][SE] from Social skill checks due to wearing armor in socially inappropriate situations.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Adds [SE] to Coordination checks.</MiscDesc>
+        <DieModifiers>
+          <DieModifier>
+            <SkillKey>COORD</SkillKey>
+            <AddSetbackCount>1</AddSetbackCount>
+          </DieModifier>
+        </DieModifiers>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>1 Remove [SE] from Coordination checks Mod</MiscDesc>
+        <DieModifiers>
+          <DieModifier>
+            <SkillKey>COORD</SkillKey>
+            <SetbackCount>1</SetbackCount>
+          </DieModifier>
+        </DieModifiers>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>PHYSENHANCESYS</Key>
+    <Name>Physiological Enhancemen System</Name>
+    <Description>[H4]Physiological Enhancemen System[h4]
+These advanced, custom-tailored systems provide medical diagnostics, ergonomic adjustments, and powered support systems tuned to the wearer's motor functions. Stress and pain are greatly reduced by heart-rate regulation and temperature-control systems, and common physical tasks require considerably less effort. These benefits come at a significant cost, as the systems involved require careful calibration to the wearer’s specific needs and physique.
+
+[P]Although physiological support systems are normally tailored to individual physiology, they can be produced for clones using a standardized template, greatly reducing the cost. As such, the cost listed is for a custom support system. For Clones, the cost is only 3000. This attachment may only be installed on fully enclosed suits of armor, such as laminate, clone trooper, or heavy battle armor.
+</Description>
+    <Source Page="65">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Armor</Type>
+    <CategoryLimit>
+      <Category>Full Body</Category>
+    </CategoryLimit>
+    <Price>10000</Price>
+    <Rarity>7</Rarity>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Whenever the character suffers strain involuntarily, reduce the amount of strain suffered by 1, to a minimum of 1.</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>The wearer adds [BO] to all Athletics, Coordination, and Resilience checks.</MiscDesc>
+        <DieModifiers>
+          <DieModifier>
+            <SkillKey>ATHL</SkillKey>
+            <BoostCount>1</BoostCount>
+          </DieModifier>
+          <DieModifier>
+            <SkillKey>COORD</SkillKey>
+            <BoostCount>1</BoostCount>
+          </DieModifier>
+          <DieModifier>
+            <SkillKey>RESIL</SkillKey>
+            <BoostCount>1</BoostCount>
+          </DieModifier>
+        </DieModifiers>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>ATHL</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>COORD</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>RESIL</Key>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>SQUADTACSYS</Key>
+    <Name>Squad Tactical Systems</Name>
+    <Description>[H4]Squad Tactical Systems[h4]
+Sensor and comm systems are common installations on armor, but some groups take the practice a step further equipping all their members with uniform packages designed to work in tandem. Squads of clone troopers and planetary militia are the most common users of these systems, but even groups of bounty hunters sometimes avail themselves of the advantages provided by operating in tandem. These sensor packages share information with all other nearby squad members equipped with the same gear, enhancing awareness and communication. This attachment may be installed in the helmet of any armor.
+</Description>
+    <Source Page="65">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Armor</Type>
+    <Price>2000</Price>
+    <Rarity>5</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Wearer adds [BO] to all Perception and Vigilance checks while within medium range of one or more allies also using armor with this attachment. Includes integrated comlink.</MiscDesc>
+        <DieModifiers>
+          <DieModifier>
+            <SkillKey>PERC</SkillKey>
+            <BoostCount>1</BoostCount>
+          </DieModifier>
+          <DieModifier>
+            <SkillKey>VIGIL</SkillKey>
+            <BoostCount>1</BoostCount>
+          </DieModifier>
+        </DieModifiers>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>PERC</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>VIGIL</Key>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
 </ItemAttachments>

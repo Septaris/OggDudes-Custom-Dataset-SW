@@ -8661,4 +8661,953 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     </ChooseCareerSkills>
     <Activation>Passive</Activation>
   </Talent>
+  <Talent>
+    <Key>ADAPTABLE</Key>
+    <Name>Adaptable</Name>
+    <Description>[H4]Adaptable[h4]
+When resolving a check that uses a skill
+in which they nave no ranks, the character may spend
+one Destiny Point to remove [DE] from the check or to
+remove [TH] equal to their ranks in Cool from the check.</Description>
+    <Source Page="37">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>ANOTHERSTREASURE</Key>
+    <Name>Another's Treasure</Name>
+    <Description>[H4]Another's Treasure[h4]
+The condition of an item does not affect the price
+the character receives when selling it. In addition, the
+character can always find a buyer for an item, no matter its condition or how useless or worthless it may
+seem. The details of the transaction are subject to the
+GM’s discretion, as always, and a buyer might not be
+immediately (or easily) available.</Description>
+    <Source Page="37">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>ASSAULTDROP</Key>
+    <Name>Assault Drop</Name>
+    <Description>[H4]Assault Drop[h4]
+Once per session while piloting a vehicle or ship, the
+character may perform the Assault Drop incidental.
+All passengers aboard or allies engaged with the vehicle
+or ship may immediately disembark or embark as
+an out-of-turn incidental.</Description>
+    <Source Page="37">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>BACKROOM</Key>
+    <Name>Backroom Deal</Name>
+    <Description>[H4]Backroom Deal[h4]
+Once per encounter, the character may take the
+Backroom Deal action, making a [B]Hard ([DI][DI][DI])
+Negotiation check.[b] If the check succeeds the character
+(or player) reveals how their previously
+unknown
+dealings have a meaningful impact on the current scene or encounter. The nature of the revelation and
+its impact on the scene are ultimately subject to the
+GM's discretion, but they should give a significant
+advantage to the PCs. If the check fails and generates [DE],
+however, the GM may decide that the character's
+disastrously failed deal has negative repercussions.</Description>
+    <Source Page="37">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>BARREL</Key>
+    <Name>Barrel Roll</Name>
+    <Description>[H4]Barrel Roll[h4]
+When a vehicle or starship the character is piloting
+suffers a hit from a combat check, after damage is
+calculated but before armor is applied, the character
+may take a Barrel Roll incidental. Their ship suffers
+3 system strain, and the damage of that hit is reduced
+by an amount equal to their ranks in the Piloting skill
+used for that vehicle. This talent may only be used
+once per attack and only when the character is piloting
+a vehicle or starship of silhouette 3 or less.</Description>
+    <Source Page="37">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>OOT Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>IMPBARREL</Key>
+    <Name>Barrel Roll (Improved)</Name>
+    <Description>[H4]Barrel Roll (Improved)[h4]
+When the character takes the Barrel Roll incidental,
+reduce Ihe damage of all hits (instead of only one hit)
+of the attack by the character's ranks in the relevant
+Piloting skill.</Description>
+    <Source Page="37">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>SUPBARREL</Key>
+    <Name>Barrel Roll (Supreme)</Name>
+    <Description>[H4]Barrel Roll (Supreme)[h4]
+When the character uses Barrel Roll to reduce the damage from a weapon with the Auto-fire, Blast, or Guided
+item qualities, they may spend [DE] or [TH][TH][TH] to inflict
+one hit on the attacker or another enemy vehicle or starship
+within close range after the initial attack resolves.
+The hit deals the base damage of the original attack.</Description>
+    <Source Page="37">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>OOT Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>BEGINLUCK</Key>
+    <Name>Beginner's Luck</Name>
+    <Description>[H4]Beginner's Luck[h4]
+Once per session when the character
+makes a check , the character may add [SU] equal to
+the number of light side Destiny Points in the Destiny
+pool to the results.</Description>
+    <Source Page="37">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>IMPBRACE</Key>
+    <Name>Brace (Improved)</Name>
+    <Description>[H4]Brace (Improved)[h4]
+When the character performs the Brace maneuver,
+they may choose one environmental circumstance.
+The benefits of Brace apply to that circumstance until
+the end of the encounter. (This benefit is not cumulative with
+further uses of the Brace maneuver, although
+the character may select additional circumstances
+with subsequent uses.)</Description>
+    <Source Page="38">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>SUPBRACE</Key>
+    <Name>Brace (Supreme)</Name>
+    <Description>[H4]Brace (Supreme)[h4]
+When the character performs the Brace maneuver, the benefits apply to all allies within short range.</Description>
+    <Source Page="38">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>CLANKKILL</Key>
+    <Name>Clanker Killer</Name>
+    <Description>[H4]Clanker Killer[h4]
+Before rolling a combat check that targets a droid
+(including a droid vehicle or a vehicle piloted by a
+droid), the character may remove [BO] up to their ranks
+in Clanker Killer from the pool, and add an equal number
+of [SU] or [AD] (in any combination) to the results.
+</Description>
+    <Source Page="38">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>CONOP</Key>
+    <Name>Consider Our Options</Name>
+    <Description>[H4]Consider Our Options[h4]
+The character may take the Consider Our Options
+action, makings [B]Hard ([DI][DI][DI]) Negotiation check.[b]
+If the check succeeds, until the start of the character's
+next turn, any enemy who attacks the character suffers
+2 strain, plus 1 strain per additional [SU][SU] on the
+character's check, before resolving the attack. (If this
+strain causes an adversary to become incapacitated,
+the GM may determine that adversary simply bows
+out of the fight.) The effect ends immediately if the
+character inflicts damage on an enemy.
+</Description>
+    <Source Page="38">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>IMPCONOP</Key>
+    <Name>Consider Our Options (Improved)</Name>
+    <Description>[H4]Consider Our Options (Improved)[h4]
+When the character takes the Consider Our Options
+action, the character may choose to have the effects
+also apply to attacks that target the character’s allies
+who are within short range. The effects end for all
+characters if the character or an affected ally inflict
+damage on an enemy.</Description>
+    <Source Page="38">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>EXCEEDSPEC</Key>
+    <Name>Exceed Specifications</Name>
+    <Description>[H4]Exceed Specifications[h4]
+Before making a check using an item, the character
+may take the Exceed Specifications incidental, adding [BO]
+to the check. The GM may spend [TH][TH] on the
+check to damage the item one step, or [DE] to damage
+it beyond usability (see [B]Table 5-4: Repairing Gear[b]
+in any core rulebook). [TH] or [DE] may have additional
+consequences depending on the nature of the item,
+at the GM's discretion.
+</Description>
+    <Source Page="39">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>IMPEXSPEC</Key>
+    <Name>Exceed Specifications (Improved)</Name>
+    <Description>[H4]Exceed Specifications (Improved)[h4]
+When the character takes the Exceed Specifications
+incidental, upgrade the ability of the check once
+instead of adding [BO].
+</Description>
+    <Source Page="39">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>SUPEXSPEC</Key>
+    <Name>Exceed Specifications (Supreme)</Name>
+    <Description>[H4]Exceed Specifications (Supreme)[h4]
+If the character's check benefitting from the Exceed
+Specifications incidental generates [TR], they may damage
+the item one step to roll one additional [PR] and
+add it to the check results. If the check generates [DE]
+roll [CH] and add it to the check results.
+</Description>
+    <Source Page="39">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>FIRESUP</Key>
+    <Name>Fire Support</Name>
+    <Description>[H4]Fire Support[h4]
+After the character makes a successful combat check
+using a vehicle weapon, the next ally to make a check
+adds [BO] equal to the character's ranks of Fire Support.
+</Description>
+    <Source Page="39">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>FIREREADY</Key>
+    <Name>Fire When Ready</Name>
+    <Description>[H4]Fire When Ready[h4]
+The character may take the Fire When Ready action,
+making a [B]Hard ([DI][DI][DI]) Leadership check.[b] If the
+check succeeds, the character chooses a number of
+crew aboard their ship equal to their Presence. Those
+crew members downgrade the difficulty of their next
+Gunnery check once, plus one time for every additional [SU][SU] on the check.</Description>
+    <Source Page="39">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>FIRSTBRO</Key>
+    <Name>First Among Brothers</Name>
+    <Description>[H4]First Among Brothers[h4]
+When the character makes a check that does not
+result in any uncanceled [TH], add [AD] equal to the
+character's ranks in First Among Brothers to the check
+results. The character may only spend these additional [AD] to
+affect allied clones.
+</Description>
+    <Source Page="39">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>FORTHEREPUB</Key>
+    <Name>For The Republic!</Name>
+    <Description>[H4]For The Republic![h4]
+Once per encounter when an ally is incapacitated or
+killed, the character may perform the For the Republic! incidental. The character makes a [B]Daunting ([DI][DI][DI][DI]) Leadership check.[b] If the check succeeds,
+the ally is not incapacitated or killed until the end of
+the following round, instead. If the character's wounds
+or strain are reduced below their threshold before the
+end of the next round, they are not incapacitated.</Description>
+    <Source Page="39">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>OOT Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>GUARDREPUB</Key>
+    <Name>Guardian of the Republic</Name>
+    <Description>[H4]Guardian of the Republic[h4]
+After the character uses Parry or Reflect to reduce damage to an ally, that ally cannot be targeted by combat checks for the remainder of the round.</Description>
+    <Source Page="39">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>HYPERASS</Key>
+    <Name>Hyperspace Assault</Name>
+    <Description>[H4]Hyperspace Assault[h4]
+The character may use Astrogation or Knowledge
+(Warfare) to determine their Initiative during an
+encounter in which they are piloting or commanding
+a starship. If they do so, they may spend [TR] from
+the check to choose the starting locations of all allied
+ships in the encounter.</Description>
+    <Source Page="39">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <SkillChoice>
+      <AddSkillsPerRank>true</AddSkillsPerRank>
+      <Type />
+    </SkillChoice>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>LATTHINK</Key>
+    <Name>Lateral Thinking</Name>
+    <Description>[H4]Lateral Thinking[h4]
+Once per encounter after an enemy succeeds on a
+check targeting the character, the character may
+spend one Destiny Point to force the enemy to reroll
+the check. If the enemy is a droid, the character does
+not spend a Destiny Point to use this talent.
+</Description>
+    <Source Page="40">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>OOT Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>LEARNOP</Key>
+    <Name>Learning Opportunity</Name>
+    <Description>[H4]Learning Opportunity[h4]
+Once per round, the character may spend [AD][AD][AD] from a check they fail to upgrade the ability of their
+next check once.
+</Description>
+    <Source Page="40">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>LEVERAGE</Key>
+    <Name>Leverage</Name>
+    <Description>[H4]Leverage[h4]
+The character removes [SE] per rank of Leverage from
+their Cool and Negotiation checks.
+</Description>
+    <Source Page="40">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <DieModifiers>
+      <DieModifier>
+        <SkillKey>COOL</SkillKey>
+        <SetbackCount>1</SetbackCount>
+      </DieModifier>
+      <DieModifier>
+        <SkillKey>NEG</SkillKey>
+        <SetbackCount>1</SetbackCount>
+      </DieModifier>
+    </DieModifiers>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>MISCRIT</Key>
+    <Name>Mission Critical</Name>
+    <Description>[H4]Mission Critical[h4]
+Once per session after rolling a Piloting (Planetary)
+or Piloting (Space) check but before resolving it, the
+character may spend a Destiny Point to add [SU] or [AD] 
+to the results equal to their ranks in that skill. (The
+character may divide the results between [SU] and [AD]
+In any combination.)
+</Description>
+    <Source Page="40">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>NATOP</Key>
+    <Name>Natural Operator</Name>
+    <Description>[H4]Natural Operator[h4]
+Once per game session, the character may reroll any
+one Piloting (Planetary) or Piloting (Space) check.
+</Description>
+    <Source Page="40">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>NATTRO</Key>
+    <Name>Natural Trooper</Name>
+    <Description>[H4]Natural Trooper[h4]
+Once per game session, the character may reroll anyone
+Gunnery or Ranged (Heavy) check.</Description>
+    <Source Page="40">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>ONEPERTRA</Key>
+    <Name>One Person's Trash</Name>
+    <Description>[H4]One Person's Trash[h4]
+The character may make a Perception check in order
+to locate a particular item amid a battlefield, shipwreck,
+junkyard, or other location with potential
+salvage. The difficulty of the check is equal to half
+the item's rarity, rounded down. There is no cost to
+acquire an item this way, but the item is in need of
+Moderate repairs (see [B]Table 5-4: Repairing Gear[b] in
+any of the core rulebooks) when found.
+</Description>
+    <Source Page="40">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>ONMYORD</Key>
+    <Name>On My Order</Name>
+    <Description>[H4]On My Order[h4]
+The character may take the On My Order action,
+making a [B]Hard ([DI][DI][DI]) Leadership
+Check.[b] If the check succeeds, the character chooses a number of
+crew aboard their ship equal to their Presence. Those
+crew members upgrade the ability of their next Gunnery
+check once, plus one time for every additional [SU][SU] on the check.
+</Description>
+    <Source Page="40">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>ORDSAT</Key>
+    <Name>Ordnance Saturation</Name>
+    <Description>[H4]Ordnance Saturation[h4]
+When the character or an ally who is currently benefiting from On My Order or Fire When Ready activates
+the Blast quality of a planetary-scale weapon, all ships
+or vehicles within close range of the target suffer damage
+equal to the weapon's Blast quality (plus 1 per
+additional [SU] as usual).
+</Description>
+    <Source Page="41">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>OUTMAN</Key>
+    <Name>Outmaneuver</Name>
+    <Description>[H4]Outmaneuver[h4]
+The character may take the Outmaneuver action, making a [B]Hard ([DI][DI][DI]) Knowledge (Warfare) check.[b] If the check succeeds, the character chooses
+one enemy ship or vehicle in the current encounter
+for each [SU]. Until the end of the character's next turn,
+the chosen ships must perform one extra maneuver in
+order to move or change range bands relative to the
+characters ship or allies.
+</Description>
+    <Source Page="41">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>RAVAGE</Key>
+    <Name>Ravage</Name>
+    <Description>[H4]Ravage[h4]
+Once per encounter, the character may
+suffer 3 strain to add [FO] up to their current Force
+rating to a combat check targeting an engaged opponent.
+The character may spend [FP] to add [SU] or
+[AD] to the results of the check. If the rules for Morality
+in [B]Force and Destiny[b] are in use, a character who
+has purchased this talent gains 1 Conflict at the
+beginning of each game session.
+</Description>
+    <Source Page="41">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>RENFORM</Key>
+    <Name>Renegade Form</Name>
+    <Description>[H4]Renegade Form[h4]
+When the character purchases this talent, they choose one characteristic. They may use
+this characteristic in place of Brawn when making Lightsaber checks
+</Description>
+    <Source Page="42">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <SkillChars>
+      <SkillChar>
+        <SkillKey>LTSABER</SkillKey>
+        <CharKey>AG</CharKey>
+      </SkillChar>
+      <SkillChar>
+        <SkillKey>LTSABER</SkillKey>
+        <CharKey>CUN</CharKey>
+      </SkillChar>
+      <SkillChar>
+        <SkillKey>LTSABER</SkillKey>
+        <CharKey>INT</CharKey>
+      </SkillChar>
+      <SkillChar>
+        <SkillKey>LTSABER</SkillKey>
+        <CharKey>PR</CharKey>
+      </SkillChar>
+      <SkillChar>
+        <SkillKey>LTSABER</SkillKey>
+        <CharKey>WIL</CharKey>
+      </SkillChar>
+    </SkillChars>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>RESDEG</Key>
+    <Name>Respected Delegate</Name>
+    <Description>[H4]Respected Delegate[h4]
+The character downgrades the difficulty of social skill
+checks made to interact with government institutions
+outside of their homeworld a number of times equal
+to their ranks in Respected Delegate.</Description>
+    <Source Page="42">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>SCRAPEM</Key>
+    <Name>Scrap 'Em!</Name>
+    <Description>[H4]Scrap 'Em![h4]
+After making a successful combat check, the character may suffer 2 strain to perform the Scrap 'em! incidental. The character selects a number of allies
+no greater than their ranks in Leadership. Those allies
+Add [BO] to their combat checks against the character's target until the start of the character's next turn.
+</Description>
+    <Source Page="42">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>IMPSCRAPEM</Key>
+    <Name>Scrap 'Em! (Improved)</Name>
+    <Description>[H4]Scrap 'Em! (Improved)[h4]
+When the character takes the Scrap 'em! incidental,
+they affect a number of allies no greater than twice
+their ranks In Leadership, and affected allies add [BO][BO]
+to combat checks (instead of [BO]).
+</Description>
+    <Source Page="42">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>SECFORCE</Key>
+    <Name>Secrets of the Force</Name>
+    <Description>[H4]Secrets of the Force[h4]
+Knowledge (Lore) and Lightsaber become career skills
+for the character.
+</Description>
+    <Source Page="42">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <NewSkills>
+        <Key>LORE</Key>
+      </NewSkills>
+      <Type />
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>SIDEBYSIDE</Key>
+    <Name>Side By Side</Name>
+    <Description>[H4]Side By Side[h4]
+While the character is wielding a lightsaber and engaged with one or more allies also
+wielding a lightsaber, add [TH] to all combat checks that
+target the character or those allies. (If multiple allied
+characters in the engagement possess this talent, the
+effects are cumulative.)
+</Description>
+    <Source Page="42">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>SINFLAT</Key>
+    <Name>Sincerest Flattery</Name>
+    <Description>[H4]Sincerest Flattery[h4]
+Once per encounter when the character makes a
+check using a skill that another character has previously
+used during the encounter, they add [BO][BO].
+</Description>
+    <Source Page="42">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>SOMEPRO</Key>
+    <Name>Something To Prove</Name>
+    <Description>[H4]Something To Proce[h4]
+Once per session ihe character may suffer 4 strain in
+order to reroll a failed check. If the check succeeds,
+the character heals 4 strain.</Description>
+    <Source Page="42">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>TACAD</Key>
+    <Name>Tactical Advance</Name>
+    <Description>[H4]Tactical Advance[h4]
+While in cover, the character may suffer 2 strain to
+perform the Tactical Advance incidental. Until the end
+of the character's next turn, the character and allies
+within short range may move out of cover and continue
+to receive its benefits.</Description>
+    <Source Page="43">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>IMPTACAD</Key>
+    <Name>Tactical Advance (Improved)</Name>
+    <Description>[H4]Tactical Advance (Improved)[h4]
+The character may spend [AD][AD] from any check they
+make or [TH][TH] from a combat check targeting them
+to perform the Tactical Advance incidental (instead of
+suffering strain).
+</Description>
+    <Source Page="43">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>OOT Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>TEMPTRAIN</Key>
+    <Name>Temple Training</Name>
+    <Description>[H4]Temple Training[h4]
+Before making a Lightsaber skill check,
+the character may spend one Destiny Point to add
+damage to the attack equal to their ranks in Knowledge
+(Lore).</Description>
+    <Source Page="43">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>TRANERR</Key>
+    <Name>Translation Error</Name>
+    <Description>[H4]Translation Error[h4]
+Once per encounter, the character may remove [DE] from the results of a social skill check they make.</Description>
+    <Source Page="43">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>IMPUTILBELT</Key>
+    <Name>Utility Belt (Improved)</Name>
+    <Description>[H4]Utility Belt (Improved)[h4]
+Once per session when the character performs a
+Utility Belt incidental, they may produce up to five
+functionally identical items.</Description>
+    <Source Page="43">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>WILLFORCE</Key>
+    <Name>Will of the Force</Name>
+    <Description>[H4]Will of the Force[h4]
+Once per round after failing a skill check,
+the character may convert one dark Side Destiny
+Point to a light side Destiny Point.</Description>
+    <Source Page="43">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <Activation>Incidental</Activation>
+  </Talent>
 </Talents>

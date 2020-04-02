@@ -12647,4 +12647,87 @@ Jump boots are, essentially, a single-use jetpack built into a thick boots and a
     <Price>100</Price>
     <Rarity>6</Rarity>
   </Gear>
+  <Gear>
+<Key>HOLOMEGA</Key>
+    <Name>Holo-Megacaster</Name>
+    <Description>[H3]Holo-Megacaster[h3]
+One of the standard tools for a public speaker, a holo-megacaster is a variation on a standard holocomm system. Instead of patching into the HoloNet for long distance communication, the megacaster projects its user's voice and image nearby, but magnified to a great volume and size. A typical model is capable of projecting images ranging from centimeters up to ten meters in height. The volume controls are similarly adjustable, suitable for addresses to small, private audiences or vast populist rallies. 
+
+[P]A character using a holo-megacaster adds [BP] to Presence-based checks to address a crowd, and allows the character's image and voice to be clearly seen and heard at up to extreme range, depending on the settings used.</Description>
+    <Source Page="60">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Communications</Type>
+    <Categories>
+      <Category>Holoprojector</Category>
+    </Categories>
+    <Encumbrance>1</Encumbrance>
+    <Price>600</Price>
+    <Rarity>3</Rarity>
+  </Gear>
+  <Gear>
+    <Key>LSMAINT</Key>
+    <Name>Lightsaber Maintenance Kit</Name>
+    <Description>[H3]Lightsaber Maintenance Kit[h3]
+Manufactured to the specifications of the Jedi Order, and often customized by individual Jedi, a lightsaber maintenance kit is a compact device containing a number of useful tools. Though designed primarily to assist in lightsaber maintenance and repair, many of the tools can also be employed to conduct minor repairs on small mechanical and electronic items.
+
+[P]In addition to counting as a tool kit for the purposes of being able to perform most Mechanics checks (see [B]Chapter V: Gear and Equipment[b] in any core rulebook), a lightsaber maintenance kit adds automatic [AD] to checks to build, modify, or repair lightsabers.
+</Description>
+    <Source Page="60">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Tools/Electronics</Type>
+    <Categories />
+    <Encumbrance>2</Encumbrance>
+    <Price>400</Price>
+    <Rarity>7</Rarity>
+  </Gear>
+  <Gear>
+    <Key>REPINSIGNIA</Key>
+    <Name>Republic Insignia</Name>
+    <Description>[H3]Republic Insignia[h3]
+Clone troopers, Navy officers, and even Jedi who have served with distinction in the various theaters of the Clone Wars may be nominated for awards to recognize their valor and service. Unlike the most prestigious honors, which must be ratified by the Senate, combat medals and service insignia are granted directly by the Grand Army of the Republic and its commanders, who take care to recognize exceptional service promptly. Most such awards are simple medals designed to be clipped onto a uniform or formal clothing. Clone troopers have been known to attach theirs to the inside of their armor on combat missions, and while the Jedi Council frowns on the implied attachment to an award, some Jedi Knights have been known to affix theirs td their robes.
+
+[P]A character with one or more Republic insignia adds [BO][BO] to checks made to impress or persuade other characters based on their past service. At the GM's discretion, a character with an exceptional number of insignia might receive an additional [BO] on such checks. 
+
+[P]Genuine Republic insignia cannot be purchased on the open market, as each represents honor granted for a specific owner's accomplishments. However, black-market replicas can be found. If a black-market replica is examined, a successful [B]Hard ([DI][DI][DI]) Perception check[b] reveals the fake. The rarity value and cost listed are those of a counterfeit insignia.
+</Description>
+    <Source Page="60">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Generic</Type>
+    <Categories />
+    <Price>100</Price>
+    <Rarity>3</Rarity>
+    <Restricted>true</Restricted>
+  </Gear>
+  <Gear>
+    <Key>REPSEAL</Key>
+    <Name>Republic Seal of Service</Name>
+    <Description>[H3]Republic Seal of Service[h3]
+Republic Seal of Service refers to a number of similar awards granted to those who have proven themselves to be exemplars of the Republic's deals and paragons of service and duty. Some of the most famous awards are the Star of Coruscant combat medal; the Order of Chandrila, offered to diplomats, and the Kimble Award, for lifesaving physicians. Such honors and awards typically take the form of a small statuette or medallion. In addition to conveying status and prestige, each award is fitted with a special transponder identifying the award and its bearer as well as details of ihe bearer's accomplishments.The transponder's signals include verification codes common to all Republic databases, making a presented award instantly recognizable as proof of identity.
+
+[P]Characters who have been awarded a Republic Seal of Service add [SU] to all checks involving formal Republic proceedings, proof of identity, or verification of past actions. Presenting a Seal of Service may also upgrade the ability of checks the character makes to impress or persuade those loyal to the Republic, at the GM's discretion.
+
+[P]Republic Seals of Service cannot be purchased on the open market Instead, the seals are awarded by a Senatorial committee for exemplary service to the Republic. The rarity listed indicates the relative infrequency of encountering these seals.
+</Description>
+    <Source Page="60">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Generic</Type>
+    <Categories />
+    <Rarity>9</Rarity>
+  </Gear>
+  <Gear>
+    <Key>X5R</Key>
+    <Name>X5R Heavy Demolitions Kit</Name>
+    <Description>[H3]X5R Heavy Demolitions Kit[h3]
+The heavy carbo-plas case of art X5R heavy demolitions kit is filled with precision timers, remote detonators, and other vital tools of the trade for a dedicated explosives expert. Additionally, it contains a heavily shielded and signal-proof compartment large enough to store a half-dozen thermal detonators or a pair of larger demolition charges. The numerous tools wilhin the kit can assist a user in setting or disarming explosives, and the precise measurements and modulation made possible by the equipment reduce the risk of catastrophic errors. However, the full kit is unwieldy, and it requires significant space and attention to use.
+
+[P]The user of an X5R kit gains [BO][BO] on Mechanics checks to prepare, set, or disarm explosives. In addition, once per session, a character using an X5R can remove one [DE] or up to [TH][TH][TH] (after canceling dice symbols but before resolving the effect) from a Mechanics check dealing with explosives.
+</Description>
+    <Source Page="60">Rise of the Separatists</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Tools/Electronics</Type>
+    <Categories />
+    <Encumbrance>4</Encumbrance>
+    <Price>1000</Price>
+    <Rarity>6</Rarity>
+  </Gear>
 </Gears>
