@@ -2883,7 +2883,7 @@ Cyricept's Mk IX Personal Mimetic Concealment Suits use active stealth technolog
     <Defense>1</Defense>
     <Soak>1</Soak>
   </Armor>
-  <Armors>
+  <Armor>
 <Key>CF9</Key>
     <Name>CF-9 Republic Naval Flight Suit</Name>
     <Description>[H3]CF-9 Republic Naval Flight Suit[h3]
