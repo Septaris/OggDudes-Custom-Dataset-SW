@@ -72,8 +72,8 @@ grammed for. A traffic control droid, for example, may take up the career of a m
       </Options>
     </OptionChoice>
     <OptionChoice>
-      <Key>DROIDAB2</Key>
-      <Name>Droid</Name>
+      <Key>DROIDCH2</Key>
+      <Name>Features</Name>
       <Options>
         <Option>
           <Key>DROIDAB2OP1</Key>
@@ -83,8 +83,8 @@ grammed for. A traffic control droid, for example, may take up the career of a m
       </Options>
     </OptionChoice>
     <OptionChoice>
-      <Key>DROIDAB2</Key>
-      <Name>Droid</Name>
+      <Key>DROIDCH3</Key>
+      <Name>Inorganic</Name>
       <Options>
         <Option>
           <Key>DROIDAB2OP1</Key>
@@ -94,8 +94,8 @@ grammed for. A traffic control droid, for example, may take up the career of a m
       </Options>
     </OptionChoice>
     <OptionChoice>
-      <Key>DROIDAB2</Key>
-      <Name>Droid</Name>
+      <Key>DROIDCH4</Key>
+      <Name>Mechanical Being</Name>
       <Options>
         <Option>
           <Key>DROIDAB2OP1</Key>
@@ -105,8 +105,8 @@ grammed for. A traffic control droid, for example, may take up the career of a m
       </Options>
     </OptionChoice>
     <OptionChoice>
-      <Key>DROIDAB2</Key>
-      <Name>Droid</Name>
+      <Key>DROIDCH5</Key>
+      <Name>Cybernetics</Name>
       <Options>
         <Option>
           <Key>DROIDAB2OP1</Key>
