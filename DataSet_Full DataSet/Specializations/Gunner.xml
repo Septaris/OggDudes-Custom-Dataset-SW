@@ -12,7 +12,7 @@ For the Gunner, the output of a vehicle or ship weapon is the ultimate expressio
 [P]Whether the Gunner is laying down a field of fire from the door of a transport ship in a hot landing zone or firing pinpoint volleys at a star cruiser's shield generators, he is more than comfortable with the idea of possessing large amounts of firepower. He knows the value of what he does, and the sheer thrill of unleashing so much devastation with each pull of the trigger is very satisfying. The resultant explosion of an enemy target is a payoff worth far more than any moment of glory. 
 
 [P]Proficient Gunners are a true asset in the Alliance, and the best ones are usually assigned to the most important defensive posts, assault vehicles, and ships. In most battles with the Empire, every single shot counts. It's the Gunner's job to make sure it counts heavily and with great purpose.</Description>
-  <Source>Age of Rebellion Core Rulebook</Source>
+  <Source Page="68">Age of Rebellion Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>DISC</Key>

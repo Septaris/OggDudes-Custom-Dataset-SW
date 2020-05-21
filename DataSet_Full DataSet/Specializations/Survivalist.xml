@@ -11,7 +11,7 @@
 [P]Not everything that happens in the galaxy occurs in cities or out in space. In fact, most of the habitable places of the galaxy are rural or wilderness in nature. A specialization in Survivalist ensures a character has the necessary knowledge and training to make his way in such environments, and help the far more urban-minded folks he's likely traveling with. 
 
 [P]Despite their capacity to live off the land, Survivalists enjoy credits and the things that can be purchased with them just like anyone else. They will often look to hire themselves out to customers who need their expertise in seeking out (or hunting) something beyond the duracrete and tapcafs.</Description>
-  <Source>Edge of the Empire Core Rulebook</Source>
+  <Source Page="61">Edge of the Empire Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>XEN</Key>

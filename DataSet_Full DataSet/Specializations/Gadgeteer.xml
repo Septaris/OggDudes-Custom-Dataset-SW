@@ -8,7 +8,7 @@
 [P]Gadgeteers add the skills [B]Brawl, Coercion, Mechanics,[b] and [B]Ranged (Light)[b] to their repertoire of class skills, making them ranged combat experts, effective technicians, and masters of surveillance. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. Gadgeteer talents lean heavily towards gear use, taking down targets, and adapting to tough situations. 
 
 [P]Gadgeteer-specialized Bounty Hunters are in many ways the ultimate hybrid of tech expert and combatant; for smaller groups, this may be a perfect choice. Gadgeteers—especially those that are operating as Independent Bounty Hunters—have little trouble signing on for nearly any job. After all, the credits they need for that next nifty piece of tech have to come from [I]somewhere[i].</Description>
-  <Source>Edge of the Empire Core Rulebook</Source>
+  <Source Page="60">Edge of the Empire Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>BRAWL</Key>

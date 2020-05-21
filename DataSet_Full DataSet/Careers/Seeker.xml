@@ -14,8 +14,8 @@ from the heart of galactic civilization. A Force adept who is willing and able t
 [P]Seekers generally take a very pragmatic view toward the Force. Operating independently, they consider it to be one of the tools in their arsenal, but not the only one. For a Seeker, preparedness and adaptability are paramount. They cannot count on finding the right tools for the job in the isolated areas in which they travel. As such, they learn to be flexible and adapt quickly to find the best equipment from what is available. In some environments, this may mean discovering information about flora and fauna that is previously undocumented. In such situations, the Force can be the most reliable asset, and its flexibility can aid them in selecting and using whatever else is at hand. 
 
 [P]This flexibility is vital for a Seeker. Some of these characters travel at the direction of the Force, allowing fortune and chance to select their destinations and their traveling companions. Others work within the confines of larger groups. They may be troubleshooters. bounty hunters, envoys, or even traveling merchants. The variety of work means the Seeker must be prepared to quickly adapt to these changing situations and to make the most effective use possible of the tools that are at hand.</Description>
-  <Source>Force and Destiny Core Rulebook</Source>
-  <Custom>DescOnly</Custom>
+  <Source Page="84">Force and Destiny Core Rulebook</Source>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>PILOTPL</Key>
     <Key>PILOTSP</Key>
@@ -26,7 +26,10 @@ from the heart of galactic civilization. A Force adept who is willing and able t
   </CareerSkills>
   <Specializations>
     <Key>ATARU</Key>
+    <Key>EXECUTIONER</Key>
+    <Key>HERMIT</Key>
     <Key>HUNTER</Key>
+    <Key>NAVIGATOR</Key>
     <Key>PATH</Key>
   </Specializations>
   <Attributes>

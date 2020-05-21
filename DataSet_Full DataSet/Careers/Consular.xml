@@ -20,8 +20,8 @@ The Consular's six career skills are [B]Cool, Discipline, Knowledge (Education),
 [P]Of course, not every Consular has necessarily played a role on the galactic stage. In fact, many help settle disputes closer to home, in small villages or planetary governments. Most Consulars see helping two feuding families find peace to be as rewarding as convincing an entire world to join the fight against the Empire. 
 
 Beginning characters—particularly those who are cognizant of their Force abilities—are most likely to have learned their techniques from relatively obscure traditions. Alternatively, characters who do not recognize their abilities could be extremely competent negotiators, such as accomplished political, religious. and business leaders. Any of these Individuals might unwittingly tap into their Force abilities during the course of their work. This could provide the basis for a character who denies any knowledge of Force techniques while simultaneously depending on them.</Description>
-  <Source>Force and Destiny Core Rulebook</Source>
-  <Custom>DescOnly</Custom>
+  <Source Page="66">Force and Destiny Core Rulebook</Source>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>COOL</Key>
     <Key>DISC</Key>
@@ -31,9 +31,12 @@ Beginning characters—particularly those who are cognizant of their Force abili
     <Key>NEG</Key>
   </CareerSkills>
   <Specializations>
+    <Key>ARBITER</Key>
+    <Key>ASCETIC</Key>
     <Key>HEALER</Key>
     <Key>NIMAN</Key>
     <Key>SAGE</Key>
+    <Key>TEACHER</Key>
   </Specializations>
   <Attributes>
     <ForceRating>1</ForceRating>

@@ -15,7 +15,7 @@
 [P]Player Character Archaeologists can easily be the centerpiece of a new campaign, building a team of other specialists to help in a recently embarked-upon expedition. Otherwise, such a character may be between digs and looking either for an expedition to,join or "filler work" until he can make the right kinds of contacts. 
 
 [P]Perhaps an archeology-oriented Explorer joins a group that's journeying to an area for completely different reasons; he trades his skills and knowledge for the chance to investigate rumors of a potentially valuable find once he gets to where they are going.</Description>
-  <Source>Enter the Unknown</Source>
+  <Source Page="25">Enter the Unknown</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>ATHL</Key>

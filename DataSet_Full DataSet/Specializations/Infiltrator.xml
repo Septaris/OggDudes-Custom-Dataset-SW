@@ -12,7 +12,7 @@ When most people hear the word Spy, the operatives of this specialization are wh
 [P]An Infiltrator rarely relies upon brute force or direct confrontation to accomplish his goals. Instead, he uses stealth, guile, subterfuge, and disguise to integrate himself among his enemies. He gains access to sensitive areas, talks to the right people, and employs every other available tactic to obtain valuable information, steal important secrets and assets, and leave behind a target who is reeling from his efforts. 
 
 [P]Lately, Infiltrators are used by the Alliance as part of special strike teams sent throughout Imperial-controlled space, where they are used in combined operations intended to disrupt the Empire's plans while gathering information at the same time. For more direct combat missions, Infiltrators tend to operate in a support role. When the mission calls for subterfuge and more covert operations, Infiltrators are often the ones in charge.</Description>
-  <Source>Age of Rebellion Core Rulebook</Source>
+  <Source Page="97">Age of Rebellion Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>DECEP</Key>

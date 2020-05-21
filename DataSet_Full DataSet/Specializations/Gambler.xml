@@ -13,7 +13,7 @@
 [P]A Gambler may not always look like much, but looks can be deceiving. The Gambler is an excellent actor, always able to project an air of calm confidence so he seems as cool as carbonite even when he is as tense as an Alderaanian on an ImpStar. A great Gambler knows to never count his credits at the table, so to speak, but sometimes playing hurt can throw his opponents. Some Gamblers love baiting their opponents by looking vulnerable just so they can gloat while raking in the pot. A fool and his money are soon parted, and the Gambler is always happy to oblige. 
 
 [P]The Gambler is a fantastic specialization for playing a number of character types in a variety of settings. A player could create an aboveboard, aristocratic Core dweller participating in high-stakes betting just for thrills; a suave, small-time card shark flitting about the Colonies scamming amateur players; or a downtrodden Smuggler dropping his last fifty credits into the pot trying to win enough to repair his ship. He is not limited to playing games, however, as a Gambler fits into any setting where fists full of credits or unbelievable thrills are up for grabs. The negotiation skills of the Gambler could make him the brains of a trade or smuggling operation. A Thief may even supplement his abilities with Gambler to mingle among high society and case locations for upcoming jobs.</Description>
-  <Source>Fly Casual</Source>
+  <Source Page="28">Fly Casual</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>COMP</Key>

@@ -15,7 +15,7 @@
 [P]Despite all his silvered words, the Charmer is no gilded flower. When all else fails, if the Charmer cannot diffuse the situation before it escalates, or cannot convince others to fight in his place, the Charmer holds his own in combat. In a fight, the Charmer can cause opponents to doubt their motives and lower their guard. The Charmer's Smuggler career gives him the knowledge to navigate the underworld, the ability to escape a jail cell, and the skill to steal a starship for a quick getaway. 
 
 [P]A Smuggler who chooses Charmer as his specialization is an exceptional choice for nearly any campaign. His emphasis on social interaction makes the Charmer handy in any intrigue-oriented campaign, but his Smuggler fundamentals and ability to negotiate with merchants, distract would-be attackers, or diffuse combat encounters make him a welcome addition to underworld- or combat-focused campaigns as well.</Description>
-  <Source>Fly Casual</Source>
+  <Source Page="26">Fly Casual</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>CHARM</Key>

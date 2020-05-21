@@ -246,13 +246,7 @@ Some characters see their strange abilities as a sign that they are destined for
     <Name>Underworld Tech Expert</Name>
     <Description>
       [H4]Underworld Tech Expert[h4]
-In the [B]Edge of The Empire[b], it can be hard to avoid occasionally interacting with criminal enterprises and underworld culture. Many Technicians support and are supported by shady characters, if not by outright criminals. Specialised underwolrd techs can be highly prized when they fulfull a critical role in a larger organisation, bu the average Mechanic or Droid Tech is sometimes regarded as more expendable than a reliable enforcer. The character might be trying to escape difficult decisions from the past or seeking to advance within a particular criminal organisation.
-[P]For crime lords, being able to have people put back together is almost as important as being able to take tehm apart in the first place. A [B]Cyber Tech[b] might have once been kept on retainer by a criminal organisation, patching up enforcers and bosses or maintaining their temperamental cybertechnology. Such an individual is often indispensable, which makes leaving in one piece very difficult. Of course, the ability to rebuild oneself completely makes crafting a new identity after escaping much easier.
-[P]A [B]Droid Tech[b] can keep a syndicate's security droids operational, repairing these mechanical servants after they are damaged in turf wars (or by a wrathful boss who dislikes recieving bad news from droid messengers). However, seeing the droid damaged and abused again and again might drive a compassionate Droid Tech to flee, taking these mechanical charges with along for the ride. Running away from a crim syndicate is never easy, but having a loyal army of customised droids to help does improve such a fugitive's chances of survival dramatically.
-[P][B]Mechanics[b] serve a multitude of roles in the criminal underworld, and one of the most notorious jobs is as a laborer in a starship chop shop. These illegal operations, ofter disguised as legitimate garages, dismantle stolen starships so that their parts can be sold without an obvious trail. A Mechanic who got started in such an environment would likely be very skilled at assessing and dismantling vehicles, but might well dream of of putting them together instead. The chance to do so might be enough to lure such a character away from steady (if ethically dubious) work, though the criminal syndicates that own such operations often take a dim view of anyone who wishes to leave.
-[P][B]Modders[b] are needed to customised starships and vehicles for smuggling operations. A real master of modification can get the most out of a starship's engine to help it escape Imperial patrols, find every spare centimeter of hill that could contain hidden compartments and generally turn even an inauspicious vehicle into one of the fastest, stealthiest, most efficient smuggling machines in the galaxy. Any outfit of smugglers would do well to have a Modder as a contact, or better yet, as a member or the crew.
-[P]Outlaw [B]Slicers[b] are common enough, serving in criminal syndicates to thwart law enforcement and competitors alike through clever use of computers. However, some of the best Slicers who act as Underworld Tech Experts are strictly freelance. These individuals can crack any computer, foil any droid's programming, and stalk through the HoloNet like a ghost, acquiring information without anyone else ever knowing. These masterful Slicers are more than mere inforchants, for not only can they intercept information, but they can also change it, distribute it, and fabricate it wholesale. The best of the best sometimes consider themselves artists as much as Technicians and demand exorbitant fees for their efforts, taking on only the jobs that catch their interest. Such Slicers are vanishingly rare, but their impact can be felt across the galaxy - of they want anyone to know that they exist at all, that is.
-[P]The obvious specialisation for characters deep in the underworld is the [B]Outlaw Tech[b]. Many Outlaw Techs openly embrace the criminal lifestyle and the inherent difficulties and danger, usually for the credits. An Outlaw Tech might once have been muscle for a criminal organisation, using a deadly array of custom-built weapons and wargear to eliminate threats, assinate witnesses and terrorise anyone who stood in the syndicate's way. Whether an Outlaw Tech wields a disruptor, a personal stealth field, a deflector shield or a highly customised rifle, nobody else is as well-suited to maintaining and optimising such a deadly arsenal. The Outlaw Tech might custom-build weapons to take out specific targets, honing blades to pierce the skind of particularly tough creatures, brewing toxins that affect only certain species or tailoiring environment-specific camoflage. Usually, leaving a criminal organisation is a risky proposition, but in the case of a brillian, tech-enhanced killer with a resumé of executions to match, even the most jaded crime boss might have seen the wisdom in letting the Outlaw Tech walk away unscathed.</Description>
+In the [B]Edge of The Empire[b], it can be hard to avoid occasionally interacting with criminal enterprises and underworld culture. Many Technicians support and are supported by shady characters, if not by outright criminals. Specialised underwolrd techs can be highly prized when they fulfull a critical role in a larger organisation, bu the average Mechanic or Droid Tech is sometimes regarded as more expendable than a reliable enforcer. The character might be trying to escape difficult decisions from the past or seeking to advance within a particular criminal organisation.</Description>
     <Source Page="16">Special Modifications</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -261,13 +255,7 @@ In the [B]Edge of The Empire[b], it can be hard to avoid occasionally interactin
     <Name>Born Engineer</Name>
     <Description>
       [H4]Born Engineer[h4]
-Some characters take to tinkering as children or as adolescents, displaying a prodigious skill with technology at a young age. A Born Engineer's precocious skill might have been learned from an influential mentor while growing up. The mentor could be a parent, an older sibling, a neighborhood mechanic, or a formal instructor. Alternatively, such a character could be a loner or misfit in a family or community that is focused on other aspects of life. Whether the character is carrying on the legacy of a mentor or fighting against tradition will have a substantial impact on the way the PC views technology. A character who honors a beloved teacher by continuing that person's craft will take considerable pride in technical prowess, while a PC who was scorned for early success might still be ashamed of these skills on some level.
-[P]A uniquely skilled [B]Cyber Tech[b] might have discovered this particular speciality when the character suddenly lost a limb or crucial organ. Whether the injury was due to an industrial accident, a violent altercation, or a disease, the character might have first become familiart with cybernetics through maintenance of personal devices and this uncovered an innate talent for crafting and implanting these mechanical prosthetics. The character's expertise might be largely self-taught combining an intuitive understanding with practical know-how picked up during years of using cybernetics.
-[P]People born with exceptional skills sometimes find themselves isolated from others in spite of their abilities, or even because of them. An up-and-coming [B]Droid Tech[b] might have decided to tackle the problem of making fiends in a literal fashion, crafting a droid companion to understand the character as others did not. Whether or not these efforts were successful, such a Born Engineer might feel considerable respect and empathy for droids in memory of that early companion.
-[P]A [B]Mechanic[b] might be the heir to a line of machinists, innovating upon designs drawn up by parents or more distant ancestors. Such a character could hail from a family corporation that manufactures starships and might use innate aptitude and education to pursue the company's interests by creating increasingly refined designs. Growing up around starships would have given the character an unmatched fluency in this craft. Tith this innate understanding of machines, a Born Engineer with strong corporate ties would be well-positioned to create that company's greatest technological achievements yet.
-[P]The path that a Born Engineer takes can vary a great deal based on teh resources available in the environment where the character grew up. A [B]Modder[b] might have developed an incredible knack for making due with scraps and hald-broken machines because the character grew up aboard a tramp freighter that traveled the fringes of the galaxy. At the edges of civilized space, one has to learn to repurpose machines as needed to survive. Such a character might obsessively hoard anything that could even possibly be useful later,, for who can really say that the servos and wires in a droid's severed arm won't someday be useful for a cobbled-together machine that sustains failing air filters or realigns the hyperdrive?
-[P]A character whjo grew up aboard a space station or other mechanized living facility likely knows a great deal about computers. A Born Engineer can thrive in such an environment, and might have quickly taekn to creating and modifying code, becoming a [B]Slicerb[b]. Because everything on a space station is generally wired in to a central computer network, a Slicer can be an incredible asset to the pwople in charge - or an even more infuriating thorn in their side. Such a Slicer might have been a sort of law enforcer, helping maintain order on the station, or might have become a local renegade. using a mastery of computers to steal credits, evade the authorities, or pursue some other goal frowned upon by those in power.
-[P]Someone raised on the fringes of the galaxy could have a natural disdain for regulations and instruction manuals, sliding into the role of [B]Outlaw Tech[b]. After all, far from the Core Worlds, warranties are meaningless, and user safety instructions seem like suggestions at best. Someone with a genius for constructing devices could easily turn it to the production of arms perhaps first from retrofitted machine tools and later for custom-crafted parts made to the finest specifications. A weaponsmith fromt he Outer Rim might not see arms dealership as a dirty trade - people need weapons to defend themselves from creatures and marauders alike in the lawlwss wastes, and to suggest otherwise is naive, as the weaponsmith sees it. Hoever, if such a character was confronted with the harm those weapons dealt after a lifetime of crafting them, it might force even the most innately skilled Outlaw Tech to regret pursuing the perfection in arms that felt so natural at the time.</Description>
+Some characters take to tinkering as children or as adolescents, displaying a prodigious skill with technology at a young age. A Born Engineer's precocious skill might have been learned from an influential mentor while growing up. The mentor could be a parent, an older sibling, a neighborhood mechanic, or a formal instructor. Alternatively, such a character could be a loner or misfit in a family or community that is focused on other aspects of life. Whether the character is carrying on the legacy of a mentor or fighting against tradition will have a substantial impact on the way the PC views technology. A character who honors a beloved teacher by continuing that person's craft will take considerable pride in technical prowess, while a PC who was scorned for early success might still be ashamed of these skills on some level.</Description>
     <Source Page="14">Special Modifications</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -276,15 +264,7 @@ Some characters take to tinkering as children or as adolescents, displaying a pr
     <Name>Tech Designer</Name>
     <Description>
       [H4]Tech Designer[h4]
-Some Technicians believe that no matter what problem a being faces, the answer always lies in building a better solution, If a starship engine is powerful, it can be made more compact. If a cybernetic amr is as precise as an organic one, it can be made even more exact. Technology transforms the galazy, and those at the cutting edge of design have the power to create a future in their own image.
-[P]Cybernetic prosthetics are already almost unbelievably advanced, capable of not only mimicking the function of a lost limb, but even transmitting sensations to the user just like a flesh and blood equivalent. However some [B]Cyber Techs[b] are hardly content to rest on these laurels. For these individuals, cybernetics are not merely a means to restore lost functionality, but an oppurtunity to pursue abilities a fully organic being could never attain. These Tech Designers frequently do not confine their ideas to  the traditional form of a species, instead designing cybernetics that fulfill their functions best. These "optiimizations" might be as small as additional limbs for added utility or as vast as completly replacing the body with a frame of wire and steel. While many cringe at such a thought these innovators hold with certainty that, as always, progress is inevitable.
-[P]To most organic beings, droids represent a strange sidestep in evolution - most see them as simulacra of intelligent beings rather than as entities in their own right. However, some organic [B]Droid Techs[b] (and more than a few droids) believe these machanical beings to be the logical successors to the concept of "life". After all, droids are theoretically immortal, their intelligences can be untethered from their bodies, and they cn adapt both their bodies and minds dramicatlly to new circumstances with incredible speed; few organic species can boast such qualities. And, while droids have rarely occupied places of galactic prestige, evolution can be a slow process followed by explosive change. A few eccentric droid designers even believe that in pushing the development of droids forwar, life grows ever closer to perfection.
-[P]ON the finges of galactic society, [B]Mechanics[b] frequently can't purchase every device their crews need. If ofter falls to ships' Mechanics to build something from scrathc to solve problems that nobody doresaw. However, while some Mechanics are content to simple cobble together an inefficient solution, Tech Designer believe that if they're going to do something they should do it right. While breaking out a drafting board might be impractical in the midst of a crisis, doing so when the Mechanic has time to carefully design and construct a device that not only solves the problem in the short term, but also minimizes waste and unforessn consequences int he future.
-[P]While most [B]Modders[b] are not usually designers in the traditional snese of being who draft devices from scratch, they do have a place on any development team, be it with a major corporation or at a small technology firm. After all, while the original designer comes up with a device's intended purpose, someone has to figure out what the machine is actually good for. For this task of product testing, few can match a Modder's willingness to take things apart, slap things  together, igore recommended settings and make unorthodox use of anything froma  blaster to a starthips engine to a computer.
-[P][B]Outlaw Techs[b] at the cutting edge of their field usually on the front lines, testing their technology first-hand. There is not crucible for development like actual combat, and most Oulaw Techs who work to advance combat technology to the brink want to be there to observe the results. The character might work as a mercenary or even a bounty hunter ot find oppurtunites to push new gear to its breaking point. Such a character might see combat as part experiment, part technology demo. An Outlaw Tech of this persuation is always on the lookout for clients to impress with new armaments.
-[P]Computer systems are always imporving, changing and evolving and so too must [B]Slicers[b]. Slicers who want to stay current ar always learning new tricks, developing new workarounds to common security and finding ways to subvert security. However, some of the most dangerous slicers are those who design their own rigs and programs, and they can be very difficult for even the most skilled administrators to predict or defend against.
-
-    </Description>
+Some Technicians believe that no matter what problem a being faces, the answer always lies in building a better solution, If a starship engine is powerful, it can be made more compact. If a cybernetic amr is as precise as an organic one, it can be made even more exact. Technology transforms the galazy, and those at the cutting edge of design have the power to create a future in their own image.</Description>
     <Source Page="15">Special Modifications</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -294,12 +274,7 @@ Some Technicians believe that no matter what problem a being faces, the answer a
     <Description>
       [H4]Antiquarian[h4]
 Technology often seems an inherently progressive idea, and to many people it represents only efforts ot buld and improve upon the things of th past. However, some Technicians are actually deeply engaged in the past. The galaxy is unfathomably ancient, and over countless millenia, thousands of species have lived and discovered new ways to transform their environments to their needs. At first glance, manufacturing techniques used only in a single community on a backwater world might seem less advanced than those used in a vast starship constuction facility. However, these unique methods may produce results that are not directly comparable, or may even perform certain tasks better than their "modern" counterparts. The metallurgy of some societies whose members have never left their homeworlds have been found to surpass the industrial standards used to fabricate starship hulls due to the specialized techniques used by these enclaves. Other cultures have found inventive solutions to problems the wider galaxy never even thought to address, from creative energy solusions in absence of traditional fuels, to esoteric weapons that function on principles that still evade even the sharpest researchers and academics.
-[P]Life is perhas the strangest phenomenon in a galaxy filled with nigh-unfathomable wonders ranging from black holes to gravity itself. In the face of hardship, life leverages its encironment to its advantage. For intelligent forms of life, this frequently includes the development of mechanical prosthetics by [B]Cyber Techs[b]. However, sentient beings are as varied as they are adaptable and cybernetic technologies are not a one-size-fits-all proposition. NOt all species have nervous systems that function in the same way - and some do not have them at all, at least in the traditional sense. By seeking out the myriad ways in which different intelligent species across space and time have enhanced their bodies, a Cyber Tech can uncover increible innovations in mechanical science and medicine alike.
-[P]Like starships and many other commone technologies, droids have existed since time immemorial. However, unlike most other advanced constructs, droids are capable of self-modification. A [B]Droid Tech[b] with an interest in antiquity might seek out unique droids that pushed their own evolution in strange and innovative ways. Finding even a fragment of such a being might provide months of work for the character in dissecting the surviving hardware and code to understand the being's ideas, motives, and other thoughts. An organic being might pursue this path, but so too might a droid, especially one who wishes to understand the complexities of its own existence as a being of artifice.
-[P]Not everyone can hail from a technological hot spot like Corellia or even from a fringe world such as Tatooine. However, individual who grow up in truly low-tech communites are just as innovative as their more technologicall experienced counterparts. A [B]Mechanic[b] from a world without advanced technology might have experience with metallurgy, chemistry and machines that do not rely on electricity. Such an individual might be a specialist at producing a particular thing, like a blacksmith, architect or weaver, but might also be a generalist who serves a community's wider needs. Unleashed upon the galaxy, such an Antiquarian would likely acclimate rapidly, using the same logical modes of thinking and practical knowhow to master new technologies.
-[P]The galaxy is filled with examples of innovation and a [B]Modder[b] would be remiss not to take at least a passing interest in such ventures from history and the forgotten edges of galactic society. Some Modders dive headlong into this world of rediscovery, seeking out ancient or overlooked cultures and intergrating their unique innovations into existing pieces of  technology for personal use. Unlike some other Technicians, most Modders hold little to be sacret, least of all the instruction manual. Thus, these mechanical mavericks are often willing to draw upon any useful knowledge, regardless of whether its source is published and accredited within the lofty academies of the Core Worlds.
-[P]Sentient species have been fighting each other for thousands upon thousands of years - and most have been fighting among themselves since they arose from the primordial muck of their various homeworlds - and [B]Outlaw Techs[b] know it. The winners have usually been those who have wielded the best weapons. Over countless eons of war, the sentient beings of the galaxy have created an incredible variety of weapons, and some Outlaw Techs pride themselves on collecting rare pieces from anient civilizations and far-flung worlds. Such character might not only appreciate the efficacy of such weaponry, but also get a substanital thrill out of adding rare works to their arsenals.
-[P]Most species have possessed computers for even longer than they have had starships or droids. While many [B]Slicers[b] look down on ancient computer interfaces, the wise know that the past is the foudation of the future. A Slicer who understands computer code from a historical perspective cna often find vulnerabilities and back doors buried deep in laryers of digital sediment and use these to gain an advantage over the competition. From ancient starship computers still in use after centuries to HoloNet relays established in ancient days, an Atiquarian Slicer has no shortage of oppurtunities to put the secrets  fo the past to work.</Description>
+</Description>
     <Source Page="13">Special Modifications</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -320,69 +295,7 @@ such Commanders. What remains to be seen is how
 they use the lessons they’ve learned, if they’ve learned
 them at all, and whether they can earn back the respect
 they’ve lost—that of their peers, as well as their own.
-[P][B]Commodores[b] who fail to lead often lose their vessels
-to the enemy. Their ships are either captured,
-perhaps by pirates, or destroyed in military action
-due to poor decisions or tactical blunders. Each such
-loss is a disgrace that must somehow be atoned for,
-whether the failure was the Commander’s fault or
-the result of an unfortunate series of events. While
-failure to lead on the ground might lead to a handful
-of deaths, the loss of a starship results in hundreds,
-sometimes thousands, of casualties. The weight of
-such a burden is difficult to bear, but one must learn
-to live with it if one is to strive for better days ahead.
-[P]Losing a starfighter to enemy fire is bad enough, especially
-given the difficulty of acquiring new ships to replace
-those that have been lost. Losing pilots, however, is all
-the more serious, as talented fighter pilots don’t grow on
-trees. Each one lost is irreplaceable, and failed [B]Squadron
-Leaders[b] have lost most, if not all, of their pilots and
-starfighters in combat. The guilt and shame surrounding
-this loss haunts them at every moment, and replacing
-their pilots and ships is likely a top priority
-[P]Every [B]Tactician[b] makes mistakes, but it’s the size
-of those mistakes and the cost they inflict in lives
-that they fear the most. Whether a Tactician planned
-a failed raid on an enemy facility, or chose to hit a
-flank the Empire had secretly reinforced, he’s lost a
-significant number of troops due to his own miscalculations.
-His own self-confidence is shaken, and he
-feels—rightly or wrongly—that the trust his troops
-and his commanding officer have placed in him has
-been weakened too.
-[P]Failed [B]Figureheads[b] can come from two different
-backgrounds. In the first, they once experienced a monumental
-climb in popularity and power, only to lose it all
-due to the Empire’s policies or their own overreach or
-corruption. In the second background, they never really
-succeeded as a politician at all, and instead eked out a
-living as a cog in some larger political machine. In these
-cases, they must attempt to either regain what they’ve
-lost, or gain what they never had, and the Rebel Alliance
-is the perfect opportunity to do just that.
-[P]When a [B]Strategist[b] fails, the outcome of an entire
-conflict can be placed in jeopardy. This defeat can
-be the result of a single bad decision, or the product
-of a number of smaller mistakes that snowball into
-an overwhelming catastrophe. Though Strategists
-rarely work alone, especially in the higher echelons
-of Alliance Command, their expertise and opinions
-are well respected and always considered when plans
-are made. To fail at this level is a rebuke that few can
-bounce back from, but learning from one’s mistakes
-may very well make one a better Strategist in the end.
-[P]It is popularly said that “Those who can, do. Those
-who can’t, teach.” Such a dubious proverb seems to have
-been devised with these particular [B]Instructors[b] in mind.
-Despite their best efforts to attain a fleet appointment,
-a battlefield commission, or a political appointment,
-they were never able to do so. Instead of achieving what
-they felt was their calling in life, they have instead been
-relegated to an Instructor’s position, training troops to
-do the job they once aspired to do themselves. Such
-individuals may be bitter and resentful, but that doesn’t
-mean they won’t rise to the occasion in time.</Description>
+</Description>
     <Source Page="15">Lead by Example</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -404,64 +317,7 @@ Rebels, defectors have yet to earn their complete
 trust. To make matters worse, defectors are fugitives
 who face certain death should they be captured by
 their former masters.
-[P]Many [B]Commodores[b] defected from the Imperial
-Navy following the dissolution of the Imperial Senate.
-Fearing the ambitions of Emperor Palpatine
-more than the justice they might face if caught, they
-now lead the Rebellion’s fledgling navy. They helm
-ships great and small, contributing what they can
-to the fight ahead. A good number of the Alliance’s
-most recognized Commodore heroes learned all they
-know in the Imperial Navy and cut their teeth at the
-Imperial Academy.
-[P]To survive more than a handful of missions, TIE
-pilots have to be the best they can be. Many [B]Squadron
-Leaders[b] developed a taste for adrenaline at the
-controls of an Imperial fighter, battling pirates in the
-Outer Rim or chasing smugglers closer to the Core.
-For whatever reason, they’ve taken their skills over to
-the other side, trading in the Empire’s flimsy TIEs for
-durable X-wings and maneuverable A-wings.
-[P]Serving with ground forces isn’t exactly the most
-prestigious occupation in the Imperial war machine.
-Nevertheless, the Imperial Army is a powerful organization
-with limitless personnel and excellent equipment.
-Former Imperial [B]Tacticians[b] get acquainted with
-the brutality of combat early on, and many of them
-question the ethics of terror tactics. Taking ground is
-one thing, but murdering innocents serves no tangible
-purpose. It isn’t unusual for such individuals to defect
-to the Rebel Alliance, and some view their decision as
-the only thing that can save their soul.
-[P]Palpatine’s grand strategy hasn’t always been clear,
-for the Empire is a dark and secretive institution.
-Many of the most effective military [B]Strategists[b] in the
-Empire found themselves marginalized once the Galactic
-Civil War was in full swing. Others decided that
-the war they were fighting wasn't the right one and
-chose to take their abilities elsewhere. Whatever their
-reasons, they may very well have an inside view of the
-Empire’s motivations and future plans that could be
-of great value to the Rebel Alliance.
-[P]Whether they served as teachers at the Imperial
-Academy or as drill sergeants in any one of a thousand
-Imperial boot camps across the galaxy, [B]Instructors[b]
-play a pivotal role in ensuring that troops are
-well trained and fit for action. Sending citizens off to
-die in an immoral conflict can leave a bad taste in
-anyone’s mouth, and a handful of the Empire’s brightest
-teachers have decided to instill their lessons in
-fledgling Rebels, instead.
-[P]Many Republic loyalists were displaced when Palpatine
-came to power. These [B]Figureheads[b] soon
-found themselves left out in the cold, their opinions
-and politics openly ignored or violently prosecuted
-by their former master. Some come from the Senate,
-having formerly represented a system or locality,
-while others held more mundane positions within
-the Republic or Imperial political machines. Whatever
-their reasons, they see a promise of power in the
-Rebel Alliance—if it can win the war, of course.</Description>
+</Description>
     <Source Page="13">Lead by Example</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -470,67 +326,7 @@ Rebel Alliance—if it can win the war, of course.</Description>
     <Name>Citizen Soldier</Name>
     <Description>
       [H4]Citizen Soldier[h4]
-Citzen soldiers are commoners from across the galaxy who fight to protect their families, their planets and their people. Though many such individuals serve in teh ranks of the Rebel Alliance only a handful reveal themselves to be exemplary leaders, especially in times of freat strife. For these people, the Rebel Alliance is a temporary but absolute obligation; the only things that might end their service are victory or death.
-[P]Civilian ship commanders and free traders are plentiful the galaxy over, especially in areas of commerce and intersystem trade. Though their experience in space battles may be lacking or limited to skirmishes against pirates here and there, some discover they possess latent talents in leadership and ship-to-ship tactics. A great many Rebel [B]Commodores[b] are drawn from this large pool of individuals , perhaps even using their own ships and crews to help forge victory for the Rebel Alliance.
-[P]Not all [B]Squadron Leaders[b] are trained for military
-action. Some act as test pilots for corporate or planetary
-ship manufacturers, while the majority ply their
-trade as couriers, escorts, or transport captains. Hoping
-to make a difference in securing the galaxy for
-freedom, they have offered their skills and reflexes to
-the Rebel Alliance and found themselves no worse off
-for their lack of academy training. Those who can lead
-oftentimes find themselves placed in command of a
-fighter element, a squadron, or an entire attack wing.
-If only their parents could see them now!
-[P]Civilians trained in tactics are a rarity, and those
-who are usually come from law enforcement backgrounds.
-Other [B]Tacticians[b] were once war scholars
-and historians, familiar with small and large unit
-tactics due to their chosen area of study. Still, there
-are those who participate in mock combats, either
-on holographic tabletops or in skirmishes on civilian
-“stun ranges,” where fun and safety are the rule rather
-than the exception. Though they may be derided by
-the trained soldiers they serve with, many find their
-experiences a boon on the battlefield.
-[P]Though politics may be a realm of power and ambition,
-a great many politicos get involved in the affairs
-of state to better serve their communities. Though
-some of these officeholders may have been successful
-in local politics, or even risen to occupy a Senator’s
-seat, the Empire has effectively stripped their
-people of freedom, and nothing they can do through
-official channels can change that. With the trust and
-admiration of their constituents behind them, these
-[B]Figureheads[b] take their talents to the Rebel Alliance,
-motivating citizens the galaxy over to support the
-fight against Imperial tyranny.
-[P]War in politics and business isn’t all that different
-from combat. Though the methods used to achieve
-victory may be different, the ultimate goal remains
-chillingly similar in all three mediums. [B]Strategists[b]
-from the civilian sector often have their roots in
-economic, corporate, or political endeavors. Those
-employed by the Rebel Alliance are likely to find
-themselves working to destroy the Empire not militarily,
-but economically. They also work to provide the
-Alliance with its own income streams, especially those
-that cannot be drastically affected by the Empire’s
-efforts to bankrupt the Rebellion.
-[P][B]Instructors[b] who qualify as citizen soldiers have
-their roots in a number of civilian professions, such
-as law enforcement, education, and (strangely
-enough) health and fitness. Instructors with experience
-in law enforcement training are capable of
-teaching small unit tactics, weapons use, and selfdefense,
-while health and fitness professionals specialize
-in enhancing individual fitness through calisthenics,
-martial arts, and other methods. Scholars
-and educators are just as valuable, allowing potential
-Rebels to learn the theories behind warfare on
-a number of levels, and can help individuals to learn
-critical lessons from history.</Description>
+Citzen soldiers are commoners from across the galaxy who fight to protect their families, their planets and their people. Though many such individuals serve in teh ranks of the Rebel Alliance only a handful reveal themselves to be exemplary leaders, especially in times of freat strife. For these people, the Rebel Alliance is a temporary but absolute obligation; the only things that might end their service are victory or death.</Description>
     <Source Page="14">Lead by Example</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -539,20 +335,14 @@ critical lessons from history.</Description>
     <Name>Mercenary</Name>
     <Description>
       [H4]Mercenary[h4]
-Not every Soldier of the Rebellion fights for the high
-and mighty ideals of the cause; some take up arms
-for purely financial incentives. Hired guns might have
-signed a contract with the rebels with the expectation of high risk, high reward jobs. While Alliance High
-Command has few credits to spend on mercenaries,
-some jobs are just too specialized to assign to Alliance
-Regulars. On occasion, the Alliance finds an alternative to Imperial credits for payment.
-[P]However, most mercenaries find that once they
-begin working with the Alliance, it has a way of sweeping them up in their cause. Those whose hearts cannot be melted by Alliance idealism and morality might
-find themselves reported to the Empire as a rebel
-sympathizer and blacklisted from working for clients
-in the corporate world.</Description>
-    <Source Page="15">Forged in Battle</Source>
-    <Custom>DescOnly</Custom>
+Not every Soldier of the Rebellion fights for the high and mighty ideals of the cause; some take up arms for purely financial incentives. Hired guns might have signed a contract with the rebels with the expectation of high risk, high reward jobs. While Alliance High Command has few credits to spend on mercenaries, some jobs are just too specialized to assign to Alliance Regulars. On occasion, the Alliance finds an alternative to Imperial credits for payment.
+[P]However, most mercenaries find that once they begin working with the Alliance, it has a way of sweeping them up in their cause. Those whose hearts cannot be melted by Alliance idealism and morality might find themselves reported to the Empire as a rebel sympathizer and blacklisted from working for clients in the corporate world.
+</Description>
+    <Sources>
+      <Source Page="15">Forged in Battle</Source>
+      <Source Page="14">Knights of Fate</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
   </Hook>
   <Hook>
     <Key>IDEALREC</Key>
@@ -711,7 +501,7 @@ Having realized he has some untapped power at his disposal, the character now wi
     <Name>Academic</Name>
     <Description>
       [H4]Academic[h4]
-      For the student who seeks history, science, and other knowledge beyond the halls of academia, the stars can be an undeniable siren's song. First-hand experience can mean the difference between theoretical knowledge and true understanding, and the academic who understands the importance of the latter is the true master of his field.
+For the student who seeks history, science, and other knowledge beyond the halls of academia, the stars can be an undeniable siren's song. First-hand experience can mean the difference between theoretical knowledge and true understanding, and the academic who understands the importance of the latter is the true master of his field.
 
 [P]True exploration requires an appreciation for all that is already known, as well as a desire to add to that knowledge. An Explorer with a strong foundation in academia is armed with the knowledge to see himself and his team safely through many situations in which ignorance is a lethal failing. Big guns, fast ships, and all the credits in the galaxy cannot overcome a problem if there isn't sufficient understanding of what the problem is.
 
@@ -811,8 +601,9 @@ The galaxy is full of armies, from numerous planetary defense forces to the awes
     </Description>
     <Sources>
       <Source Page="13">Fly Casual</Source>
+      <Source Page="14">Knights of Fate</Source>
     </Sources>
-    <Custom>DescOnly</Custom>
+    <Custom>CustomItem</Custom>
   </Hook>
   <Hook>
     <Key>FALLENNOBLE</Key>
@@ -894,8 +685,9 @@ Some say a man who seeks vengeance should dig two graves: one for his target, an
     <Sources>
       <Source Page="14">Dangerous Covenants</Source>
       <Source Page="12">Forged in Battle</Source>
+      <Source Page="12">Knights of Fate</Source>
     </Sources>
-    <Custom>DescOnly</Custom>
+    <Custom>CustomItem</Custom>
   </Hook>
   <Hook>
     <Key>FUGITIVE</Key>
@@ -981,5 +773,196 @@ The character finds himself embroiled in a life of adventure through no fault of
 </Description>
     <Source Page="13">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
+  </Hook>
+  <Hook>
+    <Key>RELSEEK</Key>
+    <Name>Relic Seeker</Name>
+    <Description>
+      [H4]Relic Seeker[h4]
+[P]The past lives on, even when all those who were there to witness it have become one with the Force. Whether holocrons, ancient lightsabers, or personal journals, relics of the past are some of the galaxy's strongest connections to its once-thriving Force-using traditions, which are now all but annihilated. Some Consulars recognize these relics as tangible and vital links to a bygone era and actively seek these treasures of insight in forgotten and abandoned places. More dangerous than finding them is keeping them, however. Those who are caught carrying a Jedi holocron, Sith artifact, or other trinket are instantly branded traitors by the Empire. They are hunted to the farthest reaches of the Outer Rim Territories, and even beyond. However, this does not stop the seekers of relics. Consulars know that if balance and peace are to return to the galaxy and those strong in the Force are to have a place in it, a connection to the past must be maintained-even strengthened-with the recovery of these lost artifacts. Relic seekers who discovers a dark side artifact may unknowingly be carrying the very thing that will undo them, in the hope that it can be protected from the prying eyes and machinations of greater evil.</Description>
+    <Source Page="12">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+  </Hook>
+  <Hook>
+    <Key>WANDDIP</Key>
+    <Name>Wandering Diplomat</Name>
+    <Description>
+      [H4]Wandering Diplomat[h4]
+[P]Inner peace and tranquility are hallmarks of those adept in the ways of the Force, but they are by no means easy states to reach. Consulars recognize that peace can be found in all moments, by all people-some just need more help than others. Wandering diplomats use their skills in the Force to help beings they encounter resolve conflict through discussion, concession, and patience. Whether acting as an advisor to a planetary official, a negotiator for a trade guild, or simply a traveling peacekeeper, a wandering diplomat strives to help other beings find harmony in the midst of chaos and stem the tide of the violence and bloodshed in the galaxy.</Description>
+    <Source Page="13">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+  </Hook>
+  <Hook>
+    <Key>ROGSCH</Key>
+    <Name>Rogue Scholar</Name>
+    <Description>
+      [H4]Rogue Scholar[h4]
+Knowledge can be a dangerous thing and rogue scholars know this. Emperor Palpatine builds his Galactic Empire on a foundation of ignorance and propaganda. Rogue scholars dedicate themselves to not only finding the truth but, more importantly, revealing it to those who believe the deception and propaganda fed to them by the Empire. The Force guides these characters in their quest for truth, and the truths they find can shed light on even the deepest darkness. However, Consulars acting as rogue scholars cannot simply shine a beacon into the void. That would most likely get them killed. Instead, they pass on these vital truths to those who can use the information in ways Consulars cannot. After planting the seed of knowledge, they patiently watch and sometimes guide, until it blossoms into the fullness of undeniability-a binding truth that no amount of Imperial deception can diminish.</Description>
+    <Source Page="11">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+  </Hook>
+  <Hook>
+    <Key>FAILEDINIT</Key>
+    <Name>Failed Initiate</Name>
+    <Description>
+      [H4]Failed Initiate[h4]
+Not all who served in the now-destroyed Jedi Order rose to the rank of Knight. In fact, a great many did not even achieve the status of Padawan. Whether their connection to the Force was judged too weak, they did not possess the maturity to become Padawans when the time came, or no Jedi Knight would accept them into their apprenticeship, they never rose beyond the rank of Initiate. While many of these failed initiates entered the Jedi Service Corps, where they could serve as aides to the order, some simply turned their backs on the organization they felt had abandoned them. With the Empire now ruling the galaxy and the Jedi Knights exterminated, the failed initiates travel the galaxy, finding their own path in the Force.
+[P]Other failed initiates received training in traditions outside the Jedi Order, taking lessons from hidden mentors and ecentric wizards before either striking out on their own or being forced into the life of a fugitive by the Galactic Empire or other organizations. They have a great potential, but their lack of understanding may place them on a dangerous path.</Description>
+    <Source Page="11">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+  </Hook>
+  <Hook>
+    <Key>ARTISTS</Key>
+    <Name>Artists</Name>
+    <Description>[H4]Artists[h4]
+The Force grants people thoughts, visions, and emotions that some can't process, so they turn to other means to communicate these ideas. These artists often find themselves frustrated, driven to express an idea bigger than the artistic medium. While most artists create in order to find an audience, Mystic artists create to find answers. The answers can be personal, to seek enlightenment. The answers can be social, motivating others to be and do better. Because of art's emotional nature, however, artists can be tempted to the dark side. These artists use their work to shock, provoke, and upset-not to illustrate a greater truth, but to enhance those dark feelings, reinforcing hate and anger.</Description>
+    <Source Page="10">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+  </Hook>
+  <Hook>
+    <Key>AUGURS</Key>
+    <Name>Augurs</Name>
+    <Description>[H4]Augurs[h4]
+Augurs served a straightforward function: they exposed the truth to those who listened. They could have been anything from a fortune-teller to a psychologist, offering insights on what people should do, but also revealing hidden truths to help people make their own decisions. Some augurs received academic or institutionalized training, while others simply had an uncanny intuition (such as a village elder or community leader). Most were content with this role. The few who had the humility to delve deeper discovered the Force as the source of their wisdom.
+[P]Augurs who fell to the dark side encouraged their victims' darkest desires and instincts, enhancing their anger and pushing them toward violence. These augurs sometimes inflicted harm on others, mistaking pain, deprivaton. and violence for a means to understanding.</Description>
+    <Source Page="12">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+  </Hook>
+  <Hook>
+    <Key>CONARTISTS</Key>
+    <Name>Con Artists</Name>
+    <Description>[H4]Con Artists[h4]
+Force sensitives don't necessarily need to come from a background of enlightenment and self-reflection. Especially during these tumultuous times, Mystics can emerge even from a history of gambling, trickery, and swindling. Some used their abilities to con the wealthy or powerful, rationalizing that two wrongs do make a right. Others pulled cons to make a living while doing what they could to mitigate harm. A few did their best to ignore their conscience. What united these con artists wasn't their criminal skills, but a nagging sense that life could offer something greater. While a criminal life doesn't usually lead to enlightenment, when these con artists sought  answers, they found them rather quickly. After all, they could recognize a good con, and when the Force turned out to be the real thing, they became ardent true believers.</Description>
+    <Source Page="13">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+  </Hook>
+  <Hook>
+    <Key>ECONOMISTS</Key>
+    <Name>Economists</Name>
+    <Description>[H4]Economists[h4]
+Economics is the study of resource allocation, but deep in its heart, it is the study of people and their choices. These proto-Mystics saw patterns, an invisible hand that moved resources to people in need, enriched planets, and connected disparate communities, defying the black-and-white morality of a profit spreadsheet. Cold economic theories and practices can clash with the warmth and light of the Force, however. If a policy can make five million people ten times as wealthy, but at the oppression of one million, could that be argued as good policy? What promotes a fall to the dark side more than turning suffering into mere numbers to be manipulated?</Description>
+    <Source Page="13">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+  </Hook>
+  <Hook>
+    <Key>POLITICALEXPERTS</Key>
+    <Name>Political Experts</Name>
+    <Description>[H4]Political Experts[h4]
+Political experts found themselves able to see the bigger picture and used their time to change (or maintain) local governments. If only people acted this way, these experts thought, then these problems would be solved. The needs and desires of the community should influence the laws of the community, not vice versa. Emboldened or frustrated by the political process, these experts looked for something bigger and more meaningful, and awakened to the power of the Force.
+[P]Not all political awakenings come with enlightenment. Some political experts didn't learn to serve their communities, and instead tried to manipulate them by appealing to their base desires and fears, or punished them with restrictive laws. They sought to control others, a seductive desire from the dark side of the Force.</Description>
+    <Source Page="14">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+  </Hook>
+  <Hook>
+    <Key>RELIGIOUSECSTATICS</Key>
+    <Name>Religious Ecstatics</Name>
+    <Description>[H4]Religious Ecstatics[h4]
+Ecstatics allowed the Force to flow through them uninhibited. These people interpreted the Force through their own religions, adding insights and ideas that for some illuminated, others perplexed, and a few terrified. This "madness" and speaking for the gods were actually their attempts to describe their thoughts and feelings of the Force. When they discovered the Force to be a universal power, they didn't abandon their religion, but simply found the truths within, forging a new yet still traditional path.
+[P]Allowing unchecked emotion to fuel religious fervor, however, can take an ecstatic toward the dark side. Mistaking fear and anger for religious insight can lead people toward victimizing innocents. Instead of listening to the Force, these ecstatics listened only to pain, rage, and terror, and then channeled it right back into the world.</Description>
+    <Source Page="15">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+  </Hook>
+  <Hook>
+    <Key>CRUSADER</Key>
+    <Name>Crusader</Name>
+    <Description>[H4]Crusader[h4]
+These Warriors may have encountered someone who chose them to champion a cause. Initially, such Warriors might have been reluctant and needed persuading, or perhaps they have always felt compelled to stand up for a just cause. Whatever hardships these characters have witnessed, they have only hardened their resolve to fight for change and make the galaxy a better place. These Warriors like to take personal responsibility and to incite others to do the same. They are natural leaders, activists, and moralists who rouse the masses and encourage them to take a stand against tyranny. Depending on these characters' morals, their crusade might be anything from forcing corrupt merchants to offer fair prices to struggling locals, to overthrowing an unjust regime, to reclaiming some stolen relic of Jedi heritage. Crusaders do not accept defeat, and they take up arms against those who refuse to settle issues peacefully.</Description>
+    <Source Page="13">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+  </Hook>
+  <Hook>
+    <Key>ECCENTRIC</Key>
+    <Name>Eccentric</Name>
+    <Description>
+      [H4]Eccentric[h4]
+Eccentrics pursue engineering and science with reckless abandon. Though often highly trained professionals, they are unfettered by orthodox thinking, common sense, and even morality. They see endless possibilities in their chosen field, and they are inveterate inventors and innovators. Eccentrics constantly strive to push barriers and break molds, often to the detriment of themselves and those around them. They are the mad scientists of the galaxy, the cranks and dreamers who are too flighty or erratic for traditional academia but whose knowledge and skills, combined with their imaginations and ambition, make for powerful allies and dangerous enemies.
+[P]There are few eccentrics in the Imperial military, as the rigid conformity and draconian punishments drive out or grind down such individuals. The Alliance, however, has more than its fair share of oddballs. dreamers, and cranks. Attracted to the cause by their freethinking nature, eccentrics from all manner of scientific and engineering disciplines have found their way into the Alliance. They are often brilliant, insufferable, and difficult to work with. On the other hand, they have developed numerous surprisingly successful technologies and weapon systems.</Description>
+    <Source Page="13">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+  </Hook>
+  <Hook>
+    <Key>JOURNEYMAN</Key>
+    <Name>Journeyman</Name>
+    <Description>
+      [H4]Journeyman[h4]
+Whereas academics tend to be primarily concerned with theory, journeymen take a more practical approach. Journeymen travel the galaxy, lending a hand where needed and making themselves useful to the general populace. They are licensed professionals, often with advanced degrees and unimpeachable credentials, who prefer to make direct use of their knowledge and skills rather than theorize or teach classes.
+[P]Journeymen are often quite mercenary at heart. They wander at will, taking work where they can find it and dropping it when something better comes along. Many find homes among private militaries, tipping the scales in their employers' favor in conflicts. Some, however, are driven by something more than money. These are more dedicated to helping the needy and doing what is right than to personal gain. Many of these altruistic individuals serve in the Alliance military, fighting the Empire with tools, brains, and guts rather than blasters or starfighters.</Description>
+    <Source Page="14">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+  </Hook>
+  <Hook>
+    <Key>TALENTAM</Key>
+    <Name>Talented Amateur</Name>
+    <Description>
+      [H4]Talented Amateur[h4]
+Talented amateurs are almost the polar opposite of the academics, with little to no formal training. Instead, they are passionate autodidacts, self-taught tinkerers, or innate savants. While they typically cannot compare to professionals, they are often more creative in their approaches and think outside the bow more easily than those steeping in rigid and hide-bound academia.
+[P] These talented and driven amateurs can be found throughout the galaxy. From the far reaches of the Outer Rim, to glittering Coruscant, amateurs live wherever machines and technology are readily available. While those who serve in the Rebel Alliance are from an incredibly diverse cross section of galactic species, cultures, and societies, they are bound together by passion and a common love of learning.</Description>
+    <Source Page="15">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+  </Hook>
+  <Hook>
+    <Key>FREERUNNER</Key>
+    <Name>Freerunner</Name>
+    <Description>[H4]Freerunner[h4]
+Freerunners turn movement into a highly skilled and specialized art form, using speed, strength, and agility to traverse terrain and cityscapes via quick, unexpected, and sometimes risky routes. To keep moving, they use any reachable surface, whether horizontal, vertical, or somewhere in between. They rapidly cross otherwise impassable or difficult terrain, and their fast and erratic movements make pursuit extremely difficult, if not impossible, for untrained pursuers.
+[P]Freerunner-style drivers and pilots use their techniques to achieve similar results in vehicles and starships. Some were once stunt pilots or drivers trained to use their abilities in live and recorded performances. Other might have received formal training in tactical driving as bodyguards or security personnel.
+[P]With a high degree of training and talent, drivers might spin a vehicle around in a nearly impossibly small amount of space. They can make spectacular jumps while rotating the vehicle about its axis in death-defying and gut-wrenching fashion.
+[P]Species that are light, quick, and agile typically make the best freerunners. Their lighter weight means they can land and climb on weaker structures and smaller surfaces. However, strong and athletic species can achieve similar results when using their muscles to make longer leaps or knock aside obstacles.</Description>
+    <Source Page="12">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+  </Hook>
+  <Hook>
+    <Key>LAWAGENT</Key>
+    <Name>Law Enforcement Agent</Name>
+    <Description>[H4]Law Enforcement Agent[h4]
+Plenty of current and former law enforcement agents dislike Imperial laws and enforcement methods. Personnel who observe or are forced to participate in the Empire’s oppressive operations may become sympathizers or join the Rebellion outrights. Officers and detectives have many skills suitable for a Spy career.
+[P]Detectives, investigators, and profilers use deductive reasoning and similar skills to analyse new information. These individuals might act as field agents, or they may review incoming data. Patrol officers might have a combination of investigation and fighting skills.
+[P]Law officer training depends largely on earlier experience, ability, and residence. Agents on Core Worlds usually receive high-quality training, and are well-versed in Imperial laws, with access to excellent resources and support staff. Agents from less populated or remote worlds are likely to have less training, staff, and resources and depend more on their own skills and experience.
+[P]Officers on non-Imperial or more lawless worlds are focused on more regional laws and politics. They are often more concerned with keeping the peace than with following the letter of the law.
+[P]These elements impact how law enforcement agents become spies and where best to deploy their skills. Many have extensive knowledge of, and contacts with, underworld elements and criminal syndicates. High-ranking agents know officials of similar standing, providing potential channels for unofficial information.</Description>
+    <Source Page="12">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+  </Hook>
+  <Hook>
+    <Key>MAKEUPARTIST</Key>
+    <Name>Makeup Artist</Name>
+    <Description>[H4]Makeup Artist[h4]
+Espionage field agents live in a world of deception and misdirection. Their true identities must be kept secret through technological, visual, audial means. It is perfectly acceptable to publicly wear helmets and masks in some parts of the galaxy, but that typically is too conspicuous when penetrating Imperial targets. While fake identities and falsified records can provide a degree of protection, sometimes it simply isn’t wise, or possible, for an agent’s true appearance to be seen.
+[P]Makeup artists and costumers provide the required skills and techniques to turn someone into just about anyone else. The change could be subtle, with slight alterations to hairstyle, facial hair, and eyes. Radical transformations are also possible using high-quality theatrical masks, prosthetics, and even full bodysuits.
+[P]Master holographic technicians may know exotic techniques for transforming an individual using advanced holographic imaging. Holomasks and full-body holographic disguise matrices can be extremely useful (though expensive) in the right conditions.
+[P]The wide range of skills and experience among those employed in professional makeup artistry means that Rebel recruits may have any level of aptitude. Some may have specialized in broadcast preparations or amateur theatrical productions. Experienced professionals have more knowledge of successful techniques and more expensive supply kits than those newer to the field. In reality, most Rebel groups must make the most of whatever skills their members possess, along with any available materials and technology on hand.</Description>
+    <Source Page="13">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+  </Hook>
+  <Hook>
+    <Key>PERFORMER</Key>
+    <Name>Performer</Name>
+    <Description>[H4]Performer[h4]
+Not every Spy is a silent killer or martial arts expert. Most rely far more on the art of deception and social engineering than on combat abilities. Still, even Spies adept at social manipulation find it useful to be able to dodge and tumble when the situation calls for it.
+[P]Performers can be great spies. Actors may more easily deceive other thanks to their ability to adopt new roles. They might jump between different personas at will, move seamlessly from one to another during a mission. Actors also have excellent memorization skills, allowing them to quickly parrot complex technical knowledge. Often, they can spot enemy Spies due to an impostor’s poor acting.
+[P]Stage performers may be able to use some of their act in certain espionage missions. Magicians, illusionists, and sleight-of-hand experts can use their mastery of misdirection to deceive others and palm objects in plain sight. Singers and dancers can employ their skills in social events. Escape artists are naturally good at freeing themselves when captured.</Description>
+    <Source Page="14">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+  </Hook>
+  <Hook>
+    <Key>PSYCHOLOGIST</Key>
+    <Name>Psychologist</Name>
+    <Description>[H4]Psychologist[h4]
+Spies are frequently after information that isn’t simply stored in Imperial databases. This can mean prying it out of individuals who know it or know how to find it. Psychological methods can provide an advantage in getting unsuspecting or uncooperative subjects to reveal what they know.
+[P] Psychologists can thus be a great asset to espionage operations. Knowing the likely mental state and thought processes of an individual provides insight into what questions should be asked and how to ask them to gain a truthful and useful response.
+[P]Determining how to ask a question and knowing who should do so are equally important. Insulting phrases, inappropriate protocol, and rude mannerisms can be detrimental and even reveal a Spy as a fraud. Crude and harsh language probably won’t get a Spy anywhere when dealing with prominent scientists or loyal Imperial personnel, but it could be exactly the right approach with underworld enforcers or smugglers.
+[P]Rebel psychologists are normally educated in their area of expertise before joining the Alliance, which is important as psychology isn’t a subject easily taught in the field. Specific ideas and techniques can be imparted and used in isolation, but amateurs will often miss vital subtleties.</Description>
+    <Source Page="14">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+  </Hook>
+  <Hook>
+    <Key>REPOSPECIALIST</Key>
+    <Name>Repo Specialist</Name>
+    <Description>[H4]Repo Specialist[h4]
+Not all Spy recruits come from honourable professions. Many already operate in the gray regions of galactic society. One such profession is the starship repossession specialist, more commonly known as repo specialist. Some work for legitimate corporations under Imperial licenses and laws. Most, though, work for shady third-party resellers, used starship lots, or even criminal syndicates. In any case, repo specialists use a combination of bounty hunting, burglary, intimidation, and stealth to find and repossess their target. While they might have the legal authority to do so, their techniques work for either side of the law.
+[P]A tremendous range of security systems is employed in the protection of starships and vehicles. Some vehicles have nothing at all or only require a basic key or code to access and start. Others have advanced systems with sensors for detecting innumerable methods of attack. While high-end and expensive craft can be expected to have many layers or protection, even relatively mundane or innocuous-looking ships could be so equipped, if the owner is rich and paranoid enough. Combined with ray shields, traps, or weapons, these security systems can be dangerous and even lethal to repo specialists.
+[P]Of course, none of that matters if the repo specialist cannot find the ship to begin with. While repo specialists usually get some sort of address or suspected location from their employer, vehicle owners behind in their payments are unlikely to remain in the area if they suspect someone is after them. Additionally, hyperspace-capable starships could jump to almost anywhere in the galaxy, making discovery efforts even more difficult.</Description>
+    <Source Page="15">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
   </Hook>
 </Hooks>

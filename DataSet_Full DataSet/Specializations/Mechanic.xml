@@ -10,8 +10,8 @@ Depending on who is asked, Mechanics are either the glue that holds everything t
 
 [P]A Mechanic that's hooked up with the typical Player Character group has likely decided he doesn't want to spend all of his time in a work pit or engineering hangar. He probably wants to see a bit of the galaxy and get some flight time in. Fortunately, Mechanics tend to pick up a few things about how to take care of themselves in tough situations, and given a few minutes and some random devices, they may well cobble together a rather explosive means of dealing with real problems.</Description>
   <Sources>
-    <Source>Edge of the Empire Core Rulebook</Source>
-    <Source>Age of Rebellion Core Rulebook</Source>
+    <Source Page="89">Edge of the Empire Core Rulebook</Source>
+    <Source Page="85">Age of Rebellion Core Rulebook</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <CareerSkills>

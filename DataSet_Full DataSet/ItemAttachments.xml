@@ -2221,9 +2221,7 @@ To accompany its autopilot droid brain, Go-Corp has rolled out the CD-13z, an as
     <Name>Autopilot Droid Brain</Name>
     <Description>
       [H3]Autopilot Droid Brain[h3]
-
 More advanced and sophisticated than standard autopilot systems, a specialized autopilot droid brain has become a popular upgrade among smugglers and others. Capable of piloting a vehicle or ship with reasonable competence, autopilot droid brains can be communicated with remotely via a beckon call, allowing the user to summon the vehicle or ship from up to several hundred kilometers away. 
-
 [P][B]Models Include:[b] Go-Corp CD-12a autopilot droid brain.</Description>
     <Source>Fly Casual</Source>
     <Custom>DescOnly</Custom>
@@ -7363,12 +7361,8 @@ fitted with shield generators to improve its durability.
     <Key>AD1SHYPER8</Key>
     <Name>(AD-1S) Hyperdrive Class 8 Module</Name>
     <Description>[H3]Hyperdrive Class 8 Module for AD-1S[h3]
-Installing a hyperdrive, even
-a relatively low-grade one, in an AD-IS takes up a
-good deal of space inside of the craft, but also allows
-it to operate independently. For many mercenaries,
-bounty hunters, and other frequent travelers, such an
-upgrade is well worth the cost.
+Installing a hyperdrive, even a relatively low-grade one, in an AD-IS takes up a good deal of space inside of the craft, but also allows
+it to operate independently. For many mercenaries, bounty hunters, and other frequent travelers, such an upgrade is well worth the cost.
 </Description>
     <Source Page="63">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -7677,12 +7671,8 @@ For those operating in the wilds, sometimes the simplest camoflage methods are t
     <Key>AD1SHYPER4</Key>
     <Name>(AD-1S) Hyperdrive Class 4 Module</Name>
     <Description>[H3]Hyperdrive Class 4 Module for AD-1S[h3]
-Installing a hyperdrive, even
-a relatively low-grade one, in an AD-IS takes up a
-good deal of space inside of the craft, but also allows
-it to operate independently. For many mercenaries,
-bounty hunters, and other frequent travelers, such an
-upgrade is well worth the cost.
+Installing a hyperdrive, even a relatively low-grade one, in an AD-IS takes up a good deal of space inside of the craft, but also allows
+it to operate independently. For many mercenaries, bounty hunters, and other frequent travelers, such an upgrade is well worth the cost.
 </Description>
     <Source Page="63">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -8545,5 +8535,2706 @@ By mounting their holsters into the framework of their armor, combatants can ens
         <Range>Close</Range>
       </WeaponModifier>
     </WeaponModifiers>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>BLADEDRAIN</Key>
+    <Name>Blade Drain</Name>
+    <Description>
+      [H3]Blade Drain[h3]
+ The Blade drain attachment works by creating a small power drain when in contact with another lightsaber blade. Once attached to a lightsaber hilt and wired into the power supply, the blade drain attachment draws energy from the power supply of an opponent's lightsaber via the energy blade contact is made. The draw is momentary but significant enough to reduce the effectiveness of an opponent's lightsaber, making it less capable of dealing damage.
+[P]There is, however, a risk that the drawn power could overload the power supply of the weilder's own lightsaber as the excess power is stored, causing a catastrophic failure in the device. Users of this modification consider it a small price to pay for reducing the combat effectiveness of their foes, a tradeoff that could save lives. This attachment can only be applied to lightsabers.</Description>
+    <Source Page="50">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Lightsaber</Category>
+      <Category>Lightsaber Hilt</Category>
+    </CategoryLimit>
+    <Price>4000</Price>
+    <Rarity>9</Rarity>
+    <Restricted>true</Restricted>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>When making a combat check targeting an opponent with a lightsaber, character may spend [TR] to reduce opponent's lightsaber's base damage by one for remainder of encounter.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>[TH][TH][TH] causes blade to collapse.  Cannot be reignited until character's next turn.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>DEFENSIVE</Key>
+        <Count>2</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>POMMELCAP</Key>
+    <Name>Pommel Cap</Name>
+    <Description>
+      [H3]Pommel Cap[h3]
+Force users, especially those walking a path closely attuned to the light side of the Force, often seek non-lethal means for incapacitating their opponents. The pomel cap provides just such a solution. The pommel cap is a small, weighted knob or other similar piece attached to the base of a lightsaber's hilt. The increased weight and reinforcement provided by the pommel cap make pommel strikes with the lightsaber more effective, and less likely to damage the lightsaber itself, than a strike with a bare hilt. The pommel cap not only enhances the ability of a Force user to provide a stunning blow, but it can also be used to store small items of necessity-most often an additional backup power cell, though any number of small items can prove useful to a Force user in need. The pommel cap screws into the base of a lightsaber, and competent wielders often incorporate its use into their fighting style as a matter of course. This attachment can be applied to lightsabers or any Melee weapon with a hilt.</Description>
+    <Source Page="51">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Bludgeoning Melee</Category>
+      <Category>Cutting Edge Melee</Category>
+      <Category>Lightsaber</Category>
+      <Category>Lightsaber Hilt</Category>
+    </CategoryLimit>
+    <Price>3000</Price>
+    <Rarity>2</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <Key>STUN</Key>
+        <Count>2</Count>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>STUN</Key>
+        <Count>2</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>HILTMASK</Key>
+    <Name>Hilt Masking Kit</Name>
+    <Description>
+      [H3]Hilt Masking Kit[h3]
+Often, openly carrying a lightsaber causes undue comment and notice. Owners of such a weapon may have many reasons to want a subtler presence, yet still keep their lightsaber by their side. Perhaps they must enter an area known to be under heavy Imperial scrutiny, or the mere presence of an obvious weapon may sour delicate negotiations. Whatever the reason, Force users may make use of a hilt-masking kit to disguise their weapon.
+[P]Just as each lightsaber is unique to its user, so too is each hilt-masking kit; there is no "universal" kit. The needs of the moment, or the personal tastes of the Force user, dictate what form each kit takes. Sometimes a hilt may be disguised as a cane; at other time it could be hidden as a part of a more mundane weapon like a blaster rifle; it may even appear to be something much more ordinary, like  a pair of microbinoculars. The cost, rarity, and encumbrance of a hilt-masking kit are the same as that of the item it is meant to look like. Whatever form the masking takes, it provides two important qualities: it looks as little like a lightsaber as possible, and it provides quick and easy access to the full weapon when needed.</Description>
+    <Source Page="50">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Lightsaber</Category>
+      <Category>Lightsaber Hilt</Category>
+    </CategoryLimit>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Adds [FA][FA] to any attempt to find or identify the lightsaber as a lightsaber.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Count>2</Count>
+        <MiscDesc>Increase number of [FA] by 1</MiscDesc>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>STUNONLYBLASTER</Key>
+    <Name>Stun-Only Blaster Modification</Name>
+    <Description>
+      [H3]Stun-Only Blaster Modification[h3]
+Add this attachment to any blaster pistol or carbine to make it stun-only.  A blaster with this modification costs half the normal price.
+    </Description>
+    <Sources>
+      <Source Page="160">Edge of the Empire Core Rulebook</Source>
+      <Source Page="174">Age of Rebellion Core Rulebook</Source>
+      <Source Page="167">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Blaster Carbine</Category>
+      <Category>Blaster Pistol</Category>
+    </CategoryLimit>
+    <Rarity>1</Rarity>
+    <BaseMods>
+      <Mod>
+        <Key>REMQUALSTUNSETTING</Key>
+      </Mod>
+      <Mod>
+        <Key>STUNDAMAGE</Key>
+      </Mod>
+      <Mod>
+        <Key>PRICEHALF</Key>
+      </Mod>
+    </BaseMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CORRUPTCRYS</Key>
+    <Name>Corrupted Crystal</Name>
+    <Description>
+      [H3]Corrupted Crystal[h3]
+Even the best of the Jedi can fall. The Empire scours the galaxy looking for the Force sensitives to enfold in the dark side. Untutored pupils wander far from the light, lost on dark paths from which they may never return. Many of them have either found or constructed lightsabers of their own with such crystals as they could and, in the course of their fall or their time astray, have committed heinous acts suffused with the dark side of the Force. They bend the kyber crystals in their lightsabers to their will, leading to the bloody red hue or are redeemed, they leave behind a weapon and a crystal strongly associated with the dark side of the Force. These crystals must be purged of their evil to avoid letting them fall into other hands and corrupt them as well. Thus, a Force user may take on the task of reclaiming these crystals. A corrupted crystal is a lightsaber crystal.</Description>
+    <Source Page="52">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Lightsaber</Category>
+      <Category>Lightsaber Hilt</Category>
+    </CategoryLimit>
+    <Rarity>9</Rarity>
+    <Restricted>true</Restricted>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <Key>DAMSET</Key>
+        <Count>6</Count>
+      </Mod>
+      <Mod>
+        <Key>CRITSET</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Key>BREACH</Key>
+        <Count>1</Count>
+        <QualReplace>true</QualReplace>
+      </Mod>
+      <Mod>
+        <Key>SUNDER</Key>
+      </Mod>
+      <Mod>
+        <Key>VICIOUS</Key>
+        <Count>2</Count>
+        <QualReplace>true</QualReplace>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>When character wielding this lightsaber makes a Force check, add [DA] to the check.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>When wielder's Morality rises to 70 or more, [DA] is no longer added to Force checks, and the crystal loses the Vicious quality.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>DAMADD</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Key>CRITSUB</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>VICIOUS</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>SUBQUALVICIOUS</Key>
+        <Count>2</Count>
+      </Mod>
+    </AddedMods>
+    <IsCrystal>true</IsCrystal>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>STUNBLAST</Key>
+    <Name>Stun Blaster Attachment</Name>
+    <Description>
+      [H3]Stun Blaster Attachment[h3]
+Force sensitives trained or experienced in other fields prior to embarking on their current path may feel more comfortable using a ranged weapon before resorting to their lightsabers. Others may have reason to diguise their lightsabers, yet retain immediate access to them. Still others reason that if the threat of an opponent can be eliminated at range, so much the better for all concerned. While carrying a blaster pistol is one solution, some prefer a melding of blaster and lightsaber, perhaps believing that a personal weapon best reflects the Force user when it represents all aspects of the user's life, both present and past. Still, the tenets of the Jedi Order apply, and life is to be preserved if at all possible. The stun blaster attachment is seen as an acceptable compromise in these situations.
+[P]By stripping down an otherwise functional stun blaster, wiring it into the power supply of a lightsaber hilt, and bolting the resulting device to that hilt, a Force user can make use of the blaster without relinquishing immediate access to the lightsaber. This cannibalized stun blaster has a shorter range. Due to the energy draw on the lightsaber's power supply, it cannot be used simultaneously with the blade, but it is often a useful addition to the wielder's weaponry. This attachment has saved more than one life on both ends of the lightsaber.</Description>
+    <Source Page="51">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Lightsaber</Category>
+      <Category>Lightsaber Hilt</Category>
+    </CategoryLimit>
+    <Price>750</Price>
+    <Rarity>5</Rarity>
+    <HP>2</HP>
+    <AddedMods>
+      <Mod>
+        <Key>DAMADD</Key>
+        <Count>1</Count>
+        <WeaponModifierIndex>0</WeaponModifierIndex>
+      </Mod>
+      <Mod>
+        <Key>SUBQUALUNWIELDY</Key>
+        <Count>1</Count>
+        <WeaponModifierIndex>0</WeaponModifierIndex>
+      </Mod>
+      <Mod>
+        <Key>DISORIENT</Key>
+        <Count>2</Count>
+        <WeaponModifierIndex>0</WeaponModifierIndex>
+      </Mod>
+    </AddedMods>
+    <WeaponModifiers>
+      <WeaponModifier>
+        <UnarmedName>Stun Blaster</UnarmedName>
+        <SkillKey>RANGLT</SkillKey>
+        <Damage>5</Damage>
+        <Qualities>
+          <Quality>
+            <Key>STUNDAMAGE</Key>
+          </Quality>
+          <Quality>
+            <Key>UNWIELDY</Key>
+            <Count>2</Count>
+          </Quality>
+        </Qualities>
+        <RangeValue>wrShort</RangeValue>
+        <Range>Short</Range>
+      </WeaponModifier>
+    </WeaponModifiers>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>SEEKERCRYS</Key>
+    <Name>Seeker Crystal</Name>
+    <Description>
+      [H3]Seeker Crystal[h3]
+No one seems to know where these crystals come from or how they make their way into the hands of their users. Rumors persist of markets so dark that none but a handful of beings know about them. Other rumors suggest that these crystals have an entirely different purpose and only incidentally happen to function as lightsaber crystals with unusual properties. Still others say they come from the deepest edges of the galaxy, from stars yet unknown. Whatever the case may be, those few that are known to exist have served their users well, allowing them to avoid ambush and suprise attack. Users of these crystals seem to instinctively know when they are being secretly observed or when their charges are in danger from hidden assassins. When ignited, blades produced by these crystals glow a soft pink color and connect users to the Force in such a way that they are able to detect those who hide nearby. While it is not a compass pointing the way to hidden beings, a wielder will know without a doubt that a concealed foe is near. A seeker crystal is a lightsaber crystal.</Description>
+    <Source Page="53">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Lightsaber</Category>
+      <Category>Lightsaber Hilt</Category>
+    </CategoryLimit>
+    <Price>16000</Price>
+    <Rarity>9</Rarity>
+    <Restricted>true</Restricted>
+    <BaseMods>
+      <Mod>
+        <Key>DAMSET</Key>
+        <Count>7</Count>
+      </Mod>
+      <Mod>
+        <Key>CRITSET</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Key>BREACH</Key>
+        <Count>1</Count>
+        <QualReplace>true</QualReplace>
+      </Mod>
+      <Mod>
+        <Key>SUNDER</Key>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Force-sensitive wielders my add [AD][AD] to Perception or Vigilance checks to detect a hidden being within short range.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>DAMADD</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Increase check range to medium</MiscDesc>
+      </Mod>
+    </AddedMods>
+    <IsCrystal>true</IsCrystal>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CRACKEDCRYS</Key>
+    <Name>Cracked Crystal</Name>
+    <Description>
+      [H3]Cracked Crystal[h3]
+With the destruction of the Jedi, the Empire has begun to horde kyber crystals for itself, capturing and controling traditional sources of the crystals in order to develop strange new weapons. Force users must look for non-traditional sources of lightsaber crystals wherever they may be found, regardless of their condition. For example, with the destruction of the Death Star, a new, if difficult to access, source of crystals has been revealed. At the heart of the great battle stations lay a giant kyber crystal powering the lasers that destroyed Alderaan. When the Alliance destroyed Alderaan. When the Alliance destroyed the Death Star, the crystal shattered in the resulting explosion and scattered itself across the open space of the Yavin system. Most of the shards are unusable, either too small or too damaged to function, and many of them succumbed to the gravity wells of the planets of the Yavin system. However, some few remain, quietly circling among the remaining debris fields, cracked and unstable, but functional. Special lightsaber modifications are needed to use such crystals properly, but to the willing Force user, they can be made into distinctive blades. A cracked crystal is a lightsaber crystal.</Description>
+    <Source Page="52">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Lightsaber</Category>
+      <Category>Lightsaber Hilt</Category>
+    </CategoryLimit>
+    <Rarity>10</Rarity>
+    <Restricted>true</Restricted>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <Key>DAMSET</Key>
+        <Count>7</Count>
+      </Mod>
+      <Mod>
+        <Key>CRITSET</Key>
+        <Count>3</Count>
+      </Mod>
+      <Mod>
+        <Key>BREACH</Key>
+        <Count>2</Count>
+        <QualReplace>true</QualReplace>
+      </Mod>
+      <Mod>
+        <Key>SUNDER</Key>
+      </Mod>
+      <Mod>
+        <Key>VICIOUS</Key>
+        <Count>1</Count>
+        <QualReplace>true</QualReplace>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>If a combat check results in a [DE], GM may cause crystal to shatter.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>CRITSUB</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>VICIOUS</Key>
+        <Count>2</Count>
+      </Mod>
+    </AddedMods>
+    <IsCrystal>true</IsCrystal>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>SOLARICRYS</Key>
+    <Name>Solari Crystal</Name>
+    <Description>
+      [H3]Solari Crystal[h3]
+As rare as this type of kyber crystal is, some do find their way into the hands of Force sensitives highly attuned to the light side of the Force. Tales of solari kyber crystals come from the ancient past, and they have long been thought to be mere myths. However, they do exist, and it is a lucky Force user who can find one and make use of it. Or perhaps it is the will of the Force that those most in tune with the light side should happen upon them. They are not put to use lightly, though, for they demand much of their wielder. In exchange, they provide unparalleled protection against incoming fire. A solari crystal causes a lightsaber's blade to widen, thereby making much more effective at deflecting blaster bolts. A solari crystal is a lightsaber crystal.</Description>
+    <Source Page="53">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Lightsaber</Category>
+      <Category>Lightsaber Hilt</Category>
+    </CategoryLimit>
+    <Price>16000</Price>
+    <Rarity>9</Rarity>
+    <Restricted>true</Restricted>
+    <HP>3</HP>
+    <BaseMods>
+      <Mod>
+        <Key>DAMSET</Key>
+        <Count>7</Count>
+      </Mod>
+      <Mod>
+        <Key>CRITSET</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Key>BREACH</Key>
+        <Count>1</Count>
+        <QualReplace>true</QualReplace>
+      </Mod>
+      <Mod>
+        <Key>SUNDER</Key>
+      </Mod>
+      <Mod>
+        <Key>DEFENSIVE</Key>
+        <Count>1</Count>
+        <QualReplace>true</QualReplace>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Reduce strain from Reflect incidental by 1.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Crystal ceases to function if wielder's Morality is reduced below 50.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>DAMADD</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>DEFENSIVE</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Reduce cost of Improved Reflect by [TH]</MiscDesc>
+      </Mod>
+    </AddedMods>
+    <IsCrystal>true</IsCrystal>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>SPACESLUGRULES</Key>
+    <Name>Space Slug Abilities</Name>
+    <Description>
+      [H3]Space Slug Abilities[h3]
+Additional Rules for Enormous Space Slug.</Description>
+    <Source>Strongholds of Resistance</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Vehicle</Type>
+    <ItemLimit>
+      <Key>SPACESLUG</Key>
+    </ItemLimit>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>When rolling for initiative, or attacking with its Insatiable Maw, a space slug rolls a [B]Coordination skill check[b], counting as having Coordination 3 and Agility 1 ([PR][AB][AB]).</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>A starship of silhouette 5 or lower attacked by a space slug, regardless of whether or not the attack hit, must make a [B]Hard ([DI][DI][DI]) Piloting (Space) check[b] to avoid  being swallowed.  If swallowed, ship suffers 10 hull trauma daily from being digested.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>The stomach of an space slug is also generally home to mynocks, which will waste no time attacking a swallowed starship.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <WeaponModifiers>
+      <WeaponModifier>
+        <UnarmedName>Insatiable Maw</UnarmedName>
+        <SkillKey>COORD</SkillKey>
+        <Damage>12</Damage>
+        <Crit>3</Crit>
+        <Qualities>
+          <Quality>
+            <Key>BREACH</Key>
+            <Count>3</Count>
+          </Quality>
+          <Quality>
+            <Key>SLOWFIRING</Key>
+            <Count>2</Count>
+          </Quality>
+        </Qualities>
+        <VehicleWeaponProperties>
+          <FiringArcs>
+            <Fore>true</Fore>
+          </FiringArcs>
+        </VehicleWeaponProperties>
+        <VehicleWeaponCount>1</VehicleWeaponCount>
+        <RangeValue>wrClose</RangeValue>
+        <Range>Close</Range>
+      </WeaponModifier>
+    </WeaponModifiers>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>DROIDBRAINDETON</Key>
+    <Name>Droid Brain Detonator</Name>
+    <Description>
+      [H3]Droid Brain Detonator[h3]
+Weapons manufacturers, combat engineers, and sabotage specialists are constantly inventing new triggers and detonators for explosive devices of all kinds, in order to provide for every conceivable situation. One of the most sophisticated and uncommon triggers makes use of an actual droid brain. Whereas timers, proximity detectors, and other common detonators are all effective within their narrow parameters, a droid brain is adaptable for nearly any situation or plan. A droid brain is able to abide by extremely specific trigger conditions and to follow complex instructions. For instance, users might instruct a detonite charge to wait thirty minutes after several specific individuals have entered a facility before igniting, or tell their frag grenade to avenge them should they fall in battle.
+[P]Droid brain detonators are intensely loyal, even by droid standards, but they tend to develop distinct personality quirks over their relatively short existences. Some are annoyingly chipper and enthusiastic, perhaps owing to additional layers of obedience programming, while others exhibit anything from childlike naivete to nihilistic moroseness. This attachment can be applied to any grenade or explosive device.
+</Description>
+    <Source Page="51">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Explosive</Category>
+      <Category>Grenade</Category>
+    </CategoryLimit>
+    <Price>1000</Price>
+    <Rarity>4</Rarity>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Explosive's detonator is controlled by a droid brain that can activate under any predetermined circumstance.</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>DROIDTARGET</Key>
+    <Name>Droid Targeting System</Name>
+    <Description>
+      [H3]Droid Targeting System[h3]
+Although droids are most commonly thought of as autonomous mobile constructs, the advanced artificial intelligence of droid brains has been used in a variety of other applications for thousands of years. A specialized droid mind equipped with sensors and miniaturized gyromotors can improve the accuracy of even the most experienced sentient marksman.
+[P]Many soldiers look down on the use of such systems, while others find the vibrations as the droid subtly adjusts their aim to be frustrating, to say the least. Droid targeting systems are known for their often bossy and impatient personalities. This attachment can be applied to any personal ranged weapon.</Description>
+    <Source Page="51">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Weapon</Type>
+    <Price>3200</Price>
+    <Rarity>5</Rarity>
+    <HP>3</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Upgrade ability on Ranged combat checks made with this weapon once.</MiscDesc>
+        <DieModifiers>
+          <DieModifier>
+            <SkillKey>RANGHVY</SkillKey>
+            <UpgradeAbilityCount>1</UpgradeAbilityCount>
+          </DieModifier>
+          <DieModifier>
+            <SkillKey>RANGLT</SkillKey>
+            <UpgradeAbilityCount>1</UpgradeAbilityCount>
+          </DieModifier>
+        </DieModifiers>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Add [BO] to one Ranged combat check per encounter</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Suffer 3 strain to remove [DE] from Ranged combat check</MiscDesc>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>GRENCLING</Key>
+    <Name>Grenade Cling</Name>
+    <Description>
+      [H3]Grenade Cling[h3]
+While some anti-vehicle explosive devices and some concussion grenades are equipped with an electromagnetic clamp as a standard feature, such capabilities are rare among anti-personnel grenades. With the addition of an electromagnet, adhesive polymer, plastoid webbing, or any of a dozen other measures, nearly any grenade or bomb can be made to latch onto its target, preventing escape and ensuring its destruction. The attachment can be added to any grenade or explosive device.</Description>
+    <Source Page="52">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Explosive</Category>
+      <Category>Grenade</Category>
+    </CategoryLimit>
+    <Price>70</Price>
+    <Rarity>2</Rarity>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Grenade immediately adheres to its target and requires an [B]Average ([DI][DI]) Athletics check[b] to remove.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Count>2</Count>
+        <MiscDesc>Increase damage by 1 to stuck targets</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>2</Count>
+        <MiscDesc>Increase difficulty to remove adhered grenade once</MiscDesc>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>PROXDET</Key>
+    <Name>Proximity Detonator</Name>
+    <Description>
+      [H3]Proximity Detonator[h3]
+Although certain models of mines include proximity detonators as standard, some desire this feature for grenades and other explosive devices. A proximity detonator adds an alternative trigger method: rather than detonating via a timer or on impact, the grenade only detonates when it detects the movement of a being or creature nearby. With the addition of a proximity detonator, a simple frag grenade becomes a deadly trap. A well-placed concussion grenade can incapacitate an entire squad of pursuing stormtroopers, giving Rebels better chances for escape. This weapon attachment can be applied to any grenade or explosive device.</Description>
+    <Source Page="52">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Grenade</Category>
+      <Category>Explosive</Category>
+    </CategoryLimit>
+    <Price>120</Price>
+    <Rarity>3</Rarity>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Weapon detonates when a silhouette 1 or higher creature comes within short or engaged range, as determined when placed.</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>ORDIMPELL</Key>
+    <Name>Ordnance Impeller</Name>
+    <Description>
+      [H3]Ordnance Impeller[h3]
+Over the millennia, tinkerers, weapon designers, and desperate fighters have come up with countless delivery systems for explosives, from missile tubes to combat droids. One less-popular approach that nonetheless endures among certain demolitions experts is the use of a modified grenade or detonite charge capable of self-propulsion. Such modifications are almost always unique, although certain small droids and other devices are a popular basis, despite manufacturer warnings. From a proton grenade with wheels to a hovering thermal detonator, these makeshift devices-when successful-allow unparalleled control of an explosive device from a considerable distance. This is generally achieved via a small holocam and remote-control unit, although the addition of a droid brain detonator can be exceedingly effective. This weapon attachment can be applied to any grenade or explosive device with an encumbrance value of 3 or less.</Description>
+    <Source Page="52">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Explosive</Category>
+      <Category>Grenade</Category>
+    </CategoryLimit>
+    <Price>500</Price>
+    <Rarity>4</Rarity>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Explosive can move overland at the rate of a character on foot.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Includes a holocam and remote-control unit, allowing for movement and detonation from up to extreme range.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Skill checks to operate device uses either Computers or Piloting (Planetary).</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Add ten-meter maximum altitude.</MiscDesc>
+      </Mod>
+    </AddedMods>
+    <MaxEnc>3</MaxEnc>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>AUTOWEAPMOUNT</Key>
+    <Name>Automated Weapon Mounting</Name>
+    <Description>
+      [H3]Automated Weapon Mounting[h3]
+Used by elite special forces across the galaxy-and the occasional bounty hunter-an automated weapon mounting is a sophisticated pseudocybernetic that allows the user to fire a blaster or other handheld weapon while keeping both hands free, possibly for additional weapons. Automated harnesses are most commonly shoulder mounted, although a variety of models are available, some incorporating articulated appendages of up to a half meter in length. Sappers and combat engineers often find automated weapon mountings particularly useful , particularly when combined with a droid brain targeting system, as the mountings allow them to effect battlefield repairs without leaving themselves vulnerable. An automated weapon mounting may be activated by voice or neural link. For obvious reasons, these attachments are rarely seen outside of a battlefield, and they are outlawed on most worlds.
+[P]A weapon must also be modified in order to be armor-mounted, requiring one hard point.</Description>
+    <Source Page="53">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Armor</Type>
+    <Price>3000</Price>
+    <Rarity>5</Rarity>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <Key>MOUNT3</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Once per encounter, may spend maneuver to make a combat action with mounted weapon.  Difficulty of check is upgraded once.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Add [SE] to combat check instead of upgrading difficulty.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Key>MOUNTADDL</Key>
+        <Count>2</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>DROIDBRAINDEF</Key>
+    <Name>Droid Brain Defense System</Name>
+    <Description>
+      [H3]Droid Brain Defense System[h3]
+An extremely unusual upgrade generally reserved for powered armor suits, a droid brain defense system uses a full sensor suite to alert wearers to and help them avoid threats. The most basic models simply warn the user of threats and indicate ideal cover positions through a haptic interface or by voice. More advanced models incorporate a system of complex motors or even repulsor generators throughout the armor to literally throw the wearer out of the way of incoming fire. These droids often develop highly paranoid personalities, and their earnest attempts to protect their master even outside of combat can prove highly inconvenient.</Description>
+    <Source Page="53">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Armor</Type>
+    <Price>5000</Price>
+    <Rarity>6</Rarity>
+    <HP>3</HP>
+    <BaseMods>
+      <Mod>
+        <Key>DEFADD</Key>
+        <Count>1</Count>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Increase Defense by 1 when taking Guarded Stance maneuver.</MiscDesc>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>REPULSPACK</Key>
+    <Name>Repulsor Pack</Name>
+    <Description>
+      [H3]Repulsor Pack[h3]
+While lacking the range and power of a true jetpack, a repulsor pack provides a reliable-and less terrifying-alternative for those new to the realm of personal flight devices. A repulsor pack allows for controlled descents from nearly any height, as well as hovering speeds of up to thirty-five kilometers per hour, its name being something of a misnomer, a repulsor pack actually consists of a number of small, relatively low-powered repulsor lifts mounted to the user's torso and limbs. Although the sight of an experienced user gliding through the air is quite impressive, the learning curve is steep. Perhaps due to the importance of leg movement in most packs for controlling movement and speed, the devices are sometimes disparagingly called "jet pants."</Description>
+    <Source Page="53">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Armor</Type>
+    <Price>2500</Price>
+    <Rarity>4</Rarity>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Allows user to function as vehicle:  Speed 1, Handling -1, System Strain 2, Silhouette same as user.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Pack can only travel in atmosphere up to 75 meters in altitude.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Operator uses Coordination skil for any relevant checks.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Increase Handling by 1.</MiscDesc>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>UTILARM</Key>
+    <Name>Utility Arm</Name>
+    <Description>
+      [H3]Utility Arm[h3]
+For some species, it's a mystery how humans and their ilk get by with only two arms. In fact, it's often said that the first armor-mounted utility arm was invented by a Dug Engineer, although another tale attributes its origin to a cybernetics manufacturer with a product surplus. Regardless of its origin, the utility arm is now a common tool for Engineers and technicians of all species. Mounted on a harness or suit of combat armor, a utility arm is a mechanical appendage similar in function to many cybernetic and droid arms and ending in a manipulating "hand." Although utility arms are most often used to increase workshop productivity, combatants of all kinds have found them useful on the battlefield.</Description>
+    <Source Page="53">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Armor</Type>
+    <Price>2000</Price>
+    <Rarity>3</Rarity>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Provides character with an additional mechanical arm that can function as one of the character's normal limbs.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Adds [BO] to Mechanics checks.</MiscDesc>
+        <DieModifiers>
+          <DieModifier>
+            <SkillKey>MECH</SkillKey>
+            <BoostCount>1</BoostCount>
+          </DieModifier>
+        </DieModifiers>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Adds [BO] to Mechanics checks.</MiscDesc>
+        <DieModifiers>
+          <DieModifier>
+            <SkillKey>MECH</SkillKey>
+            <BoostCount>1</BoostCount>
+          </DieModifier>
+        </DieModifiers>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>May spend 1 strain to gain an additional free maneuver per turn (still limited to two maneuvers per turn).</MiscDesc>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>ARMCOMCORE</Key>
+    <Name>Armored Computer Core</Name>
+    <Description>
+      [H3]Armored Computer Core[h3]
+It's a tragic fact that all too often, the brave members of the Alliance fail to return from a mission. Nevertheless, even a failed mission can provide useful data for the cause and prevent such deaths in the future. In such cases, an armored computer core provides an opportunity for the Rebellion to recover a record of the mission from even the most devastated wrecks. Layers of laminamium plating, redundant data backups, and sometimes even an ejection failsafe ensure the survival of a computer core storing astrogation data, a record of ship activity, and-assuming mission leaders fulfill their duty-a log of the mission. Should the worst come to pass, the armored computer core can survive the ship's complete destruction, and is practically indistinguishable from the debris.</Description>
+    <Source Page="60">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Vehicle</Type>
+    <Price>1100</Price>
+    <Rarity>4</Rarity>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Incorporates a computer core that records flight and system data and backs up any logs or records entered into the ship's computer.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Computer core remains intact even if the ship suffers a "Vaporized" Critical Hit.</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>OVERCHSHIELD</Key>
+    <Name>Overcharged Shields</Name>
+    <Description>
+      [H3]Overcharged Shields[h3]
+Most shield arrays have the potential to generate a stronger field. However, this has the potential to damage the array itself, leaving the ship with no protection. Despite the risks. some shipboard engineers modify the shields to allow for increased output with only a few moments' tinkering in the midst of combat, banking on the extra defense to allow them to escape or defeat the enemy before suffering the repercussions.</Description>
+    <Source Page="61">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Vehicle</Type>
+    <Price>4000</Price>
+    <Rarity>4</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Once per encounter, can make an [B]Average([DI][DI]) Mechanics check[b] to overcharge shields, adding 2 to all defense zones for 1 round + 1 round per [AD].  If [TH][TH] or [DE] is rolled, shields burn out and stop working until repaired.</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>PLASMADRILL</Key>
+    <Name>Plasma Drill</Name>
+    <Description>
+      [H3]Plasma Drill[h3]
+Originally developed for asteroid mining, a plasma drill is a superheated auger capable of boring through virtually any material, given enough time. Although a plasma drill is rarely effective as a weapon, commanders and engineers alike have recognized myriad other uses for a vehicle mounting one, from tunneling under enemy fortifications to excavating hidden underground facilities for their own use. </Description>
+    <Source Page="61">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Vehicle</Type>
+    <Price>4000</Price>
+    <Rarity>4</Rarity>
+    <HP>3</HP>
+    <BaseMods>
+      <Mod>
+        <Key>HANDLINGSUB</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Can tunnel through solid rock and most metals at speed 1.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>May be employed as a weapon.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>HANDLINGADD</Key>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+    <WeaponModifiers>
+      <WeaponModifier>
+        <UnarmedName>Plasma Drill</UnarmedName>
+        <SkillKey>PILOTPL</SkillKey>
+        <Damage>9</Damage>
+        <Crit>4</Crit>
+        <Qualities>
+          <Quality>
+            <Key>BREACH</Key>
+            <Count>3</Count>
+          </Quality>
+          <Quality>
+            <Key>INACCURATE</Key>
+            <Count>2</Count>
+          </Quality>
+          <Quality>
+            <Key>SLOWFIRING</Key>
+            <Count>1</Count>
+          </Quality>
+          <Quality>
+            <Key>VICIOUS</Key>
+            <Count>1</Count>
+          </Quality>
+        </Qualities>
+        <VehicleWeaponProperties>
+          <FiringArcs>
+            <Fore>true</Fore>
+          </FiringArcs>
+        </VehicleWeaponProperties>
+        <VehicleWeaponCount>1</VehicleWeaponCount>
+        <RangeValue>wrClose</RangeValue>
+        <Range>Close</Range>
+      </WeaponModifier>
+    </WeaponModifiers>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>REINARMPLATE</Key>
+    <Name>Reinforced Armor Plating</Name>
+    <Description>
+      [H3]Reinforced Armor Plating[h3]
+Over the millennia, manufacturers and shipwrights across the galaxy have developed countless esoteric methods of protecting a vehicle or starship, from deflector screens to proton shields to ion diffusers. Still, for many Alliance engineers, it's hard to beat extra durasteel layers for cost-effective protection.</Description>
+    <Source Page="61">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Vehicle</Type>
+    <Price>4000</Price>
+    <Rarity>2</Rarity>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <Key>ARMORADD</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Key>HANDLINGSUB</Key>
+        <Count>1</Count>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>HULLADD</Key>
+        <Count>3</Count>
+      </Mod>
+    </AddedMods>
+    <PriceSizeMult>true</PriceSizeMult>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>REPULSBOOST</Key>
+    <Name>Repulsorlift Boost</Name>
+    <Description>
+      [H3]Repulsorlift Boost[h3]
+Some obstacles are insurmountable for even the most versatile and powerful of factory-standard repulsor field generators. For tinkerers willing to ignore a whole host of safety warnings-and likely a few laws-most repulsor field generators can be pushed past factory limits, allowing for a drastic, if brief, increase in lift. Such an increase can allow the vehicle to "jump" over objects, gaps, or enemy vehicles or to higher ground. Some field mechanics have even been known to add specially overcharged repulsor fields to vehicles that rely on a different method of propulsion, just in case. More than one team of Rebel soldiers has escaped certain death in the face of overwhelming Imperial opposition, thanks to just such modifications.</Description>
+    <Source Page="61">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Vehicle</Type>
+    <Price>1000</Price>
+    <Rarity>4</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Once per encounter as an incidental, vehicle may suffer 2 system strain to double maximum altitute (or gain 100 meters, whichever is lower) and increase max speed by 1 for 1 round.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Count>2</Count>
+        <MiscDesc>Increase duration by 1 round</MiscDesc>
+      </Mod>
+    </AddedMods>
+    <MaxSize>4</MaxSize>
+    <PriceSizeMult>true</PriceSizeMult>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>SENSBAFF</Key>
+    <Name>Sensor Baffler</Name>
+    <Description>
+      [H3]Sensor Baffler[h3]
+Using combination of broad-spectrum transmissions and low-power targeted ion pulses, a sensor baffler confuses enemy sensors, preventing them from determining a ship's precise location. A sensor baffler is not a passive system, but actively confuses enemy sensors, providing contradictory and nonsensical readings. As a result, the system does not truly conceal the ship's presence from enemies. Even inexperienced sensor operators can easily see that something is interfering with their system, but they are frustratingly unable to pinpoint the source. A sensor baffler does not include optical camouflage, and it has no effect on visible detection. Despite its shortcomings, a sensor baffler has lower power requirements and requires a less-sophisticated manufacturing process than a true cloaking device. This makes it an attractive alternative to those nearly unheard-of devices, and one available to a wider variety of ship types.</Description>
+    <Source Page="62">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Vehicle</Type>
+    <Price>8000</Price>
+    <Rarity>6</Rarity>
+    <Restricted>true</Restricted>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>When active, upgrade difficulty of checks to determine vehicle's location using sensors twice.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Count>2</Count>
+        <MiscDesc>Add [SE] on Gunnery checks targetting vessel</MiscDesc>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CRAFTENGINESINGION</Key>
+    <Name>Single Ion Coil</Name>
+    <Description>
+      [H3]Single Ion Coil[h3]
+Perhaps the most basic of sublight drives, these engines are still attractive due to their price.</Description>
+    <Sources>
+      <Source Page="81">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Vehicle</Type>
+    <CategoryLimit>
+      <Category>Crafted Vehicle</Category>
+    </CategoryLimit>
+    <Price>500</Price>
+    <Rarity>2</Rarity>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <Key>SPEEDADD</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>SSTRAINADDSIL</Key>
+        <Count>3</Count>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>SPEEDADD</Key>
+        <Count>3</Count>
+      </Mod>
+      <Mod>
+        <Key>SSTRAINADDSIL</Key>
+        <Count>3</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CRAFTENGINEELECBAFF</Key>
+    <Name>Electron Baffled Engine</Name>
+    <Description>
+      [H3]Electron Baffled Engine[h3]
+Baffled engines not only offer increased speed due to their vectoring mechanisms, but also add additional defense to the aft sections of a ship.</Description>
+    <Sources>
+      <Source Page="81">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Vehicle</Type>
+    <CategoryLimit>
+      <Category>Crafted Vehicle</Category>
+    </CategoryLimit>
+    <Price>1000</Price>
+    <Rarity>3</Rarity>
+    <HP>4</HP>
+    <BaseMods>
+      <Mod>
+        <Key>SPEEDADD</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Key>SSTRAINADDSIL</Key>
+        <Count>5</Count>
+      </Mod>
+      <Mod>
+        <Key>ADDDEFAFT</Key>
+        <Count>2</Count>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>SPEEDADD2</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Key>SSTRAINADDSIL</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Key>ADDDEFAFT</Key>
+        <Count>2</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CRAFTENGINEIONTURBINE</Key>
+    <Name>Ion Turbine Engine</Name>
+    <Description>
+      [H3]Ion Turbine Engine[h3]
+Reliable and compact, these engines are often found in freighters seeking power without sacrificing space.</Description>
+    <Sources>
+      <Source Page="82">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Vehicle</Type>
+    <CategoryLimit>
+      <Category>Crafted Vehicle</Category>
+    </CategoryLimit>
+    <Price>2000</Price>
+    <Rarity>2</Rarity>
+    <HP>3</HP>
+    <BaseMods>
+      <Mod>
+        <Key>SPEEDADD</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>SSTRAINADDSIL</Key>
+        <Count>10</Count>
+      </Mod>
+      <Mod>
+        <Key>ADDDEFFORE</Key>
+        <Count>1</Count>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>SPEEDADD</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>SSTRAINADDSIL</Key>
+        <Count>5</Count>
+      </Mod>
+      <Mod>
+        <Key>ADDDEFFORE</Key>
+        <Count>2</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CRAFTENGINEFUSIALTHRUST</Key>
+    <Name>Fusial Thrust Engine</Name>
+    <Description>
+      [H3]Fusial Thrust Engine[h3]
+Fusial engines are common in starfighters, where high speed is often the most important factor.</Description>
+    <Sources>
+      <Source Page="82">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Vehicle</Type>
+    <CategoryLimit>
+      <Category>Crafted Vehicle</Category>
+    </CategoryLimit>
+    <Price>2500</Price>
+    <Rarity>4</Rarity>
+    <HP>3</HP>
+    <BaseMods>
+      <Mod>
+        <Key>SPEEDADD</Key>
+        <Count>3</Count>
+      </Mod>
+      <Mod>
+        <Key>SSTRAINADDSIL</Key>
+        <Count>4</Count>
+      </Mod>
+      <Mod>
+        <Key>ADDDEFFORE</Key>
+        <Count>1</Count>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>SPEEDADD</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Key>ADDDEFAFT</Key>
+        <Count>2</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CRAFTENGINEREPCLUSTER</Key>
+    <Name>High-Performance Repulsor Cluster</Name>
+    <Description>
+      [H3]High-Performance Repulsor Cluster[h3]
+While bulkier than other engines, repulsor clusters can offer high speed and increased protection for vehicles operating within a planetary atmosphere. This engine type cannot be mounted on starships.</Description>
+    <Sources>
+      <Source Page="82">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Vehicle</Type>
+    <CategoryLimit>
+      <Category>Crafted Vehicle</Category>
+    </CategoryLimit>
+    <Price>3000</Price>
+    <Rarity>4</Rarity>
+    <HP>4</HP>
+    <BaseMods>
+      <Mod>
+        <Key>SPEEDADD</Key>
+        <Count>4</Count>
+      </Mod>
+      <Mod>
+        <Key>SSTRAINADDSIL</Key>
+        <Count>5</Count>
+      </Mod>
+      <Mod>
+        <Key>ADDDEFFORE</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>ADDDEFPORT</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>ADDDEFSTAR</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>ADDDEFAFT</Key>
+        <Count>1</Count>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>SPEEDADD</Key>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CRAFTENGINEIONDRIVEARRAY</Key>
+    <Name>Ion Drive Array</Name>
+    <Description>
+      [H3]Ion Drive Array[h3]
+Ion drive arrays provide excellent speed as well as plenty of opportunities for modification.</Description>
+    <Sources>
+      <Source Page="82">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Vehicle</Type>
+    <CategoryLimit>
+      <Category>Crafted Vehicle</Category>
+    </CategoryLimit>
+    <Price>5250</Price>
+    <Rarity>5</Rarity>
+    <HP>4</HP>
+    <BaseMods>
+      <Mod>
+        <Key>SPEEDADD</Key>
+        <Count>4</Count>
+      </Mod>
+      <Mod>
+        <Key>SSTRAINADDSIL</Key>
+        <Count>2</Count>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>SPEEDADD</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>SSTRAINADDSIL</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>ADDDEFFORE</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>ADDDEFAFT</Key>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CRAFTHULLSLEEK</Key>
+    <Name>Sleek Carapace</Name>
+    <Description>
+      [H3]Sleek Carapace[h3]
+This hull sacrifices speed for maneuverability, and often provides for increased attractiveness.</Description>
+    <Sources>
+      <Source Page="82">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Vehicle</Type>
+    <CategoryLimit>
+      <Category>Crafted Vehicle</Category>
+    </CategoryLimit>
+    <Price>450</Price>
+    <Rarity>3</Rarity>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <Key>HANDLINGADD</Key>
+        <Count>2</Count>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>ARMORADD</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>ADDDEFAFT</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>HANDLINGADD</Key>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CRAFTHULLEXPCAP</Key>
+    <Name>Expanded-Capacity Holds</Name>
+    <Description>
+      [H3]Expanded-Capacity Holds[h3]
+Used for freighters, this hull allows for additional cargo space and the promise of paying passengers.</Description>
+    <Sources>
+      <Source Page="83">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Vehicle</Type>
+    <CategoryLimit>
+      <Category>Crafted Vehicle</Category>
+    </CategoryLimit>
+    <Price>500</Price>
+    <Rarity>2</Rarity>
+    <HP>4</HP>
+    <BaseMods>
+      <Mod>
+        <Key>ARMORADD</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>HANDLINGSUB</Key>
+        <Count>2</Count>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>ARMORADD</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Key>ENCCADDSIL</Key>
+        <Count>10</Count>
+      </Mod>
+      <Mod>
+        <Key>PASSADDSIL</Key>
+        <Count>8</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CRAFTHULLLTARMOR</Key>
+    <Name>Light Armored Hull</Name>
+    <Description>
+      [H3]Light Armored Hull[h3]
+The improved armor in this hull increases survivability.</Description>
+    <Sources>
+      <Source Page="83">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Vehicle</Type>
+    <CategoryLimit>
+      <Category>Crafted Vehicle</Category>
+    </CategoryLimit>
+    <Price>500</Price>
+    <Rarity>4</Rarity>
+    <HP>3</HP>
+    <BaseMods>
+      <Mod>
+        <Key>ARMORADD</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>HANDLINGSUB</Key>
+        <Count>1</Count>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>ARMORADD</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Key>ENCCADDSIL</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>PASSADDSIL</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Key>HULLADDSIL</Key>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CRAFTHULLDEFPLATE</Key>
+    <Name>Deflective Plating</Name>
+    <Description>
+      [H3]Deflective Plating[h3]
+Hulls featuring these protective plates give a tradeoff between defense and maneuverability</Description>
+    <Sources>
+      <Source Page="83">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Vehicle</Type>
+    <CategoryLimit>
+      <Category>Crafted Vehicle</Category>
+    </CategoryLimit>
+    <Price>700</Price>
+    <Rarity>5</Rarity>
+    <HP>4</HP>
+    <BaseMods>
+      <Mod>
+        <Key>ARMORADD</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Key>HANDLINGSUB</Key>
+        <Count>2</Count>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>ARMORADD</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Key>ADDDEFFORE</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>HULLADDSIL</Key>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CRAFTHULLCOMBATPLATE</Key>
+    <Name>Combat Plating</Name>
+    <Description>
+      [H3]Combat Plating[h3]
+Combat plating offers perhaps the best protection a hull can provide, but reduces the steering to glacial levels of responsiveness.</Description>
+    <Sources>
+      <Source Page="83">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Vehicle</Type>
+    <CategoryLimit>
+      <Category>Crafted Vehicle</Category>
+    </CategoryLimit>
+    <Price>1500</Price>
+    <Rarity>7</Rarity>
+    <HP>5</HP>
+    <BaseMods>
+      <Mod>
+        <Key>ARMORADD</Key>
+        <Count>3</Count>
+      </Mod>
+      <Mod>
+        <Key>HANDLINGSUB</Key>
+        <Count>3</Count>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>ARMORADD</Key>
+        <Count>3</Count>
+      </Mod>
+      <Mod>
+        <Key>MASSIVEADD</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>HULLADDSIL</Key>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>EODMKIILOAD</Key>
+    <Name>Integrated Load-Bearing Gear</Name>
+    <Description>
+      [H3]Integrated Load-Bearing Gear[h3]
+[B]EOD-Mk II Upgrade Options:[b] EOD-MK II suits lack any standard modification options, but can be upgraded with two valuable attachments. These attachments are integrated load-bearing gear and a data link for controlling EOD and demolitions remotes, such as the EOD-Mk IV. As the suits are designed for these upgrades, neither takes up any hard points for the armor, but each upgrade can only be taken once.
+[P]Integrated load-bearing gear reduces the suit's encumbrance by 3, and costs an additional 700 credits with a rarity of 3.</Description>
+    <Sources>
+      <Source Page="43">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Armor</Type>
+    <ItemLimit>
+      <Key>EODMKII</Key>
+    </ItemLimit>
+    <Price>700</Price>
+    <Rarity>3</Rarity>
+    <BaseMods>
+      <Mod>
+        <Key>ENCSUB</Key>
+        <Count>3</Count>
+      </Mod>
+    </BaseMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>EODMKIIDATALINK</Key>
+    <Name>Data Link</Name>
+    <Description>
+      [H3]Data Link[h3]
+[B]EOD-Mk II Upgrade Options:[b] EOD-MK II suits lack any standard modification options, but can be upgraded with two valuable attachments. These attachments are integrated load-bearing gear and a data link for controlling EOD and demolitions remotes, such as the EOD-Mk IV. As the suits are designed for these upgrades, neither takes up any hard points for the armor, but each upgrade can only be taken once.
+[P]The data link allows the wearer to control a single EOD remote and costs an extra 300 credits with a rarity of 4.</Description>
+    <Sources>
+      <Source Page="43">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Armor</Type>
+    <ItemLimit>
+      <Key>EODMKII</Key>
+    </ItemLimit>
+    <Price>300</Price>
+    <Rarity>4</Rarity>
+    <BaseMods>
+      <Mod>
+        <Count>3</Count>
+        <MiscDesc>Allows wearer to control a single EOD remote.</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>THISSSTABCOIL</Key>
+    <Name>Thisspiasian Stabilizing Coils</Name>
+    <Description>[H3]Thisspiasian Stabilizing Coils[h3]
+Thisspiasian weaponcraft focused, for centuries, on grace above all else. The antique manners of the Blood Court may embarrass the average citizen, but one can't argue with their results. Traditional weapons from Thisspias correct for even the clumsiest of maneuvers.
+[P]Survivors of the Jedi Purge return to this philosophy to strengthen their weaponry, Thisspiasian stabilizing coils are often stylized as a long tail that wraps itself around the hilt of a lightsaber. Rotating and curling with each movement, this device keeps the blade perfectly balanced.</Description>
+    <Source Page="54">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Lightsaber</Category>
+      <Category>Lightsaber Hilt</Category>
+    </CategoryLimit>
+    <Price>5500</Price>
+    <Rarity>5</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <Key>SETBACKSUB</Key>
+        <Count>1</Count>
+      </Mod>
+    </BaseMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>THOLHEARTWOODHILT</Key>
+    <Name>Tholothian Heartwood Hilt</Name>
+    <Description>[H3]Tholothian Heartwood Hilt[h3]
+While most lightsabers have synthetic hilts, Tholothian Jedi preferred a more organic approach. At their height, they crafted heartwood hilts from the timber of still-living trees The wood was then preserved in a specialized ritual-one more often used when a heartwood tree was dying. The resulting hilt is resistant to decay and can house a lightsaber's apparatus. The resulting lightsabers are beautiful works of art as much as they are weapons. The resins used to preserve the timber increase its weight, and wielders must take appropriate care in using them. This often translates to a stronger and more deliberate strike when this weapon does connect.</Description>
+    <Source Page="54">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Lightsaber</Category>
+      <Category>Lightsaber Hilt</Category>
+    </CategoryLimit>
+    <Price>8000</Price>
+    <Rarity>7</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <Key>ENCADD</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>DAMADD</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>GM may spend [TH][TH][TH][TH] or [DE] to damage by one step.</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>WALKINGSTICKHILT</Key>
+    <Name>Walking Stick Hilt Disguise</Name>
+    <Description>[H3]Walking Stick Hilt Disguise[h3]
+Often, particularly elderly Jedi constructed their lightsabers in the body of a sturdy walking stick. If the blade is a Jedi's life, why shouldn't it make things a little easier? The pure utility of this practice fell out of favor with the Jedi Order. Most elderly Jedi did not, after all, survive the Purge. Survivors, though, found a similar technique could hide their weapons in plain sight. This concealment does come with a cost. The awkward size and inconsistent weighting often interferes with use in heated combat.</Description>
+    <Source Page="55">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Lightsaber</Category>
+      <Category>Lightsaber Hilt</Category>
+    </CategoryLimit>
+    <Price>2500</Price>
+    <Rarity>6</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Unless ignited, must pass [B]Formidable ([DI][DI][DI][DI][DI]) Perception[b] or [B]Vigilance check[b] to notice it is not a regular walking stick.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Key>INACCURATE</Key>
+        <Count>1</Count>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>SUBQUALINACCURATE</Key>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>TAINTNIGHTSISCRYS</Key>
+    <Name>Tainted Nightsister Crystal</Name>
+    <Description>[H3]Tainted Nightsister Crystal[h3]
+The Nightsisters rose and fell as a faction untouched by the conflicts between Jedi and Sith. As such, they had little time to adopt the iconic lightsabers as their weapons of choice. This has not stopped dark side Mystics from trying to fuse Nightsister magic with Sith weaponry. Most experiments yield no fruit, but some have made for particularly terrifying advancements. Tainted Nightsister crystals were once pure Kyber crystals. Soaking them in Dathomiri Waters of Life perverts their connection to the Force. The resulting blade emits a choking, putrid green smoke when active.</Description>
+    <Source Page="55">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Lightsaber</Category>
+      <Category>Lightsaber Hilt</Category>
+    </CategoryLimit>
+    <Price>13000</Price>
+    <Rarity>10</Rarity>
+    <Restricted>true</Restricted>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <Key>DAMSET</Key>
+        <Count>6</Count>
+      </Mod>
+      <Mod>
+        <Key>CRITSET</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Key>BREACH</Key>
+        <Count>1</Count>
+        <QualSet>true</QualSet>
+      </Mod>
+      <Mod>
+        <Key>SUNDER</Key>
+      </Mod>
+      <Mod>
+        <Key>DISORIENT</Key>
+        <Count>3</Count>
+        <QualSet>true</QualSet>
+      </Mod>
+      <Mod>
+        <Key>VICIOUS</Key>
+        <Count>4</Count>
+        <QualSet>true</QualSet>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>DAMADD</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>DISORIENT</Key>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+    <IsCrystal>true</IsCrystal>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>UNSTABLEKYBERCRYS</Key>
+    <Name>Unstable Kyber Crystal</Name>
+    <Description>[H3]Unstable Kyber Crystal[h3]
+The Kyber crystal is the heart of a lightsaber, but as with the hearts of organic beings, there can be imperfections. There are many opportunities between mining and use for a crystal to become unstable. It could develop hairline fractures in initial transit. Its wielder might subject it to extreme stress in use. Either way, power can begin to leak out of the crystal itself.
+[P]Under normal circumstances, these imperfections will not affect a lightsaber's performance. With the right knowledge, however, a Force user can harness the leaking energy for their own ends. By performing a lengthy ritual with the lightsaber, a Mystic can draw some of its power into themselves for a time.</Description>
+    <Source Page="55">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Lightsaber</Category>
+      <Category>Lightsaber Hilt</Category>
+    </CategoryLimit>
+    <Price>16000</Price>
+    <Rarity>10</Rarity>
+    <Restricted>true</Restricted>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <Key>DAMSET</Key>
+        <Count>6</Count>
+      </Mod>
+      <Mod>
+        <Key>CRITSET</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Key>BREACH</Key>
+        <Count>1</Count>
+        <QualSet>true</QualSet>
+      </Mod>
+      <Mod>
+        <Key>SUNDER</Key>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>As maneuver, increase Force rating by 1. This persists until using the extra [FO] to fuel Force talent or Force power. However, GM may spend [TH][TH][TH][TH] or [DE] to cause lightsaber to sputter and fail, if this happens may not reignite lightsaber for one hour.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <IsCrystal>true</IsCrystal>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CRACKEDJEDHA</Key>
+    <Name>Cracked Jedha Crystal</Name>
+    <Description>[H3]Cracked Jedha Crystal[h3]
+When a terrible mining accident destroyed Jedha City, the galaxy lost one of the last known sources of kyber crystals. The crystals produced on Jedha held great spiritual significance for the Jedi, the Church of the Force, and a number of other religious traditions. Jedha crystals were among the most popular kyber crystals for the Jedi. As a practical matter, Jedha crystals produce focused, potent lightsaber blades, but many Jedi valued the knowledge that their lightsaber housed an artifact from Jedha. For those who seek to follow in the Jedi's path, kyber crystals have become vanishingly rare in recent years. However, a small number of Jedha crystals have  been recovered from the ruins of Jedha City. Unfortunately, many of these crystals are cracked and damaged, producing unstable, ragged lightsaber beams.
+[P][B]Models Include:[b] None.</Description>
+    <Source Page="48">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Lightsaber</Category>
+      <Category>Lightsaber Hilt</Category>
+    </CategoryLimit>
+    <Price>8000</Price>
+    <Rarity>7</Rarity>
+    <Restricted>true</Restricted>
+    <HP>3</HP>
+    <BaseMods>
+      <Mod>
+        <Key>DAMSET</Key>
+        <Count>7</Count>
+      </Mod>
+      <Mod>
+        <Key>CRITSET</Key>
+        <Count>3</Count>
+      </Mod>
+      <Mod>
+        <Key>BREACH</Key>
+        <Count>1</Count>
+        <QualSet>true</QualSet>
+      </Mod>
+      <Mod>
+        <Key>INACCURATE</Key>
+        <Count>2</Count>
+        <QualSet>true</QualSet>
+      </Mod>
+      <Mod>
+        <Key>SUNDER</Key>
+      </Mod>
+      <Mod>
+        <Key>VICIOUS</Key>
+        <Count>1</Count>
+        <QualSet>true</QualSet>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>VICIOUS</Key>
+        <Count>3</Count>
+      </Mod>
+      <Mod>
+        <Key>DAMADD</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Key>SUBQUALINACCURATE</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>CRITSUB</Key>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+    <IsCrystal>true</IsCrystal>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>FLICKERPHASE</Key>
+    <Name>Flickerphase Blade</Name>
+    <Description>[H3]Flickerphase Blade[h3]
+Considered dishonorable and unsporting by most Jedi, so-called flickerphase modifications were never widely adopted. With a few simple modifications, a lightsaber can be made to intermittently and randomly ignite and extinguish its blade, making it appear to fIicker on and off. While this unpredictable element adds some difficulty for the wielder, it is almost impossible for an opponent to time blocks and parries effectively.
+[P][B]Models Include:[b] None.</Description>
+    <Source Page="48">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Lightsaber</Category>
+      <Category>Lightsaber Hilt</Category>
+    </CategoryLimit>
+    <Price>5000</Price>
+    <Rarity>4</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <Key>DAMSUB</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Key>INACCURATE</Key>
+        <Count>2</Count>
+        <QualSet>true</QualSet>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>When attacking with this lightsaber, targets cannot use the Parry incidental to reduce the damage of the attack</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>SUBQUALINACCURATE</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>DAMADD</Key>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>REINFMAGSHIELD</Key>
+    <Name>Reinforced Magnetic Shielding</Name>
+    <Description>[H3]Reinforced Magnetic Shielding[h3]
+A delicately tuned magnetic field maintains the coherency of a lightsaber's plasma beam. Though this modification increases the strength of a lightsaber's magnetic shielding, the blade takes on some of the qualities of a solid weapon. With this modification, the wielder gives up some of the lightsaber's legendary penetrative capacity in order to deliver punishing electromagnetic impacts.
+[P][B]Models Include:[b] None.</Description>
+    <Source Page="48">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Lightsaber</Category>
+      <Category>Lightsaber Hilt</Category>
+    </CategoryLimit>
+    <Price>4000</Price>
+    <Rarity>5</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <Key>REMQUALBREACH</Key>
+      </Mod>
+      <Mod>
+        <Key>CONCUSSIVE</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>KNOCKDOWN</Key>
+      </Mod>
+      <Mod>
+        <Key>PIERCE</Key>
+        <Count>1</Count>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>CONCUSSIVE</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>DISORIENT</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Key>PIERCE</Key>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>FOHYPER8</Key>
+    <Name>Hyperdrive Class 8 Module</Name>
+    <Description>[H3]Hyperdrive Class 8 Module[h3]
+Compared to sublight engines, hyperdrive modules require less thrust ducting and other complex integration work. Thus, they are handled as a starship attachment.</Description>
+    <Source Page="82">Fully Operational</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Vehicle</Type>
+    <CategoryLimit>
+      <Category>Starship</Category>
+      <Category>Non-Fighter Starship</Category>
+    </CategoryLimit>
+    <Price>3000</Price>
+    <Rarity>3</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <Key>HYPERDRIVEADD8</Key>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Add astromech droid socket (starfighters only).</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>HYPERDRIVESUB5</Key>
+        <Count>4</Count>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Add Class 14 Backup Hyperdrive Mod</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>4</Count>
+        <MiscDesc>Reduce Backup Hyperdrive Rating by 1</MiscDesc>
+      </Mod>
+    </AddedMods>
+    <MustBeStarship>true</MustBeStarship>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>FOHYPER4</Key>
+    <Name>Hyperdrive Class 4 Module</Name>
+    <Description>[H3]Hyperdrive Class 4 Module[h3]
+Compared to sublight engines, hyperdrive modules require less thrust ducting and other complex integration work. Thus, they are handled as a starship attachment.</Description>
+    <Source Page="82">Fully Operational</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Vehicle</Type>
+    <CategoryLimit>
+      <Category>Starship</Category>
+      <Category>Non-Fighter Starship</Category>
+    </CategoryLimit>
+    <Price>6000</Price>
+    <Rarity>4</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <Key>HYPERDRIVEADD4</Key>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Add astromech droid socket (starfighters only).</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>HYPERDRIVESUB5</Key>
+        <Count>4</Count>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Add Class 14 Backup Hyperdrive Mod</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>4</Count>
+        <MiscDesc>Reduce Backup Hyperdrive Rating by 1</MiscDesc>
+      </Mod>
+    </AddedMods>
+    <MustBeStarship>true</MustBeStarship>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>COMPONENTIZE</Key>
+    <Name>Componentization</Name>
+    <Description>[H3]Componentization[h3]
+This mod allows a weapon to be broken down into a number of innocuous-looking pieces so that it can be smuggled into and out of places where weapons are not allowed or are highly regulated. When broken down, a componentized weapon looks like a collection of basic tools, comlinks, glow rods, datapad styluses, and other items any individual might be expected to carry. Each part also functions as that item as well. It takes two maneuvers to assemble or disassemble a weapon with this mod. Loss of or damage to a component ruins the weapon, and another will have to be acquired and modified. This attachment can be applied to any weapon with an encumbrance of 2 or less. 
+[P][B]Models Include:[b] Various models.</Description>
+    <Source Page="56">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <Price>1250</Price>
+    <Rarity>5</Rarity>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Allows a weapon to be broken into pieces and disguised as other items. A character must make a [B]Formidable ([DI][DI][DI][DI][DI]) Mechanics[b] or [B]Skulduggery check[b] to deduce the items are weapon parts.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <MaxEnc>2</MaxEnc>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>LIGHTWEIGHTFRAME</Key>
+    <Name>Lightweight Frame</Name>
+    <Description>[H3]Lightweight Frame[h3]
+This mod reduces both the weight and bulk of ranged weapons to make them easier to handle and conceal. Along with a frame made of a lighter alloy, this mod also includes lightweight polycarbonate stocks, foregrips, and other pieces designed to lighten up a blaster pistol or slugthrower rifle. This attachment can be applied to any weapon.
+[P][B]Models Include:[b] BlasTech "Featherlite" blaster frame.</Description>
+    <Source Page="56">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Ranged</Category>
+    </CategoryLimit>
+    <Price>650</Price>
+    <Rarity>3</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <Key>ENCSUB</Key>
+        <Count>1</Count>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>ENCSUB</Key>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>SCANNERPROOF</Key>
+    <Name>Scanner-Proof Hardware</Name>
+    <Description>[H3]Scanner-Proof Hardware[h3]
+Scanner-proof hardware is a collection of upgrades that together make a weapon virtually invisible to scanners. This mod typically replaces a weapon's stock, foregrip, and any other furniture with lightweight poly-carbonates woven with scanner-spoofing fibers. In addition, most if not all metallic parts—frame, trigger group, barrel, etc.—are replaced with fiber-reinforced polycarb pieces. This mod is extremely illegal. Being caught with a weapon that can pass through scanners without being detected is usually a one-way ticket to the nearest Imperial stockade. This attachment can be applied to any weapon.
+[P][B]Models Include:[b] Various models.</Description>
+    <Source Page="57">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <Price>1000</Price>
+    <Rarity>6</Rarity>
+    <Restricted>true</Restricted>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>This weapon cannot be detected by standard weapon-detecting technologies. Characters using advanced scanners must make a [B]Hard ([DI][DI][DI]) Computers check[b] to find the weapon as usual.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Game Masters may spend [TH][TH] or [DE] on a combat check to render the weapon inoperable, requiring a major repair before it can be used again.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>ENCSUB</Key>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>XCITEROVERCHARGE</Key>
+    <Name>XCiter Overcharge</Name>
+    <Description>[H3]XCiter Overcharge[h3]
+A common—and dangerous—modification among espionage agents, an XCiter Overcharge allows an individual to empty a blaster's energy cell in a single, extremely powerful shot. This increases the output for an emergency kick, but it runs the risk of destroying the weapon and harming the user. While typically applied to holdout blasters, this attachment can be applied to any personal blaster weapon.
+[P][B]Models Include:[b] BlasTech "Nova" Overcharge System.</Description>
+    <Source Page="57">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Blaster</Category>
+    </CategoryLimit>
+    <Price>1100</Price>
+    <Rarity>7</Rarity>
+    <Restricted>true</Restricted>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>As an incidental, shooters may overcharge the XCiter on their blaster. This gives the weapon to Prepare 1 item quality and increases the damage on the next attack by 4. Once it is fired the weapon runs out of ammo and must be recharged.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>GMs may spend [TH][TH][TH] or [DE] from any combat check involving an overcharged shot with this weapon to cause the weapon to explode and deal full damage to the shooter.</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>BOOTBLADE</Key>
+    <Name>Boot Blade</Name>
+    <Description>[H3]Boot Blade[h3]
+An excellent way to ensure an agent is always armed no matter the circumstances, boot blades are small spring-loaded knives that extend from the toes of an individual's shoes or boots to provide an extra edge in hand-to-hand combat. There are various ways to deploy the blades, such as pressing a certain point on the tongue of a shoe or stamping hard with a boot's heel. Retracting them often entails simply (but carefully) pushing them back into their compartment until they catch. This attachment can be applied to any armor that includes boots, shoes, or other footwear.
+[P][B]Models Include:[b] Various models.</Description>
+    <Source Page="57">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Armor</Type>
+    <Price>100</Price>
+    <Rarity>5</Rarity>
+    <AddedMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Reduce the weapon's critical rating by 1 to a minimum of 1</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>2</Count>
+        <MiscDesc>Item Quality (Pierce +1)</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Item Quality (Vicious +1)</MiscDesc>
+      </Mod>
+    </AddedMods>
+    <WeaponModifiers>
+      <WeaponModifier>
+        <UnarmedName>Retractable Boot Blade</UnarmedName>
+        <SkillKey>MELEE</SkillKey>
+        <DamageAdd>1</DamageAdd>
+        <Crit>3</Crit>
+        <Range>Engaged</Range>
+      </WeaponModifier>
+    </WeaponModifiers>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>ARMORINSERT</Key>
+    <Name>Armor Insert</Name>
+    <Description>[H3]Armor Insert[h3]
+Armor inserts are thin, flexible, plasteel and ballistic gel plates that can be sewn into clothing to give the wearer concealed armor protection. They can be added to any garment that is suitably large and alter- able, and they can be installed by any skilled tailor for a moderate fee. This attachment can be applied to any armor with a defense no greater than 0 and a soak of 1 or less. 
+[P][B]Models Include:[b] Creshaldyne "Slimline" Armor Plates.</Description>
+    <Source Page="57">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Armor</Type>
+    <Price>450</Price>
+    <Rarity>3</Rarity>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Turns any article of clothing into armored clothing.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Characters can notice the inclusion of armor inserts in clothing by making an [B]Average ([DI][DI]) Perception check[b].</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>SOAKADD</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>DEFADD</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Increase difficulty of check to notice inclusion to [B]Hard([DI][DI][DI])[b]</MiscDesc>
+      </Mod>
+    </AddedMods>
+    <MaxSoak>1</MaxSoak>
+    <MaxDefense>1</MaxDefense>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>JUMPBOOTS</Key>
+    <Name>Jump Boots</Name>
+    <Description>[H3]Jump Boots[h3]
+Jump boots are, essentially, a single-use jetpack built into a thick boots and allows a user to leap over tall obstacles and even fly for a very limited time. This attachment can be applied to any armor with an encumbrance of 4 or less. It is good for only one use and cannot be used again until the rockets are refueled, which costs 100 credits and takes 30 minutes.
+[P][B]Models Include:[b] Zim Systems LO-44.a micro-rockets.</Description>
+    <Source Page="58">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Armor</Type>
+    <Price>1200</Price>
+    <Rarity>6</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Reduce difficulty of all Athletics checks to jump up or over obstacles by 1</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Reduce difficulty of all Athletics checks to jump up or over obstacles by 1</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Allow wearer to fly for a total of one minute or 3 rounds</MiscDesc>
+      </Mod>
+    </AddedMods>
+    <MaxEnc>4</MaxEnc>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>REFLECADAPTIVESKIN</Key>
+    <Name>Reflec Adaptive Skin</Name>
+    <Description>[H3]Reflec Adaptive Skin[h3]
+Reflec is an advanced polymer that possesses adaptive light-warping and sensor-damping properties. When applied to armor, reflec acts as an optical camouflage even in fully illuminated areas. This attachment can be applied to any armor. 
+[P][B]Models Include:[b] CorChemCo Reflec Treatment.</Description>
+    <Source Page="58">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Armor</Type>
+    <Price>3500</Price>
+    <Rarity>7</Rarity>
+    <Restricted>true</Restricted>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Upgrade ability of all Stealth checks once while wearing relfec-coated armor.</MiscDesc>
+        <DieModifiers>
+          <DieModifier>
+            <SkillKey>STEAL</SkillKey>
+            <UpgradeAbilityCount>1</UpgradeAbilityCount>
+          </DieModifier>
+        </DieModifiers>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Count>2</Count>
+        <MiscDesc>Add [BO] to Stealth checks while wearing relfec-coated armor</MiscDesc>
+        <DieModifiers>
+          <DieModifier>
+            <SkillKey>STEAL</SkillKey>
+            <BoostCount>1</BoostCount>
+          </DieModifier>
+        </DieModifiers>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>SCANNERWEAVE</Key>
+    <Name>Scannerweave</Name>
+    <Description>[H3]Scannerweave[h3]
+Scannerweave is a passive stealth system consisting of an advanced sensor-blocking textile. Armor modified with scannerweave tends to be quieter thanks to the nature of the soft, flexible fabric. More importantly, its inherent qualities make the wearer nearly invisible to the various scanners and security sensors found in security vaults and data facilities. This attachment can be applied to any armor. 
+[P][B]Models Include:[b] Ayelixe/Krongbing Passive Stealth.</Description>
+    <Source Page="58">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Armor</Type>
+    <Price>1800</Price>
+    <Rarity>6</Rarity>
+    <Restricted>true</Restricted>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Upgrades the ability of all opposed Stealth checks made against sensor and scanner operators once.</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>STEALTHFIELD</Key>
+    <Name>Stealth Field Generator</Name>
+    <Description>[H3]Stealth Field Generator[h3]
+Produced by a number of stealth technology companies, stealth field generators are the final word in personal active stealth technology. They use a combination of optical camouflage, low-output cloaking technology, active electromagnetic dampers, electronic acoustic bafflers, and thermal shielding to make a user virtually invisible to both the naked eye and to most scanners. These systems are not perfect, however. Users still need to know how to move stealthily and how to use cover and shadows to their advantage. Users also cannot move faster than a walk, or the stealth field will break down. This attachment can be applied to any armor. 
+[P][B]Models Include:[b] Fabritech XO-A "Vanish l" Personal Stealth Generator, Kerner Corp. "Defel" Cloaking Belt.</Description>
+    <Source Page="58">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Armor</Type>
+    <Price>3800</Price>
+    <Rarity>7</Rarity>
+    <Restricted>true</Restricted>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Upgrades the difficulty of all opposed Perception checks to spot the wearer once.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Count>2</Count>
+        <MiscDesc>Add [SE] to opposed Perception checks to notice the wearer</MiscDesc>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CONCCLIMBCORD</Key>
+    <Name>Concealed Climbing Cord</Name>
+    <Description>[H3]Concealed Climbing Cord[h3]
+This mod consists of a small retracting spool wrapped with twenty-five meters of thin, high tensile strength climbing line, connected to a small, spring-loaded grappling hook. Typically built into a belt, sash, or other load-bearing strap, a concealed climbing cord can get an agent into and out of a lot of trouble in a variety of mission settings. 
+[P][B]Models Include:[b] Various models.</Description>
+    <Source Page="59">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Gear</Type>
+    <Price>100</Price>
+    <Rarity>2</Rarity>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Grants the user a length of climbing cord with grappling hook. This counts as having the Right Tool for the Job for climbing and repelling.</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>DARTGUN</Key>
+    <Name>Dart Gun</Name>
+    <Description>[H3]Dart Gun[h3]
+This is a simple device that uses springs or compressed air to fire a tiny alloy dart. While they do very little damage, these darts can be coated with a number of exotic substances, from sedatives to extremely lethal toxins. Dart guns are often concealed in comlinks, glow rods, cigarras, and other cylindrical items, but they can be used anywhere for both offensive and defensive purposes. 
+[P][B]Models Include:[b] Various models.</Description>
+    <Source Page="59">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Gear</Type>
+    <Price>200</Price>
+    <Rarity>4</Rarity>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Enable the item to fire a single dart with the following profiile: (Ranged [Light]: Damage 2; Critical 5; Range [Short]; Limited Ammo 1, Pierce 1).</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <WeaponModifiers>
+      <WeaponModifier>
+        <UnarmedName>Dart Gun</UnarmedName>
+        <SkillKey>RANGLT</SkillKey>
+        <Damage>2</Damage>
+        <Crit>5</Crit>
+        <Qualities>
+          <Quality>
+            <Key>LIMITEDAMMO</Key>
+            <Count>1</Count>
+          </Quality>
+          <Quality>
+            <Key>PIERCE</Key>
+            <Count>1</Count>
+          </Quality>
+        </Qualities>
+        <RangeValue>wrShort</RangeValue>
+        <Range>Short</Range>
+      </WeaponModifier>
+    </WeaponModifiers>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>HIDDENCOMP</Key>
+    <Name>Hidden Compartment</Name>
+    <Description>[H3]Hidden Compartment[h3]
+These are typically very small, easily concealed compartments hidden in places such as the hollowed-out handle of a blaster pistol or the heel of a shoe. Due to size constraints, they can typically only hold items with an encumbrance of 0, such as mem-stiks and credit chips. Compartments that can hold items with an encumbrance of 1 or 2 can be built into larger items, such as a false bottom in a document case.
+[P][B]Models Include:[b] Various models.</Description>
+    <Source Page="59">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Gear</Type>
+    <Price>50</Price>
+    <Rarity>3</Rarity>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Adds a small hidden compartment to a personal item. Finding the compartment requires a thorough once-over and a [B]Hard ([DI][DI][DI]) Perception check[b].</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Upgrade difficulty of Perception check required to discover compartment once</MiscDesc>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>HOLOCONVERTER</Key>
+    <Name>Holo Converter</Name>
+    <Description>[H3]Holo Converter[h3]
+Holo converters are common holo scrambling devices that allow users to alter a holoprojector's outgoing signal. Using powerful alteration technologies, holo converters allow users to change their species, age, gender, and any other identifying features on camera to hide their identity. This can be used with any holographic recording/projecting device, and the converter can store four different alter egos in its database. 
+[P][B]Models Include:[b] Various models.</Description>
+    <Source Page="60">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Gear</Type>
+    <Price>600</Price>
+    <Rarity>6</Rarity>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Allows a user to create disguises within holographic recording/projecting systems</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Add one additional alter ego to the database</MiscDesc>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>COMLINKBUG</Key>
+    <Name>Comlink Bug</Name>
+    <Description>[H3]Comlink Bug[h3]
+Comlink bugs are tiny listening devices implanted into an otherwise normal comlink. When active, they allow an operator to listen in on whatever is being broadcast over a specific comlink. These devices detect both incoming and outgoing signals and can record entire conversations. As they are active listening devices, comlink bugs can be detected with proper equipment, such as a surveillance scanner. 
+[P][B]Models Include:[b] Various models.</Description>
+    <Source Page="59">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Gear</Type>
+    <Price>150</Price>
+    <Rarity>4</Rarity>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Broadcasts all incoming and outgoing signals from a comlink to a remote listener at medium range.</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>SUBMINHOLOCAM</Key>
+    <Name>Subminiature Holocam</Name>
+    <Description>[H3]Subminiature Holocam[h3]
+Subminiature holocams are small holorecorders equipped with a medium-sized fixed focal length lens. Able to record still images and video in numerous formats, they are often hidden in datapads, eyeglasses, goggles, or jewelry. Due to their size and the nature of the attached lens, they have relatively limited capabilities. The on-board storage can store only a handful of still images or a few minutes of video, and the images are all low-resolution. Unless the subminiature holocam is specifically built for the task, it can only reliably record up to a range of three meters. In addition, miniature holocams rarely, if ever, have networking capabilities; images and video footage must be removed manually by connecting the device to a datapad or computer. 
+[P][B]Models Include:[b] Xonim Holotech VEF22 SubMiniature Holocam.</Description>
+    <Source Page="60">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Gear</Type>
+    <Price>300</Price>
+    <Rarity>5</Rarity>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Allows a user to take still images and record holos unobtrusively</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>RETRACGARROTE</Key>
+    <Name>Retractable Garrote</Name>
+    <Description>[H3]Retractable Garrote[h3]
+This simple mod adds a garrote to any suitable item, typically a briefcase, comlink, bracelet, or shoe, but it can even be used on a stimpack or fusion lantern.
+[P][B]Models Include:[b] Various models.</Description>
+    <Source Page="60">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Gear</Type>
+    <Price>200</Price>
+    <Rarity>6</Rarity>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Equips the item with a retractable garrote.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <WeaponModifiers>
+      <WeaponModifier>
+        <UnarmedName>Garrote</UnarmedName>
+        <SkillKey>BRAWL</SkillKey>
+        <Range>Engaged</Range>
+      </WeaponModifier>
+    </WeaponModifiers>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>SELFDESTRUCTSYS</Key>
+    <Name>Self-Destruct System</Name>
+    <Description>[H3]Self-Destruct System[h3]
+Self-destruct systems are found on many pieces of espionage gear, especially bags, attaché cases, and diplomatic pouches. They use small, low-yield, shaped-charge explosives to destroy the item in case of theft, emergency, or improper usage. For example, an attaché case could be equipped with a self-destruct system that activates when an incorrect lock combination is entered. The explosions are usually very contained, but can be modified to deal damage to others nearby when the device detonates. 
+[P][B]Models Include:[b] Various models.</Description>
+    <Source Page="60">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Gear</Type>
+    <Price>550</Price>
+    <Rarity>5</Rarity>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Equips the item with a single use explosive self-destruct system that inflicts 5 damage to all characters within engaged range</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Count>3</Count>
+        <MiscDesc>Increase damage by 2</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Increase range to short</MiscDesc>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CLOAKDEVICE</Key>
+    <Name>Cloaking Device</Name>
+    <Description>[H3]Cloaking Device[h3]
+Cloaking devices are exceedingly rare and typically only fitted to starships employed in gathering intelligence assignments. Fueled with either hibridium or stygium, these power-hungry systems render a ship completely invisible. Cloaking devices are illegal to own for non-military use, a fact that is largely lost on those few criminals, smugglers, and espionage freelancers who are wealthy enough to afford them. This attachment can be applied to any starship of silhouette 3 or larger.
+[P][B]Models Include:[b] Sienar Fleet Systems Mk Ill Stygium Cloaking Device, Kerner Corp Multi-Phase Hibridium Stealth System.</Description>
+    <Source Page="62">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Vehicle</Type>
+    <Price>29000</Price>
+    <Rarity>9</Rarity>
+    <Restricted>true</Restricted>
+    <HP>4</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Provides a starship with a cloaking device which can be activated or deactivated by spending a maneuver. A character must make a [B]Daunting ([DI][DI][DI]) Perception[b] or [B]Vigilance check[b] to spot a cloaked ship. Ships with an active cloaking device have their speed reduced by half (rounded up) and can not use active sensors, comms, or weapons.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <MustBeStarship>true</MustBeStarship>
+    <MinSize>3</MinSize>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>HOLOSHELL</Key>
+    <Name>Holographic Shell</Name>
+    <Description>[H3]Holographic Shell[h3]
+Holographic shells use a combination of optical camouflage and high-resolution holography to create a disguised exterior for a ship or vehicle. A disguise must be programmed into the system's memory in advance, and the memory can hold only one disguise. Once active, a disguise cannot be changed on the fly. Holographic disguises are only effective at distances of several meters or more, however; touching or closely investigating the disguise ruins the illusion. This attachment can be applied to any starship or vehicle.
+[P][B]Models Include:[b] Various models.</Description>
+    <Source Page="63">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Vehicle</Type>
+    <Price>5500</Price>
+    <Rarity>7</Rarity>
+    <Restricted>true</Restricted>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Provides a ship or vehicle with a holographic disguise. A [B]Daunting ([DI][DI][DI][DI]) Perception check[b] is required to see through the disguise at a distance. Physical examination immediately detects the disguise.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Count>2</Count>
+        <MiscDesc>Add one additional disguise to the database</MiscDesc>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>HUSHKIT</Key>
+    <Name>Hush Kit</Name>
+    <Description>[H3]Hush Kit[h3]
+Hush kits were originally designed to muffle the sound of ion and rocket engines around urban spaceports. Installed on a starship's engines, these devices dramatically reduces the sound engines produce. Shortly after their introduction, though, it became apparent that hush kits also make it easier to sneak ships and speeders into and out of places they don't belong. They have since become common among criminals, scouts, and intelligence agents. This attachment can be applied to any starship or vehicle. 
+[P][B]Models Include:[b] Incom 44L2 "Whisperer" Hush Kit, SoroSuub "Slipstream" Stage Ill Hush Kit.</Description>
+    <Source Page="63">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Vehicle</Type>
+    <Price>450</Price>
+    <Rarity>6</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Adds [SE][SE] to all checks to detect this ship audibly while it is in atmosphere.</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>MOBLISTPOST</Key>
+    <Name>Mobile Listening Post</Name>
+    <Description>[H3]Mobile Listening Post[h3]
+Mobile listening posts are a common modification to vehicles used by law enforcement and intelligence agencies. They pack everything an agent or small group of agents needs for a long stakeout. Models commonly include comms interceptors, various powerful sensors and scanners, and of course a small but well stocked caf maker. This attachment can be applied to any enclosed vehicle of silhouette 5 or larger. 
+[P][B]Models Include:[b] Various models.</Description>
+    <Source Page="63">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Vehicle</Type>
+    <Price>5500</Price>
+    <Rarity>5</Rarity>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Increases a vehicle's passive and active sensors by one band. Provides extra audio, video, and holographic capabilities.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <MinSize>3</MinSize>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>RETWEAPSYS</Key>
+    <Name>Retractable Weapon System</Name>
+    <Description>[H3]Retractable Weapon System[h3]
+A staple of spies and infiltrators, this simple mechanical apparatus deploys and retracts a weapon from a hidden spot aboard a ship or vehicle. The does not include the weapon, just the retractable mechanism and the work done to make a concealed space for the weapon beneath duralloy or other hull plates. This attachment can be applied to any starship or vehicle.
+[P][B]Models Include:[b] Various models.</Description>
+    <Source Page="63">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Vehicle</Type>
+    <Price>1000</Price>
+    <Rarity>6</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Provides a vehicle with a hidden compartment and a device for deploying a weapon. Deploying or retracting a weapon requires a maneuver. Discovering a retractable weapon system requires a [B]Hard ([DI][DI][DI]) Perception check[b] and a thorough search of the ship or vehicle in question. The GM has final say if a weapon is suitable for the retraction system based on the size of the ship or vehicle.</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>SENSORSHUNT</Key>
+    <Name>Sensor Shunt</Name>
+    <Description>[H3]Sensor Shunt[h3]
+Sensor shunts are passive stealth systems fitted to ships or vehicles to hide energy signatures. Unlike a scrambler, which draws attention to itself even as it fools sensors, shunts are quiet and unobtrusive. Ships or vehicles with these upgrades are nearly invisible to passive sensors and are difficult to detect with even active scanners. This attachment can be applied to any starship or vehicle.
+[P][B]Models Include:[b] Various models.</Description>
+    <Source Page="63">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Vehicle</Type>
+    <Price>3200</Price>
+    <Rarity>8</Rarity>
+    <Restricted>true</Restricted>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Increase the difficulty of checks to detect this vessel using passive sensors by two, and the difficulty of checks to detect this vessel using active sensors by one, while it is travelling at speed 3 or lower.</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CONCEALALTERWEAP</Key>
+    <Name>Concealment Alteration (Weapon)</Name>
+    <Description>[H3]Concealment Alteration (Weapon)[h3]
+Holdout blasters and vibroknives are easy enough to hide, but when characters wish to pack a bit more of a punch, they need a more powerful (and usually larger) weapon. The simplest way to make a more obvious weapon or other item easier to conceal is to remove unnecessary parts or minimize its size. This is called a concealment alteration. Concealment alterations can include cutting weapon barrels, removing panels, and any other small physical changes that do not prohibit the item's primary function.
+[P]PCs wishing to make a concealment alteration need to make an [B]Average ([DI][DI]) Skulduggery check[b] and spend one hour per point of the item's encumbrance (with a minimum duration of one hour) in applying the changes. A successful check reduces the item's encumbrance by 1 (to a minimum of 1) and adds [SE] to any Perception checks to notice or search for the item; [TR] can be spent to make this [SE][SE] instead. Items with an encumbrance of 3 or higher are more difficult to modify, however, and so the difficulty to perform a concealment alteration increases by one for each point of encumbrance over 2. This means that making a concealment alteration to a typical ion blaster (encumbrance 3) would require a [B]Hard ([DI][DI][DI]) Skulduggery check[b], while doing so to a standard disruptor rifle (encumbrance 5) would require a [B]Formidable ([DI][DI][DI]) Skulduggery check[b]. Items with an encumbrance of 6 or higher cannot receive a concealment alteration. 
+[P]A character can only attempt a concealment alteration once on a given item, and doing so permanently reduces the item's available hard points by 1. Items that have no hard points may still be altered in this fashion.</Description>
+    <Source Page="80">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>PCs wishing to make a concealment alteration need to make an [B]Average ([DI][DI]) Skulduggery check[b] and spend one hour per point of the item's encumbrance (with a minimum duration of one hour) in applying the changes. Items with an encumbrance of 3 or higher are more difficult to modify, however, and so the difficulty to perform a concealment alteration increases by one for each point of encumbrance over 2. Items with an encumbrance of 6 or higher cannot receive a concealment alteration.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>A successful check reduces the item's encumbrance by 1 (to a minimum of 1) and adds [SE] to any Perception checks to notice or search for the item; [TR] can be spent to make this [SE][SE] instead.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>A character can only attempt a concealment alteration once on a given item, and doing so permanently reduces the item's available hard points by 1. Items that have no hard points may still be altered in this fashion.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <MaxEnc>5</MaxEnc>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CONCEALALTERGEAR</Key>
+    <Name>Concealment Alteration (Gear)</Name>
+    <Description>[H3]Concealment Alteration (Gear)[h3]
+Holdout blasters and vibroknives are easy enough to hide, but when characters wish to pack a bit more of a punch, they need a more powerful (and usually larger) weapon. The simplest way to make a more obvious weapon or other item easier to conceal is to remove unnecessary parts or minimize its size. This is called a concealment alteration. Concealment alterations can include cutting weapon barrels, removing panels, and any other small physical changes that do not prohibit the item's primary function.
+[P]PCs wishing to make a concealment alteration need to make an [B]Average ([DI][DI]) Skulduggery check[b] and spend one hour per point of the item's encumbrance (with a minimum duration of one hour) in applying the changes. A successful check reduces the item's encumbrance by 1 (to a minimum of 1) and adds [SE] to any Perception checks to notice or search for the item; [TR] can be spent to make this [SE][SE] instead. Items with an encumbrance of 3 or higher are more difficult to modify, however, and so the difficulty to perform a concealment alteration increases by one for each point of encumbrance over 2. This means that making a concealment alteration to a typical ion blaster (encumbrance 3) would require a [B]Hard ([DI][DI][DI]) Skulduggery check[b], while doing so to a standard disruptor rifle (encumbrance 5) would require a [B]Formidable ([DI][DI][DI]) Skulduggery check[b]. Items with an encumbrance of 6 or higher cannot receive a concealment alteration. 
+[P]A character can only attempt a concealment alteration once on a given item, and doing so permanently reduces the item's available hard points by 1. Items that have no hard points may still be altered in this fashion.</Description>
+    <Source Page="80">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Gear</Type>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>PCs wishing to make a concealment alteration need to make an [B]Average ([DI][DI]) Skulduggery check[b] and spend one hour per point of the item's encumbrance (with a minimum duration of one hour) in applying the changes. Items with an encumbrance of 3 or higher are more difficult to modify, however, and so the difficulty to perform a concealment alteration increases by one for each point of encumbrance over 2. Items with an encumbrance of 6 or higher cannot receive a concealment alteration.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>A successful check reduces the item's encumbrance by 1 (to a minimum of 1) and adds [SE] to any Perception checks to notice or search for the item; [TR] can be spent to make this [SE][SE] instead.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>A character can only attempt a concealment alteration once on a given item, and doing so permanently reduces the item's available hard points by 1. Items that have no hard points may still be altered in this fashion.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <MaxEnc>5</MaxEnc>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>COMPALTERWEAPON</Key>
+    <Name>Component Alteration (Weapon)</Name>
+    <Description>[H3]Component Alteration (Weapon)[h3]
+A more drastic, but more effective, option is to alter a weapon or other device so that it can be broken down into several smaller parts that can be reassembled later. This method is typically used when a Rebel needs to get a larger item into a secure location or to avoid scanning devices that are likely to detect standard weapons regardless of any concealment alterations. This is called a component alteration.
+[P]Characters wishing to break a weapon or other item down into several parts in this fashion need to spend time dismantling the device into smaller components. This requires a [B]Hard ([DI][DI][DI]) Mechanics check[b] and takes a number of hours equal to the item's encumbrance, or a minimum of one hour. If the check is successful, the device is broken down into a number of components equal to its encumbrance plus 1. So, a blaster pistol is broken down into two components, while a blaster rifle is broken down into five.
+[P]Note that this differs from the more advanced componentization weapon attachment, which requires no check for use once it is installed and is designed to allow the user to openly carry a weapon, rather than consisting of a simple mechanical disassembly. Characters can try, though, to use component alteration to physically disguise these individual parts to look like code cylinders, comlinks, fusion lanterns, and other mundane objects. While this allows a part to take on the rough appearance of the desired object, it does not gain the functionality of that object. This is generally a taxing and tricky process, and so upgrades the difficulty of the Mechanics check once or more as per the GM's discretion.
+[P]Each [SU] or [TR] on the initial Mechanics check lets a character carrying the components from a component alteration add [BO] to [B]opposed Stealth vs. Perception checks[b] when an observer attempts to notice the true nature of the disassembled device. If the component alteration was designed to make the items appear mundane, he gains [BO][BO] instead.
+[P]Assembling a weapon or other item with a component alteration requires two maneuvers or two minutes of narrative time per component, and the character must make an [B]Average ([DI][DI]) Mechanics check[b]. All components must be present to make the check. Failure means the components are damaged and the device requires a major repair to be properly reassembled again and returned to function. 
+[P]Component alterations have a strong impact on a item's reliability, as most weapons or other complex devices simply aren't meant to be broken down into smaller pieces and reassembled. The GM may spend [TH][TH][TH] as [DE] when a character makes a skill check while using an item with this alteration. 
+[P]A character can only attempt a component alteration once on a given item, and doing so permanently reduces the item's available hard points by 1. Items that have no hard points may still be altered in this fashion.</Description>
+    <Source Page="80">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Characters wishing to break a weapon or other item down into several parts in this fashion need to spend time dismantling the device into smaller components. This requires a [B]Hard ([DI][DI][DI]) Mechanics check[b] and takes a number of hours equal to the item's encumbrance, or a minimum of one hour. If the check is successful, the device is broken down into a number of components equal to its encumbrance plus 1.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Characters can try to use component alteration to physically disguise these individual parts to look like code cylinders, comlinks, fusion lanterns, and other mundane objects. While this allows a part to take on the rough appearance of the desired object, it does not gain the functionality of that object. This is generally a taxing and tricky process, and so upgrades the difficulty of the Mechanics check once or more as per the GM's discretion.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Each [SU] or [TR] on the initial Mechanics check lets a character carrying the components from a component alteration add [BO] to [B]opposed Stealth vs. Perception checks[b] when an observer attempts to notice the true nature of the disassembled device. If the component alteration was designed to make the items appear mundane, he gains [BO][BO] instead.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Assembling a weapon or other item with a component alteration requires two maneuvers or two minutes of narrative time per component, and the character must make an [B]Average ([DI][DI]) Mechanics check[b]. All components must be present to make the check. Failure means the components are damaged and the device requires a major repair to be properly reassembled again and returned to function.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>The GM may spend [TH][TH][TH] as [DE] when a character makes a skill check while using an item with this alteration.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>A character can only attempt a component alteration once on a given item, and doing so permanently reduces the item's available hard points by 1. Items that have no hard points may still be altered in this fashion.</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>COMPALTERGEAR</Key>
+    <Name>Component Alteration (Gear)</Name>
+    <Description>[H3]Component Alteration (Gear)[h3]
+A more drastic, but more effective, option is to alter a weapon or other device so that it can be broken down into several smaller parts that can be reassembled later. This method is typically used when a Rebel needs to get a larger item into a secure location or to avoid scanning devices that are likely to detect standard weapons regardless of any concealment alterations. This is called a component alteration.
+[P]Characters wishing to break a weapon or other item down into several parts in this fashion need to spend time dismantling the device into smaller components. This requires a [B]Hard ([DI][DI][DI]) Mechanics check[b] and takes a number of hours equal to the item's encumbrance, or a minimum of one hour. If the check is successful, the device is broken down into a number of components equal to its encumbrance plus 1. So, a blaster pistol is broken down into two components, while a blaster rifle is broken down into five.
+[P]Note that this differs from the more advanced componentization weapon attachment, which requires no check for use once it is installed and is designed to allow the user to openly carry a weapon, rather than consisting of a simple mechanical disassembly. Characters can try, though, to use component alteration to physically disguise these individual parts to look like code cylinders, comlinks, fusion lanterns, and other mundane objects. While this allows a part to take on the rough appearance of the desired object, it does not gain the functionality of that object. This is generally a taxing and tricky process, and so upgrades the difficulty of the Mechanics check once or more as per the GM's discretion.
+[P]Each [SU] or [TR] on the initial Mechanics check lets a character carrying the components from a component alteration add [BO] to [B]opposed Stealth vs. Perception checks[b] when an observer attempts to notice the true nature of the disassembled device. If the component alteration was designed to make the items appear mundane, he gains [BO][BO] instead.
+[P]Assembling a weapon or other item with a component alteration requires two maneuvers or two minutes of narrative time per component, and the character must make an [B]Average ([DI][DI]) Mechanics check[b]. All components must be present to make the check. Failure means the components are damaged and the device requires a major repair to be properly reassembled again and returned to function. 
+[P]Component alterations have a strong impact on a item's reliability, as most weapons or other complex devices simply aren't meant to be broken down into smaller pieces and reassembled. The GM may spend [TH][TH][TH] as [DE] when a character makes a skill check while using an item with this alteration. 
+[P]A character can only attempt a component alteration once on a given item, and doing so permanently reduces the item's available hard points by 1. Items that have no hard points may still be altered in this fashion.</Description>
+    <Source Page="80">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Gear</Type>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Characters wishing to break a weapon or other item down into several parts in this fashion need to spend time dismantling the device into smaller components. This requires a [B]Hard ([DI][DI][DI]) Mechanics check[b] and takes a number of hours equal to the item's encumbrance, or a minimum of one hour. If the check is successful, the device is broken down into a number of components equal to its encumbrance plus 1.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Characters can try to use component alteration to physically disguise these individual parts to look like code cylinders, comlinks, fusion lanterns, and other mundane objects. While this allows a part to take on the rough appearance of the desired object, it does not gain the functionality of that object. This is generally a taxing and tricky process, and so upgrades the difficulty of the Mechanics check once or more as per the GM's discretion.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Each [SU] or [TR] on the initial Mechanics check lets a character carrying the components from a component alteration add [BO] to [B]opposed Stealth vs. Perception checks[b] when an observer attempts to notice the true nature of the disassembled device. If the component alteration was designed to make the items appear mundane, he gains [BO][BO] instead.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Assembling a weapon or other item with a component alteration requires two maneuvers or two minutes of narrative time per component, and the character must make an [B]Average ([DI][DI]) Mechanics check[b]. All components must be present to make the check. Failure means the components are damaged and the device requires a major repair to be properly reassembled again and returned to function.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>The GM may spend [TH][TH][TH] as [DE] when a character makes a skill check while using an item with this alteration.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>A character can only attempt a component alteration once on a given item, and doing so permanently reduces the item's available hard points by 1. Items that have no hard points may still be altered in this fashion.</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>SPOOFSCAN</Key>
+    <Name>Spoofing Scanners</Name>
+    <Description>[H3]Spoofing Scanners[h3]
+Some physical alterations, no matter how extensive, can't fool the piercing eyes of scanners and electronic detection devices. However, clever Rebels aren't without hope. By reducing the energy output of a weapon or by installing jury-rigged scramblers to shield a device from sensory devices, a character can potentially allow the item to evade detection. 
+[P]Characters attempting such an alteration must make a [B]Hard ([DI][DI][DI]) Mechanics check[b]. This adds [SE] to Perception checks that operators using a scanning device make to detect the item. They may spend [TR] from the Mechanics check to have the difficulty of such detection checks upgraded once.
+[P]Unfortunately, the reduction of a weapon's energy output does diminish its effectiveness. Each net [SU] from the check for reducing a weapon's energy output also reduces its damage by one, to a minimum of 1. Characters may spend [TR] from the Mechanics check to halve this reduction in damage, rounding up. 
+[P]Only weapons that use energy-based attacks or other advanced devices can have their energy output reduced or signature concealed. This means that slugthrowers and traditional explosive devices cannot be modified in this fashion. In addition, items that require extensive power (such as repeating blasters) cannot have their energy signature reduced. Note that this differs from the scanner-proof hardware weapon attachment, which requires no check for use once it is installed and is more a customization of the weapon than a mechanical alteration.</Description>
+    <Source Page="82">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <TypeLimit>
+      <Type>Energy Weapon</Type>
+    </TypeLimit>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Characters attempting such an alteration must make a [B]Hard ([DI][DI][DI]) Mechanics check[b]. This adds [SE] to Perception checks that operators using a scanning device make to detect the item. They may spend [TR] from the Mechanics check to have the difficulty of such detection checks upgraded once.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Each net [SU] from the check for reducing a weapon's energy output also reduces its damage by one, to a minimum of 1. Characters may spend [TR] from the Mechanics check to halve this reduction in damage, rounding up.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Only weapons that use energy-based attacks or other advanced devices can have their energy output reduced or signature concealed. This means that slugthrowers and traditional explosive devices cannot be modified in this fashion. In addition, items that require extensive power (such as repeating blasters) cannot have their energy signature reduced.</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>HIDCOMPARMOR</Key>
+    <Name>Hidden Compartments in Armor</Name>
+    <Description>[H3]Hidden Compartments in Armor[h3]
+Usually formed from rigid plates or packed with protective padding, most types of armor rarely facilitate the stowing of small objects. However, with some careful work, a character can add hidden pouches, concealed holsters, and unseen sheaths. 
+[P]A character typically shaves down or hollows out a section of armor plating, or thins out protective mesh and padding, to make space for the hidden compartment. To make this change, he must spend a number of hours equal to the armor's encumbrance, pay a number of credits equal to 5% of the armor's price, and make a [B]Hard ([DI][DI][DI]) Mechanics check[b]. Each [SU] or [TR] provides one encumbrance point's worth of hidden space in the armor. The armor cannot gain more encumbrance points for hiding objects than the suit's own encumbrance value, and items concealed in this way do not count towards the user's encumbrance threshold. Add [SE][SE] to all Perception checks made to notice items hidden in this manner. 
+[P]No matter how many [SU] are rolled, though, a suit of armor cannot conceal any single item with an encumbrance value greater than 2. This means that if a character rolls [SU][SU][SU] and thus has space for items totaling 3 encumbrance, the character could conceal a heavy blaster pistol (encumbrance 2) and a vibroknife (encumbrance 1), but not a blaster carbine (encumbrance 3). This is because while it is possible to hollow out a compartment in a chest plate and perhaps a second in a boot, there is no single location on a suit of armor large enough to accommodate a particularly large or unwieldy item. 
+[P]Each point of encumbrance value for concealed space gained in this fashion reduces the armor's hard points by one, to a minimum of 0. Any armor with no hard points, such as padded armor or heavy clothing, can still have enough concealed space for an item with an encumbrance value of 1.
+[P]For every two encumbrance points' worth of concealed space created, an armor's soak is reduced by one. However, each net [AD] on the initial Mechanics check to modify the armor cancels out one point of soak reduction.</Description>
+    <Source Page="82">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Armor</Type>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>[B]Price:[b] 5% of armor's price.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>To make this change, he must spend a number of hours equal to the armor's encumbrance and make a [B]Hard ([DI][DI][DI]) Mechanics check[b]. Each [SU] or [TR] provides one encumbrance point's worth of hidden space in the armor. The armor cannot gain more encumbrance points for hiding objects than the suit's own encumbrance value, and items concealed in this way do not count towards the user's encumbrance threshold. Add [SE][SE] to all Perception checks made to notice items hidden in this manner.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>No matter how many [SU] are rolled, though, a suit of armor cannot conceal any single item with an encumbrance value greater than 2.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Each point of encumbrance value for concealed space gained in this fashion reduces the armor's hard points by one, to a minimum of 0. Any armor with no hard points, such as padded armor or heavy clothing, can still have enough concealed space for an item with an encumbrance value of 1.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>For every two encumbrance points' worth of concealed space created, an armor's soak is reduced by one. However, each net [AD] on the initial Mechanics check to modify the armor cancels out one point of soak reduction.</MiscDesc>
+      </Mod>
+    </BaseMods>
   </ItemAttachment>
 </ItemAttachments>

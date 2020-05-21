@@ -9,7 +9,7 @@ The ancient lightsaber fighting style of Shii-Cho is said to be the first lights
 [P]Shii-Cho Knights acquire [B]Athletics, Coordination, Lightsaber,[b] and [B]Melee[b] as additional career skills. If this is the character's starting specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. These skills provide them with a solid grounding in the core techniques of any physical conflict. They are familiar with the weapon they wield, but they are also very comfortable exploiting their natural athleticism and flexibility. Because of this, they can not only avoid an enemy's attack, but also make certain that they are able to strike effectively when their target is at a disadvantage.
 
 [P]Followers of this path are seldom concerned with personal appearances or the style that they exhibit in a conflict. Instead, they are focused on precision and on achieving their ultimate goal of victory. For them, a solid grounding in the basics is something they can rely on in any situation. When lives are on the line, they devote their attention to executing their maneuvers in a traditional way, using them to counter an opponent while simultaneously restricting his options.</Description>
-  <Source>Force and Destiny Core Rulebook</Source>
+  <Source Page="100">Force and Destiny Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>ATHL</Key>

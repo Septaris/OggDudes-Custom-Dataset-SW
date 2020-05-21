@@ -15,7 +15,7 @@ Knowledge is power, on the battlefield and in negotiations alike. The Analyst kn
 [P]Analysts work best when they have the opportunity to exhaustively research a subject before going into the field, but the work of the Rebel Alliance sometimes requires its representatives to improvise. Therefore, Analysts—especially those attached to squads with specializations and missions as diverse as most PC groups—must be prepared to work on the fly. Even without access to data archives or the HoloNet, a skilled Analyst can effectively observe and break down a situation, identifying ways the squad can exploit vulnerabilities in enemy strategies and technologies. 
 
 [P]An Analyst benefits from a high Intellect characteristic for making Computers and Knowledge checks to access and remember information. A high Cunning also assists Perception checks to spot critical details. </Description>
-  <Source>Desperate Allies</Source>
+  <Source Page="28">Desperate Allies</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>COMP</Key>

@@ -9,6 +9,10 @@
 [P]A Pilot is naturally focused on mastering his craft, and his additional career skills show it: [B]Astrogation, Gunnery, Piloting (Planetary),[b] and [B]Piloting (Space)[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. A Pilot's talents further reinforce his dominance in the cockpit. 
 
 [P]Pilot is another specialization that rarely leads to unemployment. If a Pilot doesn't already have his own ship (and the inevitable Obligation that goes with it), he will likely be able to sign on with any number of groups, criminal or otherwise. Once he establishes his competency at the controls, he'll be able to get some fairly choice assignments. A Player Character Pilot will be considered indispensable to his group, especially after the first space battle or ship-related crisis.</Description>
+  <Sources>
+    <Source Page="83">Edge of the Empire Core Rulebook</Source>
+    <Source Page="69">Age of Rebellion Core Rulebook</Source>
+  </Sources>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>ASTRO</Key>

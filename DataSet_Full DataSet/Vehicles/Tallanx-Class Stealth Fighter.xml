@@ -10,6 +10,10 @@ skirmishes. Its design philosophy relies on stealth and lightning-fast attacks u
 [P][H4]&lt;fontsize=1&gt;Please see page 117 of the Strongholds of Resistance Sourcebook for details.[h4]</Description>
   <Source>Strongholds of Resistance</Source>
   <Custom>DescOnly</Custom>
+  <BuiltInAttachments>
+    <Key>ECMSUITETALLANX</Key>
+    <Key>GIMMELSTEALTH</Key>
+  </BuiltInAttachments>
   <Type>Starfighter</Type>
   <Categories>
     <Category>Starship</Category>
@@ -48,9 +52,5 @@ skirmishes. Its design philosophy relies on stealth and lightning-fast attacks u
       <Key>LASERLT</Key>
     </VehicleWeapon>
   </VehicleWeapons>
-  <BuiltInAttachments>
-    <Key>ECMSUITETALLANX</Key>
-    <Key>GIMMELSTEALTH</Key>
-  </BuiltInAttachments>
   <SensorRange>Close</SensorRange>
 </Vehicle>

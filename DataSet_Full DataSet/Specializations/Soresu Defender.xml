@@ -9,7 +9,7 @@ Guardians frequently and deliberately put themselves in harm's way in order to a
 [P]A Soresu Defender earns additional career skill access to [B]Discipline, Knowledge (Lore), Lightsaber,[b] and [B]Vigilance[b]. If this is the character's starting specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. With this combination of skills, the character can maintain constant vigilance, recognize threats, and remain resolute in the face of danger. 
 
 [P]Soresu Defenders depend on the Force to guide them through dangers. Their techniques rest almost entirely on knowing how best to use their weapons for defensive purposes. In many ways, this style approaches the level of precognition, as the Force guides its practitioners to use their weapons to deflect an incoming attack or to move out of the way of an assault. Individuals who are unaware of their Force potential can become accomplished martial artists using these techniques, but true Soresu Defenders must be sensitive to the Force.</Description>
-  <Source>Force and Destiny Core Rulebook</Source>
+  <Source Page="77">Force and Destiny Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>DISC</Key>

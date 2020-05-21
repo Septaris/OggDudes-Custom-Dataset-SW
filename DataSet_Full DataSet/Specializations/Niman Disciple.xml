@@ -8,7 +8,7 @@ Even the most accomplished of negotiators can see negotiations fail and come to 
 
 [P]Niman Disciples gain the additional career skills of [B]Discipline, Leadership, Lightsaber,[b] and [B]Negotiation,[b] and if this is the PC's starting specialization, the PC gains one rank in each of two of these skills. They remain focused on working with groups of individuals to come to a peaceful accord, but they acknowledge that the road to that accord may be fraught with danger. These skills can make surviving in a treacherous environment much more possible. 
 [P]Due to Consulars' naturally compassionate nature, this path centers on developing defensive measures in concert with negotiation techniques. In general, the associated combat techniques are focused on survival and defense instead of attack. Also, due to the Consular's emphasis on mental discipline and self control, the Niman Disciple puts more emphasis on integrating his Force abilities into his fighting style, using the Force as his ally to defeat dangerous foes.</Description>
-  <Source>Force and Destiny Core Rulebook</Source>
+  <Source Page="70">Force and Destiny Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>DISC</Key>

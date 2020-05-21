@@ -16,6 +16,9 @@ Loronar Corporation is an old, respected, and well-diversified corporation based
 [P]Despite their age, Explorer-class ships have a considerably modern layout, making accessing the various compartments and holds easy and intuitive. With their powerful scouting sensor arrays, reliable engines and flight-control computers, and onboard weapon systems, the Explorer-class ships are perfectly suited for long-range scouting, exploration, and even light trade.</Description>
   <Source>Enter the Unknown</Source>
   <Custom>DescOnly</Custom>
+  <BuiltInAttachments>
+    <Key>ENGACCESS</Key>
+  </BuiltInAttachments>
   <Type>Patrol Boat</Type>
   <Categories>
     <Category>Non-Fighter Starship</Category>
@@ -79,8 +82,5 @@ Loronar Corporation is an old, respected, and well-diversified corporation based
       <Key>LASERMED</Key>
     </VehicleWeapon>
   </VehicleWeapons>
-  <BuiltInAttachments>
-    <Key>ENGACCESS</Key>
-  </BuiltInAttachments>
   <SensorRange>Close</SensorRange>
 </Vehicle>

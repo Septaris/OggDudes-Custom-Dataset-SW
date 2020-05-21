@@ -151,19 +151,11 @@
     <Key>BLA</Key>
     <Name>Black Market Contacts</Name>
     <Description>When purchasing illegal goods, may reduce rarity by 1 per rank of Black Market Contacts, increasing cost by 50 percent of base cost per reduction.</Description>
-    <Source>Edge of the Empire Core Rulebook</Source>
-    <Custom>DescOnly</Custom>
+    <Source Page="132">Edge of the Empire Core Rulebook</Source>
+    <Custom>CustomItem</Custom>
     <Ranked>true</Ranked>
-    <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Activation>Incidental</Activation>
   </Talent>
   <Talent>
     <Key>BLO</Key>
@@ -293,17 +285,14 @@
     <Key>CONF</Key>
     <Name>Confidence</Name>
     <Description>May decrease difficulty of Discipline checks to avoid fear by 1 per rank of Confidence.</Description>
-    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="133">Edge of the Empire Core Rulebook</Source>
+      <Source Page="144">Age of Rebellion Core Rulebook</Source>
+      <Source Page="141">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
@@ -443,17 +432,13 @@
     <Key>DEFDRI</Key>
     <Name>Defensive Driving</Name>
     <Description>Increase defense of vehicle or starship being piloted by 1 per rank of Defensive Driving.</Description>
-    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="134">Edge of the Empire Core Rulebook</Source>
+      <Source Page="145">Age of Rebellion Core Rulebook</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
@@ -598,17 +583,13 @@
     <Key>FAMSUNS</Key>
     <Name>Familiar Suns</Name>
     <Description>Once per session, may perform a Familiar Suns maneuver; make a [B] Hard ([DI][DI][DI]) Knowledge (Outer Rim)[b] or [B](Core Worlds) check[b] to reveal the current type of planetary environment and other useful information.</Description>
-    <Custom>DescOnly</Custom>
-    <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
+    <Sources>
+      <Source Page="135">Edge of the Empire Core Rulebook</Source>
+      <Source Page="146">Age of Rebellion Core Rulebook</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
+    <ActivationValue>taManeuver</ActivationValue>
+    <Activation>Maneuver</Activation>
   </Talent>
   <Talent>
     <Key>FERSTR</Key>
@@ -855,18 +836,14 @@
     <Key>HARDHD</Key>
     <Name>Hard Headed</Name>
     <Description>When staggered or disoriented, perform the Hard Headed action; make a  [B]Daunting ([DI][DI][DI][DI]) Discipline check[b] to remove status. Difficulty reduced per rank of Hard Headed.</Description>
-    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="136">Edge of the Empire Core Rulebook</Source>
+      <Source Page="148">Age of Rebellion Core Rulebook</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
     <Ranked>true</Ranked>
-    <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
+    <ActivationValue>taAction</ActivationValue>
+    <Activation>Action</Activation>
   </Talent>
   <Talent>
     <Key>HARDHDIMP</Key>
@@ -1008,17 +985,13 @@
     <Key>INSPRHET</Key>
     <Name>Inspiring Rhetoric</Name>
     <Description>Take the Inspiring Rhetoric action; making an [B]Average ([DI][DI]) Leadership check[b]. Each [SU], 1 ally within close range recovers 1 strain. Spend [AD] to cause 1 affected ally to recover 1 additional strain.</Description>
-    <Custom>DescOnly</Custom>
-    <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
+    <Sources>
+      <Source Page="137">Edge of the Empire Core Rulebook</Source>
+      <Source Page="149">Age of Rebellion Core Rulebook</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <Activation>Action</Activation>
   </Talent>
   <Talent>
     <Key>INSPRHETIMP</Key>
@@ -1234,17 +1207,13 @@
     <Key>KNOWSCH</Key>
     <Name>Known Schematic</Name>
     <Description>Once per session, may perform the Known Schematic maneuver; make a [B]Hard ([DI][DI][DI]) Knowledge (Education) check[b]. Success grants familiarity with a building or ship's design.</Description>
-    <Custom>DescOnly</Custom>
-    <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
+    <Sources>
+      <Source Page="138">Edge of the Empire Core Rulebook</Source>
+      <Source Page="151">Age of Rebellion Core Rulebook</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
+    <ActivationValue>taManeuver</ActivationValue>
+    <Activation>Maneuver</Activation>
   </Talent>
   <Talent>
     <Key>LETSRIDE</Key>
@@ -1316,17 +1285,14 @@
     <Key>MASSHAD</Key>
     <Name>Master of Shadows</Name>
     <Description>Once per round, suffer 2 strain to decrease difficulty of next Stealth or Skulduggery check by one.</Description>
-    <Custom>DescOnly</Custom>
-    <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
+    <Sources>
+      <Source Page="138">Edge of the Empire Core Rulebook</Source>
+      <Source Page="151">Age of Rebellion Core Rulebook</Source>
+      <Source Page="146">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Activation>Incidental</Activation>
   </Talent>
   <Talent>
     <Key>MASPIL</Key>
@@ -1556,33 +1522,25 @@
     <Key>NATROG</Key>
     <Name>Natural Rogue</Name>
     <Description>Once per session, may reroll any 1 Skulduggery or Stealth check.</Description>
-    <Custom>DescOnly</Custom>
-    <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
+    <Sources>
+      <Source Page="139">Edge of the Empire Core Rulebook</Source>
+      <Source Page="153">Age of Rebellion Core Rulebook</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Activation>Incidental</Activation>
   </Talent>
   <Talent>
     <Key>NATSCH</Key>
     <Name>Natural Scholar</Name>
     <Description>Once per session, may reroll any 1 Knowledge skill check.</Description>
-    <Custom>DescOnly</Custom>
-    <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
+    <Sources>
+      <Source Page="139">Edge of the Empire Core Rulebook</Source>
+      <Source Page="153">Age of Rebellion Core Rulebook</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Activation>Incidental</Activation>
   </Talent>
   <Talent>
     <Key>NATTIN</Key>
@@ -1835,17 +1793,14 @@
     <Key>RESOLVE</Key>
     <Name>Resolve</Name>
     <Description>When a character involuntarily suffers strain, he suffers 1 less strain per tank of Resolve to a minimum of 1.</Description>
-    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="142">Edge of the Empire Core Rulebook</Source>
+      <Source Page="155">Age of Rebellion Core Rulebook</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
+    <LessStrain>1</LessStrain>
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
@@ -1980,16 +1935,12 @@
     <Key>SPARECL</Key>
     <Name>Spare Clip</Name>
     <Description>Cannot run out of ammo due to [DE]. Items with Limited Ammo quality run out of ammo as normal.</Description>
-    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="143">Edge of the Empire Core Rulebook</Source>
+      <Source Page="157">Age of Rebellion Core Rulebook</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
@@ -2320,17 +2271,13 @@
     <Key>WHEEL</Key>
     <Name>Wheel and Deal</Name>
     <Description>When selling good legally, gain 10% more credits per rank of Wheel and Deal.</Description>
-    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="145">Edge of the Empire Core Rulebook</Source>
+      <Source Page="159">Age of Rebellion Core Rulebook</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
@@ -2644,19 +2591,15 @@
     <Key>SUPREF</Key>
     <Name>Superior Reflexes</Name>
     <Description>Gain +1 melee damage.</Description>
-    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="144">Edge of the Empire Core Rulebook</Source>
+      <Source Page="157">Age of Rebellion Core Rulebook</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <Attributes>
       <DefenseMelee>1</DefenseMelee>
     </Attributes>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
@@ -2835,19 +2778,11 @@
     <Key>GREASE</Key>
     <Name>Greased Palms</Name>
     <Description>Before making a social check, may spend up to 50 credits per rank of Greased Palms to upgrade the ability of the check once for every 50 spent.</Description>
-    <Source>Age of Rebellion Core Rulebook</Source>
-    <Custom>DescOnly</Custom>
+    <Source Page="148">Age of Rebellion Core Rulebook</Source>
+    <Custom>CustomItem</Custom>
     <Ranked>true</Ranked>
-    <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
+    <ActivationValue>taManeuver</ActivationValue>
+    <Activation>Maneuver</Activation>
   </Talent>
   <Talent>
     <Key>THROWCRED</Key>
@@ -2904,24 +2839,6 @@
     <Key>GOODCOP</Key>
     <Name>Good Cop</Name>
     <Description>May spend [AD][AD] from a Charm or Negotiation check to upgrade ability of a single ally's subsequent Social Interaction check against the target a number of times equal to ranks in Good Cop.</Description>
-    <Source>Far Horizons</Source>
-    <Custom>DescOnly</Custom>
-    <Ranked>true</Ranked>
-    <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
-  </Talent>
-  <Talent>
-    <Key>BADCOP</Key>
-    <Name>Bad Cop</Name>
-    <Description>May spend [AD][AD] from a Deception or Coercion check to upgrade ability of a single ally's subsequent Social Interaction check against the target a number of times equal to ranks in Bad Cop.</Description>
     <Source>Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
@@ -3014,7 +2931,7 @@
   <Talent>
     <Key>NATATHL</Key>
     <Name>Natural Athlete</Name>
-    <Description>Once per session, reroll any 1 Athletics or Coordination check.</Description>
+    <Description>Once per session, may reroll any 1 Athletics or Coordination check.</Description>
     <Source>Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -3100,18 +3017,28 @@
     <Key>PWRBLST</Key>
     <Name>Powerful Blast</Name>
     <Description>Increase Blast damage dealt by explosives, explosive weapons, and grenafes by +1 per rank of Powerful Blast.</Description>
-    <Source>Age of Rebellion Core Rulebook</Source>
-    <Custom>DescOnly</Custom>
+    <Source Page="154">Age of Rebellion Core Rulebook</Source>
+    <Custom>CustomItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
+    <ItemChanges>
+      <ItemChange>
+        <ItemType>Weapon</ItemType>
+        <QualityChanges>
+          <Quality>
+            <Key>BLAST</Key>
+            <Count>1</Count>
+          </Quality>
+        </QualityChanges>
+      </ItemChange>
+      <ItemChange>
+        <ItemType>Weapon</ItemType>
+        <DamageChange>1</DamageChange>
+        <SkillKeys>
+          <Key>MECH</Key>
+        </SkillKeys>
+      </ItemChange>
+    </ItemChanges>
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
@@ -3197,7 +3124,7 @@
   <Talent>
     <Key>IMPDET</Key>
     <Name>Improvised Detonation</Name>
-    <Description>Once per session, make a [B]Hard ([DI][DI][DI]) Mechanics check[b] to perform the Improvised Detonation action and build an explosive device, dealing damage equal to ranks in Intellect + ranks in Mechanics + [SU]</Description>
+    <Description>Once per session, make a [B]Hard ([DI][DI][DI]) Mechanics check[b] to perform the Improvised Detonation action and build an explosive device, dealing damage equal to ranks in Intellect + ranks in Mechanics + [SU].</Description>
     <Source>Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -3319,7 +3246,7 @@
   <Talent>
     <Key>BURLY</Key>
     <Name>Burly</Name>
-    <Description>Reduce any weilded weapon's Cumbersome quality and Encumberance rating by a nyumber equal to ranks in Burly to a minimum of 1.</Description>
+    <Description>Reduce any wielded weapon's Cumbersome quality and Encumberance rating by a number equal to ranks in Burly to a minimum of 1.</Description>
     <Source>Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
@@ -3670,17 +3597,13 @@
     <Key>COMMPRES</Key>
     <Name>Commanding Presence</Name>
     <Description>Remove [SE] per rank of Commanding Presence from Leadership and Cool checks.</Description>
-    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="144">Age of Rebellion Core Rulebook</Source>
+      <Source Page="140">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <DieModifiers>
       <DieModifier>
         <SkillKey>COOL</SkillKey>
@@ -3908,23 +3831,6 @@
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
-    <Key>STIMSPEC</Key>
-    <Name>Stimpack Specialization</Name>
-    <Description>Stimpacks heal 1 additional wound per rank of Stimpack Specialization.</Description>
-    <Custom>DescOnly</Custom>
-    <Ranked>true</Ranked>
-    <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
-  </Talent>
-  <Talent>
     <Key>ITSNOTTHATBAD</Key>
     <Name>It's Not that Bad</Name>
     <Description>Once per session when an ally would suffer a Critical Injury, may take an It's Not That Bad action; make a [B]Hard ([DI][DI][DI]) Medicine check[b] to stop the ally from gaining the Critical Injury.</Description>
@@ -3983,20 +3889,15 @@
     <Key>TACTTRAIN</Key>
     <Name>Tactical Combat Training</Name>
     <Description>Melee and Ranged (Heavy) become career skills.</Description>
-    <Source>Age of Rebellion Core Rulebook</Source>
-    <Custom>DescOnly</Custom>
+    <Source Page="158">Age of Rebellion Core Rulebook</Source>
+    <Custom>CustomItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
     <ChooseCareerSkills>
       <NewSkills>
         <Key>MELEE</Key>
         <Key>RANGHVY</Key>
       </NewSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
+      <Type />
     </ChooseCareerSkills>
     <Activation>Passive</Activation>
   </Talent>
@@ -4004,20 +3905,15 @@
     <Key>VEHTRAIN</Key>
     <Name>Vehicle Combat Training</Name>
     <Description>Gunnery and Piloting (Planetary) become career skills.</Description>
-    <Source>Age of Rebellion Core Rulebook</Source>
-    <Custom>DescOnly</Custom>
+    <Source Page="159">Age of Rebellion Core Rulebook</Source>
+    <Custom>CustomItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
     <ChooseCareerSkills>
       <NewSkills>
         <Key>GUNN</Key>
         <Key>PILOTPL</Key>
       </NewSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
+      <Type />
     </ChooseCareerSkills>
     <Activation>Passive</Activation>
   </Talent>
@@ -4577,18 +4473,13 @@
     <Key>ENCWORD</Key>
     <Name>Encouraging Words</Name>
     <Description>After an engaged ally fails a check, may suffer 1 strain to assist that ally's next check this encounter as an out of turn incidental.</Description>
-    <Source>Desperate Allies</Source>
-    <Custom>DescOnly</Custom>
-    <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
+    <Sources>
+      <Source Page="33">Desperate Allies</Source>
+      <Source Page="28">Disciples of Harmony</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Activation>OOT Incidental</Activation>
   </Talent>
   <Talent>
     <Key>BLACKMAIL</Key>
@@ -4648,17 +4539,13 @@
     <Key>SLEIGHTMIND</Key>
     <Name>Sleight of Mind</Name>
     <Description>Add [BO] to all Stealth checks unless the opposition is immune to Force powers.</Description>
-    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="156">Age of Rebellion Core Rulebook</Source>
+      <Source Page="152">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <DieModifiers>
       <DieModifier>
         <SkillKey>STEAL</SkillKey>
@@ -4690,18 +4577,10 @@
     <Key>FORCEWILL</Key>
     <Name>Force of Will</Name>
     <Description>Once per session, make one skill check using Willpower rather than the characteristic linked to that skill.</Description>
-    <Source>Age of Rebellion Core Rulebook</Source>
-    <Custom>DescOnly</Custom>
-    <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
+    <Source Page="147">Age of Rebellion Core Rulebook</Source>
+    <Custom>CustomItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Activation>Incidental</Activation>
   </Talent>
   <Talent>
     <Key>VALFACT</Key>
@@ -4861,39 +4740,13 @@
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
-    <Key>INKNOW</Key>
-    <Name>In The Know</Name>
-    <Description>Remove [SE] up to ranks in In the Know from checks to get information from people or disseminate news. Minions NPCs do not realize this character's allegiance in interviews.</Description>
-    <Source>Desperate Allies</Source>
-    <Custom>DescOnly</Custom>
-    <Ranked>true</Ranked>
-    <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
-  </Talent>
-  <Talent>
     <Key>INKNOWIMP</Key>
-    <Name>In The Know (Improved)</Name>
+    <Name>In the Know (Improved)</Name>
     <Description>Once per session, make an [B]opposed Decepetion vs Vigilance[b] check with the difficulty downgraded once per rank of In the Know to have a target NPC believe specific false intelligence.</Description>
-    <Source>Desperate Allies</Source>
-    <Custom>DescOnly</Custom>
-    <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
+    <Source Page="33">Desperate Allies</Source>
+    <Custom>CustomItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <Activation>Action</Activation>
   </Talent>
   <Talent>
     <Key>CUTQUEST</Key>
@@ -5059,19 +4912,14 @@
     <Key>PARRY</Key>
     <Name>Parry</Name>
     <Description>When hit by a melee attack, suffer 3 strain to reduce damage by 2 plus ranks in Parry.</Description>
-    <Source>Force and Destiny Core Rulebook</Source>
-    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="149">Force and Destiny Core Rulebook</Source>
+      <Source Page="35">No Disintegrations</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
     <Ranked>true</Ranked>
-    <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Activation>OOT Incidental</Activation>
   </Talent>
   <Talent>
     <Key>PARRYIMP</Key>
@@ -5094,20 +4942,12 @@
     <Key>REFLECT</Key>
     <Name>Reflect</Name>
     <Description>When hit by a ranged attack, suffer 3 strain to reduce damage by 2 plus ranks in Reflect.</Description>
-    <Source>Force and Destiny Core Rulebook</Source>
-    <Custom>DescOnly</Custom>
+    <Source Page="150">Force and Destiny Core Rulebook</Source>
+    <Custom>CustomItem</Custom>
     <Ranked>true</Ranked>
-    <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
     <ForceTalent>true</ForceTalent>
-    <Activation>Passive</Activation>
+    <Activation>OOT Incidental</Activation>
   </Talent>
   <Talent>
     <Key>DEFTRAIN</Key>
@@ -5244,21 +5084,13 @@
   </Talent>
   <Talent>
     <Key>ONEUNI</Key>
-    <Name>One With The Universe</Name>
+    <Name>One With the Universe</Name>
     <Description>Once per session, mediate, then perform One with the Universe action; make [B]Average ([DI][DI]) Astrogation check[b]. If successful, add [LI] to all Force power checks in next encounter. If successful with [TH], add [DA] instead.</Description>
-    <Source>Force and Destiny Core Rulebook</Source>
-    <Custom>DescOnly</Custom>
-    <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
+    <Source Page="149">Force and Destiny Core Rulebook</Source>
+    <Custom>CustomItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
-    <Activation>Passive</Activation>
+    <Activation>Action</Activation>
   </Talent>
   <Talent>
     <Key>PREEMAVOID</Key>
@@ -5645,18 +5477,13 @@
     <Key>CONDITIONED</Key>
     <Name>Conditioned</Name>
     <Description>Remove [SE] per rank of Conditioned from Athletics and Coordination check. Reduce the damage and strain suffered from falling by 1 per rank of Conditioned.</Description>
-    <Source>Force and Destiny Core Rulebook</Source>
-    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="141">Force and Destiny Core Rulebook</Source>
+      <Source Page="34">Forged in Battle</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <DieModifiers>
       <DieModifier>
         <SkillKey>ATHL</SkillKey>
@@ -6432,17 +6259,12 @@
     <Key>PRECSTR</Key>
     <Name>Precision Strike</Name>
     <Description>When this character inflicts a Critical Injury with a Brawl, Melee, or Lightsaber weapon, may suffer 1 strain to change the result to any [B]Easy ([DI])[b] Critical Injury result.</Description>
-    <Source>Keeping the Peace</Source>
-    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="31">Keeping the Peace</Source>
+      <Source Page="35">No Disintegrations</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>OOT Incidental</Activation>
   </Talent>
   <Talent>
@@ -6570,29 +6392,6 @@
       <SkillChar>
         <SkillKey>COOL</SkillKey>
         <CharKey>CUN</CharKey>
-      </SkillChar>
-    </SkillChars>
-    <Activation>Passive</Activation>
-  </Talent>
-  <Talent>
-    <Key>SORESUTECH</Key>
-    <Name>Soresu Technique</Name>
-    <Description>    When making a Lightsaber skill check, the character may use Intellect instead of Brawn.</Description>
-    <Source>Force and Destiny Core Rulebook</Source>
-    <Custom>AddedItem</Custom>
-    <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <SkillChars>
-      <SkillChar>
-        <SkillKey>LTSABER</SkillKey>
-        <CharKey>INT</CharKey>
       </SkillChar>
     </SkillChars>
     <Activation>Passive</Activation>
@@ -7006,7 +6805,7 @@
     <Name>Freerunning</Name>
     <Description>Suffer 1 strain when making a Move maneuver to move to any location within short range.</Description>
     <Source Page="30">Endless Vigil</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>CustomItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <Activation>Incidental</Activation>
   </Talent>
@@ -7035,7 +6834,7 @@
     <Name>Constant Vigilance</Name>
     <Description>May always use Vigilance when making checks to determine initiative.</Description>
     <Source Page="30">Endless Vigil</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>CustomItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <Activation>Passive</Activation>
   </Talent>
@@ -7382,6 +7181,1484 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>TENACIOUS</Key>
+    <Name>Tenacious</Name>
+    <Description>Upgrade the number of advantages needed to score a critical hit
+against the target a number of times equal to his ranks in Tenacious. Also, reduce a Critical Injury result he suffers by 10 per rank of Tenacious</Description>
+    <Source>User Data</Source>
+    <Custom>AddedItem</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>ONCELEARN</Key>
+    <Name>Once A Learner</Name>
+    <Description>As an action, suffer 4 strain and let one ally within short range increase the ally's Force rating by an amount equal to the character's Force rating until the end of the round.</Description>
+    <Sources>
+      <Source Page="29">Disciples of Harmony</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ForceTalent>true</ForceTalent>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>SAVVYNEG</Key>
+    <Name>Savvy Negotiator</Name>
+    <Description>Remove [SE] per rank of Savvy Negotiator from all Negotiation and Streetwise checks.</Description>
+    <Sources>
+      <Source Page="30">Disciples of Harmony</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taPassive</ActivationValue>
+    <DieModifiers>
+      <DieModifier>
+        <SkillKey>NEG</SkillKey>
+        <SetbackCount>1</SetbackCount>
+      </DieModifier>
+      <DieModifier>
+        <SkillKey>SW</SkillKey>
+        <SetbackCount>1</SetbackCount>
+      </DieModifier>
+    </DieModifiers>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>WISEWARIMP</Key>
+    <Name>Wise Warrior (Improved)</Name>
+    <Description>When performing the Wise Warrior incidental, one ally at short range may use the same characteristic for the next combat check the ally makes before the end of the character's next turn.</Description>
+    <Sources>
+      <Source Page="30">Disciples of Harmony</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>WISEWAR</Key>
+    <Name>Wise Warrior</Name>
+    <Description>When making a combat check, may perform the Wise Warrior incidental; spend 1 Destiny Point and use any characteristic for the check.</Description>
+    <Sources>
+      <Source Page="30">Disciples of Harmony</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>SUNDERIMP</Key>
+    <Name>Sunder (Improved)</Name>
+    <Description>Each [AD] spent to activate a weapon's Sunder quality damages an item two steps, instead of one.</Description>
+    <Sources>
+      <Source Page="30">Disciples of Harmony</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>SKILLEDTEACH</Key>
+    <Name>Skilled Teacher</Name>
+    <Description>If an ally at short range has lower ranks in a skill than the character, the character may perform a Skilled Teacher incidental to suffer a number of strain no greater than ranks of Skilled Teacher, then add an equal number of [SU] to ally's next check.</Description>
+    <Sources>
+      <Source Page="30">Disciples of Harmony</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Activation>OOT Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>SAVVYNEGIMP</Key>
+    <Name>Savvy Negotiator (Improved)</Name>
+    <Description>Make a [B]Hard ([DI] [DI] [DI]) Negotiation check[b] to convince one bystander per rank of Savvy Negotiator to see one of an opponent's points as maliciously unreasonable.</Description>
+    <Sources>
+      <Source Page="30">Disciples of Harmony</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>CRUCPOINT</Key>
+    <Name>Crucial Point</Name>
+    <Description>Once per session, the character may introduce to negotiations and one potential concession that an opponent will do nearly anything to obtain.</Description>
+    <Sources>
+      <Source Page="28">Disciples of Harmony</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>MEDTRANCE</Key>
+    <Name>Meditative Trance</Name>
+    <Description>When suffocaring (see [B]Force and Destiny[b] Core Rulebook, page 221), the character suffers 1 strain each round instead of 3. When exposed to vacuum, the character suffers 1 wound each round instead of 3.</Description>
+    <Sources>
+      <Source Page="29">Disciples of Harmony</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ForceTalent>true</ForceTalent>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>NOWMAST</Key>
+    <Name>Now the Master</Name>
+    <Description>Once per session, choose one talent or Force power that any character in the current encounter possesses. Gain that talent or Force power until the end of the encounter.</Description>
+    <Sources>
+      <Source Page="29">Disciples of Harmony</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>MINDBLEED</Key>
+    <Name>Mind Bleed</Name>
+    <Description>When attacked, the character may choose to suffer strain no greater than the number of wounds suffered from the attack. If he does so, the attacker then suffers a number of wounds equal to the strain suffered by the chartacter.</Description>
+    <Sources>
+      <Source Page="29">Disciples of Harmony</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <ForceTalent>true</ForceTalent>
+    <Conflict>1</Conflict>
+    <Activation>OOT Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>EMPTYSOUL</Key>
+    <Name>Empty Soul</Name>
+    <Description>If the character is carrying items that total 2 encumbrance or less add [LI] [DA] to Force power checks.</Description>
+    <Sources>
+      <Source Page="28">Disciples of Harmony</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ForceTalent>true</ForceTalent>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>IRONSOUL</Key>
+    <Name>Iron Soul</Name>
+    <Description>When carrying items that total 2 encumbrance or less, at the end of each encounter heal all strain the character is suffering.</Description>
+    <Sources>
+      <Source Page="28">Disciples of Harmony</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>GOWITHOUT</Key>
+    <Name>Go Without</Name>
+    <Description>Once per session, the character counts as having the right tools for the job when making a skill check.</Description>
+    <Sources>
+      <Source Page="28">Disciples of Harmony</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>AGGRNEG</Key>
+    <Name>Aggressive Negotiations</Name>
+    <Description>Once per session perform a [B]Hard ([DI] [DI] [DI]) Lightsaber check[b] to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2.</Description>
+    <Sources>
+      <Source Page="28">Disciples of Harmony</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ForceTalent>true</ForceTalent>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>SORESUTECH</Key>
+    <Name>Soresu Technique</Name>
+    <Description>    When making a Lightsaber skill check, the character may use Intellect instead of Brawn.</Description>
+    <Source>Force and Destiny Core Rulebook</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <SkillChoice>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </SkillChoice>
+    <ChooseCareerSkills>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <SkillChars>
+      <SkillChar>
+        <SkillKey>LTSABER</SkillKey>
+        <CharKey>INT</CharKey>
+      </SkillChar>
+    </SkillChars>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>COMBATPROG</Key>
+    <Name>Combat Programming</Name>
+    <Description>Once per encounter make a [B]Hard ([DI][DI][DI]) Computers check[b] while repairing or working on a droid. For the remainder of the encounter, the droid gains 1 rank in two different combat skills.</Description>
+    <Sources>
+      <Source Page="30">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>CONSTSPEC</Key>
+    <Name>Construction Specialist</Name>
+    <Description>Remove [SE] equal to ranks in Construction Specialist from checks to construct defenses, positions, fortifications, and similar projects.</Description>
+    <Sources>
+      <Source Page="30">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taPassive</ActivationValue>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>CREATDES</Key>
+    <Name>Creative Design</Name>
+    <Description>As part of resolving a successful crafting check, the character may also apply a result equivalent to spending a number of [AD] equal to his ranks in Creative Design. The GM may then apply a result equivalent to spending that same number of [TH].</Description>
+    <Sources>
+      <Source Page="30">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taPassive</ActivationValue>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>DESPREP</Key>
+    <Name>Desperate Repairs</Name>
+    <Description>Once per session may make a [B]Hard ([DI][DI][DI]) Mechanics check[b] on one engaged allied droid. If successful, the droid becomes immobilized and staggered for 1 round, then heals all strain and one Critical Injury with a severity rating no greater than [B]Hard ([DI][DI][DI])[b].</Description>
+    <Sources>
+      <Source Page="30">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>DESFLAW</Key>
+    <Name>Design Flaw</Name>
+    <Description>When making a combat check with a personal scale weapon against a droid, may add [AD] equal to ranks of Design Flaw.</Description>
+    <Sources>
+      <Source Page="30">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>DOCKEXP</Key>
+    <Name>Dockyard Expertise</Name>
+    <Description>May make an [B]Average ([DI][DI]) Knowledge (Education) check[b] when at a space dock, if successful, the cost and time for repairs is reduced by 25% per rank of Dockyard Expertise.</Description>
+    <Sources>
+      <Source Page="30">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taAction</ActivationValue>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>IMPDEF</Key>
+    <Name>Improvised Defenses</Name>
+    <Description>May make an [B]Average ([DI][DI]) Survival check[b] to fashion small defenses. It providing cover for up to 4 characters for the rest of encounter.</Description>
+    <Sources>
+      <Source Page="30">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>IMPPOS</Key>
+    <Name>Improvised Position</Name>
+    <Description>The character may make a [B]Hard ([DI][DI][DI]) Mechanics check[b] to construct a secure position. This provides cover for the group and its vehicles.</Description>
+    <Sources>
+      <Source Page="31">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>MASTDEMO</Key>
+    <Name>Master Demolitionist</Name>
+    <Description>When resolving an attack from a personal explosive or ordnance weapon, may spend [AD] or [TR] to have the weapon's Blast quality act at short range, or medium if it already acts at short.</Description>
+    <Sources>
+      <Source Page="31">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>PUSHSPEC</Key>
+    <Name>Push the Specs</Name>
+    <Description>Perform the Push the Specs action when in a starship or vehicle, making an [B]Average ([DI][DI]) Knowledge (Education) check[b]. With success, the ship's top speed increases by 1 for a number of rounds equal to the characters Intellect.</Description>
+    <Sources>
+      <Source Page="31">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>REPPATCHSPEC</Key>
+    <Name>Repair Patch Specialization</Name>
+    <Description>Whenever using an emergency repair patch, the target heals an additional wound per rank of Repair Patch Specialization.</Description>
+    <Sources>
+      <Source Page="31">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taPassive</ActivationValue>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>SMARTHAND</Key>
+    <Name>Smart Handling</Name>
+    <Description>Once per session, take the Smart Handling action; making a [B]Hard ([DI][DI][DI]) Knowledge (Education) check[b]. Until the start of the next round the ship's handling increases by 2 plus an amount equal to [AD] scored on the check to a maximum handling of +4.</Description>
+    <Sources>
+      <Source Page="31">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>WEAKFOUND</Key>
+    <Name>Weak Foundation</Name>
+    <Description>Once per session may take the Weak Foundation action; make a [B]Hard ([DI][DI][DI]) Knowledge (Warfare) check[b], if successful, for the remainder of the encounter the character and all allies add automatic [AD][AD] or [SU] to all combat checks made targeting the identified fixed structure.</Description>
+    <Sources>
+      <Source Page="31">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>ACKLAY</Key>
+    <Name>Acklay's Scything Strike</Name>
+    <Description>Brawl attacks gain Pierce equal to Force rating.
+</Description>
+    <Source Page="30">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>IMPDODGE</Key>
+    <Name>Dodge (Improved)</Name>
+    <Description>After using Dodge, can make a Move maneuver as an out-of-turn incidental.</Description>
+    <Source Page="30">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>FARSTRIKE</Key>
+    <Name>Far Strike</Name>
+    <Description>As an action, make a Brawl check as a ranged attack, adding [FO] up to Force rating, increase the range of the attack by one band for each [FP] spent, to a maximum of long.</Description>
+    <Source Page="30">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>HEADBUTT</Key>
+    <Name>Headbutt</Name>
+    <Description>Perform Headbutt incidental, suffering 2 wounds to knock down and disorient enemy.</Description>
+    <Source Page="30">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>INDWILL</Key>
+    <Name>Indomitable Will</Name>
+    <Description>Once per encounter as a maneuver, suffer 3 strain to commit [FO] up to Force rating and reduce all damage suffered by an equal amount, but suffer 1 strain per turn.</Description>
+    <Source Page="30">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taManeuver</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <Activation>Maneuver</Activation>
+  </Talent>
+  <Talent>
+    <Key>INPEACE</Key>
+    <Name>Inner Peace</Name>
+    <Description>Once per encounter, convert a number of dark side Destiny Points equal to ranks in Inner Peace to light side Destiny Points and reduce Conflict gained this session.</Description>
+    <Source Page="31">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>JUYOSAV</Key>
+    <Name>Juyo Savagery</Name>
+    <Description>Enter description for Talent "Juyo Savagery" here.
+</Description>
+    <Source Page="31">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <Conflict>1</Conflict>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>PWRPAIN</Key>
+    <Name>Power from Pain</Name>
+    <Description>Once per session as an incidental, may spend 1 Destiny Point to gain +1 Force rating for each Critical Injury character is suffering until the end of the encounter.</Description>
+    <Source Page="31">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <Conflict>1</Conflict>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>SAPITHSUND</Key>
+    <Name>Sapith Sundering</Name>
+    <Description>May add [FO] up to Force rating to Brawl checks; the attack gains the Sunder quality, and character may spend [FP] generated one the check as [AD] to activate the Sunder quality.
+</Description>
+    <Source Page="31">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>IMPTOUGH</Key>
+    <Name>Toughened (Improved)</Name>
+    <Description>Once per session, may heal wounds equal to ranks in Toughened,</Description>
+    <Source Page="31">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>VAAPADCON</Key>
+    <Name>Vaapad Control</Name>
+    <Description>When making a Lightsaber combat check, the character may suffer 1 strain to downgrade the difficulty of this check a number of times equal to the number of light side Destiny Points in the Destiny pool.</Description>
+    <Source Page="31">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>EMBHATE</Key>
+    <Name>Embrace Your Hate</Name>
+    <Description>May spend 1 Destiny Point and suffer Conflict equal to dark side Destiny Points in pool to add equal damage to melee attack. May use this ability once per encounter per rank.</Description>
+    <Source Page="30">Knights of Fate</Source>
+    <Custom>AddedItem</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <Conflict>1</Conflict>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>ALCHARTS</Key>
+    <Name>Alchemical Arts</Name>
+    <Description>After making a check to craft a potion or talisman, may suffer strain up to twice ranks in Alchemical Arts. For every two strain, add [LI] or [DA] to results.</Description>
+    <Source Page="32">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>BLOIMP</Key>
+    <Name>Blooded (Improved)</Name>
+    <Description>As an action, make a [B]Hard ([DI][DI][DI]) Resilience check[b] to immediately recover from all poisons and side-effects of drugs. Reduce difficulty once per rank of Blooded.</Description>
+    <Source Page="32">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>CHANAG</Key>
+    <Name>Channel Agony</Name>
+    <Description>After rolling [FO], may suffer wounds up to twice ranks in Channel Agony to add automatic [DA] for every two wounds suffered to the results.</Description>
+    <Source Page="32">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <Conflict>1</Conflict>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>FONTPOW</Key>
+    <Name>Font of Power</Name>
+    <Description>Once per session, may take the Font of Power action. Until the end of the encounter, characters within medium range add automatic [LI] or [DA] to checks based on alignment.</Description>
+    <Source Page="32">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>IDENING</Key>
+    <Name>Identify Ingredients</Name>
+    <Description>After being exposed to a substance, as an out-of-turn incidental, may roll [FO] no greater than Force rating. Spend [FP][FP] to immediately identify its composition and effects.
+</Description>
+    <Source Page="32">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <Activation>OOT Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>IMPCONC</Key>
+    <Name>Improvised Concoction</Name>
+    <Description>Once per session, as an action, make a [B]Hard ([DI][DI][DI]) Knowledge (Xenology) check[b], adding [FO] no greater than Force rating to create 1 dose of a poison or drug with rarity of Intellect + [SU] + [FP] spent or lower.
+</Description>
+    <Source Page="32">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>OVERAURA</Key>
+    <Name>Overwhelming Aura</Name>
+    <Description>Commit [FO]. Add [AD] to social checks equal to [FO] committed. Add [TH] to equal [FO] commited to enemy social checks in short range.
+</Description>
+    <Source Page="33">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taManeuver</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <Activation>Maneuver</Activation>
+  </Talent>
+  <Talent>
+    <Key>IMPOVERAURA</Key>
+    <Name>Overwhelming Aura (Improved)</Name>
+    <Description>Characters affected by Overwhelming Aura add automatic [FA] to fear checks the character causes and automatic [SU] to fear checks not caused by the character.
+</Description>
+    <Source Page="33">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>POWDARK</Key>
+    <Name>Power of Darkness</Name>
+    <Description>Once per session, may perform the Power of Darkness maneuver. Increase wound threshold and strain threshold by 1 per Dark Side Destiny point currently in the Destiny pool until the end of the encounter.
+</Description>
+    <Source Page="33">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taManeuver</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <Conflict>1</Conflict>
+    <Activation>Maneuver</Activation>
+  </Talent>
+  <Talent>
+    <Key>SECLORE</Key>
+    <Name>Secret Lore</Name>
+    <Description>Remove [SE] per rank or Secret Lore from all Knowledge (Lore) checks. Reduce the difficulty of all Knowledge (Lore) checks by 1.
+</Description>
+    <Source Page="33">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <DieModifiers>
+      <DieModifier>
+        <SkillKey>LORE</SkillKey>
+        <SetbackCount>1</SetbackCount>
+      </DieModifier>
+    </DieModifiers>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>TRANSMOG</Key>
+    <Name>Transmogrify</Name>
+    <Description>When making a crafting check, may add [FO] no greater than Force rating. Spend [FP] to add [SU] and spend [FP][FP] to add [AD] to check.</Description>
+    <Source Page="33">Unlimited Power</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>ALTDEAL</Key>
+    <Name>Altered Deal</Name>
+    <Description>Once per session may take the Altered Deal action and make [B]Hard ([DI][DI][DI]) Coercion check[b] to radically change a previously made deal or bargain to the character's advantage.
+</Description>
+    <Source Page="111">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>COMBATVET</Key>
+    <Name>Combat Veteran</Name>
+    <Description>The character adds [BO] to his Brawl and Discipline checks equal to his ranks in Combat Veteran.</Description>
+    <Source Page="111">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <DieModifiers>
+      <DieModifier>
+        <SkillKey>BRAWL</SkillKey>
+        <BoostCount>1</BoostCount>
+      </DieModifier>
+      <DieModifier>
+        <SkillKey>DISC</SkillKey>
+        <BoostCount>1</BoostCount>
+      </DieModifier>
+    </DieModifiers>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>COMARMS</Key>
+    <Name>Comrades in Arms</Name>
+    <Description>Once per encounter, take Comrades in Arms action and make a [B]Hard ([DI][DI][DI]) Discipline check[b]. If successful, the character plus one ally per [SU] within medium range gains +1 defense for the remainder of the encounter.</Description>
+    <Source Page="111">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>IMPCOMARMS</Key>
+    <Name>Comrades in Arms (Improved)</Name>
+    <Description>Spend [AD][AD][AD] or [TR] from Comrades in Arms check to also gain +1 soak or give one affected ally +1 soak.
+</Description>
+    <Source Page="111">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>DISCLORE</Key>
+    <Name>Disciple of Lore</Name>
+    <Description>Once per round, may suffer 1 strain to decrease the difficulty of nest Knowledge (Lore) check a number of times equal to ranks in Disciple of Lore.</Description>
+    <Source Page="112">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>DISCSOUL</Key>
+    <Name>Disciplined Soul</Name>
+    <Description>Spend one Destiny Point after making a Discipline check to spend a number of [TH] not exceeding ranks in Knowledge (Lore) as [AD].
+</Description>
+    <Source Page="112">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>DISSTRIKE</Key>
+    <Name>Disorienting Strike</Name>
+    <Description>After failing a Lightsaber combat check, may spend [AD][AD] or [TR] to disorient opponents for three rounds.
+</Description>
+    <Source Page="112">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>DOUBLETALK</Key>
+    <Name>Double-Talk</Name>
+    <Description>The character may spend [AD][AD] or [TR] from a successful Charm or Deception check to disorient a number of opponents within short range equal to his Presence for remainder of round and next two rounds.
+</Description>
+    <Source Page="112">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>EXTREACH</Key>
+    <Name>Extended Reach</Name>
+    <Description>While armed with a two-handed melee weapon, may suffer one strain to make a Melee combat check with that weapon targeting an enemy at up to short range (rather than engaged range).
+</Description>
+    <Source Page="112">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>FEARREP</Key>
+    <Name>Fearsome Rep</Name>
+    <Description>Add automatic [AD] to the results of Coercion checks equal to ranks in Fearsome Rep.</Description>
+    <Source Page="112">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <DieModifiers>
+      <DieModifier>
+        <SkillKey>COERC</SkillKey>
+        <AdvantageCount>1</AdvantageCount>
+      </DieModifier>
+    </DieModifiers>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>FORMTAC</Key>
+    <Name>Formation Tactics</Name>
+    <Description>May take the Formation Tactics action by making a [B]Hard ([DI][DI][DI]) Leadership check[b]. If successful, he may choose a number of allies within short range equal to [SU] generated. Upgrade the difficulty of attacks against these allies once until the end of his next turn.
+</Description>
+    <Source Page="112">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>IMPFORMTAC</Key>
+    <Name>Formation Tactics (Improved)</Name>
+    <Description>The difficulty of Formation Tactics is reduced to [B]Average ([DI][DI])[b]. May spend [TR] or [AD][AD][AD][AD][AD][AD] to have effect last until the end of encounter.</Description>
+    <Source Page="113">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taManeuver</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Maneuver</Activation>
+  </Talent>
+  <Talent>
+    <Key>INSPLEAD</Key>
+    <Name>Inspiring Leadership</Name>
+    <Description>Take the Inspiring Leadership action by making an [B]Average ([DI][DI]) Leadership check[b]. If successful, a number of allies not exceeding his rating in Presence within short range add automatic [SU] to their next skill check.</Description>
+    <Source Page="113">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>MOSTIMP</Key>
+    <Name>Most Impressive</Name>
+    <Description>Spend [TR] from any skill check to allow a number of alies not exceeding the character's rating in Presence within short range to add automatic [AD] to their next check.
+</Description>
+    <Source Page="113">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>PERSTARGET</Key>
+    <Name>Persistent Targeting</Name>
+    <Description>After making one or more successful combat checks against a target, add [BO] to combat checks against that same target for the remainder of the encounter.
+</Description>
+    <Source Page="114">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>PRIDEJOY</Key>
+    <Name>Pride and Joy</Name>
+    <Description>Choose one starship or vehicle character owns with a silhouette or 4 or higher; it becomes his 'Pride and Joy' vessel. He upgrades the ability of all social skill checks he makes while within short range of the vessel once.
+</Description>
+    <Source Page="115">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>IMPPRIDEJOY</Key>
+    <Name>Pride and Joy (Improved)</Name>
+    <Description>While inside his Pride and Joy vessel, recover 1 additional strain whenever recovering strain and spend [AD] on checks made to recover strain to allow an ally also within the vessel to recover one strain.
+</Description>
+    <Source Page="115">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>SUPPRIDEJOY</Key>
+    <Name>Pride and Joy (Supreme)</Name>
+    <Description>When inside his Pride and Joy vessel, once per session as an incidental, the character may reduce its silhouette by 2 (to a minimum of 0) for the remainder of the round and the following round.
+</Description>
+    <Source Page="115">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>PUSHASIDE</Key>
+    <Name>Push Aside</Name>
+    <Description>After making a successful Melee, Brawl, or Lightsaber combat check against an engaged foe, may force the foe to move to short range in a direction of the opponent's choosing. Spend [TR] to cause the opponent to fall prone after moving.</Description>
+    <Source Page="115">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>SEENTHINGS</Key>
+    <Name>Seen A Lot of Things</Name>
+    <Description>Whenever the character fails a Knowledge check, he may spend [AD][AD][AD] to roll the check again during his next turn.
+</Description>
+    <Source Page="115">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>STEADYAIM</Key>
+    <Name>Steady Aim</Name>
+    <Description>The character does not lose the benefits of the Aim maneuver if he performs other maneuvers (including moving) or actions. He does lose the benefits of the Aim maneuver if the encounter ends.</Description>
+    <Source Page="116">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>TARGFIRE</Key>
+    <Name>Targeted Firepower</Name>
+    <Description>Once per session may take Targeted Firepower action; identify one enemy target and make a [B]Hard ([DI][DI][DI]) Knowledge (Warfare) check[b]. If successful, for the rest of the encounter allies within short range of character add [AD] to attacks against target equal to [SU] gained in the check.</Description>
+    <Source Page="116">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>TEMPTRAIN</Key>
+    <Name>Temple Training</Name>
+    <Description>Before making a Lightsaber skill check, the character may spend one Destiny Point to add damage to the attack equal to his ranks in Knowledge (Lore).</Description>
+    <Source Page="116">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <ForceTalent>true</ForceTalent>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>TRUSTNO</Key>
+    <Name>Trust No One</Name>
+    <Description>When targeted by a social check, may choose to suffer one strain to add automatic [FA] to the check. If the check fails with [DE], the character may immediately perform a maneuver as an out-of-turn incidental.
+</Description>
+    <Source Page="116">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>OOT Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>BYBOOK</Key>
+    <Name>By the Book</Name>
+    <Description>Once per encounter before making a combat check, the character may suffer two strain to add [AD] to the results equal to his ranks in By the Book.
+</Description>
+    <Source Page="111">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>IMPSECRETJEDI</Key>
+    <Name>Secrets of the Jedi (Improved)</Name>
+    <Description>Discipline becomes a career skill. Secrets of the Jedi may also be used when installing mods on lightsabers.</Description>
+    <Source Page="115">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <NewSkills>
+        <Key>DISC</Key>
+      </NewSkills>
+      <Type />
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>SECRETJEDI</Key>
+    <Name>Secrets of the Jedi</Name>
+    <Description>Lightsaber becomes a career skill. He may also decrease to difficulty of checks made to construct or repair lightsaber hilts a number of times equal to half his ranks in Knowledge (Lore) (rounded up), to a minimum of [B]Easy ([DI])[b].
+</Description>
+    <Source Page="115">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <NewSkills>
+        <Key>LTSABER</Key>
+      </NewSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>KNOWROPES</Key>
+    <Name>Knows the Ropes</Name>
+    <Description>Add [BO] to checks made to escape from restraints equal to ranks in Knowledge (Underworld). Spend [TR] to free all other allies withing short range.</Description>
+    <Source Page="113">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>KNOWENEMY</Key>
+    <Name>Know the Enemy</Name>
+    <Description>The character may use Knowledge (Warfare) skill when making checks to determine Initiative.</Description>
+    <Source Page="113">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>ASFORCEWILLS</Key>
+    <Name>As the Force Wills It</Name>
+    <Description>May make an [B]Easy ([DI]) Knowledge (Lore) check[b] to heal strain at the end of an encounter. [TR] can be spent to heal all strain.
+</Description>
+    <Source Page="111">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>TRUSTCAP</Key>
+    <Name>Trust the Captain</Name>
+    <Description>May take the Trust the Captain action by making a [B]Hard ([DI][DI][DI]) Leadership check[b]. If successful, for the rest of the encounter allies within short range increase their ranks in Discipline by an amount equal to ranks in Trust the Captain.</Description>
+    <Source Page="116">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>STIMSPEC</Key>
+    <Name>Stimpack Specialization</Name>
+    <Description>Stimpacks heal 1 additional wound per rank of Stimpack Specialization.</Description>
+    <Sources>
+      <Source Page="157">Age of Rebellion Core Rulebook</Source>
+      <Source Page="152">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taPassive</ActivationValue>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>PREPBOARD</Key>
+    <Name>Prepare to be Boarded!</Name>
+    <Description>Once per encounter may take Prepare to be Boarded! action and make [B]opposed Coercion vs. Discipline check[b] against enemy ship captain. If successful, the enemy suffers 1 strain per uncancelled [SU] and surrenders ship if he exceeds strain threshold. May also spend [TR] or [AD][AD][AD][AD] to inflict strain equal to ranks in Coercion.</Description>
+    <Source Page="115">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>HIDDIMP</Key>
+    <Name>Hidden Storage (Improved)</Name>
+    <Description>The character may use Hidden Storage to store an item within his own suitably modified body.</Description>
+    <Source Page="30">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>BADCOP</Key>
+    <Name>Bad Cop</Name>
+    <Description>May spend [AD][AD] from a Deception or Coercion check to upgrade ability of a single ally's subsequent Social Interaction check against the target a number of times equal to ranks in Bad Cop.</Description>
+    <Source Page="32">Far Horizons</Source>
+    <Custom>CustomItem</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taPassive</ActivationValue>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>ASTEPAHEAD</Key>
+    <Name>A Step Ahead</Name>
+    <Description>Once per session, the character may suffer 2 strain in order to count his Cunning as one higher than normal for the remainder of the encounter.</Description>
+    <Source Page="30">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>ANALYZEDATA</Key>
+    <Name>Analyze Data</Name>
+    <Description>Once per session after capturing enemy data, the character may perfom the Analyze Data action to make an [B]Average ([DI][DI]) Knowledge (Warfare) check[b]. Once during the remainder of session he may then add [SU] equal to ranks in Knowledge (Warfare) to one check related to that data.</Description>
+    <Source Page="30">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>CUNNINGPERSONA</Key>
+    <Name>Cunning Persona</Name>
+    <Description>The character may suffer 2 strain to perform a Charm check with Cunning instead of Presence.</Description>
+    <Source Page="30">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>EXHAUSTQUEST</Key>
+    <Name>Exhaustive Questioning</Name>
+    <Description>Whenever a character makes a successful social skill check against a captured enemy within short range, may reduce that enemy’s strain threshold by 2 for the remainder of the session and can spend [AD] to inflict 1 strain.</Description>
+    <Source Page="30">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>INCDIST</Key>
+    <Name>Incite Distraction</Name>
+    <Description>While in a crowd, may perform the Incite Distraction action to make an [B]Average ([DI][DI]) Deception check[b]. If successful, enemies treat the area as difficult terrain. The character may spend [TR] to make the location impassable terrain to them instead.</Description>
+    <Source Page="30">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>INDISIMP</Key>
+    <Name>Indistinguishable (Improved)</Name>
+    <Description>The character may extend the effects of Indistinguishable to a number of allied within short range equal to ranks in Deception.</Description>
+    <Source Page="30">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>INKNOW</Key>
+    <Name>Inside Knowledge</Name>
+    <Description>Once per session while in an enemy facility or vessel, may perform the Inside Knowledge action, make a [B]Hard ([DI][DI][DI]) Skulduggery check[b]. Character may then find a single personal scale item with a rarity no greater than Cunning plus 2 previously stashed here, or gain a narrative benefit.</Description>
+    <Source Page="30">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>INPER</Key>
+    <Name>Inside Person</Name>
+    <Description>Once per session the character may spend a Destiny Point to establish he has been undercover in an identified enemy base or large vehicle. For the remainder of the session, add automatic [AD][AD] to checks he or his allies make that are associated with that location.</Description>
+    <Source Page="31">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>KNOWEAK</Key>
+    <Name>Know Their Weakness</Name>
+    <Description>Once per session, may perform the Know Their Weakness action and choose one target within close range; make a [B]Hard ([DI][DI][DI]) Perception check[b] to downgrade the difficulty of social skill checks against target once per rank of Know Their Weakness until the end of the session.</Description>
+    <Source Page="31">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taAction</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>KNOWWEAKIMP</Key>
+    <Name>Know Their Weakness (Improved)</Name>
+    <Description>The character may extend the effects of Know Their Weakness to a number of enemies within short range equal to his Presence.</Description>
+    <Source Page="31">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>LOSETHEM</Key>
+    <Name>Lose Them</Name>
+    <Description>When being followed or chased, the character may perform the Lose Them action and make a [B]Hard ([DI][DI][DI]) Stealth check[b]. If successful, add [SE][SE] to checks to follow him for the remainder of the encounter and may spend [TR] to indicate his pursuers have lost him completely.</Description>
+    <Source Page="31">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>MADEYOUTALK</Key>
+    <Name>Made You Talk</Name>
+    <Description>Once per session, may make an opposed social skill check against a captured enemy character within short range and add [BO] for every 2 strain inflicted on the target that encounter. If successful, the PCs gain a bonus based on the enemy NPC type.</Description>
+    <Source Page="31">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>RESQUEST</Key>
+    <Name>Resist Questioning</Name>
+    <Description>When targeted by an opposed social skill check, the character may suffer 2 strain to perform the Resist Questioning out-of-turn incidental, adding [SE] to the check. If the check fails, may spend [DE] to indicate he has provided false information to foe.</Description>
+    <Source Page="31">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>OOT Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>RESQUESTIMP</Key>
+    <Name>Resist Questioning (Improved)</Name>
+    <Description>When one ally within short range is targeted by an opposed social skill check, the character may perform Resist Questioning to affect this check instead. If the check fails, may spend [DE] to indicate the ally provided false information to foe.</Description>
+    <Source Page="31">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>PILOTTRAIN</Key>
+    <Name>Pilot Training</Name>
+    <Description>Piloting (Planetary) and Piloting (Space) become career skills.</Description>
+    <Source Page="31">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <NewSkills>
+        <Key>PILOTPL</Key>
+        <Key>PILOTSP</Key>
+      </NewSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
     <Activation>Passive</Activation>
   </Talent>
 </Talents>

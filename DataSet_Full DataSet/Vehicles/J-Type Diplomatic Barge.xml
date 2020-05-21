@@ -9,6 +9,9 @@ The J-type vessels produced by Nubia Star Drives, Incorporated began as a collab
 [P]The J-type diplomatic barge is just under 40 meters in length, but its expansive 91-meter wingspan greatly increases its profile. The craft's amenities, including luxurious passenger cabins, are located in a central envelope between the wings, while reinforced shield generators and powerful engines take up the bulk of the external space. Completely unarmed to better convey an air of diplomacy and peace, the vessel features speed and shielding capable of protecting its crew against most threats.</Description>
   <Source>Desperate Allies</Source>
   <Custom>DescOnly</Custom>
+  <BuiltInAttachments>
+    <Key>LUXPASSCOMP</Key>
+  </BuiltInAttachments>
   <Type>Barge</Type>
   <Categories>
     <Category>Starship</Category>
@@ -34,8 +37,5 @@ The J-type vessels produced by Nubia Star Drives, Incorporated began as a collab
   <HullTrauma>36</HullTrauma>
   <SystemStrain>18</SystemStrain>
   <Starship>true</Starship>
-  <BuiltInAttachments>
-    <Key>LUXPASSCOMP</Key>
-  </BuiltInAttachments>
   <SensorRange>Close</SensorRange>
 </Vehicle>

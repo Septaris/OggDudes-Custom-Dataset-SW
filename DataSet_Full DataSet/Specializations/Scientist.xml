@@ -12,7 +12,7 @@ With a fraction of the resources and funding of the Empire, the Alliance is cons
 [P]Most Scientists pursue their work in labs, rarely venturing out into the greater galaxy. Their lives are spent on theories and research, pondering the latest mysteries of the universe comfortably away from conflict and strife. Some Scientists, however, seek the satisfaction of bringing their theories and their ideas into the galaxy in order to help others. They design solutions, help create of the technology to implement those solutions, and actively test and use those solutions alongside others who are also trying to help make life better.
 
 [P]Though Alliance officials prefer to keep Scientists in the rear echelons, as far away from danger and risk as possible, there are more than a few who insist on being the ones to test their new devices directly in the held. Further, some Scientists sign on with the Rebellion for the express purpose of taking the fight to the Empire; they're just as prepared to fire a blaster at a stormtrooper as they are to devise a way to improve the power flow for that blaster to do more damage.</Description>
-  <Source>Age of Rebellion Core Rulebook</Source>
+  <Source Page="87">Age of Rebellion Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>COMP</Key>

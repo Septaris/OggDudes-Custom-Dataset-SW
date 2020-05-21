@@ -9,7 +9,7 @@ If the Marauder is the melee master, and the Bodyguard is the all-around weapons
 [P]Mercenary Soldiers are the most likely to have come from prior service with a larger organization, and they almost certainly had at least a non-commissioned officer role with that force. They have a keen grasp of both tactics and strategy, though they will tend to focus more on the former as a Matter of practicality and survival. Even in less formal situations, a Mercenary Soldier will tend to show a high degree of personal discipline and order. 
 
 [P]In a Player Character group, it will not be out of the question for a Mercenary Soldier to take charge, at least in situations where combat is likely. Though his leadership skills are not as comprehensive as other specializations, they are uniquely focused for combat.</Description>
-  <Source>Edge of the Empire Core Rulebook</Source>
+  <Source Page="79">Edge of the Empire Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>DISC</Key>

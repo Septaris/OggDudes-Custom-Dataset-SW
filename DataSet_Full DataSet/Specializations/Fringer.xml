@@ -11,7 +11,7 @@
 [P]Many Fringers are excellent pilots, some rivaling even Smugglers in terms of talent. They are also highly prized for their ability to navigate ships through the unknown ranges of the Outer Rim. Fringers can also be tough, wiry, and nimble, surprising any would-be assailant with their ability to avoid getting hit and avoid getting caught. 
 
 [P]A Player Character Fringer stands a good chance of being either the primary or secondary pilot for a group; he'll certainly be the likely choice for handling astrogation duties. He may also be the one the group turns to when it comes to dealing with employers, or finding a job in the first place. If someone needs to go into a starport or town to handle business, the Fringer should definitely be a part of that excursion.</Description>
-  <Source>Edge of the Empire Core Rulebook</Source>
+  <Source Page="71">Edge of the Empire Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>ASTRO</Key>

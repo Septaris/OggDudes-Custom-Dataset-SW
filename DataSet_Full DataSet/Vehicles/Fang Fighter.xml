@@ -2,12 +2,13 @@
 <Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Key>FANGFIGHT</Key>
   <Name>Fang Fighter</Name>
-  <Description>[H3]Mandalorian Protectorate Fang Fighter[h3]
-The designers of the Mandalorian Protectorate starfighter, or Fang fighter, consider it to be the pinnacle of space fighters, building on the tradtion of the much larger Guantlet fighter. Instead of acting as a heavy fighter and transport like its older sibling, however, the Fang fighter is a precision strike fighter used by the Concord Dawn Protectors, a militia are known and feared throughout the Mandalorian sector. Flown by some of the best pilots in the secotr, the Fang fighter is a common sight both in the Concord Dawn system and throughout the sector.
-[P]An elegent, broad-shouldered starfighter with an aggressive look, the Fang fighter is unlike anything else in its class. With its thin, angular silhoette and cranked-delta planform, there is no mistaking a Fang fighter as it speeds through space. This fuselage is a small, elongated haxagon with a single, massive high-output ion engine dominating the aft section, and a low-profile cnaopy covering the midships-mounted cockpit. Two massive, articulated S-foils—half again as long as the fuselage—are mounted to the fuselage, each one mounting a single huge ion engine and the majority of the ship's weapon systems. The S-foils can rotate, and be raised an lowered through an impressive range of motion which combined with the engines' sophisticated vectored thrust system, advanced flight control systems, and clever use of automated vernier thrusters, make these big fighters shockingly agile.
-[P]The Fang fighter's standard weapons loadout is, at first glance, relatively light. A pair of medium laser cannons mounted in the S-foils makes up the bulk of the fighter's wepaon systems. Mounted in the fighter's belly however, just forward of the cockpit, is a retractable proton torpedo launcher carrying a single torpedo. The torpedo launcher, although it gives the fighter much needed tactical flexiblity and the ability to punch well above its weight, is used sparingly by Protectorate pilots and its presence is not widely known. While they carry no shields, the Fang fighters have a studily built fuselage covered in heavy armor designed to absorb or deflect most incoming ordnance or energy blasts. In addition, the ship's blistering speed and remarkable agility, combinged with its narrow silhoette, make the ship an incredibly hard target to hit.
-[P]Most of these impressive fighters were sold to the Protectorate, but a small handful have made it to the open market in one way or another. The Black Sun Syndicate has resold some of these ships that have made their way away from Concord Dawn Protectors, though these craft remain difficult to track down and thus are in demand among collectors and mercenary pilots alike.</Description>
-  <Source Page="58">No Disintegrations</Source>
+  <Description>[H3]Mandalorian Protectorate "Fang" Starfighter[h3]
+A starfighter used by the Mandalorian Protectors, an elite group of warriors sworn to defend the Concord Dawn system, the Fang fighter is a formidable ship designed specifically for close combat. Featuring wings which pivot around the central cockpit, providing vector thrust control, the Fang is able to perform maneuvers few other fighters are capable of matching. The intimidating ship is armed with wing-mounted laser cannons and a proton torpedo launcher beneath the cockpit.
+[P]The legendary Fenn Rau personally trains all Protectorate fighter pilots, making the combination of pilot and vessel hard for anyone to match in battle.</Description>
+  <Sources>
+    <Source Page="58">No Disintegrations</Source>
+    <Source Page="62">Unlimited Power</Source>
+  </Sources>
   <Custom>DescOnly</Custom>
   <Type>Starfighter</Type>
   <Categories>

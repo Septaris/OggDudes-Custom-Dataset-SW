@@ -7,6 +7,9 @@
 [P]The enormous space slug is presented as a starship profile, but is an independent creature. When rolling for initiative or attacking with its insatiable maw, it rolls a Coordination skill check, counting as having Coordination 3 and Agility 1.</Description>
   <Source>Strongholds of Resistance</Source>
   <Custom>DescOnly</Custom>
+  <BuiltInAttachments>
+    <Key>SPACESLUGRULES</Key>
+  </BuiltInAttachments>
   <Type>Space-dwelling Creature</Type>
   <Categories />
   <SensorRangeValue>srNone</SensorRangeValue>
@@ -17,8 +20,5 @@
   <Armor>10</Armor>
   <HullTrauma>70</HullTrauma>
   <SystemStrain>35</SystemStrain>
-  <BuiltInAttachments>
-    <Key>SPACESLUGRULES</Key>
-  </BuiltInAttachments>
   <SensorRange>No Sensors</SensorRange>
 </Vehicle>

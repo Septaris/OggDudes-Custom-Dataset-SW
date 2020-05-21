@@ -14,22 +14,25 @@ A Soldier's eight career skills are [B]Athletics, Brawl,  Knowledge (Warfare), M
 [P]Administrators and politicians craft policy, commanders dictate how policy is to be implemented, and Soldiers are the tools of that implementation. Most care little for what the actual policy is: for them, the job is to take out the enemy and stay alive (not necessarily in that order). Some Soldiers are more invested in the causes they are fighting for, motivated by the knowledge that they fight for something worthy. 
 
 [P]On the battlefront, behind enemy lines, and across the galaxy, the true heart and soul of the Rebellion is found in the Soldiers who serve beneath its banner. The causes they fight for are justice and freedom from tyranny. The cost of failure is almost certainly death, not only for themselves, but for everyone and everything they love.</Description>
-  <Source>Age of Rebellion Core Rulebook</Source>
-  <Custom>DescOnly</Custom>
+  <Source Page="88">Age of Rebellion Core Rulebook</Source>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>ATHL</Key>
     <Key>BRAWL</Key>
-    <Key>WARF</Key>
-    <Key>MELEE</Key>
     <Key>MED</Key>
+    <Key>MELEE</Key>
+    <Key>RANGHVY</Key>
     <Key>RANGLT</Key>
     <Key>SURV</Key>
-    <Key>RANGHVY</Key>
+    <Key>WARF</Key>
   </CareerSkills>
   <Specializations>
     <Key>COMMANDO</Key>
+    <Key>HEAVY</Key>
     <Key>MEDIC</Key>
     <Key>SHARPSHOOTER</Key>
+    <Key>TRAILBLAZER</Key>
+    <Key>VANGUARD</Key>
   </Specializations>
   <Attributes />
   <FreeRanks>4</FreeRanks>

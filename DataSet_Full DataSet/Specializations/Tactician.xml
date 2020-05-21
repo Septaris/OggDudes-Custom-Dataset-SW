@@ -12,7 +12,7 @@ All of the victories in space, in the air, and even on the ground mean nothing i
 [P]When all is going well, a Tactician tends to be the person the rest of a team grouses about over too much work, monotonous duties, and repeated training. However, when the blaster fire is flying and people are screaming and dying all around, the team looks to the Tactician to lead them, whether it's out of danger or into glory. A Tactician assesses the situation at all times, looking for the best way to accomplish the mission and keep his people alive. His team depends on him for these skills. 
 
 [P]By Alliance philosophy, Tacticians are made, not born. Battlefield promotions happen constantly, for Alliance ground forces suffer the greatest losses constantly. Those who show any capacity for leadership are brought up in rank rapidly when the need calls. Others are cultivated more fully for the most important and dangerous missions. The Alliance is blessed with a high proportion of talented individuals, what it needs are special individuals who can organize and lead them.</Description>
-  <Source>Age of Rebellion Core Rulebook</Source>
+  <Source Page="75">Age of Rebellion Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>BRAWL</Key>

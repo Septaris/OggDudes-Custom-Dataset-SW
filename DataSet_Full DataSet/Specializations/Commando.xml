@@ -12,7 +12,7 @@ Commandos are specialists trained to strike the enemy from unexpected directions
 [P]For any team, a Commando is a fine general-purpose combat specialist to have around. He handles fights well (especially hand-to-hand situations), and can manage in almost any high-stress situation. More often than not, he's also effective as backup during covert operations. Matters of overall philosophy or strategy rarely concern a Commando; he's almost always focused on the mission at hand or training to ensure he and his companions survive the next one. 
 
 [P]As stand-up confrontations are normally a losing proposition for the Alliance, the Commandos are some of the most important and effective soldiers fighting for the Rebellion. Their capacity to surgically strike at Imperial targets, as well as their value as guards and support personnel for other specialists operating on behalf of the Alliance, makes any single one of them worth more than a platoon of stormtroopers.</Description>
-  <Source>Age of Rebellion Core Rulebook</Source>
+  <Source Page="91">Age of Rebellion Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>BRAWL</Key>

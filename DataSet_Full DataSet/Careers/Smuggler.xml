@@ -20,25 +20,26 @@
 [P]Smugglers are a vital part of Outer Rim society. With tariffs, quantity restrictions, and outright banning of even basic necessities being shipped to worlds not fully under Imperial Law, a great many people would be scratching out the poorest sort of existence, or perhaps dying outright due to lack of food and medicine. Smugglers' ships are the lifelines that keep many distant population centers going. 
 
 [P]Of course, the most profitable cargoes are the ones that will land someone in the Kessel spice mines if he's caught with them.</Description>
-  <Source>Edge of the Empire Core Rulebook</Source>
-  <Custom>DescOnly</Custom>
+  <Source Page="80">Edge of the Empire Core Rulebook</Source>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>COORD</Key>
     <Key>DECEP</Key>
-    <Key>UND</Key>
     <Key>PERC</Key>
     <Key>PILOTSP</Key>
     <Key>SKUL</Key>
     <Key>SW</Key>
+    <Key>UND</Key>
     <Key>VIGIL</Key>
   </CareerSkills>
   <Specializations>
-    <Key>PILOT</Key>
-    <Key>SCOUND</Key>
-    <Key>THIEF</Key>
     <Key>CHARMER</Key>
     <Key>GAMBLER</Key>
     <Key>GUNSLINGER</Key>
+    <Key>PILOT</Key>
+    <Key>RETIREDCLONETROOPER</Key>
+    <Key>SCOUND</Key>
+    <Key>THIEF</Key>
   </Specializations>
   <Attributes />
   <FreeRanks>4</FreeRanks>

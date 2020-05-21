@@ -12,8 +12,8 @@
 
 [P]A Player Character group without a Slicer will have something of a handicap, especially where acquiring data or handling computerized problems is concerned. A Slicer might join a group for a chance to get away from a bad deal, or simply because he's ready to see the next planet. Slicers tend to be a quirky bunch, so there might be any number of motivations at work.</Description>
   <Sources>
-    <Source>Edge of the Empire Core Rulebook</Source>
-    <Source>Age of Rebellion Core Rulebook</Source>
+    <Source Page="91">Edge of the Empire Core Rulebook</Source>
+    <Source Page="99">Age of Rebellion Core Rulebook</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <CareerSkills>

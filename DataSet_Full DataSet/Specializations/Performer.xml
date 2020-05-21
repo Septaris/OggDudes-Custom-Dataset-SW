@@ -13,7 +13,7 @@
 [P]However, there is often more to a Performer than just words. Performers may include dancers, acrobats, jugglers, and other individuals who must possess impressive coordination and be at peak physical condition. Their acrobatic abilities can give some Performers an unexpected edge in a fight. In addition, many have been trained in martial arts and the use of stage weaponry for roles in theater or holovids. The agility and overall fitness required to perform on stage means they are often in great shape, and as such, it is not uncommon for the Performer to be the last one standing when the dust settles. 
 
 [P]Whether the character is a galaxy-famous magician or merely the member of a traveling troupe of acrobats, the players can build their entire party around a Performer. Performers need an agent, bodyguards, assistants, technicians for their performance, a pilot, perhaps a personal physician, and certain friends or family for their entourage. Performers are able to take the lead in social situations and provide support during combat, but can also take a back seat to a diplomatic leader able to wrangle him. The only downside to including a Performer in the party is that whatever his specialty, he makes his living through some sort of acting. Once can never be sure what a Performer thinks about everyone else.</Description>
-  <Source>Far Horizons</Source>
+  <Source Page="30">Far Horizons</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>CHARM</Key>

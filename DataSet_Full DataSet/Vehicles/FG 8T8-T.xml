@@ -7,6 +7,9 @@ Perhaps the most unique and visually striking Podracer currently on the market, 
 [P]The Twin Block2's cockpit is another oddity in Podracer construction. It features a more aerodynamic shape and a fully enclosed pilot's compartment with advanced safety and control features. It even has a factory equipped ejection system,  an almost unheard of luxury in Prodracing circles. These features—and its advanced handling and braking system—increase pilot safety and comfort at the cost of speed and acceleration. Despite all of its technical advances, and the nearly unmatched power of tis ion engines, the 8T8 is among the slowers of the current crop of factory customs, due to its weight and its overbearing pilot assistance system.</Description>
   <Source Page="56">Endless Vigil</Source>
   <Custom>DescOnly</Custom>
+  <BuiltInAttachments>
+    <Key>PODEJECT</Key>
+  </BuiltInAttachments>
   <Type>Podracer</Type>
   <Categories>
     <Category>Land Vehicle</Category>
@@ -22,8 +25,5 @@ Perhaps the most unique and visually striking Podracer currently on the market, 
   <HullTrauma>4</HullTrauma>
   <SystemStrain>7</SystemStrain>
   <SinglePilot>true</SinglePilot>
-  <BuiltInAttachments>
-    <Key>PODEJECT</Key>
-  </BuiltInAttachments>
   <SensorRange>Close</SensorRange>
 </Vehicle>

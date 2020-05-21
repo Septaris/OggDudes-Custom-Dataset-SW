@@ -9,8 +9,8 @@
 
 [P]There are plenty of Scouts that work either for the Empire or for corporations that actively seek out and survey planets for possible exploitation. They normally work with survey teams with excellent support and resources. Independent Scouts—like the one a player is likely to play—operate with a great deal more autonomy. They will find smaller operations to work with, ones with looser rules and regulations that let them operate more as they choose. Living by his toughness and wits as he must, a Scout will be surprisingly effective in most situations. After all, adapting to the unknown is a trademark talent of any Scout.</Description>
   <Sources>
-    <Source>Edge of the Empire Core Rulebook</Source>
-    <Source>Age of Rebellion Core Rulebook</Source>
+    <Source Page="72">Edge of the Empire Core Rulebook</Source>
+    <Source Page="98">Age of Rebellion Core Rulebook</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <CareerSkills>

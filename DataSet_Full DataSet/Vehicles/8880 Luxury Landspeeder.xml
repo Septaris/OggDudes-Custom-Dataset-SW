@@ -9,6 +9,9 @@ Ubrikkian Industries' 8880-series luxury landspeeder delivers dignitaries in sty
 [P]Although Ubrikkian Industries values its Imperial contracts, they are under no exclusive obligation to deliver their top-of-the-line luxury to the Empire alone. The wealthy and powerful of many worlds also favor the craft, especially where it has gained an appropriate reputation from Imperial use. Outer Rim crime lords and Core World nobles alike have been known to use the 8880, and its prominence among the galaxy's elite has not escaped the notice of Rebel agents needing to impress those outside the Alliance. A small number of these landspeeders are believed to have been acquired by the Rebellion for use on such occasions.</Description>
   <Source>Desperate Allies</Source>
   <Custom>DescOnly</Custom>
+  <BuiltInAttachments>
+    <Key>LUXPASSCOMP</Key>
+  </BuiltInAttachments>
   <Type>Landspeeder</Type>
   <Categories>
     <Category>Land Vehicle</Category>
@@ -27,8 +30,5 @@ Ubrikkian Industries' 8880-series luxury landspeeder delivers dignitaries in sty
   <HullTrauma>10</HullTrauma>
   <SystemStrain>8</SystemStrain>
   <SinglePilot>true</SinglePilot>
-  <BuiltInAttachments>
-    <Key>LUXPASSCOMP</Key>
-  </BuiltInAttachments>
   <SensorRange>Close</SensorRange>
 </Vehicle>

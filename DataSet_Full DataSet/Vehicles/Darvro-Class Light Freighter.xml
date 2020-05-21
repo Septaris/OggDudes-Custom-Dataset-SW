@@ -8,6 +8,10 @@
 into enemy hands.</Description>
   <Source>Strongholds of Resistance</Source>
   <Custom>DescOnly</Custom>
+  <BuiltInAttachments>
+    <Key>ECMSUITETALLANX</Key>
+    <Key>GIMMELSTEALTH</Key>
+  </BuiltInAttachments>
   <Type>Light Freighter</Type>
   <Categories>
     <Category>Starship</Category>
@@ -61,9 +65,5 @@ into enemy hands.</Description>
       <Key>TRACTLT</Key>
     </VehicleWeapon>
   </VehicleWeapons>
-  <BuiltInAttachments>
-    <Key>ECMSUITETALLANX</Key>
-    <Key>GIMMELSTEALTH</Key>
-  </BuiltInAttachments>
   <SensorRange>Short</SensorRange>
 </Vehicle>

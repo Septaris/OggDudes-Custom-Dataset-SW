@@ -6,6 +6,9 @@
 [P]This large, single-wheel bike allows for a lone rider to quickly scope out an area, with its four additionlal legs deploying for contuinued movement over rough terrain, albeit at a reduced speed, when needed. While not fast enough for true speed enthusiasts, the bike has seen widespread use as a military reconaissance vehicle. Though often armed with a light laser cannon, its deadliest weapon is the wheel itself, which can crush soldiers when moving at full velocity. Those who have seen a Tsmeu-6 bearing down on them at maximum velocity do not doubt its effectiveness.</Description>
   <Source>Keeping the Peace</Source>
   <Custom>DescOnly</Custom>
+  <BuiltInAttachments>
+    <Key>TSMEU6</Key>
+  </BuiltInAttachments>
   <Type>Wheel Bike</Type>
   <Categories>
     <Category>Land Vehicle</Category>
@@ -30,8 +33,5 @@
   <HullTrauma>3</HullTrauma>
   <SystemStrain>8</SystemStrain>
   <SinglePilot>true</SinglePilot>
-  <BuiltInAttachments>
-    <Key>TSMEU6</Key>
-  </BuiltInAttachments>
   <SensorRange>No Sensors</SensorRange>
 </Vehicle>

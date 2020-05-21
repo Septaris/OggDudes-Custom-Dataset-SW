@@ -12,7 +12,7 @@ Those seeking to take what they discover as they explore the Outer Rim and beyon
 
 [P]A Trader played in a campaign will likely serve as the group's public face, though not necessarily as the leader. He will be one of the best first choices for interacting with public officials, money men, and anyone with whom the group seeks to do business. When it comes to finding and buying something that the team needs, or fencing something that they wish to get rid of for a profit, he is invaluable. 
 </Description>
-  <Source>Edge of the Empire Core Rulebook</Source>
+  <Source Page="73">Edge of the Empire Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>DECEP</Key>
