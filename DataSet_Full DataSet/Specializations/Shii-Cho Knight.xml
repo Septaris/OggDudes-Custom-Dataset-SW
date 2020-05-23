@@ -160,4 +160,7 @@ The ancient lightsaber fighting style of Shii-Cho is said to be the first lights
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

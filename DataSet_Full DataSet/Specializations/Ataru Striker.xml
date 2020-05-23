@@ -154,4 +154,7 @@ When working alone in a hostile environment, every physical conflict must be res
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

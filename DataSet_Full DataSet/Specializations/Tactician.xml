@@ -154,4 +154,7 @@ All of the victories in space, in the air, and even on the ground mean nothing i
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

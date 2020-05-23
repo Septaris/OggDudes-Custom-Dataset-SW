@@ -155,4 +155,7 @@ Where the Ace Pilot uses hard-won skill, technique, and by-the-book tactics, the
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

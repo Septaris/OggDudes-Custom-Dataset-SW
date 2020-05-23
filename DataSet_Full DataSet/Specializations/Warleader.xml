@@ -155,4 +155,7 @@ Not all Guardians solve their problems through feats of prowess with the lightsa
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

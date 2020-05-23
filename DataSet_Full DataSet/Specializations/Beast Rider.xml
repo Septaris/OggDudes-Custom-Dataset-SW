@@ -162,4 +162,7 @@ Many worlds in the galaxy are too backward, too poor, or have environments too e
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

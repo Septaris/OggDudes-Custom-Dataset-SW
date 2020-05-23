@@ -162,4 +162,7 @@ The Aggressor relies on fear to intimidate his opposition into surrender or retr
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

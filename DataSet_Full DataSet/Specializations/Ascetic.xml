@@ -151,4 +151,7 @@ There are many paths that might lead one to the role of Ascetic. Whether they ar
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

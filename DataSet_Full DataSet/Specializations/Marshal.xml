@@ -152,4 +152,7 @@ The Marshal makes for a great leader in combat-oriented groups, or can provide s
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

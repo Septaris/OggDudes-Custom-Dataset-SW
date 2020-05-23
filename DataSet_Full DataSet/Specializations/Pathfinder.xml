@@ -154,4 +154,7 @@ Few are as capable of exploring a planet and discovering its secrets as a Pathfi
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

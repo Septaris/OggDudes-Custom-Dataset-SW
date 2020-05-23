@@ -155,4 +155,7 @@ With a love of firearms and a pride in personal accuracy, the Sharpshooter is th
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

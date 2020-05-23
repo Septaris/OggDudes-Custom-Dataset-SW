@@ -155,4 +155,7 @@ Starfighter pilots enthusiastically engage in one of the most dangerous forms of
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

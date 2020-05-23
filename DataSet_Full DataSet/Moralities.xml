@@ -838,7 +838,7 @@ Confidence can turn into recklessness or stubbornness. When Mystics think themse
     <Description>[H4]Certainty (Strength)[h4]
 This doesn't simply cover confidence or positivity, but also an unshakable faith of the Force. The Mystic dives into conflict without hesitation, for there is no conflict, only the Force ebbing and flowing.</Description>
     <Source Page="17">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>EGOISM</WeakKey>
   </Morality>
@@ -857,7 +857,7 @@ With visions come possibilities. The future isn't set in stone, but a river that
     <Description>[H4]Clarity (Strength)[h4]
 Certainty relies on faith, Clarity relies on knowledge. These Mystics know without a doubt that the path they walk is the right one and can communicate it to others without misunderstanding.</Description>
     <Source Page="17">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>CONFUSION</WeakKey>
   </Morality>
@@ -876,7 +876,7 @@ Knowing oneself to be insignificant in the light of the Force can overwhelm anyo
     <Description>[H4]Humility (Strength)[h4]
 The Force is so much bigger than any one individual, and Mystics know they are merely drops in the pond. This frees them to act when needed without fear that they are taking on too much.</Description>
     <Source Page="17">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>WORTHLESSNESS</WeakKey>
   </Morality>
@@ -895,7 +895,7 @@ Knowing one's place sometimes means becoming complacent, becoming unable to chan
     <Description>[H4]Wellness (Strength)[h4]
 The Mystic gains a form of happiness and satisfaction in good works and knowing one's place in the community. They work, which is good; they depend on others, which is good; and they prosper, which is good.</Description>
     <Source Page="17">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>RIGID</WeakKey>
   </Morality>
@@ -914,7 +914,7 @@ Unlike Coldness, this Mystic still has emotional engagements, but simply doesn't
     <Description>[H4]Joy (Strength)[h4]
 Despite, or because of, Mystics' ability to see into the past and the future, some learn to enjoy the beauty of the moment, person, or place in front of them. Each instance is unique, even in the timelessness of the Cosmic Force.</Description>
     <Source Page="17">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>ANTIPATHY</WeakKey>
   </Morality>
@@ -933,7 +933,7 @@ Sometimes over-protectiveness turns into controlling behavior. How else to save 
     <Description>[H4]Fondness (Strength)[h4]
 This Mystic has a kind of mentor-like love, the good feeling that comes with guiding and helping people. This feeling should be unconditional; they wish their students to grow, change, and surpass their teachings.</Description>
     <Source Page="17">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>DEMANDING</WeakKey>
   </Morality>
@@ -943,7 +943,7 @@ This Mystic has a kind of mentor-like love, the good feeling that comes with gui
     <Description>[H4]Confidence (Strength)[h4]
 The character believes in their own abilities, knowing exactly what is possible on a personal level, and refuses to be intimidated. This character also places faith in trusted friends.</Description>
     <Source Page="16">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>ARROGANCE</WeakKey>
   </Morality>
@@ -962,7 +962,7 @@ When working with others, this character has a tendency to value the group above
     <Description>[H4]Camaraderie (Strength)[h4]
 The character works well as part of a team whether leading or following, remaining loyal to comrades no matter what. The character is quick to recognize the strengths and weaknesses to others and works to ensure the group stays together and functions effectively.</Description>
     <Source Page="16">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>CONFORMITY</WeakKey>
   </Morality>
@@ -972,7 +972,7 @@ The character works well as part of a team whether leading or following, remaini
     <Description>[H4]Conviction (Strength)[h4]
 The character makes quick decisions and sees them through without hesitating. Believing in personal action and ability to achieve one's goals, this character never gives up on a task.</Description>
     <Source Page="16">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>OBSTINACY</WeakKey>
   </Morality>
@@ -982,7 +982,7 @@ The character makes quick decisions and sees them through without hesitating. Be
     <Description>[H4]Honor (Strength)[h4]
 The character has a personal moral code, and never crosses the line it delineates. Others learn to respect the character's principles, but for this character, it is personal honor that matters, not what others think.</Description>
     <Source Page="16">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>VANITY</WeakKey>
   </Morality>
@@ -1010,7 +1010,7 @@ The character is inclined to be too careful, overthinking and second-guessing ev
     <Description>[H4]Consideration (Strength)[h4]
 The character does not act before being sure of all the facts or assessing an opponent's strengths and weaknesses. This character always considers the consequences of personal actions.</Description>
     <Source Page="16">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>HESITANCY</WeakKey>
   </Morality>
@@ -1029,7 +1029,7 @@ The character cares so much for the plights of others that emotions cloud the ch
     <Description>[H4]Sympathy (Strength)[h4]
 The character genuinely feels for others, sharing their pain and so acting to reduce it, showing mercy and compassion.</Description>
     <Source Page="16">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>DESPERATION</WeakKey>
   </Morality>
@@ -1094,7 +1094,7 @@ The character has a vision of what the galaxy and its inhabitants should be like
     <Description>[H4]Idealism (Strength)[h4]
 The character believes the galaxy is fundamentally good, and fights to keep it so. This character knows that even partial successes and minor victories help to make the galaxy a better place for all.</Description>
     <Source Page="16">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>NAIVETY</WeakKey>
   </Morality>

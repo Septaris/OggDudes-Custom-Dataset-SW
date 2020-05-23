@@ -160,4 +160,7 @@ Due to [B]Age of Rebellion's[b] focus on the Galactic Civil War, most groups of 
     </TalentRow>
   </TalentRows>
   <Universal>true</Universal>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

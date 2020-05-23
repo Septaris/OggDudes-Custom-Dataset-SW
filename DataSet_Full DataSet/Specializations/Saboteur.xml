@@ -152,4 +152,7 @@ Almost anathema to the usual technician's mentality, the Saboteur specializes in
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

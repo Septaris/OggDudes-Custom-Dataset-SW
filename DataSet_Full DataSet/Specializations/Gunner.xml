@@ -160,4 +160,7 @@ For the Gunner, the output of a vehicle or ship weapon is the ultimate expressio
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

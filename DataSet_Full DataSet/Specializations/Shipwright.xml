@@ -151,4 +151,7 @@ In peacetime, a Shipwright designs, oversees, and launches custom ships to grace
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

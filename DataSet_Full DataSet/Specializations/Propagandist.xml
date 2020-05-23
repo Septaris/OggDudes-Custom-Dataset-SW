@@ -160,4 +160,7 @@ Truth is often a matter of perspective, and Propagandists serve the Rebel Allian
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

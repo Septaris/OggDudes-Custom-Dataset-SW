@@ -151,4 +151,7 @@ From the Kage Warriors of Quarzite to the enforcers of the Black Sun, organizati
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

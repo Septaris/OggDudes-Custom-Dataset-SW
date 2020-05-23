@@ -169,4 +169,7 @@ Depending on who is asked, Mechanics are either the glue that holds everything t
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

@@ -156,4 +156,7 @@ Enforcers know that achieving results does not always require violence—sometim
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

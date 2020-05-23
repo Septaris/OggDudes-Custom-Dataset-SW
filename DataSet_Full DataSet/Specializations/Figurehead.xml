@@ -214,4 +214,7 @@ be able to seek refuge.</Description>
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

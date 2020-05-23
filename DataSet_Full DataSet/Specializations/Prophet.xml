@@ -151,4 +151,7 @@ The Jedi Order's proselytizing ebbed and flowed, much as the Force did throughou
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

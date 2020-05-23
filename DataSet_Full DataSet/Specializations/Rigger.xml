@@ -146,4 +146,7 @@ While most Rebel Aces operate standard vehicles maintained by engineering crews,
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

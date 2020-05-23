@@ -152,4 +152,7 @@ Even the most accomplished of negotiators can see negotiations fail and come to 
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

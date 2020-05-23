@@ -154,4 +154,7 @@ One of the greatest challenges for the Alliance is that of supply; the best Quar
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

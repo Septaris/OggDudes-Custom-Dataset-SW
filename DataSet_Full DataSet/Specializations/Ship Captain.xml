@@ -157,4 +157,7 @@ For Ship Captains, their vessel and their crew are everything. Without them, cap
     </TalentRow>
   </TalentRows>
   <Universal>true</Universal>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

@@ -166,4 +166,7 @@ Knowledge is power, on the battlefield and in negotiations alike. The Analyst kn
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

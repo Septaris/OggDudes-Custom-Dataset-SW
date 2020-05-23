@@ -152,4 +152,7 @@ Those seeking to take what they discover as they explore the Outer Rim and beyon
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

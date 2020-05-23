@@ -154,4 +154,7 @@ Like battlefield surgeons working on organic soldiers, Alliance Droid Specialist
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

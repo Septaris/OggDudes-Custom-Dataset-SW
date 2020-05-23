@@ -151,4 +151,7 @@ To hear of a Magus, even during the time of the Galactic Republic, would be a ra
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

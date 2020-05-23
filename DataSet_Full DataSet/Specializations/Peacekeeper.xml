@@ -152,4 +152,7 @@ Across the galaxy, there are always tyrants, and those unlucky enough to suffer 
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

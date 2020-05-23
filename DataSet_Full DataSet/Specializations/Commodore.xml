@@ -159,4 +159,7 @@ Each and every capital ship the Alliance has is valuable, which means that each 
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

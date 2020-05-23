@@ -155,4 +155,7 @@ Sappers have a versatile role in the Alliance. These personnel are responsible n
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

@@ -151,4 +151,7 @@ During the era of the Galactic Republic, the Jedi Order never embraced alchemy. 
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

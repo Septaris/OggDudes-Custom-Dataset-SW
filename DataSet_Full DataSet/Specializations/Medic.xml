@@ -155,4 +155,7 @@ The Alliance cannot afford to fight a war of attrition the way the Empire can. T
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

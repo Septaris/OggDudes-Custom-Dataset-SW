@@ -154,4 +154,7 @@ A lightsaber is a potent weapon. When wielded forcefully, it can even overpower 
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

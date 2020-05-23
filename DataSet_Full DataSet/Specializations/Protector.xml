@@ -159,4 +159,7 @@ Guardians are often driven by their compassion for the plights of those who cann
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

@@ -153,4 +153,7 @@ There is more to military intelligence than stealing the enemy's secrets. That d
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

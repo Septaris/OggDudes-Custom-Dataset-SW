@@ -155,4 +155,7 @@ Spies must be able to tell convincing lies. Often, a lie only needs to hold up f
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

@@ -153,4 +153,7 @@ Most Warriors pride themselves on their ability to overcome pain. A Colossus, ho
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

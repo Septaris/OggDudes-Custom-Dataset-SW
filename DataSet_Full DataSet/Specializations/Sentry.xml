@@ -154,4 +154,7 @@ Despite the grand legends of the Jedi and their sweeping battles in half-forgott
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

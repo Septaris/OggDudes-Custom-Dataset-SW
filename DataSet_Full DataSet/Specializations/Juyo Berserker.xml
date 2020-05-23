@@ -186,4 +186,7 @@ While a Juyo practitioner may appear calm , the form requires intense emotions t
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

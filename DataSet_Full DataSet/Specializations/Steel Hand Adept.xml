@@ -149,4 +149,7 @@ The Jedi were known for, and even symbolized by, their distinctive use of lights
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

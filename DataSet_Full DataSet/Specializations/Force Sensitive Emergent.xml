@@ -153,4 +153,7 @@ The Rebel Alliance stands for the restitution of the values and structures that 
   <Attributes>
     <ForceRating>1</ForceRating>
   </Attributes>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

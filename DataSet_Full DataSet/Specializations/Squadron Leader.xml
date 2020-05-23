@@ -153,4 +153,7 @@ Though perhaps the most important engagements involve capital ships, the daily s
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

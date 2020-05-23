@@ -162,4 +162,7 @@ If the Marauder is the melee master, and the Bodyguard is the all-around weapons
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

@@ -157,4 +157,7 @@ An Ambassador seeks out those who can help a cause and works to ensure they do. 
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

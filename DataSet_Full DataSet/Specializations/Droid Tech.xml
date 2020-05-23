@@ -155,4 +155,7 @@ Droids are prevalent across the galaxy, from the shining spheres of the Core to 
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

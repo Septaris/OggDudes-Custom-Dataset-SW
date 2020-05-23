@@ -153,4 +153,7 @@ Consulars are often drawn to their career by a strong sense of compassion. In ma
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

@@ -149,4 +149,7 @@ Many Consulars know the universal truth: knowledge is power, and understanding a
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

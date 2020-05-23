@@ -158,4 +158,7 @@ Commandos are specialists trained to strike the enemy from unexpected directions
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

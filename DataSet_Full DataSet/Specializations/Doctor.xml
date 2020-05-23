@@ -158,4 +158,7 @@ Of all the types of Colonists who come to the Outer Rim, Doctors probably have t
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

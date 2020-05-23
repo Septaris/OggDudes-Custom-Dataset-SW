@@ -156,4 +156,7 @@ Some individuals are able to remain constantly aware of the Force's presence, ev
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

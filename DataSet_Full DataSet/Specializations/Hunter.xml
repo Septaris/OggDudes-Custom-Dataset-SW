@@ -153,4 +153,7 @@ Far from the civilized parts of the galaxy, there are many predators that can en
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

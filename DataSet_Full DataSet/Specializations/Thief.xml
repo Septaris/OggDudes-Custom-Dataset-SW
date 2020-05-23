@@ -163,4 +163,7 @@ Where the Scoundrel is a bit flashier, and the Pilot focuses on mastering his sh
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

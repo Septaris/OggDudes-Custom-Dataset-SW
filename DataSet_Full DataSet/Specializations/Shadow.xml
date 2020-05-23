@@ -153,4 +153,7 @@ In the ancient days of the Jedi Order, Sentinels worked tirelessly to police the
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

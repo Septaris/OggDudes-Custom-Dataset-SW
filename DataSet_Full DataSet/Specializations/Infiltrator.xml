@@ -153,4 +153,7 @@ When most people hear the word Spy, the operatives of this specialization are wh
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

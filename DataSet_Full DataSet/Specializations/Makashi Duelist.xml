@@ -155,4 +155,7 @@ The presence and showmanship that can come naturally to all Mystics reflects its
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

@@ -159,4 +159,7 @@ The Jedi are gone, the vast majority hunted down and destroyed by the Emperor an
   <Attributes>
     <ForceRating>1</ForceRating>
   </Attributes>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

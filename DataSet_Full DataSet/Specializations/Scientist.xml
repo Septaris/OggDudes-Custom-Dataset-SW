@@ -153,4 +153,7 @@ With a fraction of the resources and funding of the Empire, the Alliance is cons
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

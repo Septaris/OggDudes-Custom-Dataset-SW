@@ -148,4 +148,7 @@ Armorers are defined by their ability to survive through a combination of ingenu
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

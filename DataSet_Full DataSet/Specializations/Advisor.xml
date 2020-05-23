@@ -153,4 +153,7 @@ Not everyone who is skilled in the ways of the Force seeks to hold a position Of
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

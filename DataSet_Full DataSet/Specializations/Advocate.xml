@@ -163,4 +163,7 @@ Not all politicians contribute to the cause through stirring speeches to win the
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

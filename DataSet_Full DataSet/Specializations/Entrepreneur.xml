@@ -156,4 +156,7 @@ Entrepreneurs know that there is only one thing worth investing in—the future.
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

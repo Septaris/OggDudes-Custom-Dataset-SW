@@ -156,4 +156,7 @@ Guardians frequently and deliberately put themselves in harm's way in order to a
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

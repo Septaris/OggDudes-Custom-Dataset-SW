@@ -214,4 +214,7 @@ caught unawares when things turn ugly.</Description>
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

@@ -151,4 +151,7 @@ A portion of the most critical military intelligence is never officially documen
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

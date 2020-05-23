@@ -155,4 +155,7 @@ Investigators examine unsolved crimes, using their knowledge and skills to figur
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

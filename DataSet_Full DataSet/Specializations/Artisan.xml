@@ -160,4 +160,7 @@ Some Force users have an innate skill with tools and machines. These skilled art
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

@@ -153,4 +153,7 @@ The Empire's main weapon, more effective than all of the incredible firepower at
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>

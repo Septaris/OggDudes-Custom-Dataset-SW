@@ -156,4 +156,7 @@ Demolitionists are masters of explosives and Incendiary devices. Often seen as d
       </Directions>
     </TalentRow>
   </TalentRows>
+  <AddlCareerSkills>
+    <Type />
+  </AddlCareerSkills>
 </Specialization>
