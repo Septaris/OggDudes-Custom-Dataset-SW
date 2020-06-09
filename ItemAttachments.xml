@@ -1527,7 +1527,7 @@ A smoke generator creates thick black or grey smoke that inhibits line of sight.
     <Description>
       [H3]Gene Lock[h3]
 
-Some sentients form a great attachment, even a bond with their weapon, and take steps to ensure that no other can use it. For this, or for more practical reasons, some individuals have their weapon modified so that it only functions in their hands. This is accomplished through a gene-lock: a system- featuring a computer that, once loaded with the user's genetic code, samples and scans the DNA of any individual who picks up the weapon. If his genetic profile does not match the weapon's designated user, the computer locks down the weapon and prevents it from firing. 
+Some sentients form a great attachment, even a bond with their weapon, and take steps to ensure that no other can use it. For this, or for more practical reasons, some individuals have their weapon modified so that it only functions in their hands. This is accomplished through a gene-lock: a system featuring a computer that, once loaded with the user's genetic code, samples and scans the DNA of any individual who picks up the weapon. If his genetic profile does not match the weapon's designated user, the computer locks down the weapon and prevents it from firing.
 
 [P]This upgrade is most relevant for ranged weapons, but it is possible to gene-lock a vibroblade or similar weapon. In this case, an unauthorized user can still wield the weapon as a basic sword, etc., but any technological components such as a vibro-motor cease to function. This attachment can be applied to any handheld weapon.</Description>
     <Source>Dangerous Covenants</Source>
@@ -3913,7 +3913,7 @@ better to make passengers and guests feel at home.</Description>
     <Name>Magnetic Weapon Tether</Name>
     <Description>
       [H3]Magnetic Weapon Tether[h3]
-[P]A magnetic weapon tether is a reelatively simple modification that consists of a small magnetic device built into the weapon. The magnetic weapon tether allows the wielder to snap the weapon back to a readied position with a press of a button, rather than havin gto scramble to retrieve it. While many Force users might scoff at this ability - after all, why use a device for what they can do with the force anyway - others prefer to have the exra layer or safety, or wish to avoid using their Force powers openly in places where the Empire's presence is strong. This attachment can be applied to any weapon wielded in one hand that could logically benefit from a weapon tether.</Description>
+[P]A magnetic weapon tether is a reelatively simple modification that consists of a small magnetic device built into the weapon. The magnetic weapon tether allows the wielder to snap the weapon back to a readied position with a press of a button, rather than having to scramble to retrieve it. While many Force users might scoff at this ability - after all, why use a device for what they can do with the Force anyway - others prefer to have the extra layer of safety, or wish to avoid using their Force powers openly in places where the Empire's presence is strong. This attachment can be applied to any weapon wielded in one hand that could logically benefit from a weapon tether.</Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -4607,7 +4607,7 @@ A skilled Slicer knows how to protect a computer system from others skilled in e
     <Key>ENHREPULS</Key>
     <Name>Enhanced Repulsorlift</Name>
     <Description>[H3]Enhanced Repulsorlift[h3]
-As one might well guess from their name, speeders are swift craft by nature. For some pilots, however, there is no such thing as a enough speed. Enhancements and modifications to repulsorlift systems can often coax extra acceleration out of factory-standard models, despite the fact that manufacturers caution against making such dangerous customizations to their vehivles. The attachment can be applied to any airspeeder or landspeeder.
+As one might well guess from their name, speeders are swift craft by nature. For some pilots, however, there is no such thing as a enough speed. Enhancements and modifications to repulsorlift systems can often coax extra acceleration out of factory-standard models, despite the fact that manufacturers caution against making such dangerous customizations to their vehicles. The attachment can be applied to any airspeeder or landspeeder.
 [P][B]Models Include:[b] Ubikkian Transports Ultralift 2000</Description>
     <Source Page="65">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -4885,7 +4885,7 @@ The cargo pods for this cradt are large, cylindrical affairs, designed for effic
     <Key>ALLTERLEGS</Key>
     <Name>All-Terrain Legs</Name>
     <Description>[H3]All-Terrain Legs[h3]
-Although ion drives and repulsorlifts dominate the galaxy, the continued use of walkers by the Empire and certain planetary militias is testament tot eh advantages of such craft. Walkers are stable, implacable and usually intimidating. For those who want true versatility from their craft, speeders and eve starships can be modified with the addition of a number, depending on the size and shape of the vehicle, of sturdy mechanical legs. In some cases, these might be mistaken for simple landing gear - until the vehivle begins to stomp forward. This attachment can be applied to any airspeeder or starship that can land on a planet.
+Although ion drives and repulsorlifts dominate the galaxy, the continued use of walkers by the Empire and certain planetary militias is testament tot eh advantages of such craft. Walkers are stable, implacable and usually intimidating. For those who want true versatility from their craft, speeders and eve starships can be modified with the addition of a number, depending on the size and shape of the vehicle, of sturdy mechanical legs. In some cases, these might be mistaken for simple landing gear - until the vehicle begins to stomp forward. This attachment can be applied to any airspeeder or starship that can land on a planet.
 [P][B]Models Include:[b] Kuat Drive Yards KR-2 "Crab" Auxiliary Locomotion Unit, Alto Industries Variable Combat Kit</Description>
     <Source Page="65">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -10572,7 +10572,7 @@ An excellent way to ensure an agent is always armed no matter the circumstances,
     <Key>ARMORINSERT</Key>
     <Name>Armor Insert</Name>
     <Description>[H3]Armor Insert[h3]
-Armor inserts are thin, flexible, plasteel and ballistic gel plates that can be sewn into clothing to give the wearer concealed armor protection. They can be added to any garment that is suitably large and alter- able, and they can be installed by any skilled tailor for a moderate fee. This attachment can be applied to any armor with a defense no greater than 0 and a soak of 1 or less. 
+Armor inserts are thin, flexible, plasteel and ballistic gel plates that can be sewn into clothing to give the wearer concealed armor protection. They can be added to any garment that is suitably large and alterable, and they can be installed by any skilled tailor for a moderate fee. This attachment can be applied to any armor with a defense no greater than 0 and a soak of 1 or less.
 [P][B]Models Include:[b] Creshaldyne "Slimline" Armor Plates.</Description>
     <Source Page="57">Cyphers and Masks</Source>
     <Custom>AddedItem</Custom>
