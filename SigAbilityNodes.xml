@@ -1333,7 +1333,7 @@ to activate Rousing Oratory.</Description>
   <SigAbilityNode>
     <Key>UNEXPECTEDDEMISEBASIC</Key>
     <Name>Unexpected Demise Base Ability</Name>
-    <Description>Once per session as an action, the character may spend 2 Destiny Points and make a [B]Hard ([DI][DI][DI]) Perception check[b] If successful, for the next 2 rounds the character may spend 1 maneuver to add 1 automatic [TR] to his next combat check made in that turn. In addition, for the next 2 rounds when the character inflicts a Critical Injury on a rival NPC, the target is immediately incapacitated in teh same way as a minion NPC would be (see page 400 of the [B]Force and Destiny[b] Core Rulebook).</Description>
+    <Description>Once per session as an action, the character may spend 2 Destiny Points and make a [B]Hard ([DI][DI][DI]) Perception check[b] If successful, for the next 2 rounds the character may spend 1 maneuver to add 1 automatic [TR] to his next combat check made in that turn. In addition, for the next 2 rounds when the character inflicts a Critical Injury on a rival NPC, the target is immediately incapacitated in the same way as a minion NPC would be (see page 400 of the [B]Force and Destiny[b] Core Rulebook).</Description>
     <Source Page="34">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unexpected Demise</SigAbility>

@@ -24,7 +24,7 @@ The PC has a pressing contract to fulfill, whether it is legally binding or an i
     <Name>Failed Installation/Repair</Name>
     <Description>
       [H4]Failed Installation/Repair[h4]
-A botched modification, installation, or repair job has publicly damaged the character's repuation and rendered teh device, droid or vehicle inoperable. The PC must take action to restore the damaged item, and find a way to socially engineer a return to good standing in the public eye.</Description>
+A botched modification, installation, or repair job has publicly damaged the character's repuation and rendered the device, droid or vehicle inoperable. The PC must take action to restore the damaged item, and find a way to socially engineer a return to good standing in the public eye.</Description>
     <Source Page="18">Special Modifications</Source>
     <Custom>DescOnly</Custom>
   </Obligation>

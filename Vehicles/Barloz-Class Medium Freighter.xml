@@ -2,7 +2,7 @@
 <Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Key>BARLOZFREIGHT</Key>
   <Name>Barloz-Class Medium Freighter</Name>
-  <Description>[H3][I]Barloz[i] -Class Medium Freighter[h3]
+  <Description>[H3][I]Barloz[i]-Class Medium Freighter[h3]
 [P]One of the most popular freighters produced in the decades prior to the Clone Wars, the Barloz-class is a basic, no-frills cargo transport that still sees use in many parts of the galaxy. Designated as a medium freighter while still in production, the Barloz-class was the predecessor of the Corelliann Engineering Corporation YT-series light freighters, introducing many of the features that would make the YT-series so successful. Though not particularly maneuverable and poorly armed, the Barloz-class possesses decent cargo capacity, reliable ion drives, and a durable hull. Pilots have found it relatively customizable, which has sustained the venerable freighters continued use by smugglers and free traders operating throughout the Mid Rim and Outer Rim Territories. These features also make it appealing to anyone who wants to stay under the radar while traveling on the fringes of society. After all, discretion is often the better part of valor, and this vessel lets Guardians hide in plainsight, obscured only by the veneer of unremarkability.</Description>
   <Source>Keeping the Peace</Source>
   <Custom>DescOnly</Custom>

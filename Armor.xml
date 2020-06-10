@@ -1200,8 +1200,8 @@ Many ancient Jedi Knights favored heavy concealing robes for their anonymity, an
     <Name>Polis Masson Bodysuit</Name>
     <Description>
       [H3]Polis Masson Bodysuit[h3]
-[P]The Polis Massans employ unique, tight-fitting bodysuits in their day-to-day lives. Not only do the suits provide some incidental protection from physical damage, but they also supply a number of load- bearing pockets, clips, and straps to keep important equipment close at hand.
-[P]All Polis Massan bodysuits include a tiny head- mounted multidirectional glow rod, as well as an integrated utility belt (which increases the wearer’s encumbrance by 1). Though designed with Polis Massan physiology in mind, bodysuits for use by other species have been commissioned.     
+[P]The Polis Massans employ unique, tight-fitting bodysuits in their day-to-day lives. Not only do the suits provide some incidental protection from physical damage, but they also supply a number of load-bearing pockets, clips, and straps to keep important equipment close at hand.
+[P]All Polis Massan bodysuits include a tiny head-mounted multidirectional glow rod, as well as an integrated utility belt (which increases the wearer’s encumbrance by 1). Though designed with Polis Massan physiology in mind, bodysuits for use by other species have been commissioned.
     </Description>
     <Source>Strongholds of Resistance</Source>
     <Custom>DescOnly</Custom>
@@ -1983,13 +1983,13 @@ protects from dangerous tem peratures, pressure,
 radiation, chemicals, and partial vacuums.
 [P]The thinsuit is a skin-tight body glove, weighing only
 one kilogram, which provides total coverage for standard humanoids, leaving only the face exposed. The
-suit comes with a facemask and filtration system th at
+suit comes with a facemask and filtration system that
 purifies standard atmosphere for up to six hours and
 provides one hour of internal power. The stock suit
 comes with six removable filters and power packs,
 easily stored in the thinsuit’s many pockets.
 [P]A character equipped with a thinsuit removes [SE][SE]
-imposed by the environm ent in which she is currently
+imposed by the environment in which she is currently
 operating from her checks.</Description>
     <Source Page="50">Forged in Battle</Source>
     <Custom>DescOnly</Custom>

@@ -2235,7 +2235,7 @@ Creel Wood Logging Corporation is a small, privately owned logging concern found
     <Description>
       [H3]Model 38 Sharpshooter's Rifle (Detonator Round)[h3]
 
-While the standard penetrator ammunition offered with the Model 38 works well in most situations, sometimes a shooter needs a little extra punch to fell his prey. To this end, Czerka offers the Detonator Round for use with the Model 38. Instead of the coated penetrator bullet, Detonator Rounds have a metal coated shaped charge bullet that explodes on contact with its target. When used with the Model 38. these rounds have the following effect on the weapon's stats: Remove the Pierce quality and add the Blast (5) quality and Knockdown quality. Detonator Rounds cost 450 credits for a box of rounds, and have a rarity of 7. If the weapon ever runs out of ammo, a new box of rounds must he purchased to reload it </Description>
+While the standard penetrator ammunition offered with the Model 38 works well in most situations, sometimes a shooter needs a little extra punch to fell his prey. To this end, Czerka offers the Detonator Round for use with the Model 38. Instead of the coated penetrator bullet, Detonator Rounds have a metal coated shaped charge bullet that explodes on contact with its target. When used with the Model 38, these rounds have the following effect on the weapon's stats: Remove the Pierce quality and add the Blast (5) quality and Knockdown quality. Detonator Rounds cost 450 credits for a box of rounds, and have a rarity of 7. If the weapon ever runs out of ammo, a new box of rounds must be purchased to reload it.</Description>
     <Source>Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
@@ -8578,7 +8578,7 @@ The soul of each lightsaber is its crystal. The Jedi of old tested their youngli
     <Name>Variable Holdout Blaster</Name>
     <Description>
       [H3]Variable Holdout Blaster[h3]
-[P]The variable holdout blaster is a sleek, easily conceal- able design with a variable power setting. The pistol has been popular with spies, informants, and covert Rebels on the planet of Ord Gimmel for some time. The power level of the weapon’s blast is adjustable, allowing for more or less damage capacity as desired by the user. The tradeoff for the weapon’s combination of utility and concealability is that the pistol’s power cell is limited.
+[P]The variable holdout blaster is a sleek, easily concealable design with a variable power setting. The pistol has been popular with spies, informants, and covert Rebels on the planet of Ord Gimmel for some time. The power level of the weapon’s blast is adjustable, allowing for more or less damage capacity as desired by the user. The tradeoff for the weapon’s combination of utility and concealability is that the pistol’s power cell is limited.
 [P]When firing the weapon, the pistol’s wielder must choose a power setting between 1 and 7. This is the amount of damage a successful shot inflicts on a target, but it is also the amount of ammo that is consumed for the shot. If set to a power setting higher than the available ammo left, the weapon deals damage equal to the amount of ammo remaining.
 [P]Anyone searching an individual carrying a concealed variable holdout blaster adds [SE] to their Perception checks.</Description>
     <Source>Strongholds of Resistance</Source>
@@ -10236,7 +10236,7 @@ Most rivet guns work around the principle of a basic pneumatic hammer, and fire 
     <Name>Welding Rod</Name>
     <Description>
       [H3]Welding Rod[h3]
-Technicians need not only the ability to cut metal apart quickly, but the capacity to fuse back together. A welding rod works on a simple principle, generating a jet of focused heat that liqefies small parts of two or more pieces of metal, creating a sturdy bond between the formerly seperate pieces. The heat involved is in this process is extremely dangerous to organic creatures and can even sear clean through athe much sturdier limbs of droids. For good reason, welding rods are typically sold with instruction manuals that highlight the danger involved in their use - which some Technicians choose to actively ignore when threatened in their workshops.
+Technicians need not only the ability to cut metal apart quickly, but the capacity to fuse back together. A welding rod works on a simple principle, generating a jet of focused heat that liqefies small parts of two or more pieces of metal, creating a sturdy bond between the formerly separate pieces. The heat involved is in this process is extremely dangerous to organic creatures and can even sear clean through athe much sturdier limbs of droids. For good reason, welding rods are typically sold with instruction manuals that highlight the danger involved in their use - which some Technicians choose to actively ignore when threatened in their workshops.
 [P]A welding rod adds automatic [SU] to Mechanics checks checks to repair droids, vehicles and starships.
 [P]The GM may spend [DE] on any check made with a welding rod to inflict a Criticaly Injury (see page 216 of the [B]Edge of The Empire[b] Core Rulebook) on the user.</Description>
     <Source Page="47">Special Modifications</Source>
@@ -10395,7 +10395,7 @@ Bored Technicians sometimes take a repulsor engine, add a charge capacitor and s
     <Name>Weik Greatsword</Name>
     <Description>
       [H3]Weik Greatsword[h3]
-Regardless of technological advances, a simple metal sword remains an effective and reliable weapon. A sword never runs out of power. It is heavy enough and long enough to give a warrior a significant advantage in combat against an unarmed opponent or one wielding a more compact weapon. Legends suggest that long before the invention of the light- saber, the earliest Force adepts used swords as their preferred weapons. A greatsword permits a wielder to employ a tremendous amount of power and leverage to each swing.
+Regardless of technological advances, a simple metal sword remains an effective and reliable weapon. A sword never runs out of power. It is heavy enough and long enough to give a warrior a significant advantage in combat against an unarmed opponent or one wielding a more compact weapon. Legends suggest that long before the invention of the lightsaber, the earliest Force adepts used swords as their preferred weapons. A greatsword permits a wielder to employ a tremendous amount of power and leverage to each swing.
 The greatsword requires two hands to wield.</Description>
     <Source Page="104">Nexus of Power</Source>
     <Custom>DescOnly</Custom>
@@ -10491,7 +10491,7 @@ Gungan engineering incorporates a particularly advanced understanding of shieldi
     <Name>Training Stick</Name>
     <Description>
       [H3]Training Stick[h3]
-The Jedi have used lightsabers for so long that most forget there may have been a time when they had no access to energy weapons. However, on worlds with Force traditions but no ready access to energy weapons, other devices were used. The so-called “training stick” looks to be nothing more than a simple walking stick, but is perfectly balanced to be used as a duelist’s weapon. Although most commonly found in the hands of an apprentice, some master sword- fighters prefer the simple training stick as a non-lethal weapon that, to the untrained eye, appears to be nothing more than an elder's cane.
+The Jedi have used lightsabers for so long that most forget there may have been a time when they had no access to energy weapons. However, on worlds with Force traditions but no ready access to energy weapons, other devices were used. The so-called “training stick” looks to be nothing more than a simple walking stick, but is perfectly balanced to be used as a duelist’s weapon. Although most commonly found in the hands of an apprentice, some master sword-fighters prefer the simple training stick as a non-lethal weapon that, to the untrained eye, appears to be nothing more than an elder's cane.
 [P]This weapon appears to be a harmless cane. Add [SE][SE][SE] to a character's Perception or Vigilance checks to discern this weapon’s true nature.
     </Description>
     <Source Page="104">Nexus of Power</Source>
@@ -10668,7 +10668,7 @@ Although Auraterans have access to modern energy weapons, the simple but reliabl
     <Name>Gungan Atlatl</Name>
     <Description>
       [H3]Gungan Atlatl[h3]
-A Gungan warrior could throw one of her signature plasma balls like a grenade (and often do), but a Gungan atlatl gives the weapon a greater range and aids in accuracy. The atlatl also protects the wielder from inadvertent discharges. These weapons are traditionally carved from nonconduc- tive hardwoods.
+A Gungan warrior could throw one of her signature plasma balls like a grenade (and often do), but a Gungan atlatl gives the weapon a greater range and aids in accuracy. The atlatl also protects the wielder from inadvertent discharges. These weapons are traditionally carved from nonconductive hardwoods.
 [P]Atlatls throw Gungan plasma balls [B](see Table 3-1: Ranged Weapons)[b], giving them greater range. An atlatl must have a supply of plasma balls for ammunition.</Description>
     <Source Page="102">Nexus of Power</Source>
     <Custom>DescOnly</Custom>
@@ -10820,7 +10820,7 @@ Much less technically sophisticated than a blaster, a longbow remains a deadly w
     <Name>Energy Slingshot</Name>
     <Description>
       [H3]Energy Slingshot[h3]
-Less a weapon than a device for mischievous pranksters, the energy slingshot is a wrist-mounted device. The user points her wrist at the target, pulls back the energized “cup” and, when she releases it, the slingshot fires a disorienting shock- burst over short distances. The shock-burst is non-lethal but very annoying, meaning that this “weapon” is legal on most worlds. Plenty of municipalities even allow minors to purchase it, to the chagrin of law enforcement officers who have to put up with being pelted by shock-bursts from rowdy young hooligans.
+Less a weapon than a device for mischievous pranksters, the energy slingshot is a wrist-mounted device. The user points her wrist at the target, pulls back the energized “cup” and, when she releases it, the slingshot fires a disorienting shock-burst over short distances. The shock-burst is non-lethal but very annoying, meaning that this “weapon” is legal on most worlds. Plenty of municipalities even allow minors to purchase it, to the chagrin of law enforcement officers who have to put up with being pelted by shock-bursts from rowdy young hooligans.
 [P]Triggering the Disorient quality on this weapon requires [AD] instead of [AD][AD].</Description>
     <Source Page="102">Nexus of Power</Source>
     <Custom>DescOnly</Custom>
@@ -10889,7 +10889,7 @@ Designed for cold-weather expeditions, the Copora-Tech Thermal Cutter is basical
     <Description>
       [H3]Master Lodaka's Lightsaber[h3]
 In the galaxy at large, if Lothal is known at all, it is as an Imperial world home to a Sienar Fleet Systems production line for TIE fighters. Some Imperials also know it as a source of Rebel activity. But for generations of Jedi, the planet was known for its hidden temple, which safeguarded a Force-shrouded source of the kyber crystals utilized in lightsaber construction.
-[P]Hidden deep within the temple are the remains of the Ro- dian Jedi Lodaka. An unparalleled master of the third form of lightsaber dueling, Soresu, the Rodian was unusual among Jedi for also spending much of her time mastering a discipline not often thought of in conjunction with the order: physics. Specifically, Lodaka was fascinated by the material properties of the various crystals used in lightsaber construction, and she took a disciplined, reasoned approach to their study. A true scientist, she made careful, controlled experiments with many forms of crystals, both natural and manufactured, concentrating her efforts on modifications in the form of chemical coatings. She theorized that the effects of the different forms of crystals used in lightsabers could be enhanced by manipulating the crystalline structure of the base crystal. Although she used modern grav-field projectors and micromanipulators to conduct her experiments, it is thought she only achieved success when she manipulated the crystals on a molecular level using the Force.
+[P]Hidden deep within the temple are the remains of the Rodian Jedi Lodaka. An unparalleled master of the third form of lightsaber dueling, Soresu, the Rodian was unusual among Jedi for also spending much of her time mastering a discipline not often thought of in conjunction with the order: physics. Specifically, Lodaka was fascinated by the material properties of the various crystals used in lightsaber construction, and she took a disciplined, reasoned approach to their study. A true scientist, she made careful, controlled experiments with many forms of crystals, both natural and manufactured, concentrating her efforts on modifications in the form of chemical coatings. She theorized that the effects of the different forms of crystals used in lightsabers could be enhanced by manipulating the crystalline structure of the base crystal. Although she used modern grav-field projectors and micromanipulators to conduct her experiments, it is thought she only achieved success when she manipulated the crystals on a molecular level using the Force.
 [P]All of Lodaka’s notes and papers were either destroyed or taken when the Jedi Temple on Coruscant was overrun following the implementation of Order 66. Only one of the crystals she modified is thought to still exist, and it is the one in her own lightsaber, which remains with her body on Lothal. It represented Lodaka’s finest work, as the particular modification she applied at least partially addressed a problem that had vexed lightsaber wielders for thousands of years.
 [P]Master Lodaka’s Lightsaber is a weapon with the following profile: (Lightsaber; Damage 10; Critical 1; Range [Engaged]; Breach 1, Sunder, Vicious 2).
 [P]Master Lodaka’s Lightsaber has an encumbrance of 1 and zero hard points. Attacks made with this lightsaber ignore the Cortosis quality. It also cannot be shut down due to contact with refined cortosis.</Description>
@@ -12468,8 +12468,8 @@ sensitive compensators are not precisely calibrated.
 [P]This weapon can only be used in Auto-fire mode.
 The GM may spend [DE] or [TH][TH][TH][TH] from a combat
 check with this weapon to have the wielder suffer a
-Critical Injury with - 5 0 to the roll, to a minimum of
-one (see [B]Table 6-1 0: Critical Injury Result[b] on page
+Critical Injury with -50 to the roll, to a minimum of
+one (see [B]Table 6-10: Critical Injury Result[b] on page
 231 of the [B]Age of Rebellion[b] Core Rulebook).</Description>
     <Source Page="45">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
@@ -13044,7 +13044,7 @@ Another MSW-series mono-molecular blade offering by Xana Exotic Arms, the MSW-12
     <Description>
       [H3]Corellian Arms CR-8 Takedown Rifle[h3]
 The CR-8 is a high-performance blaster rifle designed for use by CorSec snipers and secret agents. Built to exacting specifications by Corellian Arms, the CR-8 is a long, deadly looking weapon designed for pinpoint accuracy at very long ranges. Just shy of two meters in length, the CR-8 is equipped with a precision barrel, lightweight, matte finish composite furniture, and a highpowered sight. It also features an integrated energy damper that reduces its report and muzzle flash. The weapon's firing system uses a supercharged actuator, upgraded XCiter, and a high-output proprietary blaster gas. These modifications increase power and reduce beam refraction and degradation, allowing the weapon to accurately hit targets at ranges well beyond normal blaster rifle range. The downside is that the weapon produces an inordinate amount of heat, which it must offset with a low rate of fire.
-[P]Perhaps the CR-8's most unique aspect is its transportability, the weapon is designed to be broken down into its core components quickly  and easily. with just a few moments of work, the CR-8 can be disassembled into five seperate components: berrel, stock, reciever, sight, and energy damper. Obstensibly, this feature was added to the weapon to assist in carrying and storing it. As an added side effect, however, the takedown feature makes these weapons extremely easy to hide and very attractive for professional killers. A CR-8 is nearly impossible to find when hidden, thanks to the takedown feature and its unique finish.
+[P]Perhaps the CR-8's most unique aspect is its transportability, the weapon is designed to be broken down into its core components quickly  and easily. with just a few moments of work, the CR-8 can be disassembled into five separate components: berrel, stock, reciever, sight, and energy damper. Obstensibly, this feature was added to the weapon to assist in carrying and storing it. As an added side effect, however, the takedown feature makes these weapons extremely easy to hide and very attractive for professional killers. A CR-8 is nearly impossible to find when hidden, thanks to the takedown feature and its unique finish.
 [P]When a CR-8 is properly broken down and concealed add [SE][SE] to a character's Perception checks made to find it on a person's body.</Description>
     <Source Page="40">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
@@ -18353,7 +18353,7 @@ The Z-6 rotary blaster cannon is an exceptionally potent heavy squad support wea
     <Key>APM1</Key>
     <Name>AP-M1 Armor Piercing Grenade</Name>
     <Description>[H3]AP-M1 Armor Piercing Grenade[h3]
-Merr-Sonn's AP-M1 armor piercing grenade is designed to give the common foot soldier light anti-armor capabilities in the field. Roughly the size of a clone's fist, the AP-M1 consists of a small shaped charge core encased in a plasteel casing. When it detonates, the grenade produces a highly focused blast that can crack open even the toughest armor. The AP-M1 can be thrown like a standard grenade or placed and held in position by an integral chemical adhesive system. This makes them well suited for precision demolition work as well as anti- vehicle and armor use.</Description>
+Merr-Sonn's AP-M1 armor piercing grenade is designed to give the common foot soldier light anti-armor capabilities in the field. Roughly the size of a clone's fist, the AP-M1 consists of a small shaped charge core encased in a plasteel casing. When it detonates, the grenade produces a highly focused blast that can crack open even the toughest armor. The AP-M1 can be thrown like a standard grenade or placed and held in position by an integral chemical adhesive system. This makes them well suited for precision demolition work as well as anti-vehicle and armor use.</Description>
     <Source Page="52">Rise of the Separatists</Source>
     <Custom>AddedItem</Custom>
     <Type>Explosives/Other</Type>
