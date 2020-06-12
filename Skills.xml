@@ -1,10 +1,10 @@
-<?xml version="1.0"?>
-<Skills xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" encoding="utf-8"?>
+<Skills>
   <Skill>
     <Key>ASTRO</Key>
     <Name>Astrogation</Name>
     <Description>[H4]Astrogation (Intellect)[h4]
-There are many billions of stars within the galaxy, all of which are in motion relative to one another. Planets and other smaller masses constantly orbit many of these stars. There are also huge numbers of nebulae and other astronomical anomalies. Traveling between the worlds of the galaxy requires a rudimentary knowledge of the galaxy's organization and composition. It also requires a navicomputer that is well-informed as to the current time and the relative motion of all of these objects. The Astrogation skill represents a character's ability to use his knowledge of the galaxy to most effectively program the hyper-space coordinates for any jump. 
+There are many billions of stars within the galaxy, all of which are in motion relative to one another. Planets and other smaller masses constantly orbit many of these stars. There are also huge numbers of nebulae and other astronomical anomalies. Traveling between the worlds of the galaxy requires a rudimentary knowledge of the galaxy's organization and composition. It also requires a navicomputer that is well-informed as to the current time and the relative motion of all of these objects. The Astrogation skill represents a character's ability to use his knowledge of the galaxy to most effectively program the hyperspace coordinates for any jump. 
 &lt;ul&gt;
 &lt;li&gt;Any time that a character wishes to program a navicomputer for a hyperspace jump, he must first use Astrogation to program the navicomputer. 
 &lt;li&gt;Astrogation governs a character's basic knowledge of galactic geography. It may be checked any time a character wonders what other systems are nearby. 
@@ -17,8 +17,13 @@ The difficulty of a hyperspace jump is based upon the area being targeted and th
 
 [P][AD] rolled as part of an Astrogation check are most commonly used to reduce the travel time. On extended journeys, they might be used to identify convenient stopovers en route, where the vessel can resupply or conduct additional business to help defray the overall cost of the trip. A [TR] could be spent to either complete Astrogation calculations in the minimum amount of time, or greatly reduce the travel time involved. It could also reveal some highly valuable but previously unknown information, such as a much better, alternative travel route. 
 
-[P]Likewise, [TH]generated on an Astrogation check could decrease the accuracy or increase the travel time of a hyperspace jump, or simply cause a character to miss relevant details when analyzing hyperspace routes or galactic maps. [DE] can be spent in the same way but to greater magnitude, or it could trigger something truly awful happening, such as jumping out of hyperspace in the path of an asteroid.</Description>
+[P]Likewise, [TH] generated on an Astrogation check could decrease the accuracy or increase the travel time of a hyperspace jump, or simply cause a character to miss relevant details when analyzing hyperspace routes or galactic maps. [DE] can be spent in the same way but to greater magnitude, or it could trigger something truly awful happening, such as jumping out of hyperspace in the path of an asteroid.</Description>
     <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="104">Edge of the Empire Core Rulebook</Source>
+      <Source Page="116">Age of Rebellion Core Rulebook</Source>
+      <Source Page="114">Force and Destiny Core Rulebook</Source>
+    </Sources>
     <CharKey>INT</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
@@ -44,9 +49,35 @@ The difficulty of an Athletics check is set by the severity of the task and the 
 
 [P]As Athletics is usually used to perform physical actions, [TH] and [DE] results should most often result in physical penalties. Small amounts of [TH] may cause the character to suffer strain, while larger amounts of [TH] may cause the character to fall prone, or even suffer a wound from sprains and bruises. [TH] could even inflict a Critical Injury, chosen by the GM to be thematic or rolled randomly. </Description>
     <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="105">Edge of the Empire Core Rulebook</Source>
+      <Source Page="117">Age of Rebellion Core Rulebook</Source>
+      <Source Page="115">Force and Destiny Core Rulebook</Source>
+    </Sources>
     <CharKey>BR</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
+  </Skill>
+  <Skill>
+    <Key>BRAWL</Key>
+    <Name>Brawl</Name>
+    <Description>[H4]Brawl (Brawn)[h4]
+During some physical confrontations, a character seeks to incapacitate his foe without seriously injuring him. At other times, a melee erupts with little preparation, and a character may not have any weapon at hand. Some individuals are thoroughly trained in unarmed combat, or have natural weapons that they prefer to use during physical altercations. In any of these situations, Brawl is the skill used to determine success or failure in the combat. 
+
+[P]Most characters who grew up in a hostile environment have some knack for Brawl. All wildlife—particularly those with natural weapons—use Brawl when forced into a confrontation. Anyone who participates in military or law enforcement training learns some basic martial arts, which fall under the Brawl skill. Even more advanced or esoteric martial arts fall under the auspice of this skill. However, improvised weapons—such as a bottle or a table leg—are used with the Melee skill. 
+
+[P]In some conflicts, characters may be bound by the legal or social restrictions into fighting without weapons. Drawing a weapon could quickly escalate matters to a lethal fight and might have other repercussions, forcing the characters to depend upon their Brawl skill. 
+
+[P]Brawl is used in unarmed combat, see page 211 for more details about this. The difficulty of Brawl checks is Average [DI][DI] (the difficulty of all melee attacks) unless the opponent is incapable of resisting (in which case it might be easier at the GM's discretion). See page 204 for more details.</Description>
+    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="120">Edge of the Empire Core Rulebook</Source>
+      <Source Page="131">Age of Rebellion Core Rulebook</Source>
+      <Source Page="129">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <CharKey>BR</CharKey>
+    <TypeValue>stCombat</TypeValue>
+    <Type>Combat</Type>
   </Skill>
   <Skill>
     <Key>CHARM</Key>
@@ -54,7 +85,7 @@ The difficulty of an Athletics check is set by the severity of the task and the 
     <Description>[H4]Charm (Presence)[h4]
 For a character with a kind smile and a silver tongue, it may be possible to travel the galaxy depending upon the kindness of others. An individual with this knack is capable of giving just the right compliment to his target—often by deciphering the subject's social and cultural background. Note that the use of the Charm skill requires the acting character to maintain a degree of sincerity in his statements. A character who is flagrantly flattering with no basis in reality may be better suited to using the Deception skill. See [B]Social Skill Interactions[b] on page 113 for for more information. Politicians. salesmen, and con artists are all renowned for their Charm.
 &lt;ul&gt;
-[&lt;li&gt;Persuading an individual to make a special exception to his usual practices through flattery, flirting, and grace typically relies upon Charm. 
+&lt;li&gt;Persuading an individual to make a special exception to his usual practices through flattery, flirting, and grace typically relies upon Charm. 
 &lt;li&gt;Appeals to a targets better nature—even if it does not exist—generally require a character to use Charm. These sorts of requests may often require the target to go out of his way to aid the characters, without any hope of remuneration. 
 &lt;li&gt;Seduction attempts for most species typically rely upon Charm, but for situations where the interest is entirely feigned it is often more appropriate to use Deception. 
 &lt;/ul&gt;
@@ -68,6 +99,11 @@ Charm is often an opposed check, using the subject's Presence and Cool, except i
 
 [P][TH] and [DE] are, in a reverse fashion, harmful to a character's standing with those he is trying to sway. Threat may be spent to reduce the number of people the character is able to influence or to turn those affected negatively against the character. The GM may use [DE] to turn a single NPC against the character and to make him a minor recurring adversary.</Description>
     <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="105">Edge of the Empire Core Rulebook</Source>
+      <Source Page="117">Age of Rebellion Core Rulebook</Source>
+      <Source Page="116">Force and Destiny Core Rulebook</Source>
+    </Sources>
     <CharKey>PR</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
@@ -92,6 +128,11 @@ Coercion is an opposed check, resisted by the subject's Willpower and Discipline
 
 [P]Intimidation and strong-arm tactics are only as successful as the strength and thought behind the attempt. The GM may spend and to undermine the outcome of a characters Coercion attempt. Extra [TH] may be spent by the GM to represent a building resentment to the Coercing character. Regardless of the success or failure of the Coercion attempt, the subject may grow to despise the character as a result of being strong-armed. [DE], on the other hand, may be spent to represent the character slipping up and revealing something about his goals and motivations to the target. For instance, a character attempting to coerce a target to give up security codes for a Hutt shipping lane may let slip information concerning the cargo he is attempting to smuggle through Hutt space.</Description>
     <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="106">Edge of the Empire Core Rulebook</Source>
+      <Source Page="118">Age of Rebellion Core Rulebook</Source>
+      <Source Page="116">Force and Destiny Core Rulebook</Source>
+    </Sources>
     <CharKey>WIL</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
@@ -100,7 +141,7 @@ Coercion is an opposed check, resisted by the subject's Willpower and Discipline
     <Key>COMP</Key>
     <Name>Computers</Name>
     <Description>[H4]Computers (Intellect)[h4]
-The galaxy could scarcely function without the constant assistance of computers. Devices everywhere are linked together and coordinated by computers and droid brains. Those talented with computers can sometimes exploit these resources, or they might know how best to avoid those systems under computer control. Many people are so unconsciously dependent upon computers that those who can cleverly manipulate them may commit crimes without their victims even being aware of the offenses. Even using the HoloNet for communications or entertainment requires the use o computers—particularly if there are forces interfering with the system. This skill also governs the repair of a damaged computer system, defensive actions against an intruding slicer, and routine maintenance necessary to keep the software on a computer or droid running effectively. 
+The galaxy could scarcely function without the constant assistance of computers. Devices everywhere are linked together and coordinated by computers and droid brains. Those talented with computers can sometimes exploit these resources, or they might know how best to avoid those systems under computer control. Many people are so unconsciously dependent upon computers that those who can cleverly manipulate them may commit crimes without their victims even being aware of the offenses. Even using the HoloNet for communications or entertainment requires the use of computers—particularly if there are forces interfering with the system. This skill also governs the repair of a damaged computer system, defensive actions against an intruding slicer, and routine maintenance necessary to keep the software on a computer or droid running effectively. 
 &lt;ul&gt;
 &lt;li&gt;Attempts to open a locked door, control an elevator, or bypass a security system make use of the Computers skill. 
 &lt;li&gt;Searching through a subject's records, particularly if those notes are encrypted, makes use of Computers to overcome any security measures and interpret the material's organizational structure and any external links. 
@@ -116,8 +157,13 @@ The difficulty for a Computers check is calculated based upon any defenses prese
 
 [P]The GM may spend [TH] generated on a character's Computers check to represent the character doing a poor job of concealing his presence in the system. Security systems are alerted to the presence of the character within the system, while other slicers attempting to discover evidence of the character's actions may add [BO] to their check for each [TH] generated by the character's initial Computers check.
 
-[P][DE]may be spent by a GM to represent the character leaving behind trace information of his own system in the computer system he was attempting to slice. For each [DE] generated by the character's Computer check, the GM may add [BO] to any future Computer checks in which an NPC uses the target system to slice the character's own computer system. </Description>
+[P][DE] may be spent by a GM to represent the character leaving behind trace information of his own system in the computer system he was attempting to slice. For each [DE] generated by the character's Computer check, the GM may add [BO] to any future Computer checks in which an NPC uses the target system to slice the character's own computer system. </Description>
     <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="107">Edge of the Empire Core Rulebook</Source>
+      <Source Page="119">Age of Rebellion Core Rulebook</Source>
+      <Source Page="118">Force and Destiny Core Rulebook</Source>
+    </Sources>
     <CharKey>INT</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
@@ -136,14 +182,19 @@ Life on the fringe is filled with an endless variety of dangers. The ability to 
 &lt;li&gt;If a character has set a trap for a target, carefully lining up a shot on an unsuspecting foe, he may check for Initiative using Cool, as he calmly selects the optimal time to begin the engagement. 
 &lt;li&gt;If multiple characters are engaging a third in a social discussion in which the timing of the argument matters, Cool may be used to determine Initiative, as that character is better prepared. 
 &lt;/ul&gt;
-There is rarely an extra [SU] on a Cool check, as it is generally used to oppose another's actions, or to determine Initiative, which takes all [SU]into account. 
+There is rarely an extra [SU] on a Cool check, as it is generally used to oppose another's actions, or to determine Initiative, which takes all [SU] into account. 
 
 [P]An [AD] from a Cool check may be spent to give the character an additional insight into the situation at hand. He may notice an additional complication before it comes into play against him or identify an object that can be directly used against his opponent. Examples could be a rogue asteroid during a dogfight, a security officer near a sniper's target, or a magistrate's predilection towards a particular style of argument. 
 
 [P]A character who generates a [TR] result during a Cool check has not only stood unflinching as chaos erupts around him, but has actually come away better for it. For each [TR] result on a Cool check, the character may recover 3 strain. 
 
-[P]Sometimes a situation is so frantic that it can overwhelm even the most steadfast of souls. The GM may spend [TH] generated as a result of a Cool check to cause the character to miss a vital detail or event. For instance, if a character generates a [TH] during a duel, he may be so focused on his tar-get that he fails to notice the target's ally on the sidelines pulling a weapon of his own. If the situation goes badly enough, the character may lose all sense of where he is and what he is doing, effectively succumbing to minor shell-shock. The GM may spend any [DE] generated on a Cool check to Stun the character for one round as he is overwhelmed by the chaos around him. </Description>
+[P]Sometimes a situation is so frantic that it can overwhelm even the most steadfast of souls. The GM may spend [TH] generated as a result of a Cool check to cause the character to miss a vital detail or event. For instance, if a character generates a [TH] during a duel, he may be so focused on his target that he fails to notice the target's ally on the sidelines pulling a weapon of his own. If the situation goes badly enough, the character may lose all sense of where he is and what he is doing, effectively succumbing to minor shell-shock. The GM may spend any [DE] generated on a Cool check to Stun the character for one round as he is overwhelmed by the chaos around him. </Description>
     <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="108">Edge of the Empire Core Rulebook</Source>
+      <Source Page="120">Age of Rebellion Core Rulebook</Source>
+      <Source Page="118">Force and Destiny Core Rulebook</Source>
+    </Sources>
     <CharKey>PR</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
@@ -169,9 +220,37 @@ narrative flair, or granting additional benefits in the course of completing it.
 
 [P]To represent a character doing harm to his body in the process of a Coordination check, the GM could spend [TH] generated during that check to cause the character to lose his free maneuver for one round per Threat. [DE] represents something truly harmful happening to the character during his check. A character could suffer a wound as a result of [DE] during a Coordination check, or could lose a vital piece of equipment.</Description>
     <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="109">Edge of the Empire Core Rulebook</Source>
+      <Source Page="121">Age of Rebellion Core Rulebook</Source>
+      <Source Page="119">Force and Destiny Core Rulebook</Source>
+    </Sources>
     <CharKey>AG</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
+  </Skill>
+  <Skill>
+    <Key>CORE</Key>
+    <Name>Core Worlds</Name>
+    <Description>[H4]Core Worlds (Intellect)[h4]
+Those worlds closest to the Galactic Core are generally considered to represent the pinnacle of galactic culture and civilization—especially by those who dwell within these systems. Cultural traditions vary substantially from system to system and even between planets within a given system. A few notions are particularly common among the worlds of the Core, but even with those, there are distinct exceptions. Perfectly acceptable behavior on one planet may represent grossly disruptive manners on another, even within this culturally distinct region of the galaxy. 
+
+[P]Many hyperlanes connect the Core Worlds with the other portions of the galaxy. Because of this, visitors from foreign worlds are far more common here than in many other places. The Core Worlds represent centers of trade and diplomacy that can connect planets in disparate portions of the galaxy. 
+&lt;ul&gt;
+&lt;li&gt;If a character needs to identify a person's planet of origin without asking, he may make a Core Worlds check to recognize traits of his accent, dress, and mannerisms that are associated with a particular world. 
+&lt;li&gt;When interacting with someone from a Core World, a character might make a Core Worlds check to know what behaviors are considered necessary and polite, as opposed to ones that could be offensive. 
+&lt;li&gt;Characters who specialize in the transport and delivery of goods may make a Core Worlds check to identify which markets are the best places to sell or purchase a particular cargo. They may also recognize any worlds where such goods could be illegal. 
+&lt;/ul&gt;
+The difficulty of a Core Worlds check is generally proportionate to the rarity of the information involved. Common knowledge about Coruscant is far easier to recall than an obscure fact about a subsect on a minor moon.</Description>
+    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="123">Edge of the Empire Core Rulebook</Source>
+      <Source Page="134">Age of Rebellion Core Rulebook</Source>
+      <Source Page="132">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <CharKey>INT</CharKey>
+    <TypeValue>stKnowledge</TypeValue>
+    <Type>Knowledge</Type>
   </Skill>
   <Skill>
     <Key>DECEP</Key>
@@ -191,6 +270,11 @@ Extra [SU] on a Deception attempt may be spent to extend the duration of the Dec
 
 [P][TH] during a Deception check gives away a portion of the lie. Perhaps the target realizes that it has been lied to, but is unable to identify how much of the interaction is false, thereby becoming more suspicious of the character. [DE] may represent a more extreme example of this phenomenon; the target not only distrusts the character, but spreads the word of his deceit and harms his reputation amongst a small community of people. Additionally, the target may realize that he is being lied to and use the situation to his advantage, perhaps to insert some false information of his own. Perhaps the target is able to slip shoddy gear past the character by playing along with the lie.</Description>
     <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="109">Edge of the Empire Core Rulebook</Source>
+      <Source Page="121">Age of Rebellion Core Rulebook</Source>
+      <Source Page="120">Force and Destiny Core Rulebook</Source>
+    </Sources>
     <CharKey>CUN</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
@@ -199,7 +283,7 @@ Extra [SU] on a Deception attempt may be spent to extend the duration of the Dec
     <Key>DISC</Key>
     <Name>Discipline</Name>
     <Description>[H4]Discipline (Willpower)[h4]
-There are boundless horrors present across the span of.the galaxy. Some—like the rancor, the wampa, and the krayt dragon—are natural entities, which are horrifically violent as an outgrowth of their environs. Others, such as Sithspawn horrors or the Death Star, are deliberate creations made by sentient life, which serve little purpose save to spread terror and destruction. Through the course of their adventures, characters may often encounter creatures that seek to dismember or devour them. The ability to maintain their composure and react in an effective manner is governed by their Discipline. This skill represents a character's ability to overcome his biological instincts, so that he can overcome things that might induce utter panic in a person of lesser resolve. 
+There are boundless horrors present across the span of the galaxy. Some—like the rancor, the wampa, and the krayt dragon—are natural entities, which are horrifically violent as an outgrowth of their environs. Others, such as Sithspawn horrors or the Death Star, are deliberate creations made by sentient life, which serve little purpose save to spread terror and destruction. Through the course of their adventures, characters may often encounter creatures that seek to dismember or devour them. The ability to maintain their composure and react in an effective manner is governed by their Discipline. This skill represents a character's ability to overcome his biological instincts, so that he can overcome things that might induce utter panic in a person of lesser resolve. 
 
 [P]A character's Discipline may enable him to overcome treachery and threats that others attempt to impose upon him. It is used to resist Leadership, Coercion, and Deception. See [B]Social Skill Interactions[b] on page 113 for more information. 
 
@@ -216,9 +300,63 @@ Discipline is often used to oppose another's actions—where there is no roll—
 
 [P]The GM may spend [TH] generated during a Discipline check to undermine the character's resolve, perhaps inflicting a penalty on further actions in the face of distressing circumstances. [DE] may be spent to overwhelm the character entirely. In this case, the character is unable to perform more than a single maneuver during the following round of combat.</Description>
     <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="110">Edge of the Empire Core Rulebook</Source>
+      <Source Page="122">Age of Rebellion Core Rulebook</Source>
+      <Source Page="120">Force and Destiny Core Rulebook</Source>
+    </Sources>
     <CharKey>WIL</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
+  </Skill>
+  <Skill>
+    <Key>EDU</Key>
+    <Name>Education</Name>
+    <Description>[H4]Education (Intellect)[h4]
+Among most of the races and cultures of the galaxy, achieving literacy is a crucial first step towards adulthood. Even on the wildest cultural fringes of the Outer Rim, most individuals achieve at least this standard long before they reach physical maturity. Once literacy is attained, an individual's education generally expands to cover additional areas of expertise. 
+
+[P]Typically, this includes at least a basic grounding in the mathematics, the basic sciences, and enough understanding of engineering principles to perform basic repairs. Many also study the basics of philosophy, politics, and galactic history. From there, an understanding of the various dominant species and cultures across the galaxy provides a complement to a well-rounded education. 
+
+[P]Characters must often rely upon these essentials in order to appropriately interact with the broader galaxy. To the uneducated, places beyond their home seldom make sense. Basic cultural variances may become overwhelming challenges. 
+&lt;ul&gt;
+&lt;li&gt;Any time a character needs to interact with a government entity, an Education check may be made to identify the best way to proceed. 
+&lt;li&gt;If a character needs to employ basic scientific knowledge in an analysis, his understanding of this field is represented by his Education skill. 
+&lt;/ul&gt;
+Education also represents a default Knowledge skill. Any time a question comes up that doesn't obviously fall under one of the other Knowledge skills, Education may be used to represent the character's understanding of a particular subject matter. 
+
+[P]The difficulty for an Education check is typically best represented by the rarity of the data in question. Characters who have a reference document at hand may receive substantial bonuses, but even using such a work requires an understanding of core principles. </Description>
+    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="123">Edge of the Empire Core Rulebook</Source>
+      <Source Page="135">Age of Rebellion Core Rulebook</Source>
+      <Source Page="132">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <CharKey>INT</CharKey>
+    <TypeValue>stKnowledge</TypeValue>
+    <Type>Knowledge</Type>
+  </Skill>
+  <Skill>
+    <Key>GUNN</Key>
+    <Name>Gunnery</Name>
+    <Description>[H4]Gunnery (Agility)[h4]
+Many weapons are simply too large for a person to carry. In order to bring such a weapon to bear against an opponent, it may be mounted aboard a vehicle, hastily assembled where needed, or even built into a substantial defensive emplacement. Weapons of this sort might require a team to transport, assemble, and ultimately operate.
+
+[P]Characters seldom gain experience with weapons of this magnitude outside of military training. Weapons of this caliber are also difficult to acquire for anything but government entities. Only the most dangerous worlds have natural predators that require a weapon of this power as a proportionate response. Gunnery applies to laser cannons and proton torpedoes mounted on starships. Larger mounted weapon systems like heavy laser turrets and ion cannons are also fired using this skill.
+&lt;ul&gt;
+&lt;li&gt;If a character is piloting a starfighter, it may have weapons that are mounted upon it with a fixed orientation. Prior to making a Gunnery check, the pilot may need to maneuver his craft in order to achieve a firing solution. 
+&lt;li&gt;Characters using Gunnery to fire turret-mounted weapons may need to hold their action until a pilot can drive the vehicle so that targets are within the weapon's firing arc. 
+&lt;li&gt;Complex targeting computers and automated weapons mounts are often used with large scale weapons. Operating this equipment also falls under Gunnery. 
+&lt;/ul&gt;
+Gunnery check difficulties are determined by the distance to the target or relative silhouettes, depending on the weapon fired. The difficulty may be modified by maneuvers the character makes and specific combat situational modifiers as described in [B]Chapter VI: Conflict and Combat[b].</Description>
+    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="120">Edge of the Empire Core Rulebook</Source>
+      <Source Page="131">Age of Rebellion Core Rulebook</Source>
+      <Source Page="130">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <CharKey>AG</CharKey>
+    <TypeValue>stCombat</TypeValue>
+    <Type>Combat</Type>
   </Skill>
   <Skill>
     <Key>LEAD</Key>
@@ -238,19 +376,65 @@ The difficulty of a Leadership check is based on the complexity of the orders a 
 
 [P]Extra [SU] on a Leadership check may be used to extend the target's support for additional scenes or may increase the efficiency or effectiveness of the target during the ordered actions.
 
-[P][AD]may be used to affect bystanders in addition to the target. With [TR], the player may choose to have the target NPC become a recurring character who decides to faithfully follow the acting character. This individual may decide to join the character's crew, offering his services as a permanent aide de camp. 
+[P][AD] may be used to affect bystanders in addition to the target. With [TR], the player may choose to have the target NPC become a recurring character who decides to faithfully follow the acting character. This individual may decide to join the character's crew, offering his services as a permanent aide de camp. 
 
 [P]The GM may spend [TH] generated during a Leadership check to decrease the efficiency of the ordered actions, causing them to take longer or be done poorly. [DE] may be used to undermine the character's authority, damaging the character's ability to command the target or those who witnessed the attempt. Should a character accrue multiple [DE] on a single leadership check, the target may become a recurring thorn in the character's side, either by refusing future orders outright or turning others against the character. </Description>
     <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="111">Edge of the Empire Core Rulebook</Source>
+      <Source Page="123">Age of Rebellion Core Rulebook</Source>
+      <Source Page="121">Force and Destiny Core Rulebook</Source>
+    </Sources>
     <CharKey>PR</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
   </Skill>
   <Skill>
+    <Key>LTSABER</Key>
+    <Name>Lightsaber</Name>
+    <Description>[H4]Lightsaber (Brawn*)[h4]
+Lightsabers (and their derivatives) are quite unlike any other weapons in the galaxy. While most close combat weapons have some sort of blade or striking edge attached to a grip or handle, an inactive lightsaber seems to be nothing more than a simple weapon
+hilt. However, when activated, the hilt projects a humming "blade" of intense energy. Such weapons are difficult for even an accomplished swordfighter to use and require a very unique set of skills.
+
+[P]Although the Lightsaber skill is linked to the Brawn characteristic, many characters may have access to talents that can link the skill to a different characteristic instead, representing unique forms and fighting styles. The Lightsaber skill governs melee attacks made with
+lightsabers as well as with derivative weapons such as light whips, guard shotos, and training sabers.
+
+[P]The Lightsaber skill is most often used to make combat checks while using these weapons, though there may be other uses for this skill, at the GM's discretion. The difficulty of Lightsaber combat checks is Average ([DI][DI]), the difficulty of all melee attacks. If the opponent is incapable of resisting, the check might be easier, at the GM's discretion. The difficulty may be modified by maneuvers the character makes and specific combat situational modifiers, as described in [B]Chapter VI : Conflict and Combat[b].
+
+[P][I]* Indicates that talents may change the base characteristic.[i]</Description>
+    <Source Page="130">Force and Destiny Core Rulebook</Source>
+    <Custom>DescOnly</Custom>
+    <CharKey>BR</CharKey>
+    <TypeValue>stCombat</TypeValue>
+    <Type>Combat</Type>
+  </Skill>
+  <Skill>
+    <Key>LORE</Key>
+    <Name>Lore</Name>
+    <Description>[H4]Lore (Intellect)[h4]
+Parts of the galaxy have been inhabited for more than a million years. During that time, countless civilizations have arisen and many have gone extinct. Those civilizations that achieved interstellar travel communicated with one another and shared their histories. Over the millennia, some of these tales changed and grew into myths and legends. Many have a strong basis in truth, so much so that some of these stories still conceal a potential for tremendous profit. 
+
+[P]Characters with a particular interest in lost cultures and ancient legends may decide to try to turn this interest into a profession. Forgotten fleets, abandoned mines, and failed ventures all could be the sources of tremendous profits if recovered and restored. Other times, a character might stumble across an artifact connected to one of these legends—an item whose value could far exceed its initial appearance. Knowing enough to exploit that connection—either in selling the item or in tracking down its origins—might enable a character to substantially decrease the severity of his Obligations. 
+&lt;ul&gt;
+&lt;li&gt;Any time a character needs to decipher an ancient piece of writing or identify its context, this requires a Lore check. 
+&lt;li&gt;A character's knowledge of the legends associated with the exploits of an ancient hero is represented by the Lore skill. 
+&lt;/ul&gt;
+A Lore check's difficulty is assigned by the obscurity of the information. Well known legends may not even require a check, but the tales of a race that died out millennia ago may be nearly forgotten.</Description>
+    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="123">Edge of the Empire Core Rulebook</Source>
+      <Source Page="135">Age of Rebellion Core Rulebook</Source>
+      <Source Page="132">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <CharKey>INT</CharKey>
+    <TypeValue>stKnowledge</TypeValue>
+    <Type>Knowledge</Type>
+  </Skill>
+  <Skill>
     <Key>MECH</Key>
     <Name>Mechanics</Name>
     <Description>[H4]Mechanics (Intellect)[h4]
-Space travel is fraught with dangers. A failed life support system can leave a crew desperate to find any haven where they might safely land. A failed hyperspace engine might strand them hopelessly far from the nearest repair yard. Individuals who accept these -dangers need to either have tremendous faith in the quality of their craft or the mechanical skills of its crew. Even in those cases where confidence is based upon a craft's quality and maintenance regimen, the presence of a capable mechanic can still be crucial to the ship's ultimate survival. 
+Space travel is fraught with dangers. A failed life support system can leave a crew desperate to find any haven where they might safely land. A failed hyperspace engine might strand them hopelessly far from the nearest repair yard. Individuals who accept these dangers need to either have tremendous faith in the quality of their craft or the mechanical skills of its crew. Even in those cases where confidence is based upon a craft's quality and maintenance regimen, the presence of a capable mechanic can still be crucial to the ship's ultimate survival. 
 
 [P]Planetary and atmospheric craft, droids, and even a trusty blaster can break down at the least convenient possible moment. These different devices use vastly different technologies, but there are core concepts that any technical expert can carry over from one device to another. The Mechanics skill represents the expertise required for any of these repairs. The skill plays a critical role for any technician, but is also relevant for pilots, survivalists, and anyone else who travels the fringe. 
 &lt;ul&gt;
@@ -266,6 +450,11 @@ At the Game Master's discretion, it may be impossible to complete a repair witho
  
 [P][TH] during a Mechanics check may represent particularly shoddy repairs or temporary measures. The GM may spend [TH] to cause the target object or system to malfunction shortly after the Mechanics check is completed. [DE] may be spent to cause further harm to the target object or system, or to cause other components of the target to begin to malfunction. </Description>
     <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="111">Edge of the Empire Core Rulebook</Source>
+      <Source Page="124">Age of Rebellion Core Rulebook</Source>
+      <Source Page="122">Force and Destiny Core Rulebook</Source>
+    </Sources>
     <CharKey>INT</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
@@ -290,9 +479,35 @@ The difficulty of the check is based on the target's current state of health. Se
 
 [P]A GM may use [TH] during a Medicine check to inflict strain on the target to represent the shock of the procedure or to increase the amount of time the procedure takes. [DE] represents a truly terrible accident, perhaps the character unintentionally inflicting further wounds on a target whom he was attempting to heal of a Critical Injury.</Description>
     <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="112">Edge of the Empire Core Rulebook</Source>
+      <Source Page="125">Age of Rebellion Core Rulebook</Source>
+      <Source Page="122">Force and Destiny Core Rulebook</Source>
+    </Sources>
     <CharKey>INT</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
+  </Skill>
+  <Skill>
+    <Key>MELEE</Key>
+    <Name>Melee</Name>
+    <Description>[H4]Melee (Brawn)[h4]
+All ranged weapons require some sort of ammunition and many are loud. They typically have fragile components or require regular maintenance, which may require its own set of tools. By contrast, most melee weapons are inexpensive, virtually silent, and require little maintenance and no power beyond the strength of their wielder's limbs. Virtually any reasonably sturdy object can be used as a makeshift weapon, so a character who has become adept at the Melee skill can often make do with what's available. 
+
+[P]The majority of melee weapons depend upon the wielder's strength to inflict damage, but a few have their own energy sources. These weapons—including stun batons, vibroblades, and force pikes—are much more technically sophisticated than a simple club. However, their core principles remain the same. When a character masters the art of striking with one melee weapon, the core concepts translate effectively to other melee weapons. 
+
+[P]Any military training includes at least a basic course in melee combat preparation. In addition, characters who have spent time on primitive worlds may have learned to defend themselves with melee weapons. Aristocrats and nobles, in some systems, may also learn a number of melee techniques as part of their cultural traditions.
+
+[P]The difficulty of Melee checks is Average [DI][DI] (the difficulty of all melee attacks) unless the opponent is incapable of resisting (in which case it might be easier at the GM's discretion). The difficulty may be modified by maneuvers the character makes and specific combat situational modifiers as described in [B]Chapter VI: Conflict and Combat[b].</Description>
+    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="121">Edge of the Empire Core Rulebook</Source>
+      <Source Page="133">Age of Rebellion Core Rulebook</Source>
+      <Source Page="131">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <CharKey>BR</CharKey>
+    <TypeValue>stCombat</TypeValue>
+    <Type>Combat</Type>
   </Skill>
   <Skill>
     <Key>NEG</Key>
@@ -314,9 +529,37 @@ Often, the easiest way to get someone's cooperation is by giving them exactly wh
 
 [P][TH] during a Negotiation check may be spent to increase the cost of goods the character is attempting to purchase, to decrease the value of those he is trying to sell, or to shorten contracts he is trying to negotiate. A GM may spend [DE] to seriously sabotage the character's goals during the interaction; perhaps the character receives counterfeit goods or payment, or agrees to terms that are entirely beyond the scope of the negotiation.</Description>
     <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="113">Edge of the Empire Core Rulebook</Source>
+      <Source Page="125">Age of Rebellion Core Rulebook</Source>
+      <Source Page="123">Force and Destiny Core Rulebook</Source>
+    </Sources>
     <CharKey>PR</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
+  </Skill>
+  <Skill>
+    <Key>OUT</Key>
+    <Name>Outer Rim</Name>
+    <Description>[H4]Outer Rim (Intellect)[h4]
+The systems of the Outer Rim are filled with independent worlds, often inhabited by those who enjoy their isolation and relative freedom. Because of this, the varied worlds exhibit an incredibly diverse mix of different cultures and political systems. In many instances, they also exhibit a broad spectrum of different species that have developed a shared community founded on this diversity. 
+
+[P]Because the range of cultures is so great, anything learned about the culture of one world is not necessarily relevant to aspects of other systems in the Outer Rim—even ones that are relatively close. However, there are common attitudes and archetypal settings that are consistent throughout this region of the galaxy. Further, those who travel regularly among these worlds do get to learn of one another, and there are countless dives frequented by those who ply the spacelanes. 
+&lt;ul&gt;
+&lt;li&gt;If a character needs to find a planet with a particular resource or service among the systems of the Outer Rim, he could make an Outer Rim check to identify the most appropriate and closest options. 
+&lt;li&gt;When determining the best location to sell a cargo of goods, an Outer Rim check might reveal locations where the goods are legal, desirable, and socially acceptable. 
+&lt;li&gt;At times when a character must interact with a person from an Outer Rim world, this knowledge skill could be used to determine the most appropriate social actions to take to establish a beneficial relationship. 
+&lt;/ul&gt;
+The difficulty for an Outer Rim check is based upon the obscurity of the world and goods in question. This may also be modified based upon the specificity of the question posed.</Description>
+    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="124">Edge of the Empire Core Rulebook</Source>
+      <Source Page="135">Age of Rebellion Core Rulebook</Source>
+      <Source Page="133">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <CharKey>INT</CharKey>
+    <TypeValue>stKnowledge</TypeValue>
+    <Type>Knowledge</Type>
   </Skill>
   <Skill>
     <Key>PERC</Key>
@@ -324,7 +567,7 @@ Often, the easiest way to get someone's cooperation is by giving them exactly wh
     <Description>[H4]Perception (Cunning)[h4]
 Characters must often maintain a careful awareness of their environment. Subtle cues can hint at imminent danger or unexpected advantage. The Perception skill represents the character's constant, passive state of awareness. This is how a character notices concealed or subtle cues when he is not actively seeking them out. The skill is critical for anyone who faces dangers on a regular basis—whether they are in the wilds of a frontier world or among the urban jungle of a sprawling city.
 
-[P]Note that Perception encompasses all of a characters natural senses. Humans without cybernetic augmentation are limited to five. However, many alien races have additional means to perceive their surroundings. 
+[P]Note that Perception encompasses all of a character's natural senses. Humans without cybernetic augmentation are limited to five. However, many alien races have additional means to perceive their surroundings. 
 &lt;ul&gt;
 &lt;li&gt;If a character is unprepared for a trap or an ambush, he may have an opportunity to make a Perception check to avoid being surprised. Alternatively, this might oppose an attacker's Stealth check. 
 &lt;li&gt;Opposed Skulduggery checks are often opposed by a target's Perception. 
@@ -339,6 +582,11 @@ Perception may be opposed by skills used for concealment or might have a difficu
 
 [P][TH] resulting from a Perception check may be spent by the GM to conceal a vital detail about the situation or environment from the character. A [DE] may be spent to cause the character to obtain false information about his surroundings or the target in question.</Description>
     <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="114">Edge of the Empire Core Rulebook</Source>
+      <Source Page="126">Age of Rebellion Core Rulebook</Source>
+      <Source Page="124">Force and Destiny Core Rulebook</Source>
+    </Sources>
     <CharKey>CUN</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
@@ -350,7 +598,7 @@ Perception may be opposed by skills used for concealment or might have a difficu
 When characters travel across the surface of one of the galaxy's numerous worlds, they often stray far from their spacecraft. Smaller craft, particularly ones best suited to a given planet's habitats, are commonly used for surface transportation. This can include repulsorlift vehicles, watercraft, and aircraft. No matter how the vehicle moves—rolling, gliding, walking, flying, or floating—the skill that governs its use is Piloting (Planetary). 
 
 [P]Under normal traffic and environmental conditions, a character should never need to actually check the Piloting (Planetary) skill. Its use is reserved for the most extreme of conditions. This might include a high-speed pursuit, travel in treacherous weather conditions, the use of a failing vehicle, or any combination of these complications. For some, this skill is a passion and a livelihood; for others it is simply a necessity of their lifestyle. 
-&lt;/ul&gt;
+&lt;ul&gt;
 &lt;li&gt;If a character is confronted by a completely foreign type of atmospheric craft, they must make a Piloting (Planetary) check to decipher its basic controls. 
 &lt;li&gt;Any time two characters are involved in a race upon a world's surface, the results are determined by an opposed check using Piloting (Planetary). 
 &lt;li&gt;If a character is either chasing another or being chased, losing the follower or maintaining the tail is done through an opposed Piloting (Planetary) check.
@@ -361,8 +609,13 @@ The difficulty of a Piloting (Planetary) check may be determined based upon the 
 
 [P][AD] generated during a Piloting (Planetary) check may be spent to reveal a vulnerability in an opponent's piloting style or vehicle, giving the character a benefit in later rounds of combat. [TR] on a Piloting (Planetary) check may be used to let the character take an additional maneuver action while continuing to pilot a vehicle. 
 
-[P]A GM may spend [TH][TH]during a Piloting (Planetary) check to give opponents [BO] on checks against the character and his vehicle to represent a momentary malfunction in one of the vehicle's systems. [TR] may be spent to deal actual damage to the vehicle, as the character strains systems throughout the vehicle during his check.</Description>
+[P]A GM may spend [TH][TH] during a Piloting (Planetary) check to give opponents [BO] on checks against the character and his vehicle to represent a momentary malfunction in one of the vehicle's systems. [TR] may be spent to deal actual damage to the vehicle, as the character strains systems throughout the vehicle during his check.</Description>
     <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="115">Edge of the Empire Core Rulebook</Source>
+      <Source Page="126">Age of Rebellion Core Rulebook</Source>
+      <Source Page="124">Force and Destiny Core Rulebook</Source>
+    </Sources>
     <CharKey>AG</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
@@ -387,15 +640,67 @@ The difficulty of a Piloting (Space) check may be determined based upon the diff
 
 [P]A GM may spend two [TH] during a Piloting (Space) check to give opponents [BO] on checks against the character and his vehicle to represent a momentary malfunction in one of the vehicle's systems. [DE] may be spent to deal actual damage to the vehicle, as the character strains systems throughout the vehicle during his check. </Description>
     <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="116">Edge of the Empire Core Rulebook</Source>
+      <Source Page="127">Age of Rebellion Core Rulebook</Source>
+      <Source Page="125">Force and Destiny Core Rulebook</Source>
+    </Sources>
     <CharKey>AG</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
   </Skill>
   <Skill>
+    <Key>RANGHVY</Key>
+    <Name>Ranged - Heavy</Name>
+    <Description>[H4]Ranged - Heavy (Agility)[h4]
+When firing upon a target from range, weapons that are held with two hands offer a more stable firing platform than those which are held in a single hand. These also often have longer barrels, providing a consistent fire pattern out to a much longer range. In the larger space required for such armaments, designers can often include a significantly larger ammunition reserve and may also make the weapon far more potent than smaller weapons. This combination can yield weapons that are substantially more deadly and more accurate. 
+
+[P]There are countless varieties of rifles used throughout the galaxy. Some are simple slugthrowers, while common blaster rifles range in size from carbines to extended barrel sniper rifles. There are also a number of unique weapons, such as the Wookiee bowcaster. Any of these different weapons depend upon the Ranged (Heavy) skill in their operation. 
+
+[P]In addition to combat uses, Ranged (Heavy) weapons are commonly used for hunting purposes. Because of this, these types of weapons are seen on frontier worlds far more frequently than Ranged (Light) weapons. Characters who are focused on their wilderness survival skills may prefer the additional range that a rifle offers when confronting predators. 
+&lt;ul&gt;
+&lt;li&gt;Ranged (Heavy) weapons inflict wounds upon targets by default. A subset of the weapons in this category may have a stun option, as do some specialized stun-only weapons.
+&lt;/ul&gt;
+Ranged (Heavy) check difficulties are determined by the distance to the target. The difficulty may be modified by maneuvers the character makes and specific combat situational modifiers as described in [B]Chapter VI: Conflict and Combat[b].</Description>
+    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="121">Edge of the Empire Core Rulebook</Source>
+      <Source Page="133">Age of Rebellion Core Rulebook</Source>
+      <Source Page="131">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <CharKey>AG</CharKey>
+    <TypeValue>stCombat</TypeValue>
+    <Type>Combat</Type>
+  </Skill>
+  <Skill>
+    <Key>RANGLT</Key>
+    <Name>Ranged - Light</Name>
+    <Description>[H4]Ranged - Light (Agility)[h4]
+Many characters prefer to wield a weapon that can be effectively held with one hand, rather than carrying something larger. This may be a preference based upon the ease of concealment, or it could be simply a stylistic choice. Alternatively, some individuals feel that they must be able to keep another hand free, allowing them to, for example, pilot a speeder bike and fire a blaster pistol at the same time. 
+
+[P]A broad selection of weapons falls under the category of the Ranged (Light) skill. It includes any weapon that can be fired with one hand, without the benefit of a brace or other support element. Specific examples include countless pistols, but also spears, nets, and thermal detonators. Some are so small as to be easily concealed, while others can only be wielded by the strongest of individuals. 
+
+[P]The Ranged (Light) skill reflects the hand-eye coordination that a character has developed in conjunction with his intuitive grasp of wind resistance, gravity, and distance. Upon first arriving on a planet, an expert in this field may wish to practice his abilities so that he can learn how the world's environs might affect them. 
+&lt;ul&gt;
+&lt;li&gt;The vast majority of Ranged (Light) weapons inflict wounds against targets. Those that are capable of inflicting strain are specifically indicated and typically must be adjusted for use in that firing mode. 
+&lt;li&gt;Characters may wield a Ranged (Light) weapon in each hand, or wield a melee weapon that can reasonably be used one-handed and a Ranged (Light) weapon in the other hand. See page 210 for more information. 
+&lt;/ul&gt;
+Ranged (Light) check difficulties are determined by the distance to the target. The difficulty may be modified by maneuvers the character makes and specific combat situational modifiers as described in [B]Chapter VI: Conflict and Combat[b]. </Description>
+    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="122">Edge of the Empire Core Rulebook</Source>
+      <Source Page="133">Age of Rebellion Core Rulebook</Source>
+      <Source Page="131">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <CharKey>AG</CharKey>
+    <TypeValue>stCombat</TypeValue>
+    <Type>Combat</Type>
+  </Skill>
+  <Skill>
     <Key>RESIL</Key>
     <Name>Resilience</Name>
     <Description>[H4]Resilience (Brawn)[h4]
-The galaxy doesn't stop moving lust because a character needs a break. To achieve their objectives, characters must often have the perseverance to overcome the most challenging obstacles. These can include sleep deprivation, hideous climates, and malnutrition. They might also ingest toxins, either inadvertently when scavenging for food or due to the malicious actions of a competitor. 
+The galaxy doesn't stop moving just because a character needs a break. To achieve their objectives, characters must often have the perseverance to overcome the most challenging obstacles. These can include sleep deprivation, hideous climates, and malnutrition. They might also ingest toxins, either inadvertently when scavenging for food or due to the malicious actions of a competitor. 
 
 [P]Resilience represents a character's physical fortitude against all threats of this sort. This skill reflects the body's ability to be pushed beyond reasonable limits. When characters make a Resilience check, their actions are typically taking them into situations that most would consider bad ideas. 
 &lt;ul&gt;
@@ -406,12 +711,17 @@ The galaxy doesn't stop moving lust because a character needs a break. To achiev
 &lt;/ul&gt;
 The difficulty for a Resilience check is based upon the severity of the effects that the character attempts to overcome. Going 24 hours without sleep could add only a single [DI], but traveling through the Tatooine desert with inadequate water at midday should be far more difficult. 
 
-[P]Extra [SU] on a Resilience check may be used to ex-tend the effects of the Success, so that the character may go for a longer period of time prior to making an additional check. 
+[P]Extra [SU] on a Resilience check may be used to extend the effects of the Success, so that the character may go for a longer period of time prior to making an additional check. 
 
 [P]An [AD] earned on a Resilience check may be used to identify a way for the character and his allies to reduce the difficulty of future checks against the same threat, while a [TR] may be spent to recover three strain as the character resolves to work through the adversity. 
 
 [P]The GM may spend [TH] generated during a Resilience check to overburden the character, inflicting penalties on subsequent checks. [DE] may be spent to inflict a wound or a minor Critical Injury on the character as he succumbs to the harsh conditions.</Description>
     <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="116">Edge of the Empire Core Rulebook</Source>
+      <Source Page="127">Age of Rebellion Core Rulebook</Source>
+      <Source Page="125">Force and Destiny Core Rulebook</Source>
+    </Sources>
     <CharKey>BR</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
@@ -434,6 +744,11 @@ Skulduggery is often opposed by a target's Perception. In instances where anothe
 
 [P]By generating [TH] during a Skulduggery check, a character gives the GM the opportunity to catch him immediately after the act. Depending on the amount of Threat spent by the GM, the character will be in varying degrees of danger; the more Threat, the more immediate the discovery and ensuing danger. The GM may spend [DE] to cause the character to leave behind some evidence of his larceny. Perhaps a recognizable piece of adornment, such as the character's heirloom ring, slips off into the target's pocket as the character attempts to pick it.</Description>
     <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="116">Edge of the Empire Core Rulebook</Source>
+      <Source Page="128">Age of Rebellion Core Rulebook</Source>
+      <Source Page="126">Force and Destiny Core Rulebook</Source>
+    </Sources>
     <CharKey>CUN</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
@@ -460,6 +775,11 @@ The difficulty of a Stealth check often depends on the abilities of those the ch
 
 [P]The GM may spend [TH] generated during a Stealth check to hinder the character as he attempts to remain hidden. The character may need to overcome a particularly unpleasant obstacle or take extra time to remain out of sight. The GM may increase the time it takes for the character to perform his desired action while hidden by 25% per [TH] spent in this way. The GM may spend [DE] to cause the character to leave behind some evidence of his passing. While this has no bearing on the success or failure of his Stealth check, some object, clue, or information is left behind concerning the character's identity and possibly even his motive.</Description>
     <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="117">Edge of the Empire Core Rulebook</Source>
+      <Source Page="128">Age of Rebellion Core Rulebook</Source>
+      <Source Page="126">Force and Destiny Core Rulebook</Source>
+    </Sources>
     <CharKey>AG</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
@@ -482,6 +802,11 @@ Generally, Knowledge (Underworld) governs specific information and facts involvi
 
 [P]The GM may spend [TH] generated during a Streetwise check to seed the gathered information with minor falsehoods, representing the ever-changing nature of information passed by word of mouth on the street. [DE] may be spent to represent a character letting slip details about himself or the information he seeks, information that may be picked up by an adversary.</Description>
     <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="118">Edge of the Empire Core Rulebook</Source>
+      <Source Page="130">Age of Rebellion Core Rulebook</Source>
+      <Source Page="127">Force and Destiny Core Rulebook</Source>
+    </Sources>
     <CharKey>CUN</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
@@ -496,20 +821,46 @@ It is not uncommon for characters to become isolated far from civilized worlds. 
 &lt;ul&gt;
 &lt;li&gt;When a character needs to identify safe food, potable water, or shelter in a natural environment, each of these tasks requires a Survival check. 
 &lt;li&gt;Characters who are skilled at Survival understand weather patterns; recognizing the signs of imminent dangerous conditions, and knowing how to prepare. 
-&lt;li&gt;Tracking a subject through the wilderness—whether game or a bounty—is dependent upon, Survival.
+&lt;li&gt;Tracking a subject through the wilderness—whether game or a bounty—is dependent upon Survival.
 &lt;li&gt;Survival governs a character's ability to handle domesticated animals, so that they may be used as beasts of burden or as transport. 
 &lt;/ul&gt;
 The difficulty for a Survival check is dependent upon the severity of the environment. Key factors are the biocompatibility of a world's native life with the PC, weather conditions, and the basic tools on hand. 
 
-[P][SU]that exceed the difficulty on a Survival check may be used to assist other characters in surviving. Alternatively, the character may choose to stockpile goods so that he may go a longer period of time between checks. 
+[P][SU] that exceed the difficulty on a Survival check may be used to assist other characters in surviving. Alternatively, the character may choose to stockpile goods so that he may go a longer period of time between checks. 
 
 [P][AD] may be spent to gain an insight into the environment that makes future Survival checks easier. This might be a watering hole where prey is common, an abandoned cave that makes an excellent shelter, or a grove of biocompatible fruit trees. When tracking, an [AD] may be spent to learn a detail about the target, its numbers, its species, or how recently tracks were made. [TR] generated during a Survival check to handle animals may be spent to permanently predispose the target animal towards the character in a positive way, effectively earning the character a loyal companion. While tracking, [TR] may be spent to learn a vital clue about the target, whether his destination, his disposition, or the presence of prisoners or cargo. 
 
 [P]The GM may spend [TH] generated on a Survival check to represent the character spending vital resources during the course of his check, perhaps using food as bait to catch game, or losing fuel in an attempt to make a fire. [DE] may be spent to inflict wounds, Critical Injuries, or high levels of strain on the character as he succumbs to the untamed environments of the galaxy.</Description>
     <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="119">Edge of the Empire Core Rulebook</Source>
+      <Source Page="130">Age of Rebellion Core Rulebook</Source>
+      <Source Page="128">Force and Destiny Core Rulebook</Source>
+    </Sources>
     <CharKey>CUN</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
+  </Skill>
+  <Skill>
+    <Key>UND</Key>
+    <Name>Underworld</Name>
+    <Description>[H4]Underworld (Intellect)[h4]
+In some places, criminal elements control the government through less than legal machinations. In others, the crime families function as the only effective ruling force. In more traditionally governed areas, seedier elements are dependent upon secrecy and deception as the core elements of their practices. Before a character can even begin to establish contacts among a world's criminal elements, he must first understand which of these organizational structures are in play.
+
+[P]Once a character deciphers how he might establish a contact, he must next find out with whom he needs to speak. Different groups or individuals might control different parts of the criminal trade. A contact for gambling is likely different than one who deals in illicit pharmaceuticals, while a third individual is likely the point of contact for military grade weapons. Depending upon a character's needs and the criminal elements active on a world, finding the right contact could be trivial or extremely time-consuming. 
+&lt;ul&gt;
+&lt;li&gt;The Underworld skill may be used to know which nearby worlds are the best locations for a particular type of illegal business. 
+&lt;li&gt;A familiarity with Underworld may be useful if the characters need to determine the most common methods that an opponent might use for a particular type of criminal activity. 
+&lt;/ul&gt;When the criminal nature of a location or individual is well known, recalling the relevant data should be easy. The difficulty of the task should be much more challenging if the individual has gone to lengths to conceal his illegal activities.</Description>
+    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="124">Edge of the Empire Core Rulebook</Source>
+      <Source Page="136">Age of Rebellion Core Rulebook</Source>
+      <Source Page="133">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <CharKey>INT</CharKey>
+    <TypeValue>stKnowledge</TypeValue>
+    <Type>Knowledge</Type>
   </Skill>
   <Skill>
     <Key>VIGIL</Key>
@@ -530,184 +881,12 @@ The difficulty for a Vigilance check is typically modified by the likelihood of 
 
 [P]The GM may spend [TH] generated during a Vigilance check to cause the character to miss a key piece of information about the situation or the environment, blinding him to a possible advantage. The GM may spend [DE] to make the character unable to perform more than a single maneuver during the first round of combat.</Description>
     <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="119">Edge of the Empire Core Rulebook</Source>
+      <Source Page="130">Age of Rebellion Core Rulebook</Source>
+      <Source Page="129">Force and Destiny Core Rulebook</Source>
+    </Sources>
     <CharKey>WIL</CharKey>
-    <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
-  </Skill>
-  <Skill>
-    <Key>BRAWL</Key>
-    <Name>Brawl</Name>
-    <Description>[H4]Brawl (Brawn)[h4]
-During some physical confrontations, a character seeks to incapacitate his foe without seriously injuring him. At other times, a melee erupts with little preparation, and a character may not have any weapon at hand. Some individuals are thoroughly trained in unarmed combat, or have natural weapons that they prefer to use during physical altercations. In any of these situations, Brawl is the skill used to determine success or failure in the combat. 
-
-[P]Most characters who grew up in a hostile environment have some knack for Brawl. All wildlife—particularly those with natural weapons—use Brawl when forced into a confrontation. Anyone who participates in military or law enforcement training learns some basic martial arts, which fall under the Brawl skill. Even more advanced or esoteric martial arts fall under the auspice of this skill. However, improvised weapons—such as a bottle or a table leg—are used with the Melee skill. 
-
-[P]In some conflicts, characters may be bound by the legal or social restrictions into fighting without weapons. Drawing a weapon could quickly escalate matters to a lethal fight and might have other repercussions, forcing the characters to depend upon their Brawl skill. 
-
-[P]Brawl is used in unarmed combat, see page 211 for more details about this. The difficulty of Brawl checks is Average [DI][DI] (the difficulty of all melee attacks) unless the opponent is incapable of resisting (in which case it might be easier at the GM's discretion). See page 204 for more details.</Description>
-    <Custom>DescOnly</Custom>
-    <CharKey>BR</CharKey>
-    <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
-  </Skill>
-  <Skill>
-    <Key>GUNN</Key>
-    <Name>Gunnery</Name>
-    <Description>[H4]Gunnery (Agility)[h4]
-Many weapons are simply too large for a person to carry. In order to bring such a weapon to bear against an opponent, it may be mounted aboard a vehicle, hastily assembled where needed, or even built into a substantial defensive emplacement. Weapons of this sort might require a team to transport, assemble, and ultimately operate.
-
-[P]Characters seldom gain experience with weapons of this magnitude outside of military training. Weapons of this caliber are also difficult to acquire for anything but government entities. Only the most dangerous worlds have natural predators that require a weapon of this power as a proportionate response. Gunnery applies to laser cannons and proton torpedoes mounted on starships. Larger mounted weapon systems like heavy laser turrets and ion cannons are also fired using this skill.
-&lt;ul&gt;
-&lt;li&gt;If a character is piloting a starfighter, it may have weapons that are mounted upon it with a fixed orientation. Prior to making a Gunnery check, the pilot may need to maneuver his craft in order to achieve a firing solution. 
-&lt;li&gt;Characters using Gunnery to fire turret-mounted weapons may need to hold their action until a pilot can drive the vehicle so that targets are within the weapon's firing arc. 
-&lt;li&gt;Complex targeting computers and automated weapons mounts are often used with large scale weapons. Operating this equipment also falls under Gunnery. 
-&lt;/ul&gt;
-Gunnery check difficulties are determined by the distance to the target or relative silhouettes, depending on the weapon fired. The difficulty may be modified by maneuvers the character makes and specific combat situational modifiers as described in [B]Chapter VI: Conflict and Combat[b].</Description>
-    <Custom>DescOnly</Custom>
-    <CharKey>AG</CharKey>
-    <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
-  </Skill>
-  <Skill>
-    <Key>MELEE</Key>
-    <Name>Melee</Name>
-    <Description>[H4]Melee (Brawn)[h4]
-All ranged weapons require some sort of ammunition and many are loud. They typically have fragile components or require regular maintenance, which may require its own set of tools. By contrast, most melee weapons are inexpensive, virtually silent, and require little maintenance and no power beyond the strength of their wielder's limbs. Virtually any reasonably sturdy object can be used as a makeshift weapon, so a character who has become adept at the Melee skill can often make do with what's available. 
-
-[P]The majority of melee weapons depend upon the wielder's strength to inflict damage, but a few have their own energy sources. These weapons—including stun batons, vibroblades, and force pikes—are much more technically sophisticated than a simple club. However, their core principles remain the same. When a character masters the art of striking with one melee weapon, the core concepts translate effectively to other melee weapons. 
-
-[P]Any military training includes at least a basic course in melee combat preparation. In addition, characters who have spent time on primitive worlds may have learned to defend themselves with melee weapons. Aristocrats and nobles, in some systems, may also learn a number of melee techniques as part of their cultural traditions.
-
-[P]The difficulty of Melee checks is Average [DI][DI] (the difficulty of all melee attacks) unless the opponent is incapable of resisting (in which case it might be easier at the GM's discretion). The difficulty may be modified by maneuvers the character makes and specific combat situational modifiers as described in [B]Chapter VI: Conflict and Combat[b].</Description>
-    <Custom>DescOnly</Custom>
-    <CharKey>BR</CharKey>
-    <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
-  </Skill>
-  <Skill>
-    <Key>RANGHVY</Key>
-    <Name>Ranged - Heavy</Name>
-    <Description>[H4]Ranged - Heavy (Agility)[h4]
-When firing upon a target from range, weapons that are held with two hands offer a more stable firing platform than those which are held in a single hand. These also often have longer barrels, providing a consistent fire pattern out to a much longer range. In the larger space required for such armaments, designers can often include a significantly larger ammunition reserve and may also make the weapon far more potent than smaller weapons. This combination can yield weapons that are substantially more deadly and more accurate. 
-
-[P]There are countless varieties of rifles used throughout the galaxy. Some are simple slugthrowers, while common blaster rifles range in size from carbines to extended barrel sniper rifles. There are also a number of unique weapons, such as the Wookiee bowcaster. Any of these different weapons depend upon the Ranged (Heavy) skill in their operation. 
-
-[P]In addition to combat uses, Ranged (Heavy) weapons are commonly used for hunting purposes. Because of this, these types of weapons are seen on frontier worlds far more frequently than Ranged (Light) weapons. Characters who are focused 'on their wilderness survival skills may prefer the additional range that a rifle offers when confronting predators. 
-&lt;ul&gt;
-&lt;li&gt;Ranged (Heavy) weapons inflict wounds upon targets by default. A subset of the weapons in this category may have a stun option, as do some specialized stun-only weapons.
-&lt;/ul&gt;
-Ranged (Heavy) check difficulties are determined by the distance to the target. The difficulty may be modified by maneuvers the character makes and specific combat situational modifiers as described in [B]Chapter VI: Conflict and Combat[b].</Description>
-    <Custom>DescOnly</Custom>
-    <CharKey>AG</CharKey>
-    <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
-  </Skill>
-  <Skill>
-    <Key>RANGLT</Key>
-    <Name>Ranged - Light</Name>
-    <Description>[H4]Ranged - Light (Agility)[h4]
-Many characters prefer to wield a weapon that can be effectively held with one hand, rather than carrying something larger. This may be a preference based upon the ease of concealment, or it could be simply a stylistic choice. Alternatively, some individuals feel that they must be able to keep another hand free, allowing them to, for example, pilot a speeder bike and fire a blaster pistol at the same time. 
-
-[P]A broad selection of weapons falls under the category of the Ranged (Light) skill. It includes any weapon that can be fired with one hand, without the benefit of a brace or other support element. Specific examples include countless pistols, but also spears, nets, and thermal detonators. Some are so small as to be easily concealed, while others can only be wielded by the strongest of individuals. 
-
-[P]The Ranged (Light) skill reflects the hand-eye coordination that a character has developed in conjunction with his intuitive grasp of wind resistance, gravity, and distance. Upon first arriving on a planet, an expert in this field may wish to practice his abilities so that he can learn how the world's environs might affect them. 
-&lt;ul&gt;
-&lt;li&gt;The vast majority of Ranged (Light) weapons inflict wounds against targets. Those that are capable of inflicting strain are specifically indicated and typically must be adjusted for use in that firing mode. 
-&lt;li&gt;Characters may wield a Ranged (Light) weapon in each hand, or wield a melee weapon that can reasonably be used one-handed and a Ranged (Light) weapon in the other hand. See page 210 for more information. 
-&lt;/ul&gt;
-Ranged (Light) check difficulties are determined by the distance to the target. The difficulty may be modified by maneuvers the character makes and specific combat situational modifiers as described in [B]Chapter VI: Conflict and Combat[b]. </Description>
-    <Custom>DescOnly</Custom>
-    <CharKey>AG</CharKey>
-    <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
-  </Skill>
-  <Skill>
-    <Key>CORE</Key>
-    <Name>Core Worlds</Name>
-    <Description>[H4]Core Worlds (Intellect)[h4]
-Those worlds closest to the Galactic Core are generally considered to represent the pinnacle of galactic culture and civilization—especially by those who dwell within these systems. Cultural traditions vary substantially from system to system and even between planets within a given system. A few notions are particularly common among the worlds of the Core, but even with those, there are distinct exceptions. Perfectly acceptable behavior on one planet may represent grossly disruptive manners on another, even within this culturally distinct region of the galaxy. 
-
-[P]Many hyperlanes connect the Core Worlds with the other portions of the galaxy. Because of this, visitors from foreign worlds are far more common here than in many other places. The Core Worlds represent centers of trade and diplomacy that can connect planets in disparate portions of the galaxy. 
-&lt;ul&gt;
-&lt;li&gt;If a character needs to identify a person's planet of origin without asking, he may make a Core Worlds check to recognize traits of his accent, dress, and mannerisms that are associated with a particular world. 
-&lt;li&gt;When interacting with someone from a Core World, a character might make a Core Worlds check to know what behaviors are considered necessary and polite, as opposed to ones that could be offensive. 
-&lt;li&gt;Characters who specialize in the transport and delivery of goods may make a Core Worlds check to identify which markets are the best places to sell or purchase a particular cargo. They may also recognize any worlds where such goods could be illegal. 
-&lt;/ul&gt;
-The difficulty of a Core Worlds check is generally proportionate to the rarity of the information involved. Common knowledge about Coruscant is far easier to recall than an obscure fact about a subsect on a minor moon.</Description>
-    <Custom>DescOnly</Custom>
-    <CharKey>INT</CharKey>
-    <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
-  </Skill>
-  <Skill>
-    <Key>EDU</Key>
-    <Name>Education</Name>
-    <Description>[H4]Education (Intellect)[h4]
-Among most of the races and cultures of the galaxy, achieving literacy is a crucial first step towards adulthood. Even on the wildest cultural fringes of the Outer Rim, most individuals achieve at least this standard long before they reach physical maturity. Once literacy is attained, an individual's education generally expands to cover additional areas of expertise. 
-
-[P]Typically, this includes at least a basic grounding in the mathematics, the basic sciences, and enough understanding of engineering principles to perform basic repairs. Many also study the basics of philosophy, politics, and galactic history. From there, an understanding of the various dominant species and cultures across the galaxy provides a complement to a well-rounded education. 
-
-[P]Characters must often rely upon these essentials in order to appropriately interact with the broader galaxy. To the uneducated, places beyond their home seldom make sense. Basic cultural variances may become overwhelming challenges. 
-&lt;ul&gt;
-&lt;li&gt;Any time a character needs to interact with a government entity, an Education check may be made to identify the best way to proceed. 
-&lt;li&gt;If a character needs to employ basic scientific knowledge in an analysis, his understanding of this field is represented by his Education skill. 
-&lt;/ul&gt;
-Education also represents a default Knowledge skill. Any time a question comes up that doesn't obviously fall under one of the other Knowledge skills, Education may be used to represent the character's understanding of a particular subject matter. 
-
-[P]The difficulty for an Education check is typically best represented by the rarity of the data in question. Characters who have a reference document at hand may receive substantial bonuses, but even using such a work requires an understanding of core principles. </Description>
-    <Custom>DescOnly</Custom>
-    <CharKey>INT</CharKey>
-    <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
-  </Skill>
-  <Skill>
-    <Key>LORE</Key>
-    <Name>Lore</Name>
-    <Description>[H4]Lore (Intellect)[h4]
-Parts of the galaxy have been inhabited for more than a million years. During that time, countless civilizations have arisen and many have gone extinct. Those civilizations that achieved interstellar travel communicated with one another and shared their histories. Over the millennia, some of these tales changed and grew into myths and legends. Many have a strong basis in truth, so much so that some of these stories still conceal a potential for tremendous profit. 
-
-[P]Characters with a particular interest in lost cultures and ancient legends may decide to try to turn this interest into a profession. Forgotten fleets, abandoned mines, and failed ventures all could be the sources of tremendous profits if recovered and restored. Other times, a character might stumble across an artifact connected to one of these legends—an item whose value could far exceed its initial appearance. Knowing enough to exploit that connection—either in selling the item or in tracking down its origins—might enable a character to substantially decrease the severity of his Obligations. 
-&lt;ul&gt;
-&lt;li&gt;Any time a character needs to decipher an ancient piece of writing or identify its context, this requires a Lore check. 
-&lt;li&gt;A character's knowledge of the legends associated with the exploits of an ancient hero is represented by the Lore skill. 
-&lt;/ul&gt;
-A Lore check's difficulty is assigned by the obscurity of the information. Well known legends may not even require a check, but the tales of a race that died out millennia ago may be nearly forgotten.</Description>
-    <Custom>DescOnly</Custom>
-    <CharKey>INT</CharKey>
-    <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
-  </Skill>
-  <Skill>
-    <Key>OUT</Key>
-    <Name>Outer Rim</Name>
-    <Description>[H4]Outer Rim (Intellect)[h4]
-The systems of the Outer Rim are filled with independent worlds, often inhabited by those who enjoy their isolation and relative freedom. Because of this, the varied worlds exhibit an incredibly diverse mix of different cultures and political systems. In many instances, they also exhibit a broad spectrum of different species that have developed a shared community founded on this diversity. 
-
-[P]Because the range of cultures is so great, anything learned about the culture of one world is not necessarily relevant to aspects of other systems in the Outer Rim—even ones that are relatively close. However, there are common attitudes and archetypal settings that are consistent throughout this region of the galaxy. Further, those who travel regularly among these worlds do get to learn of one another, and there are countless dives frequented by those who ply the spacelanes. 
-&lt;ul&gt;
-&lt;li&gt;If a character needs to find a planet with a particular resource or service among the systems of the Outer Rim, he could make an Outer Rim check to identify the most appropriate and closest options. 
-&lt;li&gt;When determining the best location to sell a cargo of goods, an Outer Rim check might reveal locations where the goods are legal, desirable, and socially acceptable. 
-&lt;li&gt;At times when a character must interact with a person from an Outer Rim world, this knowledge skill could be used to determine the most appropriate social actions to take to establish a beneficial relationship. 
-&lt;/ul&gt;
-The difficulty for an Outer Rim check is based upon the obscurity of the world and goods in question. This may also be modified based upon the specificity of the question posed.</Description>
-    <Custom>DescOnly</Custom>
-    <CharKey>INT</CharKey>
-    <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
-  </Skill>
-  <Skill>
-    <Key>UND</Key>
-    <Name>Underworld</Name>
-    <Description>[H4]Underworld (Intellect)[h4]
-In some places, criminal elements control the government through less than legal machinations. In others, the crime families function as the only effective ruling force. In more traditionally governed areas, seedier elements are dependent upon secrecy and deception as the core elements of their practices. Before a character can even begin to establish contacts among a world's criminal elements, he must first understand which of these organizational structures are in play.
-
-[P]Once a character deciphers how he might establish a contact, he must next find out with whom he needs to speak. Different groups or individuals might control different parts of the criminal trade. A contact for gambling is likely different than one who deals in illicit pharmaceuticals, while a third individual is likely the point of contact for military grade weapons. Depending upon a character's needs and the criminal elements active on a world, finding the right contact could be trivial or extremely time-consuming. 
-&lt;ul&gt;
-&lt;li&gt;The Underworld skill may be used to know which nearby worlds are the best locations for a particular type of illegal business. 
-&lt;li&gt;A familiarity with Underworld may be useful if the characters need to determine the most common methods that an opponent might use for a particular type of criminal activity. 
-&lt;/ul&gt;When the criminal nature of a location or individual is well known, recalling the relevant data should be easy. The difficulty of the task should be much more challenging if the individual has gone to lengths to conceal his illegal activities.</Description>
-    <Custom>DescOnly</Custom>
-    <CharKey>INT</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
   </Skill>
@@ -725,9 +904,14 @@ The motivations, biological origins, and philosophies of the galaxy's varied spe
 &lt;/ul&gt;
 The difficulty for a Xenology check should be based upon both how often the acting character interacts with the members of the species in question and the relative rarity of that species.</Description>
     <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="125">Edge of the Empire Core Rulebook</Source>
+      <Source Page="137">Age of Rebellion Core Rulebook</Source>
+      <Source Page="133">Force and Destiny Core Rulebook</Source>
+    </Sources>
     <CharKey>INT</CharKey>
-    <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
+    <TypeValue>stKnowledge</TypeValue>
+    <Type>Knowledge</Type>
   </Skill>
   <Skill>
     <Key>WARF</Key>
@@ -741,30 +925,11 @@ The Star Wars galaxy has been shaped for millennia by warfare. From the ancient 
 &lt;li&gt;Any time a character wants to remember details about a significant event, organization, or individual who played a role in a galactic struggle, he should make a Warfare check. 
 &lt;/ul&gt;
 The difficulty of the Warfare check is based upon how hard it would be to acquire the information the character wishes to know. Classified, highly localized, or ancient information is obviously more obscure, while standardized structures and patterns that the character has encountered before are much easier to remember.</Description>
-    <Source>Age of Rebellion Core Rulebook</Source>
+    <Source Page="136">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <CharKey>INT</CharKey>
-    <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
-  </Skill>
-  <Skill>
-    <Key>LTSABER</Key>
-    <Name>Lightsaber</Name>
-    <Description>[H4]Lightsaber (Brawn*)[h4]
-Lightsabers (and their derivatives) are quite unlike any other weapons in the galaxy. While most close combat weapons have some sort of blade or striking edge attached to a grip or handle, an inactive lightsaber seems to be nothing more than a simple weapon
-hilt. However, when activated, the hilt projects a humming "blade" of intense energy. Such weapons are difficult for even an accomplished swordfighter to use and require a very unique set of skills.
-
-[P]Although the Lightsaber skill is linked to the Brawn characteristic, many characters may have access to talents that can link the skill to a different characteristic instead, representing unique forms and fighting styles. The Lightsaber skill governs melee attacks made with
-lightsabers as well as with derivative weapons such as light whips, guard shotos, and training sabers.
-
-[P]The Lightsaber skill is most often used to make combat checks while using these weapons, though there may be other uses for this skill, at the GM's discretion. The difficulty of Lightsaber combat checks is Average ([DI][DI]), the difficulty of all melee attacks. If the opponent is incapable of resisting, the check might be easier, at the GM's discretion. The difficulty may be modified by maneuvers the character makes and specific combat situational modifiers, as described in [B]Chapter VI : Conflict and Combat[b].
-
-[P][I]* Indicates that talents may change the base characteristic.[i]</Description>
-    <Source>Force and Destiny Core Rulebook</Source>
-    <Custom>DescOnly</Custom>
-    <CharKey>BR</CharKey>
-    <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
+    <TypeValue>stKnowledge</TypeValue>
+    <Type>Knowledge</Type>
   </Skill>
   <Skill>
     <Key>CYBERNETICS</Key>
