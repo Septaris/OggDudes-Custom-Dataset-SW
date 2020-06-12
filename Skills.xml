@@ -59,6 +59,27 @@ The difficulty of an Athletics check is set by the severity of the task and the 
     <Type>General</Type>
   </Skill>
   <Skill>
+    <Key>BRAWL</Key>
+    <Name>Brawl</Name>
+    <Description>[H4]Brawl (Brawn)[h4]
+During some physical confrontations, a character seeks to incapacitate his foe without seriously injuring him. At other times, a melee erupts with little preparation, and a character may not have any weapon at hand. Some individuals are thoroughly trained in unarmed combat, or have natural weapons that they prefer to use during physical altercations. In any of these situations, Brawl is the skill used to determine success or failure in the combat. 
+
+[P]Most characters who grew up in a hostile environment have some knack for Brawl. All wildlife—particularly those with natural weapons—use Brawl when forced into a confrontation. Anyone who participates in military or law enforcement training learns some basic martial arts, which fall under the Brawl skill. Even more advanced or esoteric martial arts fall under the auspice of this skill. However, improvised weapons—such as a bottle or a table leg—are used with the Melee skill. 
+
+[P]In some conflicts, characters may be bound by the legal or social restrictions into fighting without weapons. Drawing a weapon could quickly escalate matters to a lethal fight and might have other repercussions, forcing the characters to depend upon their Brawl skill. 
+
+[P]Brawl is used in unarmed combat, see page 211 for more details about this. The difficulty of Brawl checks is Average [DI][DI] (the difficulty of all melee attacks) unless the opponent is incapable of resisting (in which case it might be easier at the GM's discretion). See page 204 for more details.</Description>
+    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="120">Edge of the Empire Core Rulebook</Source>
+      <Source Page="131">Age of Rebellion Core Rulebook</Source>
+      <Source Page="129">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <CharKey>BR</CharKey>
+    <TypeValue>stCombat</TypeValue>
+    <Type>Combat</Type>
+  </Skill>
+  <Skill>
     <Key>CHARM</Key>
     <Name>Charm</Name>
     <Description>[H4]Charm (Presence)[h4]
@@ -209,6 +230,29 @@ narrative flair, or granting additional benefits in the course of completing it.
     <Type>General</Type>
   </Skill>
   <Skill>
+    <Key>CORE</Key>
+    <Name>Core Worlds</Name>
+    <Description>[H4]Core Worlds (Intellect)[h4]
+Those worlds closest to the Galactic Core are generally considered to represent the pinnacle of galactic culture and civilization—especially by those who dwell within these systems. Cultural traditions vary substantially from system to system and even between planets within a given system. A few notions are particularly common among the worlds of the Core, but even with those, there are distinct exceptions. Perfectly acceptable behavior on one planet may represent grossly disruptive manners on another, even within this culturally distinct region of the galaxy. 
+
+[P]Many hyperlanes connect the Core Worlds with the other portions of the galaxy. Because of this, visitors from foreign worlds are far more common here than in many other places. The Core Worlds represent centers of trade and diplomacy that can connect planets in disparate portions of the galaxy. 
+&lt;ul&gt;
+&lt;li&gt;If a character needs to identify a person's planet of origin without asking, he may make a Core Worlds check to recognize traits of his accent, dress, and mannerisms that are associated with a particular world. 
+&lt;li&gt;When interacting with someone from a Core World, a character might make a Core Worlds check to know what behaviors are considered necessary and polite, as opposed to ones that could be offensive. 
+&lt;li&gt;Characters who specialize in the transport and delivery of goods may make a Core Worlds check to identify which markets are the best places to sell or purchase a particular cargo. They may also recognize any worlds where such goods could be illegal. 
+&lt;/ul&gt;
+The difficulty of a Core Worlds check is generally proportionate to the rarity of the information involved. Common knowledge about Coruscant is far easier to recall than an obscure fact about a subsect on a minor moon.</Description>
+    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="123">Edge of the Empire Core Rulebook</Source>
+      <Source Page="134">Age of Rebellion Core Rulebook</Source>
+      <Source Page="132">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <CharKey>INT</CharKey>
+    <TypeValue>stKnowledge</TypeValue>
+    <Type>Knowledge</Type>
+  </Skill>
+  <Skill>
     <Key>DECEP</Key>
     <Name>Deception</Name>
     <Description>[H4]Deception (Cunning)[h4]
@@ -266,6 +310,55 @@ Discipline is often used to oppose another's actions—where there is no roll—
     <Type>General</Type>
   </Skill>
   <Skill>
+    <Key>EDU</Key>
+    <Name>Education</Name>
+    <Description>[H4]Education (Intellect)[h4]
+Among most of the races and cultures of the galaxy, achieving literacy is a crucial first step towards adulthood. Even on the wildest cultural fringes of the Outer Rim, most individuals achieve at least this standard long before they reach physical maturity. Once literacy is attained, an individual's education generally expands to cover additional areas of expertise. 
+
+[P]Typically, this includes at least a basic grounding in the mathematics, the basic sciences, and enough understanding of engineering principles to perform basic repairs. Many also study the basics of philosophy, politics, and galactic history. From there, an understanding of the various dominant species and cultures across the galaxy provides a complement to a well-rounded education. 
+
+[P]Characters must often rely upon these essentials in order to appropriately interact with the broader galaxy. To the uneducated, places beyond their home seldom make sense. Basic cultural variances may become overwhelming challenges. 
+&lt;ul&gt;
+&lt;li&gt;Any time a character needs to interact with a government entity, an Education check may be made to identify the best way to proceed. 
+&lt;li&gt;If a character needs to employ basic scientific knowledge in an analysis, his understanding of this field is represented by his Education skill. 
+&lt;/ul&gt;
+Education also represents a default Knowledge skill. Any time a question comes up that doesn't obviously fall under one of the other Knowledge skills, Education may be used to represent the character's understanding of a particular subject matter. 
+
+[P]The difficulty for an Education check is typically best represented by the rarity of the data in question. Characters who have a reference document at hand may receive substantial bonuses, but even using such a work requires an understanding of core principles. </Description>
+    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="123">Edge of the Empire Core Rulebook</Source>
+      <Source Page="135">Age of Rebellion Core Rulebook</Source>
+      <Source Page="132">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <CharKey>INT</CharKey>
+    <TypeValue>stKnowledge</TypeValue>
+    <Type>Knowledge</Type>
+  </Skill>
+  <Skill>
+    <Key>GUNN</Key>
+    <Name>Gunnery</Name>
+    <Description>[H4]Gunnery (Agility)[h4]
+Many weapons are simply too large for a person to carry. In order to bring such a weapon to bear against an opponent, it may be mounted aboard a vehicle, hastily assembled where needed, or even built into a substantial defensive emplacement. Weapons of this sort might require a team to transport, assemble, and ultimately operate.
+
+[P]Characters seldom gain experience with weapons of this magnitude outside of military training. Weapons of this caliber are also difficult to acquire for anything but government entities. Only the most dangerous worlds have natural predators that require a weapon of this power as a proportionate response. Gunnery applies to laser cannons and proton torpedoes mounted on starships. Larger mounted weapon systems like heavy laser turrets and ion cannons are also fired using this skill.
+&lt;ul&gt;
+&lt;li&gt;If a character is piloting a starfighter, it may have weapons that are mounted upon it with a fixed orientation. Prior to making a Gunnery check, the pilot may need to maneuver his craft in order to achieve a firing solution. 
+&lt;li&gt;Characters using Gunnery to fire turret-mounted weapons may need to hold their action until a pilot can drive the vehicle so that targets are within the weapon's firing arc. 
+&lt;li&gt;Complex targeting computers and automated weapons mounts are often used with large scale weapons. Operating this equipment also falls under Gunnery. 
+&lt;/ul&gt;
+Gunnery check difficulties are determined by the distance to the target or relative silhouettes, depending on the weapon fired. The difficulty may be modified by maneuvers the character makes and specific combat situational modifiers as described in [B]Chapter VI: Conflict and Combat[b].</Description>
+    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="120">Edge of the Empire Core Rulebook</Source>
+      <Source Page="131">Age of Rebellion Core Rulebook</Source>
+      <Source Page="130">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <CharKey>AG</CharKey>
+    <TypeValue>stCombat</TypeValue>
+    <Type>Combat</Type>
+  </Skill>
+  <Skill>
     <Key>LEAD</Key>
     <Name>Leadership</Name>
     <Description>[H4]Leadership (Presence)[h4]
@@ -295,6 +388,47 @@ The difficulty of a Leadership check is based on the complexity of the orders a 
     <CharKey>PR</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
+  </Skill>
+  <Skill>
+    <Key>LTSABER</Key>
+    <Name>Lightsaber</Name>
+    <Description>[H4]Lightsaber (Brawn*)[h4]
+Lightsabers (and their derivatives) are quite unlike any other weapons in the galaxy. While most close combat weapons have some sort of blade or striking edge attached to a grip or handle, an inactive lightsaber seems to be nothing more than a simple weapon
+hilt. However, when activated, the hilt projects a humming "blade" of intense energy. Such weapons are difficult for even an accomplished swordfighter to use and require a very unique set of skills.
+
+[P]Although the Lightsaber skill is linked to the Brawn characteristic, many characters may have access to talents that can link the skill to a different characteristic instead, representing unique forms and fighting styles. The Lightsaber skill governs melee attacks made with
+lightsabers as well as with derivative weapons such as light whips, guard shotos, and training sabers.
+
+[P]The Lightsaber skill is most often used to make combat checks while using these weapons, though there may be other uses for this skill, at the GM's discretion. The difficulty of Lightsaber combat checks is Average ([DI][DI]), the difficulty of all melee attacks. If the opponent is incapable of resisting, the check might be easier, at the GM's discretion. The difficulty may be modified by maneuvers the character makes and specific combat situational modifiers, as described in [B]Chapter VI : Conflict and Combat[b].
+
+[P][I]* Indicates that talents may change the base characteristic.[i]</Description>
+    <Source Page="130">Force and Destiny Core Rulebook</Source>
+    <Custom>DescOnly</Custom>
+    <CharKey>BR</CharKey>
+    <TypeValue>stCombat</TypeValue>
+    <Type>Combat</Type>
+  </Skill>
+  <Skill>
+    <Key>LORE</Key>
+    <Name>Lore</Name>
+    <Description>[H4]Lore (Intellect)[h4]
+Parts of the galaxy have been inhabited for more than a million years. During that time, countless civilizations have arisen and many have gone extinct. Those civilizations that achieved interstellar travel communicated with one another and shared their histories. Over the millennia, some of these tales changed and grew into myths and legends. Many have a strong basis in truth, so much so that some of these stories still conceal a potential for tremendous profit. 
+
+[P]Characters with a particular interest in lost cultures and ancient legends may decide to try to turn this interest into a profession. Forgotten fleets, abandoned mines, and failed ventures all could be the sources of tremendous profits if recovered and restored. Other times, a character might stumble across an artifact connected to one of these legends—an item whose value could far exceed its initial appearance. Knowing enough to exploit that connection—either in selling the item or in tracking down its origins—might enable a character to substantially decrease the severity of his Obligations. 
+&lt;ul&gt;
+&lt;li&gt;Any time a character needs to decipher an ancient piece of writing or identify its context, this requires a Lore check. 
+&lt;li&gt;A character's knowledge of the legends associated with the exploits of an ancient hero is represented by the Lore skill. 
+&lt;/ul&gt;
+A Lore check's difficulty is assigned by the obscurity of the information. Well known legends may not even require a check, but the tales of a race that died out millennia ago may be nearly forgotten.</Description>
+    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="123">Edge of the Empire Core Rulebook</Source>
+      <Source Page="135">Age of Rebellion Core Rulebook</Source>
+      <Source Page="132">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <CharKey>INT</CharKey>
+    <TypeValue>stKnowledge</TypeValue>
+    <Type>Knowledge</Type>
   </Skill>
   <Skill>
     <Key>MECH</Key>
@@ -355,6 +489,27 @@ The difficulty of the check is based on the target's current state of health. Se
     <Type>General</Type>
   </Skill>
   <Skill>
+    <Key>MELEE</Key>
+    <Name>Melee</Name>
+    <Description>[H4]Melee (Brawn)[h4]
+All ranged weapons require some sort of ammunition and many are loud. They typically have fragile components or require regular maintenance, which may require its own set of tools. By contrast, most melee weapons are inexpensive, virtually silent, and require little maintenance and no power beyond the strength of their wielder's limbs. Virtually any reasonably sturdy object can be used as a makeshift weapon, so a character who has become adept at the Melee skill can often make do with what's available. 
+
+[P]The majority of melee weapons depend upon the wielder's strength to inflict damage, but a few have their own energy sources. These weapons—including stun batons, vibroblades, and force pikes—are much more technically sophisticated than a simple club. However, their core principles remain the same. When a character masters the art of striking with one melee weapon, the core concepts translate effectively to other melee weapons. 
+
+[P]Any military training includes at least a basic course in melee combat preparation. In addition, characters who have spent time on primitive worlds may have learned to defend themselves with melee weapons. Aristocrats and nobles, in some systems, may also learn a number of melee techniques as part of their cultural traditions.
+
+[P]The difficulty of Melee checks is Average [DI][DI] (the difficulty of all melee attacks) unless the opponent is incapable of resisting (in which case it might be easier at the GM's discretion). The difficulty may be modified by maneuvers the character makes and specific combat situational modifiers as described in [B]Chapter VI: Conflict and Combat[b].</Description>
+    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="121">Edge of the Empire Core Rulebook</Source>
+      <Source Page="133">Age of Rebellion Core Rulebook</Source>
+      <Source Page="131">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <CharKey>BR</CharKey>
+    <TypeValue>stCombat</TypeValue>
+    <Type>Combat</Type>
+  </Skill>
+  <Skill>
     <Key>NEG</Key>
     <Name>Negotiation</Name>
     <Description>[H4]Negotiation (Presence)[h4]
@@ -382,6 +537,29 @@ Often, the easiest way to get someone's cooperation is by giving them exactly wh
     <CharKey>PR</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
+  </Skill>
+  <Skill>
+    <Key>OUT</Key>
+    <Name>Outer Rim</Name>
+    <Description>[H4]Outer Rim (Intellect)[h4]
+The systems of the Outer Rim are filled with independent worlds, often inhabited by those who enjoy their isolation and relative freedom. Because of this, the varied worlds exhibit an incredibly diverse mix of different cultures and political systems. In many instances, they also exhibit a broad spectrum of different species that have developed a shared community founded on this diversity. 
+
+[P]Because the range of cultures is so great, anything learned about the culture of one world is not necessarily relevant to aspects of other systems in the Outer Rim—even ones that are relatively close. However, there are common attitudes and archetypal settings that are consistent throughout this region of the galaxy. Further, those who travel regularly among these worlds do get to learn of one another, and there are countless dives frequented by those who ply the spacelanes. 
+&lt;ul&gt;
+&lt;li&gt;If a character needs to find a planet with a particular resource or service among the systems of the Outer Rim, he could make an Outer Rim check to identify the most appropriate and closest options. 
+&lt;li&gt;When determining the best location to sell a cargo of goods, an Outer Rim check might reveal locations where the goods are legal, desirable, and socially acceptable. 
+&lt;li&gt;At times when a character must interact with a person from an Outer Rim world, this knowledge skill could be used to determine the most appropriate social actions to take to establish a beneficial relationship. 
+&lt;/ul&gt;
+The difficulty for an Outer Rim check is based upon the obscurity of the world and goods in question. This may also be modified based upon the specificity of the question posed.</Description>
+    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="124">Edge of the Empire Core Rulebook</Source>
+      <Source Page="135">Age of Rebellion Core Rulebook</Source>
+      <Source Page="133">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <CharKey>INT</CharKey>
+    <TypeValue>stKnowledge</TypeValue>
+    <Type>Knowledge</Type>
   </Skill>
   <Skill>
     <Key>PERC</Key>
@@ -470,6 +648,53 @@ The difficulty of a Piloting (Space) check may be determined based upon the diff
     <CharKey>AG</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
+  </Skill>
+  <Skill>
+    <Key>RANGHVY</Key>
+    <Name>Ranged - Heavy</Name>
+    <Description>[H4]Ranged - Heavy (Agility)[h4]
+When firing upon a target from range, weapons that are held with two hands offer a more stable firing platform than those which are held in a single hand. These also often have longer barrels, providing a consistent fire pattern out to a much longer range. In the larger space required for such armaments, designers can often include a significantly larger ammunition reserve and may also make the weapon far more potent than smaller weapons. This combination can yield weapons that are substantially more deadly and more accurate. 
+
+[P]There are countless varieties of rifles used throughout the galaxy. Some are simple slugthrowers, while common blaster rifles range in size from carbines to extended barrel sniper rifles. There are also a number of unique weapons, such as the Wookiee bowcaster. Any of these different weapons depend upon the Ranged (Heavy) skill in their operation. 
+
+[P]In addition to combat uses, Ranged (Heavy) weapons are commonly used for hunting purposes. Because of this, these types of weapons are seen on frontier worlds far more frequently than Ranged (Light) weapons. Characters who are focused on their wilderness survival skills may prefer the additional range that a rifle offers when confronting predators. 
+&lt;ul&gt;
+&lt;li&gt;Ranged (Heavy) weapons inflict wounds upon targets by default. A subset of the weapons in this category may have a stun option, as do some specialized stun-only weapons.
+&lt;/ul&gt;
+Ranged (Heavy) check difficulties are determined by the distance to the target. The difficulty may be modified by maneuvers the character makes and specific combat situational modifiers as described in [B]Chapter VI: Conflict and Combat[b].</Description>
+    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="121">Edge of the Empire Core Rulebook</Source>
+      <Source Page="133">Age of Rebellion Core Rulebook</Source>
+      <Source Page="131">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <CharKey>AG</CharKey>
+    <TypeValue>stCombat</TypeValue>
+    <Type>Combat</Type>
+  </Skill>
+  <Skill>
+    <Key>RANGLT</Key>
+    <Name>Ranged - Light</Name>
+    <Description>[H4]Ranged - Light (Agility)[h4]
+Many characters prefer to wield a weapon that can be effectively held with one hand, rather than carrying something larger. This may be a preference based upon the ease of concealment, or it could be simply a stylistic choice. Alternatively, some individuals feel that they must be able to keep another hand free, allowing them to, for example, pilot a speeder bike and fire a blaster pistol at the same time. 
+
+[P]A broad selection of weapons falls under the category of the Ranged (Light) skill. It includes any weapon that can be fired with one hand, without the benefit of a brace or other support element. Specific examples include countless pistols, but also spears, nets, and thermal detonators. Some are so small as to be easily concealed, while others can only be wielded by the strongest of individuals. 
+
+[P]The Ranged (Light) skill reflects the hand-eye coordination that a character has developed in conjunction with his intuitive grasp of wind resistance, gravity, and distance. Upon first arriving on a planet, an expert in this field may wish to practice his abilities so that he can learn how the world's environs might affect them. 
+&lt;ul&gt;
+&lt;li&gt;The vast majority of Ranged (Light) weapons inflict wounds against targets. Those that are capable of inflicting strain are specifically indicated and typically must be adjusted for use in that firing mode. 
+&lt;li&gt;Characters may wield a Ranged (Light) weapon in each hand, or wield a melee weapon that can reasonably be used one-handed and a Ranged (Light) weapon in the other hand. See page 210 for more information. 
+&lt;/ul&gt;
+Ranged (Light) check difficulties are determined by the distance to the target. The difficulty may be modified by maneuvers the character makes and specific combat situational modifiers as described in [B]Chapter VI: Conflict and Combat[b]. </Description>
+    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="122">Edge of the Empire Core Rulebook</Source>
+      <Source Page="133">Age of Rebellion Core Rulebook</Source>
+      <Source Page="131">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <CharKey>AG</CharKey>
+    <TypeValue>stCombat</TypeValue>
+    <Type>Combat</Type>
   </Skill>
   <Skill>
     <Key>RESIL</Key>
@@ -617,6 +842,27 @@ The difficulty for a Survival check is dependent upon the severity of the enviro
     <Type>General</Type>
   </Skill>
   <Skill>
+    <Key>UND</Key>
+    <Name>Underworld</Name>
+    <Description>[H4]Underworld (Intellect)[h4]
+In some places, criminal elements control the government through less than legal machinations. In others, the crime families function as the only effective ruling force. In more traditionally governed areas, seedier elements are dependent upon secrecy and deception as the core elements of their practices. Before a character can even begin to establish contacts among a world's criminal elements, he must first understand which of these organizational structures are in play.
+
+[P]Once a character deciphers how he might establish a contact, he must next find out with whom he needs to speak. Different groups or individuals might control different parts of the criminal trade. A contact for gambling is likely different than one who deals in illicit pharmaceuticals, while a third individual is likely the point of contact for military grade weapons. Depending upon a character's needs and the criminal elements active on a world, finding the right contact could be trivial or extremely time-consuming. 
+&lt;ul&gt;
+&lt;li&gt;The Underworld skill may be used to know which nearby worlds are the best locations for a particular type of illegal business. 
+&lt;li&gt;A familiarity with Underworld may be useful if the characters need to determine the most common methods that an opponent might use for a particular type of criminal activity. 
+&lt;/ul&gt;When the criminal nature of a location or individual is well known, recalling the relevant data should be easy. The difficulty of the task should be much more challenging if the individual has gone to lengths to conceal his illegal activities.</Description>
+    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="124">Edge of the Empire Core Rulebook</Source>
+      <Source Page="136">Age of Rebellion Core Rulebook</Source>
+      <Source Page="133">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <CharKey>INT</CharKey>
+    <TypeValue>stKnowledge</TypeValue>
+    <Type>Knowledge</Type>
+  </Skill>
+  <Skill>
     <Key>VIGIL</Key>
     <Name>Vigilance</Name>
     <Description>[H4]Vigilance (Willpower)[h4]
@@ -643,233 +889,6 @@ The difficulty for a Vigilance check is typically modified by the likelihood of 
     <CharKey>WIL</CharKey>
     <TypeValue>stGeneral</TypeValue>
     <Type>General</Type>
-  </Skill>
-  <Skill>
-    <Key>BRAWL</Key>
-    <Name>Brawl</Name>
-    <Description>[H4]Brawl (Brawn)[h4]
-During some physical confrontations, a character seeks to incapacitate his foe without seriously injuring him. At other times, a melee erupts with little preparation, and a character may not have any weapon at hand. Some individuals are thoroughly trained in unarmed combat, or have natural weapons that they prefer to use during physical altercations. In any of these situations, Brawl is the skill used to determine success or failure in the combat. 
-
-[P]Most characters who grew up in a hostile environment have some knack for Brawl. All wildlife—particularly those with natural weapons—use Brawl when forced into a confrontation. Anyone who participates in military or law enforcement training learns some basic martial arts, which fall under the Brawl skill. Even more advanced or esoteric martial arts fall under the auspice of this skill. However, improvised weapons—such as a bottle or a table leg—are used with the Melee skill. 
-
-[P]In some conflicts, characters may be bound by the legal or social restrictions into fighting without weapons. Drawing a weapon could quickly escalate matters to a lethal fight and might have other repercussions, forcing the characters to depend upon their Brawl skill. 
-
-[P]Brawl is used in unarmed combat, see page 211 for more details about this. The difficulty of Brawl checks is Average [DI][DI] (the difficulty of all melee attacks) unless the opponent is incapable of resisting (in which case it might be easier at the GM's discretion). See page 204 for more details.</Description>
-    <Custom>DescOnly</Custom>
-    <Sources>
-      <Source Page="120">Edge of the Empire Core Rulebook</Source>
-      <Source Page="131">Age of Rebellion Core Rulebook</Source>
-      <Source Page="129">Force and Destiny Core Rulebook</Source>
-    </Sources>
-    <CharKey>BR</CharKey>
-    <TypeValue>stCombat</TypeValue>
-    <Type>Combat</Type>
-  </Skill>
-  <Skill>
-    <Key>GUNN</Key>
-    <Name>Gunnery</Name>
-    <Description>[H4]Gunnery (Agility)[h4]
-Many weapons are simply too large for a person to carry. In order to bring such a weapon to bear against an opponent, it may be mounted aboard a vehicle, hastily assembled where needed, or even built into a substantial defensive emplacement. Weapons of this sort might require a team to transport, assemble, and ultimately operate.
-
-[P]Characters seldom gain experience with weapons of this magnitude outside of military training. Weapons of this caliber are also difficult to acquire for anything but government entities. Only the most dangerous worlds have natural predators that require a weapon of this power as a proportionate response. Gunnery applies to laser cannons and proton torpedoes mounted on starships. Larger mounted weapon systems like heavy laser turrets and ion cannons are also fired using this skill.
-&lt;ul&gt;
-&lt;li&gt;If a character is piloting a starfighter, it may have weapons that are mounted upon it with a fixed orientation. Prior to making a Gunnery check, the pilot may need to maneuver his craft in order to achieve a firing solution. 
-&lt;li&gt;Characters using Gunnery to fire turret-mounted weapons may need to hold their action until a pilot can drive the vehicle so that targets are within the weapon's firing arc. 
-&lt;li&gt;Complex targeting computers and automated weapons mounts are often used with large scale weapons. Operating this equipment also falls under Gunnery. 
-&lt;/ul&gt;
-Gunnery check difficulties are determined by the distance to the target or relative silhouettes, depending on the weapon fired. The difficulty may be modified by maneuvers the character makes and specific combat situational modifiers as described in [B]Chapter VI: Conflict and Combat[b].</Description>
-    <Custom>DescOnly</Custom>
-    <Sources>
-      <Source Page="120">Edge of the Empire Core Rulebook</Source>
-      <Source Page="131">Age of Rebellion Core Rulebook</Source>
-      <Source Page="130">Force and Destiny Core Rulebook</Source>
-    </Sources>
-    <CharKey>AG</CharKey>
-    <TypeValue>stCombat</TypeValue>
-    <Type>Combat</Type>
-  </Skill>
-  <Skill>
-    <Key>MELEE</Key>
-    <Name>Melee</Name>
-    <Description>[H4]Melee (Brawn)[h4]
-All ranged weapons require some sort of ammunition and many are loud. They typically have fragile components or require regular maintenance, which may require its own set of tools. By contrast, most melee weapons are inexpensive, virtually silent, and require little maintenance and no power beyond the strength of their wielder's limbs. Virtually any reasonably sturdy object can be used as a makeshift weapon, so a character who has become adept at the Melee skill can often make do with what's available. 
-
-[P]The majority of melee weapons depend upon the wielder's strength to inflict damage, but a few have their own energy sources. These weapons—including stun batons, vibroblades, and force pikes—are much more technically sophisticated than a simple club. However, their core principles remain the same. When a character masters the art of striking with one melee weapon, the core concepts translate effectively to other melee weapons. 
-
-[P]Any military training includes at least a basic course in melee combat preparation. In addition, characters who have spent time on primitive worlds may have learned to defend themselves with melee weapons. Aristocrats and nobles, in some systems, may also learn a number of melee techniques as part of their cultural traditions.
-
-[P]The difficulty of Melee checks is Average [DI][DI] (the difficulty of all melee attacks) unless the opponent is incapable of resisting (in which case it might be easier at the GM's discretion). The difficulty may be modified by maneuvers the character makes and specific combat situational modifiers as described in [B]Chapter VI: Conflict and Combat[b].</Description>
-    <Custom>DescOnly</Custom>
-    <Sources>
-      <Source Page="121">Edge of the Empire Core Rulebook</Source>
-      <Source Page="133">Age of Rebellion Core Rulebook</Source>
-      <Source Page="131">Force and Destiny Core Rulebook</Source>
-    </Sources>
-    <CharKey>BR</CharKey>
-    <TypeValue>stCombat</TypeValue>
-    <Type>Combat</Type>
-  </Skill>
-  <Skill>
-    <Key>RANGHVY</Key>
-    <Name>Ranged - Heavy</Name>
-    <Description>[H4]Ranged - Heavy (Agility)[h4]
-When firing upon a target from range, weapons that are held with two hands offer a more stable firing platform than those which are held in a single hand. These also often have longer barrels, providing a consistent fire pattern out to a much longer range. In the larger space required for such armaments, designers can often include a significantly larger ammunition reserve and may also make the weapon far more potent than smaller weapons. This combination can yield weapons that are substantially more deadly and more accurate. 
-
-[P]There are countless varieties of rifles used throughout the galaxy. Some are simple slugthrowers, while common blaster rifles range in size from carbines to extended barrel sniper rifles. There are also a number of unique weapons, such as the Wookiee bowcaster. Any of these different weapons depend upon the Ranged (Heavy) skill in their operation. 
-
-[P]In addition to combat uses, Ranged (Heavy) weapons are commonly used for hunting purposes. Because of this, these types of weapons are seen on frontier worlds far more frequently than Ranged (Light) weapons. Characters who are focused on their wilderness survival skills may prefer the additional range that a rifle offers when confronting predators. 
-&lt;ul&gt;
-&lt;li&gt;Ranged (Heavy) weapons inflict wounds upon targets by default. A subset of the weapons in this category may have a stun option, as do some specialized stun-only weapons.
-&lt;/ul&gt;
-Ranged (Heavy) check difficulties are determined by the distance to the target. The difficulty may be modified by maneuvers the character makes and specific combat situational modifiers as described in [B]Chapter VI: Conflict and Combat[b].</Description>
-    <Custom>DescOnly</Custom>
-    <Sources>
-      <Source Page="121">Edge of the Empire Core Rulebook</Source>
-      <Source Page="133">Age of Rebellion Core Rulebook</Source>
-      <Source Page="131">Force and Destiny Core Rulebook</Source>
-    </Sources>
-    <CharKey>AG</CharKey>
-    <TypeValue>stCombat</TypeValue>
-    <Type>Combat</Type>
-  </Skill>
-  <Skill>
-    <Key>RANGLT</Key>
-    <Name>Ranged - Light</Name>
-    <Description>[H4]Ranged - Light (Agility)[h4]
-Many characters prefer to wield a weapon that can be effectively held with one hand, rather than carrying something larger. This may be a preference based upon the ease of concealment, or it could be simply a stylistic choice. Alternatively, some individuals feel that they must be able to keep another hand free, allowing them to, for example, pilot a speeder bike and fire a blaster pistol at the same time. 
-
-[P]A broad selection of weapons falls under the category of the Ranged (Light) skill. It includes any weapon that can be fired with one hand, without the benefit of a brace or other support element. Specific examples include countless pistols, but also spears, nets, and thermal detonators. Some are so small as to be easily concealed, while others can only be wielded by the strongest of individuals. 
-
-[P]The Ranged (Light) skill reflects the hand-eye coordination that a character has developed in conjunction with his intuitive grasp of wind resistance, gravity, and distance. Upon first arriving on a planet, an expert in this field may wish to practice his abilities so that he can learn how the world's environs might affect them. 
-&lt;ul&gt;
-&lt;li&gt;The vast majority of Ranged (Light) weapons inflict wounds against targets. Those that are capable of inflicting strain are specifically indicated and typically must be adjusted for use in that firing mode. 
-&lt;li&gt;Characters may wield a Ranged (Light) weapon in each hand, or wield a melee weapon that can reasonably be used one-handed and a Ranged (Light) weapon in the other hand. See page 210 for more information. 
-&lt;/ul&gt;
-Ranged (Light) check difficulties are determined by the distance to the target. The difficulty may be modified by maneuvers the character makes and specific combat situational modifiers as described in [B]Chapter VI: Conflict and Combat[b]. </Description>
-    <Custom>DescOnly</Custom>
-    <Sources>
-      <Source Page="122">Edge of the Empire Core Rulebook</Source>
-      <Source Page="133">Age of Rebellion Core Rulebook</Source>
-      <Source Page="131">Force and Destiny Core Rulebook</Source>
-    </Sources>
-    <CharKey>AG</CharKey>
-    <TypeValue>stCombat</TypeValue>
-    <Type>Combat</Type>
-  </Skill>
-  <Skill>
-    <Key>CORE</Key>
-    <Name>Core Worlds</Name>
-    <Description>[H4]Core Worlds (Intellect)[h4]
-Those worlds closest to the Galactic Core are generally considered to represent the pinnacle of galactic culture and civilization—especially by those who dwell within these systems. Cultural traditions vary substantially from system to system and even between planets within a given system. A few notions are particularly common among the worlds of the Core, but even with those, there are distinct exceptions. Perfectly acceptable behavior on one planet may represent grossly disruptive manners on another, even within this culturally distinct region of the galaxy. 
-
-[P]Many hyperlanes connect the Core Worlds with the other portions of the galaxy. Because of this, visitors from foreign worlds are far more common here than in many other places. The Core Worlds represent centers of trade and diplomacy that can connect planets in disparate portions of the galaxy. 
-&lt;ul&gt;
-&lt;li&gt;If a character needs to identify a person's planet of origin without asking, he may make a Core Worlds check to recognize traits of his accent, dress, and mannerisms that are associated with a particular world. 
-&lt;li&gt;When interacting with someone from a Core World, a character might make a Core Worlds check to know what behaviors are considered necessary and polite, as opposed to ones that could be offensive. 
-&lt;li&gt;Characters who specialize in the transport and delivery of goods may make a Core Worlds check to identify which markets are the best places to sell or purchase a particular cargo. They may also recognize any worlds where such goods could be illegal. 
-&lt;/ul&gt;
-The difficulty of a Core Worlds check is generally proportionate to the rarity of the information involved. Common knowledge about Coruscant is far easier to recall than an obscure fact about a subsect on a minor moon.</Description>
-    <Custom>DescOnly</Custom>
-    <Sources>
-      <Source Page="123">Edge of the Empire Core Rulebook</Source>
-      <Source Page="134">Age of Rebellion Core Rulebook</Source>
-      <Source Page="132">Force and Destiny Core Rulebook</Source>
-    </Sources>
-    <CharKey>INT</CharKey>
-    <TypeValue>stKnowledge</TypeValue>
-    <Type>Knowledge</Type>
-  </Skill>
-  <Skill>
-    <Key>EDU</Key>
-    <Name>Education</Name>
-    <Description>[H4]Education (Intellect)[h4]
-Among most of the races and cultures of the galaxy, achieving literacy is a crucial first step towards adulthood. Even on the wildest cultural fringes of the Outer Rim, most individuals achieve at least this standard long before they reach physical maturity. Once literacy is attained, an individual's education generally expands to cover additional areas of expertise. 
-
-[P]Typically, this includes at least a basic grounding in the mathematics, the basic sciences, and enough understanding of engineering principles to perform basic repairs. Many also study the basics of philosophy, politics, and galactic history. From there, an understanding of the various dominant species and cultures across the galaxy provides a complement to a well-rounded education. 
-
-[P]Characters must often rely upon these essentials in order to appropriately interact with the broader galaxy. To the uneducated, places beyond their home seldom make sense. Basic cultural variances may become overwhelming challenges. 
-&lt;ul&gt;
-&lt;li&gt;Any time a character needs to interact with a government entity, an Education check may be made to identify the best way to proceed. 
-&lt;li&gt;If a character needs to employ basic scientific knowledge in an analysis, his understanding of this field is represented by his Education skill. 
-&lt;/ul&gt;
-Education also represents a default Knowledge skill. Any time a question comes up that doesn't obviously fall under one of the other Knowledge skills, Education may be used to represent the character's understanding of a particular subject matter. 
-
-[P]The difficulty for an Education check is typically best represented by the rarity of the data in question. Characters who have a reference document at hand may receive substantial bonuses, but even using such a work requires an understanding of core principles. </Description>
-    <Custom>DescOnly</Custom>
-    <Sources>
-      <Source Page="123">Edge of the Empire Core Rulebook</Source>
-      <Source Page="135">Age of Rebellion Core Rulebook</Source>
-      <Source Page="132">Force and Destiny Core Rulebook</Source>
-    </Sources>
-    <CharKey>INT</CharKey>
-    <TypeValue>stKnowledge</TypeValue>
-    <Type>Knowledge</Type>
-  </Skill>
-  <Skill>
-    <Key>LORE</Key>
-    <Name>Lore</Name>
-    <Description>[H4]Lore (Intellect)[h4]
-Parts of the galaxy have been inhabited for more than a million years. During that time, countless civilizations have arisen and many have gone extinct. Those civilizations that achieved interstellar travel communicated with one another and shared their histories. Over the millennia, some of these tales changed and grew into myths and legends. Many have a strong basis in truth, so much so that some of these stories still conceal a potential for tremendous profit. 
-
-[P]Characters with a particular interest in lost cultures and ancient legends may decide to try to turn this interest into a profession. Forgotten fleets, abandoned mines, and failed ventures all could be the sources of tremendous profits if recovered and restored. Other times, a character might stumble across an artifact connected to one of these legends—an item whose value could far exceed its initial appearance. Knowing enough to exploit that connection—either in selling the item or in tracking down its origins—might enable a character to substantially decrease the severity of his Obligations. 
-&lt;ul&gt;
-&lt;li&gt;Any time a character needs to decipher an ancient piece of writing or identify its context, this requires a Lore check. 
-&lt;li&gt;A character's knowledge of the legends associated with the exploits of an ancient hero is represented by the Lore skill. 
-&lt;/ul&gt;
-A Lore check's difficulty is assigned by the obscurity of the information. Well known legends may not even require a check, but the tales of a race that died out millennia ago may be nearly forgotten.</Description>
-    <Custom>DescOnly</Custom>
-    <Sources>
-      <Source Page="123">Edge of the Empire Core Rulebook</Source>
-      <Source Page="135">Age of Rebellion Core Rulebook</Source>
-      <Source Page="132">Force and Destiny Core Rulebook</Source>
-    </Sources>
-    <CharKey>INT</CharKey>
-    <TypeValue>stKnowledge</TypeValue>
-    <Type>Knowledge</Type>
-  </Skill>
-  <Skill>
-    <Key>OUT</Key>
-    <Name>Outer Rim</Name>
-    <Description>[H4]Outer Rim (Intellect)[h4]
-The systems of the Outer Rim are filled with independent worlds, often inhabited by those who enjoy their isolation and relative freedom. Because of this, the varied worlds exhibit an incredibly diverse mix of different cultures and political systems. In many instances, they also exhibit a broad spectrum of different species that have developed a shared community founded on this diversity. 
-
-[P]Because the range of cultures is so great, anything learned about the culture of one world is not necessarily relevant to aspects of other systems in the Outer Rim—even ones that are relatively close. However, there are common attitudes and archetypal settings that are consistent throughout this region of the galaxy. Further, those who travel regularly among these worlds do get to learn of one another, and there are countless dives frequented by those who ply the spacelanes. 
-&lt;ul&gt;
-&lt;li&gt;If a character needs to find a planet with a particular resource or service among the systems of the Outer Rim, he could make an Outer Rim check to identify the most appropriate and closest options. 
-&lt;li&gt;When determining the best location to sell a cargo of goods, an Outer Rim check might reveal locations where the goods are legal, desirable, and socially acceptable. 
-&lt;li&gt;At times when a character must interact with a person from an Outer Rim world, this knowledge skill could be used to determine the most appropriate social actions to take to establish a beneficial relationship. 
-&lt;/ul&gt;
-The difficulty for an Outer Rim check is based upon the obscurity of the world and goods in question. This may also be modified based upon the specificity of the question posed.</Description>
-    <Custom>DescOnly</Custom>
-    <Sources>
-      <Source Page="124">Edge of the Empire Core Rulebook</Source>
-      <Source Page="135">Age of Rebellion Core Rulebook</Source>
-      <Source Page="133">Force and Destiny Core Rulebook</Source>
-    </Sources>
-    <CharKey>INT</CharKey>
-    <TypeValue>stKnowledge</TypeValue>
-    <Type>Knowledge</Type>
-  </Skill>
-  <Skill>
-    <Key>UND</Key>
-    <Name>Underworld</Name>
-    <Description>[H4]Underworld (Intellect)[h4]
-In some places, criminal elements control the government through less than legal machinations. In others, the crime families function as the only effective ruling force. In more traditionally governed areas, seedier elements are dependent upon secrecy and deception as the core elements of their practices. Before a character can even begin to establish contacts among a world's criminal elements, he must first understand which of these organizational structures are in play.
-
-[P]Once a character deciphers how he might establish a contact, he must next find out with whom he needs to speak. Different groups or individuals might control different parts of the criminal trade. A contact for gambling is likely different than one who deals in illicit pharmaceuticals, while a third individual is likely the point of contact for military grade weapons. Depending upon a character's needs and the criminal elements active on a world, finding the right contact could be trivial or extremely time-consuming. 
-&lt;ul&gt;
-&lt;li&gt;The Underworld skill may be used to know which nearby worlds are the best locations for a particular type of illegal business. 
-&lt;li&gt;A familiarity with Underworld may be useful if the characters need to determine the most common methods that an opponent might use for a particular type of criminal activity. 
-&lt;/ul&gt;When the criminal nature of a location or individual is well known, recalling the relevant data should be easy. The difficulty of the task should be much more challenging if the individual has gone to lengths to conceal his illegal activities.</Description>
-    <Custom>DescOnly</Custom>
-    <Sources>
-      <Source Page="124">Edge of the Empire Core Rulebook</Source>
-      <Source Page="136">Age of Rebellion Core Rulebook</Source>
-      <Source Page="133">Force and Destiny Core Rulebook</Source>
-    </Sources>
-    <CharKey>INT</CharKey>
-    <TypeValue>stKnowledge</TypeValue>
-    <Type>Knowledge</Type>
   </Skill>
   <Skill>
     <Key>XEN</Key>
@@ -911,25 +930,6 @@ The difficulty of the Warfare check is based upon how hard it would be to acquir
     <CharKey>INT</CharKey>
     <TypeValue>stKnowledge</TypeValue>
     <Type>Knowledge</Type>
-  </Skill>
-  <Skill>
-    <Key>LTSABER</Key>
-    <Name>Lightsaber</Name>
-    <Description>[H4]Lightsaber (Brawn*)[h4]
-Lightsabers (and their derivatives) are quite unlike any other weapons in the galaxy. While most close combat weapons have some sort of blade or striking edge attached to a grip or handle, an inactive lightsaber seems to be nothing more than a simple weapon
-hilt. However, when activated, the hilt projects a humming "blade" of intense energy. Such weapons are difficult for even an accomplished swordfighter to use and require a very unique set of skills.
-
-[P]Although the Lightsaber skill is linked to the Brawn characteristic, many characters may have access to talents that can link the skill to a different characteristic instead, representing unique forms and fighting styles. The Lightsaber skill governs melee attacks made with
-lightsabers as well as with derivative weapons such as light whips, guard shotos, and training sabers.
-
-[P]The Lightsaber skill is most often used to make combat checks while using these weapons, though there may be other uses for this skill, at the GM's discretion. The difficulty of Lightsaber combat checks is Average ([DI][DI]), the difficulty of all melee attacks. If the opponent is incapable of resisting, the check might be easier, at the GM's discretion. The difficulty may be modified by maneuvers the character makes and specific combat situational modifiers, as described in [B]Chapter VI : Conflict and Combat[b].
-
-[P][I]* Indicates that talents may change the base characteristic.[i]</Description>
-    <Source Page="130">Force and Destiny Core Rulebook</Source>
-    <Custom>DescOnly</Custom>
-    <CharKey>BR</CharKey>
-    <TypeValue>stCombat</TypeValue>
-    <Type>Combat</Type>
   </Skill>
   <Skill>
     <Key>CYBERNETICS</Key>
