@@ -36,7 +36,7 @@
   <Talent>
     <Key>ARM</Key>
     <Name>Armor Master</Name>
-    <Description>When wearing armor, Increase total soak value by 1.</Description>
+    <Description>When wearing armor, increase total soak value by 1.</Description>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <Attributes>
@@ -357,7 +357,7 @@
   <Talent>
     <Key>DEAD</Key>
     <Name>Dead to Rights</Name>
-    <Description>Spend 1 Destiny Point to add additional damage equal to half Agility (rounded-up) to one hit of successful attack made with ship or vehicle-mounted weaponry.</Description>
+    <Description>Spend 1 Destiny Point to add additional damage equal to half Agility (rounded up) to one hit of successful attack made with ship or vehicle-mounted weaponry.</Description>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <SkillChoice>
@@ -835,7 +835,7 @@
   <Talent>
     <Key>HARDHD</Key>
     <Name>Hard Headed</Name>
-    <Description>When staggered or disoriented, perform the Hard Headed action; make a  [B]Daunting ([DI][DI][DI][DI]) Discipline check[b] to remove status. Difficulty reduced per rank of Hard Headed.</Description>
+    <Description>When staggered or disoriented, perform the Hard Headed action; make a [B]Daunting ([DI][DI][DI][DI]) Discipline check[b] to remove status. Difficulty reduced per rank of Hard Headed.</Description>
     <Sources>
       <Source Page="136">Edge of the Empire Core Rulebook</Source>
       <Source Page="148">Age of Rebellion Core Rulebook</Source>
@@ -1917,7 +1917,7 @@
   <Talent>
     <Key>SNIPSHOT</Key>
     <Name>Sniper Shot</Name>
-    <Description>Before making a non-thrown ranged attack, may  perform a Sniper Shot maneuver to increase the weapon's range by 1 range band per rank in Sniper Shot. Upgrade the difficulty of the attack by 1 per range band increase.</Description>
+    <Description>Before making a non-thrown ranged attack, may perform a Sniper Shot maneuver to increase the weapon's range by 1 range band per rank in Sniper Shot. Upgrade the difficulty of the attack by 1 per range band increase.</Description>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
@@ -5357,7 +5357,7 @@
   <Talent>
     <Key>FEINT</Key>
     <Name>Feint</Name>
-    <Description>Spend [TR] or [AD][AD][AD] generated on a missed  melee attack to upgrade difficulty of opponent's next attack targeting character by ranks in Feint.</Description>
+    <Description>Spend [TR] or [AD][AD][AD] generated on a missed melee attack to upgrade difficulty of opponent's next attack targeting character by ranks in Feint.</Description>
     <Source>Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
@@ -6043,7 +6043,7 @@
   <Talent>
     <Key>AAO</Key>
     <Name>Against All Odds</Name>
-    <Description>When incapacitated, perform Against All Odds action; making [B] Hard ([DI][DI][DI]) Resilience check[b] with [FO] equal to Force rating. Heal wounds equal to [SU], spend [FP] to add [SU].</Description>
+    <Description>When incapacitated, perform Against All Odds action, making [B]Hard ([DI][DI][DI]) Resilience check[b] with [FO] equal to Force rating. Heal wounds equal to [SU], spend [FP] to add [SU].</Description>
     <Source>Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -6222,7 +6222,7 @@
   <Talent>
     <Key>PRIMEPOS</Key>
     <Name>Prime Positions</Name>
-    <Description>When this character or an ally in short range takes cover, he increases soak against ranged attacks by 1 per rank of Prim Positions until he leaves that cover.</Description>
+    <Description>When this character or an ally in short range takes cover, he increases soak against ranged attacks by 1 per rank of Prime Positions until he leaves that cover.</Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
@@ -6723,7 +6723,7 @@
   <Talent>
     <Key>AMBUSH</Key>
     <Name>Ambush</Name>
-    <Description>Once per round while benefiting from cover, may make the Ambush maneuver. Add damage equal to  Stealth skill to one hit of next successful combat check against a target within short range before the end of the turn.</Description>
+    <Description>Once per round while benefiting from cover, may make the Ambush maneuver. Add damage equal to Stealth skill to one hit of next successful combat check against a target within short range before the end of the turn.</Description>
     <Source Page="34">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taManeuver</ActivationValue>
@@ -7147,7 +7147,7 @@
   <Talent>
     <Key>MOUNTFLY</Key>
     <Name>Flyer</Name>
-    <Description>This mount can fly.  When on the ground, it's Speed is reduced to 1. </Description>
+    <Description>This mount can fly. When on the ground, its Speed is reduced to 1. </Description>
     <Source Page="85">Stay on Target</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -7386,7 +7386,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
   <Talent>
     <Key>SORESUTECH</Key>
     <Name>Soresu Technique</Name>
-    <Description>    When making a Lightsaber skill check, the character may use Intellect instead of Brawn.</Description>
+    <Description>When making a Lightsaber skill check, the character may use Intellect instead of Brawn.</Description>
     <Source>Force and Destiny Core Rulebook</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -7646,8 +7646,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
   <Talent>
     <Key>JUYOSAV</Key>
     <Name>Juyo Savagery</Name>
-    <Description>Enter description for Talent "Juyo Savagery" here.
-</Description>
+    <Description>The character adds +5 to Critical injury rolls from Lightsaber attacks for each dark side Destiny Point in the Destiny pool.</Description>
     <Source Page="31">Knights of Fate</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -7695,7 +7694,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
   <Talent>
     <Key>IMPTOUGH</Key>
     <Name>Toughened (Improved)</Name>
-    <Description>Once per session, may heal wounds equal to ranks in Toughened,</Description>
+    <Description>Once per session, may heal wounds equal to ranks in Toughened.</Description>
     <Source Page="31">Knights of Fate</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
@@ -7991,7 +7990,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
   <Talent>
     <Key>DISCLORE</Key>
     <Name>Disciple of Lore</Name>
-    <Description>Once per round, may suffer 1 strain to decrease the difficulty of nest Knowledge (Lore) check a number of times equal to ranks in Disciple of Lore.</Description>
+    <Description>Once per round, may suffer 1 strain to decrease the difficulty of next Knowledge (Lore) check a number of times equal to ranks in Disciple of Lore.</Description>
     <Source Page="112">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <Ranked>true</Ranked>
