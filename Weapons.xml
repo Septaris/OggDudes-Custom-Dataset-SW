@@ -31,7 +31,7 @@ Described as a "micro blaster" in advertising literature, the 12 Defender holdou
 
 [P]While the 12 Defender certainly does offer a fair amount of protection for the price, its shoddy construction and lack of versatility limits its usefulness to the average galactic citizen. However, due to its ease of concealment, ability to elude scanners, untraceable components, and disposable nature, this tiny pistol has found an avid following among the criminal classes. 
 
-[P]Add [SE][SE]to a character's Computers and Perception checks when attempting to find a 12 Defender on a person's body. The A 12 Defender may not be reloaded.</Description>
+[P]Add [SE][SE] to a character's Computers and Perception checks when attempting to find a 12 Defender on a person's body. A 12 Defender may not be reloaded.</Description>
     <Source>Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -11449,16 +11449,16 @@ battlefield salvage, military surplus, and black market
 dealers. In their search for new locations to establish
 hidden bases, Alliance scouts also discover abandoned Separatist weapons caches, where thousands
 of pristine, mass-produced weapons await distribution for their cause. Once used by the droid armies of
-the Confederacy, the J -10 dual blaster cannon is now
+the Confederacy, the J-10 dual blaster cannon is now
 common within outposts of the Rebellion.
 [P]Unfortunately, not all the weapons the Alliance
-obtains are of high quality. The J -10 dual blaster cannon is a more powerful version of the E-5 blaster carbine used by battle droid infantry. Like most Separatist equipment, the J -10 was produced on unregulated
+obtains are of high quality. The J-10 dual blaster cannon is a more powerful version of the E-5 blaster carbine used by battle droid infantry. Like most Separatist equipment, the J-10 was produced on unregulated
 assembly lines run by droids inside factories where
-quantity was more important than quality. The J -10 is
+quantity was more important than quality. The J-10 is
 finicky at best—glitchy Calven pattern programming
 often leads to power fluctuations that overload the
 cannon, and imperfections in focusing crystals cause
-shots to drift w ithout regular maintenance. Alliance
+shots to drift without regular maintenance. Alliance
 technicians often  opt to replace the faulty cannons
 rather than conduct repairs.
 [P]The CM may spend [DI] or [TH][TH] from any combat
@@ -12344,7 +12344,7 @@ similar to the E-11, but replaces the folding stock with
 a solid one for added stability, and a high-powered
 scope. It also features a long, perforated barrel with
 four focusing coils to ensure proper cooling and to
-allow maximum blaster bolt cohesion. Further adding to its lethality, a wielder can “charge’’ an individual
+allow maximum blaster bolt cohesion. Further adding to its lethality, a wielder can “charge” an individual
 shot by holding down the trigger, unleashing a devastating shot upon release that drains the weapon’s
 entire energy reserve.
 [P]As a maneuver, a character wielding a pulse cannon
@@ -12397,7 +12397,7 @@ way, the weapon runs out of ammunition (see page
     <Name>Shistavanen Combat Utility Vibroblade</Name>
     <Description>
       [H3]Shistavanen Combat Utility Vibroblade[h3]
-The wilds of Uvena Prime can be harsh and unforgiving, and have claimed countless Shistavanen hunters. For this reason, Shistavanen survivalists devised an item with every conceivable tool necessary to survive in the wilderness and in battle, dubbed the "Combat Utility Vibroblade". Shistavanens say that no respectable surivalist would be caught dead without this handy gadget, though their opinion is often somwhat biased. Still, each C.U.V. is a custom configuration, eqquipped with eight different tools of the owner's choosing, and as such these devices are extremely useful in the wilds. Containing anything from a fire starter to a hydrospanner to a water contaminant detector, the C.U.V. is many a survivalist's best friend.
+The wilds of Uvena Prime can be harsh and unforgiving, and have claimed countless Shistavanen hunters. For this reason, Shistavanen survivalists devised an item with every conceivable tool necessary to survive in the wilderness and in battle, dubbed the "Combat Utility Vibroblade". Shistavanens say that no respectable surivalist would be caught dead without this handy gadget, though their opinion is often somwhat biased. Still, each C.U.V. is a custom configuration, equipped with eight different tools of the owner's choosing, and as such these devices are extremely useful in the wilds. Containing anything from a fire starter to a hydrospanner to a water contaminant detector, the C.U.V. is many a survivalist's best friend.
 [P]The Combat Utility Vibroblade serves as a tool kit to allow Mechanics checks to repair devices and to "heal" droids, but adds [SE] to such checks. Additionally, it adds [BO] to the character's Survival checks.</Description>
     <Source Page="48">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
@@ -13094,11 +13094,11 @@ The CR-8 is a high-performance blaster rifle designed for use by CorSec snipers 
     <Name>T-7 Ion Disruptor</Name>
     <Description>
       [H3]T-7 Ion Disruptor[h3]
-Originally designed as an anti-aircraft and anti-armor weapon, few arms possess the destructive power and invoke as much fear as the T-7 ion disruptor. Each round from the T-7 lets loose a burst of ionized plasma with enough energy to penetrate starship hulls and shut down airspeeders and starships, sending them into a death spiral. The T-7 makes short work of many arm ored vehicles and mechanized infantry, as it chews through everything in its path.
-[P]Despite its intended role, the T-7 disruptor obtained its notorious reputation from its use on sentient beings. A single blast from the T-7 can de-atomize entire groups of lifeforms. During the Siege of Lasan, agents from the Imperial Security Bureau equipped with T-7s slaughtered countless Lasat civilians as a show of Imperial might.  This atrocity led the Im perial Senate to ban the T-7 ion disruptor and its use, and the rifles were recalled and destroyed. However,
+Originally designed as an anti-aircraft and anti-armor weapon, few arms possess the destructive power and invoke as much fear as the T-7 ion disruptor. Each round from the T-7 lets loose a burst of ionized plasma with enough energy to penetrate starship hulls and shut down airspeeders and starships, sending them into a death spiral. The T-7 makes short work of many armored vehicles and mechanized infantry, as it chews through everything in its path.
+[P]Despite its intended role, the T-7 disruptor obtained its notorious reputation from its use on sentient beings. A single blast from the T-7 can de-atomize entire groups of lifeforms. During the Siege of Lasan, agents from the Imperial Security Bureau equipped with T-7s slaughtered countless Lasat civilians as a show of Imperial might. This atrocity led the Imperial Senate to ban the T-7 ion disruptor and its use, and the rifles were recalled and destroyed. However,
 copies of the T-7 schematics escaped deletion, and private weapon manufacturers still produce batches found on the black market.
 [P]Like other disruptor weapons, T-7 ion disruptors may never benefit from upgrades or attachments that improve their range or grant multiple shots.
-[P]Whenever a living target is hit with a T-7 ion disruptor, any Critical Injury results in a “Crippled’' effect, unless the roll on [B]Table 6-1 0: Critical Injury[b] Result on page 231 of the [B]Age of Rebellion[b] Core Rulebook would result in a more grievous injury.
+[P]Whenever a living target is hit with a T-7 ion disruptor, any Critical Injury results in a “Crippled” effect, unless the roll on [B]Table 6-10: Critical Injury[b] Result on page 231 of the [B]Age of Rebellion[b] Core Rulebook would result in a more grievous injury.
 [P]Whenever a vehicle or starship is hit with a T-7 ion disruptor, any Critical Hit results in a “Component Hit” effect, unless the roll on [B]Table 7-9: Critical Hit[b] Result on page 258 of the [B]Age of Rebellion[b] Core Rulebook would result in a more serious effect.</Description>
     <Source Page="44">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
@@ -14569,7 +14569,7 @@ Like many tools and weapons combat engineers use, the LJ-40 began life as a fiel
 and deadly LJ-50 concussion rifles accidentally. The squad's armorer, seeing that with modification the weapons would be perfect for breaching walls and scattering enemy troops, cut the rifles down into makeshift carbines. The undeniable effectiveness of the carbines impressed the squad's superior officer. Word eventually reached Arakyd Industries, which immediately put the LJ-40 into production to sell alongside the already popular LJ-50.
 [P]The production-model LJ-40 has a folding skeleton stock and shortened barrel. Engineers and vehicle crews love the weapon for its light weight, ease of use, and destructive potential. As with all carbines, the LJ-40 suffers from a lack of range and poor long-range
 accuracy, but since most military engineers engage the enemy at short ranges, this does not diminish the LJ-40's effectiveness.
-[P]All [SE] added to a combat check due to the target's cover are removed when using the LJ -40. Additional ammunition costs 40 credits for magazine of 3 rounds.
+[P]All [SE] added to a combat check due to the target's cover are removed when using the LJ-40. Additional ammunition costs 40 credits for magazine of 3 rounds.
 
 </Description>
     <Source Page="38">Fully Operational</Source>
@@ -14619,7 +14619,7 @@ accuracy, but since most military engineers engage the enemy at short ranges, th
     <Name>DH-17c Short Carbine</Name>
     <Description>
       [H3]BlasTech DH-17c Short Carbine[h3]
-Blurring the line between blaster pistol and blaster carbine, the DH-17c short carbine is a relatively new addition to the venerable DH -17 product line. A shortened version of the DH-17 blaster rifle, it features a snub-nosed barrel cast in the same silvery color as the weapon's receiver. Its primary selling point, aside from the small size, is its various fire modes. Along with the standard semi-automatic and non-lethal Stun settings, this carbine has an automatic setting, giving shooters an extra and unexpected edge in combat.
+Blurring the line between blaster pistol and blaster carbine, the DH-17c short carbine is a relatively new addition to the venerable DH-17 product line. A shortened version of the DH-17 blaster rifle, it features a snub-nosed barrel cast in the same silvery color as the weapon's receiver. Its primary selling point, aside from the small size, is its various fire modes. Along with the standard semi-automatic and non-lethal Stun settings, this carbine has an automatic setting, giving shooters an extra and unexpected edge in combat.
 [P]While these carbines are not sold with any accessories from the factory, they are often customized with optics and folding stocks to increase their performance and usability. A number of Alliance Army engineering units have adopted the short carbine as their official-issue weapon, as its size and versatility gives the Engineers the ability to switch between working and fighting more easily than with heavier weapons.</Description>
     <Source Page="39">Fully Operational</Source>
     <Custom>DescOnly</Custom>
@@ -14882,8 +14882,8 @@ CryoBan is one of a number of chemical compounds used in the carbon freezing pro
     <Name>Flex-5 Detonite Tape</Name>
     <Description>
       [H3]Flex-5 Detonite Tape[h3]
-Created and sold by Merr-Sonn, Flex-5 is an easy-to-use demolitions device designed to destroy small or lightly armored objects. It consists of a bulky roil of thick adhesive tape three centimeters wide and fifty meters long wound around a polycarbonate reel. The tape is, essentially, highly processed detonite that will stick to nearly any surface thanks to its built-in adhesive. Like detonite compound. Flex-5 tape requires an electrical charge to detonate and can be set off either remotely or by a timer. Alliance Engineers often use Flex-5 to breach doors and destroy equipment such as computer banks or civilian airspeeders.
-[P]A single charge of Flex-5 is a strip roughly a meter long. Since it is extremely simple to use-any trooper who has ever fixed a picture to a barracks wall or to the inside of a footlocker can use the tape-the difficulty of using Flex -5 does not increase past [B]Easy ([DI])[b] with additional charges.</Description>
+Created and sold by Merr-Sonn, Flex-5 is an easy-to-use demolitions device designed to destroy small or lightly armored objects. It consists of a bulky roil of thick adhesive tape three centimeters wide and fifty meters long wound around a polycarbonate reel. The tape is, essentially, highly processed detonite that will stick to nearly any surface thanks to its built-in adhesive. Like detonite compound, Flex-5 tape requires an electrical charge to detonate and can be set off either remotely or by a timer. Alliance Engineers often use Flex-5 to breach doors and destroy equipment such as computer banks or civilian airspeeders.
+[P]A single charge of Flex-5 is a strip roughly a meter long. Since it is extremely simple to use—any trooper who has ever fixed a picture to a barracks wall or to the inside of a footlocker can use the tape—the difficulty of using Flex-5 does not increase past [B]Easy ([DI])[b] with additional charges.</Description>
     <Sources>
       <Source Page="41">Fully Operational</Source>
     </Sources>
