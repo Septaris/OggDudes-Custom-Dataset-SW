@@ -5,21 +5,44 @@
   <Description>[H3]Aratech R82 Jump Boots[h3]
  [P]Aratech's R82 jump boots are commonly used for sports and leisure activities, but the Rebel Alliance has also found them useful for exploring less accessible areas on newly located worlds. The boots employ a pair of repulsorlift generators and rocket units that allow the user to boost jumps or glide at altitudes of up to thirty-five meters for short distances.
 [P]Jump boots allow the user to function as a Silhouette 1, Speed 2, Handling -1, System Strain Threshold 3 vehicle that can only operate in atmosphere, has a maximum altitude of 35 meters, and requires Piloting (Planetary) to operate. </Description>
-  <Source>Strongholds of Resistance</Source>
+  <Source Page="115">Strongholds of Resistance</Source>
+  <Sources />
   <Custom>DescOnly</Custom>
   <Type>Jump Boots</Type>
   <Categories>
     <Category>Air Vehicle</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
+  <HP>0</HP>
   <Price>2000</Price>
   <Rarity>6</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <WeaponModifiers />
   <MaxAltitude>35 meters</MaxAltitude>
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
   <SensorRangeValue>srNone</SensorRangeValue>
   <Crew>One pilot</Crew>
+  <EncumbranceCapacity>0</EncumbranceCapacity>
+  <Passengers>0</Passengers>
+  <Consumables />
   <Silhouette>1</Silhouette>
   <Speed>2</Speed>
   <Handling>-1</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
+  <Armor>0</Armor>
+  <HullTrauma>0</HullTrauma>
   <SystemStrain>3</SystemStrain>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
   <SinglePilot>true</SinglePilot>
+  <VehicleWeapons />
+  <BuiltInAttachments />
   <SensorRange>No Sensors</SensorRange>
 </Vehicle>

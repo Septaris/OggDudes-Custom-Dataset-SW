@@ -13,20 +13,23 @@ Known primarily as a manufacturer of military starships and fighters, their most
 few passenger berths, and the cargo holds. The holds are efficiently and intelligently laid out and are managed by a sophisticated lading system that tracks and inventories cargoes. 
 
 [P]The midships section is largely machine spaces, sensor arrays, kilometers of cable, and a cramped walkway connecting the forward and aft sections. The engine and engineering section contains the majority of the power-generation and drive systems, along with the main computer bus and the shield generators. While these ships are highly mission focused with not much room for aftermarket modifications, particularly ingenious operators can squeeze a few weapons into the hull for defensive purposes or lay a little more armor over the midships section should they feel the need.</Description>
-  <Source>Enter the Unknown</Source>
+  <Source Page="63">Enter the Unknown</Source>
   <Custom>DescOnly</Custom>
   <Type>Transport</Type>
   <Categories>
     <Category>Non-Fighter Starship</Category>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>4</HP>
   <Price>200000</Price>
   <Rarity>5</Rarity>
+  <MaxAltitude />
   <HyperdrivePrimary>3</HyperdrivePrimary>
   <HyperdriveBackup>16</HyperdriveBackup>
   <StarFighters>None</StarFighters>
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot, one copilot, one engineer, one loadmaster, six technicians</Crew>
   <EncumbranceCapacity>2000</EncumbranceCapacity>
   <Passengers>12</Passengers>
@@ -42,5 +45,5 @@ few passenger berths, and the cargo holds. The holds are efficiently and intelli
   <HullTrauma>35</HullTrauma>
   <SystemStrain>20</SystemStrain>
   <Starship>true</Starship>
-  <SensorRange>Close</SensorRange>
+  <VehicleWeapons />
 </Vehicle>

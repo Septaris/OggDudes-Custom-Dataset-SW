@@ -8,45 +8,92 @@
 Speed is the main focus of Mekuun's Rush Troop Transport speeder. The speeder darts around the battlefield at increased speed, thanks to a specialized turbine booster that produces a sudden burst of acceleration. The compact turbine runs for 30 seconds at a time before it powers down for a minute to recharge and cool down. While troops and commanders like the speeder's acceleration and speed, they are less happy with shrill whine that erupts when the booster kicks in. It is effective, but deprives the speeder of the advantage of surprise. 
 
 [P]The pilot and gunners sit in a narrow, triangular three seat cockpit, while the passengers occupy a long, narrow compartment behind them. The passengers may deploy out the sides or the back of the speeder.</Description>
-  <Source>Dangerous Covenants</Source>
+  <Source Page="63">Dangerous Covenants</Source>
   <Custom>DescOnly</Custom>
   <Type>Airspeeder</Type>
   <Categories>
     <Category>Air Vehicle</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>2</HP>
   <Price>60000</Price>
   <Rarity>5</Rarity>
+  <Restricted>false</Restricted>
   <MaxAltitude>200 km</MaxAltitude>
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
   <StarFighters>None</StarFighters>
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot, two gunners</Crew>
   <EncumbranceCapacity>8</EncumbranceCapacity>
   <Passengers>20</Passengers>
+  <Consumables />
   <Silhouette>3</Silhouette>
   <Speed>3</Speed>
   <Handling>-1</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>2</Armor>
   <HullTrauma>12</HullTrauma>
   <SystemStrain>10</SystemStrain>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
+  <BaseMods>
+    <Mod>
+      <Count>1</Count>
+      <MiscDesc>
+        [B]Turbine Booster[b]: The turbine booster can be activated
+        as an incidental once per session. This increases
+        the Rush's speed by one and decreases the handling
+        by one for the remainder of the encounter or whenever
+        the pilot deactivates it.
+      </MiscDesc>
+    </Mod>
+  </BaseMods>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
-      <FiringArcs />
+      <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
+      </FiringArcs>
       <Turret>true</Turret>
+      <Location>Unspecified</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>AUTOBLAST</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

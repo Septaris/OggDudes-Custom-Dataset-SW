@@ -7,7 +7,7 @@ Old and largely forgotten save by historians and enthusiasts, Koensayr's IE-440 
 [P]After the fall of the Republic, Koensayr was confident enough in its design to produce a handful of Nighthawks and attempt to sell them to the growing Imperial Navy. Unfortunately, Sienar Fleet Systems had already won a massive contract to produce the cheaper TIE-series of fighters for the Empire, and the Koensayr sales reps were turned away. Over the next few years, Koensayr produced the Nighthawk in limited numbers until eventually discontinuing the model around six years into the reign of the Emperor. Few of these forgotten fighters are in use today. Those ships that are still around soldier on in the hands of backwater planetary defense forces and private military concerns. A handful were recently discovered moth-balled at an old Koensayr warehouse, and after a thorough refit, they were offered on the open market. Alliance acquisition personnel immediately snapped them up; the starships disappeared after purchase and their whereabouts are currently unknown.
 </Description>
   <Source Page="61">Cyphers and Masks</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <Type>Starfighter</Type>
   <Categories>
     <Category>Starship</Category>
@@ -19,10 +19,10 @@ Old and largely forgotten save by historians and enthusiasts, Koensayr's IE-440 
   <HyperdriveBackup>12</HyperdriveBackup>
   <NaviComputer>true</NaviComputer>
   <SensorRangeValue>srShort</SensorRangeValue>
-  <Crew>One pilot.</Crew>
+  <Crew>One pilot</Crew>
   <EncumbranceCapacity>5</EncumbranceCapacity>
   <Passengers>1</Passengers>
-  <Consumables>One week.</Consumables>
+  <Consumables>One week</Consumables>
   <Silhouette>3</Silhouette>
   <Speed>5</Speed>
   <Handling>2</Handling>
@@ -39,7 +39,6 @@ Old and largely forgotten save by historians and enthusiasts, Koensayr's IE-440 
         <Fore>true</Fore>
       </FiringArcs>
       <Location>Forward</Location>
-      <Retractable>true</Retractable>
       <Key>PTL</Key>
     </VehicleWeapon>
     <VehicleWeapon>

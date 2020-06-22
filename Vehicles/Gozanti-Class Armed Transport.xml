@@ -7,8 +7,8 @@
 
 Built for durability and firepower over speed and cargo capacity, the Gozanti-class cruiser is a peculiar transport intended to escort unarmed bulk container ships and provide and-piracy capabilities to freighter convoys. Introduced by Corellian Engineering Corporation nearly half a century ago, the company generally subcontracted out the actual construction of the Gozanti to smaller shipbuilders, notably Gallofree Yards, Inc. Intentionally designed to be too slow for use by pirates, the Gozanti cruiser is typically used by corporations and traders transporting valuable goods or individuals.</Description>
   <Sources>
-    <Source>Age of Rebellion Core Rulebook</Source>
-    <Source>Fly Casual</Source>
+    <Source Page="277">Age of Rebellion Core Rulebook</Source>
+    <Source Page="58">Fly Casual</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <Type>Transport</Type>
@@ -16,12 +16,16 @@ Built for durability and firepower over speed and cargo capacity, the Gozanti-cl
     <Category>Non-Fighter Starship</Category>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>4</HP>
   <Price>200000</Price>
   <Rarity>6</Rarity>
+  <MaxAltitude />
   <HyperdrivePrimary>3</HyperdrivePrimary>
   <HyperdriveBackup>12</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srLong</SensorRangeValue>
   <Crew>One pilot, one co-pilot, one engineer, one comms/sensors operator, two loadmasters, six gunners</Crew>
   <EncumbranceCapacity>1000</EncumbranceCapacity>
   <Passengers>12</Passengers>
@@ -50,7 +54,9 @@ Built for durability and firepower over speed and cargo capacity, the Gozanti-cl
       <Turret>true</Turret>
       <Location>Dorsal</Location>
       <Retractable>true</Retractable>
+      <Qualities />
       <Key>LASERQUAD</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
@@ -64,18 +70,29 @@ Built for durability and firepower over speed and cargo capacity, the Gozanti-cl
       <Turret>true</Turret>
       <Location>Ventral</Location>
       <Retractable>true</Retractable>
+      <Qualities />
       <Key>LASERQUAD</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
       <Retractable>true</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERHVY</Key>
@@ -83,14 +100,23 @@ Built for durability and firepower over speed and cargo capacity, the Gozanti-cl
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
       <Retractable>true</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERHVY</Key>
@@ -99,10 +125,18 @@ Built for durability and firepower over speed and cargo capacity, the Gozanti-cl
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>PTL</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

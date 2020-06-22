@@ -49,8 +49,7 @@ array and smaller profile make it a more versatile counterpart to the devastatin
           <Count>1</Count>
         </Quality>
       </Qualities>
-      <Key>LASCAN</Key>
+      <Key>LASERMED</Key>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Medium</SensorRange>
 </Vehicle>

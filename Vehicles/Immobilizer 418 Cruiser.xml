@@ -6,7 +6,7 @@
     [H3]Immobilizer 418 Cruiser[h3]
 
 The Immobilizer 418—commonly known as the Interdictor cruiser—is one of the most feared vessels currently in service with the Imperial Navy. It is infamous not for its weaponry (which is only useful in self defence) but for its gravity well projectors. Using these powerful gravity generation systems, an Interdictor can prevent fleeing starships from entering hyperspace in a certain region of space. When combined with more powerful warships such as Imperial Star Destroyers, the Interdictor cruiser can pin enemy fleets in place long enough for them to be destroyed.</Description>
-  <Source>Age of Rebellion Beta Rulebook</Source>
+  <Source Page="186">Age of Rebellion Beta Rulebook</Source>
   <Custom>DescOnly</Custom>
   <Type>Heavy Cruiser</Type>
   <Categories>
@@ -14,13 +14,17 @@ The Immobilizer 418—commonly known as the Interdictor cruiser—is one of the 
     <Category>Starship</Category>
     <Category>Capital Ship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
+  <HP>0</HP>
   <Price>10400000</Price>
   <Rarity>8</Rarity>
   <Restricted>true</Restricted>
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
   <HyperdriveBackup>12</HyperdriveBackup>
   <StarFighters>24 starfighters</StarFighters>
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srLong</SensorRangeValue>
   <Crew>2807 officers, pilots, and enlisted</Crew>
   <EncumbranceCapacity>6500</EncumbranceCapacity>
   <Passengers>80</Passengers>
@@ -41,50 +45,82 @@ The Immobilizer 418—commonly known as the Interdictor cruiser—is one of the 
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERQUAD</Key>
       <Count>5</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Ventral</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERQUAD</Key>
       <Count>5</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERQUAD</Key>
       <Count>4</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERQUAD</Key>
       <Count>4</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
         <Aft>true</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Aft</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERQUAD</Key>
       <Count>3</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

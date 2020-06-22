@@ -9,36 +9,72 @@ The Overwatch mobile command speeder is an armored command airspeeder used to di
 [P]Mekuun markets the speeder to paramilitary groups, mercenaries, planetary defense forces and large law enforcement groups. Given the speeder's focus on communication, coordination and battlefield analysis, it is rarely used by pirates or criminal organizations. It has remained in the hands of the intended recipients far better than other military systems. Mercenaries in particular like the combination of mobility and coordination. 
 
 [P]The Overwatch is the size of a medium-sized speeder truck and carries its own crew beyond the command staff. A single speeder can control up to several divisions, but is also suitable for tactical operations and supporting surgical strikes. The command staff works in a self-contained, armored compartment filled with tactical viewscreens, comm stations, and holographic battle trackers. Though not technically a stealth vehicle, the Overwatch is typically painted in camouflage patterns suitable for the expected environment, or a mottled grey.</Description>
-  <Source>Dangerous Covenants</Source>
+  <Source Page="64">Dangerous Covenants</Source>
   <Custom>DescOnly</Custom>
   <Type>Airspeeder</Type>
   <Categories>
     <Category>Air Vehicle</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>2</HP>
   <Price>80000</Price>
   <Rarity>6</Rarity>
+  <Restricted>false</Restricted>
   <MaxAltitude>200 km</MaxAltitude>
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot, one gunner, two communications techs, two sensor techs, one tactical officer, one commander</Crew>
   <EncumbranceCapacity>4</EncumbranceCapacity>
   <Passengers>2</Passengers>
+  <Consumables />
   <Silhouette>3</Silhouette>
   <Speed>2</Speed>
   <Handling>-2</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>3</Armor>
   <HullTrauma>15</HullTrauma>
   <SystemStrain>12</SystemStrain>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
-      <FiringArcs />
+      <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
+      </FiringArcs>
       <Turret>true</Turret>
+      <Location>Unspecified</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>MINCONCLNCH</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
-      <FiringArcs />
+      <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
+      </FiringArcs>
       <Turret>true</Turret>
+      <Location>Unspecified</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

@@ -5,22 +5,40 @@
   <Description>[H3]Hyperfoil 1000-XTC (Landspeeder)[h3]
 
 The Hyperfoil 1000-XTC's unusual hybrid design combines repulsorlift drives and air-cushioned hovercraft engines. Capable of true vertical take-off and landing, the Hyperfoil can achieve a moderately high altitude for a landspeeder and boasts powerful engines, smooth handling, and an impressive cargo capacity. </Description>
-  <Source>Fly Casual</Source>
+  <Source Page="52">Fly Casual</Source>
   <Custom>DescOnly</Custom>
   <Type>Landspeeder</Type>
   <Categories>
     <Category>Land Vehicle</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>3</HP>
   <Price>7000</Price>
   <Rarity>5</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
   <MaxAltitude>50 meters</MaxAltitude>
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot</Crew>
   <EncumbranceCapacity>25</EncumbranceCapacity>
   <Passengers>2</Passengers>
+  <Consumables />
   <Silhouette>2</Silhouette>
   <Speed>2</Speed>
+  <Handling>0</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
+  <Armor>0</Armor>
   <HullTrauma>4</HullTrauma>
   <SystemStrain>8</SystemStrain>
-  <SensorRange>Close</SensorRange>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
+  <VehicleWeapons />
 </Vehicle>

@@ -11,20 +11,23 @@ Among the oldest ships still plying the hyperspace lanes, Corellian Engineering 
 [P]The YG-4210 is, like all of the ancient YG-series ships, unlike anything Corellian Engineering has on the market today. It has a flat, single-decked, spade-shaped hull with a dorsally mounted command deck covered by an armored blister canopy. It has three subspace engines located in the trefoil-shaped engineering section that is connected to the main hull by a small passage. Crew and passenger facilities are in the main hull along with the cargo hold, which can be loaded either from a ventral loading ramp or by crane through dorsally mounted port and starboard loading hatches. 
 
 [P]Like most ships operating in the Outer Rim, especially those as old as the antique YG-series ships, they bear only a passing resemblance to the ships that first flew off the slips all those decades ago. Over the course of their lifespans, VG-4210 freighters have passed through scores of owners, each one modifying the ship to his tastes and needs. There is no such thing as a stock YG-4210 anymore. If there is a lonesome, unsold, and unmodified YG-4210 moldering away in some forgotten shipyard or hangar bay, it would fetch quite a price from those who know quality ships when they see them.</Description>
-  <Source>Enter the Unknown</Source>
+  <Source Page="64">Enter the Unknown</Source>
   <Custom>DescOnly</Custom>
   <Type>Freighter</Type>
   <Categories>
     <Category>Non-Fighter Starship</Category>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>4</HP>
   <Price>85000</Price>
   <Rarity>7</Rarity>
+  <MaxAltitude />
   <HyperdrivePrimary>3</HyperdrivePrimary>
   <HyperdriveBackup>13</HyperdriveBackup>
   <StarFighters>None</StarFighters>
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srMedium</SensorRangeValue>
   <Crew>One pilot, one copilot</Crew>
   <EncumbranceCapacity>120</EncumbranceCapacity>
   <Passengers>12</Passengers>
@@ -34,6 +37,8 @@ Among the oldest ships still plying the hyperspace lanes, Corellian Engineering 
   <Handling>-2</Handling>
   <DefFore>2</DefFore>
   <DefAft>1</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>3</Armor>
   <HullTrauma>30</HullTrauma>
   <SystemStrain>10</SystemStrain>
@@ -46,17 +51,22 @@ Among the oldest ships still plying the hyperspace lanes, Corellian Engineering 
         <Port>true</Port>
         <Starboard>true</Starboard>
         <Dorsal>true</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

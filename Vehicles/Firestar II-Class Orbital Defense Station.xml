@@ -1,16 +1,13 @@
 <?xml version="1.0"?>
 <Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Key>FIRESTARII</Key>
-  <Name>FireStar II-Class Orbital Defense Station</Name>
+  <Key>FIRESTARIISTATION</Key>
+  <Name>Firestar II-Class Orbital Defense Station</Name>
   <Description>[H3][I]FireStar II[i]-Class Orbital Defense Station[h3]
 The [I]FireStar II[i]-class battle station was designed to provide concentrated firepower from a smaller, less expensive, and more easily produced station than the original FireStar.</Description>
   <Source Page="89">Fully Operational</Source>
-  <Custom>AddedItem</Custom>
-  <Type>Orbital Defense Platform</Type>
+  <Custom>DescOnly</Custom>
+  <Type>Space Station</Type>
   <Categories>
-    <Category>Capital Ship</Category>
-    <Category>Non-Fighter Starship</Category>
-    <Category>Starship</Category>
     <Category>Station</Category>
   </Categories>
   <HP>5</HP>
@@ -76,8 +73,6 @@ The [I]FireStar II[i]-class battle station was designed to provide concentrated 
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
-        <Dorsal>true</Dorsal>
-        <Ventral>true</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Forward</Location>
@@ -90,8 +85,6 @@ The [I]FireStar II[i]-class battle station was designed to provide concentrated 
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
-        <Dorsal>true</Dorsal>
-        <Ventral>true</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Aft</Location>
@@ -104,8 +97,6 @@ The [I]FireStar II[i]-class battle station was designed to provide concentrated 
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
-        <Dorsal>true</Dorsal>
-        <Ventral>true</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Port</Location>
@@ -118,8 +109,6 @@ The [I]FireStar II[i]-class battle station was designed to provide concentrated 
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
-        <Dorsal>true</Dorsal>
-        <Ventral>true</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Starboard</Location>
@@ -132,11 +121,9 @@ The [I]FireStar II[i]-class battle station was designed to provide concentrated 
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
-        <Dorsal>true</Dorsal>
-        <Ventral>true</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
-      <Location>Dorsal</Location>
+      <Location>UpperRing</Location>
       <Key>LASERQUAD</Key>
       <Count>4</Count>
     </VehicleWeapon>
@@ -146,11 +133,9 @@ The [I]FireStar II[i]-class battle station was designed to provide concentrated 
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
-        <Dorsal>true</Dorsal>
-        <Ventral>true</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
-      <Location>Ventral</Location>
+      <Location>LowerRing</Location>
       <Key>LASERQUAD</Key>
       <Count>4</Count>
     </VehicleWeapon>
@@ -158,7 +143,6 @@ The [I]FireStar II[i]-class battle station was designed to provide concentrated 
       <FiringArcs>
         <Fore>true</Fore>
       </FiringArcs>
-      <Turret>true</Turret>
       <Location>Forward</Location>
       <Key>ACML</Key>
       <Count>2</Count>
@@ -167,7 +151,6 @@ The [I]FireStar II[i]-class battle station was designed to provide concentrated 
       <FiringArcs>
         <Aft>true</Aft>
       </FiringArcs>
-      <Turret>true</Turret>
       <Location>Aft</Location>
       <Key>ACML</Key>
       <Count>2</Count>
@@ -176,7 +159,6 @@ The [I]FireStar II[i]-class battle station was designed to provide concentrated 
       <FiringArcs>
         <Port>true</Port>
       </FiringArcs>
-      <Turret>true</Turret>
       <Location>Port</Location>
       <Key>ACML</Key>
       <Count>2</Count>
@@ -185,26 +167,28 @@ The [I]FireStar II[i]-class battle station was designed to provide concentrated 
       <FiringArcs>
         <Starboard>true</Starboard>
       </FiringArcs>
-      <Turret>true</Turret>
-      <Location>Starboard</Location>
       <Key>ACML</Key>
       <Count>2</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
-        <Dorsal>true</Dorsal>
+        <Fore>true</Fore>
+        <Aft>true</Aft>
+        <Port>true</Port>
+        <Starboard>true</Starboard>
       </FiringArcs>
-      <Turret>true</Turret>
-      <Location>Dorsal</Location>
+      <Location>UpperRing</Location>
       <Key>ACML</Key>
       <Count>4</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
-        <Ventral>true</Ventral>
+        <Fore>true</Fore>
+        <Aft>true</Aft>
+        <Port>true</Port>
+        <Starboard>true</Starboard>
       </FiringArcs>
-      <Turret>true</Turret>
-      <Location>Ventral</Location>
+      <Location>LowerRing</Location>
       <Key>ACML</Key>
       <Count>4</Count>
     </VehicleWeapon>

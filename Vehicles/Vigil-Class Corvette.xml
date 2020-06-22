@@ -6,19 +6,24 @@
     [H3]Vigil-Class Corvette[h3]
 
 Produced by Kuat Drive Yards for the Imperial Navy, the Vigil-class corvette is the smallest vessel in the iconic Star Destroyer class of ships. Lightly armed and armored, it shares the dagger-shaped hull and large crew of its larger siblings, and operates as both a picket and reconnaissance vessel as well as an escort ship for larger, cruiser-sized ships. Their command decks sit flush with the hull, all the way aft over the main drive thrusters. This gives the Vigil-class a smaller silhouette and protects the crew better than the tall, exposed control towers found on larger KDY vessels. For its primary armament, the Vigil-class carries a trio of turret-mounted heavy turbolasers on the dorsal hull, giving it quite a heavy punch for so small a vessel. In addition, smaller turbolaser turrets are scattered over the ship's hull along with smaller, anti-starfighter laser cannons. Thanks to their size and role, these vessels rarely serve in the line of battle with larger types of Star Destroyers. Instead, they patrol trade routes, serve as battlegroup leaders for small, backwater fleets, and operate as lone cruisers among the fringes of the Inner and Outer Rim, battling pirates and smugglers and rooting out Alliance agents.</Description>
-  <Source>Age of Rebellion Core Rulebook</Source>
+  <Source Page="274">Age of Rebellion Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <Type>Corvette</Type>
   <Categories>
     <Category>Non-Fighter Starship</Category>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
+  <HP>0</HP>
   <Price>3500000</Price>
   <Rarity>5</Rarity>
   <Restricted>true</Restricted>
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
   <HyperdriveBackup>10</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srLong</SensorRangeValue>
   <Crew>200 Officers, enlisted, and troops</Crew>
   <EncumbranceCapacity>1800</EncumbranceCapacity>
   <Passengers>200</Passengers>
@@ -46,10 +51,14 @@ Produced by Kuat Drive Yards for the Imperial Navy, the Vigil-class corvette is 
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOLT</Key>
@@ -66,10 +75,14 @@ Produced by Kuat Drive Yards for the Imperial Navy, the Vigil-class corvette is 
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERHVY</Key>
@@ -78,10 +91,18 @@ Produced by Kuat Drive Yards for the Imperial Navy, the Vigil-class corvette is 
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>TRACTMED</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

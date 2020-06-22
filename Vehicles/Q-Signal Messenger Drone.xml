@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Key>QSIGNAL</Key>
+  <Name>Q-Signal Messenger Drone</Name>
+  <Description>[H3]Q-Signal Messenger Drone[h3]
+Please see page 53 of the Cyphers and Masks Sourcebook for details.</Description>
+  <Source Page="53">Cyphers and Masks</Source>
+  <Custom>AddedItem</Custom>
+  <Type>Drone</Type>
+  <Categories>
+    <Category>Starship</Category>
+    <Category>Non-Fighter Starship</Category>
+  </Categories>
+  <HP>1</HP>
+  <Price>12000</Price>
+  <Rarity>5</Rarity>
+  <HyperdrivePrimary>2</HyperdrivePrimary>
+  <SensorRangeValue>srNone</SensorRangeValue>
+  <EncumbranceCapacity>10</EncumbranceCapacity>
+  <Silhouette>2</Silhouette>
+  <Armor>2</Armor>
+  <HullTrauma>15</HullTrauma>
+  <SystemStrain>10</SystemStrain>
+  <Starship>true</Starship>
+  <SinglePilot>true</SinglePilot>
+  <SensorRange>No Sensors</SensorRange>
+</Vehicle>

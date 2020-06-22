@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Key>ITHORIANHERDSHIP</Key>
-  <Name>Ithorian Herd Ship</Name>
+  <Key>HERDSHIP</Key>
+  <Name>Herd Ship</Name>
   <Description>[H3]Ithorian Herd Ship[h3]
 These massive vessels, over 1.000 meters in diameter, were designed by the Ithorians as a home away from home. Based on the repulsorlift herd-cities of their native world, yet enclosed for space travel, each herd ship features an extensively-grown jungle habitat in its lower levels, featuring a complete and living ecosystem designed to simulate the jungles of Ithor. The upper levels of a herd ship feature the main city: the living quarters, starship landing facilities and workspaces. Herd ships are armed with four tractor beam projectors and twenty turbolaser batteries located around the outer perimeter of the vessel. A crew of approximately 3,000 Ithorians work constantly on the maintenance and operation of the herd ship, which also serves as the home of up to 10,000 additional lthorians.
 [P]The ships travel the galaxy on a specific course and schedule, set by the individual herd, trading with varying ports of call along the way. All vessels return to Ithor once every three years, at an event known as a Herd Meet.</Description>
   <Source Page="61">Unlimited Power</Source>
-  <Custom>AddedItem</Custom>
-  <Type>Bulk Transport</Type>
+  <Custom>DescOnly</Custom>
+  <Type>Herd Ship</Type>
   <Categories>
     <Category>Starship</Category>
     <Category>Non-Fighter Starship</Category>
-    <Category>Bulk Transport</Category>
+    <Category>Capital Ship</Category>
   </Categories>
   <HP>4</HP>
   <Price>600000000</Price>
@@ -21,7 +21,7 @@ These massive vessels, over 1.000 meters in diameter, were designed by the Ithor
   <StarFighters>Numerous shuttles, landing craft, and utility vehicles</StarFighters>
   <NaviComputer>true</NaviComputer>
   <SensorRangeValue>srLong</SensorRangeValue>
-  <Crew>3,000 officers, pilots and crew</Crew>
+  <Crew>3,000 officers, pilots, and crew</Crew>
   <EncumbranceCapacity>75000</EncumbranceCapacity>
   <Passengers>10000</Passengers>
   <Consumables>Three years</Consumables>
@@ -45,7 +45,6 @@ These massive vessels, over 1.000 meters in diameter, were designed by the Ithor
         <Port>true</Port>
         <Starboard>true</Starboard>
         <Dorsal>true</Dorsal>
-        <Ventral>true</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Dorsal</Location>
@@ -64,7 +63,6 @@ These massive vessels, over 1.000 meters in diameter, were designed by the Ithor
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
-        <Dorsal>true</Dorsal>
         <Ventral>true</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
@@ -84,8 +82,6 @@ These massive vessels, over 1.000 meters in diameter, were designed by the Ithor
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
-        <Dorsal>true</Dorsal>
-        <Ventral>true</Ventral>
       </FiringArcs>
       <Location>Hull</Location>
       <Key>TRACTHVY</Key>

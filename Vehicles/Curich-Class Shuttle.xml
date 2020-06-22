@@ -7,26 +7,34 @@
 Sienar Fleet Systems is best known for production of TIE-series starfighters and other military craft for the Empire, but they do not design only warships. The Curich-class shuttle is an older Sienar design often sold to a civilian market. Its long, ovoid hull features extended landing struts on the center of the ship's flanks. A single turret mounted with a pair of linked heavy blaster cannons sits on top of the hull for protection. 
 
 [P]Capable of hauling large groups or stockpiles at a respectable speed, the Curich-class is often used by nonmilitary Imperial officials or other dignitaries who travel with a large staff. The Rebellion has acquired several Curich-class shuttles, including a few equipped with Imperial transponder codes for infiltration missions. The vessels' light armament makes them vulnerable to interception, but it also reduces the likelihood for troublesome attention. </Description>
-  <Source>Desperate Allies</Source>
+  <Source Page="61">Desperate Allies</Source>
+  <Sources />
   <Custom>DescOnly</Custom>
   <Type>Shuttle</Type>
   <Categories>
     <Category>Starship</Category>
     <Category>Non-Fighter Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>2</HP>
   <Price>130000</Price>
   <Rarity>5</Rarity>
   <Restricted>true</Restricted>
+  <BaseMods />
+  <WeaponModifiers />
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
   <HyperdriveBackup>12</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot, one co-pilot/engineer, one gunner</Crew>
   <EncumbranceCapacity>300</EncumbranceCapacity>
   <Passengers>50</Passengers>
   <Consumables>Two months</Consumables>
   <Silhouette>5</Silhouette>
   <Speed>3</Speed>
+  <Handling>0</Handling>
   <DefFore>1</DefFore>
   <DefAft>1</DefAft>
   <DefPort>1</DefPort>
@@ -35,6 +43,8 @@ Sienar Fleet Systems is best known for production of TIE-series starfighters and
   <HullTrauma>38</HullTrauma>
   <SystemStrain>18</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
@@ -42,17 +52,32 @@ Sienar Fleet Systems is best known for production of TIE-series starfighters and
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
+          <InnateSkills />
+          <ActiveQualityKey />
         </Quality>
       </Qualities>
       <Key>BLASTCANHVY</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
+  <BuiltInAttachments />
 </Vehicle>

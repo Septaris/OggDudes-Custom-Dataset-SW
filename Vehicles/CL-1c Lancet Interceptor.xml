@@ -6,16 +6,22 @@
     [H3]CL-1c Lancet Interceptor[h3]
 
 Sleek, fast, and agile, CL-1c Lancet fighters are designed to intercept and destroy enemy starfighters. A wingless, dart-shaped craft with a prominent vertical maneuvering fin, the Lancet has a powerful Girodyne Ter22 high-output ion engine that provides exceptional speed and acceleration, allowing it to overtake most other starcraft. Used extensively by the Judicial Department during the days of the Old Republic, the Lancet is still employed by the Corellian defense and CorSec forces.</Description>
-  <Source>Suns of Fortune</Source>
+  <Source Page="108">Suns of Fortune</Source>
   <Custom>DescOnly</Custom>
   <Type>Starfighter</Type>
   <Categories>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
+  <HP>0</HP>
   <Price>55000</Price>
   <Rarity>5</Rarity>
+  <MaxAltitude />
   <HyperdrivePrimary>1</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot</Crew>
   <EncumbranceCapacity>4</EncumbranceCapacity>
   <Passengers>1</Passengers>
@@ -24,25 +30,39 @@ Sleek, fast, and agile, CL-1c Lancet fighters are designed to intercept and dest
   <Speed>5</Speed>
   <Handling>1</Handling>
   <DefFore>1</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>2</Armor>
   <HullTrauma>6</HullTrauma>
   <SystemStrain>8</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
   <SinglePilot>true</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERMED</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

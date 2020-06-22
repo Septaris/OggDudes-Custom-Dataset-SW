@@ -10,21 +10,24 @@ Corellian Engineering Corporation's Starbolt assault carrier was a sold as an in
 [P]Starbolts remaining in service rarely have their original complement of speeders and fighters. Most have long been replaced with more modern, better-suited, or more readily available craft. However, the ship is still an effective assault craft, and one that many star systems still employ on a regular basis in their ongoing battles with pirates and Rebels. Worn out or damaged Starbolts have been salvaged by mercenary units and the occasional pirate as well. 
 
 [P]While the Starbolt was an easy-to-purchase package system and a competent assault craft, its on-board vessels were not themselves designed specifically for the ship. Rather, CEC partnered with other manufacturers to provide an excellent deal as well as an optimized combat solution for its buyers. Speeders were always sourced from other producers, as they were not part of CEC's product line. While CEC promoted their own starfighters in a package deal, most buyers opted for other craft. The most common configuration carried a squadron of Y-wings with a package of Mekuun vehicles—Invader assault speeders, Rush transport speeders and Overwatch Command Speeders.</Description>
-  <Source>Dangerous Covenants</Source>
+  <Source Page="70">Dangerous Covenants</Source>
   <Custom>DescOnly</Custom>
   <Type>Frigate</Type>
   <Categories>
     <Category>Capital Ship</Category>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>2</HP>
   <Price>10000000</Price>
   <Rarity>8</Rarity>
   <Restricted>true</Restricted>
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
   <HyperdriveBackup>10</HyperdriveBackup>
   <StarFighters>24 starfighters, 6 assault speeders, four troop speeders, two command speeders, and two shuttles</StarFighters>
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srLong</SensorRangeValue>
   <Crew> 800 crew and troop support</Crew>
   <EncumbranceCapacity>4000</EncumbranceCapacity>
   <Passengers>250</Passengers>
@@ -40,49 +43,87 @@ Corellian Engineering Corporation's Starbolt assault carrier was a sold as an in
   <HullTrauma>75</HullTrauma>
   <SystemStrain>60</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
         <Dorsal>true</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>TURBOHVY</Key>
       <Count>2</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
         <Ventral>true</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Ventral</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>IONHVY</Key>
       <Count>2</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LIMITEDAMMO</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>PTL</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>TRACTHVY</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

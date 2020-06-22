@@ -8,19 +8,24 @@
 Officially, the 4R3 is classified as light freighter instead of a military assault craft. This major deception actually originated in a deal between Telgorn and the Corporate Sector Authority, who commissioned the ship to carry out surprise attacks on pirates and smugglers. The original ships were delivered to the CSA and recorded into the B.O.S.S. systems as freighters. The deception was eventually discovered, but correcting the designation proved problematic. Subsequent galaxy-wide updates often caused more confusion than clarity in the minds of law enforcement and other agencies. As the 4R3 was slowly delivered to other buyers and trickled out into the galaxy at large, in the minds of most it remained a freighter, if a heavily armed one. 
 
 [P]The 4R3's main mission is as a clandestine assault ship. It is designed to look like an unarmed freighter in order to advance on and dock with enemy or pirate craft—before their opponents realize their mistake. The ship's weaponry is completely concealed within the ship's hull, and is deployed within a few seconds when required. The 4R3 is also deployed in pirate-heavy regions of space, as bait in a trap intended to draw the criminals out for a head-on engagement.</Description>
-  <Source>Dangerous Covenants</Source>
+  <Source Page="67">Dangerous Covenants</Source>
   <Custom>DescOnly</Custom>
   <Type>Light Assault Transport</Type>
   <Categories>
     <Category>Starship</Category>
     <Category>Non-Fighter Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>4</HP>
   <Price>300000</Price>
   <Rarity>7</Rarity>
+  <Restricted>false</Restricted>
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
   <HyperdriveBackup>15</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srMedium</SensorRangeValue>
   <Crew>One pilot, one co-pilot, two gunners, one engineer</Crew>
   <EncumbranceCapacity>80</EncumbranceCapacity>
   <Passengers>16</Passengers>
@@ -30,35 +35,68 @@ Officially, the 4R3 is classified as light freighter instead of a military assau
   <Handling>-1</Handling>
   <DefFore>2</DefFore>
   <DefAft>1</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>3</Armor>
   <HullTrauma>32</HullTrauma>
   <SystemStrain>19</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
+  <BaseMods>
+    <Mod>
+      <Count>1</Count>
+      <MiscDesc>
+        [B]Stinger Assault Boarding Tube[b]: If the 4R3 manages
+        to dock with a target, it can cut through the hull of the
+        ship in three rounds.
+      </MiscDesc>
+    </Mod>
+  </BaseMods>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
       <Retractable>true</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERMED</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
       <Retractable>true</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>IONLT</Key>
@@ -67,18 +105,26 @@ Officially, the 4R3 is classified as light freighter instead of a military assau
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
       <Retractable>true</Retractable>
       <Qualities>
         <Quality>
           <Key>LIMITEDAMMO</Key>
           <Count>7</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>PTL</Key>
       <Count>2</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

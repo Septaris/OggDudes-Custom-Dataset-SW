@@ -8,19 +8,25 @@ Produced by CorelliSpace, a well-funded private firm that sought to compete with
 
 [H4]Modular Cockpit[h4]
 As an action, the pilot may disconnect the cockpit, abandoning the rest of the vessel.  The craft's silhouette becomes 2 and its encumbrance capacity becomes 10.  Anything in the back of the ship (potentially including systems and attachments) is left behind.</Description>
-  <Source>Fly Casual</Source>
+  <Source Page="58">Fly Casual</Source>
   <Custom>DescOnly</Custom>
   <Type>Light Freighter</Type>
   <Categories>
     <Category>Starship</Category>
     <Category>Non-Fighter Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>4</HP>
   <Price>80000</Price>
   <Rarity>6</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
   <HyperdriveBackup>15</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot, one co-pilot/engineer</Crew>
   <EncumbranceCapacity>160</EncumbranceCapacity>
   <Passengers>4</Passengers>
@@ -30,20 +36,30 @@ As an action, the pilot may disconnect the cockpit, abandoning the rest of the v
   <Handling>-3</Handling>
   <DefFore>1</DefFore>
   <DefAft>1</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>1</Armor>
   <HullTrauma>26</HullTrauma>
   <SystemStrain>14</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
+      <Location>Unspecified</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERMED</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

@@ -5,19 +5,26 @@
   <Description>[H3]Mobquet Medium Transport (Medium Laser)[h3]
 
 Manufactured by Mobquet Swoops and Speeders, a company that, as its name suggests, is more known for personal repulsorlift vehicles like the Flare-S, their medium transport is a popular cargo hauler. TaggeCo. does significant business with the Galactic Empire, and so its subsidiary Mobquet managed to get this vessel designated as a medium transport rather than a bulk freighter or heavy cargo hauler, thereby avoiding many of the restrictions normally imposed on a vessel of its size.</Description>
-  <Source>Fly Casual</Source>
+  <Source Page="57">Fly Casual</Source>
   <Custom>DescOnly</Custom>
   <Type>Transport</Type>
   <Categories>
     <Category>Starship</Category>
     <Category>Non-Fighter Starship</Category>
+    <Category>Bulk Transport</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>5</HP>
   <Price>275000</Price>
   <Rarity>5</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
   <HyperdriveBackup>15</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot, one co-pilot/engineer, two gunners/crew</Crew>
   <EncumbranceCapacity>5000</EncumbranceCapacity>
   <Passengers>90</Passengers>
@@ -33,29 +40,40 @@ Manufactured by Mobquet Swoops and Speeders, a company that, as its name suggest
   <HullTrauma>40</HullTrauma>
   <SystemStrain>28</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Forward</Location>
       <Retractable>true</Retractable>
+      <Qualities />
       <Key>LASERMED</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Aft</Location>
       <Retractable>true</Retractable>
+      <Qualities />
       <Key>LASERMED</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

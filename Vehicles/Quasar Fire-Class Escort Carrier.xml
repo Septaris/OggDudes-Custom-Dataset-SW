@@ -6,7 +6,7 @@
 
 The Rebel Alliance's Quasar Fire-class escort carriers began life as unassuming Quasar Fire-series bulk freighters produced by SoroSuub corporation. Ungainly-looking ships with a small forward command pod attached to a massive modular container ship hull by a broad, flat, triangular spar, these ships were initially designed to carry heavy, containerized cargoes on long-distance hyperspace trade routes. Acquired by a Rebel operative at auction, the handful of ships that would become the Quasar Fire-class were seen as a quick and relatively easy way to acquire vessels capable of carrying starfighters into battle and supporting them with full service hangars (instead of each individual squadron traveling to an engagement separately, hoping that they all arrive relatively close together). The vessels were flown to a secret Rebel shipyard where they were torn down to the keel, and over the course of many standard months, they were rebuilt as dedicated starfighter carriers. 
 [P]Roughly the equivalent of the Imperial Navy's Ton-Falk-class escort carriers in power and fighter capacity, these vessels have improved the efficacy of Alliance fighter operations by leaps and bounds. Extremely valuable to the Rebel cause and jealously guarded by their captains and crews, Quasar Fire-class carriers are always accompanied by a strong mixed battlegroup of gunboats and cruisers to protect the fragile carriers and their precious cargo of starfighters. Although two of the original ships have been lost in action, many still remain active, scattered throughout the galaxy and brought out whenever a large concentration of starfighters is needed in a hurry.</Description>
-  <Source>Stay on Target</Source>
+  <Source Page="63">Stay on Target</Source>
   <Custom>DescOnly</Custom>
   <Type>Carrier</Type>
   <Categories>
@@ -14,13 +14,18 @@ The Rebel Alliance's Quasar Fire-class escort carriers began life as unassuming 
     <Category>Non-Fighter Starship</Category>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>4</HP>
   <Price>1750000</Price>
   <Rarity>6</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
   <HyperdriveBackup>12</HyperdriveBackup>
   <StarFighters>48 starfighters</StarFighters>
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srLong</SensorRangeValue>
   <Crew>250 officers, pilots, and enlisted</Crew>
   <EncumbranceCapacity>5000</EncumbranceCapacity>
   <Passengers>150</Passengers>
@@ -37,12 +42,21 @@ The Rebel Alliance's Quasar Fire-class escort carriers began life as unassuming 
   <SystemStrain>45</SystemStrain>
   <Starship>true</Starship>
   <Massive>1</Massive>
+  <SinglePilot>false</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>TURBOLT</Key>
       <Count>2</Count>
     </VehicleWeapon>
@@ -52,10 +66,15 @@ The Rebel Alliance's Quasar Fire-class escort carriers began life as unassuming 
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
+      <Location>Unspecified</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>TRACTMED</Key>
       <Count>2</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

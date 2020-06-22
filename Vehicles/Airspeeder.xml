@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Vehicle>
   <Key>AIRSPEEDER</Key>
   <Name>Airspeeder</Name>
   <Description>
@@ -7,26 +6,31 @@
 
 Small civilian airspeeders are commonly used for pleasure or sport, or transporting cargo and passengers. Civilian models such as these are rarely armed or armored. This profile represents a generic airspeeder.</Description>
   <Sources>
-    <Source>Edge of the Empire Core Rulebook</Source>
-    <Source>Force and Destiny Core Rulebook</Source>
+    <Source Page="248">Edge of the Empire Core Rulebook</Source>
+    <Source Page="254">Force and Destiny Core Rulebook</Source>
   </Sources>
   <Custom>DescOnly</Custom>
-  <Type>Airspeeder</Type>
-  <Categories>
-    <Category>Air Vehicle</Category>
-  </Categories>
-  <HP>1</HP>
-  <Price>10000</Price>
-  <Rarity>3</Rarity>
   <MaxAltitude>300 kilometers</MaxAltitude>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One Pilot</Crew>
   <EncumbranceCapacity>30</EncumbranceCapacity>
   <Passengers>6</Passengers>
-  <Consumables>None</Consumables>
   <Silhouette>2</Silhouette>
   <Speed>3</Speed>
+  <Handling>0</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
+  <Armor>0</Armor>
   <HullTrauma>5</HullTrauma>
   <SystemStrain>5</SystemStrain>
+  <HP>1</HP>
+  <Price>10000</Price>
+  <Rarity>3</Rarity>
   <SinglePilot>true</SinglePilot>
-  <SensorRange>Close</SensorRange>
+  <Categories>
+    <Category>Air Vehicle</Category>
+  </Categories>
+  <Type>Airspeeder</Type>
 </Vehicle>

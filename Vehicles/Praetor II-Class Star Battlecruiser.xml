@@ -8,7 +8,7 @@
 One of the largest classes of ships commissioned in the Imperial Navy, the Praetor II-class battlecruiser is second only to the rare Executor-class Super Star Destroyer in size, mass, and destructive potential. Like all Star Destroyer-type warships, the Praetor II has a long, thin, arrowhead-shaped hull covered in bone-colored armor plating and bristling with all manner of turbolaser turrets, laser cannons, ion cannons, and anti-fighter weapon systems. Nearly five times as long as an Imperial II-class vessel, these massive ships are typically assigned as command vessels for sector fleets, rarely leaving their berths except in times of dire need or in the case of a full-fleet engagement somewhere within their sphere of influence. While they share many design queues with the other ships in the Star Destroyer line, Praetors lack the towering bridge and sensor superstructure found on the lighter Imperial and Victory-class ships. Instead, they have a broad, heavily armored bunker-like ridge that runs along the dorsal surface from amidships aft and extends over the stern. Most of the crew live and work in this area, as the rest of the ship is given over to machine spaces, control systems, and the other necessary engineering areas. 
 
 [P]While the Praetor ll battlecruisers have their weaknesses, it's incredibly difficult to leverage knowledge of them into any kind of victory. These vessels never travel alone; they are constantly tended to by battlegroups composed of a number of different vessel classes and surrounded by a thick cloud of vigilant TIE fighters. Their long range armament makes them difficult to reach, as they can hull an enemy heavy cruiser or battle ship well before the enemy can reach the Imperial forces. Those few Rebel fleets that have tangled with a Praetor have discovered that destroying one of these vessels is easier done through boarding or sabotage while it's docked as opposed to facing its planet-crushing firepower head-to-head.</Description>
-  <Source>Age of Rebellion Core Rulebook</Source>
+  <Source Page="283">Age of Rebellion Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <Type>Star Battlecruiser</Type>
   <Categories>
@@ -16,14 +16,17 @@ One of the largest classes of ships commissioned in the Imperial Navy, the Praet
     <Category>Non-Fighter Starship</Category>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>1</HP>
   <Price>700000000</Price>
   <Rarity>9</Rarity>
   <Restricted>true</Restricted>
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
   <HyperdriveBackup>16</HyperdriveBackup>
   <StarFighters>120 starfighters</StarFighters>
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srLong</SensorRangeValue>
   <Crew>109,000 officers, pilots, and enlisted</Crew>
   <EncumbranceCapacity>10000</EncumbranceCapacity>
   <Passengers>14000</Passengers>
@@ -44,14 +47,22 @@ One of the largest classes of ships commissioned in the Imperial Navy, the Praet
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>3</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOHVY</Key>
@@ -60,14 +71,22 @@ One of the largest classes of ships commissioned in the Imperial Navy, the Praet
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>3</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOHVY</Key>
@@ -84,10 +103,14 @@ One of the largest classes of ships commissioned in the Imperial Navy, the Praet
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOMED</Key>
@@ -104,10 +127,14 @@ One of the largest classes of ships commissioned in the Imperial Navy, the Praet
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Ventral</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOMED</Key>
@@ -116,12 +143,22 @@ One of the largest classes of ships commissioned in the Imperial Navy, the Praet
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>IONBATT</Key>
@@ -130,14 +167,22 @@ One of the largest classes of ships commissioned in the Imperial Navy, the Praet
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>IONBATT</Key>
@@ -146,14 +191,22 @@ One of the largest classes of ships commissioned in the Imperial Navy, the Praet
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>IONBATT</Key>
@@ -168,10 +221,12 @@ One of the largest classes of ships commissioned in the Imperial Navy, the Praet
         <Dorsal>true</Dorsal>
         <Ventral>true</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Hull</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>TRACTHVY</Key>
       <Count>10</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

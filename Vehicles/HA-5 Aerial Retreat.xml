@@ -7,24 +7,43 @@
 More mobile dwelling than vehicle, the HA-5 aerial retreat is an unusual repulsorcraft, resembling nothing so much as a square, three-story building lifted into the sky. The massive repulsorlift drives, necessary to keep the unlikely craft aloft, take up the full bottom level. Other facilities include a large galley, heating and cooling units, and storage for supplies and tools occupy the center level. The topmost level of the craft, along with the vessel's open roof, are devoted to the daily lives of those aboard. Quarters for crew, staff, and residents or guests are accompanied by a lounge equipped with dejarik boards, a bar, and other luxuries. The layout of the upper levels is easily reconfigurable, to better suit the comfort of those aboard. Facilities ranging from net-ball courts to speeder garages have been set up aboard HA-5s across the galaxy. Since these craft rarely land, a small dock extends off of the retreat's roof to allow access. 
 
 [P]Although the HA-5 usually serves as an idle getaway for vacationing tourists or rich nobles, the vessel is also ideal for diplomatic summits. This craft grants comfortable privacy, while the comm arrays in the control room enable negotiators to keep in touch with the concerns of their constituents. The bulky aerial retreats are far from stealthy, but without a reason for suspicion, outside interests are unlikely to interfere with the business conducted inside. Therefore, the Rebellion has occasionally arranged for meetings to take place in HA-5 craft owned by sympathizers to their cause.</Description>
-  <Source>Desperate Allies</Source>
+  <Source Page="60">Desperate Allies</Source>
+  <Sources />
   <Custom>DescOnly</Custom>
   <Type>Airspeeder</Type>
   <Categories>
     <Category>Air Vehicle</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>3</HP>
   <Price>750000</Price>
   <Rarity>6</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <WeaponModifiers />
   <MaxAltitude>10 kilometers</MaxAltitude>
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One helmsman, three engineers, up to 12 wait staff</Crew>
   <EncumbranceCapacity>250</EncumbranceCapacity>
   <Passengers>16</Passengers>
+  <Consumables />
   <Silhouette>5</Silhouette>
   <Speed>1</Speed>
   <Handling>-5</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>3</Armor>
   <HullTrauma>55</HullTrauma>
   <SystemStrain>28</SystemStrain>
-  <SensorRange>Close</SensorRange>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
+  <VehicleWeapons />
+  <BuiltInAttachments />
 </Vehicle>

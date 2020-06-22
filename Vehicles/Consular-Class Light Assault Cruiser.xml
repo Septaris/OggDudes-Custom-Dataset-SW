@@ -8,18 +8,24 @@
 In service since before the Clone Wars, CEC's Consular-class light cruiser is yet another outdated, outgunned ship pressed back into combat duty by the cash-strapped Rebel Alliance. Related to Corellian Engineering's CR70 and CR90 corvettes, the Consular-class served the Old Republic as an unarmed VIP transport, carrying diplomats and other government officials throughout the galaxy on official business. In the deep crimson livery of the Republic Diplomatic Corps, these ships cut a dashing figure with their bluff-bowed, wasp-waisted profile. Lightly crewed, they carried their VIPs in style in a detachable, modular "salon pod" slung beneath the ship's command deck. Large enough for a handful of people, and extremely well-appointed with all of the privacy and communications technology required by a diplomatic mission, the Consulars were among the most recognizable vessels in space before the fall of the Old Republic. 
 
 [P]Few of these once proud ships survived the rise of the Empire. Many were destroyed, and those that weren't were mothballed or broken apart and recycled. However, a few have been brought back into service by the Alliance, armed with a motley array of laser cannons and turbolasers and used as light assault carriers and command ships. While they are often outclassed by Imperial ships, Consular-class cruisers still perform well, and they are well liked by their Rebel crews and those who must travel in them. </Description>
-  <Source>Age of Rebellion Core Rulebook</Source>
+  <Source Page="276">Age of Rebellion Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <Type>Cruiser</Type>
   <Categories>
     <Category>Non-Fighter Starship</Category>
     <Category>Starship</Category>
+    <Category>Capital Ship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>4</HP>
   <Price>3400000</Price>
   <Rarity>5</Rarity>
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
   <HyperdriveBackup>14</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srLong</SensorRangeValue>
   <Crew>One captain, one pilot, one co-pilot, one navigator, one comms operator, four engineers</Crew>
   <EncumbranceCapacity>3200</EncumbranceCapacity>
   <Passengers>16</Passengers>
@@ -34,75 +40,127 @@ In service since before the Clone Wars, CEC's Consular-class light cruiser is ye
   <Armor>5</Armor>
   <HullTrauma>46</HullTrauma>
   <SystemStrain>24</SystemStrain>
+  <Starship>true</Starship>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>IONHVY</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Ventral</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Ventral</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

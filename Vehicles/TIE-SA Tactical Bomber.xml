@@ -1,27 +1,41 @@
 <?xml version="1.0"?>
 <Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Key>TIESA</Key>
-  <Name>TIE-SA Tactical Bomber</Name>
+  <Name>TIE/SA Tactical Bomber</Name>
   <Description>
     [H3]TIE-SA Tactical Bomber[h3]
 
 An uncommon sight within the Imperial Navy fighter community, the TIE/sa is a dedicated bomber and attack fighter equivalent to the Alliances Y-wing and B-wing fighters. Slow and relatively sturdy for a TIE series fighter, TIE bombers feature a twin-boom hull design that contains the pilot and all the ship's control systems in the starboard pod and a multi-purpose launcher and ordnance magazine in the port pod. Coupled with their elongated form and their canted solar collectors, they are unmistakable in a formation, a trait that is both a blessing and a curse to their pilots. While their shape announces them as the heavy hitters and lets their enemies know that the gloves are, in fact, off, it also makes them incredibly conspicuous, standing out as primary targets for enemy interceptors and anti-fighter weapons. 
 
 [P]Despite their slow speed, lack of agility, and reliance on faster fighters to escort them to their targets, TIE bombers are incredibly effective attack craft. Their ability to carry numerous types of ordnance makes them quite versatile, and although not designed as such, they can pose quite a threat to enemy fighters, especially as their slow speed allows them to out-maneuver faster ships. Their proton bombs are death to even the most well-armored light capital ship or space station; it's a rare planetary fortification that can stand up to a concentrated bombing campaign by these fighters.</Description>
-  <Source>Age of Rebellion Core Rulebook</Source>
+  <Source Page="272">Age of Rebellion Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <Type>Starfighter</Type>
   <Categories>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
+  <HP>0</HP>
   <Price>110000</Price>
   <Rarity>5</Rarity>
   <Restricted>true</Restricted>
+  <MaxAltitude />
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srClose</SensorRangeValue>
   <Crew>One pilot</Crew>
   <EncumbranceCapacity>10</EncumbranceCapacity>
+  <Passengers>0</Passengers>
   <Consumables>Two days</Consumables>
   <Silhouette>3</Silhouette>
   <Speed>4</Speed>
+  <Handling>0</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>3</Armor>
   <HullTrauma>9</HullTrauma>
   <SystemStrain>8</SystemStrain>
@@ -31,38 +45,73 @@ An uncommon sight within the Imperial Navy fighter community, the TIE/sa is a de
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
-      <FiringArcs />
+      <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
+      </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LIMITEDAMMO</Key>
           <Count>12</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>CML</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
         <Dorsal>true</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Ventral</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>PROTONBOMB</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>
