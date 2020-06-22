@@ -8,8 +8,8 @@ Corellian Engineering Corporation's HT-2200 is a lumbering, slab-sided medium fr
 
 [P]Initial reviews were favorable, and orders steadily came in from large shipping concerns in the mid and Outer Rim territories. As pilots and crews became more familiar with them, however, they reported a number of serious shortcomings. While the hull and power distribution systems were designed to allow the types of modification and hot-rodding that CEC ships are famous for, the ships' primary power generator was woefully underpowered. In addition, thanks to these power shortcomings and the choice of Koensayr's single-tube ion drive as its primary drive, the HT-2200 proved slow and sluggish with poor acceleration and even poorer maneuverability. This, along with its surprisingly light weapons loadout, made the freighters easy pickings for pirates. Despite all of their inherent flaws, HT-2200s remain in limited production, thanks to their advanced cargo systems and sturdy hull.</Description>
   <Sources>
-    <Source>Far Horizons</Source>
-    <Source>Force and Destiny Core Rulebook</Source>
+    <Source Page="56">Far Horizons</Source>
+    <Source Page="264">Force and Destiny Core Rulebook</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <Type>Freighter</Type>
@@ -17,12 +17,18 @@ Corellian Engineering Corporation's HT-2200 is a lumbering, slab-sided medium fr
     <Category>Starship</Category>
     <Category>Non-Fighter Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>5</HP>
   <Price>140000</Price>
   <Rarity>5</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <MaxAltitude />
   <HyperdrivePrimary>3</HyperdrivePrimary>
   <HyperdriveBackup>15</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot, one co-pilot, one engineer, one loadmaster</Crew>
   <EncumbranceCapacity>800</EncumbranceCapacity>
   <Passengers>8</Passengers>
@@ -31,12 +37,15 @@ Corellian Engineering Corporation's HT-2200 is a lumbering, slab-sided medium fr
   <Speed>2</Speed>
   <Handling>-2</Handling>
   <DefFore>1</DefFore>
+  <DefAft>0</DefAft>
   <DefPort>1</DefPort>
   <DefStarboard>1</DefStarboard>
   <Armor>5</Armor>
   <HullTrauma>35</HullTrauma>
   <SystemStrain>14</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
@@ -45,9 +54,14 @@ Corellian Engineering Corporation's HT-2200 is a lumbering, slab-sided medium fr
         <Port>true</Port>
         <Starboard>true</Starboard>
         <Dorsal>true</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERMED</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
@@ -55,11 +69,15 @@ Corellian Engineering Corporation's HT-2200 is a lumbering, slab-sided medium fr
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
         <Ventral>true</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Ventral</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERMED</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

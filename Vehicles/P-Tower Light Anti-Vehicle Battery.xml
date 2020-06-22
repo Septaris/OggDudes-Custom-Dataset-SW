@@ -40,14 +40,22 @@ draws very little attention from the Empire.</Description>
   <Custom>DescOnly</Custom>
   <Type>Field Equipment</Type>
   <Categories />
+  <Encumbrance>0</Encumbrance>
+  <HP>0</HP>
   <Price>4000</Price>
   <Rarity>2</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
   <WeaponModifiers>
     <WeaponModifier>
+      <Unarmed>false</Unarmed>
       <UnarmedName>1.4 FD Anti-Vehicle Battery</UnarmedName>
       <SkillKey>GUNN</SkillKey>
+      <AllSkillKey />
       <Damage>4</Damage>
+      <DamageAdd>0</DamageAdd>
       <Crit>4</Crit>
+      <CritSub>0</CritSub>
       <Qualities>
         <Quality>
           <Key>BREACH</Key>
@@ -62,24 +70,48 @@ draws very little attention from the Empire.</Description>
           <Count>1</Count>
         </Quality>
       </Qualities>
+      <BaseMods />
       <VehicleWeaponProperties>
+        <Location>Unspecified</Location>
+        <Turret>false</Turret>
+        <Retractable>false</Retractable>
         <FiringArcs>
           <Fore>true</Fore>
           <Aft>true</Aft>
           <Port>true</Port>
           <Starboard>true</Starboard>
+          <Dorsal>false</Dorsal>
+          <Ventral>false</Ventral>
         </FiringArcs>
+        <Qualities />
       </VehicleWeaponProperties>
       <VehicleWeaponCount>1</VehicleWeaponCount>
       <RangeValue>wrClose</RangeValue>
-      <Range>Close</Range>
     </WeaponModifier>
   </WeaponModifiers>
+  <MaxAltitude />
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
   <SensorRangeValue>srNone</SensorRangeValue>
   <Crew>One remote gunner</Crew>
+  <EncumbranceCapacity>0</EncumbranceCapacity>
+  <Passengers>0</Passengers>
+  <Consumables />
   <Silhouette>1</Silhouette>
+  <Speed>0</Speed>
+  <Handling>0</Handling>
   <DefFore>1</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
+  <Armor>0</Armor>
   <HullTrauma>3</HullTrauma>
   <SystemStrain>5</SystemStrain>
-  <SensorRange>No Sensors</SensorRange>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
+  <VehicleWeapons />
+  <BuiltInAttachments />
 </Vehicle>

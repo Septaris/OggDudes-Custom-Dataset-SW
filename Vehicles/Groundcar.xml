@@ -6,24 +6,41 @@
     [H3]Groundcar[h3]
 
 The groundcar is as primitive as it is ubiquitous on poor or recently colonized worlds. Instead of using repulsorlifts or even tracks, it moves via four or more powered wheels. Groundcars typically have a slow top speed and are woefully hampered by terrain, tradeoffs that more than counterbalance their inexpensiveness and ease of maintenance.</Description>
-  <Source>Force and Destiny Core Rulebook</Source>
+  <Source Page="256">Force and Destiny Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <Type>Groundcar</Type>
   <Categories>
     <Category>Land Vehicle</Category>
     <Category>Wheeled Vehicle</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>2</HP>
   <Price>1500</Price>
   <Rarity>2</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <MaxAltitude />
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srNone</SensorRangeValue>
   <Crew>One pilot</Crew>
   <EncumbranceCapacity>20</EncumbranceCapacity>
   <Passengers>3</Passengers>
+  <Consumables />
   <Silhouette>2</Silhouette>
   <Speed>2</Speed>
   <Handling>-1</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
+  <Armor>0</Armor>
   <HullTrauma>5</HullTrauma>
   <SystemStrain>3</SystemStrain>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
   <SinglePilot>true</SinglePilot>
-  <SensorRange>Close</SensorRange>
+  <VehicleWeapons />
 </Vehicle>

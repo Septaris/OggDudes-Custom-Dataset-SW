@@ -5,25 +5,42 @@
   <Description>[H3]Ubrikkian Industries Pongeeta-Class Swamp Speeder[h3]
 
 Based on the ancient fanboats used on Varl, the Pongeeta-class swamp speeder is a light, maneuverable repulsorcraft typically used to traverse swamps and bogs. A barge-like sled with an armored prow, the swamp speeder has three large repulsor engines attached to a metal latticework at the rear of the craft. This speeder can be found on a number of worlds in Hutt Space, among them Nal Hutta, Riileb, and Vodran. The sands of arid worlds such as Kintan, Klatooine, and Sriluur tend to get into the housings of the swamp speeder's engines, making it a much less common sight in such locations.</Description>
-  <Source>Lords of Nal Hutta</Source>
+  <Source Page="113">Lords of Nal Hutta</Source>
+  <Sources />
   <Custom>DescOnly</Custom>
   <Type>Swamp Speeder</Type>
   <Categories>
     <Category>Land Vehicle</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>2</HP>
   <Price>6000</Price>
   <Rarity>3</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <WeaponModifiers />
   <MaxAltitude>2 meters</MaxAltitude>
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srClose</SensorRangeValue>
   <Crew>One pilot</Crew>
   <EncumbranceCapacity>15</EncumbranceCapacity>
   <Passengers>2</Passengers>
+  <Consumables />
   <Silhouette>2</Silhouette>
   <Speed>2</Speed>
   <Handling>1</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>1</Armor>
   <HullTrauma>4</HullTrauma>
   <SystemStrain>5</SystemStrain>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
   <SinglePilot>true</SinglePilot>
-  <SensorRange>Close</SensorRange>
+  <VehicleWeapons />
 </Vehicle>

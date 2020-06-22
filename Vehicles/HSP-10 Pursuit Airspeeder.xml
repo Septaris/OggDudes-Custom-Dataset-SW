@@ -5,47 +5,87 @@
   <Description>[H3]HSP-10 Pursuit Airspeeder[h3]
 
 Once a common sight in the skies of Coruscant and other Core Worlds, the HSP-10 pursuit airspeeder is being phased out in favor of newer models, though it is still widely used by Imperial and local planetary security forces beyond the Inner Rim. A relatively fast airspeeder, the HSP-10 carries adequate firepower to deal with most lawbreakers, including a forward-mounted ion cannon to disable the vehicles of any fleeing suspects. Security agencies often patrol the airspace around spaceports with these airspeeders, as well as respond to incidents requiring close air support.</Description>
-  <Source>Fly Casual</Source>
+  <Source Page="52">Fly Casual</Source>
   <Custom>DescOnly</Custom>
   <Type>Airspeeder</Type>
   <Categories>
     <Category>Air Vehicle</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>1</HP>
   <Price>40000</Price>
   <Rarity>6</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
   <MaxAltitude>100 kilometers</MaxAltitude>
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot</Crew>
   <EncumbranceCapacity>12</EncumbranceCapacity>
   <Passengers>2</Passengers>
+  <Consumables />
   <Silhouette>2</Silhouette>
   <Speed>4</Speed>
   <Handling>-1</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>2</Armor>
   <HullTrauma>5</HullTrauma>
   <SystemStrain>6</SystemStrain>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
   <SinglePilot>true</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
       </Qualities>
       <Key>BLASTCANLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>IONLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

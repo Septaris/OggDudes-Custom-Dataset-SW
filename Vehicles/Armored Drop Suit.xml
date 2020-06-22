@@ -33,7 +33,7 @@ does not suffer damage from falling.
   <MaxAltitude>From orbit</MaxAltitude>
   <SensorRangeValue>srNone</SensorRangeValue>
   <Crew>Armor's wearer</Crew>
-  <Silhouette>2</Silhouette>
+  <Silhouette>1</Silhouette>
   <Speed>2</Speed>
   <Handling>2</Handling>
   <SystemStrain>3</SystemStrain>

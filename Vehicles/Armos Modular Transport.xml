@@ -5,19 +5,25 @@
   <Description>[H3]Armos Modular Transport[h3]
 
 The Armos Modular Transport has made inroads in the Outer Rim transport market due to its wide array of customization options. Their blunt, wedged-shaped hulls stretch aft to connect to a vertical trio of powerful engines. The keels taper to a point, while expanding outwards on higher decks to provide room for cargo and passengers. SoroSuub designed each deck to be modular, allowing the ship's crew to retrofit it to transport cargo, move passengers, serve as a tanker vessel, or even carry livestock. In addition, SoroSuub equipped the Armos with reasonably powerful engines, a decent hyperdrive, and potent multi-band scanners. Combined with the modular layout, the company provided clients with a ship that can be retrofitted for almost any need.</Description>
-  <Source>Far Horizons</Source>
+  <Source Page="59">Far Horizons</Source>
   <Custom>DescOnly</Custom>
   <Type>Transport</Type>
   <Categories>
     <Category>Non-Fighter Starship</Category>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>4</HP>
   <Price>780000</Price>
   <Rarity>8</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
   <HyperdriveBackup>15</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srExtreme</SensorRangeValue>
   <Crew>150 officers and crew</Crew>
   <EncumbranceCapacity>10000</EncumbranceCapacity>
   <Passengers>1000</Passengers>
@@ -33,5 +39,7 @@ The Armos Modular Transport has made inroads in the Outer Rim transport market d
   <HullTrauma>65</HullTrauma>
   <SystemStrain>45</SystemStrain>
   <Starship>true</Starship>
-  <SensorRange>Close</SensorRange>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
+  <VehicleWeapons />
 </Vehicle>

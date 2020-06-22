@@ -37,5 +37,4 @@ hour in the open.</Description>
       <Count>2</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

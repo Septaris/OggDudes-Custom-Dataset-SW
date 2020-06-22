@@ -8,7 +8,10 @@ Cygnus Spaceworks' [I]Eta[i]-class shuttles are an excellent combination of util
 [P]Throughout the decades, these small utility vessels saw service primarily with the Galactic Senate and the Republic Ambassadorial Corps  shuttling VIPs about on importan business. Throughout their service they gained a reputation as solid, reliable little ships that, while not particularly large or well-appointed, were comfortable and perfectly suited for their mission. During the Clone Wars, the Jedi Order used many of these ships to shuttle Jedi operatives on both public and clandestine missions throughout the galaxy.
 [P][I]Eta[i]-class shuttle have been increasing in rarity, with their numbers dwindling each year. Production shut down long ago, and the tooling and assembly lines were converted to class vessels as well as Xg-1 Star Wing fighters. Many were lost through attrition, hard usage, accident, or abandonment on Outer Rim planets by their Jedi Users. Those that are left, are typically used by small transport companies or budget minded private survey teams.
 [P][B]Undicurs Aboard:[b] [I]Eta[i]-class shuttles can carry up to four Undicur jumpspeeders in addition to its listed encumbrance and passenger capacities. Thow of these speeder bikes are included as part of the ship's standard purchase price.</Description>
-  <Source Page="61">Endless Vigil</Source>
+  <Sources>
+    <Source Page="61">Endless Vigil</Source>
+    <Source Page="72">Rise of the Separatists</Source>
+  </Sources>
   <Custom>DescOnly</Custom>
   <Type>Shuttle</Type>
   <Categories>

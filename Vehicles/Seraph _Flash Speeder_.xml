@@ -8,23 +8,38 @@
 The Seraph-class landspeeder, colloquially known as the "Flash Speeder," is a small, relatively common model produced by the SoroSuub Corporation. Popular on Corellia for its compact size and speed, the Flash Speeder is a common sight on the streets of Coronet City and other cities, as well as rural areas of the planet. The Seraph is operated by a single driver, with room for three passengers in its open-topped interior. A pair of triple-drive turbine engine pods, which are mounted on an airfoil at the rear of the speeder, provide excellent speed and maneuverability. 
 
 [P]CorSec utilizes an armed version of the Flash Speeder for security, patrol, and pursuit duty, mounting a light blaster cannon on a rotating swivel atop the rear spoiler.</Description>
-  <Source>Suns of Fortune</Source>
+  <Source Page="105">Suns of Fortune</Source>
   <Custom>DescOnly</Custom>
   <Type>Landspeeder</Type>
   <Categories>
     <Category>Land Vehicle</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>2</HP>
   <Price>5200</Price>
   <Rarity>4</Rarity>
   <MaxAltitude>2 meters</MaxAltitude>
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srClose</SensorRangeValue>
   <Crew>One pilot</Crew>
   <EncumbranceCapacity>18</EncumbranceCapacity>
   <Passengers>3</Passengers>
+  <Consumables />
   <Silhouette>2</Silhouette>
   <Speed>3</Speed>
+  <Handling>0</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
+  <Armor>0</Armor>
   <HullTrauma>5</HullTrauma>
   <SystemStrain>5</SystemStrain>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
   <SinglePilot>true</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
@@ -33,10 +48,15 @@ The Seraph-class landspeeder, colloquially known as the "Flash Speeder," is a sm
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Top</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>BLASTCANLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

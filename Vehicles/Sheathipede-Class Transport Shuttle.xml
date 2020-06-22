@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Key>SHEATHIPEDE</Key>
+  <Name>Sheathipede-Class Transport Shuttle</Name>
+  <Description>[H3][I]Sheathipede[i] - Class Transport Shuttle[h3]
+Please see page 63 of the Unlimited Power Sourcebook, or page 73 of the Rise of the Separatists Sourcebook, for details.</Description>
+  <Sources>
+    <Source Page="63">Unlimited Power</Source>
+    <Source Page="73">Rise of the Separatists</Source>
+  </Sources>
+  <Custom>AddedItem</Custom>
+  <Type>Shuttle</Type>
+  <Categories>
+    <Category>Starship</Category>
+    <Category>Non-Fighter Starship</Category>
+  </Categories>
+  <HP>2</HP>
+  <Price>120000</Price>
+  <Rarity>6</Rarity>
+  <HyperdrivePrimary>1</HyperdrivePrimary>
+  <HyperdriveBackup>10</HyperdriveBackup>
+  <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
+  <Crew>One pilot, one co-pilot, one comms operator, one engineer</Crew>
+  <EncumbranceCapacity>150</EncumbranceCapacity>
+  <Passengers>8</Passengers>
+  <Consumables>Two months</Consumables>
+  <Silhouette>4</Silhouette>
+  <Speed>3</Speed>
+  <Handling>1</Handling>
+  <DefFore>1</DefFore>
+  <DefAft>1</DefAft>
+  <Armor>4</Armor>
+  <HullTrauma>25</HullTrauma>
+  <SystemStrain>15</SystemStrain>
+  <Starship>true</Starship>
+  <SensorRange>Short</SensorRange>
+</Vehicle>

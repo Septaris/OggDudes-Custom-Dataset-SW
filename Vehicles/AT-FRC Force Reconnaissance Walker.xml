@@ -57,39 +57,74 @@ combat situations.</Description>
   <Categories>
     <Category>Walker</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>1</HP>
   <Price>75000</Price>
   <Rarity>8</Rarity>
+  <Restricted>false</Restricted>
   <BaseMods>
     <Mod>
       <Count>1</Count>
       <MiscDesc>[B]Sound-Dapening Camouflage System[b]: Skill checks made to detect the AT-FRC have the difficulty upgraded once.</MiscDesc>
     </Mod>
   </BaseMods>
+  <WeaponModifiers />
+  <MaxAltitude />
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
   <SensorRangeValue>srMedium</SensorRangeValue>
   <Crew>One driver/gunner, one reconnaissance systems operator</Crew>
   <EncumbranceCapacity>5</EncumbranceCapacity>
+  <Passengers>0</Passengers>
+  <Consumables />
   <Silhouette>2</Silhouette>
   <Speed>2</Speed>
   <Handling>1</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>2</Armor>
   <HullTrauma>5</HullTrauma>
   <SystemStrain>8</SystemStrain>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>AUTOBLAST</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>CONGRENLAUNCH</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Medium</SensorRange>
+  <BuiltInAttachments />
 </Vehicle>

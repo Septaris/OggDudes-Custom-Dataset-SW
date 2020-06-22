@@ -4,24 +4,44 @@
   <Name>Rufescent Cargo Hauler</Name>
   <Description>[H3][I]Rufescent[i] Cargo Hauler[h3]
 A widely produced bipedal heavy loader, TaggeCo's [I]Rufescent[i]-class cargo hauler has achieved popularity due to its modular nature and ease of modification. Uts large number of anchor points and sturdy construction have made it a particular favorite of certain criminal groups and desperate vigilantes, who employ it as a mobile heavy weapons platform by attaching ranged armaments to the cargo arms. Though offering minimal protection to the rider, the [I]Rufescent[i] has proven an effective makeshift support vehicle in urban combat, especially for those who cannot afford military-grade walkers. While it is no match for Imperial armor on the battlefield, its small profile makes it extremely useful in environments where heavier walkers cannot easily operate.</Description>
-  <Source>Keeping the Peace</Source>
+  <Source Page="59">Keeping the Peace</Source>
   <Custom>DescOnly</Custom>
   <Type>Heavy Cargo Loader</Type>
   <Categories>
     <Category>Land Vehicle</Category>
     <Category>Walker</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>6</HP>
   <Price>4000</Price>
   <Rarity>3</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <WeaponModifiers />
+  <MaxAltitude />
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
   <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One operator</Crew>
   <EncumbranceCapacity>50</EncumbranceCapacity>
+  <Passengers>0</Passengers>
+  <Consumables />
   <Silhouette>2</Silhouette>
   <Speed>1</Speed>
   <Handling>-2</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
+  <Armor>0</Armor>
   <HullTrauma>6</HullTrauma>
   <SystemStrain>5</SystemStrain>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
   <SinglePilot>true</SinglePilot>
+  <VehicleWeapons />
+  <BuiltInAttachments />
   <SensorRange>Short</SensorRange>
 </Vehicle>

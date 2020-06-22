@@ -7,11 +7,10 @@ Repulsorlift vehicles like landspeeders can cross water as easily as land. Howev
 [P]Aquaspeeders use a series of specialized repulsors, each constantly adjusting to the surface of the water beneath it, allowing the vessel to maintain stability. The hull and passenger compartment are sealed against water, and the internal workings feature a pump system to constantly expel any liquid that manages to get in, thereby preventing the speeder from foundering.
 [P]Aquaspeeders come in almost as many design options as their land-based cousins, but generally have the following features in common: a closed passenger compartment and stabilizing outriggers with fins that cut downward into the water, to assist with maneuverability.</Description>
   <Source Page="58">Unlimited Power</Source>
-  <Custom>AddedItem</Custom>
-  <Type>Landspeeder</Type>
+  <Custom>DescOnly</Custom>
+  <Type>Aquaspeeder</Type>
   <Categories>
     <Category>Watercraft</Category>
-    <Category>Land Vehicle</Category>
   </Categories>
   <HP>2</HP>
   <Price>7000</Price>
@@ -24,5 +23,6 @@ Repulsorlift vehicles like landspeeders can cross water as easily as land. Howev
   <Speed>2</Speed>
   <HullTrauma>8</HullTrauma>
   <SystemStrain>6</SystemStrain>
+  <SinglePilot>true</SinglePilot>
   <SensorRange>Close</SensorRange>
 </Vehicle>

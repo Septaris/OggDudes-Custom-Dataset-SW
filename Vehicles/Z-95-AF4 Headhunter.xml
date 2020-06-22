@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Vehicle>
   <Key>Z95AF4</Key>
   <Name>Z-95-AF4 Headhunter</Name>
   <Description>
@@ -8,46 +7,65 @@
 Designed as part of a joint venture between Incom Corporation and Subpro Corporation during the early days of the Clone Wars, the tiny Z-95 was considered one of the most capable starfighters of its day. Small, lightly armored, and shielded, the Headhunter is a one-man, short-range fighter powered by an lncom 44-a5 multi-reactor. The aerodynamic fuselage combined with an incredible thrust-to-weight ratio makes the Z-95 quite fast and agile. Initially classified as an interceptor and armed with wing-mounted triple blaster cannons, the Headhunter quickly proved itself a competent space superiority fighter. It has gone through numerous redesigns, and today, most sport twin laser cannons and concussion missile launchers. 
 
 [P]Despite their age, the Z-95 remains a popular starfighter. Considered outdated compared to modern fighters such as Koensayr's Y-wing and Incom's brand new X-wing (a fighter that shares more than a passing resemblance to the Headhunter), sales of the little fighter are still brisk in the Outer Rim territories.</Description>
-  <Source>Edge of the Empire Core Rulebook</Source>
+  <Source Page="258">Edge of the Empire Core Rulebook</Source>
   <Custom>DescOnly</Custom>
-  <Type>Starfighter</Type>
-  <Categories>
-    <Category>Starship</Category>
-  </Categories>
-  <HP>2</HP>
-  <Price>55000</Price>
-  <Rarity>4</Rarity>
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srClose</SensorRangeValue>
   <Crew>One Pilot</Crew>
   <EncumbranceCapacity>8</EncumbranceCapacity>
+  <Passengers>0</Passengers>
   <Consumables>One Day</Consumables>
   <Silhouette>3</Silhouette>
   <Speed>4</Speed>
   <Handling>1</Handling>
   <DefFore>1</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>3</Armor>
   <HullTrauma>9</HullTrauma>
   <SystemStrain>8</SystemStrain>
+  <HP>2</HP>
+  <Price>55000</Price>
+  <Rarity>4</Rarity>
+  <Categories>
+    <Category>Starship</Category>
+  </Categories>
+  <Type>Starfighter</Type>
   <Starship>true</Starship>
   <SinglePilot>true</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
+      <Key>LASERLT</Key>
+      <Location>Wingtip</Location>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
-      <Location>Wingtip</Location>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
         </Quality>
       </Qualities>
-      <Key>LASERLT</Key>
     </VehicleWeapon>
     <VehicleWeapon>
+      <Key>CML</Key>
+      <Location>Forward</Location>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
-      <Location>Forward</Location>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
@@ -58,8 +76,6 @@ Designed as part of a joint venture between Incom Corporation and Subpro Corpora
           <Count>6</Count>
         </Quality>
       </Qualities>
-      <Key>CML</Key>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

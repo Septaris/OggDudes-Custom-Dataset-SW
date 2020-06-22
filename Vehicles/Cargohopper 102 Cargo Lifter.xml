@@ -5,22 +5,40 @@
   <Description>[H3]Taggeco. Cargohopper 102 Cargo Lifter[h3]
 
 A small airspeeder designed to transfer cargo to and from smaller spaceports and locations inaccessible to large freighters and transports, the Cargohopper 102 is a familiar sight throughout the galaxy. Capable of vertical takeoff and landing and relatively easy to handle with little or no training, these cargo lifters are a vital part of galactic trade, as well as a necessity for smugglers doing business in remote systems and sectors. The Cargohopper 102 comes equipped with a small, industrial-grade tractor beam to aid in the loading and unloading of cargo.</Description>
-  <Source>Fly Casual</Source>
+  <Source Page="52">Fly Casual</Source>
   <Custom>DescOnly</Custom>
   <Type>Airspeeder</Type>
   <Categories>
     <Category>Air Vehicle</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
+  <HP>0</HP>
   <Price>14500</Price>
   <Rarity>3</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
   <MaxAltitude>300 kilometers</MaxAltitude>
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot</Crew>
   <EncumbranceCapacity>75</EncumbranceCapacity>
+  <Passengers>0</Passengers>
+  <Consumables />
   <Silhouette>2</Silhouette>
   <Speed>3</Speed>
   <Handling>-1</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
+  <Armor>0</Armor>
   <HullTrauma>5</HullTrauma>
   <SystemStrain>6</SystemStrain>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
   <SinglePilot>true</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
@@ -29,9 +47,15 @@ A small airspeeder designed to transfer cargo to and from smaller spaceports and
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
+      <Location>Unspecified</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>TRACTLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

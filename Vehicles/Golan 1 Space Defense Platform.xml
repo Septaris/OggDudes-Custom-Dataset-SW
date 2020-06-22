@@ -7,23 +7,32 @@
 A very large, heavily armed and armored space platform, the Golan I is the first in a series of planetary space defense platforms built by Golan Arms. Designed to protect planets and important locations, the Golan I was developed during the Clone Wars to free up naval vessels for the war effort. While unable to contend with the overwhelming firepower of modern battle cruisers and Star Destroyers, the Golan I is more than a match for smaller capital vessels such as corvettes, frigates, and light cruisers, and its complement of starfighters and patrol ships can contend with starfighters and fast attack craft. 
 
 [P]Since being surpassed by the larger, and much more heavily armed, Golan II and Golan III defense platforms (dozens of which can be found in orbit around Coruscant and other important Core Worlds), the Golan I has been largely relegated to protecting less critical planets and locations of secondary importance. The Imperial Customs Service acquired many of these space platforms, as well as several of their larger cousins, to serve as systems stations, coordinating operations for their ships and personnel across a wide area. Stationed in orbit around planets or along busy hyperlane routes, these stations monitor the flow of goods and traffic through their jurisdiction.</Description>
-  <Source>Fly Casual</Source>
+  <Source Page="61">Fly Casual</Source>
   <Custom>DescOnly</Custom>
   <Type>Space Station</Type>
   <Categories>
     <Category>Capital Ship</Category>
     <Category>Station</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>40</HP>
   <Price>26000000</Price>
   <Rarity>9</Rarity>
   <Restricted>true</Restricted>
+  <BaseMods />
+  <MaxAltitude />
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
   <StarFighters>24 TIE series starfighters, four patrol boats, and four shuttles</StarFighters>
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srLong</SensorRangeValue>
   <Crew>5,000 officers, pilots, and crew</Crew>
   <EncumbranceCapacity>20000</EncumbranceCapacity>
   <Passengers>10000</Passengers>
   <Consumables>Two years</Consumables>
   <Silhouette>8</Silhouette>
+  <Speed>0</Speed>
+  <Handling>0</Handling>
   <DefFore>2</DefFore>
   <DefAft>2</DefAft>
   <DefPort>2</DefPort>
@@ -31,24 +40,48 @@ A very large, heavily armed and armored space platform, the Golan I is the first
   <Armor>6</Armor>
   <HullTrauma>300</HullTrauma>
   <SystemStrain>150</SystemStrain>
+  <Starship>false</Starship>
   <Massive>4</Massive>
+  <SinglePilot>false</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
         <Aft>true</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>BREACH</Key>
           <Count>3</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
         <Quality>
           <Key>SLOWFIRING</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
       </Qualities>
       <Key>TURBOMED</Key>
@@ -58,18 +91,40 @@ A very large, heavily armed and armored space platform, the Golan I is the first
       <FiringArcs>
         <Fore>true</Fore>
         <Aft>true</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>BREACH</Key>
           <Count>3</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
         <Quality>
           <Key>SLOWFIRING</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
       </Qualities>
       <Key>TURBOMED</Key>
@@ -82,29 +137,76 @@ A very large, heavily armed and armored space platform, the Golan I is the first
         <Port>true</Port>
         <Starboard>true</Starboard>
         <Dorsal>true</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>BLAST</Key>
           <Count>6</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
         <Quality>
           <Key>BREACH</Key>
           <Count>6</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
         <Quality>
           <Key>GUIDED</Key>
           <Count>2</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
         <Quality>
           <Key>LIMITEDAMMO</Key>
           <Count>16</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
         <Quality>
           <Key>SLOWFIRING</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
       </Qualities>
       <Key>PTL</Key>
@@ -116,30 +218,77 @@ A very large, heavily armed and armored space platform, the Golan I is the first
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
         <Ventral>true</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Ventral</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>BLAST</Key>
           <Count>6</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
         <Quality>
           <Key>BREACH</Key>
           <Count>6</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
         <Quality>
           <Key>GUIDED</Key>
           <Count>2</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
         <Quality>
           <Key>LIMITEDAMMO</Key>
           <Count>16</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
         <Quality>
           <Key>SLOWFIRING</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
       </Qualities>
       <Key>PTL</Key>
@@ -150,12 +299,26 @@ A very large, heavily armed and armored space platform, the Golan I is the first
         <Fore>true</Fore>
         <Aft>true</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>TRACTOR</Key>
           <Count>6</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
       </Qualities>
       <Key>TRACTHVY</Key>
@@ -165,18 +328,31 @@ A very large, heavily armed and armored space platform, the Golan I is the first
       <FiringArcs>
         <Fore>true</Fore>
         <Aft>true</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>TRACTOR</Key>
           <Count>6</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
       </Qualities>
       <Key>TRACTHVY</Key>
       <Count>3</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

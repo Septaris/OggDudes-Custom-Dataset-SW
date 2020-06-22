@@ -6,34 +6,61 @@
 [P]The R-444 Sky Swooper is a repulsorlift-assisted hang glider used by Imperial forces, particularly during stealth raids. Based on the para-wing gliders common on Bespin, its design incorporates traditional wing technology with a small repulsorlift generator that assists with long-distance flight. A light blaster cannon mounted above the pilot allows for minimal offensive capability.
 [P]The Sky Swooper is controlled by a combination of hand grips and a bar that also supports the pilot’s feet. Both hands and feet are required to steer the glider, which makes firing the light blaster cannon a tricky proposition when tight maneuvers are called for. The Alliance considers the R-444 an excellent asset when it can be acquired, and a small number are already in the Rebels’ possession.
 </Description>
-  <Source>Strongholds of Resistance</Source>
+  <Source Page="116">Strongholds of Resistance</Source>
+  <Sources />
   <Custom>DescOnly</Custom>
   <Type>Airspeeder</Type>
   <Categories>
     <Category>Air Vehicle</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>1</HP>
   <Price>1000</Price>
   <Rarity>5</Rarity>
   <Restricted>true</Restricted>
+  <BaseMods />
+  <WeaponModifiers />
   <MaxAltitude>10 kilometers</MaxAltitude>
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
   <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot</Crew>
   <EncumbranceCapacity>2</EncumbranceCapacity>
+  <Passengers>0</Passengers>
+  <Consumables />
   <Silhouette>1</Silhouette>
   <Speed>2</Speed>
   <Handling>3</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
+  <Armor>0</Armor>
   <HullTrauma>1</HullTrauma>
   <SystemStrain>3</SystemStrain>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
   <SinglePilot>true</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>BLASTCANLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
+  <BuiltInAttachments />
   <SensorRange>Short</SensorRange>
 </Vehicle>

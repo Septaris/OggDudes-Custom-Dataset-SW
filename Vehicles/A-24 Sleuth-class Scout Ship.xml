@@ -8,19 +8,23 @@
 Incom's A-24 Sleuth-class scout ship is a light, one-person reconnaissance ship built for stealth and speed. Slightly larger than a heavy starfighter, the Sleuth is a small, elegant craft. Long and narrow, the ship has a distinct wasp-waisted silhouette with an angular, forward command deck/cockpit, a narrow midships section mounting a small pair of canards that support the ship's sensor and communications array, and a broad aft section that flares out in a flat triangular shape that houses the engines, winglets, stabilizers, and weapons. The command deck/cockpit section can be charitably described as intimate. The cramped confines of the pilot's station are offset by the panoramic sheets of transparisteel that enclose the cockpit. These thick panes are photosensitive and grant the pilot a nearly unobstructed view of his surroundings. Aft of the pilot's chair, there is a machine closet that can house an astromech droid if so desired. 
 
 [P]For scouting and reconnaissance, the Sleuth is equipped with a powerful multirole sensor suite produced by Fabritech for Incom. Tuned for long-range scouting, these sensors use optical and electronic enhancers, as well as active and passive systems like dedicated energy receptors, full-spectrum transceivers, and life-form scanners, to give the scout pilot a comprehensive view of his surroundings. The ship's other systems include a trio of Incom's high-output 804.d Starslinger ion drives, two Taim &amp; Bak IX4 linked laser cannons, and a dependable hyperdrive and navicomputer for long scouting missions. While there are newer scout ships on the market, the A-24 remains popular for its speed and ease of use.</Description>
-  <Source>Enter the Unknown</Source>
+  <Source Page="60">Enter the Unknown</Source>
   <Custom>DescOnly</Custom>
   <Type>Patrol Boat</Type>
   <Categories>
     <Category>Non-Fighter Starship</Category>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>3</HP>
   <Price>45000</Price>
   <Rarity>6</Rarity>
+  <MaxAltitude />
   <HyperdrivePrimary>1</HyperdrivePrimary>
   <HyperdriveBackup>9</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srMedium</SensorRangeValue>
   <Crew>One pilot</Crew>
   <EncumbranceCapacity>20</EncumbranceCapacity>
   <Passengers>1</Passengers>
@@ -29,6 +33,9 @@ Incom's A-24 Sleuth-class scout ship is a light, one-person reconnaissance ship 
   <Speed>4</Speed>
   <Handling>1</Handling>
   <DefFore>1</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>2</Armor>
   <HullTrauma>10</HullTrauma>
   <SystemStrain>10</SystemStrain>
@@ -38,16 +45,26 @@ Incom's A-24 Sleuth-class scout ship is a light, one-person reconnaissance ship 
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

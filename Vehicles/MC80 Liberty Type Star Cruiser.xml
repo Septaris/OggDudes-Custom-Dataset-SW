@@ -8,7 +8,7 @@
 Long and sleek with a decidedly bulbous, organic silhouette, these lovely vessels are among the few heavy line of battle ships possessed by the Rebel Alliance. Produced by Mon Calamari Shipyards, the MC80 ships were initially designed as long range exploration or pleasure craft, civilian vessels designed to cruise the stars for knowledge or carry passengers in luxury and style. Each one is unique, hand-crafted by talented Mon Calamari shipwrights to exacting specifications. Rivaling the Imperial II-class Star Destroyers in length and mass, these ships fell into the hands of the Alliance as the Mon Calamari people were liberated from their Imperial oppressors. Sturdy, well-built, and over-engineered, they were designed to stand up to the rigors of constant interstellar travel, a type of shipbuilding that took surprisingly well to combat roles. 
 
 [P]Beneath the graceful, rolling lines of their hull plates, these ships mount a frightful array of heavy weapons, and their firepower and thickly armored hulls have taken more than one Imperial battlegroup by surprise. In addition to their firepower, MC80 ships also carry up to ten squadrons of fighters, along with numerous shuttles, landing ships, and utility craft. Extremely powerful and versatile, they are also difficult to maintain, as they are all unique and there is hardly any component commonality between ships. This fact more than anything causes the Alliance to show caution in how and where they deploy these vessels, as each one is nearly irreplaceable. </Description>
-  <Source>Age of Rebellion Core Rulebook</Source>
+  <Source Page="284">Age of Rebellion Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <Type>Heavy Star Cruiser</Type>
   <Categories>
@@ -16,15 +16,18 @@ Long and sleek with a decidedly bulbous, organic silhouette, these lovely vessel
     <Category>Non-Fighter Starship</Category>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>4</HP>
   <Price>104000000</Price>
   <Rarity>7</Rarity>
+  <MaxAltitude />
   <HyperdrivePrimary>1</HyperdrivePrimary>
   <HyperdriveBackup>9</HyperdriveBackup>
   <StarFighters>36 starfighters</StarFighters>
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srLong</SensorRangeValue>
   <Crew>5400 officers, pilots, and enlisted</Crew>
-  <EncumbranceCapacity>10000</EncumbranceCapacity>
+  <EncumbranceCapacity>70000</EncumbranceCapacity>
   <Passengers>1200</Passengers>
   <Consumables>Two years</Consumables>
   <Silhouette>8</Silhouette>
@@ -43,14 +46,22 @@ Long and sleek with a decidedly bulbous, organic silhouette, these lovely vessel
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOHVY</Key>
@@ -61,12 +72,20 @@ Long and sleek with a decidedly bulbous, organic silhouette, these lovely vessel
         <Fore>true</Fore>
         <Aft>true</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOHVY</Key>
@@ -76,13 +95,21 @@ Long and sleek with a decidedly bulbous, organic silhouette, these lovely vessel
       <FiringArcs>
         <Fore>true</Fore>
         <Aft>true</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOHVY</Key>
@@ -90,15 +117,23 @@ Long and sleek with a decidedly bulbous, organic silhouette, these lovely vessel
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Aft</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOHVY</Key>
@@ -107,14 +142,22 @@ Long and sleek with a decidedly bulbous, organic silhouette, these lovely vessel
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>IONBATT</Key>
@@ -125,12 +168,20 @@ Long and sleek with a decidedly bulbous, organic silhouette, these lovely vessel
         <Fore>true</Fore>
         <Aft>true</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>IONBATT</Key>
@@ -140,13 +191,21 @@ Long and sleek with a decidedly bulbous, organic silhouette, these lovely vessel
       <FiringArcs>
         <Fore>true</Fore>
         <Aft>true</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>IONBATT</Key>
@@ -154,15 +213,23 @@ Long and sleek with a decidedly bulbous, organic silhouette, these lovely vessel
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Aft</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>IONBATT</Key>
@@ -177,10 +244,12 @@ Long and sleek with a decidedly bulbous, organic silhouette, these lovely vessel
         <Dorsal>true</Dorsal>
         <Ventral>true</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Hull</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>TRACTHVY</Key>
       <Count>6</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

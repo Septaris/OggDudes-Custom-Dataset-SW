@@ -5,36 +5,68 @@
   <Description>[H3]All Terrain Riot Control Transport[h3]
 
 First introduced in 19 BBY, the AT-RCT is a small, two-man, open-topped walker used by Imperial police forces as a crowd control and anti-riot vehicle. Twice as tall as a man, the AT-RCT is a fast, heavily armored walker based on the AT-RT reconnaissance walker used by the Grand Army of the Republic. These agile all-terrain walkers can maneuver quickly and easily through urban environments and thanks to a specially designed gyro-stabilization system, they can traverse broken ground and barricades with remarkable ease. The light durasteel armor that protects the walkers' delicate inner workings is designed with numerous slopes and .complex angles to deflect incoming ordnance and blaster fire. These walkers mount a twin linked blaster cannon in the front of the hull, and two sets of twin linked suppression cannons on articulated arms mounted to the port and starboard sides. Although they are mainly used by Imperial police forces, many planetary and system governments field a handful of these powerful walkers to keep their citizens in line.</Description>
-  <Source>Far Horizons</Source>
+  <Source Page="53">Far Horizons</Source>
   <Custom>DescOnly</Custom>
   <Type>Walker</Type>
   <Categories>
     <Category>Walker</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>2</HP>
   <Price>35000</Price>
   <Rarity>7</Rarity>
   <Restricted>true</Restricted>
+  <BaseMods />
+  <MaxAltitude />
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srClose</SensorRangeValue>
   <Crew>One pilot, one co-pilot/gunner</Crew>
   <EncumbranceCapacity>10</EncumbranceCapacity>
+  <Passengers>0</Passengers>
+  <Consumables />
   <Silhouette>3</Silhouette>
   <Speed>2</Speed>
+  <Handling>0</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>3</Armor>
   <HullTrauma>8</HullTrauma>
   <SystemStrain>8</SystemStrain>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
       </Qualities>
       <Key>BLASTCANLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
@@ -42,10 +74,15 @@ First introduced in 19 BBY, the AT-RCT is a small, two-man, open-topped walker u
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>SUPPRESSCANNON</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
@@ -53,11 +90,15 @@ First introduced in 19 BBY, the AT-RCT is a small, two-man, open-topped walker u
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>SUPPRESSCANNON</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

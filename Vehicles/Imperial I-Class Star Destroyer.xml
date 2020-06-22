@@ -8,7 +8,7 @@
 Considered the "face of the Imperial Navy," and one of the most powerful ships in current service, KDY's Imperial I-class Star Destroyer is the latest in a long line of frighteningly powerful line of battleships fielded by the Imperial Navy. Massive, imposing ships with a long arrowhead-shaped hull and a towering, heavily armored superstructure, these vessels were designed as much to intimidate and sow fear as they were to fight other battleship-type vessels. Probably the most common vessel in the Imperial fleet, they are over a kilometer long, heavily shielded, bristling with weapons, and manned by the best and brightest officers and crew the Navy has to offer. Along with their offensive weaponry. they carry six squadrons of TIE fighters, typically a mix of standard /In fighters, interceptors, and bombers, along with a variety of shuttlecraft, landing craft, and numerous ground vehicles. A single Imperial I can take control of an entire planet, or simply lay it to waste with a powerful orbital bombardment, and a battlegroup led by such a vessel can lock an entire sector down with ease. 
 
 [P]Despite their well-deserved reputation for power and resilience, and despite what the Imperial admiralty would have the galaxy believe, Imperial-class ships are far from indestrucible. Even though their hulls are littered with various sizes of turbolaser turrets, ion cannons, tractor beam projectors, and anti-fighter weapons batteries, there are still blind spots where weapons can't reach. A well-flown fighter or small gunboat can squeeze through and deliver deadly blows with bombs and torpedoes. In addition, thanks to cost-saving measures and quirks of design, a few important parts of the hull are surprisingly lightly armored; a battlegroup commander with a brave squadron and a working knowledge of Imperial tactics can neutralize one of these massive vessels with surprising ease. However, they are not to be underestimated, and their fighter squadrons, the battlegroups with which they invariably travel, and the tactical know-how of their commanders make them incredibly tough nuts to crack.</Description>
-  <Source>Age of Rebellion Core Rulebook</Source>
+  <Source Page="281">Age of Rebellion Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <Type>Star Destroyer</Type>
   <Categories>
@@ -16,16 +16,19 @@ Considered the "face of the Imperial Navy," and one of the most powerful ships i
     <Category>Non-Fighter Starship</Category>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>2</HP>
   <Price>150000000</Price>
   <Rarity>7</Rarity>
   <Restricted>true</Restricted>
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
   <HyperdriveBackup>8</HyperdriveBackup>
   <StarFighters>72 starfighters</StarFighters>
   <NaviComputer>true</NaviComputer>
-  <Crew>37085 officers, pilots, and enlisted</Crew>
-  <EncumbranceCapacity>10000</EncumbranceCapacity>
+  <SensorRangeValue>srLong</SensorRangeValue>
+  <Crew>37,085 officers, pilots, and enlisted</Crew>
+  <EncumbranceCapacity>15000</EncumbranceCapacity>
   <Passengers>9700</Passengers>
   <Consumables>Two years</Consumables>
   <Silhouette>8</Silhouette>
@@ -44,13 +47,22 @@ Considered the "face of the Imperial Navy," and one of the most powerful ships i
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOHVY</Key>
@@ -59,13 +71,22 @@ Considered the "face of the Imperial Navy," and one of the most powerful ships i
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOHVY</Key>
@@ -74,14 +95,22 @@ Considered the "face of the Imperial Navy," and one of the most powerful ships i
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOHVY</Key>
@@ -89,81 +118,147 @@ Considered the "face of the Imperial Navy," and one of the most powerful ships i
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>TURBOLT</Key>
       <Count>10</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>TURBOLT</Key>
       <Count>10</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>TURBOLT</Key>
       <Count>10</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>IONBATT</Key>
       <Count>10</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>IONBATT</Key>
       <Count>10</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Ventral</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>IONBATT</Key>
       <Count>10</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>IONMED</Key>
       <Count>15</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>IONMED</Key>
       <Count>15</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
+      <Location>Unspecified</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>TRACTHVY</Key>
       <Count>10</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

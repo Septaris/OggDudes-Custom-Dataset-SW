@@ -14,20 +14,23 @@ The third ship of Corellian Engineering's flagship YT class of modular light fre
 [P]The crew and passenger berths, while relatively spartan, are comfortable, and the ships are equipped with decent galley, refresher, and head facilities. As with subsequent YT-series ships, the cargo hold is large and modular and can be easily modified to carry any size or shape of cargo that will fit in the ship. Cargo and passengers are loaded from a ventral ramp, and a small hatch abaft the command deck gives access to the ship's dorsal surface.
 
 [P]While the YT-1000s have waned in popularity, especially after the introduction of the YT-1300-series freighters, they still remain in service throughout the Outer Rim and still fetch a respectable price when available for sale.</Description>
-  <Source>Enter the Unknown</Source>
+  <Source Page="65">Enter the Unknown</Source>
   <Custom>DescOnly</Custom>
   <Type>Freighter</Type>
   <Categories>
     <Category>Non-Fighter Starship</Category>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>5</HP>
   <Price>75000</Price>
   <Rarity>5</Rarity>
+  <MaxAltitude />
   <HyperdrivePrimary>3</HyperdrivePrimary>
   <HyperdriveBackup>16</HyperdriveBackup>
   <StarFighters>None</StarFighters>
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot, one copilot/engineer</Crew>
   <EncumbranceCapacity>150</EncumbranceCapacity>
   <Passengers>4</Passengers>
@@ -37,6 +40,8 @@ The third ship of Corellian Engineering's flagship YT class of modular light fre
   <Handling>-1</Handling>
   <DefFore>1</DefFore>
   <DefAft>1</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>2</Armor>
   <HullTrauma>20</HullTrauma>
   <SystemStrain>14</SystemStrain>
@@ -49,17 +54,22 @@ The third ship of Corellian Engineering's flagship YT class of modular light fre
         <Port>true</Port>
         <Starboard>true</Starboard>
         <Dorsal>true</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

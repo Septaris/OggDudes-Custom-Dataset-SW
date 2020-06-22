@@ -6,23 +6,38 @@
     [H3]CEC D-22 "Screamer" Speeder Bike[h3]
 
 One of the most popular speeder bikes on Corellia, the D-22 "Screamer" appeals to the lust for speed that lurks in the heart of every Corellian. Insanely fast, the D-22 is barely more than an overpowered repulsor engine with saddle, a pair of handles, and control vanes attached. Designed around Incom's HpTI 0 repulsorlift engine (intended for use in high-performance airspeeders), the Screamer is built for speed, with minimal frills. The D-22 is also used by CorSec as a pursuit vehicle, in which case it carries an underslung light repeating blaster.</Description>
-  <Source>Suns of Fortune</Source>
+  <Source Page="104">Suns of Fortune</Source>
   <Custom>DescOnly</Custom>
   <Type>Speeder Bike</Type>
   <Categories>
     <Category>Land Vehicle</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>2</HP>
   <Price>4500</Price>
   <Rarity>3</Rarity>
   <MaxAltitude>35 meters</MaxAltitude>
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srClose</SensorRangeValue>
   <Crew>One pilot</Crew>
   <EncumbranceCapacity>3</EncumbranceCapacity>
   <Passengers>1</Passengers>
+  <Consumables />
   <Silhouette>2</Silhouette>
   <Speed>4</Speed>
+  <Handling>0</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
+  <Armor>0</Armor>
   <HullTrauma>2</HullTrauma>
   <SystemStrain>3</SystemStrain>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
   <SinglePilot>true</SinglePilot>
-  <SensorRange>Close</SensorRange>
+  <VehicleWeapons />
 </Vehicle>

@@ -1,17 +1,16 @@
 <?xml version="1.0"?>
 <Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Key>BRAHA'TOK</Key>
-  <Name>Braha'tok-class Gunship</Name>
-  <Description>[H3][I]Braha'tok[i]-class Gunship[h3]
-Straddling the line between corvette and gunboat, the [I]Braha'tok[i]-class gunship is a recent addition to the Rebel Alliance's fleet. Smaller than a Corellian Engineering Corporation CR90 corvette, these vessels were designed by the Dorneans as dedicated anti-starfighter platforms. When Dornea joined the Rebel Alliance in the wake of the Battle of Yavin, they brought a number of these potent little ships with them, and they have made quite an impression on Alliance Navy brass. Typically deployed in pairs, [I]Braha'tok[i]-class ships are an absolute terror to small craft and can even present a danger to smaller capital ships. They can easily handle large swarms of TIE-series fighters, and the Imperial Navy has come to grudgingly respect their capabilities.
-[P][I]Braha'tok[i]-class ships are narrow, strangely proportioned vessels with a passing resemblance to the CR90 corvette. Extremely heavily armed for vessels of their size. they have a standard loadout that is a mix of concussion missiles, proton torpedoes, and accurate quad laser cannons. They also mount a pair of twin light turbolasers for anti-ship combat, although given their light armor and relatively poor handling, they are not cut out for extended firefights with large vessels. While their armor protection leaves much to be desired, their hulls are extremely durable, and they are fitted with powerful, quick-cycling shield generators to protect them from rapid-fire starfighter weapons.</Description>
+  <Key>BRAHATOK</Key>
+  <Name>Braha'Tok-Class Gunship</Name>
+  <Description>[H3][I]Braha'Tok[i] -Class Gunship[h3]
+Please see page 61 of the Knights of Fate Sourcebook for details.</Description>
   <Source Page="61">Knights of Fate</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <Type>Corvette</Type>
   <Categories>
-    <Category>Capital Ship</Category>
-    <Category>Non-Fighter Starship</Category>
     <Category>Starship</Category>
+    <Category>Non-Fighter Starship</Category>
+    <Category>Capital Ship</Category>
   </Categories>
   <HP>3</HP>
   <Price>1400000</Price>
@@ -19,13 +18,13 @@ Straddling the line between corvette and gunboat, the [I]Braha'tok[i]-class guns
   <Restricted>true</Restricted>
   <HyperdrivePrimary>3</HyperdrivePrimary>
   <HyperdriveBackup>15</HyperdriveBackup>
-  <StarFighters>2 mounted to ventral hull.</StarFighters>
+  <StarFighters>2 mounted to ventral hull</StarFighters>
   <NaviComputer>true</NaviComputer>
   <SensorRangeValue>srLong</SensorRangeValue>
-  <Crew>70 officers and enlisted crew.</Crew>
+  <Crew>70 officers and enlisted crew</Crew>
   <EncumbranceCapacity>300</EncumbranceCapacity>
   <Passengers>15</Passengers>
-  <Consumables>Eight months.</Consumables>
+  <Consumables>Eight months</Consumables>
   <Silhouette>5</Silhouette>
   <Speed>3</Speed>
   <Handling>-1</Handling>
@@ -87,7 +86,6 @@ Straddling the line between corvette and gunboat, the [I]Braha'tok[i]-class guns
         <Port>true</Port>
         <Starboard>true</Starboard>
         <Dorsal>true</Dorsal>
-        <Ventral>true</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Dorsal</Location>
@@ -100,7 +98,6 @@ Straddling the line between corvette and gunboat, the [I]Braha'tok[i]-class guns
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
-        <Dorsal>true</Dorsal>
         <Ventral>true</Ventral>
       </FiringArcs>
       <Turret>true</Turret>

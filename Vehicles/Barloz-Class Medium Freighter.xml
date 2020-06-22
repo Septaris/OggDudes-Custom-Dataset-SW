@@ -4,18 +4,24 @@
   <Name>Barloz-Class Medium Freighter</Name>
   <Description>[H3][I]Barloz[i]-Class Medium Freighter[h3]
 [P]One of the most popular freighters produced in the decades prior to the Clone Wars, the Barloz-class is a basic, no-frills cargo transport that still sees use in many parts of the galaxy. Designated as a medium freighter while still in production, the Barloz-class was the predecessor of the Corelliann Engineering Corporation YT-series light freighters, introducing many of the features that would make the YT-series so successful. Though not particularly maneuverable and poorly armed, the Barloz-class possesses decent cargo capacity, reliable ion drives, and a durable hull. Pilots have found it relatively customizable, which has sustained the venerable freighters continued use by smugglers and free traders operating throughout the Mid Rim and Outer Rim Territories. These features also make it appealing to anyone who wants to stay under the radar while traveling on the fringes of society. After all, discretion is often the better part of valor, and this vessel lets Guardians hide in plainsight, obscured only by the veneer of unremarkability.</Description>
-  <Source>Keeping the Peace</Source>
+  <Source Page="61">Keeping the Peace</Source>
   <Custom>DescOnly</Custom>
   <Type>Freighter</Type>
   <Categories>
     <Category>Starship</Category>
     <Category>Non-Fighter Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>4</HP>
   <Price>70000</Price>
   <Rarity>5</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <WeaponModifiers />
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
   <HyperdriveBackup>12</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
   <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot, one co-pilot/navigator</Crew>
@@ -27,18 +33,32 @@
   <Handling>-2</Handling>
   <DefFore>1</DefFore>
   <DefAft>1</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>2</Armor>
   <HullTrauma>26</HullTrauma>
   <SystemStrain>12</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
+  <BuiltInAttachments />
   <SensorRange>Short</SensorRange>
 </Vehicle>

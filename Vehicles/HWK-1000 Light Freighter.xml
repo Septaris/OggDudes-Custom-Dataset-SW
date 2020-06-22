@@ -5,6 +5,7 @@
   <Description>[H3]CEC HWK-1000 Light Freighter[h3]
 
 Though the advent of the Clone Wars virtually doomed sales of the HWK-series of light freighters, designers at Corellian Engineering never abandoned the idea of a sleek, fast transport to match their own love for speed. Encouraged by advances in ion drive technology, CEC instituted plans to revive the HWK-series, constructing several prototypes designated the HWK-1000. While both initial performance and marketing tests delivered promising results for the HWK-290's possible successor, CEC executives scrapped the project after Imperial authorities objected to the speed and performance of the freighter, which rivaled that of some military starfighters. While the HWK-1000 never officially went into production, a clerical error resulted in several hundred prototypes models rolling off the lines of CEC's factory on Halyard 2. To recoup some of their losses, CEC surreptitiously sold the ships through various Outer Rim networks. Most of the prototype freighters ended up in the hands of collectors and smugglers.</Description>
+  <Source Page="59">Fly Casual</Source>
   <Sources>
     <Source>Fly Casual</Source>
   </Sources>
@@ -18,9 +19,13 @@ Though the advent of the Clone Wars virtually doomed sales of the HWK-series of 
   <Price>120000</Price>
   <Rarity>10</Rarity>
   <Restricted>true</Restricted>
+  <BaseMods />
+  <MaxAltitude />
   <HyperdrivePrimary>1</HyperdrivePrimary>
   <HyperdriveBackup>12</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot, one co-pilot/navigator</Crew>
   <EncumbranceCapacity>100</EncumbranceCapacity>
   <Passengers>4</Passengers>
@@ -30,9 +35,13 @@ Though the advent of the Clone Wars virtually doomed sales of the HWK-series of 
   <Handling>1</Handling>
   <DefFore>1</DefFore>
   <DefAft>1</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>3</Armor>
   <HullTrauma>18</HullTrauma>
   <SystemStrain>15</SystemStrain>
   <Starship>true</Starship>
-  <SensorRange>Close</SensorRange>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
+  <VehicleWeapons />
 </Vehicle>

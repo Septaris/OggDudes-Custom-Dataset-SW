@@ -6,47 +6,79 @@
     [H3]CAV-11 "Condor" Airspeeder[h3]
 
 A moderately well-armed, well-armored airspeeder, the CAV-11 "Condor" is an airspeeder intended for military and paramilitary forces as a scout and patrol craft. CorSec makes extensive use of the Condor to patrol Corellia and intercept smugglers. Armed with a pair of twin linked Ap/11 laser cannons and an ArMek SW-6a light ion cannon, the CAV-11 can deal with most non-military grade vehicles.</Description>
-  <Source>Suns of Fortune</Source>
+  <Source Page="104">Suns of Fortune</Source>
   <Custom>DescOnly</Custom>
   <Type>Airspeeder</Type>
   <Categories>
     <Category>Air Vehicle</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>2</HP>
   <Price>30000</Price>
   <Rarity>4</Rarity>
   <MaxAltitude>300 kilometers</MaxAltitude>
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One Pilot</Crew>
   <EncumbranceCapacity>12</EncumbranceCapacity>
   <Passengers>2</Passengers>
+  <Consumables />
   <Silhouette>2</Silhouette>
   <Speed>3</Speed>
   <Handling>1</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>1</Armor>
   <HullTrauma>6</HullTrauma>
   <SystemStrain>6</SystemStrain>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
   <SinglePilot>true</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>BLASTCANLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Top</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>IONLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

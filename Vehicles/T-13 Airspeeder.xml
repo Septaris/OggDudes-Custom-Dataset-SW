@@ -6,7 +6,7 @@
 The T-13 is an older model airspeeder designed by the Incom Corporation. The speeder carries two people, a pilot and a gunner/sensor operator, seated in tandem. In its standard configuration, the pilot's position is the forward seat with the sensor operator (who is also the gunner in armed models) seated behind. In an emergency, the rear position can also pilot the craft.
 [P]Although phased out of service in favor of the newer T-16, the generally reliable T-13 can still be found in the police and local militia forces of many worlds in the Mid and Outer Rim, as well as pressed into service by various smugglers, outlaws and the Rebel Alliance. Mystics traveling through these farflung settlements are more likely to encounter the T-13 than those whose travels bring them closer to the Core.</Description>
   <Source Page="56">Unlimited Power</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <Type>Airspeeder</Type>
   <Categories>
     <Category>Air Vehicle</Category>
@@ -17,7 +17,7 @@ The T-13 is an older model airspeeder designed by the Incom Corporation. The spe
   <BaseMods>
     <Mod>
       <Count>1</Count>
-      <MiscDesc>[B]Back Seat Piloting:[b] When the T-13 is piloted from the rear position, the rudimentary controls reduce the Handling score from + 1 to -1.</MiscDesc>
+      <MiscDesc>[B]Back Seat Piloting[b]: When piloted from the rear position, reduce Handling from +1 to -1.</MiscDesc>
     </Mod>
   </BaseMods>
   <MaxAltitude>200 kilometers</MaxAltitude>
@@ -30,6 +30,7 @@ The T-13 is an older model airspeeder designed by the Incom Corporation. The spe
   <Armor>2</Armor>
   <HullTrauma>5</HullTrauma>
   <SystemStrain>6</SystemStrain>
+  <SinglePilot>true</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>

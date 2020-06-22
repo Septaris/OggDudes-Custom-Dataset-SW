@@ -7,18 +7,27 @@
 The J-type vessels produced by Nubia Star Drives, Incorporated began as a collaboration with the Theed Palace Space Vessel Engineering Corps serving the royalty and government of the planet Naboo. However, as the power and influence of Naboo's planetary institutions waned with the rise of the Empire, the designs were claimed as proprietary by Nubia Star Drives and put into production for a wider range of customers. The J-type diplomatic barge is one example of a craft produced under the former agreement entering into the greater galactic market. Although its price point reflects the wealth of the royalty who originally commissioned it, the barges grace is considered well worth the cost. 
 
 [P]The J-type diplomatic barge is just under 40 meters in length, but its expansive 91-meter wingspan greatly increases its profile. The craft's amenities, including luxurious passenger cabins, are located in a central envelope between the wings, while reinforced shield generators and powerful engines take up the bulk of the external space. Completely unarmed to better convey an air of diplomacy and peace, the vessel features speed and shielding capable of protecting its crew against most threats.</Description>
-  <Source>Desperate Allies</Source>
+  <Source Page="62">Desperate Allies</Source>
+  <Sources />
   <Custom>DescOnly</Custom>
   <Type>Barge</Type>
   <Categories>
     <Category>Starship</Category>
     <Category>Non-Fighter Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
+  <HP>0</HP>
   <Price>1000000</Price>
   <Rarity>7</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <WeaponModifiers />
+  <MaxAltitude />
   <HyperdrivePrimary>1</HyperdrivePrimary>
   <HyperdriveBackup>7</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot, one co-pilot, one navigator, one-comms operator, one engineer</Crew>
   <EncumbranceCapacity>180</EncumbranceCapacity>
   <Passengers>10</Passengers>
@@ -34,8 +43,18 @@ The J-type vessels produced by Nubia Star Drives, Incorporated began as a collab
   <HullTrauma>36</HullTrauma>
   <SystemStrain>18</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
+  <VehicleWeapons />
+  <BaseMods>
+    <Mod>
+      <Count>1</Count>
+      <MiscDesc>
+        [B]Built to Impress[b]: All J-type diplomatic barges count as having a Luxury Passenger Compartments attachment (described on page 65) installed, at no additional cost. This attachment cannot be removed, and it does not count against the vehicle’s total hard points.
+      </MiscDesc>
+    </Mod>
+  </BaseMods>
   <BuiltInAttachments>
     <Key>LUXPASSCOMP</Key>
   </BuiltInAttachments>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

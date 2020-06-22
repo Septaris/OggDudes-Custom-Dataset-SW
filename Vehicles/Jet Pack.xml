@@ -11,20 +11,34 @@ for short periods, though some augment this with anti-grav devices. Their only d
 [P]A jet pack allows a person to function as a Silhouette 1, Speed 2, Handling 0, System Strain Threshold 3 vehicle that can only operate in atmosphere, and requires Piloting (Planetary) to operate.
 [P][B]Models Include:[b] Mitrinomon Z-6 Jet Pack.
 </Description>
-  <Source>Edge of the Empire Core Rulebook</Source>
+  <Source Page="181">Edge of the Empire Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <Type>Jet Pack</Type>
   <Categories>
     <Category>Air Vehicle</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
+  <HP>0</HP>
   <Price>4500</Price>
   <Rarity>7</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <WeaponModifiers />
   <MaxAltitude>70 meters</MaxAltitude>
+  <NaviComputer>false</NaviComputer>
   <SensorRangeValue>srNone</SensorRangeValue>
   <Crew>One pilot</Crew>
   <Silhouette>1</Silhouette>
   <Speed>2</Speed>
+  <Handling>0</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
+  <Armor>0</Armor>
+  <HullTrauma>0</HullTrauma>
   <SystemStrain>3</SystemStrain>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
   <SinglePilot>true</SinglePilot>
-  <SensorRange>No Sensors</SensorRange>
 </Vehicle>

@@ -9,8 +9,8 @@ Old, slow, weak, and roundly despised by most, if not all, officers and enlisted
 
 [P]This was not to be the case, however. Despite thorough rebuilds, the Victory II-class never eliminated all of its predecessor's issues. In addition, the development of new heavy cruisers and the Imperial and Imperial II-class Star Destroyers quickly rendered the old Victories obsolete despite their upgrades. Unloved by nearly everyone, many Victories were relegated to planetary garrison and light patrol duty in the farthest reaches of the Empire, and command of or assignment to one of the old Victories was seen as death to a Navy man's career. Those that weren't sent out to the galactic backwater were sold out of the Imperial Navy to private organizations (such as the Corporate Sector Authority) or broken up for salvage. At the beginning of the Rebellion, a handful of Victory II-class ships were purchased or seized and used to great effect against the Empire. The location and condition of these vessels is currently unknown, and most are presumed to have been lost or captured.</Description>
   <Sources>
-    <Source>Age of Rebellion Core Rulebook</Source>
-    <Source>Force and Destiny Core Rulebook</Source>
+    <Source Page="283">Age of Rebellion Core Rulebook</Source>
+    <Source Page="267">Force and Destiny Core Rulebook</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <Type>Star Destroyer</Type>
@@ -19,14 +19,17 @@ Old, slow, weak, and roundly despised by most, if not all, officers and enlisted
     <Category>Non-Fighter Starship</Category>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>4</HP>
   <Price>50000000</Price>
   <Rarity>6</Rarity>
   <Restricted>true</Restricted>
+  <MaxAltitude />
   <HyperdrivePrimary>1</HyperdrivePrimary>
   <HyperdriveBackup>15</HyperdriveBackup>
   <StarFighters>24 starfighters</StarFighters>
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srLong</SensorRangeValue>
   <Crew>6107 officers, pilots, and enlisted</Crew>
   <EncumbranceCapacity>6500</EncumbranceCapacity>
   <Passengers>1600</Passengers>
@@ -47,13 +50,22 @@ Old, slow, weak, and roundly despised by most, if not all, officers and enlisted
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>3</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOLT</Key>
@@ -62,13 +74,22 @@ Old, slow, weak, and roundly despised by most, if not all, officers and enlisted
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>3</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOLT</Key>
@@ -77,12 +98,22 @@ Old, slow, weak, and roundly despised by most, if not all, officers and enlisted
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOMED</Key>
@@ -91,12 +122,22 @@ Old, slow, weak, and roundly despised by most, if not all, officers and enlisted
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>true</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOMED</Key>
@@ -105,7 +146,16 @@ Old, slow, weak, and roundly despised by most, if not all, officers and enlisted
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
+      <Location>Unspecified</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>ACML</Key>
       <Count>20</Count>
     </VehicleWeapon>
@@ -118,10 +168,12 @@ Old, slow, weak, and roundly despised by most, if not all, officers and enlisted
         <Dorsal>true</Dorsal>
         <Ventral>true</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Hull</Location>
-      <Key>TURBOHVY</Key>
+      <Retractable>false</Retractable>
+      <Qualities />
+      <Key>TRACTHVY</Key>
       <Count>10</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

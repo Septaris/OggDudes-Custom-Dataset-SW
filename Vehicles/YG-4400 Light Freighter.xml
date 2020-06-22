@@ -10,19 +10,23 @@ Although the design is almost 50 years old, the YG-4400 still holds a sentimenta
 [P]Between the three engines, CEC's engineers nestled a "getaway" concussion missile launcher. When the YG-4400 makes a run for it, any ships in pursuit find themselves taking point-blank missile-fire. This tends to discourage even the most die-hard customs enforcers. 
 
 [P]Law enforcement officials have long tried to gain injunctions to stop CEC from producing the YG-4400. Of course, megacorporations as powerful as CEC can usually laugh off these legal maneuverings, and CEC keeps full time staff in Coronet simply to deal with such attempts.</Description>
-  <Source>Suns of Fortune</Source>
+  <Source Page="112">Suns of Fortune</Source>
   <Custom>DescOnly</Custom>
   <Type>Freighter</Type>
   <Categories>
     <Category>Starship</Category>
     <Category>Non-Fighter Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>2</HP>
   <Price>110000</Price>
   <Rarity>5</Rarity>
+  <MaxAltitude />
   <HyperdrivePrimary>1</HyperdrivePrimary>
   <HyperdriveBackup>18</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot, one co-pilot/gunner</Crew>
   <EncumbranceCapacity>75</EncumbranceCapacity>
   <Passengers>2</Passengers>
@@ -32,18 +36,29 @@ Although the design is almost 50 years old, the YG-4400 still holds a sentimenta
   <Handling>-1</Handling>
   <DefFore>1</DefFore>
   <DefAft>2</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>3</Armor>
   <HullTrauma>21</HullTrauma>
   <SystemStrain>14</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
         <Aft>true</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Aft</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>CML</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

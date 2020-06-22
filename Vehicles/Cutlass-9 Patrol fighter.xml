@@ -8,28 +8,38 @@ the Clone Wars, however, SoroSuub supplied them to
 the Confederacy of Independent Systems. Following
 the defeat of the Separatists, SoroSuub ceased production. However, thousands of Cutlass-9s remain in
 planetary arsenals and pirate fleets across the galaxy.</Description>
-  <Source>Mask of the Pirate Queen</Source>
+  <Source Page="78">Mask of the Pirate Queen</Source>
   <Custom>DescOnly</Custom>
   <Type>Starfighter</Type>
   <Categories>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>3</HP>
   <Price>34700</Price>
   <Rarity>3</Rarity>
+  <Restricted>false</Restricted>
   <HyperdrivePrimary>2</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srClose</SensorRangeValue>
   <Crew>One pilot</Crew>
   <EncumbranceCapacity>12</EncumbranceCapacity>
+  <Passengers>0</Passengers>
   <Consumables>2 days</Consumables>
   <Silhouette>3</Silhouette>
   <Speed>2</Speed>
+  <Handling>0</Handling>
   <DefFore>1</DefFore>
   <DefAft>1</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>2</Armor>
   <HullTrauma>8</HullTrauma>
   <SystemStrain>9</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
   <SinglePilot>true</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
@@ -58,7 +68,9 @@ planetary arsenals and pirate fleets across the galaxy.</Description>
         </Quality>
       </Qualities>
       <Key>CML</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
+  <BuiltInAttachments />
   <SensorRange>Close</SensorRange>
 </Vehicle>
