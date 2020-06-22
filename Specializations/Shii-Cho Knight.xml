@@ -4,7 +4,7 @@
   <Name>Shii-Cho Knight</Name>
   <Description>[H4]Shii-Cho Knight[h4]
 
-The ancient lightsaber fighting style of Shii-Cho is said to be the first lightsaber form taught to the Jedi and their predecessors. It focuses on the essentials of saber fighting and borrows heavily from other sword fighting techniques. Appropriately, the modern practitioners of this form focus on perfecting the core tenants of sword fighting, recognizing the strength of simplicity. Shii-Cho Knights eschew fancy maneuvers, preferring to focus on the fundamentals of block, parry. and strike. 
+The ancient lightsaber fighting style of Shii-Cho is said to be the first lightsaber form taught to the Jedi and their predecessors. It focuses on the essentials of saber fighting and borrows heavily from other sword fighting techniques. Appropriately, the modern practitioners of this form focus on perfecting the core tenants of sword fighting, recognizing the strength of simplicity. Shii-Cho Knights eschew fancy maneuvers, preferring to focus on the fundamentals of block, parry. and strike.
 
 [P]Shii-Cho Knights acquire [B]Athletics, Coordination, Lightsaber,[b] and [B]Melee[b] as additional career skills. If this is the character's starting specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. These skills provide them with a solid grounding in the core techniques of any physical conflict. They are familiar with the weapon they wield, but they are also very comfortable exploiting their natural athleticism and flexibility. Because of this, they can not only avoid an enemy's attack, but also make certain that they are able to strike effectively when their target is at a disadvantage.
 
@@ -19,6 +19,7 @@ The ancient lightsaber fighting style of Shii-Cho is said to be the first lights
   </CareerSkills>
   <TalentRows>
     <TalentRow>
+      <Index>0</Index>
       <Cost>5</Cost>
       <Talents>
         <Key>PARRY</Key>
@@ -28,20 +29,33 @@ The ancient lightsaber fighting style of Shii-Cho is said to be the first lights
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>10</Cost>
       <Talents>
         <Key>SECWIND</Key>
@@ -51,6 +65,7 @@ The ancient lightsaber fighting style of Shii-Cho is said to be the first lights
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
@@ -63,16 +78,20 @@ The ancient lightsaber fighting style of Shii-Cho is said to be the first lights
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>15</Cost>
       <Talents>
         <Key>QUICKDR</Key>
@@ -82,10 +101,13 @@ The ancient lightsaber fighting style of Shii-Cho is said to be the first lights
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
@@ -98,12 +120,14 @@ The ancient lightsaber fighting style of Shii-Cho is said to be the first lights
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>20</Cost>
       <Talents>
         <Key>NATBLADE</Key>
@@ -113,26 +137,33 @@ The ancient lightsaber fighting style of Shii-Cho is said to be the first lights
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>25</Cost>
       <Talents>
         <Key>CENTBEING</Key>
@@ -142,22 +173,63 @@ The ancient lightsaber fighting style of Shii-Cho is said to be the first lights
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
     </TalentRow>
   </TalentRows>
+  <Universal>false</Universal>
+  <Attributes>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
+    <Experience>0</Experience>
+    <ForceRating>0</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+    </Requirement>
+  </Attributes>
+  <Requirements>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
+    <Experience>0</Experience>
+    <ForceRating>0</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+    </Requirement>
+  </Requirements>
 </Specialization>

@@ -4,14 +4,14 @@
   <Name>Unmatched Ferocity</Name>
   <Description>All Warriors walk a fine line between ferocity and control. Some Warriors, particularly with the aid of the Force, can unleash a barrage of blows on a foe, overwhelming their defenses and ending a confrontation in one dramatic onslaught. Even when tempered with skill and control, such an assault draws on anger or other negative emotions, which might overtake the Warrior.</Description>
   <Source Page="35">Knights of Fate</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>
       <Abilities>
-        <Key>UNMATCHEDFERBASE</Key>
-        <Key>UNMATCHEDFERBRAWL</Key>
-        <Key>UNMATCHEDFERBRAWL</Key>
-        <Key>UNMATCHEDFERBRAWL</Key>
+        <Key>UNMATCHEDFEROCITYBASE</Key>
+        <Key>UNMATCHEDFEROCITYBASE</Key>
+        <Key>UNMATCHEDFEROCITYBASE</Key>
+        <Key>UNMATCHEDFEROCITYBASE</Key>
       </Abilities>
       <Directions>
         <Direction>
@@ -62,10 +62,10 @@
     </AbilityRow>
     <AbilityRow>
       <Abilities>
-        <Key>UNMATCHEDFERSTRAIN</Key>
-        <Key>UNMATCHEDFERBRAWL</Key>
-        <Key>UNMATCHEDFERLIGHTSABER</Key>
-        <Key>UNMATCHEDFERSTRAIN</Key>
+        <Key>UNMATCHEDFEROCITYREDUCESTRAIN</Key>
+        <Key>UNMATCHEDFEROCITYSKILL1</Key>
+        <Key>UNMATCHEDFEROCITYSKILL2</Key>
+        <Key>UNMATCHEDFEROCITYREDUCESTRAIN</Key>
       </Abilities>
       <Directions>
         <Direction>
@@ -100,10 +100,10 @@
     </AbilityRow>
     <AbilityRow>
       <Abilities>
-        <Key>UNMATCHEDFERDESTINY</Key>
-        <Key>UNMATCHEDFERTARGET</Key>
-        <Key>UNMATCHEDFERCONFLICT</Key>
-        <Key>UNMATCHEDFERSTRAIN</Key>
+        <Key>UNMATCHEDFEROCITYDESTINY</Key>
+        <Key>UNMATCHEDFEROCITYCHANGETARGET</Key>
+        <Key>UNMATCHEDFEROCITYREDUCECONFLICT</Key>
+        <Key>UNMATCHEDFEROCITYREDUCESTRAIN</Key>
       </Abilities>
       <Directions>
         <Direction>

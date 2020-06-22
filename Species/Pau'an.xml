@@ -18,20 +18,20 @@ Pau'ans are gaunt near-Humans native to the planet Utapau. Also known as Utapaun
 [P][B]Homeworld:[b] Utapau is an arid sinkhole world in the Utapau system of the Tarabba sector in the Outer Rim Territories. Utapau is the homeworld of the Pau'ans and the Utai, more commonly referred to collectively as Utapauns. These species live in the many giant sinkholes that dotted the planet's scrub-covered surface.
 
 [P][B]Language:[b] Utapese is the language of the Pau'ans on the planet Utapau. Most Pau'ans speak and are literate in both Utapese and Basic. The language once had several different dialects.</Description>
-  <Source>Unofficial Species Menagerie</Source>
+  <Source Page="19">Disciples of Harmony</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>1</Brawn>
     <Agility>2</Agility>
     <Intellect>2</Intellect>
     <Cunning>2</Cunning>
-    <Willpower>2</Willpower>
-    <Presence>3</Presence>
+    <Willpower>3</Willpower>
+    <Presence>2</Presence>
   </StartingChars>
   <StartingAttrs>
-    <WoundThreshold>10</WoundThreshold>
-    <StrainThreshold>11</StrainThreshold>
-    <Experience>100</Experience>
+    <WoundThreshold>12</WoundThreshold>
+    <StrainThreshold>8</StrainThreshold>
+    <Experience>95</Experience>
   </StartingAttrs>
   <OptionChoices>
     <OptionChoice>
@@ -46,8 +46,10 @@ Pau'ans are gaunt near-Humans native to the planet Utapau. Also known as Utapaun
             <SkillModifier>
               <Key>COERC</Key>
               <RankStart>1</RankStart>
+              <RankLimit>2</RankLimit>
             </SkillModifier>
           </SkillModifiers>
+          <TalentModifiers />
         </Option>
         <Option>
           <Key>PAUANCH1OP2</Key>
@@ -57,8 +59,21 @@ Pau'ans are gaunt near-Humans native to the planet Utapau. Also known as Utapaun
             <SkillModifier>
               <Key>NEG</Key>
               <RankStart>1</RankStart>
+              <RankLimit>2</RankLimit>
             </SkillModifier>
           </SkillModifiers>
+          <TalentModifiers />
+        </Option>
+      </Options>
+    </OptionChoice>
+    <OptionChoice>
+      <Key>PAUANCH2</Key>
+      <Name>Perceiving</Name>
+      <Options>
+        <Option>
+          <Key>PAUANCH2OP1</Key>
+          <Name>Sensitive Hearing</Name>
+          <Description>Pau'an's add [BO] to all Perception and Vigilance checks while wearing ear protection.  Without ear protection, they add [TH] to Perception and Vigilance checks instead.</Description>
         </Option>
       </Options>
     </OptionChoice>

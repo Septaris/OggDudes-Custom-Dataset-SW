@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Species xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Species>
   <Key>NAGAI</Key>
   <Name>Nagai</Name>
   <Description>[H4]Nagai[h4]
@@ -32,6 +32,7 @@ The Nagai, also called the N'Gai and the Knives, are a species from the satellit
     <StrainThreshold>11</StrainThreshold>
     <Experience>100</Experience>
   </StartingAttrs>
+  <SkillModifiers />
   <TalentModifiers>
     <TalentModifier>
       <Key>KILL</Key>
@@ -42,6 +43,7 @@ The Nagai, also called the N'Gai and the Knives, are a species from the satellit
     <OptionChoice>
       <Key>NAGAICH1</Key>
       <Name>Skills</Name>
+      <Description />
       <Options>
         <Option>
           <Key>NAGAICH1OP1</Key>
@@ -53,6 +55,7 @@ The Nagai, also called the N'Gai and the Knives, are a species from the satellit
               <RankStart>1</RankStart>
             </SkillModifier>
           </SkillModifiers>
+          <TalentModifiers />
         </Option>
         <Option>
           <Key>NAGAICH1OP2</Key>
@@ -64,6 +67,7 @@ The Nagai, also called the N'Gai and the Knives, are a species from the satellit
               <RankStart>1</RankStart>
             </SkillModifier>
           </SkillModifiers>
+          <TalentModifiers />
         </Option>
       </Options>
     </OptionChoice>

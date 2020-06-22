@@ -5,7 +5,6 @@
   <Description>[H4]Padawan[h4]
 Please see page 27 of the Rise of the Separatists Sourcebook for details.</Description>
   <Source Page="27">Rise of the Separatists</Source>
-  <Custom>AddedItem</Custom>
   <CareerSkills>
     <Key>COORD</Key>
     <Key>EDU</Key>
@@ -66,7 +65,7 @@ Please see page 27 of the Rise of the Separatists Sourcebook for details.</Descr
       <Cost>15</Cost>
       <Talents>
         <Key>PARRY</Key>
-        <Key>LEARNOP</Key>
+        <Key>LEARNOPP</Key>
         <Key>VALFACT</Key>
         <Key>FORCERAT</Key>
       </Talents>
@@ -95,8 +94,8 @@ Please see page 27 of the Rise of the Separatists Sourcebook for details.</Descr
       <Talents>
         <Key>REFLECT</Key>
         <Key>GRIT</Key>
-        <Key>SOMEPRO</Key>
-        <Key>ADAPTABLE</Key>
+        <Key>SOMEPROVE</Key>
+        <Key>ADAPT</Key>
       </Talents>
       <Directions>
         <Direction>
@@ -121,8 +120,8 @@ Please see page 27 of the Rise of the Separatists Sourcebook for details.</Descr
     <TalentRow>
       <Cost>25</Cost>
       <Talents>
-        <Key>BEGINLUCK</Key>
-        <Key>TEMPTRAIN</Key>
+        <Key>BEGLUCK</Key>
+        <Key>TEMPLETR</Key>
         <Key>SINFLAT</Key>
         <Key>DEDI</Key>
       </Talents>

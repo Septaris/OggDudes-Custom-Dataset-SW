@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Species xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" encoding="utf-8"?>
+<Species>
   <Key>PHYDOLON</Key>
   <Name>Phydolon</Name>
   <Description>[H4]Phydolon[h4]
@@ -15,7 +15,7 @@ Only newly introduced to the galactic stage, their world having recently been di
 [P][B]Language:[b] Of course, all sentient life forms eventually develop the capacity to communicate among themselves, and the Phydolons are no different, though many offworlders consider their natural language to be primitive and underdeveloped. Few outside the ranks of learned xenoanthropologists realize that when Phydolons are in close proximity, they are able to directly convey emotional meaning more accurately than most sentient species. It is for this reason that the Phydolons' verbal language need not possess the complexity others do. Among the Phydolons, a few simple words and a wave of empathic context is as complex and evocative as any exchange in Basic. Unfortunately, this transmitted empathy does not extend to sentients outside their species, who lack any connection to the Orucytes' rhizome. PhydoIons are, however, able to learn and speak other species' languages, though they find them needlessly complex.
 [P][B]Perception of the Force:[b] Due to the unique nature of their symbiotic society, the Phydoions find the notion of the Living Force familiar and welcome. Their existence is fundamentally defined by interconnectivity with others, much as the Force flows through and connects all things. In the ages prior to their discovery by galactic explorers, those PhydoIons who possessed a sensitivity to the Force were known as visionaries whose consciousness extended beyond their enclave, beyond even their homeworld. As such, most Force-sensitive Phydolons see the Force as something that binds the universe together, not something to be exploited for personal gain or power.</Description>
   <Source Page="21">Knights of Fate</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>2</Agility>
@@ -29,13 +29,17 @@ Only newly introduced to the galactic stage, their world having recently been di
     <StrainThreshold>10</StrainThreshold>
     <Experience>100</Experience>
   </StartingAttrs>
+  <SkillModifiers>
+  </SkillModifiers>
+  <TalentModifiers>
+  </TalentModifiers>
   <OptionChoices>
     <OptionChoice>
-      <Key>PHYDOLONCH1</Key>
-      <Name>Skill</Name>
+      <Key>PHYDOLONAB1</Key>
+      <Name>Skills</Name>
       <Options>
         <Option>
-          <Key>PHYDOLONCH1OP1</Key>
+          <Key>PHYDOLONAB1OP1</Key>
           <Name>Cool</Name>
           <Description>Phydolons may begin the game with one rank in Cool.</Description>
           <SkillModifiers>
@@ -46,7 +50,7 @@ Only newly introduced to the galactic stage, their world having recently been di
           </SkillModifiers>
         </Option>
         <Option>
-          <Key>PHYDOLONCH1OP2</Key>
+          <Key>PHYDOLONAB1OP2</Key>
           <Name>Discipline</Name>
           <Description>Phydolons may begin the game with one rank in Discipline.</Description>
           <SkillModifiers>
@@ -57,26 +61,26 @@ Only newly introduced to the galactic stage, their world having recently been di
           </SkillModifiers>
         </Option>
       </Options>
-    </OptionChoice>
+    </OptionChoice>    
     <OptionChoice>
-      <Key>PHYDOLONCH2</Key>
-      <Name>Physiology</Name>
+      <Key>PHYDOLONAB2</Key>
+      <Name>Wound Recovery</Name>
       <Options>
         <Option>
-          <Key>PHYDOLONCH2OP1</Key>
+          <Key>PHYDOLONAB2OP1</Key>
           <Name>Symbiotic Resilience</Name>
-          <Description>When recovering wounds naturally, Phylodons heal 1 extra wound per full night's rest. In addition, a Phylodon may attempt to recover naturally from one Critical Injury after a full night's rest, instead of after a full week.</Description>
+          <Description>When recovering wounds naturally, Phydolons heal 1 extra wound per full night's rest. When critially injured, Phydolons may attempt to recover from one Critical Injury after a full night's rest, instead of a full week's.</Description>
         </Option>
       </Options>
     </OptionChoice>
     <OptionChoice>
-      <Key>PHYDOLONCH3</Key>
-      <Name>Requirement</Name>
+      <Key>PHYDOLONAB3</Key>
+      <Name>Strain Recovery</Name>
       <Options>
         <Option>
-          <Key>PHYDOLONCH3OP1</Key>
-          <Name>Symbiotic Isolation</Name>
-          <Description>If no other Phydolons are present when a Phydolon recovers strain at the end of an encounter, they recover 1 less strain to a minimum of 1.</Description>
+          <Key>PHYDOLONAB3OP1</Key>
+          <Name>Symbiont Isolation</Name>
+          <Description>When recovering from strain at the end of an encounter, Phydolons recover 1 less strain if no other Phydolons are present (to a minimum of 1).</Description>
         </Option>
       </Options>
     </OptionChoice>

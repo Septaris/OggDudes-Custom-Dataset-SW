@@ -9,10 +9,11 @@
 [P]The basic power of Suppress can be used in one way: to create a protective bubble around the Force user that dampens the effects of other Force powers meant to harm the user and nearby allies. The basic power has one way to spend force points:
 [P]The user may spend [FP] to extend a dampening field around himself that shields him and all allies in short range. Until the end of the user's next turn, any hostile Force user who makes a skill check as part of a Force power check against the user or any affected ally adds automatic [FA] to the results. The user may not activate this multiple times.
 </Description>
-  <Source>Keeping the Peace</Source>
+  <Source Page="38">Keeping the Peace</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>SUPPRESSBASIC</Key>
         <Key>SUPPRESSBASIC</Key>
@@ -20,12 +21,30 @@
         <Key>SUPPRESSBASIC</Key>
       </Abilities>
       <Directions>
-        <Direction />
-        <Direction />
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
-        <Direction />
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
       </Directions>
       <AbilitySpan>
         <Span>4</Span>
@@ -41,6 +60,7 @@
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>SUPPRESSSTRENGTH</Key>
         <Key>SUPPRESSSTRENGTH</Key>
@@ -49,12 +69,16 @@
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
@@ -64,6 +88,9 @@
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
       <AbilitySpan>
@@ -80,6 +107,7 @@
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>SUPPRESSCONTROL1</Key>
         <Key>SUPPRESSCONTROL1</Key>
@@ -88,6 +116,7 @@
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
@@ -95,6 +124,8 @@
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
@@ -104,6 +135,9 @@
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
       <AbilitySpan>
@@ -120,6 +154,7 @@
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>SUPPRESSSTRENGTH</Key>
         <Key>SUPPRESSSTRENGTH</Key>
@@ -128,17 +163,28 @@
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
-        <Direction />
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
       <AbilitySpan>
@@ -155,6 +201,7 @@
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>SUPPRESSMASTERY</Key>
         <Key>SUPPRESSMASTERY</Key>
@@ -163,13 +210,29 @@
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
-        <Direction />
         <Direction>
-          <Up>true</Up>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
-        <Direction />
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>true</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
       </Directions>
       <AbilitySpan>
         <Span>2</Span>
@@ -185,4 +248,5 @@
       </Costs>
     </AbilityRow>
   </AbilityRows>
+  <MinForceRating>1</MinForceRating>
 </ForcePower>

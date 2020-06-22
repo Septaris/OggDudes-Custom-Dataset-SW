@@ -1,13 +1,13 @@
-<?xml version="1.0"?>
-<Specialization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" encoding="utf-8"?>
+<Specialization>
   <Key>POLITICO</Key>
   <Name>Politico</Name>
   <Description>[H4]Politico - The Gift of Leadership[h4]
 
-[P]If there is one thing a Politico knows how to do better than anyone else in the galaxy, it's talking. He can talk to anyone about anything in any necessary way. What others accomplish with might and fear, a talented Politico may well achieve with a few well-placed words and a decent plan. 
+[P]If there is one thing a Politico knows how to do better than anyone else in the galaxy, it's talking. He can talk to anyone about anything in any necessary way. What others accomplish with might and fear, a talented Politico may well achieve with a few well-placed words and a decent plan.
 
-[P]Politicos gain the Career skills of [B]Charm, Coercion, Deception,[b] and [B]Knowledge (Core Worlds)[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. A Politico might join a discussion, speech, or debate in any number of ways. With his talents, he might act to inspire greatness in those around him, or he might know just what to say to cut an opponent to the core, diminishing his confidence and leaving him vulnerable. 
-[P]Politicos in the Outer Rim are usually up to something; ambition is hardwired into their very being. They may not yet know what they wish to accomplish, but when they see an opportunity to achieve some kind of greater goal, they will turn all their will and personality towards achieving it. Politicos might sign on to temporarily work for another, but they will not long be happy in a subservient role. Leadership is the core of who they are. 
+[P]Politicos gain the Career skills of [B]Charm, Coercion, Deception,[b] and [B]Knowledge (Core Worlds)[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. A Politico might join a discussion, speech, or debate in any number of ways. With his talents, he might act to inspire greatness in those around him, or he might know just what to say to cut an opponent to the core, diminishing his confidence and leaving him vulnerable.
+[P]Politicos in the Outer Rim are usually up to something; ambition is hardwired into their very being. They may not yet know what they wish to accomplish, but when they see an opportunity to achieve some kind of greater goal, they will turn all their will and personality towards achieving it. Politicos might sign on to temporarily work for another, but they will not long be happy in a subservient role. Leadership is the core of who they are.
 
 [P]In a group, the Politico works best as the front-man, or the "face." More than anyone, he is best suited for initial contacts with any being or group, and he's the best to have at any negotiation, social gathering, or interrogation. There are even times when he can bring up morale in combat and crisis situations, though the palace throne room, corporate board room, or casino floor tend to be better battlefields for him.</Description>
   <Source Page="66">Edge of the Empire Core Rulebook</Source>
@@ -20,6 +20,7 @@
   </CareerSkills>
   <TalentRows>
     <TalentRow>
+      <Index>0</Index>
       <Cost>5</Cost>
       <Talents>
         <Key>KILL</Key>
@@ -53,22 +54,22 @@
       </Talents>
       <Directions>
         <Direction>
-          <Right>true</Right>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
+          <Right>true</Right>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Up>true</Up>
         </Direction>
         <Direction>
-          <Right>true</Right>
           <Up>true</Up>
+          <Right>true</Right>
         </Direction>
         <Direction>
-          <Left>true</Left>
           <Up>true</Up>
           <Down>true</Down>
+          <Left>true</Left>
         </Direction>
       </Directions>
     </TalentRow>
@@ -83,22 +84,22 @@
       </Talents>
       <Directions>
         <Direction>
-          <Right>true</Right>
+          <Down>true</Down>
           <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Left>true</Left>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
           <Right>true</Right>
-          <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>true</Left>
-          <Up>true</Up>
           <Down>true</Down>
+          <Left>true</Left>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+          <Right>true</Right>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
+          <Left>true</Left>
         </Direction>
       </Directions>
     </TalentRow>
@@ -113,10 +114,7 @@
       </Talents>
       <Directions>
         <Direction>
-          <Up>true</Up>
           <Down>true</Down>
-        </Direction>
-        <Direction>
           <Up>true</Up>
         </Direction>
         <Direction>
@@ -124,7 +122,10 @@
         </Direction>
         <Direction>
           <Up>true</Up>
+        </Direction>
+        <Direction>
           <Down>true</Down>
+          <Up>true</Up>
         </Direction>
       </Directions>
     </TalentRow>
@@ -139,11 +140,7 @@
       </Talents>
       <Directions>
         <Direction>
-          <Right>true</Right>
           <Up>true</Up>
-        </Direction>
-        <Direction>
-          <Left>true</Left>
           <Right>true</Right>
         </Direction>
         <Direction>
@@ -152,7 +149,11 @@
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>true</Right>
+        </Direction>
+        <Direction>
           <Up>true</Up>
+          <Left>true</Left>
         </Direction>
       </Directions>
     </TalentRow>

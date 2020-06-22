@@ -6,10 +6,11 @@
     [H4]Force Power: Battle Meditation[h4]
 
 Some Force users can telepathically guide allies around them, helping them to coordinate and achieve amazing feats. This guidance can easily become domination, however, and Force users must strive to maintain a balance between gentle guidance and outright tyranny. Meanwhile, individuals less concerned with trifling matters like "morality" and "the basic dignity of all sentients" use Battle Meditation to guide their disposable pawns to ignoble ends for their own selfish betterment.</Description>
-  <Source>Force and Destiny Core Rulebook</Source>
+  <Source Page="284">Force and Destiny Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>BATMEDBASIC</Key>
         <Key>BATMEDBASIC</Key>
@@ -18,13 +19,29 @@ Some Force users can telepathically guide allies around them, helping them to co
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
-        <Direction />
-        <Direction />
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
       </Directions>
       <AbilitySpan>
         <Span>4</Span>
@@ -40,6 +57,7 @@ Some Force users can telepathically guide allies around them, helping them to co
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>BATMEDMAGNITUDE</Key>
         <Key>BATMEDRANGE</Key>
@@ -48,19 +66,29 @@ Some Force users can telepathically guide allies around them, helping them to co
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
-        <Direction />
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
       </Directions>
       <AbilitySpan>
         <Span>1</Span>
@@ -76,6 +104,7 @@ Some Force users can telepathically guide allies around them, helping them to co
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>BATMEDMAGNITUDE</Key>
         <Key>BATMEDRANGE</Key>
@@ -84,20 +113,29 @@ Some Force users can telepathically guide allies around them, helping them to co
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
-        <Direction />
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
       </Directions>
       <AbilitySpan>
         <Span>1</Span>
@@ -113,6 +151,7 @@ Some Force users can telepathically guide allies around them, helping them to co
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>BATMEDMAGNITUDE</Key>
         <Key>BATMEDRANGE</Key>
@@ -121,19 +160,29 @@ Some Force users can telepathically guide allies around them, helping them to co
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
-        <Direction />
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
       </Directions>
       <AbilitySpan>
         <Span>1</Span>
@@ -149,6 +198,7 @@ Some Force users can telepathically guide allies around them, helping them to co
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>BATMEDMAGNITUDE</Key>
         <Key>BATMEDCONTROL2</Key>
@@ -157,16 +207,29 @@ Some Force users can telepathically guide allies around them, helping them to co
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
-        <Direction />
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
       </Directions>
       <AbilitySpan>
         <Span>1</Span>

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Specialization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Key>CLONEPILOT</Key>
+  <Key>CLONEPIL</Key>
   <Name>Clone Pilot</Name>
   <Description>[H4]Clone Pilot[h4]
 Interplanetary conflict inevitably brings battles to the upper atmosphere and the void of space. Capital ships play a prominent role in these battles, but large wings of starfighters are a vital part of every conflict. These specialized ships exploit their smaller profile and variations in armament to avoid detection while occupying a variety of roles. Military transports deploy from capital ships—often through active war zones in the company of starfighter screens—to deliver troops and equipment to a planet’s surface, where clones can engage the enemy.
@@ -14,7 +14,7 @@ Interplanetary conflict inevitably brings battles to the upper atmosphere and th
 [P]Some Clone Pilots are assigned to operate vehicles that work more closely with ground units. These include AT-RT and AT-TE walkers, and BARC speeders, among others. Notably, these craft are not normally under the oversight of the Republic Navy branch of the GAR. As such, Clone Pilots assigned to them do not fall under the oversight of the naval chain of command, leaving them far less likely to pilot starfighters.
 </Description>
   <Source Page="22">Rise of the Separatists</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>GUNN</Key>
     <Key>MECH</Key>
@@ -49,7 +49,7 @@ Interplanetary conflict inevitably brings battles to the upper atmosphere and th
       <Cost>10</Cost>
       <Talents>
         <Key>HIGHGTRAIN</Key>
-        <Key>CLANKKILL</Key>
+        <Key>CLANKILL</Key>
         <Key>HIGHGTRAIN</Key>
         <Key>SKILLJOCK</Key>
       </Talents>
@@ -79,7 +79,7 @@ Interplanetary conflict inevitably brings battles to the upper atmosphere and th
     <TalentRow>
       <Cost>15</Cost>
       <Talents>
-        <Key>ASSAULTDROP</Key>
+        <Key>ASSAULTDR</Key>
         <Key>TRICK</Key>
         <Key>FULLTH</Key>
         <Key>BARREL</Key>
@@ -108,10 +108,10 @@ Interplanetary conflict inevitably brings battles to the upper atmosphere and th
     <TalentRow>
       <Cost>20</Cost>
       <Talents>
-        <Key>ASTEPAHEAD</Key>
-        <Key>ASTEPAHEAD</Key>
-        <Key>IMPBARREL</Key>
-        <Key>SUPBARREL</Key>
+        <Key>FIRESUP</Key>
+        <Key>NATOP</Key>
+        <Key>BARRELIMP</Key>
+        <Key>BARRELSUP</Key>
       </Talents>
       <Directions>
         <Direction>
@@ -138,7 +138,7 @@ Interplanetary conflict inevitably brings battles to the upper atmosphere and th
     <TalentRow>
       <Cost>25</Cost>
       <Talents>
-        <Key>MISCRIT</Key>
+        <Key>MISSCRIT</Key>
         <Key>DEDI</Key>
         <Key>MASPIL</Key>
         <Key>TOUGH</Key>

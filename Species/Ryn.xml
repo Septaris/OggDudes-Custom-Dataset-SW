@@ -40,6 +40,7 @@ Their home-world long lost from memory and time, the Ryn are a humanoid race of 
     <OptionChoice>
       <Key>RYNCH1</Key>
       <Name>Skills</Name>
+      <Description />
       <Options>
         <Option>
           <Key>USERSPECIES6CH1OP1</Key>
@@ -70,6 +71,7 @@ free rank in Streetwise.</Description>
     <OptionChoice>
       <Key>RYN6CH2</Key>
       <Name>Tail</Name>
+      <Description />
       <Options>
         <Option>
           <Key>RYNCH2OP1</Key>

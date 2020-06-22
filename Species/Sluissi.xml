@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Species xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Species>
   <Key>SLUISSI</Key>
   <Name>Sluissi</Name>
   <Description>[H4]Sluissi[h4]
@@ -34,12 +34,17 @@ The Sluissi are the indigenous sentient species of the planet Sluis Van, located
     <SkillModifier>
       <Key>MECH</Key>
       <RankStart>1</RankStart>
+      <RankAdd>0</RankAdd>
+      <RankLimit>0</RankLimit>
+      <isCareer>false</isCareer>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers />
   <OptionChoices>
     <OptionChoice>
       <Key>SLUISSICH1</Key>
       <Name>Talents</Name>
+      <Description />
       <Options>
         <Option>
           <Key>SLUISSICH1OP1</Key>
@@ -48,7 +53,9 @@ The Sluissi are the indigenous sentient species of the planet Sluis Van, located
           <TalentModifiers>
             <TalentModifier>
               <Key>GEARHD</Key>
+              <RankStart>0</RankStart>
               <RankAdd>1</RankAdd>
+              <RankLimit>0</RankLimit>
             </TalentModifier>
           </TalentModifiers>
         </Option>
@@ -59,7 +66,9 @@ The Sluissi are the indigenous sentient species of the planet Sluis Van, located
           <TalentModifiers>
             <TalentModifier>
               <Key>SOLREP</Key>
+              <RankStart>0</RankStart>
               <RankAdd>1</RankAdd>
+              <RankLimit>0</RankLimit>
             </TalentModifier>
           </TalentModifiers>
         </Option>
@@ -68,6 +77,7 @@ The Sluissi are the indigenous sentient species of the planet Sluis Van, located
     <OptionChoice>
       <Key>SLUISSICH2</Key>
       <Name>Mechanics</Name>
+      <Description />
       <Options>
         <Option>
           <Key>SLUISSICH2OP1</Key>
@@ -77,4 +87,5 @@ The Sluissi are the indigenous sentient species of the planet Sluis Van, located
       </Options>
     </OptionChoice>
   </OptionChoices>
+  <WeaponModifiers />
 </Species>

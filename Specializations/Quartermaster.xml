@@ -1,12 +1,12 @@
-<?xml version="1.0"?>
-<Specialization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" encoding="utf-8"?>
+<Specialization>
   <Key>QUARTERMASTER</Key>
   <Name>Quartermaster</Name>
   <Description>
     [H4]Quartermaster - Managing the Resources[h4]
 
-An old military saying goes something like this—"Empty stomachs make for poor soldiers." The Quartermaster's job is to ensure this doesn't happen to the troops he supports. He also must ensure that weapons, ammunition, medical supplies, and everything else needed gets where it should be and into the right hands. Managing the flow of logistics is one of the most difficult tasks in any military organization, and the Quartermaster is the master of it. 
-[P]Quartermasters gain [B]Computers, Negotiation, Skulduggery,[b] and [B]Vigilance[b] as additional career skills. If this is a PC's first specialization, two of these four skills begin with a free rank each. Searching and manipulating data to their unit's benefit is a trick many Quartermasters employ, as is finding (and stealing) necessary resources when the cupboards are otherwise bare. Anyone involved in supply is inherently enamored of preparedness at all times. 
+An old military saying goes something like this—"Empty stomachs make for poor soldiers." The Quartermaster's job is to ensure this doesn't happen to the troops he supports. He also must ensure that weapons, ammunition, medical supplies, and everything else needed gets where it should be and into the right hands. Managing the flow of logistics is one of the most difficult tasks in any military organization, and the Quartermaster is the master of it.
+[P]Quartermasters gain [B]Computers, Negotiation, Skulduggery,[b] and [B]Vigilance[b] as additional career skills. If this is a PC's first specialization, two of these four skills begin with a free rank each. Searching and manipulating data to their unit's benefit is a trick many Quartermasters employ, as is finding (and stealing) necessary resources when the cupboards are otherwise bare. Anyone involved in supply is inherently enamored of preparedness at all times.
 
 [P]The greatest commanders in any military place extraordinary emphasis on supply, relying heavily on their Quartermasters to see to it that logistical needs are met at all times. An otherwise-successful campaign will come to a screeching halt, perhaps even degrading into a terrible rout, if supply lines are not maintained and the warriors engaged with the enemy lose access to food, ammunition, and other vital needs. The Quartermaster understands the unique and challenging puzzle of finding, securing, and moving assets, and he seeks to fulfill his unit's needs no matter what is required.
 
@@ -21,6 +21,7 @@ One of the greatest challenges for the Alliance is that of supply; the best Quar
   </CareerSkills>
   <TalentRows>
     <TalentRow>
+      <Index>0</Index>
       <Cost>5</Cost>
       <Talents>
         <Key>KNOWSOM</Key>
@@ -32,8 +33,10 @@ One of the greatest challenges for the Alliance is that of supply; the best Quar
         <Direction>
           <Down>true</Down>
         </Direction>
-        <Direction />
-        <Direction />
+        <Direction>
+        </Direction>
+        <Direction>
+        </Direction>
         <Direction>
           <Down>true</Down>
         </Direction>
@@ -50,20 +53,20 @@ One of the greatest challenges for the Alliance is that of supply; the best Quar
       </Talents>
       <Directions>
         <Direction>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
         </Direction>
         <Direction>
           <Right>true</Right>
           <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>true</Left>
           <Down>true</Down>
+          <Left>true</Left>
         </Direction>
         <Direction>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
         </Direction>
       </Directions>
     </TalentRow>
@@ -87,9 +90,9 @@ One of the greatest challenges for the Alliance is that of supply; the best Quar
           <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>true</Left>
           <Up>true</Up>
           <Down>true</Down>
+          <Left>true</Left>
         </Direction>
         <Direction>
           <Up>true</Up>
@@ -108,22 +111,22 @@ One of the greatest challenges for the Alliance is that of supply; the best Quar
       </Talents>
       <Directions>
         <Direction>
-          <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Left>true</Left>
           <Right>true</Right>
-          <Up>true</Up>
         </Direction>
         <Direction>
+          <Right>true</Right>
           <Left>true</Left>
           <Up>true</Up>
         </Direction>
         <Direction>
           <Up>true</Up>
+          <Left>true</Left>
+        </Direction>
+        <Direction>
           <Down>true</Down>
+          <Up>true</Up>
         </Direction>
       </Directions>
     </TalentRow>
@@ -138,18 +141,18 @@ One of the greatest challenges for the Alliance is that of supply; the best Quar
       </Talents>
       <Directions>
         <Direction>
-          <Right>true</Right>
           <Up>true</Up>
-        </Direction>
-        <Direction>
-          <Left>true</Left>
-        </Direction>
-        <Direction>
           <Right>true</Right>
         </Direction>
         <Direction>
           <Left>true</Left>
+        </Direction>
+        <Direction>
+          <Right>true</Right>
+        </Direction>
+        <Direction>
           <Up>true</Up>
+          <Left>true</Left>
         </Direction>
       </Directions>
     </TalentRow>

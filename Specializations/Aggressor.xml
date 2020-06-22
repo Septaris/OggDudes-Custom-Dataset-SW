@@ -4,11 +4,11 @@
   <Name>Aggressor</Name>
   <Description>[H4]Aggressor[h4]
 
-The Aggressor relies on fear to intimidate his opposition into surrender or retreat. Aggressors tend to be tough and dangerous combatants, able to dish out brutal damage to anyone who fights them, while surviving the same. They use their confident, terrifying attitudes to convey this to their opponents. Some Aggressors hope their enemies back down without a fight, but others fall into the trap of relishing the fear they inspire. 
+The Aggressor relies on fear to intimidate his opposition into surrender or retreat. Aggressors tend to be tough and dangerous combatants, able to dish out brutal damage to anyone who fights them, while surviving the same. They use their confident, terrifying attitudes to convey this to their opponents. Some Aggressors hope their enemies back down without a fight, but others fall into the trap of relishing the fear they inspire.
 
-[P]Aggressors acquire [B]Coercion, Knowledge (Underworld), Ranged (Light),[b] and [B]Streetwise[b] as additional career skills. If this is the character's starting specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. These skills enable Aggressors to recognize the bravado shown by criminal enforcers and thugs. It also aids them in cowing these individuals, assuring these predators that the Force-sensitive character is a far scarier and more potent individual than they have previously faced. 
+[P]Aggressors acquire [B]Coercion, Knowledge (Underworld), Ranged (Light),[b] and [B]Streetwise[b] as additional career skills. If this is the character's starting specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. These skills enable Aggressors to recognize the bravado shown by criminal enforcers and thugs. It also aids them in cowing these individuals, assuring these predators that the Force-sensitive character is a far scarier and more potent individual than they have previously faced.
 
-[P]Tempered by the Force, some characters who undertake this specialization prefer to use their abilities to intimidate foes into surrender so they don't have to kill needlessly. While they are extremely capable in this regard, they frequently learn the techniques required to cause the bare minimum of damage necessary. Precision is important, as every life still holds value in the Force. 
+[P]Tempered by the Force, some characters who undertake this specialization prefer to use their abilities to intimidate foes into surrender so they don't have to kill needlessly. While they are extremely capable in this regard, they frequently learn the techniques required to cause the bare minimum of damage necessary. Precision is important, as every life still holds value in the Force.
 
 [P]When confronted by a foe that seems irredeemable, however, the Aggressor's attitude shifts appropriately. All elements of self-restraint are discarded, and the Aggressor is able to simply punish his foes, inflicting devastating blow after devastating blow. Often, opponents simply flee rather than engage an Aggressor. Stories told by survivors—and sometimes allies—add to the character's reputation, making it even easier to intimidate future enemies.</Description>
   <Source Page="99">Force and Destiny Core Rulebook</Source>
@@ -21,6 +21,7 @@ The Aggressor relies on fear to intimidate his opposition into surrender or retr
   </CareerSkills>
   <TalentRows>
     <TalentRow>
+      <Index>0</Index>
       <Cost>5</Cost>
       <Talents>
         <Key>INTIM</Key>
@@ -30,20 +31,33 @@ The Aggressor relies on fear to intimidate his opposition into surrender or retr
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>10</Cost>
       <Talents>
         <Key>FEARSOME</Key>
@@ -53,6 +67,7 @@ The Aggressor relies on fear to intimidate his opposition into surrender or retr
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
@@ -65,16 +80,20 @@ The Aggressor relies on fear to intimidate his opposition into surrender or retr
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>15</Cost>
       <Talents>
         <Key>FEARSOME</Key>
@@ -84,28 +103,33 @@ The Aggressor relies on fear to intimidate his opposition into surrender or retr
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>20</Cost>
       <Talents>
         <Key>GRIT</Key>
@@ -115,26 +139,33 @@ The Aggressor relies on fear to intimidate his opposition into surrender or retr
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>25</Cost>
       <Talents>
         <Key>FORCERAT</Key>
@@ -144,22 +175,63 @@ The Aggressor relies on fear to intimidate his opposition into surrender or retr
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
     </TalentRow>
   </TalentRows>
+  <Universal>false</Universal>
+  <Attributes>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
+    <Experience>0</Experience>
+    <ForceRating>0</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+    </Requirement>
+  </Attributes>
+  <Requirements>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
+    <Experience>0</Experience>
+    <ForceRating>0</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+    </Requirement>
+  </Requirements>
 </Specialization>

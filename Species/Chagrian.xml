@@ -142,13 +142,18 @@ know-how results in few Chagrian Engineers.</Description>
     <SkillModifier>
       <Key>RESIL</Key>
       <RankStart>1</RankStart>
+      <RankAdd>0</RankAdd>
       <RankLimit>2</RankLimit>
+      <isCareer>false</isCareer>
+      <SkillType />
     </SkillModifier>
   </SkillModifiers>
   <TalentModifiers>
     <TalentModifier>
       <Key>KNOWSPEC</Key>
+      <RankStart>0</RankStart>
       <RankAdd>1</RankAdd>
+      <RankLimit>0</RankLimit>
     </TalentModifier>
   </TalentModifiers>
   <OptionChoices>

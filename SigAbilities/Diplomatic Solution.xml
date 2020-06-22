@@ -3,10 +3,12 @@
   <Key>DIPLOMATICSOL</Key>
   <Name>Diplomatic Solution</Name>
   <Description>The ability to bring belligerent parties to the negotiating table is no task for the fainthearted, and it is absolutely indispensable to the work of Diplomats. This is especially true during the chaos of the Galactic Civil War, for agents of the Rebel Alliance must deal with all manner of dangerous characters. Whether with a warm smile, a stern command, or a withering glare, a Diplomat who has mastered this ability can make the most callous soldier of fortune or bounty hunter balk and holster his blaster.</Description>
-  <Source>Desperate Allies</Source>
+  <Source Page="38">Desperate Allies</Source>
+  <Sources />
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>DIPLOMATICSOLUTIONBASE</Key>
         <Key>DIPLOMATICSOLUTIONBASE</Key>
@@ -15,13 +17,27 @@
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
-        <Direction />
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
@@ -39,6 +55,7 @@
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>CHANGESKILL1DS</Key>
         <Key>REDUCESETBACKDS</Key>
@@ -47,19 +64,26 @@
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
@@ -78,6 +102,7 @@
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>ACTIVATIONDS</Key>
         <Key>REDUCEDIFFICULTYDS</Key>
@@ -86,22 +111,28 @@
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
       <AbilitySpan>

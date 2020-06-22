@@ -4,18 +4,19 @@
   <Name>Analyst</Name>
   <Description>[H4]Analyst - Connecting the Dots[h4]
 
-Knowledge is power, on the battlefield and in negotiations alike. The Analyst knows this (and a great many other things) better than anyone else. More importantly, the Analyst knows how to leverage such information to maximum effect, finding the trends and connections that turn otherwise meaningless facts into crucial intelligence that might someday decide the outcome of the Galactic Civil War. 
+Knowledge is power, on the battlefield and in negotiations alike. The Analyst knows this (and a great many other things) better than anyone else. More importantly, the Analyst knows how to leverage such information to maximum effect, finding the trends and connections that turn otherwise meaningless facts into crucial intelligence that might someday decide the outcome of the Galactic Civil War.
 
-[P]The Analyst gains [B]Computers, Knowledge (Education), Knowledge (Warfare),[b] and [B]Perception[b] as additional career skills. If this is the character's starting specialization, he may choose two of these skills, gaining one free rank in each without spending starting experience. These skills allow Analysts to not only parse and remember vast amounts of data, but also contextualize it in a way that makes the data useful. The Computers skill can be particularly valuable, allowing an Analyst to access archives and slice into communications systems to stay informed. The specialization's considerable access to Knowledge skills also allows an Analyst to know a bit about everything. 
+[P]The Analyst gains [B]Computers, Knowledge (Education), Knowledge (Warfare),[b] and [B]Perception[b] as additional career skills. If this is the character's starting specialization, he may choose two of these skills, gaining one free rank in each without spending starting experience. These skills allow Analysts to not only parse and remember vast amounts of data, but also contextualize it in a way that makes the data useful. The Computers skill can be particularly valuable, allowing an Analyst to access archives and slice into communications systems to stay informed. The specialization's considerable access to Knowledge skills also allows an Analyst to know a bit about everything.
 
-[P]Some Analysts focus their attention on one specific topic, such as mastering Rebel Alliance codes tracking data on its units in the field, or monitoring Imperial activity in specific regions via the HoloNet. Others act as liaisons to political and military leaders, using their considerable research experience to provide any information their allies need. 
+[P]Some Analysts focus their attention on one specific topic, such as mastering Rebel Alliance codes tracking data on its units in the field, or monitoring Imperial activity in specific regions via the HoloNet. Others act as liaisons to political and military leaders, using their considerable research experience to provide any information their allies need.
 
-[P]Experienced Analysts are crucial to the diplomatic success of the Rebel Alliance. Many politicians and leaders look to Analysts for key support, and some even have a background in such work themselves. Knowing the unique customs of a local culture can be crucial to the success of a diplomatic mission, so an Analyst must have access to this information at a moment's notice. Analysts can be equally important on the battlefield, identifying troop-movement patterns that betray the foe's strategy or providing information about local environmental conditions so the Quartermaster can properly equip infantry. Wherever they serve, the knowledge and skills of Analysts save lives as surely as the choices of commanders and the hands of medics. 
+[P]Experienced Analysts are crucial to the diplomatic success of the Rebel Alliance. Many politicians and leaders look to Analysts for key support, and some even have a background in such work themselves. Knowing the unique customs of a local culture can be crucial to the success of a diplomatic mission, so an Analyst must have access to this information at a moment's notice. Analysts can be equally important on the battlefield, identifying troop-movement patterns that betray the foe's strategy or providing information about local environmental conditions so the Quartermaster can properly equip infantry. Wherever they serve, the knowledge and skills of Analysts save lives as surely as the choices of commanders and the hands of medics.
 
-[P]Analysts work best when they have the opportunity to exhaustively research a subject before going into the field, but the work of the Rebel Alliance sometimes requires its representatives to improvise. Therefore, Analysts—especially those attached to squads with specializations and missions as diverse as most PC groups—must be prepared to work on the fly. Even without access to data archives or the HoloNet, a skilled Analyst can effectively observe and break down a situation, identifying ways the squad can exploit vulnerabilities in enemy strategies and technologies. 
+[P]Analysts work best when they have the opportunity to exhaustively research a subject before going into the field, but the work of the Rebel Alliance sometimes requires its representatives to improvise. Therefore, Analysts—especially those attached to squads with specializations and missions as diverse as most PC groups—must be prepared to work on the fly. Even without access to data archives or the HoloNet, a skilled Analyst can effectively observe and break down a situation, identifying ways the squad can exploit vulnerabilities in enemy strategies and technologies.
 
-[P]An Analyst benefits from a high Intellect characteristic for making Computers and Knowledge checks to access and remember information. A high Cunning also assists Perception checks to spot critical details. </Description>
+[P]An Analyst benefits from a high Intellect characteristic for making Computers and Knowledge checks to access and remember information. A high Cunning also assists Perception checks to spot critical details.</Description>
   <Source Page="28">Desperate Allies</Source>
+  <Sources />
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>COMP</Key>
@@ -25,6 +26,7 @@ Knowledge is power, on the battlefield and in negotiations alike. The Analyst kn
   </CareerSkills>
   <TalentRows>
     <TalentRow>
+      <Index>0</Index>
       <Cost>5</Cost>
       <Talents>
         <Key>RESEARCH</Key>
@@ -34,20 +36,33 @@ Knowledge is power, on the battlefield and in negotiations alike. The Analyst kn
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>10</Cost>
       <Talents>
         <Key>VALFACT</Key>
@@ -57,8 +72,10 @@ Knowledge is power, on the battlefield and in negotiations alike. The Analyst kn
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
@@ -74,11 +91,14 @@ Knowledge is power, on the battlefield and in negotiations alike. The Analyst kn
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>15</Cost>
       <Talents>
         <Key>KNOWSPEC</Key>
@@ -88,26 +108,33 @@ Knowledge is power, on the battlefield and in negotiations alike. The Analyst kn
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>20</Cost>
       <Talents>
         <Key>GRIT</Key>
@@ -117,6 +144,7 @@ Knowledge is power, on the battlefield and in negotiations alike. The Analyst kn
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
@@ -135,12 +163,14 @@ Knowledge is power, on the battlefield and in negotiations alike. The Analyst kn
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>25</Cost>
       <Talents>
         <Key>DEDI</Key>
@@ -150,20 +180,69 @@ Knowledge is power, on the battlefield and in negotiations alike. The Analyst kn
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
     </TalentRow>
   </TalentRows>
+  <Universal>false</Universal>
+  <Attributes>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
+    <Experience>0</Experience>
+    <ForceRating>0</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+      <WieldingMelee>false</WieldingMelee>
+      <WieldingBrawl>false</WieldingBrawl>
+      <WieldingLightsaber>false</WieldingLightsaber>
+    </Requirement>
+  </Attributes>
+  <Requirements>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
+    <Experience>0</Experience>
+    <ForceRating>0</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+      <WieldingMelee>false</WieldingMelee>
+      <WieldingBrawl>false</WieldingBrawl>
+      <WieldingLightsaber>false</WieldingLightsaber>
+    </Requirement>
+  </Requirements>
 </Specialization>

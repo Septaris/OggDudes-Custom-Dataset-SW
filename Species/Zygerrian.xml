@@ -30,22 +30,62 @@ The Zygerrians are a sentient species of Near-Humans native of the planet Zygerr
     <Cunning>1</Cunning>
     <Willpower>2</Willpower>
     <Presence>3</Presence>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+    </Requirement>
   </StartingChars>
   <StartingAttrs>
     <WoundThreshold>11</WoundThreshold>
     <StrainThreshold>10</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
     <Experience>100</Experience>
+    <ForceRating>0</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+    </Requirement>
   </StartingAttrs>
   <SkillModifiers>
     <SkillModifier>
       <Key>COERC</Key>
       <RankStart>1</RankStart>
+      <RankAdd>0</RankAdd>
+      <RankLimit>0</RankLimit>
+      <isCareer>false</isCareer>
+      <Requirement>
+        <WearingArmor>false</WearingArmor>
+        <Career>false</Career>
+        <Specialization>false</Specialization>
+        <NonCareer>false</NonCareer>
+        <SoakAtLeast>0</SoakAtLeast>
+      </Requirement>
     </SkillModifier>
   </SkillModifiers>
   <TalentModifiers>
     <TalentModifier>
       <Key>FRENZ</Key>
+      <RankStart>0</RankStart>
       <RankAdd>1</RankAdd>
+      <RankLimit>0</RankLimit>
+      <Requirement>
+        <WearingArmor>false</WearingArmor>
+        <Career>false</Career>
+        <Specialization>false</Specialization>
+        <NonCareer>false</NonCareer>
+        <SoakAtLeast>0</SoakAtLeast>
+      </Requirement>
     </TalentModifier>
   </TalentModifiers>
+  <OptionChoices />
+  <WeaponModifiers />
+  <NoForceAbilities>false</NoForceAbilities>
 </Species>

@@ -8,7 +8,8 @@
 [P]Although Sathari average from 1.7 to 2 meters in height, they weigh significantly less than humans of similar size. Sathari skeletons are far less dense than those of most humanoid species, allowing them to move more quickly and dexterously, but leaving them more susceptible to fractures and other damage. Sathari possess four clawed digits, including one that is opposable, on their hands and three clawed toes, one of which is largely vestigial, on their feet.
 Like most species of large fauna that evolved on Arbooine, Sathari have four eyes.
 [P]Sathari speech is by turns measured and raucous. Conversations are often begin restrained, then suddenly burst into lively discussions that sound like chirping chaos to many outsiders. Sathari rhetoric and plans alike tend to be swift and exact. Most Sathari prefer to study a challenge for a long time before implementing an efficient solution rather than working in stops and starts and adapting the plan on the fly.</Description>
-  <Source>Chronicles of the Gatekeeper</Source>
+  <Source Page="15">Chronicles of the Gatekeeper</Source>
+  <Sources />
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>1</Brawn>
@@ -27,6 +28,7 @@ Like most species of large fauna that evolved on Arbooine, Sathari have four eye
     <SkillModifier>
       <Key>COORD</Key>
       <RankStart>1</RankStart>
+      <RankLimit>2</RankLimit>
     </SkillModifier>
   </SkillModifiers>
   <OptionChoices>

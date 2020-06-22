@@ -23,8 +23,8 @@ The humanoid, three-eyed Gran are a familiar sight throughout the galaxy. Freque
 
 [P][B]Language:[b] All Gran speak Gran and almost certainly Basic, since they love to talk to everyone. When necessary, Gran learn the languages of other species too, rather than miss any chances of conversation.</Description>
   <Sources>
-    <Source>Age of Rebellion Core Rulebook</Source>
-    <Source>Far Horizons</Source>
+    <Source Page="56">Age of Rebellion Core Rulebook</Source>
+    <Source Page="22">Far Horizons</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <StartingChars>
@@ -44,6 +44,7 @@ The humanoid, three-eyed Gran are a familiar sight throughout the galaxy. Freque
     <OptionChoice>
       <Key>GRANCH1</Key>
       <Name>Skills</Name>
+      <Description />
       <Options>
         <Option>
           <Key>GRANCH1OP1</Key>
@@ -53,6 +54,9 @@ The humanoid, three-eyed Gran are a familiar sight throughout the galaxy. Freque
             <SkillModifier>
               <Key>CHARM</Key>
               <RankStart>1</RankStart>
+              <RankAdd>0</RankAdd>
+              <RankLimit>0</RankLimit>
+              <isCareer>false</isCareer>
             </SkillModifier>
           </SkillModifiers>
         </Option>
@@ -64,6 +68,9 @@ The humanoid, three-eyed Gran are a familiar sight throughout the galaxy. Freque
             <SkillModifier>
               <Key>NEG</Key>
               <RankStart>1</RankStart>
+              <RankAdd>0</RankAdd>
+              <RankLimit>0</RankLimit>
+              <isCareer>false</isCareer>
             </SkillModifier>
           </SkillModifiers>
         </Option>
@@ -72,6 +79,7 @@ The humanoid, three-eyed Gran are a familiar sight throughout the galaxy. Freque
     <OptionChoice>
       <Key>GRANCH2</Key>
       <Name>Vision</Name>
+      <Description />
       <Options>
         <Option>
           <Key>GRANCH2OP1</Key>
@@ -81,4 +89,5 @@ The humanoid, three-eyed Gran are a familiar sight throughout the galaxy. Freque
       </Options>
     </OptionChoice>
   </OptionChoices>
+  <NoForceAbilities>false</NoForceAbilities>
 </Species>

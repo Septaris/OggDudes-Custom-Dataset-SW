@@ -52,6 +52,7 @@ Jawas are short rodent-like natives of Tatooine. They are passionate scavengers,
     <OptionChoice>
       <Key>JAWACH1</Key>
       <Name>Environment</Name>
+      <Description />
       <Options>
         <Option>
           <Key>JAWACH1OP1</Key>
@@ -63,6 +64,7 @@ Jawas are short rodent-like natives of Tatooine. They are passionate scavengers,
     <OptionChoice>
       <Key>JAWACH2</Key>
       <Name>Size</Name>
+      <Description />
       <Options>
         <Option>
           <Key>JAWACH2OP1</Key>

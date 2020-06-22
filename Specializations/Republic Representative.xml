@@ -11,14 +11,14 @@ Resolving the conflicts of thousands of civilizations across the galaxy is a col
 
 [P]To succeed in the Senate, a character with the specialization receives [B]Charm, Cool, Knowledge (choose any one),[b] and [B]Negotiation[b] as additional career skills. When a character takes this specialization the player chooses one Knowledge skill appropriate for the group the character represents to become a career skill. The Senate is a stressful and dangerous place, full of competing interests and shifting loyalties. The ability to keep one's head when being rebuked by a Senator is highly sought after, as is a composure that betrays no hint of betrayal when a political alliance is going sour.
 
-[P]A Senator's responsibilities keep them on Coruscant much of the time, while those of a Republic Representative often take them away from the Senate. As an intermediary between their homeworld and the heart of the Republic, a Republic Representative is often among the stars, visiting the people of their world or carrying out assignments for the Senator. They tend to be more worldly than the full Senators of the rotunda, and most develop a wide network of associates among the less politically active communities of their homeworld. 
+[P]A Senator's responsibilities keep them on Coruscant much of the time, while those of a Republic Representative often take them away from the Senate. As an intermediary between their homeworld and the heart of the Republic, a Republic Representative is often among the stars, visiting the people of their world or carrying out assignments for the Senator. They tend to be more worldly than the full Senators of the rotunda, and most develop a wide network of associates among the less politically active communities of their homeworld.
 
 [P]However, when a Senator has to step away from Coruscant for any reason, they appoint a highly regarded Republic Representative to act as their proxy and rake on all the roles and responsibilities of a full Senator in the interim. This is often seen as a mark of high esteem and a first step toward inheriting the position from the current Senator when their term ends.
 
 [P]As they are politicians, Republic Representatives rarely train in martial techniques. The intrigues of the Senate are complex enough that mastering its intricacies is a lifelong undertaking. Furthermore, the tenets of the Republic are ones of peace and democracy rather than strength and valor, so peaceful solutions are always preferred to violent confrontation. Truly skilled representatives don’t even need weapons to defend themselves, for the right words can defuse a dangerous situation. One might say that Republic Representatives are never truly unarmed—that their weapons are smooth charm and sharp critiques.
 </Description>
-  <Source Page="32">Rise of the Separatists</Source>
-  <Custom>AddedItem</Custom>
+  <Source Page="33">Rise of the Separatists</Source>
+  <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>CHARM</Key>
     <Key>COOL</Key>
@@ -29,9 +29,9 @@ Resolving the conflicts of thousands of civilizations across the galaxy is a col
       <Cost>5</Cost>
       <Talents>
         <Key>GRIT</Key>
-        <Key>LEVERAGE</Key>
+        <Key>LEVER</Key>
         <Key>KILL</Key>
-        <Key>RESDEG</Key>
+        <Key>RESPDEL</Key>
       </Talents>
       <Directions>
         <Direction />
@@ -49,7 +49,7 @@ Resolving the conflicts of thousands of civilizations across the galaxy is a col
       <Talents>
         <Key>NOBFOOL</Key>
         <Key>KILL</Key>
-        <Key>RESDEG</Key>
+        <Key>RESPDEL</Key>
         <Key>SMOOTHTALK</Key>
       </Talents>
       <Directions>
@@ -77,8 +77,8 @@ Resolving the conflicts of thousands of civilizations across the galaxy is a col
     <TalentRow>
       <Cost>15</Cost>
       <Talents>
-        <Key>TRANERR</Key>
-        <Key>LEVERAGE</Key>
+        <Key>TRANSERR</Key>
+        <Key>LEVER</Key>
         <Key>SMOOTHTALK</Key>
         <Key>NOBFOOL</Key>
       </Talents>
@@ -105,10 +105,10 @@ Resolving the conflicts of thousands of civilizations across the galaxy is a col
     <TalentRow>
       <Cost>20</Cost>
       <Talents>
-        <Key>CONOP</Key>
+        <Key>CONCOPT</Key>
         <Key>STNERV</Key>
         <Key>INTENSPRE</Key>
-        <Key>LEVERAGE</Key>
+        <Key>LEVER</Key>
       </Talents>
       <Directions>
         <Direction>
@@ -135,7 +135,7 @@ Resolving the conflicts of thousands of civilizations across the galaxy is a col
     <TalentRow>
       <Cost>25</Cost>
       <Talents>
-        <Key>IMPCONOP</Key>
+        <Key>CONCOPTIMP</Key>
         <Key>NATNEG</Key>
         <Key>DEDI</Key>
         <Key>BACKROOM</Key>
@@ -160,4 +160,10 @@ Resolving the conflicts of thousands of civilizations across the galaxy is a col
     </TalentRow>
   </TalentRows>
   <Universal>true</Universal>
+  <AddlCareerSkills>
+    <SkillCount>1</SkillCount>
+    <ChooseByType>true</ChooseByType>
+    <TypeValue>stKnowledge</TypeValue>
+    <SkillCount>1</SkillCount>
+  </AddlCareerSkills>
 </Specialization>

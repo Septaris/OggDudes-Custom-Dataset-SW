@@ -28,6 +28,8 @@ Thakwaash are an equinoid biped species from Thakwaa.
     <StrainThreshold>10</StrainThreshold>
     <Experience>100</Experience>
   </StartingAttrs>
+  <SkillModifiers />
+  <TalentModifiers />
   <OptionChoices>
     <OptionChoice>
       <Key>THAKWAASHCH1</Key>

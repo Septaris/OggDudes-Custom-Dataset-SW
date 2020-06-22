@@ -18,15 +18,14 @@ The difficulty of a hyperspace jump is based upon the area being targeted and th
 [P][AD] rolled as part of an Astrogation check are most commonly used to reduce the travel time. On extended journeys, they might be used to identify convenient stopovers en route, where the vessel can resupply or conduct additional business to help defray the overall cost of the trip. A [TR] could be spent to either complete Astrogation calculations in the minimum amount of time, or greatly reduce the travel time involved. It could also reveal some highly valuable but previously unknown information, such as a much better, alternative travel route. 
 
 [P]Likewise, [TH] generated on an Astrogation check could decrease the accuracy or increase the travel time of a hyperspace jump, or simply cause a character to miss relevant details when analyzing hyperspace routes or galactic maps. [DE] can be spent in the same way but to greater magnitude, or it could trigger something truly awful happening, such as jumping out of hyperspace in the path of an asteroid.</Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="104">Edge of the Empire Core Rulebook</Source>
       <Source Page="116">Age of Rebellion Core Rulebook</Source>
       <Source Page="114">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>INT</CharKey>
     <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
   </Skill>
   <Skill>
     <Key>ATHL</Key>
@@ -48,15 +47,14 @@ The difficulty of an Athletics check is set by the severity of the task and the 
 [P][TR] results on successful checks should allow the character to perform the check with truly impressive results—instead of heaving a boulder aside, he can hurl it bodily into the air, and instead of grabbing onto the edge of a hovering platform, the character could use his momentum to flip atop it, landing on his feet. 
 
 [P]As Athletics is usually used to perform physical actions, [TH] and [DE] results should most often result in physical penalties. Small amounts of [TH] may cause the character to suffer strain, while larger amounts of [TH] may cause the character to fall prone, or even suffer a wound from sprains and bruises. [TH] could even inflict a Critical Injury, chosen by the GM to be thematic or rolled randomly. </Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="105">Edge of the Empire Core Rulebook</Source>
       <Source Page="117">Age of Rebellion Core Rulebook</Source>
       <Source Page="115">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>BR</CharKey>
     <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
   </Skill>
   <Skill>
     <Key>BRAWL</Key>
@@ -69,15 +67,14 @@ During some physical confrontations, a character seeks to incapacitate his foe w
 [P]In some conflicts, characters may be bound by the legal or social restrictions into fighting without weapons. Drawing a weapon could quickly escalate matters to a lethal fight and might have other repercussions, forcing the characters to depend upon their Brawl skill. 
 
 [P]Brawl is used in unarmed combat, see page 211 for more details about this. The difficulty of Brawl checks is Average [DI][DI] (the difficulty of all melee attacks) unless the opponent is incapable of resisting (in which case it might be easier at the GM's discretion). See page 204 for more details.</Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="120">Edge of the Empire Core Rulebook</Source>
       <Source Page="131">Age of Rebellion Core Rulebook</Source>
       <Source Page="129">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>BR</CharKey>
     <TypeValue>stCombat</TypeValue>
-    <Type>Combat</Type>
   </Skill>
   <Skill>
     <Key>CHARM</Key>
@@ -98,15 +95,14 @@ Charm is often an opposed check, using the subject's Presence and Cool, except i
 [P][AD] may be spent to affect unexpected subjects beyond the original target. These may be bystanders or others not directly involved in the scene, but who may aid the character in their own way. With a [TR], the player may choose to have a target NPC become a recurring character who remains predisposed to assist his character. This individual may not join the character's crew, but might offer a better than usual price for fencing goods, or may let certain legal charges slide. 
 
 [P][TH] and [DE] are, in a reverse fashion, harmful to a character's standing with those he is trying to sway. Threat may be spent to reduce the number of people the character is able to influence or to turn those affected negatively against the character. The GM may use [DE] to turn a single NPC against the character and to make him a minor recurring adversary.</Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="105">Edge of the Empire Core Rulebook</Source>
       <Source Page="117">Age of Rebellion Core Rulebook</Source>
       <Source Page="116">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>PR</CharKey>
     <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
   </Skill>
   <Skill>
     <Key>COERC</Key>
@@ -127,15 +123,14 @@ Coercion is an opposed check, resisted by the subject's Willpower and Discipline
 [P]By spending [AD][AD], the character may affect unexpected subjects beyond the original target. These may be bystanders or others not directly involved in the scene, but who may be cowed by the character as a result of witnessing the Coercion attempt. With [TR], the character may completely break the subject's willpower. The target's allegiance shifts to that of a subjugated ally of the acting character rather than an opponent. The newfound follower may be exploited to gain additional information, assets, or even a spy within the ranks of a former foe. However, if the betrayal is discovered, this forced loyalty may not be permanent.
 
 [P]Intimidation and strong-arm tactics are only as successful as the strength and thought behind the attempt. The GM may spend and to undermine the outcome of a characters Coercion attempt. Extra [TH] may be spent by the GM to represent a building resentment to the Coercing character. Regardless of the success or failure of the Coercion attempt, the subject may grow to despise the character as a result of being strong-armed. [DE], on the other hand, may be spent to represent the character slipping up and revealing something about his goals and motivations to the target. For instance, a character attempting to coerce a target to give up security codes for a Hutt shipping lane may let slip information concerning the cargo he is attempting to smuggle through Hutt space.</Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="106">Edge of the Empire Core Rulebook</Source>
       <Source Page="118">Age of Rebellion Core Rulebook</Source>
       <Source Page="116">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>WIL</CharKey>
     <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
   </Skill>
   <Skill>
     <Key>COMP</Key>
@@ -158,15 +153,14 @@ The difficulty for a Computers check is calculated based upon any defenses prese
 [P]The GM may spend [TH] generated on a character's Computers check to represent the character doing a poor job of concealing his presence in the system. Security systems are alerted to the presence of the character within the system, while other slicers attempting to discover evidence of the character's actions may add [BO] to their check for each [TH] generated by the character's initial Computers check.
 
 [P][DE] may be spent by a GM to represent the character leaving behind trace information of his own system in the computer system he was attempting to slice. For each [DE] generated by the character's Computer check, the GM may add [BO] to any future Computer checks in which an NPC uses the target system to slice the character's own computer system. </Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="107">Edge of the Empire Core Rulebook</Source>
       <Source Page="119">Age of Rebellion Core Rulebook</Source>
       <Source Page="118">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>INT</CharKey>
     <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
   </Skill>
   <Skill>
     <Key>COOL</Key>
@@ -189,15 +183,14 @@ There is rarely an extra [SU] on a Cool check, as it is generally used to oppose
 [P]A character who generates a [TR] result during a Cool check has not only stood unflinching as chaos erupts around him, but has actually come away better for it. For each [TR] result on a Cool check, the character may recover 3 strain. 
 
 [P]Sometimes a situation is so frantic that it can overwhelm even the most steadfast of souls. The GM may spend [TH] generated as a result of a Cool check to cause the character to miss a vital detail or event. For instance, if a character generates a [TH] during a duel, he may be so focused on his target that he fails to notice the target's ally on the sidelines pulling a weapon of his own. If the situation goes badly enough, the character may lose all sense of where he is and what he is doing, effectively succumbing to minor shell-shock. The GM may spend any [DE] generated on a Cool check to Stun the character for one round as he is overwhelmed by the chaos around him. </Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="108">Edge of the Empire Core Rulebook</Source>
       <Source Page="120">Age of Rebellion Core Rulebook</Source>
       <Source Page="118">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>PR</CharKey>
     <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
   </Skill>
   <Skill>
     <Key>COORD</Key>
@@ -219,15 +212,14 @@ Any additional [SU] received when using Coordination may be spent to increase th
 narrative flair, or granting additional benefits in the course of completing it. For example, instead of walking across a rope to get across a chasm, the character could cut the rope, swing across, and in doing so deny anyone the ability to follow him. 
 
 [P]To represent a character doing harm to his body in the process of a Coordination check, the GM could spend [TH] generated during that check to cause the character to lose his free maneuver for one round per Threat. [DE] represents something truly harmful happening to the character during his check. A character could suffer a wound as a result of [DE] during a Coordination check, or could lose a vital piece of equipment.</Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="109">Edge of the Empire Core Rulebook</Source>
       <Source Page="121">Age of Rebellion Core Rulebook</Source>
       <Source Page="119">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>AG</CharKey>
     <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
   </Skill>
   <Skill>
     <Key>CORE</Key>
@@ -242,15 +234,14 @@ Those worlds closest to the Galactic Core are generally considered to represent 
 &lt;li&gt;Characters who specialize in the transport and delivery of goods may make a Core Worlds check to identify which markets are the best places to sell or purchase a particular cargo. They may also recognize any worlds where such goods could be illegal. 
 &lt;/ul&gt;
 The difficulty of a Core Worlds check is generally proportionate to the rarity of the information involved. Common knowledge about Coruscant is far easier to recall than an obscure fact about a subsect on a minor moon.</Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="123">Edge of the Empire Core Rulebook</Source>
       <Source Page="134">Age of Rebellion Core Rulebook</Source>
       <Source Page="132">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>INT</CharKey>
     <TypeValue>stKnowledge</TypeValue>
-    <Type>Knowledge</Type>
   </Skill>
   <Skill>
     <Key>DECEP</Key>
@@ -269,15 +260,14 @@ Extra [SU] on a Deception attempt may be spent to extend the duration of the Dec
 [P][AD] may be used to increase the value of any goods or services gained through the action. The subject might simply believe that he is agreeing to fair terms with the liar. [TR] may be spent to fool the target into believing that the character is a trustworthy sort. Future Deception checks against the target do not require an opposed check, they are simply made at a baseline difficulty depending on the nature of the lie. 
 
 [P][TH] during a Deception check gives away a portion of the lie. Perhaps the target realizes that it has been lied to, but is unable to identify how much of the interaction is false, thereby becoming more suspicious of the character. [DE] may represent a more extreme example of this phenomenon; the target not only distrusts the character, but spreads the word of his deceit and harms his reputation amongst a small community of people. Additionally, the target may realize that he is being lied to and use the situation to his advantage, perhaps to insert some false information of his own. Perhaps the target is able to slip shoddy gear past the character by playing along with the lie.</Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="109">Edge of the Empire Core Rulebook</Source>
       <Source Page="121">Age of Rebellion Core Rulebook</Source>
       <Source Page="120">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>CUN</CharKey>
     <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
   </Skill>
   <Skill>
     <Key>DISC</Key>
@@ -299,15 +289,14 @@ Discipline is often used to oppose another's actions—where there is no roll—
 [P][AD] from a Discipline check may be spent to give the character an additional insight into the situation at hand. He might notice a particular vulnerability on a seemingly indomitable foe or an unusual pattern to the suppressing fire that gives the character a moment to leap from cover. Often, the sight of an ally looking danger in the eyes and refusing to blink is all it takes to bolster one's resolve. [TR] generated during a Discipline check may be spent to add [BO] to any Discipline checks made by the character's allies during the following round. 
 
 [P]The GM may spend [TH] generated during a Discipline check to undermine the character's resolve, perhaps inflicting a penalty on further actions in the face of distressing circumstances. [DE] may be spent to overwhelm the character entirely. In this case, the character is unable to perform more than a single maneuver during the following round of combat.</Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="110">Edge of the Empire Core Rulebook</Source>
       <Source Page="122">Age of Rebellion Core Rulebook</Source>
       <Source Page="120">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>WIL</CharKey>
     <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
   </Skill>
   <Skill>
     <Key>EDU</Key>
@@ -325,15 +314,14 @@ Among most of the races and cultures of the galaxy, achieving literacy is a cruc
 Education also represents a default Knowledge skill. Any time a question comes up that doesn't obviously fall under one of the other Knowledge skills, Education may be used to represent the character's understanding of a particular subject matter. 
 
 [P]The difficulty for an Education check is typically best represented by the rarity of the data in question. Characters who have a reference document at hand may receive substantial bonuses, but even using such a work requires an understanding of core principles. </Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="123">Edge of the Empire Core Rulebook</Source>
       <Source Page="135">Age of Rebellion Core Rulebook</Source>
       <Source Page="132">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>INT</CharKey>
     <TypeValue>stKnowledge</TypeValue>
-    <Type>Knowledge</Type>
   </Skill>
   <Skill>
     <Key>GUNN</Key>
@@ -348,15 +336,14 @@ Many weapons are simply too large for a person to carry. In order to bring such 
 &lt;li&gt;Complex targeting computers and automated weapons mounts are often used with large scale weapons. Operating this equipment also falls under Gunnery. 
 &lt;/ul&gt;
 Gunnery check difficulties are determined by the distance to the target or relative silhouettes, depending on the weapon fired. The difficulty may be modified by maneuvers the character makes and specific combat situational modifiers as described in [B]Chapter VI: Conflict and Combat[b].</Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="120">Edge of the Empire Core Rulebook</Source>
       <Source Page="131">Age of Rebellion Core Rulebook</Source>
       <Source Page="130">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>AG</CharKey>
     <TypeValue>stCombat</TypeValue>
-    <Type>Combat</Type>
   </Skill>
   <Skill>
     <Key>LEAD</Key>
@@ -379,15 +366,14 @@ The difficulty of a Leadership check is based on the complexity of the orders a 
 [P][AD] may be used to affect bystanders in addition to the target. With [TR], the player may choose to have the target NPC become a recurring character who decides to faithfully follow the acting character. This individual may decide to join the character's crew, offering his services as a permanent aide de camp. 
 
 [P]The GM may spend [TH] generated during a Leadership check to decrease the efficiency of the ordered actions, causing them to take longer or be done poorly. [DE] may be used to undermine the character's authority, damaging the character's ability to command the target or those who witnessed the attempt. Should a character accrue multiple [DE] on a single leadership check, the target may become a recurring thorn in the character's side, either by refusing future orders outright or turning others against the character. </Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="111">Edge of the Empire Core Rulebook</Source>
       <Source Page="123">Age of Rebellion Core Rulebook</Source>
       <Source Page="121">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>PR</CharKey>
     <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
   </Skill>
   <Skill>
     <Key>LTSABER</Key>
@@ -406,7 +392,6 @@ lightsabers as well as with derivative weapons such as light whips, guard shotos
     <Custom>DescOnly</Custom>
     <CharKey>BR</CharKey>
     <TypeValue>stCombat</TypeValue>
-    <Type>Combat</Type>
   </Skill>
   <Skill>
     <Key>LORE</Key>
@@ -420,15 +405,14 @@ Parts of the galaxy have been inhabited for more than a million years. During th
 &lt;li&gt;A character's knowledge of the legends associated with the exploits of an ancient hero is represented by the Lore skill. 
 &lt;/ul&gt;
 A Lore check's difficulty is assigned by the obscurity of the information. Well known legends may not even require a check, but the tales of a race that died out millennia ago may be nearly forgotten.</Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="123">Edge of the Empire Core Rulebook</Source>
       <Source Page="135">Age of Rebellion Core Rulebook</Source>
       <Source Page="132">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>INT</CharKey>
     <TypeValue>stKnowledge</TypeValue>
-    <Type>Knowledge</Type>
   </Skill>
   <Skill>
     <Key>MECH</Key>
@@ -449,15 +433,14 @@ At the Game Master's discretion, it may be impossible to complete a repair witho
 [P][AD] generated during a Mechanics check can mean especially high-quality repairs, possibly even making the item even higher quality than it originally was. This may grant [BO] when using the item, or even make it count as having the Superior quality for a session. [TR] earned on a Mechanics check may give a device an additional function, which is only good for a single use. Examples might include a temporary engine speed boost or a more powerful blaster shot. The nature and precise details of this temporary function are subject to the Game Master's discretion. Mechanics checks may have specific rules when applied to repairing starships and vehicles, see page 243. 
  
 [P][TH] during a Mechanics check may represent particularly shoddy repairs or temporary measures. The GM may spend [TH] to cause the target object or system to malfunction shortly after the Mechanics check is completed. [DE] may be spent to cause further harm to the target object or system, or to cause other components of the target to begin to malfunction. </Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="111">Edge of the Empire Core Rulebook</Source>
       <Source Page="124">Age of Rebellion Core Rulebook</Source>
       <Source Page="122">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>INT</CharKey>
     <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
   </Skill>
   <Skill>
     <Key>MED</Key>
@@ -478,15 +461,14 @@ The difficulty of the check is based on the target's current state of health. Se
 [P][AD] generated during a Medicine check may be spent to eliminate one strain from the target. [TR] generated during a Medicine check to heal a Critical Injury may also heal additional wounds, or vice versa.
 
 [P]A GM may use [TH] during a Medicine check to inflict strain on the target to represent the shock of the procedure or to increase the amount of time the procedure takes. [DE] represents a truly terrible accident, perhaps the character unintentionally inflicting further wounds on a target whom he was attempting to heal of a Critical Injury.</Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="112">Edge of the Empire Core Rulebook</Source>
       <Source Page="125">Age of Rebellion Core Rulebook</Source>
       <Source Page="122">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>INT</CharKey>
     <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
   </Skill>
   <Skill>
     <Key>MELEE</Key>
@@ -499,15 +481,14 @@ All ranged weapons require some sort of ammunition and many are loud. They typic
 [P]Any military training includes at least a basic course in melee combat preparation. In addition, characters who have spent time on primitive worlds may have learned to defend themselves with melee weapons. Aristocrats and nobles, in some systems, may also learn a number of melee techniques as part of their cultural traditions.
 
 [P]The difficulty of Melee checks is Average [DI][DI] (the difficulty of all melee attacks) unless the opponent is incapable of resisting (in which case it might be easier at the GM's discretion). The difficulty may be modified by maneuvers the character makes and specific combat situational modifiers as described in [B]Chapter VI: Conflict and Combat[b].</Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="121">Edge of the Empire Core Rulebook</Source>
       <Source Page="133">Age of Rebellion Core Rulebook</Source>
       <Source Page="131">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>BR</CharKey>
     <TypeValue>stCombat</TypeValue>
-    <Type>Combat</Type>
   </Skill>
   <Skill>
     <Key>NEG</Key>
@@ -528,15 +509,14 @@ Often, the easiest way to get someone's cooperation is by giving them exactly wh
 [P][AD] generated during a Negotiation check may be spent to earn unrelated boons from the target, either concessions if the check is failed, or extra perks if it is passed. With a [TR], the player may choose to have the target NPC become a regular client or specialist vendor. The NPC might thereafter keep an eye out for specific goods the PC may be interested in, or offer referrals to other clients in regards to the quality of his service. 
 
 [P][TH] during a Negotiation check may be spent to increase the cost of goods the character is attempting to purchase, to decrease the value of those he is trying to sell, or to shorten contracts he is trying to negotiate. A GM may spend [DE] to seriously sabotage the character's goals during the interaction; perhaps the character receives counterfeit goods or payment, or agrees to terms that are entirely beyond the scope of the negotiation.</Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="113">Edge of the Empire Core Rulebook</Source>
       <Source Page="125">Age of Rebellion Core Rulebook</Source>
       <Source Page="123">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>PR</CharKey>
     <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
   </Skill>
   <Skill>
     <Key>OUT</Key>
@@ -551,15 +531,14 @@ The systems of the Outer Rim are filled with independent worlds, often inhabited
 &lt;li&gt;At times when a character must interact with a person from an Outer Rim world, this knowledge skill could be used to determine the most appropriate social actions to take to establish a beneficial relationship. 
 &lt;/ul&gt;
 The difficulty for an Outer Rim check is based upon the obscurity of the world and goods in question. This may also be modified based upon the specificity of the question posed.</Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="124">Edge of the Empire Core Rulebook</Source>
       <Source Page="135">Age of Rebellion Core Rulebook</Source>
       <Source Page="133">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>INT</CharKey>
     <TypeValue>stKnowledge</TypeValue>
-    <Type>Knowledge</Type>
   </Skill>
   <Skill>
     <Key>PERC</Key>
@@ -581,15 +560,14 @@ Perception may be opposed by skills used for concealment or might have a difficu
 [P]An [AD] may be spent to recall additional information associated with the object noticed. Perhaps a passing familiarity with a field of study represents the reason why the character initially realized that something was out of place. A [TR] may be spent to notice details that can be useful later, so characters can gain [BO] on future interactions with the noticed element. 
 
 [P][TH] resulting from a Perception check may be spent by the GM to conceal a vital detail about the situation or environment from the character. A [DE] may be spent to cause the character to obtain false information about his surroundings or the target in question.</Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="114">Edge of the Empire Core Rulebook</Source>
       <Source Page="126">Age of Rebellion Core Rulebook</Source>
       <Source Page="124">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>CUN</CharKey>
     <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
   </Skill>
   <Skill>
     <Key>PILOTPL</Key>
@@ -610,15 +588,14 @@ The difficulty of a Piloting (Planetary) check may be determined based upon the 
 [P][AD] generated during a Piloting (Planetary) check may be spent to reveal a vulnerability in an opponent's piloting style or vehicle, giving the character a benefit in later rounds of combat. [TR] on a Piloting (Planetary) check may be used to let the character take an additional maneuver action while continuing to pilot a vehicle. 
 
 [P]A GM may spend [TH][TH] during a Piloting (Planetary) check to give opponents [BO] on checks against the character and his vehicle to represent a momentary malfunction in one of the vehicle's systems. [TR] may be spent to deal actual damage to the vehicle, as the character strains systems throughout the vehicle during his check.</Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="115">Edge of the Empire Core Rulebook</Source>
       <Source Page="126">Age of Rebellion Core Rulebook</Source>
       <Source Page="124">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>AG</CharKey>
     <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
   </Skill>
   <Skill>
     <Key>PILOTSP</Key>
@@ -639,15 +616,14 @@ The difficulty of a Piloting (Space) check may be determined based upon the diff
 [P][AD] generated during a Piloting (Space) check may be spent to reveal a vulnerability in an opponent's piloting style or vehicle, giving the character a benefit in later rounds of combat. A [TR] on a Piloting (Space) check may be used to let the character take an additional maneuver action while continuing to pilot a vehicle. 
 
 [P]A GM may spend two [TH] during a Piloting (Space) check to give opponents [BO] on checks against the character and his vehicle to represent a momentary malfunction in one of the vehicle's systems. [DE] may be spent to deal actual damage to the vehicle, as the character strains systems throughout the vehicle during his check. </Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="116">Edge of the Empire Core Rulebook</Source>
       <Source Page="127">Age of Rebellion Core Rulebook</Source>
       <Source Page="125">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>AG</CharKey>
     <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
   </Skill>
   <Skill>
     <Key>RANGHVY</Key>
@@ -662,15 +638,14 @@ When firing upon a target from range, weapons that are held with two hands offer
 &lt;li&gt;Ranged (Heavy) weapons inflict wounds upon targets by default. A subset of the weapons in this category may have a stun option, as do some specialized stun-only weapons.
 &lt;/ul&gt;
 Ranged (Heavy) check difficulties are determined by the distance to the target. The difficulty may be modified by maneuvers the character makes and specific combat situational modifiers as described in [B]Chapter VI: Conflict and Combat[b].</Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="121">Edge of the Empire Core Rulebook</Source>
       <Source Page="133">Age of Rebellion Core Rulebook</Source>
       <Source Page="131">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>AG</CharKey>
     <TypeValue>stCombat</TypeValue>
-    <Type>Combat</Type>
   </Skill>
   <Skill>
     <Key>RANGLT</Key>
@@ -686,15 +661,14 @@ Many characters prefer to wield a weapon that can be effectively held with one h
 &lt;li&gt;Characters may wield a Ranged (Light) weapon in each hand, or wield a melee weapon that can reasonably be used one-handed and a Ranged (Light) weapon in the other hand. See page 210 for more information. 
 &lt;/ul&gt;
 Ranged (Light) check difficulties are determined by the distance to the target. The difficulty may be modified by maneuvers the character makes and specific combat situational modifiers as described in [B]Chapter VI: Conflict and Combat[b]. </Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="122">Edge of the Empire Core Rulebook</Source>
       <Source Page="133">Age of Rebellion Core Rulebook</Source>
       <Source Page="131">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>AG</CharKey>
     <TypeValue>stCombat</TypeValue>
-    <Type>Combat</Type>
   </Skill>
   <Skill>
     <Key>RESIL</Key>
@@ -716,15 +690,14 @@ The difficulty for a Resilience check is based upon the severity of the effects 
 [P]An [AD] earned on a Resilience check may be used to identify a way for the character and his allies to reduce the difficulty of future checks against the same threat, while a [TR] may be spent to recover three strain as the character resolves to work through the adversity. 
 
 [P]The GM may spend [TH] generated during a Resilience check to overburden the character, inflicting penalties on subsequent checks. [DE] may be spent to inflict a wound or a minor Critical Injury on the character as he succumbs to the harsh conditions.</Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="116">Edge of the Empire Core Rulebook</Source>
       <Source Page="127">Age of Rebellion Core Rulebook</Source>
       <Source Page="125">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>BR</CharKey>
     <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
   </Skill>
   <Skill>
     <Key>SKUL</Key>
@@ -743,15 +716,14 @@ Skulduggery is often opposed by a target's Perception. In instances where anothe
 [P]A character may spend [AD] earned on a Skulduggery check to identify an additional potential target, or gain additional items. Perhaps as the characters make good their escape, they discover their opponent's cache of antique weapons. A [TR] may be spent to earn the character a boon he had not expected. In such cases, the value of the item stolen might exceed his expectations, and might also provide vital information. When using Skulduggery to pick a lock, the character might devise a near permanent means of overcoming the lock, perhaps by crafting a makeshift key or by getting access to the actual key itself. 
 
 [P]By generating [TH] during a Skulduggery check, a character gives the GM the opportunity to catch him immediately after the act. Depending on the amount of Threat spent by the GM, the character will be in varying degrees of danger; the more Threat, the more immediate the discovery and ensuing danger. The GM may spend [DE] to cause the character to leave behind some evidence of his larceny. Perhaps a recognizable piece of adornment, such as the character's heirloom ring, slips off into the target's pocket as the character attempts to pick it.</Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="116">Edge of the Empire Core Rulebook</Source>
       <Source Page="128">Age of Rebellion Core Rulebook</Source>
       <Source Page="126">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>CUN</CharKey>
     <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
   </Skill>
   <Skill>
     <Key>STEAL</Key>
@@ -774,15 +746,14 @@ The difficulty of a Stealth check often depends on the abilities of those the ch
 [P][AD] may be spent to decrease the amount of time required to perform a given task while using the Stealth skill. This could represent the character finding superior cover, giving him the ability to move faster while remaining out of sight, or successfully distracting a key figure to give him access to his target. Under the right circumstances, a character may spend a [TR] to identify a way to completely distract an opponent for the duration of the scene. This could allow the character to drop all pretense of Stealth in favor of completing a task far more swiftly. 
 
 [P]The GM may spend [TH] generated during a Stealth check to hinder the character as he attempts to remain hidden. The character may need to overcome a particularly unpleasant obstacle or take extra time to remain out of sight. The GM may increase the time it takes for the character to perform his desired action while hidden by 25% per [TH] spent in this way. The GM may spend [DE] to cause the character to leave behind some evidence of his passing. While this has no bearing on the success or failure of his Stealth check, some object, clue, or information is left behind concerning the character's identity and possibly even his motive.</Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="117">Edge of the Empire Core Rulebook</Source>
       <Source Page="128">Age of Rebellion Core Rulebook</Source>
       <Source Page="126">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>AG</CharKey>
     <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
   </Skill>
   <Skill>
     <Key>SW</Key>
@@ -801,15 +772,14 @@ Generally, Knowledge (Underworld) governs specific information and facts involvi
 [P][AD] may reveal additional rumors or alternative sources that can be used to find something. [TR] may be spent to earn the character a semi-permanent contact on the street, someone to whom the character may turn for information regularly with a reasonable assurance of trust. 
 
 [P]The GM may spend [TH] generated during a Streetwise check to seed the gathered information with minor falsehoods, representing the ever-changing nature of information passed by word of mouth on the street. [DE] may be spent to represent a character letting slip details about himself or the information he seeks, information that may be picked up by an adversary.</Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="118">Edge of the Empire Core Rulebook</Source>
       <Source Page="130">Age of Rebellion Core Rulebook</Source>
       <Source Page="127">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>CUN</CharKey>
     <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
   </Skill>
   <Skill>
     <Key>SURV</Key>
@@ -831,15 +801,14 @@ The difficulty for a Survival check is dependent upon the severity of the enviro
 [P][AD] may be spent to gain an insight into the environment that makes future Survival checks easier. This might be a watering hole where prey is common, an abandoned cave that makes an excellent shelter, or a grove of biocompatible fruit trees. When tracking, an [AD] may be spent to learn a detail about the target, its numbers, its species, or how recently tracks were made. [TR] generated during a Survival check to handle animals may be spent to permanently predispose the target animal towards the character in a positive way, effectively earning the character a loyal companion. While tracking, [TR] may be spent to learn a vital clue about the target, whether his destination, his disposition, or the presence of prisoners or cargo. 
 
 [P]The GM may spend [TH] generated on a Survival check to represent the character spending vital resources during the course of his check, perhaps using food as bait to catch game, or losing fuel in an attempt to make a fire. [DE] may be spent to inflict wounds, Critical Injuries, or high levels of strain on the character as he succumbs to the untamed environments of the galaxy.</Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="119">Edge of the Empire Core Rulebook</Source>
       <Source Page="130">Age of Rebellion Core Rulebook</Source>
       <Source Page="128">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>CUN</CharKey>
     <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
   </Skill>
   <Skill>
     <Key>UND</Key>
@@ -852,15 +821,14 @@ In some places, criminal elements control the government through less than legal
 &lt;li&gt;The Underworld skill may be used to know which nearby worlds are the best locations for a particular type of illegal business. 
 &lt;li&gt;A familiarity with Underworld may be useful if the characters need to determine the most common methods that an opponent might use for a particular type of criminal activity. 
 &lt;/ul&gt;When the criminal nature of a location or individual is well known, recalling the relevant data should be easy. The difficulty of the task should be much more challenging if the individual has gone to lengths to conceal his illegal activities.</Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="124">Edge of the Empire Core Rulebook</Source>
       <Source Page="136">Age of Rebellion Core Rulebook</Source>
       <Source Page="133">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>INT</CharKey>
     <TypeValue>stKnowledge</TypeValue>
-    <Type>Knowledge</Type>
   </Skill>
   <Skill>
     <Key>VIGIL</Key>
@@ -880,15 +848,14 @@ The difficulty for a Vigilance check is typically modified by the likelihood of 
 [P]Characters may spend [AD] on a Vigilance check to notice an environmental factor that could play a key part in the relevant scene. This might be excellent cover, a convenient escape route, or something that could be used to distract a foe. [TR] may be spent to allow the character to take an extra maneuver during the first round of a combat, as his keen awareness alerts him to a situation before it even arises. See page 200 for more information, and remember characters can only take a maximum of two maneuvers in their turn.
 
 [P]The GM may spend [TH] generated during a Vigilance check to cause the character to miss a key piece of information about the situation or the environment, blinding him to a possible advantage. The GM may spend [DE] to make the character unable to perform more than a single maneuver during the first round of combat.</Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="119">Edge of the Empire Core Rulebook</Source>
       <Source Page="130">Age of Rebellion Core Rulebook</Source>
       <Source Page="129">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>WIL</CharKey>
     <TypeValue>stGeneral</TypeValue>
-    <Type>General</Type>
   </Skill>
   <Skill>
     <Key>XEN</Key>
@@ -903,15 +870,14 @@ The motivations, biological origins, and philosophies of the galaxy's varied spe
 &lt;li&gt;Different species need substantially different environmental conditions and foodstuffs. A Xenology check may allow a character to offer the appropriate considerations to a guest. 
 &lt;/ul&gt;
 The difficulty for a Xenology check should be based upon both how often the acting character interacts with the members of the species in question and the relative rarity of that species.</Description>
-    <Custom>DescOnly</Custom>
     <Sources>
       <Source Page="125">Edge of the Empire Core Rulebook</Source>
       <Source Page="137">Age of Rebellion Core Rulebook</Source>
       <Source Page="133">Force and Destiny Core Rulebook</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <CharKey>INT</CharKey>
     <TypeValue>stKnowledge</TypeValue>
-    <Type>Knowledge</Type>
   </Skill>
   <Skill>
     <Key>WARF</Key>
@@ -929,7 +895,6 @@ The difficulty of the Warfare check is based upon how hard it would be to acquir
     <Custom>DescOnly</Custom>
     <CharKey>INT</CharKey>
     <TypeValue>stKnowledge</TypeValue>
-    <Type>Knowledge</Type>
   </Skill>
   <Skill>
     <Key>CYBERNETICS</Key>

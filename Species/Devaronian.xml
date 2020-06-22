@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Species xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" encoding="utf-8" ?>
+<Species>
   <Key>DEVAR</Key>
   <Name>Devaronian</Name>
   <Description>
@@ -33,8 +33,11 @@ of dangerous predators, which continue to thrive on the largely Civilized world.
 [P]These tendtrils often reach the uppermost levels of the jungle and even conceal the basic terrain far below. The natural passageways these create make travel through the jungle far easier than it is on worlds with similarly lush biospheres, and while predators are a threat to travelers far from a city or town, there are few creatures on Devaron that cannot be dispatched with a well-placed blaster shot. Further, the biodiversity of the jungles offers Devaronians numerous advantages, economic and otherwise, especially in a galaxy where many worlds have been reshaped into vast, planet-spanning cities. Devaron has a few industrial centers and some large cities, but many Devaronians live in small, tight knit villages and survive by hunting and cultivating crops in the jungle. Thanks to Devaron's long and ongoing invlolvement in galactic exploration and trade, however, certain technologies are widespread, making survival in the jungle far easier for the current generation than it was for their anvient ancestors, who lacked such equipment.
 [P][B]Language:[b] Nearly all Devaronians are fluent in Basic though some speak localized dialects specific to their culture on Devaron. Relatively few study the ancestral language of Devaronese.
 [P][B]Life on the Fringe:[b] Devaronians have become increasingly prominent in the less civilized portions of the Outer Rim over the last few decades, in part because of the Empire's distrust of aliens of all sorts. The legends associated with their appearance—as well as their natural durability—make them desirable as Hired Guns, particularly among less savory elements of society. Devaronian resourcefulness also suits as the lifestyles of Explorers, Colonists, and Bounty Hunters.</Description>
-  <Source Page="100">Nexus of Power</Source>
-  <Custom>CustomItem</Custom>
+  <Sources>
+    <Source Page="100">Nexus of Power</Source>
+    <Source Page="23">No Disintegrations</Source>
+  </Sources>
+  <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>2</Agility>
@@ -48,6 +51,10 @@ of dangerous predators, which continue to thrive on the largely Civilized world.
     <StrainThreshold>10</StrainThreshold>
     <Experience>95</Experience>
   </StartingAttrs>
+  <SkillModifiers>
+  </SkillModifiers>
+  <TalentModifiers>
+  </TalentModifiers>
   <OptionChoices>
     <OptionChoice>
       <Key>DEVABSK</Key>

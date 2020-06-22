@@ -42,6 +42,7 @@ Selkath are the native species of the planet Manaan. An amphibious species, they
     <OptionChoice>
       <Key>SELKATHCH1</Key>
       <Name>Skills</Name>
+      <Description />
       <Options>
         <Option>
           <Key>SELKATHCH1OP1</Key>
@@ -54,6 +55,7 @@ one free rank in Medicine.</Description>
               <RankStart>1</RankStart>
             </SkillModifier>
           </SkillModifiers>
+          <TalentModifiers />
         </Option>
         <Option>
           <Key>SELKATHCH1OP2</Key>
@@ -66,12 +68,14 @@ one free rank in Negotiation.</Description>
               <RankStart>1</RankStart>
             </SkillModifier>
           </SkillModifiers>
+          <TalentModifiers />
         </Option>
       </Options>
     </OptionChoice>
     <OptionChoice>
       <Key>SELKATHCH2</Key>
       <Name>Swim</Name>
+      <Description />
       <Options>
         <Option>
           <Key>SELKATHCH2OP1</Key>

@@ -40,6 +40,7 @@ The Ortolans, elephantine bipeds, have a distinctive appearance, reinforced by t
   <StartingAttrs>
     <WoundThreshold>10</WoundThreshold>
     <StrainThreshold>10</StrainThreshold>
+    <SoakValue>0</SoakValue>
     <Experience>100</Experience>
   </StartingAttrs>
   <SkillModifiers>
@@ -48,10 +49,12 @@ The Ortolans, elephantine bipeds, have a distinctive appearance, reinforced by t
       <RankStart>1</RankStart>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers />
   <OptionChoices>
     <OptionChoice>
       <Key>ORTOLANCH1</Key>
       <Name>Resilience</Name>
+      <Description />
       <Options>
         <Option>
           <Key>ORTOLANCH1OP1</Key>
@@ -65,6 +68,7 @@ the effects of any poison by one.</Description>
     <OptionChoice>
       <Key>ORTOLANCH2</Key>
       <Name>Perception</Name>
+      <Description />
       <Options>
         <Option>
           <Key>ORTOLANCH2OP1</Key>
@@ -83,6 +87,7 @@ on Perception checks.</Description>
     <OptionChoice>
       <Key>USERSPECIES4CH3</Key>
       <Name>Size</Name>
+      <Description />
       <Options>
         <Option>
           <Key>UORTOLANCH3OP1</Key>

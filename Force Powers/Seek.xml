@@ -6,10 +6,11 @@
     [H4]Force Power: Seek[h4]
 
 The Force user casts out with his mind's eye, searching for something lost, concealed, or forgotten. While countless different Force traditions across the galaxy have attached different practices and techniques to this power, from tribal cultures that use it to hunt prey-beasts to orders of assassins who seek out any who defy their orthodoxy, the basic ability remains the same: those who follow pathways of the Force can track down anything or anyone, regardless of the distance or eons that separate them from their quarry.</Description>
-  <Source>Force and Destiny Core Rulebook</Source>
+  <Source Page="302">Force and Destiny Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>SEEKBASICPOWER</Key>
         <Key>SEEKBASICPOWER</Key>
@@ -18,13 +19,29 @@ The Force user casts out with his mind's eye, searching for something lost, conc
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
-        <Direction />
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
-        <Direction />
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
       </Directions>
       <AbilitySpan>
         <Span>4</Span>
@@ -40,6 +57,7 @@ The Force user casts out with his mind's eye, searching for something lost, conc
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>SEEKMAGNITUDE</Key>
         <Key>SEEKMAGNITUDE</Key>
@@ -48,14 +66,27 @@ The Force user casts out with his mind's eye, searching for something lost, conc
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
-        <Direction />
         <Direction>
-          <Up>true</Up>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>true</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
@@ -73,6 +104,7 @@ The Force user casts out with his mind's eye, searching for something lost, conc
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>SEEKSTRENGTH</Key>
         <Key>SEEKMAGNITUDE</Key>
@@ -81,20 +113,28 @@ The Force user casts out with his mind's eye, searching for something lost, conc
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
       <AbilitySpan>
@@ -111,6 +151,7 @@ The Force user casts out with his mind's eye, searching for something lost, conc
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>SEEKCONTROL2</Key>
         <Key>SEEKSTRENGTH</Key>
@@ -119,6 +160,7 @@ The Force user casts out with his mind's eye, searching for something lost, conc
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
@@ -132,9 +174,13 @@ The Force user casts out with his mind's eye, searching for something lost, conc
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
@@ -152,6 +198,7 @@ The Force user casts out with his mind's eye, searching for something lost, conc
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>SEEKDURATION</Key>
         <Key>SEEKCONTROL3</Key>
@@ -160,14 +207,28 @@ The Force user casts out with his mind's eye, searching for something lost, conc
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
-        <Direction />
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
       <AbilitySpan>
@@ -184,4 +245,5 @@ The Force user casts out with his mind's eye, searching for something lost, conc
       </Costs>
     </AbilityRow>
   </AbilityRows>
+  <MinForceRating>1</MinForceRating>
 </ForcePower>

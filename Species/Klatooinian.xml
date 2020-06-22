@@ -21,7 +21,7 @@ Klatooinians are heavily built humanoids, roughly the height of the average huma
 [P]The primary feature of the planet is the Fountain of the Ancients, considered a holy site by all Klatooinians and the seat of secular and religious power. The Fountain is a fissure in the planet's crust that releases liquid wintrium into the dry atmosphere. Wintrium solidifies upon contact with the air and appears like water frozen in mid-flow, continually hardening with age to the point of near indestructibility. After many thousands of years, the Fountain of the Ancients has grown to be a wondrous sight—sprays and waves of liquid frozen in midair.
 
 [P][B]Language:[b] Klatooinians exclusively speak Huttese on their homeworld, their own language having been purged from their formal education, even on Klatooine. Klatooinians encountered off-planet most likely speak and write Huttese and Basic. Klatooinian scholars or diplomats speak additional languages as needed.</Description>
-  <Source>Dangerous Covenants</Source>
+  <Source Page="20">Dangerous Covenants</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
@@ -39,13 +39,13 @@ Klatooinians are heavily built humanoids, roughly the height of the average huma
   <OptionChoices>
     <OptionChoice>
       <Key>KLATOC1</Key>
-      <Name>Skill</Name>
+      <Name>Non-Career</Name>
       <Options>
         <Option>
           <Key>KLATOC1OP1</Key>
           <Name>Additional Non-Career Skill</Name>
           <Description>
-            Klatooninians start the game with one additional rank of one non careet skill of his choice.
+            Klatooninians start the game with one additional rank of one non-career skill of his choice.
           </Description>
           <StartingSkillTraining>
             <SkillTraining>
@@ -60,7 +60,7 @@ Klatooinians are heavily built humanoids, roughly the height of the average huma
     </OptionChoice>
     <OptionChoice>
       <Key>KLATOC2</Key>
-      <Name>Skills</Name>
+      <Name>Combat</Name>
       <Options>
         <Option>
           <Key>KLATOC2OP1</Key>

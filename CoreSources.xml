@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CoreSources>
+  <CoreSource>
+    <Key>EOTE</Key>
+    <Name>Edge of the Empire Core Rulebook</Name>
+  </CoreSource>
+  <CoreSource>
+    <Key>AOR</Key>
+    <Name>Age of Rebellion Core Rulebook</Name>
+  </CoreSource>
+  <!--<CoreSource>
+    <Key>FAD</Key>
+    <Name>Force and Destiny Beta Rulebook</Name>
+  </CoreSource>-->
+    <CoreSource>
+    <Key>FAD</Key>
+    <Name>Force and Destiny Core Rulebook</Name>
+  </CoreSource> 
+</CoreSources>

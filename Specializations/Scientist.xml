@@ -1,13 +1,13 @@
-<?xml version="1.0"?>
-<Specialization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" encoding="utf-8"?>
+<Specialization>
   <Key>SCIENTIST</Key>
   <Name>Scientist</Name>
   <Description>
     [H4]Scientist - Making New Things[h4]
 
-With a fraction of the resources and funding of the Empire, the Alliance is constantly forced to find creative solutions to problems. These problems include matters of supply, housing, transport, effective weaponry and defenses, and a host of others. The people they turn to for those creative solutions are those who are trained and driven to identify a need and seek out a technical solution to it—in other words, Scientists. 
+With a fraction of the resources and funding of the Empire, the Alliance is constantly forced to find creative solutions to problems. These problems include matters of supply, housing, transport, effective weaponry and defenses, and a host of others. The people they turn to for those creative solutions are those who are trained and driven to identify a need and seek out a technical solution to it—in other words, Scientists.
 
-[P]The additional career skills for Scientists are [B]Computers, Knowledge (Education), Knowledge (Lore),[b] and [B]Medicine[b]. If this is a first specialization, the PC gains a free rank in two of these skills. Unsurprisingly, Scientists are among the most educated people in the galaxy, with a wide range of advanced knowledge in areas such as medicine and celestial mechanics. 
+[P]The additional career skills for Scientists are [B]Computers, Knowledge (Education), Knowledge (Lore),[b] and [B]Medicine[b]. If this is a first specialization, the PC gains a free rank in two of these skills. Unsurprisingly, Scientists are among the most educated people in the galaxy, with a wide range of advanced knowledge in areas such as medicine and celestial mechanics.
 
 [P]Most Scientists pursue their work in labs, rarely venturing out into the greater galaxy. Their lives are spent on theories and research, pondering the latest mysteries of the universe comfortably away from conflict and strife. Some Scientists, however, seek the satisfaction of bringing their theories and their ideas into the galaxy in order to help others. They design solutions, help create of the technology to implement those solutions, and actively test and use those solutions alongside others who are also trying to help make life better.
 
@@ -22,6 +22,7 @@ With a fraction of the resources and funding of the Empire, the Alliance is cons
   </CareerSkills>
   <TalentRows>
     <TalentRow>
+      <Index>0</Index>
       <Cost>5</Cost>
       <Talents>
         <Key>KNOWSPEC</Key>
@@ -33,8 +34,10 @@ With a fraction of the resources and funding of the Empire, the Alliance is cons
         <Direction>
           <Down>true</Down>
         </Direction>
-        <Direction />
-        <Direction />
+        <Direction>
+        </Direction>
+        <Direction>
+        </Direction>
         <Direction>
           <Down>true</Down>
         </Direction>
@@ -51,9 +54,9 @@ With a fraction of the resources and funding of the Empire, the Alliance is cons
       </Talents>
       <Directions>
         <Direction>
-          <Right>true</Right>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
+          <Right>true</Right>
         </Direction>
         <Direction>
           <Left>true</Left>
@@ -62,8 +65,8 @@ With a fraction of the resources and funding of the Empire, the Alliance is cons
           <Right>true</Right>
         </Direction>
         <Direction>
-          <Left>true</Left>
           <Up>true</Up>
+          <Left>true</Left>
           <Down>true</Down>
         </Direction>
       </Directions>
@@ -79,8 +82,8 @@ With a fraction of the resources and funding of the Empire, the Alliance is cons
       </Talents>
       <Directions>
         <Direction>
-          <Right>true</Right>
           <Up>true</Up>
+          <Right>true</Right>
           <Down>true</Down>
         </Direction>
         <Direction>
@@ -90,9 +93,9 @@ With a fraction of the resources and funding of the Empire, the Alliance is cons
           <Right>true</Right>
         </Direction>
         <Direction>
+          <Down>true</Down>
           <Left>true</Left>
           <Up>true</Up>
-          <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
@@ -107,20 +110,20 @@ With a fraction of the resources and funding of the Empire, the Alliance is cons
       </Talents>
       <Directions>
         <Direction>
-          <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Left>true</Left>
-        </Direction>
-        <Direction>
           <Right>true</Right>
         </Direction>
         <Direction>
           <Left>true</Left>
+        </Direction>
+        <Direction>
+          <Right>true</Right>
+        </Direction>
+        <Direction>
           <Up>true</Up>
           <Down>true</Down>
+          <Left>true</Left>
         </Direction>
       </Directions>
     </TalentRow>
@@ -135,11 +138,7 @@ With a fraction of the resources and funding of the Empire, the Alliance is cons
       </Talents>
       <Directions>
         <Direction>
-          <Right>true</Right>
           <Up>true</Up>
-        </Direction>
-        <Direction>
-          <Left>true</Left>
           <Right>true</Right>
         </Direction>
         <Direction>
@@ -148,7 +147,11 @@ With a fraction of the resources and funding of the Empire, the Alliance is cons
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>true</Right>
+        </Direction>
+        <Direction>
           <Up>true</Up>
+          <Left>true</Left>
         </Direction>
       </Directions>
     </TalentRow>

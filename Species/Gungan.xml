@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Species xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" encoding="utf-8" ?>
+<Species>
   <Key>GUNGAN</Key>
   <Name>Gungan</Name>
   <Description>
@@ -15,15 +15,15 @@ while cities dominated by humans are located upon dry land. The two species have
 [P]Naboo’s oceans have a broad range of predators, including the sando aqua monster and the opee, both large enough to swallow a bongo sub in a single bite. Areas immediately surrounding their cities are largely secure, but extended journeys can incorporate a high degree of risk.
 [P][B]Languages:[b] All Gungans speak their native Gungan as well as Basic.
 [P][B]Perception of the Force:[b] Gungans do not have a native Force tradition or a strong tradition of membership in the Jedi Order. However, their cultural tendencies to live in connection with the natural world are consistent with an understanding of the Living Force. Gungan underwater cities are relatively isolated, even from Naboo’s human population. It is likely that Jedi simply failed to discover the majority of Gungan Force sensitives who might have joined the order.</Description>
-  <Source>Unofficial Species Menagerie</Source>
+  <Source Page="101">Nexus of Power</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
-    <Agility>3</Agility>
-    <Intellect>2</Intellect>
+    <Agility>2</Agility>
+    <Intellect>1</Intellect>
     <Cunning>2</Cunning>
     <Willpower>2</Willpower>
-    <Presence>1</Presence>
+    <Presence>3</Presence>
   </StartingChars>
   <StartingAttrs>
     <WoundThreshold>10</WoundThreshold>
@@ -32,40 +32,27 @@ while cities dominated by humans are located upon dry land. The two species have
   </StartingAttrs>
   <SkillModifiers>
     <SkillModifier>
-      <Key>COORD</Key>
+      <Key>ATHL</Key>
       <RankStart>1</RankStart>
       <RankLimit>2</RankLimit>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers>
+  </TalentModifiers>
   <OptionChoices>
     <OptionChoice>
-      <Key>GUNGAB2</Key>
-      <Name>Breath</Name>
+      <Key>GUNGAB1</Key>
+      <Name>Underwater</Name>
       <Options>
         <Option>
-          <Key>GUNGAB2OP1</Key>
-          <Name>Hold Breath</Name>
-          <Description>Gungans can hold their breath for
-          a number ofrounds equal to 10 times their Brawn
-        rating before they risk drowning.</Description>
-        </Option>
-      </Options>
-    </OptionChoice>
-    <OptionChoice>
-      <Key>GUNGAB3</Key>
-      <Name>Swim</Name>
-      <Options>
-        <Option>
-          <Key>GUNGAB3OP1</Key>
-          <Name>Natural Swimmers</Name>
-          <Description>
-            Gungans never suffer penalties to movement while traveling through water.
-          </Description>
+          <Key>GUNGAB1OP1</Key>
+          <Name>Amphibious</Name>
+          <Description>Gungans may breathe underwater without penalty and never suffer movement penalties for traveling through water.</Description>
         </Option>
       </Options>
     </OptionChoice>
   </OptionChoices>
-  <SubSpeciesList>
+  <!--<SubSpeciesList>
     <SubSpecies>
       <Key>GUNGSUB1</Key>
       <Name>Otolla</Name>
@@ -74,24 +61,6 @@ while cities dominated by humans are located upon dry land. The two species have
         retractable stalks.  Otolla skin is either
         orange or purple in hue.
       </Description>
-      <StartingChars>
-        <Brawn>-1</Brawn>
-        <Agility>-1</Agility>
-        <Intellect>-1</Intellect>
-        <Cunning>-1</Cunning>
-        <Willpower>-1</Willpower>
-        <Presence>-1</Presence>
-      </StartingChars>
-      <StartingAttrs>
-        <WoundThreshold>-1</WoundThreshold>
-        <StrainThreshold>-1</StrainThreshold>
-        <DefenseRanged>-1</DefenseRanged>
-        <DefenseMelee>-1</DefenseMelee>
-        <SoakValue>-1</SoakValue>
-        <Experience>-1</Experience>
-        <ForceRating>-1</ForceRating>
-      </StartingAttrs>
-      <CyberneticsAdjust>-100</CyberneticsAdjust>
     </SubSpecies>
     <SubSpecies>
       <Key>GUNGSUB2</Key>
@@ -101,24 +70,6 @@ while cities dominated by humans are located upon dry land. The two species have
         Like the Otolla, they also have long ears, which are sometimes tied together
         behind the head.
       </Description>
-      <StartingChars>
-        <Brawn>-1</Brawn>
-        <Agility>-1</Agility>
-        <Intellect>-1</Intellect>
-        <Cunning>-1</Cunning>
-        <Willpower>-1</Willpower>
-        <Presence>-1</Presence>
-      </StartingChars>
-      <StartingAttrs>
-        <WoundThreshold>-1</WoundThreshold>
-        <StrainThreshold>-1</StrainThreshold>
-        <DefenseRanged>-1</DefenseRanged>
-        <DefenseMelee>-1</DefenseMelee>
-        <SoakValue>-1</SoakValue>
-        <Experience>-1</Experience>
-        <ForceRating>-1</ForceRating>
-      </StartingAttrs>
-      <CyberneticsAdjust>-100</CyberneticsAdjust>
     </SubSpecies>
-  </SubSpeciesList>
+  </SubSpeciesList>-->
 </Species>

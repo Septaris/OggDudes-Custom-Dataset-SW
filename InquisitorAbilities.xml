@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<InquisitorAbilities>
+  <InquisitorAbility>
+    <Name>Aura of Command</Name>
+    <Description>
+      The Inquisitor may spend a maneuver to allow one allied minion group at medium range to immediately perform one maneuver or action.  Add [BOOST] to any actions they perform.
+    </Description>
+  </InquisitorAbility>
+  <InquisitorAbility>
+    <Name>Lightsaber Mastery (Agility)</Name>
+    <Description>
+      When making a lightsaber skill check, the Inquisitor may use Agility instead of Brawn.
+    </Description>
+    <LightsaberCharKey>AG</LightsaberCharKey>
+  </InquisitorAbility>
+  <InquisitorAbility>
+    <Name>Lightsaber Mastery (Intellect)</Name>
+    <Description>
+      When making a lightsaber skill check, the Inquisitor may use Intellect instead of Brawn.
+    </Description>
+    <LightsaberCharKey>INT</LightsaberCharKey>
+  </InquisitorAbility>
+  <InquisitorAbility>
+    <Name>Lightsaber Mastery (Cunning)</Name>
+    <Description>
+      When making a lightsaber skill check, the Inquisitor may use Cunning instead of Brawn.
+    </Description>
+    <LightsaberCharKey>CUN</LightsaberCharKey>
+  </InquisitorAbility>
+  <InquisitorAbility>
+    <Name>Lightsaber Mastery (Willpower)</Name>
+    <Description>
+      When making a lightsaber skill check, the Inquisitor may use Willpower instead of Brawn.
+    </Description>
+    <LightsaberCharKey>WIL</LightsaberCharKey>
+  </InquisitorAbility>
+  <InquisitorAbility>
+    <Name>Lightsaber Mastery (Presence)</Name>
+    <Description>
+      When making a lightsaber skill check, the Inquisitor may use Presence instead of Brawn.
+    </Description>
+    <LightsaberCharKey>PR</LightsaberCharKey>
+  </InquisitorAbility>
+  <InquisitorAbility>
+    <Name>Imperial Valor</Name>
+    <Description>
+      The Inquisitor may perform a maneuver to cause all ranged attacks targeting him to instead hit one ally or helpless enemy he is engaged with until the beginning of his next turn.
+    </Description>
+  </InquisitorAbility>
+  <InquisitorAbility>
+    <Name>Intimidating Presence</Name>
+    <Description>
+      All enemies at short range of the Inquisitor add [THREAT] to all skill checks they make.
+    </Description>
+  </InquisitorAbility>
+  <InquisitorAbility>
+    <Name>Terrifying</Name>
+    <Description>
+      At the beginning of an encounter, each of the Inquisitor's enemies must make a [B]Hard ([DI][DI][DI]) Fear check[b].
+    </Description>
+  </InquisitorAbility>
+  <InquisitorAbility>
+    <Name>Harm (Force Power)</Name>
+    <Description>
+      As an action, the Inquisitor may make a Force power check against one engaged target.  He may spend [FP] to inflict wounds equal to Intellect, ignoring soak.
+      The Inquisitor may spend [FP] to heal an equal number of wounds on himself or an engaged ally,
+      may spend [FP] to increase the range by one range band, and
+      may spend [FP] to increase the number of affected targets by one (all upgrades may be activated multiple times).
+    </Description>
+    <ForcePower>true</ForcePower>
+  </InquisitorAbility>
+  <InquisitorAbility>
+    <Name>Unleash (Force Power)</Name>
+    <Description>
+      As an action, the Inquisitor may make a Force power check against one enemy at short range, making an [B]Average ([DI][DI]) Discipline check[b] as part of the dice pool.
+      If successful, he may spend [FP][FP] to deal damage equal to Willpower with a critical rating of 4, dealing one additional damage per [SU].
+      The Inquisitor may spend [FP] to increase the range by one range band,
+      may spend [FP] to increase the number of affected targets by one, and
+      may spend [FP] to deal 3 additional damage (all upgrades may be activated multiple times).
+    </Description>
+    <ForcePower>true</ForcePower>
+  </InquisitorAbility>
+  <InquisitorAbility>
+    <Name>Move (Force Power)</Name>
+    <Description>
+      As an action, the Inquisitor may spend [FP] to move one silhouette 0 object within short range to another location within short range.
+      If successful, he may spend [FP][FP] to deal damage equal to Willpower with a critical rating of 4, dealing one additional damage per [SU].
+      The Inquisitor may spend [FP] to increase the range by one range band,
+      may spend [FP] to increase the silhouette of the object by 1, and
+      may spend [FP] to increase the number of objects he may move at one time by two (all upgrades may be activated multiple times).
+      Additionally, he may hurl an object at opponents making a [B]Discipline check[b] with a difficulty equal to the silhouette of the object.
+      If successful, the attack deals damage equal to the silhouette times 10 (silhouette 0 objects deal 5 damage), plus one for each [SU].
+      To hurl multiple objects, the Inquisitor must generate enough [FP] to move each object, and use Auto-Fire rules.
+    </Description>
+    <ForcePower>true</ForcePower>
+  </InquisitorAbility>
+  <InquisitorAbility>
+    <Name>Influence (Force Power)</Name>
+    <Description>
+      As an action, the Inquisitor may spend [FP] to inflict 2 strain (ignoring soak) to one engaged target.  This may be activated multiple times.
+      The Inquisitor may make an [B]opposed Discipline vs. Discipline check[b] combined with an [B]Influence power check[b].
+      If successful, he may spend [FP] to cause the target to adopt the emotional state of rage, fear, or hatred, or believe one untrue statement
+      for one round or five minutes.
+      He may spend [FP] to increase the duration by two additional rounds or ten additional minutes.
+    </Description>
+    <ForcePower>true</ForcePower>
+  </InquisitorAbility>
+</InquisitorAbilities>

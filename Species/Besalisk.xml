@@ -20,52 +20,44 @@ The four-armed Besalisks are one of the larger species galactic travelers are li
 [P][B]Life on the Fringe:[b] Besalisks living elsewhere in the galaxy often lead relatively solitary lives, though there is the occasional commune that has taken up a nomadic, deep-space existence. While their home-world isn't the most technologically advanced in the galaxy, Besalisks have an aptitude and creativity that makes them well-suited to a wide variety of jobs.
 [P]Besalisks can be found in almost any vocational position, from cantina owner to captain of a ship. Some Besalisks earn good credits as enforcers or security personnel simply based on their size and the number of intimidating weapons they can carry at once, even if most would be hard-pressed to fire more than one of these deadly firearms at a time. It is hard to brush off any threat backed by four oversized blasters. Of course, many Besalisks pursue more mundane jobs. Besalisk lawyers, doctors, traders and entrepreneurs can be found on many worlds across the galaxy.
 [P]Besalisks fall among the many species in the galaxy that are recognizable to the average Imperial citizen but rarely enounters. Self-styled Imperial nobility and other highly placd individuals are easily offended by Besalisk manners, such as they are. For their part, most Besalisk's don't care much about the petty disdain of such self-important people.</Description>
-  <Source>Unofficial Species Menagerie</Source>
+  <Source Page="20">Special Modifications</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>3</Brawn>
     <Agility>1</Agility>
     <Intellect>2</Intellect>
-    <Cunning>2</Cunning>
+    <Cunning>1</Cunning>
     <Willpower>2</Willpower>
     <Presence>2</Presence>
   </StartingChars>
   <StartingAttrs>
     <WoundThreshold>12</WoundThreshold>
-    <StrainThreshold>10</StrainThreshold>
-    <Experience>90</Experience>
+    <StrainThreshold>7</StrainThreshold>
+    <Experience>85</Experience>
   </StartingAttrs>
   <SkillModifiers>
     <SkillModifier>
       <Key>RESIL</Key>
       <RankStart>1</RankStart>
+      <RankAdd>0</RankAdd>
+      <RankLimit>2</RankLimit>
+      <isCareer>false</isCareer>
     </SkillModifier>
-  </SkillModifiers>
+  </SkillModifiers>     
+  <TalentModifiers />
   <OptionChoices>
     <OptionChoice>
       <Key>BESALISKCH1</Key>
-      <Name>Environment</Name>
-      <Options>
-        <Option>
-          <Key>BESALISKCH1OP1</Key>
-          <Name>Cold Conditions</Name>
-          <Description>When making skill checks, Besalisks may remove [SETBACK] imposed due to arctic or cold environmental conditions.</Description>
-        </Option>
-      </Options>
-    </OptionChoice>
-    <OptionChoice>
-      <Key>BESALISKCH2</Key>
       <Name>Combat</Name>
       <Options>
         <Option>
           <Key>BESALISKCH2OP1</Key>
-          <Name>Extra Limbs</Name>
-          <Description>
-            Besalisks may spend [ADVANTAGE][ADVANTAGE] on a successful Brawl attack to hit a second target engaged with it,
-            dealing the same damage as dealt to the original target.
-          </Description>
+          <Name>Additional Limbs</Name>
+          <Description>Besalisks have four arms and gain an additional free maneuver per turn.  They still may not perform more than two maneuvers per turn, however.</Description>
         </Option>
       </Options>
     </OptionChoice>
   </OptionChoices>
+  <WeaponModifiers />
+  <NoForceAbilities>false</NoForceAbilities>
 </Species>
