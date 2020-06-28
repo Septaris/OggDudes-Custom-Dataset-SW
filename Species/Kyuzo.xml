@@ -118,7 +118,11 @@ breakthroughs, or entirely unique expertise developed on, or off, Phatrong.</Des
   <StartingAttrs>
     <WoundThreshold>11</WoundThreshold>
     <StrainThreshold>11</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
     <Experience>90</Experience>
+    <ForceRating>0</ForceRating>
   </StartingAttrs>
   <SkillModifiers>
     <SkillModifier>
@@ -137,8 +141,11 @@ breakthroughs, or entirely unique expertise developed on, or off, Phatrong.</Des
           <Description>
             Once per round as a maneuver, may suffer 3 strain to leap horizontally or vertically to any location within medium range.
           </Description>
+          <DieModifiers>
+          </DieModifiers>
         </Option>
       </Options>
     </OptionChoice>
   </OptionChoices>
+  <WeaponModifiers />
 </Species>

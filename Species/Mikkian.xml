@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Species xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" encoding="utf-8"?>
+<Species>
   <Key>MIKKIAN</Key>
   <Name>Mikkian</Name>
   <Description>[H4]Mikkian[h4]
@@ -17,7 +17,7 @@ Mikkians are a diverse species characterized by a variety of bright skin tones a
 [P][B]Perception of the Force:[b] There exists a long history of the Force on Mikkia. Belief in the Force plays an important part in Mikkian religious traditions, and Force sensitives have often found a place in the priesthood, even during the time of the Jedi. Since the rise of the Empire, Mikkian spirituality has been a source of some trouble for the species, particularly since Mikkians are largely unwilling to hide or alter their beliefs to placate Imperial observers.
 [P]A positive view of the Jedi persists on Mikkia. Mikkians continue to honor the memory of ancestors and family who joined the Jedi. Lingering questions about the destruction of the order and the Empire's attempts to erase its legacy contribute to the strong anti-Imperial attitudes that prevail among Mikkians. Two decades of Imperial propaganda can scarcely sweep away millennia of cultural memory.</Description>
   <Source Page="20">Knights of Fate</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>1</Brawn>
     <Agility>2</Agility>
@@ -35,17 +35,20 @@ Mikkians are a diverse species characterized by a variety of bright skin tones a
     <SkillModifier>
       <Key>DISC</Key>
       <RankStart>1</RankStart>
+      <RankLimit>2</RankLimit>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers>
+  </TalentModifiers>
   <OptionChoices>
     <OptionChoice>
-      <Key>MIKKIANCH1</Key>
-      <Name>Physiology</Name>
+      <Key>MIKKIANAB1</Key>
+      <Name>Senses</Name>
       <Options>
         <Option>
-          <Key>MIKKIANCH1OP1</Key>
+          <Key>MIKKIANAB1OP1</Key>
           <Name>Sensory Tendrils</Name>
-          <Description>Mikkians add [BO] to all Perception checks they make.</Description>
+          <Description>Mikkians add [BO] to all Perception checks.</Description>
           <DieModifiers>
             <DieModifier>
               <SkillKey>PERC</SkillKey>

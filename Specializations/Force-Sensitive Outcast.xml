@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Specialization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" encoding="utf-8"?>
+<Specialization>
   <Key>FORCEOUTCAST</Key>
   <Name>Force-Sensitive Outcast</Name>
   <Description>[H4]Force-Sensitive Outcast[h4]
@@ -17,8 +17,8 @@ The Jedi and the Sith are not the sole masters of the Force. The Force awakens i
 
 [P]Many of a Force-Sensitive Outcast's combat skills are likely self-taught, making their battle techniques diverse and unpredictable. They often fight with a pieced-together combination of different formal lightsaber styles, remembering elements of their training (if they had any) and the maneuvers of other lightsaber-wielding combatants, and incorporating them into traditional sword-fighting techniques—with a fair amount of improvisation. A Force-Sensitive Outcast may be a less refined warrior than a Jedi or Sith, but they are no less deadly.
 </Description>
-  <Source Page="28">Rise of the Separatists</Source>
-  <Custom>AddedItem</Custom>
+  <Source Page="29">Rise of the Separatists</Source>
+  <Custom>DescOnly</Custom>
   <TalentRows>
     <TalentRow>
       <Cost>5</Cost>
@@ -47,7 +47,7 @@ The Jedi and the Sith are not the sole masters of the Force. The Force awakens i
         <Key>QUICKDR</Key>
         <Key>QUICKST</Key>
         <Key>DISOR</Key>
-        <Key>SECFORCE</Key>
+        <Key>SECRETFORCE</Key>
       </Talents>
       <Directions>
         <Direction>
@@ -94,6 +94,7 @@ The Jedi and the Sith are not the sole masters of the Force. The Force awakens i
         <Direction>
           <Left>true</Left>
           <Up>true</Up>
+          <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
@@ -119,6 +120,7 @@ The Jedi and the Sith are not the sole masters of the Force. The Force awakens i
           <Up>true</Up>
         </Direction>
         <Direction>
+          <Up>true</Up>
           <Down>true</Down>
         </Direction>
       </Directions>

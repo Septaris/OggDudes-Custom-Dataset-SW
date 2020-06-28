@@ -6,9 +6,9 @@
 
 While most Rebel Aces operate standard vehicles maintained by engineering crews, a surprising number bring their own private vehicles with them into a fight. The Rigger doesn't believe in risking his life from the seat of a stock-class anything, and is always adding, tweaking, and fine-tuning his vehicle not only to achieve the highest performance, but also to bring unexpected surprises with him to the battlefield.
 
-[P]Considering how outnumbered the Rebels find themselves in almost every engagement, it is no wonder that some of the Rebel Aces have taken it upon themselves to increase their survivability by learning about their vehicle. Riggers tend to have the highest rate of survivability in combat, and their offensive output at the start of a combat engagement can sometimes end a fight before it begins. 
-[P]Riggers receive [B]Gunnery, Knowledge (Underworld), Mechanics,[b] and [B]Resilience[b] as additional career skills. If this is the character's starting specialization, he gains one free rank in each of two of these skills of his choice, without spending experience. The Rigger is fascinated with the golden age of innovation in starship engineering that exists during the Galactic Civil War. He keeps up to date with the latest technical journals and even trolls shadowfeeds, following his favorite engineers. He has a number of friends in the underworld's outlaw tech community, who provide parts and kits to test on his vehicle of choice. If his ship is somehow blasted and left adrift, leave it to the Rigger to find some way to get it moving again. 
-[P]The Rigger is resilient in the face of a challenge, and usually turns to technology to find a solution to most problems he might encounter. The Rigger believes in his customized ship's ability to outperform any other vessel on the battlefield. He has painstakingly fine-tuned it to fly faster and further, hit harder, and take more punishment than the competition. Despite his impressive ability to mitigate damage done to his ship, a Rigger is a cautious pilot, and bemoans every dent and scratch his ship accrues during a battle. If a Rigger finds he is still somehow outgunned, he can jury-rig a special trick for the enemy on the fly to regain the technological advantage. 
+[P]Considering how outnumbered the Rebels find themselves in almost every engagement, it is no wonder that some of the Rebel Aces have taken it upon themselves to increase their survivability by learning about their vehicle. Riggers tend to have the highest rate of survivability in combat, and their offensive output at the start of a combat engagement can sometimes end a fight before it begins.
+[P]Riggers receive [B]Gunnery, Knowledge (Underworld), Mechanics,[b] and [B]Resilience[b] as additional career skills. If this is the character's starting specialization, he gains one free rank in each of two of these skills of his choice, without spending experience. The Rigger is fascinated with the golden age of innovation in starship engineering that exists during the Galactic Civil War. He keeps up to date with the latest technical journals and even trolls shadowfeeds, following his favorite engineers. He has a number of friends in the underworld's outlaw tech community, who provide parts and kits to test on his vehicle of choice. If his ship is somehow blasted and left adrift, leave it to the Rigger to find some way to get it moving again.
+[P]The Rigger is resilient in the face of a challenge, and usually turns to technology to find a solution to most problems he might encounter. The Rigger believes in his customized ship's ability to outperform any other vessel on the battlefield. He has painstakingly fine-tuned it to fly faster and further, hit harder, and take more punishment than the competition. Despite his impressive ability to mitigate damage done to his ship, a Rigger is a cautious pilot, and bemoans every dent and scratch his ship accrues during a battle. If a Rigger finds he is still somehow outgunned, he can jury-rig a special trick for the enemy on the fly to regain the technological advantage.
 [P]Most every team can benefit from a Rigger within their unit. Riggers bring a technological expertise that can apply to a variety of circumstances, and in combat, their vehicles are extremely durable offensive juggernauts. Riggers are also the only Ace to possess underworld contacts, which can prove useful for supplies, information, and even allies during missions. The biggest asset a Rigger brings to a team, though, is the element of surprise. Imperials don't expect an X-wing to have replaced its astromech slot with a bomb-bay—until the ordnance is already detonating across their carrier's bridge.</Description>
   <Source Page="30">Stay on Target</Source>
   <Custom>DescOnly</Custom>
@@ -20,6 +20,7 @@ While most Rebel Aces operate standard vehicles maintained by engineering crews,
   </CareerSkills>
   <TalentRows>
     <TalentRow>
+      <Index>0</Index>
       <Cost>5</Cost>
       <Talents>
         <Key>BLA</Key>
@@ -29,18 +30,33 @@ While most Rebel Aces operate standard vehicles maintained by engineering crews,
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
-        <Direction />
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>10</Cost>
       <Talents>
         <Key>GRIT</Key>
@@ -50,23 +66,33 @@ While most Rebel Aces operate standard vehicles maintained by engineering crews,
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>15</Cost>
       <Talents>
         <Key>BLA</Key>
@@ -76,11 +102,16 @@ While most Rebel Aces operate standard vehicles maintained by engineering crews,
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
@@ -90,11 +121,14 @@ While most Rebel Aces operate standard vehicles maintained by engineering crews,
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>20</Cost>
       <Talents>
         <Key>TOUGH</Key>
@@ -104,25 +138,33 @@ While most Rebel Aces operate standard vehicles maintained by engineering crews,
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>25</Cost>
       <Talents>
         <Key>DEDI</Key>
@@ -132,18 +174,63 @@ While most Rebel Aces operate standard vehicles maintained by engineering crews,
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
     </TalentRow>
   </TalentRows>
+  <Universal>false</Universal>
+  <Attributes>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
+    <Experience>0</Experience>
+    <ForceRating>0</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+    </Requirement>
+  </Attributes>
+  <Requirements>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
+    <Experience>0</Experience>
+    <ForceRating>0</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+    </Requirement>
+  </Requirements>
 </Specialization>

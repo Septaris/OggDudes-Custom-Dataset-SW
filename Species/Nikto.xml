@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Species xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Species>
   <Key>NIKTO</Key>
   <Name>Nikto</Name>
   <Description>[H4]Nikto[h4]
@@ -15,8 +15,8 @@ Perhaps the most well-known slaves of the Hutts, the fierce and humorless Niktos
 [P][B]Homeworld:[b] The Niktos evolved on Kintan, a planet in the Si'klaata Cluster. It is a world of varied climates and environments, from vast deserts and dry tundra to forested mountains and tropical archipelagoes. The unifying factor on Kintan is M'dweshuu and its radiation, which permeates the whole planet, causing strange mutations among the ecosystems. While the radiation levels are not lethal (at least not immediately), Kintan is still a dangerous, violent world. 
 
 [P][B]Language:[b] Unlike the Klatooinians and Vodrans, the Niktos have not abandoned their own language. Most Niktos are able to speak their native tongue, as well as Huttese. Many Niktos are also able to speak at least some Basic, though the limited articulation of their mouths can make them somewhat difficult to understand.</Description>
-  <Source>Lords of Nal Hutta</Source>
-  <Custom>CustomItem</Custom>
+  <Source Page="96">Lords of Nal Hutta</Source>
+  <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>3</Brawn>
     <Agility>2</Agility>
@@ -30,28 +30,13 @@ Perhaps the most well-known slaves of the Hutts, the fierce and humorless Niktos
     <StrainThreshold>10</StrainThreshold>
     <Experience>100</Experience>
   </StartingAttrs>
+  <OptionChoices>
+  </OptionChoices>
   <SubSpeciesList>
     <SubSpecies>
       <Key>NIKTOCH1OP1</Key>
       <Name>Kajain'sa'Nikto (Red Nikto)</Name>
-      <Description>Having evolved in the blasted expanse of the Endless Wastes, Red Niktos are adapted for this arid environment. The most common Nikto subspecies, Kajain'sa'Niktos have ruddy skin ranging from light orange to red and sport small facial horns on the brow and chin. A Red Nikto's nose is protected by a semi-permeable membrane that prevents sand inhalation. Similar membranes cover the breathing tubes on either side of the neck to reduce water vapor loss. This allows a Red Nikto to survive up to a week without fresh water.</Description>
-      <StartingChars>
-        <Brawn>-1</Brawn>
-        <Agility>-1</Agility>
-        <Intellect>-1</Intellect>
-        <Cunning>-1</Cunning>
-        <Willpower>-1</Willpower>
-        <Presence>-1</Presence>
-      </StartingChars>
-      <StartingAttrs>
-        <WoundThreshold>-1</WoundThreshold>
-        <StrainThreshold>-1</StrainThreshold>
-        <DefenseRanged>-1</DefenseRanged>
-        <DefenseMelee>-1</DefenseMelee>
-        <SoakValue>-1</SoakValue>
-        <Experience>-1</Experience>
-        <ForceRating>-1</ForceRating>
-      </StartingAttrs>
+      <Description>The most common subspecies, the Kajain'sa'Nikto or "Red Nikto", adapted to survive in the Wannschok, or "Endless Wastes", a desert region on Kintan. They have a series of forehead ridges and small facial horns surrounding their eyes and on the chin.</Description>
       <SkillModifiers>
         <SkillModifier>
           <Key>RESIL</Key>
@@ -71,35 +56,24 @@ Perhaps the most well-known slaves of the Hutts, the fierce and humorless Niktos
           </Options>
         </OptionChoice>
       </OptionChoices>
-      <CyberneticsAdjust>-100</CyberneticsAdjust>
     </SubSpecies>
     <SubSpecies>
       <Key>NIKTOCH1OP2</Key>
       <Name>Kadas'sa'Nikto (Green Nikto)</Name>
-      <Description>Originating in the forests and temperate coastal regions of Kintan, the Kadas'sa'Niktos have scaly green skin and a fringe of bony ridges terminating in small horns around the eyes and chin. Kadas'sa'Niktos have visible, highly sensitive noses and long claws for climbing.</Description>
-      <StartingChars>
-        <Brawn>-1</Brawn>
-        <Agility>-1</Agility>
-        <Intellect>-1</Intellect>
-        <Cunning>-1</Cunning>
-        <Willpower>-1</Willpower>
-        <Presence>-1</Presence>
-      </StartingChars>
-      <StartingAttrs>
-        <WoundThreshold>-1</WoundThreshold>
-        <StrainThreshold>-1</StrainThreshold>
-        <DefenseRanged>-1</DefenseRanged>
-        <DefenseMelee>-1</DefenseMelee>
-        <SoakValue>-1</SoakValue>
-        <Experience>-1</Experience>
-        <ForceRating>-1</ForceRating>
-      </StartingAttrs>
+      <Description>Kadas'sa'Nikto, or "Green Nikto," originated in the milder climatic regions of Kintan, such as the forests and the seacoasts. Their scaly faces have small facial horns surrounding the eyes and on the chin. Their main distinguishing features are the long climbing claws on their hands, which can also be used in combat.</Description>
       <SkillModifiers>
         <SkillModifier>
           <Key>COORD</Key>
           <RankStart>1</RankStart>
         </SkillModifier>
       </SkillModifiers>
+      <WeaponModifiers>
+        <WeaponModifier>
+          <AllSkillKey>BRAWL</AllSkillKey>
+          <DamageAdd>1</DamageAdd>
+          <Crit>3</Crit>
+        </WeaponModifier>
+      </WeaponModifiers>
       <OptionChoices>
         <OptionChoice>
           <Key>NIKTOSP2OC1</Key>
@@ -124,37 +98,11 @@ Perhaps the most well-known slaves of the Hutts, the fierce and humorless Niktos
           </Options>
         </OptionChoice>
       </OptionChoices>
-      <WeaponModifiers>
-        <WeaponModifier>
-          <AllSkillKey>BRAWL</AllSkillKey>
-          <DamageAdd>1</DamageAdd>
-          <Crit>3</Crit>
-          <Range>Engaged</Range>
-        </WeaponModifier>
-      </WeaponModifiers>
-      <CyberneticsAdjust>-100</CyberneticsAdjust>
     </SubSpecies>
     <SubSpecies>
       <Key>NIKTOCH1OP3</Key>
       <Name>Esral'sa'Nikto (Mountain Nikto)</Name>
-      <Description>The bluish-gray Esral'sa'Niktos, or Mountain Niktos, evolved in the mountainous hinterlands of Kintan. Prominent facial fins protrude from their cheeks, providing them with excellent hearing and assisting with heat regulation, both of which provide an edge in the wilds.</Description>
-      <StartingChars>
-        <Brawn>-1</Brawn>
-        <Agility>-1</Agility>
-        <Intellect>-1</Intellect>
-        <Cunning>-1</Cunning>
-        <Willpower>-1</Willpower>
-        <Presence>-1</Presence>
-      </StartingChars>
-      <StartingAttrs>
-        <WoundThreshold>-1</WoundThreshold>
-        <StrainThreshold>-1</StrainThreshold>
-        <DefenseRanged>-1</DefenseRanged>
-        <DefenseMelee>-1</DefenseMelee>
-        <SoakValue>-1</SoakValue>
-        <Experience>-1</Experience>
-        <ForceRating>-1</ForceRating>
-      </StartingAttrs>
+      <Description>Esral'sa'Nikto, or "Mountain Nikto", adapted to the variable climate of the mountains of Kintan. They have large facial fins which are used for heat regulation. These fins also improve the Esral'sa'Nikto's hearing. Their skin is blue-gray, and they have neither horns nor breathing tubes.</Description>
       <SkillModifiers>
         <SkillModifier>
           <Key>SURV</Key>
@@ -164,31 +112,14 @@ Perhaps the most well-known slaves of the Hutts, the fierce and humorless Niktos
       <TalentModifiers>
         <TalentModifier>
           <Key>NATOUT</Key>
+          <RankAdd>1</RankAdd>
         </TalentModifier>
       </TalentModifiers>
-      <CyberneticsAdjust>-100</CyberneticsAdjust>
     </SubSpecies>
     <SubSpecies>
       <Key>NIKTOCH1OP4</Key>
       <Name>Gluss'sa'Nikto (Pale Nikto)</Name>
-      <Description>Native to the rocky Gluss'elta Islands of their homeworld, Gluss'sa'Niktos, or Pale Niktos, have white-gray skin, tiny horns around their eyes, and small facial fins. Evolving near the oceans of Kintan, the Pale Niktos are born sailors and swimmers, possessing slightly webbed fingers and toes to help propel them through the water.</Description>
-      <StartingChars>
-        <Brawn>-1</Brawn>
-        <Agility>-1</Agility>
-        <Intellect>-1</Intellect>
-        <Cunning>-1</Cunning>
-        <Willpower>-1</Willpower>
-        <Presence>-1</Presence>
-      </StartingChars>
-      <StartingAttrs>
-        <WoundThreshold>-1</WoundThreshold>
-        <StrainThreshold>-1</StrainThreshold>
-        <DefenseRanged>-1</DefenseRanged>
-        <DefenseMelee>-1</DefenseMelee>
-        <SoakValue>-1</SoakValue>
-        <Experience>-1</Experience>
-        <ForceRating>-1</ForceRating>
-      </StartingAttrs>
+      <Description>Gluss'sa'Nikto, or "Pale Nikto", came from the Gluss'elta Islands of Kintan, causing them to be natural sailors. They have white-gray skin, eye-horns like the Kadas'sa'Nikto, and fins similar to those of the Esral'sa'Nikto, but smaller.</Description>
       <SkillModifiers>
         <SkillModifier>
           <Key>ATHL</Key>
@@ -208,29 +139,11 @@ Perhaps the most well-known slaves of the Hutts, the fierce and humorless Niktos
           </Options>
         </OptionChoice>
       </OptionChoices>
-      <CyberneticsAdjust>-100</CyberneticsAdjust>
     </SubSpecies>
     <SubSpecies>
       <Key>NIKTOCH1OP5</Key>
       <Name>M'shento'su'Nikto (Southern Nikto)</Name>
-      <Description>The Southern Niktos have cream, white, yellow, or orange skin and lack the horns and prominent facial ridges common to other Niktos. Instead, the M'shento'su'Niktos have evolved long, well-developed breathing tubes on the backs of their necks. In addition to facilitating respiration, the tubes allow the Southern Niktos to perceive ultrasonic vibrations.</Description>
-      <StartingChars>
-        <Brawn>-1</Brawn>
-        <Agility>-1</Agility>
-        <Intellect>-1</Intellect>
-        <Cunning>-1</Cunning>
-        <Willpower>-1</Willpower>
-        <Presence>-1</Presence>
-      </StartingChars>
-      <StartingAttrs>
-        <WoundThreshold>-1</WoundThreshold>
-        <StrainThreshold>-1</StrainThreshold>
-        <DefenseRanged>-1</DefenseRanged>
-        <DefenseMelee>-1</DefenseMelee>
-        <SoakValue>-1</SoakValue>
-        <Experience>-1</Experience>
-        <ForceRating>-1</ForceRating>
-      </StartingAttrs>
+      <Description>M'shento'su'Nikto, or "Southern Nikto", have no horns, a covered nose, and several pairs of breathing tubes. These tubes are larger than those of the Kajain'sa'Nikto, and also act as primitive ultrasonic sensory organs. Their skin color varies from white to yellow or orange.</Description>
       <SkillModifiers>
         <SkillModifier>
           <Key>PERC</Key>
@@ -250,7 +163,6 @@ Perhaps the most well-known slaves of the Hutts, the fierce and humorless Niktos
           </Options>
         </OptionChoice>
       </OptionChoices>
-      <CyberneticsAdjust>-100</CyberneticsAdjust>
     </SubSpecies>
   </SubSpeciesList>
 </Species>

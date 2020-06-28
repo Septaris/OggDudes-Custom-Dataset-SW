@@ -17,7 +17,7 @@ For Selonians, nothing is more important than the protection and preservation of
 [P][B]Homeworld:[b] Selonians are native to the fifth planet of the Corellian System. Selonia is a temperate world abundant in water, with vast oceans covering most of its surface. The myriad small islands and archipelagos that make up the planet's landmass are connected by a sprawling and complex network of tunnels exca-vated by the Selonians beneath their world's oceans, allowing the natives to journey across Selonia without ever setting foot on a vessel.
 
 [P][B]Language:[b] The Selonian language, Mandaba, is difficult for non-Selonians to speak, and virtually impossible for them to speak well. While several models of protocol droids are able to communicate fluently in Mandaba, even they cannot precisely convey every nuance of the language. The Selonian language is almost never heard outside of the Corellian System, but most Selonians who deal with outsiders are at least conversant in Basic.</Description>
-  <Source>Suns of Fortune</Source>
+  <Source Page="91">Suns of Fortune</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
@@ -36,6 +36,7 @@ For Selonians, nothing is more important than the protection and preservation of
     <SkillModifier>
       <Key>COORD</Key>
       <RankStart>1</RankStart>
+      <RankLimit>2</RankLimit>
     </SkillModifier>
   </SkillModifiers>
   <OptionChoices>
@@ -57,6 +58,7 @@ For Selonians, nothing is more important than the protection and preservation of
       <SkillKey>BRAWL</SkillKey>
       <DamageAdd>1</DamageAdd>
       <Crit>5</Crit>
+      <RangeValue>wrEngaged</RangeValue>
       <Qualities>
         <Quality>
           <Key>DISORIENT</Key>
@@ -66,7 +68,6 @@ For Selonians, nothing is more important than the protection and preservation of
           <Key>KNOCKDOWN</Key>
         </Quality>
       </Qualities>
-      <Range>Engaged</Range>
     </WeaponModifier>
   </WeaponModifiers>
 </Species>

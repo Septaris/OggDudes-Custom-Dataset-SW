@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Species xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" encoding="utf-8"?>
+<Species>
   <Key>THOLOTHIAN</Key>
   <Name>Tholothian</Name>
   <Description>[H4]Tholothian[h4]
@@ -17,7 +17,7 @@ A near-human species from one of the oldest planets (at least politically) in th
 [P][B]Perception of the Force:[b] As longtime members of the Galactic Republic, Tholothians have had continual contact with the Jedi and the Jedi Order. Jedi who wished to remain in contact with the temple on Coruscant but needed to get away from the people, smog, and skyscrapers would come to Tholoth to meditate. Some would hike and camp out in the various nature preserves, giving them time away from the galaxy without fear of wild, dangerous beasts. The time of year could also be useful for meditation due to the night sky: Jedi were known to come on Core or Spiral Peak nights to meditate on the light and the dark and the Republic and the Outer Rim, focusing on the inner and the outer respectively.
 [P]Since Imperial occupation, Tholoth has gone a little wild. The mountains, forests, hills, trees, and snow-covered regions have become unkempt and feral. While the Empire destroyed the obvious Jedi buildings. claiming the old aesthetic ruined Tholoth's natural beauty, storm troopers missed the smaller, hidden refuges. Small cave systems with a preternatural sense of peace, a one-story stone structure built by a Jedi monk, or the hot spring in the snow-capped mountains all have been grown over by brambles, hidden by rockslides, or buried in ice. Some Tholothians still journey to these locations. A few use them for shelter to hide from the Empire. Each of them holds a tiny bit of history of the old Jedi Order and perhaps preserves something for a searching Force-sensitive.</Description>
   <Source Page="20">Unlimited Power</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>2</Agility>
@@ -35,17 +35,20 @@ A near-human species from one of the oldest planets (at least politically) in th
     <SkillModifier>
       <Key>XEN</Key>
       <RankStart>1</RankStart>
+      <RankLimit>2</RankLimit>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers>
+  </TalentModifiers>
   <OptionChoices>
     <OptionChoice>
-      <Key>THOLOTHIANCH1</Key>
+      <Key>THOLOTHIANAB1</Key>
       <Name>Social</Name>
       <Options>
         <Option>
-          <Key>THOLOTHIANCH1OP1</Key>
+          <Key>THOLOTHIANAB1OP1</Key>
           <Name>Cultural Adopters</Name>
-          <Description>When making a social skill check to interact with non-Tholothians, Tholothians add automatic [AD] to results.</Description>
+          <Description>Tholothians add an automatic [AD] when making social skill checks to interact with non-Tholothians.</Description>
           <DieModifiers>
             <DieModifier>
               <SkillKey>CHARM</SkillKey>
@@ -72,13 +75,13 @@ A near-human species from one of the oldest planets (at least politically) in th
       </Options>
     </OptionChoice>
     <OptionChoice>
-      <Key>THOLOTHIANCH2</Key>
-      <Name>Physiology</Name>
+      <Key>THOLOTHIANAB2</Key>
+      <Name>Healing</Name>
       <Options>
         <Option>
-          <Key>THOLOTHIANCH2OP1</Key>
+          <Key>THOLOTHIANAB2OP1</Key>
           <Name>Natural Roots</Name>
-          <Description>When making a check to heal strain while in a natural or wild setting, Tholothians heal one additional strain.</Description>
+          <Description>When making a check to heal strain in a natural or wild setting, Tholothians heal one additional strain.</Description>
         </Option>
       </Options>
     </OptionChoice>

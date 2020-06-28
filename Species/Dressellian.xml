@@ -21,7 +21,7 @@ The gruff, wrinkle-faced Dressellians are best known as gritty, tough outdoorsme
 [P]Bothan explorer Karka Vri'skar of clan Askar initially discovered the world two centuries before the Battle of Yavin, but, aside from the occasional trader or outlaw, the Bothans left the primitive Dressellians to their own devices while still maintaining regular diplomatic contact. Ten years before the Battle of Yavin, the Empire established a garrison and Imperialized Dressel's resources. The Dressellians engaged the Empire in guerrilla warfare, drawing on their skills as nomadic hunters and gatherers to evade the Empire. 
 
 [P][B]Language:[b] The Dressellians speak a native language of the same name. Scholars have described the language as flowing and organic, filled with soft sounds. However, over the past two centuries, the Dressellians have adopted a number of Bothan words, particularly to describe technology. Many art critics have blamed Bothan interference for tainting one of the great romantic languages, but it is widely agreed that the Dressellian adoption of the Bothan alphabet over their own primitive hieroglyphs was a positive influence.</Description>
-  <Source>Stay on Target</Source>
+  <Source Page="22">Stay on Target</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
@@ -34,7 +34,11 @@ The gruff, wrinkle-faced Dressellians are best known as gritty, tough outdoorsme
   <StartingAttrs>
     <WoundThreshold>11</WoundThreshold>
     <StrainThreshold>10</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
     <Experience>110</Experience>
+    <ForceRating>0</ForceRating>
   </StartingAttrs>
   <SkillModifiers>
     <SkillModifier>
@@ -43,19 +47,22 @@ The gruff, wrinkle-faced Dressellians are best known as gritty, tough outdoorsme
       <RankLimit>2</RankLimit>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers />
   <OptionChoices>
     <OptionChoice>
       <Key>DRESSELLIANCH1</Key>
       <Name>Technology</Name>
+      <Description />
+      <Source />
       <Options>
         <Option>
           <Key>DRESSELLIANCH1OP1</Key>
-          <Name>Primative</Name>
+          <Name>Primitive</Name>
           <Description>Dressellians must upgrade the difficulty of any checks involving non-Dressellian technology.</Description>
         </Option>
         <Option>
           <Key>DRESSELLIANCH1OP2</Key>
-          <Name>Non-Primative</Name>
+          <Name>Non-Primitive</Name>
           <Description>Tech-saavy Dressellians do not need to upgrade the difficulty of checks involving non-Dressellian technology.</Description>
           <StartingAttributes>
             <Experience>-10</Experience>
@@ -64,4 +71,5 @@ The gruff, wrinkle-faced Dressellians are best known as gritty, tough outdoorsme
       </Options>
     </OptionChoice>
   </OptionChoices>
+  <WeaponModifiers />
 </Species>

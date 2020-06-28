@@ -27,26 +27,25 @@ Zolan. Large portions of the planet became desolate wastelands. Most of the plan
 [P][B]Language:[b] Virtually all Clawdites are fluent in Basic. Zolanese is their native tongue, though it is rarely hear off the planet. Clawdites generally refuse to teach Zolanese to offworlders, and it is used as a primary language only in the rural regions of their world. During rare offworld encounters between Clawdites, they often use Zolanese as a secret language to identify themselves without breaking their cover.
 [P][B]Life on the Fringe:[b] Clawdites excel in careers that
 prioritize independent competency. Though many rely upon more nefarious (or at least self-serving) applications of their shapeshffting abilities to work as Smugglers or Bounty Hunters, many other Clawdites work as Explorers, Technicians, or in specialized Colonist roles. Many Clawdites who originally hail from Zolan prefer self-reliant professions over which they have a high degree of control, rather than having to trust that others will act in their best interests.</Description>
-  <Source>Unofficial Species Menagerie</Source>
+  <Source Page="20">No Disintegrations</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>2</Agility>
     <Intellect>2</Intellect>
-    <Cunning>2</Cunning>
-    <Willpower>2</Willpower>
+    <Cunning>3</Cunning>
+    <Willpower>1</Willpower>
     <Presence>2</Presence>
   </StartingChars>
   <StartingAttrs>
-    <WoundThreshold>10</WoundThreshold>
-    <StrainThreshold>10</StrainThreshold>
-    <Experience>90</Experience>
+    <WoundThreshold>9</WoundThreshold>
+    <StrainThreshold>9</StrainThreshold>
+    <Experience>95</Experience>
   </StartingAttrs>
   <SkillModifiers>
     <SkillModifier>
-      <Key>DECEP</Key>
+      <Key>RESIL</Key>
       <RankStart>1</RankStart>
-      <RankLimit>2</RankLimit>
     </SkillModifier>
   </SkillModifiers>
   <TalentModifiers>
@@ -57,21 +56,13 @@ prioritize independent competency. Though many rely upon more nefarious (or at l
   </TalentModifiers>
   <OptionChoices>
     <OptionChoice>
-      <Key>CLAAB1</Key>
-      <Name>Changeling</Name>
+      <Key>CLAWDITECH1</Key>
+      <Name>Appearance</Name>
       <Options>
         <Option>
-          <Key>CLAAB1CON</Key>
-          <Name>Change Form</Name>
-          <Description>
-            At the cost of 2 Strain, a
-            Clawdite can choose to upgrade their Deception
-            check to convey a false appearance which lasts
-            until the Clawdite wills the change to end, or
-            until they are knocked unconscious or killed. The
-            Strain spent is not recovered until the Clawdite
-            reverts back to their normal shape.
-          </Description>
+          <Key>CLAWDITECH1OP1</Key>
+          <Name>Changeling</Name>
+          <Description>As an action, may suffer 3 strain and make an [B]Average ([DI][DI]) Resilience check[b] to change appearance to match a previously-observed silhouette 1 character.  Observer must make an opposed [B]Perception vs. Deception check[b] to detect that something is amiss.      </Description>
         </Option>
       </Options>
     </OptionChoice>

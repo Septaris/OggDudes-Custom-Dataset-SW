@@ -1,38 +1,5 @@
-<?xml version="1.0"?>
-<BaseOfOperations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BaseOfOperation>
-    <Key>BUSINESS</Key>
-    <Name>Business</Name>
-    <Description>
-      [H4]Business[h4]
-
-Not all campaigns work thematically with the isolated and insular nature of a homestead. An alternative is to open a business in town, where the party can regroup between adventures and be a part of a larger community. To create a business, the party chooses both a location and a focus for it. The different business focuses are entertainment, retail, and service. Entertainment venues include cantinas, nightclubs, casinos, and restaurants. Retail shops stock and sell a single category of gear, such as ranged weapons, melee weapons, armor, communications, detection devices, medical, cybernetics, recreational entertainment, security, survival, tools, droids, ground vehicles, airspeeders, or starships. Service businesses might include a repair shop, medical clinic, gym, adventure travel firm, consulting firm, a taxi stand, or countless others.
-
-[B]Basic Business:[b] The basic business includes a main floor for customers, a back room for storage, and either an upstairs or basement the party can use as a living area. It contains the basic equipment needed to operate the business (a medical clinic might include cots and basic medical supplies, a repair shop may include lifts and repair tools, and a retail shop would include shelves and basic retail stock). It also includes one employee or droid per party member. 
-
-[P][B]Basic Business Cost:[b] 50,000 credits and 5 Obligation. The costs are waived if selected in lieu of a ship at party creation. 
-
-[P][B]Party Career Skill:[b] The party must select one business focus. The focus determines the career skill granted to the entire party: Entertainment (Charm), Retail (Negotiation), Service (choose either Mechanics, Computers, or a single applicable Knowledge skill for the entire party). Each character in the party counts this skill as a career skill. </Description>
-    <Source>Far Horizons</Source>
-    <Custom>DescOnly</Custom>
-    <Cost>
-      <Credits>50000</Credits>
-      <Obligation>5</Obligation>
-    </Cost>
-    <Foci>
-      <Key>BASEENT</Key>
-      <Key>BASERETAIL</Key>
-      <Key>BASESERVICE</Key>
-      <Key>BASESTATION</Key>
-    </Foci>
-    <AvailableUpgrades>
-      <Key>BUSCORE</Key>
-      <Key>BUSSEC</Key>
-      <Key>BUSORDERS</Key>
-      <Key>BUSWHOLE</Key>
-      <Key>BUSLIC</Key>
-    </AvailableUpgrades>
-  </BaseOfOperation>
+<?xml version="1.0" encoding="utf-8"?>
+<BaseOfOperations>
   <BaseOfOperation>
     <Key>HOMESTEAD</Key>
     <Name>Homestead</Name>
@@ -46,12 +13,13 @@ To start a homestead, the party chooses the location where they would like the b
 [P][B]Basic Homestead Cost:[b] 50,000 credits and 5 Obligation. These costs are waived if the homestead is selected in lieu of a ship at character creation. 
 
 [P][B]Party Career Skill:[b] The party must select one homestead focus. The focus determines the career skill granted to the entire party: Farm (Resilience), Ranch (Survival), Mine (Athletics), Space Station (Piloting [Space]). Each character in the party counts this skill as a career skill.</Description>
-    <Source>Far Horizons</Source>
+    <Source Page="82">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <Cost>
       <Credits>50000</Credits>
       <Obligation>5</Obligation>
     </Cost>
+    <NPCPerMember>true</NPCPerMember>
     <Foci>
       <Key>BASEFARM</Key>
       <Key>BASERANCH</Key>
@@ -65,6 +33,48 @@ To start a homestead, the party chooses the location where they would like the b
       <Key>HOMEINF</Key>
       <Key>HOMEMECHGAR</Key>
       <Key>HOMELANDBAY</Key>
+      <Key>CIVREFITHANG</Key>
+      <Key>CIVREFITINFIRM</Key>
+      <Key>CIVREFITREPAIR</Key>
+      <Key>CIVREFITSEC</Key>
+    </AvailableUpgrades>
+  </BaseOfOperation>
+  <BaseOfOperation>
+    <Key>BUSINESS</Key>
+    <Name>Business</Name>
+    <Description>
+      [H4]Business[h4]
+
+Not all campaigns work thematically with the isolated and insular nature of a homestead. An alternative is to open a business in town, where the party can regroup between adventures and be a part of a larger community. To create a business, the party chooses both a location and a focus for it. The different business focuses are entertainment, retail, and service. Entertainment venues include cantinas, nightclubs, casinos, and restaurants. Retail shops stock and sell a single category of gear, such as ranged weapons, melee weapons, armor, communications, detection devices, medical, cybernetics, recreational entertainment, security, survival, tools, droids, ground vehicles, airspeeders, or starships. Service businesses might include a repair shop, medical clinic, gym, adventure travel firm, consulting firm, a taxi stand, or countless others.
+
+[B]Basic Business:[b] The basic business includes a main floor for customers, a back room for storage, and either an upstairs or basement the party can use as a living area. It contains the basic equipment needed to operate the business (a medical clinic might include cots and basic medical supplies, a repair shop may include lifts and repair tools, and a retail shop would include shelves and basic retail stock). It also includes one employee or droid per party member. 
+
+[P][B]Basic Business Cost:[b] 50,000 credits and 5 Obligation. The costs are waived if selected in lieu of a ship at party creation. 
+
+[P][B]Party Career Skill:[b] The party must select one business focus. The focus determines the career skill granted to the entire party: Entertainment (Charm), Retail (Negotiation), Service (choose either Mechanics, Computers, or a single applicable Knowledge skill for the entire party). Each character in the party counts this skill as a career skill. </Description>
+    <Source Page="82">Far Horizons</Source>
+    <Custom>DescOnly</Custom>
+    <Cost>
+      <Credits>50000</Credits>
+      <Obligation>5</Obligation>
+    </Cost>
+    <NPCPerMember>true</NPCPerMember>
+    <Foci>
+      <Key>BASEENT</Key>
+      <Key>BASERETAIL</Key>
+      <Key>BASESERVICE</Key>
+      <Key>BASESTATION</Key>
+    </Foci>
+    <AvailableUpgrades>
+      <Key>BUSCORE</Key>
+      <Key>BUSSEC</Key>
+      <Key>BUSORDERS</Key>
+      <Key>BUSWHOLE</Key>
+      <Key>BUSLIC</Key>
+      <Key>CIVREFITHANG</Key>
+      <Key>CIVREFITINFIRM</Key>
+      <Key>CIVREFITREPAIR</Key>
+      <Key>CIVREFITSEC</Key>
     </AvailableUpgrades>
   </BaseOfOperation>
   <BaseOfOperation>
@@ -76,9 +86,13 @@ To start a homestead, the party chooses the location where they would like the b
 Ideally, the players should decide what type of base they wish to establish when they choose to create one. Rather than serving as a broad-reaching facility, the base should instead focus on some particular aspect of the war effort. The group should consider how planetary loyalty, culture, and environment might affect the base and provide advantages for different specific applications. The Player Characters can either establish a base if they select this option at character creation (see page 111 of the [B]Age of Rebellion[b] Core Rulebook), or they can ask to receive it as a special reward for increasing their Contribution rank (see page 49 of the [B]Age of Rebellion[b] Core Rulebook). While a full base of operations is a larger reward than the default recommendation, it also offers the GM a great many interesting opportunities for plot hooks. At the GM's discretion, the PCs can also acquire a base if they capture a stronghold in battle, undertake the effort to build a base of operations, or otherwise perform the tasks narratively required to get a home base. 
 
 [P]After the characters have acquired their base, they can then consider how they might focus the function of the base. Each possible focus on page 88 recommends upgrades that could be added to the core base to better serve the base's function. Teams might wish to expand a facility in directions not presented here, and they are encouraged to work with their GM to do so.</Description>
-    <Source>Desperate Allies</Source>
+    <Source Page="86">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
-    <Cost />
+    <Cost>
+      <Credits>0</Credits>
+      <Obligation>0</Obligation>
+    </Cost>
+    <NPCPerMember>false</NPCPerMember>
     <Foci>
       <Key>BASESAFE</Key>
       <Key>BASETRAIN</Key>
@@ -86,7 +100,6 @@ Ideally, the players should decide what type of base they wish to establish when
       <Key>BASEMEET</Key>
       <Key>BASEWEAP</Key>
     </Foci>
-    <NPCPerMember>false</NPCPerMember>
     <AvailableUpgrades>
       <Key>REBELCORE</Key>
       <Key>REBELSEC</Key>
@@ -101,9 +114,6 @@ Ideally, the players should decide what type of base they wish to establish when
     </AvailableUpgrades>
     <NPCs>
       <Adversary>
-        <LastChanged>0001-01-01T00:00:00</LastChanged>
-        <NotPersisted>false</NotPersisted>
-        <FileName>Adver167.xml</FileName>
         <Name>NPC Caretaker</Name>
         <Key>c7624c72-1d17-44ee-a992-b485de6e11de</Key>
         <Category>Base NPC</Category>
@@ -157,32 +167,25 @@ Ideally, the players should decide what type of base they wish to establish when
             </Rank>
           </CharCharacteristic>
         </Characteristics>
+        <Talents />
+        <ForceAbilities />
         <Skills>
           <CharSkill>
             <Key>EDU</Key>
-            <Rank />
           </CharSkill>
           <CharSkill>
             <Key>MECH</Key>
-            <Rank />
           </CharSkill>
           <CharSkill>
             <Key>VIGIL</Key>
-            <Rank />
           </CharSkill>
         </Skills>
         <Experience>
-          <ExperienceRanks />
           <UsedExperience>60</UsedExperience>
         </Experience>
-        <Attributes>
-          <SoakValue />
-          <WoundThreshold />
-          <StrainThreshold />
-          <DefenseRanged />
-          <DefenseMelee />
-          <ForceRating />
-        </Attributes>
+        <Attributes />
+        <Weapons />
+        <Armor />
         <Gear>
           <CharGear>
             <ItemKey>DATAPAD</ItemKey>
@@ -191,6 +194,7 @@ Ideally, the players should decide what type of base they wish to establish when
             <Count>1</Count>
           </CharGear>
         </Gear>
+        <Abilities />
         <Items>
           <AdvItem>
             <Key>0</Key>
@@ -201,6 +205,8 @@ Ideally, the players should decide what type of base they wish to establish when
             <Name>Maintainance supplies</Name>
           </AdvItem>
         </Items>
+        <SpecialWeapons />
+        <SpecialArmor />
         <Type>Minion</Type>
       </Adversary>
     </NPCs>
@@ -222,13 +228,17 @@ The form and capacity of a workshop is decided in large part by its location. A 
     </Description>
     <Source Page="94">Special Modifications</Source>
     <Custom>DescOnly</Custom>
-    <Cost />
+    <Cost>
+      <Credits>0</Credits>
+      <Obligation>0</Obligation>
+    </Cost>
+    <NPCPerMember>false</NPCPerMember>
+    <MaxUpgrades>3</MaxUpgrades>
     <Foci>
       <Key>WORKCOMP</Key>
       <Key>WORKMECH</Key>
       <Key>WORKMED</Key>
     </Foci>
-    <NPCPerMember>false</NPCPerMember>
     <AvailableUpgrades>
       <Key>WORKSPACE</Key>
       <Key>WORKHOME</Key>
@@ -236,8 +246,11 @@ The form and capacity of a workshop is decided in large part by its location. A 
       <Key>WORKRECLAM</Key>
       <Key>WORKRES</Key>
       <Key>WORKSPARE</Key>
+      <Key>CIVREFITHANG</Key>
+      <Key>CIVREFITINFIRM</Key>
+      <Key>CIVREFITREPAIR</Key>
+      <Key>CIVREFITSEC</Key>
     </AvailableUpgrades>
-    <MaxUpgrades>3</MaxUpgrades>
   </BaseOfOperation>
   <BaseOfOperation>
     <Key>WORKSHOPSHIP</Key>
@@ -248,13 +261,17 @@ For Technicians without a stable home a workshop on board a starship or vehicle 
 [P][B]Basic Workshop:[b] A basic shipboard workshop takes up a spare storage compartment or cargo bay. It can only contain tools and supplies up to 20 total encumbrance, and it can accomodate three advanced benefits. At the GM's discretion, the workshop's owner can use on of the ship's unused hard points to increase the number of advanced benefits it can sustain by one. When a PC acquires an advanced benefit for a spacecraft, the character may choose a Low-Grav Workspace as that advanced benefit.</Description>
     <Source Page="95">Special Modifications</Source>
     <Custom>DescOnly</Custom>
-    <Cost />
+    <Cost>
+      <Credits>0</Credits>
+      <Obligation>0</Obligation>
+    </Cost>
+    <NPCPerMember>false</NPCPerMember>
+    <MaxUpgrades>3</MaxUpgrades>
     <Foci>
       <Key>WORKCOMP</Key>
       <Key>WORKMECH</Key>
       <Key>WORKMED</Key>
     </Foci>
-    <NPCPerMember>false</NPCPerMember>
     <AvailableUpgrades>
       <Key>WORKSPACE</Key>
       <Key>WORKHOME</Key>
@@ -263,8 +280,11 @@ For Technicians without a stable home a workshop on board a starship or vehicle 
       <Key>WORKRES</Key>
       <Key>WORKSPARE</Key>
       <Key>WORKLOWGRAV</Key>
+      <Key>CIVREFITHANG</Key>
+      <Key>CIVREFITINFIRM</Key>
+      <Key>CIVREFITREPAIR</Key>
+      <Key>CIVREFITSEC</Key>
     </AvailableUpgrades>
-    <MaxUpgrades>3</MaxUpgrades>
   </BaseOfOperation>
   <BaseOfOperation>
     <Key>WORKSHOPHOME</Key>
@@ -276,13 +296,17 @@ For Technicians without a stable home a workshop on board a starship or vehicle 
     </Description>
     <Source Page="95">Special Modifications</Source>
     <Custom>DescOnly</Custom>
-    <Cost />
+    <Cost>
+      <Credits>0</Credits>
+      <Obligation>0</Obligation>
+    </Cost>
+    <NPCPerMember>false</NPCPerMember>
+    <MaxUpgrades>3</MaxUpgrades>
     <Foci>
       <Key>WORKCOMP</Key>
       <Key>WORKMECH</Key>
       <Key>WORKMED</Key>
     </Foci>
-    <NPCPerMember>false</NPCPerMember>
     <AvailableUpgrades>
       <Key>WORKSPACE</Key>
       <Key>WORKHOME</Key>
@@ -290,11 +314,14 @@ For Technicians without a stable home a workshop on board a starship or vehicle 
       <Key>WORKRECLAM</Key>
       <Key>WORKRES</Key>
       <Key>WORKSPARE</Key>
+      <Key>CIVREFITHANG</Key>
+      <Key>CIVREFITINFIRM</Key>
+      <Key>CIVREFITREPAIR</Key>
+      <Key>CIVREFITSEC</Key>
     </AvailableUpgrades>
     <BuiltInUpgrades>
       <Key>WORKHOME</Key>
     </BuiltInUpgrades>
-    <MaxUpgrades>3</MaxUpgrades>
   </BaseOfOperation>
   <BaseOfOperation>
     <Key>WORKSHOPIND</Key>
@@ -305,13 +332,16 @@ For Technicians without a stable home a workshop on board a starship or vehicle 
 [P][B]Basic Workshop:[b] A basic industrial workshop usually consists of a building with workspaces for several assistants, a manufacturing facility that can handle the creation of prototypes and organized storage space. It can contain tools and supplies up to 60 total encumbrance. It automatically has on Additional Workspace advanced benefit, one Research Records advanced benefit and on Spare Parts Bin advanced benefit and it can accomodate any number of additional advanced benefits.</Description>
     <Source Page="96">Special Modifications</Source>
     <Custom>DescOnly</Custom>
-    <Cost />
+    <Cost>
+      <Credits>0</Credits>
+      <Obligation>0</Obligation>
+    </Cost>
+    <NPCPerMember>false</NPCPerMember>
     <Foci>
       <Key>WORKCOMP</Key>
       <Key>WORKMECH</Key>
       <Key>WORKMED</Key>
     </Foci>
-    <NPCPerMember>false</NPCPerMember>
     <AvailableUpgrades>
       <Key>WORKSPACE</Key>
       <Key>WORKHOME</Key>
@@ -319,6 +349,10 @@ For Technicians without a stable home a workshop on board a starship or vehicle 
       <Key>WORKRECLAM</Key>
       <Key>WORKRES</Key>
       <Key>WORKSPARE</Key>
+      <Key>CIVREFITHANG</Key>
+      <Key>CIVREFITINFIRM</Key>
+      <Key>CIVREFITREPAIR</Key>
+      <Key>CIVREFITSEC</Key>
     </AvailableUpgrades>
     <BuiltInUpgrades>
       <Key>WORKSPACE</Key>

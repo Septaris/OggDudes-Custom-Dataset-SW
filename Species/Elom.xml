@@ -103,7 +103,11 @@ spoken or displayed in the isolated Elom underground cities. M ost Eloms who spe
   <StartingAttrs>
     <WoundThreshold>10</WoundThreshold>
     <StrainThreshold>9</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
     <Experience>100</Experience>
+    <ForceRating>0</ForceRating>
   </StartingAttrs>
   <SkillModifiers>
     <SkillModifier>
@@ -122,8 +126,11 @@ spoken or displayed in the isolated Elom underground cities. M ost Eloms who spe
           <Description>
             Elom may use a move maneuver to travel through loose soil or similar terrain.  Can result in low, narrow tunnel that others can use, at GM's discretion.
           </Description>
+          <DieModifiers>
+          </DieModifiers>
         </Option>
       </Options>
     </OptionChoice>
   </OptionChoices>
+  <WeaponModifiers />
 </Species>

@@ -89,7 +89,11 @@ enclaves to learn more about them.  </Description>
   <StartingAttrs>
     <WoundThreshold>9</WoundThreshold>
     <StrainThreshold>10</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
     <Experience>105</Experience>
+    <ForceRating>0</ForceRating>
   </StartingAttrs>
   <SkillModifiers>
     <SkillModifier>

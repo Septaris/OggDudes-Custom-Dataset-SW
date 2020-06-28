@@ -4,9 +4,9 @@
   <Name>Starfighter Ace</Name>
   <Description>[H4]Starfighter Ace[h4]
 
-Starfighter pilots enthusiastically engage in one of the most dangerous forms of battle imaginable. Their shields and armor—for starfighters that have either—offer virtually no resistance to the weapons of the capital ships they oppose. Instead, they must trust in the Force to protect them as they launch their daring assaults. Those who embrace the risks of space combat may pursue the Starfighter Ace specialization. 
+Starfighter pilots enthusiastically engage in one of the most dangerous forms of battle imaginable. Their shields and armor—for starfighters that have either—offer virtually no resistance to the weapons of the capital ships they oppose. Instead, they must trust in the Force to protect them as they launch their daring assaults. Those who embrace the risks of space combat may pursue the Starfighter Ace specialization.
 
-[P]Starfighter Aces acquire [B]Astrogation, Gunnery, Mechanics,[b] and [B]Piloting (Space)[b] as additional career skills. If this is the character's starting specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. These provide the essentials needed to successfully pilot a starfighter in combat. Force adepts who acquire these skills most often control single-passenger craft, in which they must assume responsibility for weapons at the same time that they handle navigation. 
+[P]Starfighter Aces acquire [B]Astrogation, Gunnery, Mechanics,[b] and [B]Piloting (Space)[b] as additional career skills. If this is the character's starting specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. These provide the essentials needed to successfully pilot a starfighter in combat. Force adepts who acquire these skills most often control single-passenger craft, in which they must assume responsibility for weapons at the same time that they handle navigation.
 
 [P]While this style of combat is dependent on a vehicle, it remains physically exhausting. Even with a full range of technological enhancements, effective pilots must be capable of enduring rapid and extreme shifts in velocity and direction. They must also remain ready to strike a deadly blow against an opponent at just the right instant, even while struggling to endure extreme physiological conditions.</Description>
   <Source Page="101">Force and Destiny Core Rulebook</Source>
@@ -19,6 +19,7 @@ Starfighter pilots enthusiastically engage in one of the most dangerous forms of
   </CareerSkills>
   <TalentRows>
     <TalentRow>
+      <Index>0</Index>
       <Cost>5</Cost>
       <Talents>
         <Key>GRIT</Key>
@@ -27,19 +28,34 @@ Starfighter pilots enthusiastically engage in one of the most dangerous forms of
         <Key>SOLREP</Key>
       </Talents>
       <Directions>
-        <Direction />
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>10</Cost>
       <Talents>
         <Key>INTUITEVA</Key>
@@ -49,7 +65,10 @@ Starfighter pilots enthusiastically engage in one of the most dangerous forms of
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
@@ -65,12 +84,14 @@ Starfighter pilots enthusiastically engage in one of the most dangerous forms of
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>15</Cost>
       <Talents>
         <Key>FULLTH</Key>
@@ -80,23 +101,33 @@ Starfighter pilots enthusiastically engage in one of the most dangerous forms of
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>20</Cost>
       <Talents>
         <Key>INTUITSTRIKE</Key>
@@ -106,7 +137,9 @@ Starfighter pilots enthusiastically engage in one of the most dangerous forms of
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
@@ -118,16 +151,19 @@ Starfighter pilots enthusiastically engage in one of the most dangerous forms of
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>25</Cost>
       <Talents>
         <Key>FORCERAT</Key>
@@ -137,22 +173,63 @@ Starfighter pilots enthusiastically engage in one of the most dangerous forms of
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
     </TalentRow>
   </TalentRows>
+  <Universal>false</Universal>
+  <Attributes>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
+    <Experience>0</Experience>
+    <ForceRating>0</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+    </Requirement>
+  </Attributes>
+  <Requirements>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
+    <Experience>0</Experience>
+    <ForceRating>0</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+    </Requirement>
+  </Requirements>
 </Specialization>

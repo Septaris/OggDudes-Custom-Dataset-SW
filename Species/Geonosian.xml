@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Species xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" encoding="utf-8"?>
+<Species>
   <Key>GEONOSIAN</Key>
   <Name>Geonosian</Name>
   <Description>[H4]Geonosian[h4]
@@ -19,7 +19,7 @@ No species has changed the face of the galaxy and the Galactic Republic as much 
 [P]Most citizens of the Republic associate the droid army with the public face of the Separatist Alliance, but few know what species constructed them. As a result, those relatively few free Geonosians wandering the galaxy face little prejudice, at least not for their people's part in the Clone Wars. 
 </Description>
   <Source Page="12">Rise of the Separatists</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>2</Agility>
@@ -33,20 +33,27 @@ No species has changed the face of the galaxy and the Galactic Republic as much 
     <StrainThreshold>9</StrainThreshold>
     <Experience>140</Experience>
   </StartingAttrs>
+  <SkillModifiers>
+  </SkillModifiers>
+  <TalentModifiers>
+  </TalentModifiers>
   <OptionChoices>
     <OptionChoice>
-      <Key>GEONOSIANCH1</Key>
-      <Name>Skill Rank</Name>
+      <Key>GEONOSIANOC1</Key>
+      <Name>Skill</Name>
       <Options>
         <Option>
-          <Key>GEONOSIANCH1OP1</Key>
-          <Name>Skill Rank</Name>
-          <Description>Geonosians begin with one rank in a skill of their choice. They still may not train this skill above rank 3 at character creation,.</Description>
+          <Key>GEONOSIANOC1OP1</Key>
+          <Name>Skill Choice</Name>
+          <Description>
+            Geonisians start the game with one rank in any skill of their choice.
+          </Description>
           <StartingSkillTraining>
             <SkillTraining>
               <SkillCount>1</SkillCount>
               <Requirement>
-                <NonCareer>true</NonCareer>
+                <FromSkillType>true</FromSkillType>
+                <SkillType>stAll</SkillType>
               </Requirement>
             </SkillTraining>
           </StartingSkillTraining>
@@ -54,24 +61,28 @@ No species has changed the face of the galaxy and the Galactic Republic as much 
       </Options>
     </OptionChoice>
     <OptionChoice>
-      <Key>GEONOSIANCH2</Key>
-      <Name>Industrious</Name>
+      <Key>GEONOSIANOC2</Key>
+      <Name>Assistance</Name>
       <Options>
         <Option>
-          <Key>GEONOSIANCH2OP1</Key>
+          <Key>GEONOSIANOC2OP1</Key>
           <Name>Industrious</Name>
-          <Description>A Geonosian who provides assistance adds [BO] to the check, in addition to the normal benefits of assistance, and the Geonosian heals 1 strain,</Description>
+          <Description>
+            A Geonosian who provides assistance adds [BO] to the check, in addition to the normal benefits of assistance, and the Geonosian heals 1 strain.
+          </Description>
         </Option>
       </Options>
     </OptionChoice>
     <OptionChoice>
-      <Key>GEONOSIANCH3</Key>
-      <Name>Winged</Name>
+      <Key>GEONOSIANOC3</Key>
+      <Name>Flight</Name>
       <Options>
         <Option>
-          <Key>GEONOSIANCH3OP1</Key>
+          <Key>GEONOSIANOC3OP1</Key>
           <Name>Winged</Name>
-          <Description>Geonosians can fly. (See the Flying sidebar in [B]Chapter VI: Conflict and Combat[b] in any [I]Star Wars[i] Roleplaying core rulebook.)</Description>
+          <Description>
+            Geonosians can fly.
+          </Description>
         </Option>
       </Options>
     </OptionChoice>

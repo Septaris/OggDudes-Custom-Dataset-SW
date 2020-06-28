@@ -13,7 +13,7 @@
 [P][B]Language:[b] Iktotchi speak Iktotchese to eachother. In comparison to other languages, Iktotchese is a fairly straight-forward language. It lacks the variance and complex double meanings found in most other tongues. Xenolinguists tend to assume this stems from the fact that the precognitive Iktotchi can see through most misdirections and duplicity. Despire its relative simplicity, the language is complete, though it often incorporates loan-words, especially after contact with the Old Republic. Iktotchi typically have no difficulty learning and communicating in Basic.
 [P][B]Perception of the Force:[b] The Iktotchi have a long tradition of seers who hone their innate precognitive abilities, which the Jedi Order took a particular interest in when Iktotch joined the Old Republic. The Jedi soon discovered that even rudimentary training in the Force increases the potency of an Iktotchi's precognitive abilities dramatically.
 [P]During the days of the Republic the Iktotchi produced their fair share of Jedi Knights (as well as other types of Force users) who used their natural talents to augment the already impressive powers granted by the Force. To beings who can intuitively grasp future events, the Force might not seem as mystica and unknowable as it does to other species, but thanks to their acquaintence with prophecy, the Iktotchi have a deep respect for the power of the Force. The Jedi the Iktotchi have produced are often viewed as heroes. Even in the era of the Empire, these champions are remembered fondly on Iktotch, if spoken of infrequently and in hushed words.</Description>
-  <Source>Keeping the Peace</Source>
+  <Source Page="18">Keeping the Peace</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
@@ -34,6 +34,7 @@
       <RankStart>1</RankStart>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers />
   <OptionChoices>
     <OptionChoice>
       <Key>IKTOTCHICH1</Key>

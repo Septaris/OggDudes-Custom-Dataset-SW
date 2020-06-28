@@ -1,14 +1,14 @@
-<?xml version="1.0"?>
-<Specialization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" encoding="utf-8"?>
+<Specialization>
   <Key>MARAUDER</Key>
   <Name>Marauder</Name>
   <Description>[H4]Marauder - Up Close and Personal[h4]
 
-[P]Marauders don't necessarily mind shooting their opponents, but they would much rather get mixed up in a melee, weapons in hand, smashing and slashing their way through. Marauders are tough—probably the toughest combatants in any conflict. They tend to take a great deal of punishment while dealing out far more to any who dare go against them. 
+[P]Marauders don't necessarily mind shooting their opponents, but they would much rather get mixed up in a melee, weapons in hand, smashing and slashing their way through. Marauders are tough—probably the toughest combatants in any conflict. They tend to take a great deal of punishment while dealing out far more to any who dare go against them.
 
-[P]A Marauder's list of additional Career skills is not at all surprising: [B]Coercion, Melee, Resilience,[b] and [B]Survival[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. Marauders make excellent "leg-breakers," among other things, and they usually know quite a bit about how to survive in most situations. In combat, they are masters of dishing out and taking lots of damage. 
+[P]A Marauder's list of additional Career skills is not at all surprising: [B]Coercion, Melee, Resilience,[b] and [B]Survival[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. Marauders make excellent "leg-breakers," among other things, and they usually know quite a bit about how to survive in most situations. In combat, they are masters of dishing out and taking lots of damage.
 
-[P]Marauders may come from low-tech worlds, where advanced weaponry simply wasn't an option for them. Alternately, they might come from a culture where melee combat is considered far more honorable and worthy, and they keep to their traditions. Moreover, many pirates and raiders of starships favor melee weapons in order to avoid damaging vital systems aboard a ship they're in the middle of trying to take. 
+[P]Marauders may come from low-tech worlds, where advanced weaponry simply wasn't an option for them. Alternately, they might come from a culture where melee combat is considered far more honorable and worthy, and they keep to their traditions. Moreover, many pirates and raiders of starships favor melee weapons in order to avoid damaging vital systems aboard a ship they're in the middle of trying to take.
 
 [P]A character who chooses to be a Marauder might be an ex-pirate. Alternatively, he could be in the adventure to make money in the only way he can—with his fists. It could be that he's simply along for the ride, ready to bash his way through whatever adventure he encounters.</Description>
   <Source Page="78">Edge of the Empire Core Rulebook</Source>
@@ -21,6 +21,7 @@
   </CareerSkills>
   <TalentRows>
     <TalentRow>
+      <Index>0</Index>
       <Cost>5</Cost>
       <Talents>
         <Key>TOUGH</Key>
@@ -54,18 +55,18 @@
       </Talents>
       <Directions>
         <Direction>
-          <Right>true</Right>
           <Up>true</Up>
+          <Right>true</Right>
         </Direction>
         <Direction>
-          <Left>true</Left>
           <Right>true</Right>
+          <Left>true</Left>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>true</Left>
           <Right>true</Right>
+          <Left>true</Left>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
@@ -86,17 +87,17 @@
       </Talents>
       <Directions>
         <Direction>
-          <Right>true</Right>
           <Down>true</Down>
+          <Right>true</Right>
         </Direction>
         <Direction>
-          <Left>true</Left>
           <Right>true</Right>
+          <Left>true</Left>
           <Up>true</Up>
         </Direction>
         <Direction>
-          <Left>true</Left>
           <Right>true</Right>
+          <Left>true</Left>
           <Up>true</Up>
         </Direction>
         <Direction>
@@ -116,17 +117,17 @@
       </Talents>
       <Directions>
         <Direction>
-          <Right>true</Right>
           <Up>true</Up>
+          <Right>true</Right>
         </Direction>
         <Direction>
-          <Left>true</Left>
           <Right>true</Right>
+          <Left>true</Left>
           <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>true</Left>
           <Right>true</Right>
+          <Left>true</Left>
           <Down>true</Down>
         </Direction>
         <Direction>
@@ -149,13 +150,13 @@
           <Right>true</Right>
         </Direction>
         <Direction>
-          <Left>true</Left>
           <Right>true</Right>
+          <Left>true</Left>
           <Up>true</Up>
         </Direction>
         <Direction>
-          <Left>true</Left>
           <Right>true</Right>
+          <Left>true</Left>
           <Up>true</Up>
         </Direction>
         <Direction>

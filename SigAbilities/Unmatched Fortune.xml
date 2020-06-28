@@ -3,10 +3,12 @@
   <Key>UNMATCHEDFORTUNE</Key>
   <Name>Unmatched Fortune</Name>
   <Description>Smugglers learn early on to be self-reliant and sure of themselves. It isn't enough to hope things will work out or believe in some hokey religion—they have to take luck into their own hands if they want to keep flying, much less make a credit or two.</Description>
-  <Source>Fly Casual</Source>
+  <Source Page="39">Fly Casual</Source>
+  <Sources />
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>UNMATCHFORTUNEBASE</Key>
         <Key>UNMATCHFORTUNEBASE</Key>
@@ -15,11 +17,27 @@
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
-        <Direction />
-        <Direction />
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
@@ -37,6 +55,7 @@
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>FREQUENCYUF</Key>
         <Key>INCREASENUMBERUF</Key>
@@ -45,6 +64,7 @@
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
@@ -52,16 +72,20 @@
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
       <AbilitySpan>
@@ -78,6 +102,7 @@
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>DESTINYUF</Key>
         <Key>INCREASEEFFECTUF</Key>
@@ -86,17 +111,28 @@
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
       <AbilitySpan>

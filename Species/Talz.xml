@@ -36,8 +36,10 @@ The Talz are a culturally and technologically primitive species native to the fr
     <SkillModifier>
       <Key>PERC</Key>
       <RankStart>1</RankStart>
+      <RankLimit>2</RankLimit>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers />
   <OptionChoices>
     <OptionChoice>
       <Key>TALZCH1</Key>
@@ -56,7 +58,6 @@ The Talz are a culturally and technologically primitive species native to the fr
       <AllSkillKey>BRAWL</AllSkillKey>
       <DamageAdd>1</DamageAdd>
       <Crit>3</Crit>
-      <Range>Engaged</Range>
     </WeaponModifier>
   </WeaponModifiers>
 </Species>

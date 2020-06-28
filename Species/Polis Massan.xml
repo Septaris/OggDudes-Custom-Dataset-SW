@@ -13,7 +13,7 @@ member serves an important role. As such, every Polis Massan views his fellows a
 [P]Polis Massa is the largest asteroid in the Polis Massa Asteroid Field. The field is composed of countless fragments of the Eellayin homeworld, which was destroyed by some kind of cataclysm long ago. Though the asteroid is airless and incapable of supporting life, the Polis Massans have established a number of outposts where they can live and perform their research in peace.
 [P][B]Language:[b] The native language of the Polis Massan species is known as Massan. Because few Polis Massans possess vocal chords, the language is a combination of elaborate signs, body language, and telepathy. Though they are able to learn the languages of other species, the average Polis Massan lacks the organs required to actually speak them. A rare few Polis Massans do possess vocal chords, however, and many such individuals have proven to be skilled linguists.
 [P][B]Life in the Rebellion:[b] While Polis Massans have long supported the Rebel Alliance indirectly, it is a rare individual who actively seeks to fight against the Empire in a more direct capacity. When a Polis Massan does join the Rebellion, it is often in the role of a doctor, medic, or other healer. Polis Massan scholars have also been known to join the Alliance for a chance to see other parts of the galaxy for themselves and to meet members of other alien species first hand.</Description>
-  <Source>Strongholds of Resistance</Source>
+  <Source Page="98">Strongholds of Resistance</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>1</Brawn>
@@ -22,22 +22,55 @@ member serves an important role. As such, every Polis Massan views his fellows a
     <Cunning>2</Cunning>
     <Willpower>3</Willpower>
     <Presence>1</Presence>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+      <WieldingMelee>false</WieldingMelee>
+      <WieldingBrawl>false</WieldingBrawl>
+      <WieldingLightsaber>false</WieldingLightsaber>
+    </Requirement>
   </StartingChars>
   <StartingAttrs>
     <WoundThreshold>8</WoundThreshold>
     <StrainThreshold>11</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
     <Experience>100</Experience>
+    <ForceRating>0</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+      <WieldingMelee>false</WieldingMelee>
+      <WieldingBrawl>false</WieldingBrawl>
+      <WieldingLightsaber>false</WieldingLightsaber>
+    </Requirement>
   </StartingAttrs>
   <SkillModifiers>
     <SkillModifier>
       <Key>MED</Key>
+      <SubSpeciesKey />
       <RankStart>1</RankStart>
+      <RankAdd>0</RankAdd>
+      <RankLimit>2</RankLimit>
+      <isCareer>false</isCareer>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers />
   <OptionChoices>
     <OptionChoice>
       <Key>POLISMASSANCH1</Key>
       <Name>Vocal Chords</Name>
+      <Description />
+      <Source />
+      <Sources />
+      <Custom>Base</Custom>
       <Options>
         <Option>
           <Key>POLISMASSANCH1OP1</Key>
@@ -70,4 +103,8 @@ member serves an important role. As such, every Polis Massan views his fellows a
       </Options>
     </OptionChoice>
   </OptionChoices>
+  <WeaponModifiers />
+  <SubSpeciesList />
+  <CyberneticsAdjust>0</CyberneticsAdjust>
+  <NoForceAbilities>false</NoForceAbilities>
 </Species>

@@ -1,12 +1,12 @@
-<?xml version="1.0"?>
-<Specialization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" encoding="utf-8"?>
+<Specialization>
   <Key>PILOT</Key>
   <Name>Pilot</Name>
   <Description>[H4]Pilot - A Galaxy of Destinations[h4]
 
-[P]Plenty of folks know how to fly a starship, but a Smuggler who specializes as a Pilot develops a relationship with his ship, and it becomes an extension of his wit and his will. He can make a plodding old transport run far above its performance ratings, and given time and some modifications, he can turn it into one of the fleetest and most maneuverable craft ever to take to the stars. 
+[P]Plenty of folks know how to fly a starship, but a Smuggler who specializes as a Pilot develops a relationship with his ship, and it becomes an extension of his wit and his will. He can make a plodding old transport run far above its performance ratings, and given time and some modifications, he can turn it into one of the fleetest and most maneuverable craft ever to take to the stars.
 
-[P]A Pilot is naturally focused on mastering his craft, and his additional career skills show it: [B]Astrogation, Gunnery, Piloting (Planetary),[b] and [B]Piloting (Space)[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. A Pilot's talents further reinforce his dominance in the cockpit. 
+[P]A Pilot is naturally focused on mastering his craft, and his additional career skills show it: [B]Astrogation, Gunnery, Piloting (Planetary),[b] and [B]Piloting (Space)[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. A Pilot's talents further reinforce his dominance in the cockpit.
 
 [P]Pilot is another specialization that rarely leads to unemployment. If a Pilot doesn't already have his own ship (and the inevitable Obligation that goes with it), he will likely be able to sign on with any number of groups, criminal or otherwise. Once he establishes his competency at the controls, he'll be able to get some fairly choice assignments. A Player Character Pilot will be considered indispensable to his group, especially after the first space battle or ship-related crisis.</Description>
   <Sources>
@@ -22,6 +22,7 @@
   </CareerSkills>
   <TalentRows>
     <TalentRow>
+      <Index>0</Index>
       <Cost>5</Cost>
       <Talents>
         <Key>FULLTH</Key>
@@ -55,24 +56,24 @@
       </Talents>
       <Directions>
         <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
           <Right>true</Right>
-          <Up>true</Up>
-          <Down>true</Down>
         </Direction>
         <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
           <Left>true</Left>
-          <Up>true</Up>
-          <Down>true</Down>
         </Direction>
         <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
           <Right>true</Right>
-          <Up>true</Up>
-          <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>true</Left>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
+          <Left>true</Left>
         </Direction>
       </Directions>
     </TalentRow>
@@ -87,21 +88,21 @@
       </Talents>
       <Directions>
         <Direction>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
         </Direction>
         <Direction>
           <Up>true</Up>
         </Direction>
         <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
           <Right>true</Right>
-          <Up>true</Up>
-          <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>true</Left>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
+          <Left>true</Left>
         </Direction>
       </Directions>
     </TalentRow>
@@ -116,20 +117,20 @@
       </Talents>
       <Directions>
         <Direction>
-          <Right>true</Right>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
+          <Right>true</Right>
         </Direction>
         <Direction>
           <Left>true</Left>
         </Direction>
         <Direction>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
         </Direction>
         <Direction>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
         </Direction>
       </Directions>
     </TalentRow>
@@ -144,21 +145,21 @@
       </Talents>
       <Directions>
         <Direction>
-          <Right>true</Right>
           <Up>true</Up>
-        </Direction>
-        <Direction>
-          <Left>true</Left>
           <Right>true</Right>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
-          <Up>true</Up>
         </Direction>
         <Direction>
-          <Left>true</Left>
           <Up>true</Up>
+          <Left>true</Left>
+          <Right>true</Right>
+        </Direction>
+        <Direction>
+          <Up>true</Up>
+          <Left>true</Left>
         </Direction>
       </Directions>
     </TalentRow>

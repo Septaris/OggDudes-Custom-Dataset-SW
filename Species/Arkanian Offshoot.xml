@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Species xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" encoding="utf-8" ?>
+<Species>
   <Key>ARKANOFF</Key>
   <Name>Arkanian Offshoot</Name>
   <Description>
@@ -7,7 +7,7 @@
 
 The Arkanian Offshoots are a sub-species of the Arkanian race, genetically engineered by the famed Arkanian scientists and genetic researchers of the Old Republic era.
 
-[P]Known to be unscrupulous when it came to the bounds of scientific exploration, the geneticists of Arkania began to experiment on their own species, mixing the blood of other races with their own to create offshoots of the Arkanian species. 
+[P]Known to be unscrupulous when it came to the bounds of scientific exploration, the geneticists of Arkania began to experiment on their own species, mixing the blood of other races with their own to create offshoots of the Arkanian species.
 
 [P][B]Physiology:[b] Most Arkanian Offshoots are of a particular sub-species bred as workers for the famed Arkanian gem mines.  These people have five-fingered hands and eyes resembling the Human race after which their blood was mixed. They also have the pointed ears of the Sephi of Thustra, a species of humanoids with whom they also share genetic material.  
 
@@ -17,7 +17,8 @@ The Arkanian Offshoots are a sub-species of the Arkanian race, genetically engin
 
 [P][B]Homeworld:[b] Arkania is the adopted homeworld of the Arkanian species. It is covered with tundra and rich in diamonds and other precious minerals, which the Arkanians mine to further their offworld connections and master their technology. Arkanian cities are designed to keep the cold out, and are mostly completely enclosed. Off-world visitors rarely have to deal with the frigid conditions of the planet.
 
-[P][B]Language:[b] The language of the Arkanian people was developed on their homeworld, Arkania before they made contact with the civilized galaxy and the Galactic Republic. When contact with the greater galaxy was established, young Arkanians were taught Arkanian and Basic, so the majority of the population is bilingual. Among the Arkanian Offshoots, a slightly different dialect gradually emerged, emphasizing words of submission and forgetting those of victory or the desire to challenge.</Description>
+[P][B]Language:[b] The language of the Arkanian people was developed on their homeworld, Arkania before they made contact with the civilized galaxy and the Galactic Republic. When contact with the greater galaxy was established, young Arkanians were taught Arkanian and Basic, so the majority of the population is bilingual. Among the Arkanian Offshoots, a slightly different dialect gradually emerged, emphasizing words of submission and forgetting those of victory or the desire to challenge.
+  </Description>
   <Source>Unofficial Species Menagerie</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
@@ -33,6 +34,8 @@ The Arkanian Offshoots are a sub-species of the Arkanian race, genetically engin
     <StrainThreshold>10</StrainThreshold>
     <Experience>110</Experience>
   </StartingAttrs>
+  <SkillModifiers>
+  </SkillModifiers>
   <OptionChoices>
     <OptionChoice>
       <Key>ARKANOFFAB1</Key>

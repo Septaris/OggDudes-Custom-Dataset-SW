@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Species xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Key>BALOSARS</Key>
+  <Key>BALOSAR</Key>
   <Name>Balosar</Name>
   <Description>[H4]Balosar[h4]
 Across the galaxy, Balosars are regarded as untrustworthy grifters and con artists. Callow and opportunistic, these near-humans are scorned by respectable society. Despite perceptions across the galaxy, though, Balosars are quite glib and somehow manage to talk their way into (and out of) situations that are none of their business. It is this talent, combined with their stubborn refusal to surrender when things go badly, that allows them to survive and thrive in a galaxy torn apart by war and corruption.
@@ -13,7 +13,7 @@ Across the galaxy, Balosars are regarded as untrustworthy grifters and con artis
 [P][B]Language:[b] The Balosars speak their own language, also called Balosar. It combines rasping hisses and odd clicks with subtle gestures from their antennapalps. This makes it impossible for non-Balosars to communicate fluently; when outsiders speak the language, it comes off as stilted and crude. Balosars speak Basic and are as capable as humans of learning other languages. They also regularly use their antennapalps to pass simple messages to other Balosars without other species taking notice.
 [P][B]Life in the Alliance:[b] Most Balosars join the Rebel Alliance out of a simple desire to survive. Those who can tolerate the idealistic rhetoric of the Alliance find themselves in the unlikely position of being seen as valued assets because of their natural charm. Some Balosars find purpose or even hope among their new allies, discovering a renewed spirit and an unexpected sense of belonging.</Description>
   <Source Page="19">Cyphers and Masks</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>2</Agility>
@@ -31,17 +31,20 @@ Across the galaxy, Balosars are regarded as untrustworthy grifters and con artis
     <SkillModifier>
       <Key>SW</Key>
       <RankStart>1</RankStart>
+      <RankLimit>2</RankLimit>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers>
+  </TalentModifiers>
   <OptionChoices>
     <OptionChoice>
-      <Key>BALOSARSCH1</Key>
+      <Key>BALOSARCH1</Key>
       <Name>Physiology</Name>
       <Options>
         <Option>
-          <Key>BALOSARSCH1OP1</Key>
+          <Key>BALOSARCH1OP1</Key>
           <Name>Antennapalps</Name>
-          <Description>Balosars add automatic [AD][AD] to Vigilance checks they make.</Description>
+          <Description>Balosars add automatic [AD][AD] to all Vigilance checks.</Description>
           <DieModifiers>
             <DieModifier>
               <SkillKey>VIGIL</SkillKey>

@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <Specialization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Key>CLONEOFFICER</Key>
+  <Key>CLONEOFF</Key>
   <Name>Clone Officer</Name>
   <Description>[H4]Clone Officer[h4]
 Every military organization depends upon its officers to function effectively. In most armies, this starts with noncommissioned officers, who work directly with line infantry and extends to the highest-ranking generals, who devise the force's tactics and strategies. Sometimes, an officer needs to be a friend to the soldiers for whom they are responsible. At other times, the officer represents a supreme authority, one who can tolerate no dissension. In the Grand Army of the Republic, Clone Officers assume all but the very highest level of responsibility for their fellow clones, and every officer is a career soldier.
 
-[P]Clone Officers receive [B]Cool, Leadership, Knowledge (Outer Rim),[b] and [B]Knowledge (Warfare)[b] as additional career skills. Characters who select this as their starting specialization may choose two of these skills and gain one free rank in each without spending starting experience. Officers need to recognize trouble at its earliest signs and react calmly to it. They also need their soldiers to believe that they have already foreseen every possible complication and have appropriate plans to respond to each. A thorough familiarity with the army's standard tactics and the capabilities of the units tender their command are critical for implementing the appropriate strategy. 
+[P]Clone Officers receive [B]Cool, Leadership, Knowledge (Outer Rim),[b] and [B]Knowledge (Warfare)[b] as additional career skills. Characters who select this as their starting specialization may choose two of these skills and gain one free rank in each without spending starting experience. Officers need to recognize trouble at its earliest signs and react calmly to it. They also need their soldiers to believe that they have already foreseen every possible complication and have appropriate plans to respond to each. A thorough familiarity with the army's standard tactics and the capabilities of the units tender their command are critical for implementing the appropriate strategy.
 
-[P]The Grand Army of the Republic (GAR) includes Clone Officers at a range of ranks, based upon their level of responsibility. In some instances, clones are promoted based upon their performance, but this is not always the case. Due to the differences in training and the constant need for Clone Officers, many Clone Officers are trained to perform at a higher rank from the time they are decanted. 
+[P]The Grand Army of the Republic (GAR) includes Clone Officers at a range of ranks, based upon their level of responsibility. In some instances, clones are promoted based upon their performance, but this is not always the case. Due to the differences in training and the constant need for Clone Officers, many Clone Officers are trained to perform at a higher rank from the time they are decanted.
 
 [P]A done sergeant manages a single squad of nine troopers. In this role, they develop a close relationship working with the members of the squad. They learn the particular knacks of each clone in their unit and recognize which troopers are best suited for particular tasks. Sergeants see the same action as the rest of their squad, so they are often at the front lines.
 
@@ -18,7 +18,7 @@ Every military organization depends upon its officers to function effectively. I
 [P]Initially, Clone Officers wore color-based arm and chest identifiers on their uniforms. Sergeants wore pesto, lieutenants blue, captains maroon, and commanders yellow. This enabled every Clone Trooper to quickly identify their officers in the heat of battle, even when support systems were down. As the war has progressed, however, enemy units have exploited this easy recognition, and the Jedi have encouraged Clone Officers to uniquely identify themselves. Consequently, armor markings are becoming more personal, and the standard schemes are likely to soon be largely abandoned.
 </Description>
   <Source Page="21">Rise of the Separatists</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>COOL</Key>
     <Key>LEAD</Key>
@@ -48,10 +48,10 @@ Every military organization depends upon its officers to function effectively. I
     <TalentRow>
       <Cost>10</Cost>
       <Talents>
-        <Key>TACAD</Key>
+        <Key>TACTADV</Key>
         <Key>COM</Key>
         <Key>FIRSTBRO</Key>
-        <Key>CLANKKILL</Key>
+        <Key>CLANKILL</Key>
       </Talents>
       <Directions>
         <Direction>
@@ -61,6 +61,7 @@ Every military organization depends upon its officers to function effectively. I
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Down>true</Down>
         </Direction>
         <Direction>
           <Right>true</Right>
@@ -86,7 +87,10 @@ Every military organization depends upon its officers to function effectively. I
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
-        <Direction />
+        <Direction>
+          <Up>true</Up>
+          <Down>true</Down>
+        </Direction>
         <Direction>
           <Up>true</Up>
           <Down>true</Down>
@@ -101,7 +105,7 @@ Every military organization depends upon its officers to function effectively. I
       <Cost>20</Cost>
       <Talents>
         <Key>FLDCOMM</Key>
-        <Key>IMPTACAD</Key>
+        <Key>TACTADVIMP</Key>
         <Key>FIRSTBRO</Key>
         <Key>SCRAPEM</Key>
       </Talents>
@@ -113,6 +117,7 @@ Every military organization depends upon its officers to function effectively. I
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Up>true</Up>
         </Direction>
         <Direction>
           <Right>true</Right>
@@ -130,8 +135,8 @@ Every military organization depends upon its officers to function effectively. I
       <Talents>
         <Key>FLDCOMMIMP</Key>
         <Key>DEDI</Key>
-        <Key>IMPSCRAPEM</Key>
-        <Key>FORTHEREPUB</Key>
+        <Key>SCRAPEMIMP</Key>
+        <Key>FORREP</Key>
       </Talents>
       <Directions>
         <Direction>

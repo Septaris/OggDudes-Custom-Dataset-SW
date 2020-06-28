@@ -17,7 +17,7 @@ The Drall are renowned throughout the galaxy as thinkers. A race of scholars and
 [P][B]Homeworid:[b] A relatively temperate world of rolling grasslands and forests, the Drall homeworld is the second planet from Corell. Dotted with several large, land-locked seas—the most famous of which is the Boiling Sea—Drall remains sparsely populated and largely rural, with only a few small urban regions and scattered townships. The climate is uncomfortably warm during the summer, only cooled by mild winter precipitation.
 
 [P][B]Language:[b] The Drall speak Drallish. As might be expected of a species obsessed with knowledge and record-keeping, Drallish is a very precise language with an enormous vocabulary and different words to describe subtle variations of the same thing or concept. Truly mastering the language is difficult for native speakers, and most non-Drall are lucky to be at best conversant. Nearly all Drall also speak Basic fluently, and most tend to speak multiple languages.</Description>
-  <Source>Suns of Fortune</Source>
+  <Source Page="90">Suns of Fortune</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>1</Brawn>
@@ -36,12 +36,17 @@ The Drall are renowned throughout the galaxy as thinkers. A race of scholars and
     <SkillModifier>
       <Key>EDU</Key>
       <RankStart>1</RankStart>
+      <RankLimit>2</RankLimit>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers />
   <OptionChoices>
     <OptionChoice>
       <Key>DRALLCH1</Key>
       <Name>Checks</Name>
+      <Description />
+      <Source />
+      <Custom>Base</Custom>
       <Options>
         <Option>
           <Key>DRALLCH1OP1</Key>

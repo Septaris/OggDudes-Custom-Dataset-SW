@@ -45,8 +45,10 @@ The Ugnaughts are porcine humanoids with slightly upturned noses from the planet
             <SkillModifier>
               <Key>MECH</Key>
               <RankStart>1</RankStart>
+              <RankLimit>2</RankLimit>
             </SkillModifier>
           </SkillModifiers>
+          <TalentModifiers />
         </Option>
         <Option>
           <Key>UGNAUGHTSCH1OP2</Key>
@@ -56,8 +58,10 @@ The Ugnaughts are porcine humanoids with slightly upturned noses from the planet
             <SkillModifier>
               <Key>NEG</Key>
               <RankStart>1</RankStart>
+              <RankLimit>2</RankLimit>
             </SkillModifier>
           </SkillModifiers>
+          <TalentModifiers />
         </Option>
       </Options>
     </OptionChoice>

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Species xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Species>
   <Key>WHIPHID</Key>
   <Name>Whiphid</Name>
   <Description>[H4]Whiphid[h4]
@@ -25,75 +25,82 @@ Whiphids are tall, muscled, furred sentient beings from the planet Toola. They a
 [P]There is no written form of Whiphid language. The language's working vocabulary is limited to six thousand words.
 
 [P]Most Whiphids are only fluent in Whiphid, and not in Basic.</Description>
-  <Source>Unofficial Species Menagerie</Source>
+  <Source Page="21">Keeping the Peace</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>3</Brawn>
     <Agility>2</Agility>
-    <Intellect>1</Intellect>
-    <Cunning>2</Cunning>
+    <Intellect>2</Intellect>
+    <Cunning>1</Cunning>
     <Willpower>2</Willpower>
     <Presence>2</Presence>
   </StartingChars>
   <StartingAttrs>
     <WoundThreshold>12</WoundThreshold>
-    <StrainThreshold>8</StrainThreshold>
-    <Experience>90</Experience>
+    <StrainThreshold>10</StrainThreshold>
+    <Experience>80</Experience>
   </StartingAttrs>
+  <SkillModifiers>
+    <SkillModifier>
+      <Key>SURV</Key>
+      <RankStart>1</RankStart>
+      <RankLimit>2</RankLimit>
+    </SkillModifier>
+  </SkillModifiers>
   <TalentModifiers>
-    <TalentModifier>
-      <Key>EXTRACK</Key>
-      <RankAdd>1</RankAdd>
-    </TalentModifier>
   </TalentModifiers>
   <OptionChoices>
     <OptionChoice>
       <Key>WHIPHIDCH1</Key>
-      <Name>Claws</Name>
+      <Name></Name>
+      <Description />
       <Options>
         <Option>
           <Key>WHIPHIDCH1OP1</Key>
-          <Name>Claws</Name>
+          <Name>Tusks</Name>
           <Description>When a Whiphid makes a Brawl check
 to deal damage to an opponent, their attack
-deals +1 point of damage and has a Crit Rating
-of 3.</Description>
+deals +2 point of damage, has a Crit Rating
+of 4, and has the Vicious 1 quality.</Description>
         </Option>
       </Options>
     </OptionChoice>
     <OptionChoice>
       <Key>WHIPHIDCH2</Key>
-      <Name>Conceal</Name>
+      <Name>Survival</Name>
+      <Description />
       <Options>
         <Option>
           <Key>WHIPHIDCH2OP1</Key>
-          <Name>Scent</Name>
-          <Description>Whiphids may remove all [SETBACK]
-imposed due to concealment against a target
-that is within Short Range.</Description>
-        </Option>
-      </Options>
-    </OptionChoice>
-    <OptionChoice>
-      <Key>WHIPHIDCH3</Key>
-      <Name>Cold</Name>
-      <Options>
-        <Option>
-          <Key>WHIPHIDCH3OP1</Key>
-          <Name>Insulated Fur</Name>
-          <Description>When making skill checks,
-Whiphids may remove one [SETBACK]imposed
-due to cold environmental conditions.</Description>
+          <Name>Hardy Survivalist</Name>
+          <Description>A Whiphid adds automatic [SU] to Survival checks and can survive for several weeks without food thanks to reserve blubber.</Description>
+          <DieModifiers>
+            <DieModifier>
+              <SkillKey>SURV</SkillKey>
+              <SuccessCount>1</SuccessCount>
+            </DieModifier>
+          </DieModifiers>
         </Option>
       </Options>
     </OptionChoice>
   </OptionChoices>
   <WeaponModifiers>
     <WeaponModifier>
+      <Unarmed>false</Unarmed>
+      <UnarmedName />
+      <SkillKey />
       <AllSkillKey>BRAWL</AllSkillKey>
-      <DamageAdd>1</DamageAdd>
-      <Crit>3</Crit>
-      <Range>Engaged</Range>
+      <Damage>0</Damage>
+      <DamageAdd>2</DamageAdd>
+      <Crit>4</Crit>
+      <CritSub>0</CritSub>
+      <RangeValue>wrEngaged</RangeValue>
+      <Qualities>
+        <Quality>
+          <Key>VICIOUS</Key>
+          <Count>1</Count>
+        </Quality>
+      </Qualities>
     </WeaponModifier>
   </WeaponModifiers>
 </Species>

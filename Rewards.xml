@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Rewards xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" encoding="utf-8" ?>
+<Rewards>
   <Reward>
     <Key>BS</Key>
     <Name>Battle Scar</Name>
@@ -454,6 +454,7 @@ Allies can serve as a combined knowledge base for a Warrior. Once per session, t
       </OptionChoice>
     </OptionChoices>
   </Reward>
+
   <Reward>
     <Key>APPRENTICE</Key>
     <Name>Apprentice</Name>
@@ -586,73 +587,6 @@ Mechanically, schools improve all checks made by allies, apprentices, and follow
             <Key>SCHOAB1OP3</Key>
             <Name>Training Academy</Name>
             <Description>Upgrade ability of follower and ally checks, and add [AD][SU] to checks aided by an apprentice.</Description>
-            <StartingAttributes>
-              <Experience>15</Experience>
-            </StartingAttributes>
-          </Option>
-        </Options>
-      </OptionChoice>
-    </OptionChoices>
-  </Reward>
-  <Reward>
-    <Key>HONTITLE</Key>
-    <Name>Honored Title</Name>
-    <Description>[H3]Honored Title[h3]
-There are three basic types of titles, each with different effects. Classroom titles are ranks denoting a level of mastery earned in a martial tradition, and impact Coercion and Negotiation checks. Championship titles represent a victory in a competition and impact Charm and Deception checks. Finally, Legendary titles represent specific acts performed on the battlefield, and impact Coercion and Leadership checks. [P]
-To acquire a title, a character must pay the XP cost indicated. Titles must be acquired in order, from minor, to moderate, to major. Each new rank of the title replaces the one before it. To use a title to benefit a Social skill check, the PC or an ally must invoke it in conversation. Each title can be invoked once per encounter.
-
-[P]Please see page 92 of the Knights of Fate Sourcebook for details.
-    </Description>
-    <Sources>
-      <Source Page="92">Knights of Fate</Source>
-    </Sources>
-    <Custom>DescOnly</Custom>
-    <OptionChoices>
-      <OptionChoice>
-        <Key>CLASSTITLEAB1</Key>
-        <Name>Type</Name>
-        <Options>
-          <Option>
-            <Key>CLASSTITLEAB1OP1</Key>
-            <Name>Classroom Title</Name>
-            <Description>Received for formalized study of a martial art.[BR][B]Applicable Social Skills[b]:Coercion, Negotiation</Description>
-          </Option>
-          <Option>
-            <Key>CLASSTITLEAB1OP2</Key>
-            <Name>Championship Title</Name>
-            <Description>Received for winning a competition.[BR][B]Applicable Social Skills[b]: Charm, Deception</Description>
-          </Option>
-          <Option>
-            <Key>CLASSTITLEAB1OP3</Key>
-            <Name>Legendary Title</Name>
-            <Description>Received for combat experience.[BR][B]Applicable Social Skills[b]: Coercion, Leadership</Description>
-          </Option>
-        </Options>
-      </OptionChoice>
-      <OptionChoice>
-        <Key>CLASSTITLEAB2</Key>
-        <Name>Benefits</Name>
-        <Options>
-          <Option>
-            <Key>CLASSTITLEAB2OP1</Key>
-            <Name>Minor Title</Name>
-            <Description>Once per encounter, add [BO][BO] to the next applicable social skill check.</Description>
-            <StartingAttributes>
-              <Experience>5</Experience>
-            </StartingAttributes>
-          </Option>
-          <Option>
-            <Key>CLASSTITLEAB2OP2</Key>
-            <Name>Moderate Title</Name>
-            <Description>Once per encounter, upgrade ability of the next applicable social skill check.</Description>
-            <StartingAttributes>
-              <Experience>10</Experience>
-            </StartingAttributes>
-          </Option>
-          <Option>
-            <Key>CLASSTITLEAB2OP3</Key>
-            <Name>Major Title</Name>
-            <Description>Once per encounter, add [SU][SU] to the next applicable social skill check.</Description>
             <StartingAttributes>
               <Experience>15</Experience>
             </StartingAttributes>
@@ -796,6 +730,73 @@ The number of common military and civilian decorations bestowed by the Alliance 
             <Key>DECAB1OP4</Key>
             <Name>Infantryman's Badge</Name>
             <Description>You have earned the Infantryman's Badge for completing your first combat mission.</Description>
+          </Option>
+        </Options>
+      </OptionChoice>
+    </OptionChoices>
+  </Reward>
+  <Reward>
+    <Key>HONTITLE</Key>
+    <Name>Honored Title</Name>
+    <Description>[H3]Honored Title[h3]
+There are three basic types of titles, each with different effects. Classroom titles are ranks denoting a level of mastery earned in a martial tradition, and impact Coercion and Negotiation checks. Championship titles represent a victory in a competition and impact Charm and Deception checks. Finally, Legendary titles represent specific acts performed on the battlefield, and impact Coercion and Leadership checks. [P]
+To acquire a title, a character must pay the XP cost indicated. Titles must be acquired in order, from minor, to moderate, to major. Each new rank of the title replaces the one before it. To use a title to benefit a Social skill check, the PC or an ally must invoke it in conversation. Each title can be invoked once per encounter.
+
+[P]Please see page 92 of the Knights of Fate Sourcebook for details.
+    </Description>
+    <Sources>
+      <Source Page="92">Knights of Fate</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <OptionChoices>
+      <OptionChoice>
+        <Key>CLASSTITLEAB1</Key>
+        <Name>Type</Name>
+        <Options>
+          <Option>
+            <Key>CLASSTITLEAB1OP1</Key>
+            <Name>Classroom Title</Name>
+            <Description>Received for formalized study of a martial art.[BR][B]Applicable Social Skills[b]:Coercion, Negotiation</Description>
+          </Option>
+          <Option>
+            <Key>CLASSTITLEAB1OP2</Key>
+            <Name>Championship Title</Name>
+            <Description>Received for winning a competition.[BR][B]Applicable Social Skills[b]: Charm, Deception</Description>
+          </Option>
+          <Option>
+            <Key>CLASSTITLEAB1OP3</Key>
+            <Name>Legendary Title</Name>
+            <Description>Received for combat experience.[BR][B]Applicable Social Skills[b]: Coercion, Leadership</Description>
+          </Option>
+        </Options>
+      </OptionChoice>
+      <OptionChoice>
+        <Key>CLASSTITLEAB2</Key>
+        <Name>Benefits</Name>
+        <Options>
+          <Option>
+            <Key>CLASSTITLEAB2OP1</Key>
+            <Name>Minor Title</Name>
+            <Description>Once per encounter, add [BO][BO] to the next applicable social skill check.</Description>
+            <StartingAttributes>
+              <Experience>5</Experience>
+            </StartingAttributes>
+          </Option>
+          <Option>
+            <Key>CLASSTITLEAB2OP2</Key>
+            <Name>Moderate Title</Name>
+            <Description>Once per encounter, upgrade ability of the next applicable social skill check.</Description>
+            <StartingAttributes>
+              <Experience>10</Experience>
+            </StartingAttributes>
+          </Option>
+          <Option>
+            <Key>CLASSTITLEAB2OP3</Key>
+            <Name>Major Title</Name>
+            <Description>Once per encounter, add [SU][SU] to the next applicable social skill check.</Description>
+            <StartingAttributes>
+              <Experience>15</Experience>
+            </StartingAttributes>
           </Option>
         </Options>
       </OptionChoice>

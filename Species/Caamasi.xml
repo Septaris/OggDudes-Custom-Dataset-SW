@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Species xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" encoding="utf-8" ?>
+<Species>
   <Key>CAAMASI</Key>
   <Name>Caamasi</Name>
   <Description>
@@ -22,7 +22,7 @@ The Caamasi are a species of furred humanoids recovering from the brink of extin
 [P]The Caamasi species was reduced to a slim fraction of its former numbers, but a new generation has since pulled them from the brink of extinction. Officially, the devastation wrought on Caamas was the result of bombs planted by the Separatists, and too few survivors made it offworld to contradict the Imperial propaganda. However, many Caamasi find the Empire's story too convenient for their liking, especially in the wake of the destruction of Alderaan. The Rebellion is a popular cause for the new generation of Caamasi, who join in the hope that no one else loses a homeworld to the Empire. 
 
 [P][B]Language:[b] Caamasi is the name of both the language and the species that originated on the world of Caamas, and with its bombardment, both are in danger of disappearing from the galaxy. Caamasi make a habit of learning the native languages of other species they encounter, and a Caamasi without fluency in Basic is practically unheard of. Their emphasis on learning the languages of others may have put their own language in danger, but surviving Caamasi elders have begun passing down their native tongue through lessons and the sharing of memnii.</Description>
-  <Source>Desperate Allies</Source>
+  <Source Page="19">Desperate Allies</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
@@ -37,6 +37,10 @@ The Caamasi are a species of furred humanoids recovering from the brink of extin
     <StrainThreshold>11</StrainThreshold>
     <Experience>100</Experience>
   </StartingAttrs>
+  <SkillModifiers>
+  </SkillModifiers>
+  <TalentModifiers>
+  </TalentModifiers>
   <OptionChoices>
     <OptionChoice>
       <Key>CAAABSK</Key>
@@ -65,7 +69,7 @@ The Caamasi are a species of furred humanoids recovering from the brink of extin
           </SkillModifiers>
         </Option>
       </Options>
-    </OptionChoice>
+    </OptionChoice> 
     <OptionChoice>
       <Key>CAAAB2</Key>
       <Name>Memories</Name>
@@ -76,6 +80,8 @@ The Caamasi are a species of furred humanoids recovering from the brink of extin
           <Description>
             Once per game session, a Caamasi may form a new memnis that encompasses one scene or encounter.  At any time, a Caamasi may perfectly recall any memnis that he has formed or witnessed, or share it with another Caamasi or Force-sensitive.
           </Description>
+          <DieModifiers>
+          </DieModifiers>
         </Option>
       </Options>
     </OptionChoice>

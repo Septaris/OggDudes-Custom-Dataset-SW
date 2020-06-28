@@ -7,8 +7,8 @@ The Jedi's six career skills are [B]Athletics, Cool, Discipline, Knowledge (Lore
 
 [H4]A WARRIOR FOR PEACE[h4]
 
-The Jedi of today have different roles than those described in myths, legends, and folk tales. These stories describe strange mystics, tyrant-toppling heroes, and shadowy figures manipulating minds. While such tales have some basis in fact, the Jedi now serve as generals, soldiers, emergency response specialists, and-in some cases-enforcers of the Galactic Republic's will. 
-[P]Since the outbreak of the Clone Wars, Jedi have found themselves exploring the more esoteric aspects of the Force only rarely. Rather than philosophizing, they spend much of their time engaged in such activities as fighting battle droids, uncovering Separatist agents, and helping civilians survive the effects of the war with only limited support from the Republic government. 
+The Jedi of today have different roles than those described in myths, legends, and folk tales. These stories describe strange mystics, tyrant-toppling heroes, and shadowy figures manipulating minds. While such tales have some basis in fact, the Jedi now serve as generals, soldiers, emergency response specialists, and-in some cases-enforcers of the Galactic Republic's will.
+[P]Since the outbreak of the Clone Wars, Jedi have found themselves exploring the more esoteric aspects of the Force only rarely. Rather than philosophizing, they spend much of their time engaged in such activities as fighting battle droids, uncovering Separatist agents, and helping civilians survive the effects of the war with only limited support from the Republic government.
 [P]Jedi begin as Initiates or younglings, become Padawans for one-on-one training, progress to Knights when ready for independent responsibility, and may ultimately become Masters, who may adopt a monastic, scholarly, or administrative life. The urgency of the Clone Wars favors this structured approach, as these titles also help dictate wartime responsibilities. Masters advise the Jedi Order and the Republic from Coruscant. Knights take to the field of battle as commanders, and Padawans stand by their Masters' sides as subcommanders and aides.
 </Description>
   <Source Page="24">Rise of the Separatists</Source>
@@ -22,7 +22,7 @@ The Jedi of today have different roles than those described in myths, legends, a
     <Key>PILOTSP</Key>
   </CareerSkills>
   <Specializations>
-    <Key>KNIGHT</Key>
+    <Key>JEDIKNIGHT</Key>
     <Key>PADAWAN</Key>
   </Specializations>
   <Attributes>

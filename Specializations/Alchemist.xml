@@ -11,7 +11,7 @@ During the era of the Galactic Republic, the Jedi Order never embraced alchemy. 
 [P]Alchemists tend to focus on medicinal concoctions, since the healing of a physical body is the most direct method of using and influencing the Force. The flow of a medicine, tincture, salve, or draught mimics the flow of the Force. Alchemists can work in other materials, but this requires more training and attention. A malformed or malfunctioning machine can't be fixed with an infusion of the Force. In many ways, it might exacerbate the damage.
 [P]Folktales and popular holovids of machines coming to life and terrorizing their creators and innocents may be based on true stories of Alchemists who fell to the dark side of the Force. Force-infused objects can be tortured as much as any living creature. When the Alchemist is a dark side user, alchemical machines take on a sinister and dangerous aura, "malfunctioning" to cause harm or, in the case of a weapon, increasing suffering when it does cause harm.</Description>
   <Source Page="26">Unlimited Power</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>EDU</Key>
     <Key>MED</Key>
@@ -43,7 +43,7 @@ During the era of the Galactic Republic, the Jedi Order never embraced alchemy. 
       <Talents>
         <Key>RESEARCH</Key>
         <Key>STIMAP</Key>
-        <Key>ALCHARTS</Key>
+        <Key>ALCARTS</Key>
         <Key>GRIT</Key>
       </Talents>
       <Directions>
@@ -102,7 +102,7 @@ During the era of the Galactic Republic, the Jedi Order never embraced alchemy. 
         <Key>STIMAPIMP</Key>
         <Key>KNOWHEAL</Key>
         <Key>GRIT</Key>
-        <Key>ALCHARTS</Key>
+        <Key>ALCARTS</Key>
       </Talents>
       <Directions>
         <Direction>
@@ -128,7 +128,7 @@ During the era of the Galactic Republic, the Jedi Order never embraced alchemy. 
       <Cost>25</Cost>
       <Talents>
         <Key>FORCERAT</Key>
-        <Key>IDENING</Key>
+        <Key>IDING</Key>
         <Key>DEDI</Key>
         <Key>IMPCONC</Key>
       </Talents>

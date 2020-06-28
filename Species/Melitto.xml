@@ -1,6 +1,6 @@
-<?xml version="1.0"?>
-<Species xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Key>MELITTOS</Key>
+<?xml version="1.0" encoding="utf-8"?>
+<Species>
+  <Key>MELITTO</Key>
   <Name>Melitto</Name>
   <Description>[H4]Melitto[h4]
 Melittos are insectile, chitin-plated bipeds who hail from the volcanic Inner Rim planet of Li-Toran. Lacking eyes, they rely on auditory organs and feathery cilia to sense their surroundings. The cilia cover their bodies, allowing them to detect vibrations, scents, and even electrical fields. Through powerful scent-memories, Melittos can identify and track specific targets and penetrate clever disguises. They can even sense the chemical compounds that identify diseases, making them gifted natural physicians. Many Melittos use their abilities to become renowned bounty hunters or trackers. 
@@ -14,7 +14,9 @@ Melittos are insectile, chitin-plated bipeds who hail from the volcanic Inner Ri
 [P][B]Language:[b] Melittos communicate primarily through pheromones; even their written language is composed of scents rather than letters. This makes it hard for outsiders to communicate with them. To mitigate this issue, the Melittos' survival device includes a vocoder to translate their pheromones into Basic and others' Basic into their scent-language.
 [P][B]Life in the Alliance:[b] The major hives of Li-Toran are highly isolationist; citizens care little for the barely comprehensible politics of the Empire or Alliance. Li-Toran itself has few valuable resources of interest to the Empire. However, the Empire conscripts ronin from across the galaxy into forced labor in harsh environments and toxic factories where the conditions would be fatal to others. Such practices have led to a growing hatred for the Empire among the ronin.
 [P]Melitto ronin have much to offer the Alliance: their combat skills make them excellent Soldiers, and their unique senses make them particularly well-suited for the Spy careen Their innate medical skills facilitate work as field Medics as well, Though many ronin find themselves confused by the social interactions of other species, the tactical abilities many develop in hive warfare can also make them skilled Commanders.</Description>
-  <Source Page="21">Cyphers and Masks</Source>
+  <Sources>
+    <Source Page="21">Cyphers and Masks</Source>
+  </Sources>
   <Custom>AddedItem</Custom>
   <StartingChars>
     <Brawn>3</Brawn>
@@ -33,28 +35,29 @@ Melittos are insectile, chitin-plated bipeds who hail from the volcanic Inner Ri
     <SkillModifier>
       <Key>PERC</Key>
       <RankStart>1</RankStart>
+      <RankLimit>2</RankLimit>
     </SkillModifier>
   </SkillModifiers>
   <OptionChoices>
     <OptionChoice>
-      <Key>MELITTOSCH1</Key>
-      <Name>Physiology</Name>
+      <Key>MELITTOOC1</Key>
+      <Name>Vision</Name>
       <Options>
         <Option>
-          <Key>MELITTOSCH1OP1</Key>
+          <Key>MELITTOOC1OP1</Key>
           <Name>Sightless Vision</Name>
-          <Description>Melittos can perceive their surroundings without needing light, and they never suffer penalties on combat or Perception checks due to darkness or other environmental factors that affect vision.</Description>
+          <Description>Melittos can perceive their surroundings without needing light and never suffer penalties on combat or Perception checks due to darkness or other factors that affect vision.</Description>
         </Option>
       </Options>
     </OptionChoice>
     <OptionChoice>
-      <Key>MELITTOSCH2</Key>
-      <Name>Atmosphere</Name>
+      <Key>MELITTOOC2</Key>
+      <Name>Physiology</Name>
       <Options>
         <Option>
-          <Key>MELITTOSCH2OP1</Key>
+          <Key>MELITTOOC2OP1</Key>
           <Name>Reliant on Toxins</Name>
-          <Description>Melittos require the toxins of their native atmosphere to live; offworld, they gain free special respirators to emulate the conditions of their homeworld. They treat standard planetary air composition as a corrosive atmosphere with rating 6.</Description>
+          <Description>Melittos require toxins of their native atmosphere to live.  Offworld, they gain a free respirator that emulates this environment.  They treat standard air as corrosive with a rating of 6.</Description>
         </Option>
       </Options>
     </OptionChoice>

@@ -23,6 +23,7 @@ military force.</Description>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>UNMATCHAUTHBASIC</Key>
         <Key>UNMATCHAUTHBASIC</Key>
@@ -30,14 +31,30 @@ military force.</Description>
         <Key>UNMATCHAUTHBASIC</Key>
       </Abilities>
       <Directions>
-        <Direction />
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
-        <Direction />
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
       </Directions>
       <AbilitySpan>
         <Span>4</Span>
@@ -77,6 +94,7 @@ military force.</Description>
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>UNMATCHAUTHDURATION</Key>
         <Key>UNMATCHAUTHFIRMRESOLVE</Key>
@@ -85,20 +103,27 @@ military force.</Description>
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
@@ -116,6 +141,7 @@ military force.</Description>
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>UNMATCHAUTHDESTINY</Key>
         <Key>UNMATCHAUTHENDURANCE</Key>
@@ -124,19 +150,28 @@ military force.</Description>
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
       <AbilitySpan>

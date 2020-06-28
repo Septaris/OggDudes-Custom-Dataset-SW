@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Species xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" encoding="utf-8" ?>
+<Species>
   <Key>CATHAR</Key>
   <Name>Cathar</Name>
   <Description>
@@ -31,6 +31,17 @@ The Cathar are a species of feline, bipedal humanoids native to Cathar, a planet
     <StrainThreshold>10</StrainThreshold>
     <Experience>100</Experience>
   </StartingAttrs>
+  <SkillModifiers>
+  </SkillModifiers>
+  <TalentModifiers>
+  </TalentModifiers>
+  <WeaponModifiers>
+    <WeaponModifier>
+      <AllSkillKey>BRAWL</AllSkillKey>
+      <DamageAdd>1</DamageAdd>
+      <Crit>3</Crit>
+    </WeaponModifier>
+  </WeaponModifiers>
   <OptionChoices>
     <OptionChoice>
       <Key>CATHABSK</Key>
@@ -75,14 +86,5 @@ The Cathar are a species of feline, bipedal humanoids native to Cathar, a planet
           </Description>
         </Option>
       </Options>
-    </OptionChoice>
-  </OptionChoices>
-  <WeaponModifiers>
-    <WeaponModifier>
-      <AllSkillKey>BRAWL</AllSkillKey>
-      <DamageAdd>1</DamageAdd>
-      <Crit>3</Crit>
-      <Range>Engaged</Range>
-    </WeaponModifier>
-  </WeaponModifiers>
+    </OptionChoice>  </OptionChoices>
 </Species>
