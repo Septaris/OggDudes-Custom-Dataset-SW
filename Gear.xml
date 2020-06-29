@@ -43,7 +43,7 @@ A common device found across the galaxy, comlinks come in a variety of forms dep
     <Description>
       [H3]Holo-messenger[h3]
 
-Usually reserved for formal affairs or the dealings of the wealthy, these small, disk-like devices .create holographic recordings or transmissions that may be played back as a small projection. The user can easily hold a holo-messenger in one hand. Though uncommon, they have played an integral part in many revenge or entrapment schemes.</Description>
+Usually reserved for formal affairs or the dealings of the wealthy, these small, disk-like devices create holographic recordings or transmissions that may be played back as a small projection. The user can easily hold a holo-messenger in one hand. Though uncommon, they have played an integral part in many revenge or entrapment schemes.</Description>
     <Sources>
       <Source Page="171">Edge of the Empire Core Rulebook</Source>
       <Source Page="186">Age of Rebellion Core Rulebook</Source>
@@ -322,7 +322,7 @@ A PTP (or point-to-point) link is a multichannel personal communications device 
       [H3]Verpine Comlink[h3]
 [P]The mode of short-wave telecommunication used by the Verpine is undetectable outside their species. The Rebel Alliance has, through trial and error, devised a type of comlink that is specially tuned to the Verpine frequency. With such a comlink, Verpine communications can be intercepted, and direct communication with the Verpine can be established within a range of 100 kilometers.
 [P]Interestingly, the signals received on a Verpine comlink when in close proximity to one of their colonies often consist of garbled-sounding transmissions that are, in fact, the product of every Verpine in the colony “speaking” at the same time. Such comlinks are much more effective when used in conjunction with a small group of Verpine away from a large colony.
-[P]That said, Verpine also have some control over the frequencies in which they can broadcast, similar to the way humans can modulate the tones of their own voices. This allows Verpine to choose different “channels," which the comlink can then be tuned to, allowing for discreet communication even in the midst of the largest Verpine colonies.</Description>
+[P]That said, Verpine also have some control over the frequencies in which they can broadcast, similar to the way humans can modulate the tones of their own voices. This allows Verpine to choose different “channels,” which the comlink can then be tuned to, allowing for discreet communication even in the midst of the largest Verpine colonies.</Description>
     <Source Page="112">Strongholds of Resistance</Source>
     <Custom>DescOnly</Custom>
     <Price>250</Price>
@@ -504,7 +504,7 @@ Critical Injury, but instead of rolling on the Critical Injury Result table, the
     <Name>Bearsloth Antivenom (dose)</Name>
     <Description>
       [H3]Bearsloth Antivenom[h3]
-[P]Any character who applies a dose may either gain [BO][BO][BO]to checks to resist the effects of the poison until the end of the encounter or immediately remove one instance of the Wracking Venom Critical Injury.</Description>
+[P]Any character who applies a dose may either gain [BO][BO][BO] to checks to resist the effects of the poison until the end of the encounter or immediately remove one instance of the Wracking Venom Critical Injury.</Description>
     <Source Page="23">Chronicles of the Gatekeeper</Source>
     <Custom>DescOnly</Custom>
     <Encumbrance>0</Encumbrance>
@@ -1414,8 +1414,8 @@ Some Slicers make use of a rare and highly illegal set of droid modifications to
     <Name>Neural Recorder</Name>
     <Description>
       [H3]Neural Recorder[h3]
-An individual with a nearal recorder installed gains the ability to record and store sensory information with the veracity and recall of an advanced computer system. The recorder's recall is not truly perfect, as most known species have sensory limitations that prevent them from uploading perfectly detailed information on everything they observe, but it is still the next-best thing to a perfect memory. The recorder only caputres information that the user consciously chooses to record but after a short period of adjustment, keeping it running in the absence of concern for privacy or security becomes second nature.
-[P]Neural recorders allow the user to make an [B]Easy ([DI]) Discipline check[b] to recall any information experienced while the recorder was running. Information gained from this check is highly detailed and is generally comparable in quality to the recording of a standard holorecorder would make. The installation of a neural recorder usually inludes a small connection port elsewhere on the user's body - typically the palm. A character with a nueral recorder can copy information recorded by the implant to a more common type of external storage device using this connection.</Description>
+An individual with a neural recorder installed gains the ability to record and store sensory information with the veracity and recall of an advanced computer system. The recorder's recall is not truly perfect, as most known species have sensory limitations that prevent them from uploading perfectly detailed information on everything they observe, but it is still the next-best thing to a perfect memory. The recorder only captures information that the user consciously chooses to record but after a short period of adjustment, keeping it running in the absence of concern for privacy or security becomes second nature.
+[P]Neural recorders allow the user to make an [B]Easy ([DI]) Discipline check[b] to recall any information experienced while the recorder was running. Information gained from this check is highly detailed and is generally comparable in quality to the recording of a standard holorecorder would make. The installation of a neural recorder usually inludes a small connection port elsewhere on the user's body - typically the palm. A character with a neural recorder can copy information recorded by the implant to a more common type of external storage device using this connection.</Description>
     <Source Page="50">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Type>Cybernetics</Type>
@@ -4582,31 +4582,6 @@ Most local governments are reluctant to chastise or otherwise infringe upon anot
     </BaseMods>
   </Gear>
   <Gear>
-    <Key>FALSECRED</Key>
-    <Name>Falsified Credentials</Name>
-    <Description>
-      [H3]False Credentials[h3]
-
-In the vast police state of the Galactic Empire, a lack of proper identification can draw unwanted attention from Imperial authorities. However, for those who would rather keep their actual names to themselves, false identities and the accompanying credentials can be obtained for a price. Clever forgers and slicers create false credentials, counterfeit licenses, and fake permits embedded on standard electronic identification cards that can fool even the most sophisticated holoscanners. 
-
-[P]False credentials can fool most cursory examinations, and characters using scanners require a successful [B]Hard ([DI][DI][DI]) Computers check[b] to recognize the credentials as fakes (or a [B]Daunting ([DI][DI][DI][DI]) Perception check[b] without equipment). 
-
-[P][B]Models Include:[b] Numerous variants.</Description>
-    <Source Page="51">Desperate Allies</Source>
-    <Custom>DescOnly</Custom>
-    <Price>800</Price>
-    <Encumbrance>0</Encumbrance>
-    <Rarity>7</Rarity>
-    <Restricted>true</Restricted>
-    <Type>Security/Espionage</Type>
-    <BaseMods>
-      <Mod>
-        <MiscDesc>Requires [B]Hard ([DI][DI][DI]) Computers check[b] or [B]Daunting ([DI][DI][DI][DI]) Perception check[b] to discover credentials are fakes.</MiscDesc>
-        <Count>1</Count>
-      </Mod>
-    </BaseMods>
-  </Gear>
-  <Gear>
     <Key>FORGETOOLS</Key>
     <Name>Forgery Tools</Name>
     <Description>
@@ -4949,23 +4924,6 @@ For those not used to extremes of heat or cold, thermal protection is a must. Th
         <Count>1</Count>
       </Mod>
     </BaseMods>
-  </Gear>
-  <Gear>
-    <Key>SYNTHEROPE</Key>
-    <Name>Syntherope</Name>
-    <Description>
-      [H3]Syntherope[h3]
-
-Degan Explorations, a subsidiary of the Chiewab Amalgamated Pharmaceuticals Company, is mostly known for its vast network of professional scouts and survey crews that scour the Outer Rim for new chemical resources. In addition to their exploratory work, they are also the makers of Syntherope, a synthetic rope used in nearly every industry. Made from a mix of natural and synthetic chemicals and textiles, including the proteins found in the secretions of numerous arachnid species, Syntherope is thin, lightweight, and extremely strong, with a tensile strength ten times that of durasteel. Sold in twenty-meter spools, Syntherope is used primarily for climbing, rappelling, and securing cargo, but it can be used anywhere a good stout rope is needed. It is said that at the bottom of every backpack, pannier, and cargo crate in the Outer Rim there lies a coil of Syntherope, and while that statement is obviously hyperbole, it's also not too far from the truth.</Description>
-    <Source Page="49">Enter the Unknown</Source>
-    <Custom>DescOnly</Custom>
-    <Type>Survival</Type>
-    <Categories />
-    <Encumbrance>1</Encumbrance>
-    <HP>0</HP>
-    <Price>5</Price>
-    <Rarity>1</Rarity>
-    <BaseMods />
   </Gear>
   <Gear>
     <Key>ELECSNARE</Key>
@@ -5904,7 +5862,7 @@ Field manuals are print or digital publications, issued to Imperial troopers and
     <Description>
       [H3]Mercantiler Datapad[h3]
 
-Produced by MerenData to meet strong customer demand, the MDD-1 2 is a less powerful and less versatile version of the onboard Mercantiler computer system equipped in MerenData's Exchequer series commerce droids. This incredibly useful datapad is programmed with region-specific business information, including currency and credit conversion tables, base value listings for a wide variety of traded goods, and a data uplink connected to a region's stock markets and trading houses that grants the user up-to-the-minute information on all goods bought and sold therein. 
+Produced by MerenData to meet strong customer demand, the MDD-12 is a less powerful and less versatile version of the onboard Mercantiler computer system equipped in MerenData's Exchequer series commerce droids. This incredibly useful datapad is programmed with region-specific business information, including currency and credit conversion tables, base value listings for a wide variety of traded goods, and a data uplink connected to a region's stock markets and trading houses that grants the user up-to-the-minute information on all goods bought and sold therein. 
 
 [P]When used within the region for which it is programmed—Core Worlds, Inner Rim, Mid Rim, or specific Outer Rim territories—the Mercantiler datapad grants [BO] to any Negotiation skill checks made to buy or sell goods. These datapads grant no bonuses outside of their specific region.</Description>
     <Source Page="48">Far Horizons</Source>
@@ -6209,7 +6167,7 @@ Every encounter with a new species offers the possibility of biological offense,
     <Name>WJ-880 Blinding Helmet</Name>
     <Description>
       [H3]WJ-880 Blinding Helmet[h3]
-[P]In the days of the former Republic and the Jedi Order, the WJ-880 blinding helmet was a common training aid for a Jedi Padawan, helping the aspirant to learn to sense the Force flowing through all things by cutting out sensory distractions. The helmet opaque shield prevents the wearers from relying on sight: instead, they must use their instincts. Of course, these devices are not particularly practical for combat, but they can be exceptionally useful to anyone trying to train in the ways of the Force. As artifacts of the Jedi Order, these devices are contraband, but they are hardly so obvious as a lightsaber, and so a number of them have passed into vicilian hands. Force sensitives in this era can acquire them with far less difficulty than most Jedi relics, or they can even make their own facsimilies using basic supplies.
+[P]In the days of the former Republic and the Jedi Order, the WJ-880 blinding helmet was a common training aid for a Jedi Padawan, helping the aspirant to learn to sense the Force flowing through all things by cutting out sensory distractions. The helmet's opaque shield prevents the wearers from relying on sight: instead, they must use their instincts. Of course, these devices are not particularly practical for combat, but they can be exceptionally useful to anyone trying to train in the ways of the Force. As artifacts of the Jedi Order, these devices are contraband, but they are hardly so obvious as a lightsaber, and so a number of them have passed into civilian hands. Force sensitives in this era can acquire them with far less difficulty than most Jedi relics, or they can even make their own facsimilies using basic supplies.
 [P]A character wearing a WJ-880 blinding helmet adds [SE][SE][SE] to Combat checks (and any other checks that rely on sight). At the GM's discretion, training while wearing such a helmet might help a character to develop his perception of the Force that shapes and guides the universe around him.     </Description>
     <Source Page="53">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
@@ -6765,9 +6723,9 @@ Made by numerous scientific-technology companies throughout the galaxy, such as 
     <Description>
       [H3]Savior Anti-Grav Chute[h3]
 
-Intended to save pilots in the event of an emergency, anti-gray chutes are small backpacks with miniature repulsorlifts incorporated into them. An anti-gray chute does not allow the wearer to fly, but rather arrests his fall as he nears the ground. With an anti-gray chute equipped, a person can survive a freefall from several kilometers up. Specialized military forces also use anti-gray chutes for insertion behind enemy lines or combat assault jumps. 
+Intended to save pilots in the event of an emergency, anti-grav chutes are small backpacks with miniature repulsorlifts incorporated into them. An anti-grav chute does not allow the wearer to fly, but rather arrests his fall as he nears the ground. With an anti-grav chute equipped, a person can survive a freefall from several kilometers up. Specialized military forces also use anti-grav chutes for insertion behind enemy lines or combat assault jumps. 
 
-[P]Characters equipped with an anti-gray chute take no damage or strain from falls. The speed of the fall also decreases significantly once the anti-gray chute activates, which means reaching the ground can take multiple rounds.</Description>
+[P]Characters equipped with an anti-grav chute take no damage or strain from falls. The speed of the fall also decreases significantly once the anti-grav chute activates, which means reaching the ground can take multiple rounds.</Description>
     <Source Page="103">Suns of Fortune</Source>
     <Custom>DescOnly</Custom>
     <Price>450</Price>
@@ -7757,7 +7715,7 @@ In the days of the Republic and even before, the Outer Rim world of Auratera, li
 [P]Instead of revealing anything about Jedi operations or intelligence, Master Ka-Teen successfully wove a complex net of deception that ensnared Kallyx the Piner. Seeking to protect his fellow Jedi, Ka-Teen found his only option to be what he later described as “the abandonment of truth."
 [P]Despite being hailed as a hero by the Jedi Council, the Ithorian turned deeply inward following the episode, becoming an intensely private individual who spent more time alone in the libraries and archives of Coruscant than with his fellow Jedi Knights. Tobar Ka-Teen was seeking something elemental, and that search led him first to his studies of the Crown of Verity, and then, apparently, to the mysterious vergence on Auratera in the ruins of Acablas.
 [P]Though he was not a general and took little part in the Clone Wars, Ka-Teen was accompanied to Auratera by several squads of Republic troops. Order 66 was enacted during his scheduled stay on the planet, and there is no reason to believe he survived its execution. However, there is no record that the clone troops “guarding” him ever returned from Auratera, either. Thus, the planet is the last known location of the Crown of Verity, and of the Jedi Master who so desperately desired to understand its secrets.
-[P]A Force-sensitive character who dons the Crown of Verity automatically fails all Deception checks while wearing it. At the same time, she gains automatic [SU][SU] [SU]  on any checks to detect lies or determine whether someone is telling the truth.
+[P]A Force-sensitive character who dons the Crown of Verity automatically fails all Deception checks while wearing it. At the same time, she gains automatic [SU][SU][SU] on any checks to detect lies or determine whether someone is telling the truth.
     </Description>
     <Sources>
       <Source Page="110">Nexus of Power</Source>
@@ -8085,7 +8043,7 @@ A holocron, or holographic chronicle, is an organomechanical data storage device
 
 [P]Most known holocrons were kept at the Jedi Temple on Coruscant, and the majority of those were lost during the Great Purge when Darth Sidious raided the Holocron Archives and either confiscated or destroyed everything he found there. Some few survived and are still at large throughout the galaxy, but with the proscription on the ownership of Jedi artifacts and rarity of holocrons, it's a rare person who has even heard of a holocron, let alone knows where to locate one. 
 
-[P]In [B]Force and Destiny[b], holocrons are more the goal of a quest or entire campaign rather than an item to be purchased or checked out of the local archives. Extremely rare and powerful, holocrons in a [B]Force and Destiny [b] game can have far-reaching consequences. Game Masters should be extremely cautious when introducing a holocron into a game. The following guidelines are presented to assist Game Masters in Introducing one of these powerful and desirable artifacts without wining the tenor of the game. 
+[P]In [B]Force and Destiny[b], holocrons are more the goal of a quest or entire campaign rather than an item to be purchased or checked out of the local archives. Extremely rare and powerful, holocrons in a [B]Force and Destiny [b] game can have far-reaching consequences. Game Masters should be extremely cautious when introducing a holocron into a game. The following guidelines are presented to assist Game Masters in Introducing one of these powerful and desirable artifacts without ruining the tenor of the game. 
 
 [P]Depending on its nature, a holocron can grant new Force powers, increase the damage of a specific kind of attack (Melee, Ranged, Gunnery, Lightsaber, etc.), grant basic or advanced talents, grant or increase a skill, or anything else a Game Master can imagine. On his first attempt to use a holocron, a character must make a [B]Hard ([DI][DI][DI]) Knowledge (Lore) check[b] to activate the device and summon the gatekeeper. Once the holocron is activated, the character who activated it must spend an amount of time dictated by the Came Master studying the holocron and conversing with the gatekeeper before benefiting from whatever bonuses the holocron provides. The character does not have to make the check to activate the Holocron on subsequent uses. 
 
@@ -8123,7 +8081,7 @@ A holocron, or holographic chronicle, is an organomechanical data storage device
 
 [P]Most known holocrons were kept at the Jedi Temple on Coruscant, and the majority of those were lost during the Great Purge when Darth Sidious raided the Holocron Archives and either confiscated or destroyed everything he found there. Some few survived and are still at large throughout the galaxy, but with the proscription on the ownership of Jedi artifacts and rarity of holocrons, it's a rare person who has even heard of a holocron, let alone knows where to locate one. 
 
-[P]In [B]Force and Destiny[b], holocrons are more the goal of a quest or entire campaign rather than an item to be purchased or checked out of the local archives. Extremely rare and powerful, holocrons in a [B]Force and Destiny [b] game can have far-reaching consequences. Game Masters should be extremely cautious when introducing a holocron into a game. The following guidelines are presented to assist Game Masters in Introducing one of these powerful and desirable artifacts without wining the tenor of the game. 
+[P]In [B]Force and Destiny[b], holocrons are more the goal of a quest or entire campaign rather than an item to be purchased or checked out of the local archives. Extremely rare and powerful, holocrons in a [B]Force and Destiny [b] game can have far-reaching consequences. Game Masters should be extremely cautious when introducing a holocron into a game. The following guidelines are presented to assist Game Masters in Introducing one of these powerful and desirable artifacts without ruining the tenor of the game. 
 
 [P]Depending on its nature, a holocron can grant new Force powers, increase the damage of a specific kind of attack (Melee, Ranged, Gunnery, Lightsaber, etc.), grant basic or advanced talents, grant or increase a skill, or anything else a Game Master can imagine. On his first attempt to use a holocron, a character must make a [B]Hard ([DI][DI][DI]) Knowledge (Lore) check[b] to activate the device and summon the gatekeeper. Once the holocron is activated, the character who activated it must spend an amount of time dictated by the Came Master studying the holocron and conversing with the gatekeeper before benefiting from whatever bonuses the holocron provides. The character does not have to make the check to activate the Holocron on subsequent uses. 
 
@@ -8160,7 +8118,7 @@ A holocron, or holographic chronicle, is an organomechanical data storage device
 
 [P]Most known holocrons were kept at the Jedi Temple on Coruscant, and the majority of those were lost during the Great Purge when Darth Sidious raided the Holocron Archives and either confiscated or destroyed everything he found there. Some few survived and are still at large throughout the galaxy, but with the proscription on the ownership of Jedi artifacts and rarity of holocrons, it's a rare person who has even heard of a holocron, let alone knows where to locate one. 
 
-[P]In [B]Force and Destiny[b], holocrons are more the goal of a quest or entire campaign rather than an item to be purchased or checked out of the local archives. Extremely rare and powerful, holocrons in a [B]Force and Destiny [b] game can have far-reaching consequences. Game Masters should be extremely cautious when introducing a holocron into a game. The following guidelines are presented to assist Game Masters in Introducing one of these powerful and desirable artifacts without wining the tenor of the game. 
+[P]In [B]Force and Destiny[b], holocrons are more the goal of a quest or entire campaign rather than an item to be purchased or checked out of the local archives. Extremely rare and powerful, holocrons in a [B]Force and Destiny [b] game can have far-reaching consequences. Game Masters should be extremely cautious when introducing a holocron into a game. The following guidelines are presented to assist Game Masters in Introducing one of these powerful and desirable artifacts without ruining the tenor of the game. 
 
 [P]Depending on its nature, a holocron can grant new Force powers, increase the damage of a specific kind of attack (Melee, Ranged, Gunnery, Lightsaber, etc.), grant basic or advanced talents, grant or increase a skill, or anything else a Game Master can imagine. On his first attempt to use a holocron, a character must make a [B]Hard ([DI][DI][DI]) Knowledge (Lore) check[b] to activate the device and summon the gatekeeper. Once the holocron is activated, the character who activated it must spend an amount of time dictated by the Came Master studying the holocron and conversing with the gatekeeper before benefiting from whatever bonuses the holocron provides. The character does not have to make the check to activate the Holocron on subsequent uses. 
 
@@ -8198,7 +8156,7 @@ A holocron, or holographic chronicle, is an organomechanical data storage device
 
 [P]Most known holocrons were kept at the Jedi Temple on Coruscant, and the majority of those were lost during the Great Purge when Darth Sidious raided the Holocron Archives and either confiscated or destroyed everything he found there. Some few survived and are still at large throughout the galaxy, but with the proscription on the ownership of Jedi artifacts and rarity of holocrons, it's a rare person who has even heard of a holocron, let alone knows where to locate one. 
 
-[P]In [B]Force and Destiny[b], holocrons are more the goal of a quest or entire campaign rather than an item to be purchased or checked out of the local archives. Extremely rare and powerful, holocrons in a [B]Force and Destiny [b] game can have far-reaching consequences. Game Masters should be extremely cautious when introducing a holocron into a game. The following guidelines are presented to assist Game Masters in Introducing one of these powerful and desirable artifacts without wining the tenor of the game. 
+[P]In [B]Force and Destiny[b], holocrons are more the goal of a quest or entire campaign rather than an item to be purchased or checked out of the local archives. Extremely rare and powerful, holocrons in a [B]Force and Destiny [b] game can have far-reaching consequences. Game Masters should be extremely cautious when introducing a holocron into a game. The following guidelines are presented to assist Game Masters in Introducing one of these powerful and desirable artifacts without ruining the tenor of the game. 
 
 [P]Depending on its nature, a holocron can grant new Force powers, increase the damage of a specific kind of attack (Melee, Ranged, Gunnery, Lightsaber, etc.), grant basic or advanced talents, grant or increase a skill, or anything else a Game Master can imagine. On his first attempt to use a holocron, a character must make a [B]Hard ([DI][DI][DI]) Knowledge (Lore) check[b] to activate the device and summon the gatekeeper. Once the holocron is activated, the character who activated it must spend an amount of time dictated by the Came Master studying the holocron and conversing with the gatekeeper before benefiting from whatever bonuses the holocron provides. The character does not have to make the check to activate the Holocron on subsequent uses. 
 
@@ -8236,7 +8194,7 @@ A holocron, or holographic chronicle, is an organomechanical data storage device
 
 [P]Most known holocrons were kept at the Jedi Temple on Coruscant, and the majority of those were lost during the Great Purge when Darth Sidious raided the Holocron Archives and either confiscated or destroyed everything he found there. Some few survived and are still at large throughout the galaxy, but with the proscription on the ownership of Jedi artifacts and rarity of holocrons, it's a rare person who has even heard of a holocron, let alone knows where to locate one. 
 
-[P]In [B]Force and Destiny[b], holocrons are more the goal of a quest or entire campaign rather than an item to be purchased or checked out of the local archives. Extremely rare and powerful, holocrons in a [B]Force and Destiny [b] game can have far-reaching consequences. Game Masters should be extremely cautious when introducing a holocron into a game. The following guidelines are presented to assist Game Masters in Introducing one of these powerful and desirable artifacts without wining the tenor of the game. 
+[P]In [B]Force and Destiny[b], holocrons are more the goal of a quest or entire campaign rather than an item to be purchased or checked out of the local archives. Extremely rare and powerful, holocrons in a [B]Force and Destiny [b] game can have far-reaching consequences. Game Masters should be extremely cautious when introducing a holocron into a game. The following guidelines are presented to assist Game Masters in Introducing one of these powerful and desirable artifacts without ruining the tenor of the game. 
 
 [P]Depending on its nature, a holocron can grant new Force powers, increase the damage of a specific kind of attack (Melee, Ranged, Gunnery, Lightsaber, etc.), grant basic or advanced talents, grant or increase a skill, or anything else a Game Master can imagine. On his first attempt to use a holocron, a character must make a [B]Hard ([DI][DI][DI]) Knowledge (Lore) check[b] to activate the device and summon the gatekeeper. Once the holocron is activated, the character who activated it must spend an amount of time dictated by the Came Master studying the holocron and conversing with the gatekeeper before benefiting from whatever bonuses the holocron provides. The character does not have to make the check to activate the Holocron on subsequent uses. 
 
@@ -8274,7 +8232,7 @@ A holocron, or holographic chronicle, is an organomechanical data storage device
 
 [P]Most known holocrons were kept at the Jedi Temple on Coruscant, and the majority of those were lost during the Great Purge when Darth Sidious raided the Holocron Archives and either confiscated or destroyed everything he found there. Some few survived and are still at large throughout the galaxy, but with the proscription on the ownership of Jedi artifacts and rarity of holocrons, it's a rare person who has even heard of a holocron, let alone knows where to locate one. 
 
-[P]In [B]Force and Destiny[b], holocrons are more the goal of a quest or entire campaign rather than an item to be purchased or checked out of the local archives. Extremely rare and powerful, holocrons in a [B]Force and Destiny [b] game can have far-reaching consequences. Game Masters should be extremely cautious when introducing a holocron into a game. The following guidelines are presented to assist Game Masters in Introducing one of these powerful and desirable artifacts without wining the tenor of the game. 
+[P]In [B]Force and Destiny[b], holocrons are more the goal of a quest or entire campaign rather than an item to be purchased or checked out of the local archives. Extremely rare and powerful, holocrons in a [B]Force and Destiny [b] game can have far-reaching consequences. Game Masters should be extremely cautious when introducing a holocron into a game. The following guidelines are presented to assist Game Masters in Introducing one of these powerful and desirable artifacts without ruining the tenor of the game. 
 
 [P]Depending on its nature, a holocron can grant new Force powers, increase the damage of a specific kind of attack (Melee, Ranged, Gunnery, Lightsaber, etc.), grant basic or advanced talents, grant or increase a skill, or anything else a Game Master can imagine. On his first attempt to use a holocron, a character must make a [B]Hard ([DI][DI][DI]) Knowledge (Lore) check[b] to activate the device and summon the gatekeeper. Once the holocron is activated, the character who activated it must spend an amount of time dictated by the Came Master studying the holocron and conversing with the gatekeeper before benefiting from whatever bonuses the holocron provides. The character does not have to make the check to activate the Holocron on subsequent uses. 
 
@@ -8312,7 +8270,7 @@ A holocron, or holographic chronicle, is an organomechanical data storage device
 
 [P]Most known holocrons were kept at the Jedi Temple on Coruscant, and the majority of those were lost during the Great Purge when Darth Sidious raided the Holocron Archives and either confiscated or destroyed everything he found there. Some few survived and are still at large throughout the galaxy, but with the proscription on the ownership of Jedi artifacts and rarity of holocrons, it's a rare person who has even heard of a holocron, let alone knows where to locate one. 
 
-[P]In [B]Force and Destiny[b], holocrons are more the goal of a quest or entire campaign rather than an item to be purchased or checked out of the local archives. Extremely rare and powerful, holocrons in a [B]Force and Destiny [b] game can have far-reaching consequences. Game Masters should be extremely cautious when introducing a holocron into a game. The following guidelines are presented to assist Game Masters in Introducing one of these powerful and desirable artifacts without wining the tenor of the game. 
+[P]In [B]Force and Destiny[b], holocrons are more the goal of a quest or entire campaign rather than an item to be purchased or checked out of the local archives. Extremely rare and powerful, holocrons in a [B]Force and Destiny [b] game can have far-reaching consequences. Game Masters should be extremely cautious when introducing a holocron into a game. The following guidelines are presented to assist Game Masters in Introducing one of these powerful and desirable artifacts without ruining the tenor of the game. 
 
 [P]Depending on its nature, a holocron can grant new Force powers, increase the damage of a specific kind of attack (Melee, Ranged, Gunnery, Lightsaber, etc.), grant basic or advanced talents, grant or increase a skill, or anything else a Game Master can imagine. On his first attempt to use a holocron, a character must make a [B]Hard ([DI][DI][DI]) Knowledge (Lore) check[b] to activate the device and summon the gatekeeper. Once the holocron is activated, the character who activated it must spend an amount of time dictated by the Came Master studying the holocron and conversing with the gatekeeper before benefiting from whatever bonuses the holocron provides. The character does not have to make the check to activate the Holocron on subsequent uses. 
 
@@ -8350,7 +8308,7 @@ A holocron, or holographic chronicle, is an organomechanical data storage device
 
 [P]Most known holocrons were kept at the Jedi Temple on Coruscant, and the majority of those were lost during the Great Purge when Darth Sidious raided the Holocron Archives and either confiscated or destroyed everything he found there. Some few survived and are still at large throughout the galaxy, but with the proscription on the ownership of Jedi artifacts and rarity of holocrons, it's a rare person who has even heard of a holocron, let alone knows where to locate one. 
 
-[P]In [B]Force and Destiny[b], holocrons are more the goal of a quest or entire campaign rather than an item to be purchased or checked out of the local archives. Extremely rare and powerful, holocrons in a [B]Force and Destiny [b] game can have far-reaching consequences. Game Masters should be extremely cautious when introducing a holocron into a game. The following guidelines are presented to assist Game Masters in Introducing one of these powerful and desirable artifacts without wining the tenor of the game. 
+[P]In [B]Force and Destiny[b], holocrons are more the goal of a quest or entire campaign rather than an item to be purchased or checked out of the local archives. Extremely rare and powerful, holocrons in a [B]Force and Destiny [b] game can have far-reaching consequences. Game Masters should be extremely cautious when introducing a holocron into a game. The following guidelines are presented to assist Game Masters in Introducing one of these powerful and desirable artifacts without ruining the tenor of the game. 
 
 [P]Depending on its nature, a holocron can grant new Force powers, increase the damage of a specific kind of attack (Melee, Ranged, Gunnery, Lightsaber, etc.), grant basic or advanced talents, grant or increase a skill, or anything else a Game Master can imagine. On his first attempt to use a holocron, a character must make a [B]Hard ([DI][DI][DI]) Knowledge (Lore) check[b] to activate the device and summon the gatekeeper. Once the holocron is activated, the character who activated it must spend an amount of time dictated by the Came Master studying the holocron and conversing with the gatekeeper before benefiting from whatever bonuses the holocron provides. The character does not have to make the check to activate the Holocron on subsequent uses. 
 
@@ -8388,7 +8346,7 @@ A holocron, or holographic chronicle, is an organomechanical data storage device
 
 [P]Most known holocrons were kept at the Jedi Temple on Coruscant, and the majority of those were lost during the Great Purge when Darth Sidious raided the Holocron Archives and either confiscated or destroyed everything he found there. Some few survived and are still at large throughout the galaxy, but with the proscription on the ownership of Jedi artifacts and rarity of holocrons, it's a rare person who has even heard of a holocron, let alone knows where to locate one. 
 
-[P]In [B]Force and Destiny[b], holocrons are more the goal of a quest or entire campaign rather than an item to be purchased or checked out of the local archives. Extremely rare and powerful, holocrons in a [B]Force and Destiny [b] game can have far-reaching consequences. Game Masters should be extremely cautious when introducing a holocron into a game. The following guidelines are presented to assist Game Masters in Introducing one of these powerful and desirable artifacts without wining the tenor of the game. 
+[P]In [B]Force and Destiny[b], holocrons are more the goal of a quest or entire campaign rather than an item to be purchased or checked out of the local archives. Extremely rare and powerful, holocrons in a [B]Force and Destiny [b] game can have far-reaching consequences. Game Masters should be extremely cautious when introducing a holocron into a game. The following guidelines are presented to assist Game Masters in Introducing one of these powerful and desirable artifacts without ruining the tenor of the game. 
 
 [P]Depending on its nature, a holocron can grant new Force powers, increase the damage of a specific kind of attack (Melee, Ranged, Gunnery, Lightsaber, etc.), grant basic or advanced talents, grant or increase a skill, or anything else a Game Master can imagine. On his first attempt to use a holocron, a character must make a [B]Hard ([DI][DI][DI]) Knowledge (Lore) check[b] to activate the device and summon the gatekeeper. Once the holocron is activated, the character who activated it must spend an amount of time dictated by the Came Master studying the holocron and conversing with the gatekeeper before benefiting from whatever bonuses the holocron provides. The character does not have to make the check to activate the Holocron on subsequent uses. 
 
@@ -8426,7 +8384,7 @@ A holocron, or holographic chronicle, is an organomechanical data storage device
 
 [P]Most known holocrons were kept at the Jedi Temple on Coruscant, and the majority of those were lost during the Great Purge when Darth Sidious raided the Holocron Archives and either confiscated or destroyed everything he found there. Some few survived and are still at large throughout the galaxy, but with the proscription on the ownership of Jedi artifacts and rarity of holocrons, it's a rare person who has even heard of a holocron, let alone knows where to locate one. 
 
-[P]In [B]Force and Destiny[b], holocrons are more the goal of a quest or entire campaign rather than an item to be purchased or checked out of the local archives. Extremely rare and powerful, holocrons in a [B]Force and Destiny [b] game can have far-reaching consequences. Game Masters should be extremely cautious when introducing a holocron into a game. The following guidelines are presented to assist Game Masters in Introducing one of these powerful and desirable artifacts without wining the tenor of the game. 
+[P]In [B]Force and Destiny[b], holocrons are more the goal of a quest or entire campaign rather than an item to be purchased or checked out of the local archives. Extremely rare and powerful, holocrons in a [B]Force and Destiny [b] game can have far-reaching consequences. Game Masters should be extremely cautious when introducing a holocron into a game. The following guidelines are presented to assist Game Masters in Introducing one of these powerful and desirable artifacts without ruining the tenor of the game. 
 
 [P]Depending on its nature, a holocron can grant new Force powers, increase the damage of a specific kind of attack (Melee, Ranged, Gunnery, Lightsaber, etc.), grant basic or advanced talents, grant or increase a skill, or anything else a Game Master can imagine. On his first attempt to use a holocron, a character must make a [B]Hard ([DI][DI][DI]) Knowledge (Lore) check[b] to activate the device and summon the gatekeeper. Once the holocron is activated, the character who activated it must spend an amount of time dictated by the Came Master studying the holocron and conversing with the gatekeeper before benefiting from whatever bonuses the holocron provides. The character does not have to make the check to activate the Holocron on subsequent uses. 
 
@@ -8831,35 +8789,6 @@ The best personal safes on the market are those crafted from multiple bonded lay
     </BaseMods>
   </Gear>
   <Gear>
-    <Key>SHADOWCLOAK</Key>
-    <Name>Shadowcloak</Name>
-    <Description>
-      [H3]Shadowcloak[h3]
-
-Shadowcloaks are peculiar devices designed to protect a user's anonymity during meetings in person. When activated, a shadowcloak generates a field of concealing darkness around its user, causing him to appear as nothing more than a black mass of shadows, even in bright light. In addition to hiding the user from sight, the shadowcloak field also baffles most sensors and scanners, and distorts the user's voice, ensuring his identity remains a secret. The shadowcloak field is relatively static and inflexible once activated, and the user cannot walk or move around too much without revealing his identity. Additionally, the power requirements of the field only allow the device to operate for an hour before it must cool down and recharge for four hours. Normally, the user will sit down somewhere and activate the shadowcloak just prior to a meeting. 
-
-[P]Discerning any identifiable features of a character wearing a shadowcloak requires a [B]Daunting ([DI][DI][DI][DI]) Perception check[b]. 
-
-[P][B]Models Include:[b] Tenloss SX-4 shadowcloak, Creshaldyne Industries "StaticShadow" generator.</Description>
-    <Source Page="49">Fly Casual</Source>
-    <Custom>DescOnly</Custom>
-    <Type>Security/Espionage</Type>
-    <Categories />
-    <Encumbrance>2</Encumbrance>
-    <HP>0</HP>
-    <Price>2500</Price>
-    <Rarity>6</Rarity>
-    <Restricted>true</Restricted>
-    <BaseMods>
-      <Mod>
-        <Key />
-        <Count>1</Count>
-        <Index>0</Index>
-        <MiscDesc>Discerning identifiable features requires a [B]Daunting ([DI][DI][DI][DI]) Perception check[b].</MiscDesc>
-      </Mod>
-    </BaseMods>
-  </Gear>
-  <Gear>
     <Key>FNGRPRNTMSQ</Key>
     <Name>Fingerprint Masque</Name>
     <Description>
@@ -8901,9 +8830,12 @@ In the vast police state of the Galactic Empire, a lack of proper identification
 [P]False credentials can fool most cursory examinations, and characters using scanners require a successful [B]Hard ([DI][DI][DI]) Computers check[b] to recognize the credentials as fakes (or a [B]Daunting ([DI][DI][DI][DI]) Perception check[b] without equipment). 
 
 [P][B]Models Include:[b] Numerous variants.</Description>
-    <Source Page="50">Fly Casual</Source>
+    <Sources>
+      <Source Page="50">Fly Casual</Source>
+      <Source Page="51">Desperate Allies</Source>
+    </Sources>
     <Custom>DescOnly</Custom>
-    <Type>Tools/Electronics</Type>
+    <Type>Security/Espionage</Type>
     <Categories />
     <Encumbrance>0</Encumbrance>
     <HP>0</HP>
@@ -9374,7 +9306,7 @@ Designed for reaching light spaces in a starship, the mechanical dianoga is a me
     <Key>INTTOOL</Key>
     <Name>VX-A Intelligent Toolbox</Name>
     <Description>
-      [H3]Merr-Son VX-A Intelligent Toolbox[h3]
+      [H3]Merr-Sonn VX-A Intelligent Toolbox[h3]
 Developed as a civilian alternative to the Merr-Sonn VX Hands-Free Weapon System, this rigid backpack contains a suite of tools and portable supplies. The device has two built-in, multi-jointed arms that respond to the wearer's verbal commands to hand the wearer tools, hold equipment and reorganise tools once the user is done with them.
 [P]An intelligent toolbox counts as a tool kit (see pages 181-182 of the [B]Edge of The Empire[b] Core Rulebook).</Description>
     <Sources>
@@ -10523,7 +10455,7 @@ Physically similar to a stimpack, a sleeppack is an auto-injection tube filled w
     <Key>REPULTRAP</Key>
     <Name>Repulsor Trap</Name>
     <Description>[H3]Repulsor Trap[h3]
-These traps for sentient beings subvert repulsorlift technology to create localized patches of extremely high gravity. When targets pass over an active repulsor trap, intense localized gravitational forces rob them of their ability to move. Repulsor traps are unobtrusive, adding [SE] [SE] to all Perception checks made to notice these devices. 
+These traps for sentient beings subvert repulsorlift technology to create localized patches of extremely high gravity. When targets pass over an active repulsor trap, intense localized gravitational forces rob them of their ability to move. Repulsor traps are unobtrusive, adding [SE][SE] to all Perception checks made to notice these devices. 
 [P]
 Any single target who comes within engaged range of an active repulsor trap is ensnared (see [B]Ensnare[b], on page 169 of the [B]Age of Rebellion[b] Core Rulebook) for six rounds.</Description>
     <Source Page="60">Friends Like These</Source>
@@ -10538,7 +10470,7 @@ Any single target who comes within engaged range of an active repulsor trap is e
     <Key>EXPLIMP</Key>
     <Name>Explosive Implant</Name>
     <Description>[H3]Explosive Implant[h3]
-Slavers and slaveholders do not always keep slaves locked up in chains while they carry out their duties. Many slavers inject tiny tracking and explosive devices to discourage slaves from running. A corresponding handheld device similar to a droid caller can locate the implanted target with a [B]Simple (-) Computers check[b]. With the press of a button, the implant can explode, instantly killing its victim. [P] A [B]Daunting ([CH] [DI] [DI] [DI]) Medicine[b] or [B]Mechanics check[b] is required to remove the implant. However, [TH] alerts the transmitter of the tampering, and [DE] triggers the device.</Description>
+Slavers and slaveholders do not always keep slaves locked up in chains while they carry out their duties. Many slavers inject tiny tracking and explosive devices to discourage slaves from running. A corresponding handheld device similar to a droid caller can locate the implanted target with a [B]Simple (-) Computers check[b]. With the press of a button, the implant can explode, instantly killing its victim. [P] A [B]Daunting ([CH][DI][DI][DI]) Medicine[b] or [B]Mechanics check[b] is required to remove the implant. However, [TH] alerts the transmitter of the tampering, and [DE] triggers the device.</Description>
     <Source Page="60">Friends Like These</Source>
     <Custom>DescOnly</Custom>
     <Type>Slaver Tech</Type>
@@ -10561,7 +10493,7 @@ Slavers and slaveholders do not always keep slaves locked up in chains while the
     <Key>STUNCOLOR</Key>
     <Name>Stun Collar</Name>
     <Description>[H3]Stun Collar[h3]
-Used in spice mines and prisons across the galaxy, stun collars are an effective means of subduing a prisoner that can be set to cause relatively little physical damage. [P]When activated via remove, the stun collar delivers a high-voltage shock to its wearer, inflicting 10 Stun Damage. However, the collar can also be used to lethal effect, dealing 12 damage and inflicting a Critical Injury adding +20 to the roll. [P]A [B]Hard ([DI] [DI] [DI]) Mechanics check[b] is necessary to remove the collar without electrocuting its wearer.</Description>
+Used in spice mines and prisons across the galaxy, stun collars are an effective means of subduing a prisoner that can be set to cause relatively little physical damage. [P]When activated via remove, the stun collar delivers a high-voltage shock to its wearer, inflicting 10 Stun Damage. However, the collar can also be used to lethal effect, dealing 12 damage and inflicting a Critical Injury adding +20 to the roll. [P]A [B]Hard ([DI][DI][DI]) Mechanics check[b] is necessary to remove the collar without electrocuting its wearer.</Description>
     <Source Page="60">Friends Like These</Source>
     <Custom>DescOnly</Custom>
     <Type>Slaver Tech</Type>
@@ -10590,7 +10522,7 @@ Used in spice mines and prisons across the galaxy, stun collars are an effective
     <Name>BC-7 Environmental Cocoon</Name>
     <Description>[H3]Czerka BC-7 Environmental Cocoon[h3]
 [P]Primarily intended for hunters and survivalists, and environment cocoon provides a secure space in an otherwise hostile locale. While it is designed to be portable, it can quickly inflate to become a small structure large enough for a single occupant. The field unit has dense insulation as well as its own climate-control system. This enables it to maintain a safe temperature for a single person. The cocoon is equipped with an filter that removes the worst of the particulate matter in the atmosphere.
-[P]The cocoon reduces the difficulty of Resilience checks made to resist effects of extreme cold or heat by three. It also removes up to [SE] [SE] [SE] added to checks due to extreme heat or cold, for as long as the user remains within it.</Description>
+[P]The cocoon reduces the difficulty of Resilience checks made to resist effects of extreme cold or heat by three. It also removes up to [SE][SE][SE] added to checks due to extreme heat or cold, for as long as the user remains within it.</Description>
     <Source Page="46">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
       <Type>Survival</Type>
@@ -10649,7 +10581,7 @@ Used in spice mines and prisons across the galaxy, stun collars are an effective
     <Name>B310 Micro-Imager</Name>
     <Description>[H3]Applied Imaging B310 Micro-Imager[h3]
 [P]Microorganisms, mineral structures, and forensic samples are just a few of the things that a researcher might need to examine in extremely fine detail. Key visual characteristics of objects only a few micrometers in size can provide the information necessary to solve a mystery or resolve a crisis. However, few species have the inherent ability to visually discern such details without an appropriate tool. A micro-imager solves this challenge by magnifying an object up to 100,000 times its original size, using visual light and  a variety of different sensors. The magnified object is projected in a holographic format above the imager. The hologram can be rotated, zoomed, and adjusted as needed, so that the viewer can perceive any necessary details.
-[P]A micro-imager adds [BO] [BO] to any Perception, Knowledge (Lore), or Knowledge (Education), checks for which magnification of fine details can contribute to the research at hand.</Description>
+[P]A micro-imager adds [BO][BO] to any Perception, Knowledge (Lore), or Knowledge (Education), checks for which magnification of fine details can contribute to the research at hand.</Description>
     <Source Page="47">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
       <Type>Detection/Surveillance Devices</Type>
@@ -10669,7 +10601,7 @@ Used in spice mines and prisons across the galaxy, stun collars are an effective
     <Name>SDS-632 Surveillance Detector</Name>
     <Description>[H3]Dalabar SDS-632 Surveillance Detector[h3]
 [P]Discretion and privacy are critical to any serious negotiation, particularly those with significant ramifications. Not surprisingly, many outsiders are interested in tracking such discussions, particularly on worlds that suffer from tyrannical governments. Consequently, securing such meetings from observation is of the highest priority in many systems, before discussions can even begin, each party involved takes the opportunity to scan a room for bugs, to ensure privacy. Good surveillance detectors identify active devices that transmit on any electromagnetic frequency, as well as recognize the power supplies required to keep such bugs functional.
-[P]A surveillance detector adds [BO] [BO] to any Perception or Vigilance checks to attempt to identify the presence of a bug within short range of the user.</Description>
+[P]A surveillance detector adds [BO][BO] to any Perception or Vigilance checks to attempt to identify the presence of a bug within short range of the user.</Description>
     <Source Page="48">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
       <Type>Detection/Surveillance Devices</Type>
@@ -10710,7 +10642,7 @@ Used in spice mines and prisons across the galaxy, stun collars are an effective
     <Description>[H3]Signature Scent Synthesizer[h3]
 [P]Aromas have a tremendous potential to influence a subject's reaction. A pleasing smell can leave a person in a more receptive mood, while an unpleasant one may cut a discussion short. However, a smell that is enjoyable to one culture can be nauseating to another. In fact, some species find the natural body odors of other species to be overpoweringly noxious. Strong odors that can conceal unpleasant ones are often a necessity.
 [P]A signature scent synthesizer creates millions of different aromatic compounds. These can be customized to complement the olfactory organs of most common species and many lesser-known ones. The system has a catalog that details the common emotional responses to many scents, which are further categorized by species and culture.
-[P]Using a signature scent synthesizer prior to a discussion removes [SE] [SE] from the first Charm, Coercion, or Negotiation check made during the encounter.</Description>
+[P]Using a signature scent synthesizer prior to a discussion removes [SE][SE] from the first Charm, Coercion, or Negotiation check made during the encounter.</Description>
     <Source Page="48">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
       <Type>Detection/Surveillance Devices</Type>
@@ -10744,7 +10676,7 @@ Used in spice mines and prisons across the galaxy, stun collars are an effective
     <Name>Transliterator</Name>
     <Description>[H3]Consolidated Learning Systems Transliterator[h3]
 [P] The vast majority of known galactic species speak or understand Basic, Explorers who work with less civilized or cosmopolitan species, however, may have to engage with individuals who converse in a lesser-known tongue. In most cases, a protocol droid presents a convenient solution-capable of addressing not only language but also etiquette concerns. If an appropriate droid is unavailable, individuals need to use other tools. A transliterator offers a more portable solution. Far more compact than a droid, this device can also be useful in situations where more discretion is required. Further, a transliterator detects colloquial implications of phrases, based upon input cultures. This can enable the user to recognize more subtle points of discussion. It is also helpful when reviewing media in a different dialect, for explaining and clarifying local experessions.
-[P]A transliterator removes [SE] [SE] from any Charm, Coercion, or Negotiation checks that are added due to linguistic difficulties or misunderstandings.</Description>
+[P]A transliterator removes [SE][SE] from any Charm, Coercion, or Negotiation checks that are added due to linguistic difficulties or misunderstandings.</Description>
     <Source Page="49">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
       <Type>Tools/Electronics</Type>
@@ -11364,7 +11296,7 @@ Used in spice mines and prisons across the galaxy, stun collars are an effective
     <Name>Synoptic Teacher</Name>
     <Description>[H3]Synoptic Teacher[h3]
 [P]In some cases, an individual needs to absorb a very large amount of information in a limited amount of time. For those instances in which the user does not need to permanently retain the data, a synoptic teacher can be a vital aid. The device transfers data directly to the wearer's brain at a subconscious level. It works over the course of a single night's sleep, embedding the data in a painless and effortless fashion. Unfortunately, information implanted with this device is transient, typically lasting for only a few days.
-[P]A synoptic teacher is preconfigured to teach a single skill at rank 3. A character using it must make a [B]Hard ([DI] [DI] [DI]) Discipline check[b]. Success means the user counts as having that skill at rank 3 for the remainder of the game session. Failure means the user's strain threshold is halved for the remainder of the session instead. The GM can spend [DE] to cause the synoptic teacher to inflict minor neural scarring, at which point the character can no longer use the synoptic teacher.</Description>
+[P]A synoptic teacher is preconfigured to teach a single skill at rank 3. A character using it must make a [B]Hard ([DI][DI][DI]) Discipline check[b]. Success means the user counts as having that skill at rank 3 for the remainder of the game session. Failure means the user's strain threshold is halved for the remainder of the session instead. The GM can spend [DE] to cause the synoptic teacher to inflict minor neural scarring, at which point the character can no longer use the synoptic teacher.</Description>
     <Source Page="49">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
       <Type>Tools/Electronics</Type>
@@ -11404,7 +11336,7 @@ Used in spice mines and prisons across the galaxy, stun collars are an effective
     <Name>Bioscan (Medical)</Name>
     <Description>[H3]Bioscan (Medical)[h3]
 [P]A healer must be able to recognize any anomalies in a patient's biological makeup in order to properly cure an injury. A bioscan is capable of identifying an individual's species, age, and condition based upon a given set of parameters. It can also recognize any disruptions to the anatomy from injuries or diseases, as well as deliberate modifications such as cybernetics and cosmetic modification.
-[P]A character using a bioscan can remove [SE] [SE] from any Medicine checks the character makes.</Description>
+[P]A character using a bioscan can remove [SE][SE] from any Medicine checks the character makes.</Description>
     <Source Page="50">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
       <Type>Medical</Type>
@@ -13389,6 +13321,7 @@ Shadowcloaks are peculiar devices designed to protect a user's anonymity during 
 
 [P][B]Models Include:[b] Tenloss SX-4 shadowcloak, Creshaldyne Industries "StaticShadow" generator.</Description>
     <Sources>
+      <Source Page="49">Fly Casual</Source>
       <Source Page="49">Cyphers and Masks</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -13463,7 +13396,7 @@ Cybot Galactica's AC1-series surveillance droids are among the most ubiquitous d
     <Description>[H3]E522 Assassin Droid[h3]
 The E522 is one of the most feared droids operating in the galaxy today. These burly, hard-hitting droids were originally designed during the buildup to the Clone Wars by Techno Union member corporation Baktoid Combat Automata (BCA). Initially part of BCA's successful B-series battle droid line, the E522 was envisioned as a light anti-armor and anti-aircraft unit that would provide heavy support to platoons of B1 and B2 units. They were seen as too expensive and complex to serve as disposable droid soldiers, however, and the project was scrapped in favor of the B2 and B3 battle droid units.
 [P]When the Clone Wars finally ended with the destruction of both the Republic and the Separatists, the Techno Union dissolved, and its member corporations either struck out on their own or were brought under direct Imperial control. BCA was one of the companies nationalized by the Empire, and it was immediately slated for breakup. Through the process of BCA's breakup and the selling off of its various assets, all data from the E522 project fell into the hands of Sienar Intelligence Systems. SIS had been working on plans for its own line of combat and assassin droids, and the acquisition of the E522 R&amp;D data was a huge boon to its project. SIS quickly scrapped its in-house project and poured an immense amount of time and money into bringing the E522 project to fruition. Within a year, the first E522s rolled out of SIS's assembly line and straight into the growing unrest leading up to the Galactic Civil War.
-[P]As much a front-line combat droid as an assassin unit, the E522 is a massive, hulking construct festooned with heavy weapons and covered in thick, military-grade armor. It has a rounded, diamond-shaped torso with no discernible head, an extremely narrow waist that rotates 360 degrees, and two heavy tank treads covered in armored skirts in place of legs. Two long, multi-jointed arms sprout from armored shoulders and are equipped with a heavy repeating blaster, heavy ion blaster, and rapid-fire needler gun in place of hands. Three smaller arms with highly dexterous hands are mounted low on the droid's torso to take care of fine work, and a mini-missile launcher is mounted to the droid's back. Scattered about the droid's body is an array of sensors, antennae, and photoreceptors that grant the E522 560-degree full-spectrum vision. The vision system, combined with a powerful on-board combat computer and targeting system, makes these droids a terror on the battlefield.
+[P]As much a front-line combat droid as an assassin unit, the E522 is a massive, hulking construct festooned with heavy weapons and covered in thick, military-grade armor. It has a rounded, diamond-shaped torso with no discernible head, an extremely narrow waist that rotates 360 degrees, and two heavy tank treads covered in armored skirts in place of legs. Two long, multi-jointed arms sprout from armored shoulders and are equipped with a heavy repeating blaster, heavy ion blaster, and rapid-fire needler gun in place of hands. Three smaller arms with highly dexterous hands are mounted low on the droid's torso to take care of fine work, and a mini-missile launcher is mounted to the droid's back. Scattered about the droid's body is an array of sensors, antennae, and photoreceptors that grant the E522 360-degree full-spectrum vision. The vision system, combined with a powerful on-board combat computer and targeting system, makes these droids a terror on the battlefield.
 [P]There are currently fewer than one hundred E522 droids operating in the galaxy. Most of these are in active service with Imperial Army Intelligence and the Imperial Security Bureau as assassins and support units for various Imperial black ops. These droids, with their regular memory wipes and maintenance, retain the silent and intimidating personalities that their Sienar programmers gave them. A handful have fallen into the hands of the Alliance, mostly as battlefield salvage. They are serving the Alliance well in roles similar to those in which they served the Empire. E522s in the Alliance have developed gruff, demanding, cynical personalities that agents who work with them describe as "like everyone's least favorite Master Sergeant." Despite this, Alliance E522s are well liked and respected for their bravery and competence in the field.</Description>
     <Source Page="50">Cyphers and Masks</Source>
     <Custom>DescOnly</Custom>

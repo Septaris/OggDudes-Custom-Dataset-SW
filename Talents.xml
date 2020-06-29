@@ -2629,7 +2629,10 @@ When the character performs the Brace maneuver, the benefits apply to all allies
     <Key>WORKLIKECHARM</Key>
     <Name>Works Like A Charm</Name>
     <Description>Once per session, make one skill check using Presence rather than the characteristic linked to that skill.</Description>
-    <Source Page="159">Age of Rebellion Core Rulebook</Source>
+    <Sources>
+      <Source Page="159">Age of Rebellion Core Rulebook</Source>
+      <Source Page="33">Fly Casual</Source>
+    </Sources>
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
@@ -4293,15 +4296,6 @@ When the character performs the Brace maneuver, the benefits apply to all allies
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
-    <Key>WORKLIKECHARM</Key>
-    <Name>Works Like a Charm</Name>
-    <Description>Once per session, make one skill check using Presence rather than the characteristic linked to that skill.</Description>
-    <Source Page="33">Fly Casual</Source>
-    <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
-    <ActivationValue>taIncidental</ActivationValue>
-  </Talent>
-  <Talent>
     <Key>BADPRESS</Key>
     <Name>Bad Press</Name>
     <Description>Once per session, choose an organization and make a [B]Hard ([DI][DI][DI]) Deception check[b]. On success, organization members have their wound thresholds reduced by 1, plus 1 per [SU][SU][SU], until the end of the session.</Description>
@@ -5390,7 +5384,7 @@ When the character performs the Brace maneuver, the benefits apply to all allies
   <Talent>
     <Key>AGGRNEG</Key>
     <Name>Aggressive Negotiations</Name>
-    <Description>Once per session perform a [B]Hard ([DI] [DI] [DI]) Lightsaber check[b] to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2.</Description>
+    <Description>Once per session perform a [B]Hard ([DI][DI][DI]) Lightsaber check[b] to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2.</Description>
     <Sources>
       <Source Page="28">Disciples of Harmony</Source>
     </Sources>
@@ -5413,7 +5407,7 @@ When the character performs the Brace maneuver, the benefits apply to all allies
   <Talent>
     <Key>EMPTYSOUL</Key>
     <Name>Empty Soul</Name>
-    <Description>If the character is carrying items that total 2 encumbrance or less add [LI] [DA] to Force power checks.</Description>
+    <Description>If the character is carrying items that total 2 encumbrance or less add [LI][DA] to Force power checks.</Description>
     <Sources>
       <Source Page="28">Disciples of Harmony</Source>
     </Sources>
@@ -5517,7 +5511,7 @@ When the character performs the Brace maneuver, the benefits apply to all allies
   <Talent>
     <Key>SAVVYNEGIMP</Key>
     <Name>Savvy Negotiator (Improved)</Name>
-    <Description>Make a [B]Hard ([DI] [DI] [DI]) Negotiation check[b] to convince one bystander per rank of Savvy Negotiator to see one of an opponent's points as maliciously unreasonable.</Description>
+    <Description>Make a [B]Hard ([DI][DI][DI]) Negotiation check[b] to convince one bystander per rank of Savvy Negotiator to see one of an opponent's points as maliciously unreasonable.</Description>
     <Sources>
       <Source Page="30">Disciples of Harmony</Source>
     </Sources>
@@ -6037,17 +6031,6 @@ When the character performs the Brace maneuver, the benefits apply to all allies
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-  </Talent>
-  <Talent>
-    <Key>ANALYZEDATA</Key>
-    <Name>Analyze Data</Name>
-    <Description>Once per session after capturing enemy data, the character may perfom the Analyze Data action to make an [B]Average ([DI][DI]) Knowledge (Warfare) check[b]. Once during the remainder of session he may then add [SU] equal to ranks in Knowledge (Warfare) to one check related to that data.</Description>
-    <Sources>
-      <Source Page="30">Cyphers and Masks</Source>
-    </Sources>
-    <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
-    <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
     <Key>ANALYZEDATA</Key>

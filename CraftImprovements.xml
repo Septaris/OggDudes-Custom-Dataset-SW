@@ -444,7 +444,7 @@
     <Source Page="77">Special Modifications</Source>
     <Name>Defensive Quality</Name>
     <Description>
-      This weapon gains the Defensive 1 quality, or increases Defensive quality by 1 (to a maxiumum of 3).
+      This weapon gains the Defensive 1 quality, or increases Defensive quality by 1 (to a maximum of 3).
     </Description>
     <CostAdvThr>2</CostAdvThr>
     <CostTriDes>1</CostTriDes>
@@ -492,7 +492,7 @@
     <Source Page="77">Special Modifications</Source>
     <Name>Vicious Quality</Name>
     <Description>
-      This weapon gains the Vicious 1 quality, or increases Vicious quality by 1 (to a maxiumum of 5).
+      This weapon gains the Vicious 1 quality, or increases Vicious quality by 1 (to a maximum of 5).
     </Description>
     <CostAdvThr>2</CostAdvThr>
     <CostTriDes>1</CostTriDes>
@@ -558,7 +558,7 @@
     <Source Page="77">Special Modifications</Source>
     <Name>Deflection Quality</Name>
     <Description>
-      This weapon gains the Deflection 1 quality, or increases Deflection quality by 1 (to a maxiumum of 3).
+      This weapon gains the Deflection 1 quality, or increases Deflection quality by 1 (to a maximum of 3).
     </Description>
     <CostAdvThr>3</CostAdvThr>
     <CostTriDes>1</CostTriDes>
@@ -589,7 +589,7 @@
     <Source Page="77">Special Modifications</Source>
     <Name>Accurate Quality</Name>
     <Description>
-      This weapon gains the Accurate 1 quality, or increases Accurate quality by 1 (to a maxiumum of 3).
+      This weapon gains the Accurate 1 quality, or increases Accurate quality by 1 (to a maximum of 3).
     </Description>
     <CostAdvThr>4</CostAdvThr>
     <CostTriDes>1</CostTriDes>
@@ -945,7 +945,7 @@
     <Source Page="79">Special Modifications</Source>
     <Name>Vicious Quality</Name>
     <Description>
-      This weapon gains the Vicious 1 quality, or increases Vicious quality by 1 (to a maxiumum of 5).
+      This weapon gains the Vicious 1 quality, or increases Vicious quality by 1 (to a maximum of 5).
     </Description>
     <CostAdvThr>2</CostAdvThr>
     <CostTriDes>1</CostTriDes>
@@ -1105,7 +1105,7 @@
     <Source Page="79">Special Modifications</Source>
     <Name>Accurate Quality</Name>
     <Description>
-      This weapon gains the Accurate 1 quality, or increases Accurate quality by 1 (to a maxiumum of 3).
+      This weapon gains the Accurate 1 quality, or increases Accurate quality by 1 (to a maximum of 3).
     </Description>
     <CostAdvThr>4</CostAdvThr>
     <CostTriDes>1</CostTriDes>
