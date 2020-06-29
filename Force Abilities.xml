@@ -1359,7 +1359,7 @@
   <ForceAbility>
     <Key>IMBUEMASTERY</Key>
     <Name>Mastery</Name>
-    <Description>Increase characteristics boosted by this power by 2 (to a maximum of 7) instead of 1 (to a maxiumum of 6).</Description>
+    <Description>Increase characteristics boosted by this power by 2 (to a maximum of 7) instead of 1 (to a maximum of 6).</Description>
     <Source Page="37">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
     <Power>Imbue</Power>

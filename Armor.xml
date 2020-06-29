@@ -3036,7 +3036,7 @@ A field disruptor is normally used to disable the shields and potentially the el
       [H3]Reflect Body Glove[h3]
 Effective body armor is conspicious. Good armor certainly provides an intimidation factor in addition to security, but it risks setting the wrong tone for a tenuous negotiation. For those times when appearances are as important as security, armor that is much less noticeable-even if it is less protective-is a necessary compromise.
 [P]A reflect body glove is a skintight suit that can be worn underneath traditional garments. It incorporates a reflective weave that is capable of dispersing the blasts from an energy weapon. The thin layer of tight weave is fragile, however, particularly for suit of armor.
-[P]Add [SE][SE] to Vigilance and Perception checks to notice that the wearer is wearing a reflect body glove. After a successful combat check has been resolved against the wearer, the reflect body glove's soak is reduced by one, to a minumum of zero. The reflect body glove's soak may be restored to its original value by making a successful [B]Average ([DI][DI]) Mechanics check[b].</Description>
+[P]Add [SE][SE] to Vigilance and Perception checks to notice that the wearer is wearing a reflect body glove. After a successful combat check has been resolved against the wearer, the reflect body glove's soak is reduced by one, to a minimum of zero. The reflect body glove's soak may be restored to its original value by making a successful [B]Average ([DI][DI]) Mechanics check[b].</Description>
     <Source Page="46">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
     <Categories>
