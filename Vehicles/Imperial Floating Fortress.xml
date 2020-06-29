@@ -3,7 +3,7 @@
   <Key>IMPFLOATFORT</Key>
   <Name>Imperial Floating Fortress</Name>
   <Description>[H3]Imperial Floating Fortress[h3]
-Designed as an urban counterpart to the AT-AT walker, the Floating Fortress is better at navigating the narrow streets and sharp corners of dense cities. It also has sophisticated sensor software known as a target identification network (TIN). [P]In addition, the Floating Fortress is mounted with comm jammers that require a successful [B]Formidable ([DI] [DI] [DI] [DI]) Computers check[b] to bypass within long range.</Description>
+Designed as an urban counterpart to the AT-AT walker, the Floating Fortress is better at navigating the narrow streets and sharp corners of dense cities. It also has sophisticated sensor software known as a target identification network (TIN). [P]In addition, the Floating Fortress is mounted with comm jammers that require a successful [B]Formidable ([DI][DI][DI][DI]) Computers check[b] to bypass within long range.</Description>
   <Source Page="85">Friends Like These</Source>
   <Custom>DescOnly</Custom>
   <Type>Combat Speeder</Type>

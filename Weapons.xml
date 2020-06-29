@@ -16958,7 +16958,7 @@ Crowd-control situations pose a significant and recurring issue for law enforcem
       [H3]Loronar CryoBan Rifle[h3]
 Tools capable of generating intense cold are critical when dealing with preservation but can also be useful in scientific endeavors, firefighting, and even some types of manufacturing. When these same tools are weaponized, they become potent, typically non-lethal weapons. This is particularly relevant for designs that are portable, including liquid-based and energy-based solutions.
 [P]When fired, the Loronar CryoBan rifle's beam dissipates the free energy of its target, effectively triggering an extreme drop in temperature. This makes inorganic substances far more brittle, leaving them more susceptible to damage from a physical strike. For living beings, the sudden drop in temperature causes a shock to the system that can be enough to incapacitate some targets.
-[P]When used to attack a target wearing armor that removes one or more [SE] due to extreme cold, the weapon's Pierce quality counts as 0. Characters who make a melee attack against a target struck by the Loronar CryoBan in the current round add [BO] [BO] to the check.</Description>
+[P]When used to attack a target wearing armor that removes one or more [SE] due to extreme cold, the weapon's Pierce quality counts as 0. Characters who make a melee attack against a target struck by the Loronar CryoBan in the current round add [BO][BO] to the check.</Description>
     <Source Page="42">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -17161,7 +17161,7 @@ Tenloss's spray foam grenades are ten-centimeter plastic spheres sealed with a l
     <Description>
       [H3]Borstel Neuronic Lash[h3]
 The neuronic whip has earned a reputation as the preferred weapon of slavers. Borstel's neutronic lash attempts to mitigate this negative impression both through its appearance and its overall function. Instead of using a metallic cable, the lash projects a flexible energy strand, which is only emitted from the hilt when activated. The insubstantial energy projection is incapable of causing physical injury to a target. However, it carries a signification electrical charge. This charge is capable of incappacitating most opponents.
-[P]This weapon can be used to make melee attacks against targets at up to short range (the difficulty remains [B]Average [ [DI] [DI] ][b]).</Description>
+[P]This weapon can be used to make melee attacks against targets at up to short range (the difficulty remains [B]Average ([DI][DI])[b]).</Description>
     <Source Page="44">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -17200,7 +17200,7 @@ The neuronic whip has earned a reputation as the preferred weapon of slavers. Bo
       [H3]Fear Stick[h3]
 Subtlety and discretion can be critical to effective use of a weapon. An easily disguised or concealed armament can be used as a means of last resort or might even be overlooked by opponents as something innocuous. Such weapons offer a vital opportunity to a defender who is otherwise unarmed.
 [P]The fear stick is only the size of a stylus or a hypodermic injector. Because it is not powered, weapon scanners calibrated for energy weapons do not detect it. Further, its payload is similar to many common pharmaceuticals, so it is unlikely to trigger a reaction to chemical scanners. The weapon injects a potent neurologic compound. This triggers a powerful fear response, sometimes leaving foes incapable of coherent thought or even incapacitating them entirely.
-[P]Add [SE] [SE] a Perception checks to find a fear stick on a wearer's body. On a successful hit with a fear stick, the attacker may spend [TR] to force a living target to make a [B]Formidable ([DI] [DI] [DI] [DI] [DI]) fear check[b]. Fear sticks have no effect on droids or nonliving organisms.</Description>
+[P]Add [SE][SE] to Perception checks to find a fear stick on a wearer's body. On a successful hit with a fear stick, the attacker may spend [TR] to force a living target to make a [B]Formidable ([DI][DI][DI][DI][DI]) fear check[b]. Fear sticks have no effect on droids or nonliving organisms.</Description>
     <Source Page="44">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>

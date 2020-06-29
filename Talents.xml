@@ -5384,7 +5384,7 @@ When the character performs the Brace maneuver, the benefits apply to all allies
   <Talent>
     <Key>AGGRNEG</Key>
     <Name>Aggressive Negotiations</Name>
-    <Description>Once per session perform a [B]Hard ([DI] [DI] [DI]) Lightsaber check[b] to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2.</Description>
+    <Description>Once per session perform a [B]Hard ([DI][DI][DI]) Lightsaber check[b] to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2.</Description>
     <Sources>
       <Source Page="28">Disciples of Harmony</Source>
     </Sources>
@@ -5407,7 +5407,7 @@ When the character performs the Brace maneuver, the benefits apply to all allies
   <Talent>
     <Key>EMPTYSOUL</Key>
     <Name>Empty Soul</Name>
-    <Description>If the character is carrying items that total 2 encumbrance or less add [LI] [DA] to Force power checks.</Description>
+    <Description>If the character is carrying items that total 2 encumbrance or less add [LI][DA] to Force power checks.</Description>
     <Sources>
       <Source Page="28">Disciples of Harmony</Source>
     </Sources>
@@ -5511,7 +5511,7 @@ When the character performs the Brace maneuver, the benefits apply to all allies
   <Talent>
     <Key>SAVVYNEGIMP</Key>
     <Name>Savvy Negotiator (Improved)</Name>
-    <Description>Make a [B]Hard ([DI] [DI] [DI]) Negotiation check[b] to convince one bystander per rank of Savvy Negotiator to see one of an opponent's points as maliciously unreasonable.</Description>
+    <Description>Make a [B]Hard ([DI][DI][DI]) Negotiation check[b] to convince one bystander per rank of Savvy Negotiator to see one of an opponent's points as maliciously unreasonable.</Description>
     <Sources>
       <Source Page="30">Disciples of Harmony</Source>
     </Sources>

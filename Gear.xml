@@ -504,7 +504,7 @@ Critical Injury, but instead of rolling on the Critical Injury Result table, the
     <Name>Bearsloth Antivenom (dose)</Name>
     <Description>
       [H3]Bearsloth Antivenom[h3]
-[P]Any character who applies a dose may either gain [BO][BO][BO]to checks to resist the effects of the poison until the end of the encounter or immediately remove one instance of the Wracking Venom Critical Injury.</Description>
+[P]Any character who applies a dose may either gain [BO][BO][BO] to checks to resist the effects of the poison until the end of the encounter or immediately remove one instance of the Wracking Venom Critical Injury.</Description>
     <Source Page="23">Chronicles of the Gatekeeper</Source>
     <Custom>DescOnly</Custom>
     <Encumbrance>0</Encumbrance>
@@ -7715,7 +7715,7 @@ In the days of the Republic and even before, the Outer Rim world of Auratera, li
 [P]Instead of revealing anything about Jedi operations or intelligence, Master Ka-Teen successfully wove a complex net of deception that ensnared Kallyx the Piner. Seeking to protect his fellow Jedi, Ka-Teen found his only option to be what he later described as “the abandonment of truth."
 [P]Despite being hailed as a hero by the Jedi Council, the Ithorian turned deeply inward following the episode, becoming an intensely private individual who spent more time alone in the libraries and archives of Coruscant than with his fellow Jedi Knights. Tobar Ka-Teen was seeking something elemental, and that search led him first to his studies of the Crown of Verity, and then, apparently, to the mysterious vergence on Auratera in the ruins of Acablas.
 [P]Though he was not a general and took little part in the Clone Wars, Ka-Teen was accompanied to Auratera by several squads of Republic troops. Order 66 was enacted during his scheduled stay on the planet, and there is no reason to believe he survived its execution. However, there is no record that the clone troops “guarding” him ever returned from Auratera, either. Thus, the planet is the last known location of the Crown of Verity, and of the Jedi Master who so desperately desired to understand its secrets.
-[P]A Force-sensitive character who dons the Crown of Verity automatically fails all Deception checks while wearing it. At the same time, she gains automatic [SU][SU] [SU]  on any checks to detect lies or determine whether someone is telling the truth.
+[P]A Force-sensitive character who dons the Crown of Verity automatically fails all Deception checks while wearing it. At the same time, she gains automatic [SU][SU][SU] on any checks to detect lies or determine whether someone is telling the truth.
     </Description>
     <Sources>
       <Source Page="110">Nexus of Power</Source>
@@ -10455,7 +10455,7 @@ Physically similar to a stimpack, a sleeppack is an auto-injection tube filled w
     <Key>REPULTRAP</Key>
     <Name>Repulsor Trap</Name>
     <Description>[H3]Repulsor Trap[h3]
-These traps for sentient beings subvert repulsorlift technology to create localized patches of extremely high gravity. When targets pass over an active repulsor trap, intense localized gravitational forces rob them of their ability to move. Repulsor traps are unobtrusive, adding [SE] [SE] to all Perception checks made to notice these devices. 
+These traps for sentient beings subvert repulsorlift technology to create localized patches of extremely high gravity. When targets pass over an active repulsor trap, intense localized gravitational forces rob them of their ability to move. Repulsor traps are unobtrusive, adding [SE][SE] to all Perception checks made to notice these devices. 
 [P]
 Any single target who comes within engaged range of an active repulsor trap is ensnared (see [B]Ensnare[b], on page 169 of the [B]Age of Rebellion[b] Core Rulebook) for six rounds.</Description>
     <Source Page="60">Friends Like These</Source>
@@ -10470,7 +10470,7 @@ Any single target who comes within engaged range of an active repulsor trap is e
     <Key>EXPLIMP</Key>
     <Name>Explosive Implant</Name>
     <Description>[H3]Explosive Implant[h3]
-Slavers and slaveholders do not always keep slaves locked up in chains while they carry out their duties. Many slavers inject tiny tracking and explosive devices to discourage slaves from running. A corresponding handheld device similar to a droid caller can locate the implanted target with a [B]Simple (-) Computers check[b]. With the press of a button, the implant can explode, instantly killing its victim. [P] A [B]Daunting ([CH] [DI] [DI] [DI]) Medicine[b] or [B]Mechanics check[b] is required to remove the implant. However, [TH] alerts the transmitter of the tampering, and [DE] triggers the device.</Description>
+Slavers and slaveholders do not always keep slaves locked up in chains while they carry out their duties. Many slavers inject tiny tracking and explosive devices to discourage slaves from running. A corresponding handheld device similar to a droid caller can locate the implanted target with a [B]Simple (-) Computers check[b]. With the press of a button, the implant can explode, instantly killing its victim. [P] A [B]Daunting ([CH][DI][DI][DI]) Medicine[b] or [B]Mechanics check[b] is required to remove the implant. However, [TH] alerts the transmitter of the tampering, and [DE] triggers the device.</Description>
     <Source Page="60">Friends Like These</Source>
     <Custom>DescOnly</Custom>
     <Type>Slaver Tech</Type>
@@ -10493,7 +10493,7 @@ Slavers and slaveholders do not always keep slaves locked up in chains while the
     <Key>STUNCOLOR</Key>
     <Name>Stun Collar</Name>
     <Description>[H3]Stun Collar[h3]
-Used in spice mines and prisons across the galaxy, stun collars are an effective means of subduing a prisoner that can be set to cause relatively little physical damage. [P]When activated via remove, the stun collar delivers a high-voltage shock to its wearer, inflicting 10 Stun Damage. However, the collar can also be used to lethal effect, dealing 12 damage and inflicting a Critical Injury adding +20 to the roll. [P]A [B]Hard ([DI] [DI] [DI]) Mechanics check[b] is necessary to remove the collar without electrocuting its wearer.</Description>
+Used in spice mines and prisons across the galaxy, stun collars are an effective means of subduing a prisoner that can be set to cause relatively little physical damage. [P]When activated via remove, the stun collar delivers a high-voltage shock to its wearer, inflicting 10 Stun Damage. However, the collar can also be used to lethal effect, dealing 12 damage and inflicting a Critical Injury adding +20 to the roll. [P]A [B]Hard ([DI][DI][DI]) Mechanics check[b] is necessary to remove the collar without electrocuting its wearer.</Description>
     <Source Page="60">Friends Like These</Source>
     <Custom>DescOnly</Custom>
     <Type>Slaver Tech</Type>
@@ -10522,7 +10522,7 @@ Used in spice mines and prisons across the galaxy, stun collars are an effective
     <Name>BC-7 Environmental Cocoon</Name>
     <Description>[H3]Czerka BC-7 Environmental Cocoon[h3]
 [P]Primarily intended for hunters and survivalists, and environment cocoon provides a secure space in an otherwise hostile locale. While it is designed to be portable, it can quickly inflate to become a small structure large enough for a single occupant. The field unit has dense insulation as well as its own climate-control system. This enables it to maintain a safe temperature for a single person. The cocoon is equipped with an filter that removes the worst of the particulate matter in the atmosphere.
-[P]The cocoon reduces the difficulty of Resilience checks made to resist effects of extreme cold or heat by three. It also removes up to [SE] [SE] [SE] added to checks due to extreme heat or cold, for as long as the user remains within it.</Description>
+[P]The cocoon reduces the difficulty of Resilience checks made to resist effects of extreme cold or heat by three. It also removes up to [SE][SE][SE] added to checks due to extreme heat or cold, for as long as the user remains within it.</Description>
     <Source Page="46">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
       <Type>Survival</Type>
@@ -10581,7 +10581,7 @@ Used in spice mines and prisons across the galaxy, stun collars are an effective
     <Name>B310 Micro-Imager</Name>
     <Description>[H3]Applied Imaging B310 Micro-Imager[h3]
 [P]Microorganisms, mineral structures, and forensic samples are just a few of the things that a researcher might need to examine in extremely fine detail. Key visual characteristics of objects only a few micrometers in size can provide the information necessary to solve a mystery or resolve a crisis. However, few species have the inherent ability to visually discern such details without an appropriate tool. A micro-imager solves this challenge by magnifying an object up to 100,000 times its original size, using visual light and  a variety of different sensors. The magnified object is projected in a holographic format above the imager. The hologram can be rotated, zoomed, and adjusted as needed, so that the viewer can perceive any necessary details.
-[P]A micro-imager adds [BO] [BO] to any Perception, Knowledge (Lore), or Knowledge (Education), checks for which magnification of fine details can contribute to the research at hand.</Description>
+[P]A micro-imager adds [BO][BO] to any Perception, Knowledge (Lore), or Knowledge (Education), checks for which magnification of fine details can contribute to the research at hand.</Description>
     <Source Page="47">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
       <Type>Detection/Surveillance Devices</Type>
@@ -10601,7 +10601,7 @@ Used in spice mines and prisons across the galaxy, stun collars are an effective
     <Name>SDS-632 Surveillance Detector</Name>
     <Description>[H3]Dalabar SDS-632 Surveillance Detector[h3]
 [P]Discretion and privacy are critical to any serious negotiation, particularly those with significant ramifications. Not surprisingly, many outsiders are interested in tracking such discussions, particularly on worlds that suffer from tyrannical governments. Consequently, securing such meetings from observation is of the highest priority in many systems, before discussions can even begin, each party involved takes the opportunity to scan a room for bugs, to ensure privacy. Good surveillance detectors identify active devices that transmit on any electromagnetic frequency, as well as recognize the power supplies required to keep such bugs functional.
-[P]A surveillance detector adds [BO] [BO] to any Perception or Vigilance checks to attempt to identify the presence of a bug within short range of the user.</Description>
+[P]A surveillance detector adds [BO][BO] to any Perception or Vigilance checks to attempt to identify the presence of a bug within short range of the user.</Description>
     <Source Page="48">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
       <Type>Detection/Surveillance Devices</Type>
@@ -10642,7 +10642,7 @@ Used in spice mines and prisons across the galaxy, stun collars are an effective
     <Description>[H3]Signature Scent Synthesizer[h3]
 [P]Aromas have a tremendous potential to influence a subject's reaction. A pleasing smell can leave a person in a more receptive mood, while an unpleasant one may cut a discussion short. However, a smell that is enjoyable to one culture can be nauseating to another. In fact, some species find the natural body odors of other species to be overpoweringly noxious. Strong odors that can conceal unpleasant ones are often a necessity.
 [P]A signature scent synthesizer creates millions of different aromatic compounds. These can be customized to complement the olfactory organs of most common species and many lesser-known ones. The system has a catalog that details the common emotional responses to many scents, which are further categorized by species and culture.
-[P]Using a signature scent synthesizer prior to a discussion removes [SE] [SE] from the first Charm, Coercion, or Negotiation check made during the encounter.</Description>
+[P]Using a signature scent synthesizer prior to a discussion removes [SE][SE] from the first Charm, Coercion, or Negotiation check made during the encounter.</Description>
     <Source Page="48">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
       <Type>Detection/Surveillance Devices</Type>
@@ -10676,7 +10676,7 @@ Used in spice mines and prisons across the galaxy, stun collars are an effective
     <Name>Transliterator</Name>
     <Description>[H3]Consolidated Learning Systems Transliterator[h3]
 [P] The vast majority of known galactic species speak or understand Basic, Explorers who work with less civilized or cosmopolitan species, however, may have to engage with individuals who converse in a lesser-known tongue. In most cases, a protocol droid presents a convenient solution-capable of addressing not only language but also etiquette concerns. If an appropriate droid is unavailable, individuals need to use other tools. A transliterator offers a more portable solution. Far more compact than a droid, this device can also be useful in situations where more discretion is required. Further, a transliterator detects colloquial implications of phrases, based upon input cultures. This can enable the user to recognize more subtle points of discussion. It is also helpful when reviewing media in a different dialect, for explaining and clarifying local experessions.
-[P]A transliterator removes [SE] [SE] from any Charm, Coercion, or Negotiation checks that are added due to linguistic difficulties or misunderstandings.</Description>
+[P]A transliterator removes [SE][SE] from any Charm, Coercion, or Negotiation checks that are added due to linguistic difficulties or misunderstandings.</Description>
     <Source Page="49">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
       <Type>Tools/Electronics</Type>
@@ -11296,7 +11296,7 @@ Used in spice mines and prisons across the galaxy, stun collars are an effective
     <Name>Synoptic Teacher</Name>
     <Description>[H3]Synoptic Teacher[h3]
 [P]In some cases, an individual needs to absorb a very large amount of information in a limited amount of time. For those instances in which the user does not need to permanently retain the data, a synoptic teacher can be a vital aid. The device transfers data directly to the wearer's brain at a subconscious level. It works over the course of a single night's sleep, embedding the data in a painless and effortless fashion. Unfortunately, information implanted with this device is transient, typically lasting for only a few days.
-[P]A synoptic teacher is preconfigured to teach a single skill at rank 3. A character using it must make a [B]Hard ([DI] [DI] [DI]) Discipline check[b]. Success means the user counts as having that skill at rank 3 for the remainder of the game session. Failure means the user's strain threshold is halved for the remainder of the session instead. The GM can spend [DE] to cause the synoptic teacher to inflict minor neural scarring, at which point the character can no longer use the synoptic teacher.</Description>
+[P]A synoptic teacher is preconfigured to teach a single skill at rank 3. A character using it must make a [B]Hard ([DI][DI][DI]) Discipline check[b]. Success means the user counts as having that skill at rank 3 for the remainder of the game session. Failure means the user's strain threshold is halved for the remainder of the session instead. The GM can spend [DE] to cause the synoptic teacher to inflict minor neural scarring, at which point the character can no longer use the synoptic teacher.</Description>
     <Source Page="49">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
       <Type>Tools/Electronics</Type>
@@ -11336,7 +11336,7 @@ Used in spice mines and prisons across the galaxy, stun collars are an effective
     <Name>Bioscan (Medical)</Name>
     <Description>[H3]Bioscan (Medical)[h3]
 [P]A healer must be able to recognize any anomalies in a patient's biological makeup in order to properly cure an injury. A bioscan is capable of identifying an individual's species, age, and condition based upon a given set of parameters. It can also recognize any disruptions to the anatomy from injuries or diseases, as well as deliberate modifications such as cybernetics and cosmetic modification.
-[P]A character using a bioscan can remove [SE] [SE] from any Medicine checks the character makes.</Description>
+[P]A character using a bioscan can remove [SE][SE] from any Medicine checks the character makes.</Description>
     <Source Page="50">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
       <Type>Medical</Type>

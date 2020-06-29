@@ -123,7 +123,7 @@
   <SigAbilityNode>
     <Key>LOSADDBOOST</Key>
     <Name>Add Boost</Name>
-    <Description>Add [BO]to skill check to activate Last One Standing.</Description>
+    <Description>Add [BO] to skill check to activate Last One Standing.</Description>
     <Source Page="36">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Last One Standing</SigAbility>
@@ -1625,7 +1625,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <SigAbilityNode>
     <Key>MUCHTOLEARNBASIC</Key>
     <Name>Much to Learn Base Ability</Name>
-    <Description>Once per game session, the character may spend 2 Destiny Points and make a [B]Hard ([DI] [DI] [DI]) Knowledge (Education) check[b], then choose one talent that the character possesses. For the remainder of the current encounter, one character within medium range counts as having that talent. If that talent is ranked, the allied character counts as having as may ranks in the talent as the character with this signature ability does.</Description>
+    <Description>Once per game session, the character may spend 2 Destiny Points and make a [B]Hard ([DI][DI][DI]) Knowledge (Education) check[b], then choose one talent that the character possesses. For the remainder of the current encounter, one character within medium range counts as having that talent. If that talent is ranked, the allied character counts as having as may ranks in the talent as the character with this signature ability does.</Description>
     <Source Page="34">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Much to Learn</SigAbility>
@@ -1641,7 +1641,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
   <SigAbilityNode>
     <Key>MUCHTOLEARNREDUCEDIFFICULTY</Key>
     <Name>Reduce Difficulty</Name>
-    <Description>Reduce the difficulty of the skill check to activate Much to learn to [B]Average ([DI] [DI])[b].</Description>
+    <Description>Reduce the difficulty of the skill check to activate Much to learn to [B]Average ([DI][DI])[b].</Description>
     <Source Page="34">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Much to Learn</SigAbility>
