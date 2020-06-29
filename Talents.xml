@@ -2629,7 +2629,10 @@ When the character performs the Brace maneuver, the benefits apply to all allies
     <Key>WORKLIKECHARM</Key>
     <Name>Works Like A Charm</Name>
     <Description>Once per session, make one skill check using Presence rather than the characteristic linked to that skill.</Description>
-    <Source Page="159">Age of Rebellion Core Rulebook</Source>
+    <Sources>
+      <Source Page="159">Age of Rebellion Core Rulebook</Source>
+      <Source Page="33">Fly Casual</Source>
+    </Sources>
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
@@ -4291,15 +4294,6 @@ When the character performs the Brace maneuver, the benefits apply to all allies
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-  </Talent>
-  <Talent>
-    <Key>WORKLIKECHARM</Key>
-    <Name>Works Like a Charm</Name>
-    <Description>Once per session, make one skill check using Presence rather than the characteristic linked to that skill.</Description>
-    <Source Page="33">Fly Casual</Source>
-    <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
-    <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
     <Key>BADPRESS</Key>
@@ -6037,17 +6031,6 @@ When the character performs the Brace maneuver, the benefits apply to all allies
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-  </Talent>
-  <Talent>
-    <Key>ANALYZEDATA</Key>
-    <Name>Analyze Data</Name>
-    <Description>Once per session after capturing enemy data, the character may perfom the Analyze Data action to make an [B]Average ([DI][DI]) Knowledge (Warfare) check[b]. Once during the remainder of session he may then add [SU] equal to ranks in Knowledge (Warfare) to one check related to that data.</Description>
-    <Sources>
-      <Source Page="30">Cyphers and Masks</Source>
-    </Sources>
-    <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
-    <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
     <Key>ANALYZEDATA</Key>

@@ -15,20 +15,6 @@ More than twenty years ago, then—Supreme Chancellor Palpatine wiped out the Je
     <Custom>DescOnly</Custom>
   </Attitude>
   <Attitude>
-    <Key>ANCIENTRELIGION</Key>
-    <Name>An Ancient Religion</Name>
-    <Description>
-      [H4]An Ancient Religion[h4]
-
-More than twenty years ago, then—Supreme Chancellor Palpatine wiped out the Jedi. Before he did so, the Jedi were figures of whom many people had heard, but with whom few had ever interacted. To most, they were a tiny and aloof band of warriors and peacekeepers. not people one interacted with on a daily basis. 
-
-[P]After the purge, those few who had formerly had the most opportunity to interact with the Jedi, the people engaged in the work of galactic governance. worked directly for the man responsible for wiping out those same Jedi. Some dismissed the Jedi as a dangerous cult that had almost overthrown the galactic government. Some figured the best way to survive in the growing Galactic Empire was to forget the Jedi had ever existed. Some refused either of these paths. only to vanish quietly as they drew the attention of the Imperial Security Bureau. Many beings in the rest of the galaxy had never even seen a Jedi or experienced the Force. For them, it was all too easy to believe the Force was a hoax. and the Jedi were gone. 
-
-[P]Now, the Galactic Empire works tirelessly to stamp out the last rumors and legends of the Jedi's existence. Many who live under the Empire's dominion believe the Force is little more than an outdated legend. Citizens who have the potential to use the Force almost never come to recognize their inborn talents. Instead, they simply attribute any signs of their ability to luck, spiritual favor, or some other natural ability. Most vigorously deny any connection to the Force, insisting that their skills and abilities are not enhanced by its influence. Learning to embrace the Force as well as to use his abilities deliberately could be a central part of a character's initial development.</Description>
-    <Source Page="46">Force and Destiny Core Rulebook</Source>
-    <Custom>DescOnly</Custom>
-  </Attitude>
-  <Attitude>
     <Key>DUTYTRAD</Key>
     <Name>Duty to Tradition</Name>
     <Description>

@@ -4007,7 +4007,10 @@ Air rifles are not considered weapons on most planets in the galaxy, and the maj
 [P]These weapons' balance, accuracy, portability, and the nearly complete silence of their firing mechanism make them excellent weapons for hunters, both of beasts and of sentient beings. Combined with the ability to chamber specialty darts that can be filled with various chemicals and toxins, air weapons make for fine silent killing weapons. 
 
 [P]One of the most common air rifles on the market is the Model 77 from Field Sports, a trusted name in air-weapon production. Known colloquially as the Sandman, thanks to the unique effects of its standard ammunition, the Model 77 is a lightweight, long-barreled air gun similar in silhouette and stature to a sporting blaster. Made primarily of polycarbonate with fibermesh reinforcement, the Model 77 was initially marketed as a nonlethal weapon for animal control and law enforcement. It fires tiny, spin-stabilized darts with laser-honed tips capable of piercing the thickest hide from a detachable clip that is quick and easy to reload. Each dart contains a dose of tranquilizer agent that induces unconsciousness. In addition, the Model 77's darts can be loaded with the heavy-duty "SmartTranq" tranquilizer with an active ingredient that adapts itself upon contact with the target's bloodstream to be as effective as possible no matter what the species. Sandman air rifles have a well-deserved reputation for accuracy and reliability. In the Outer Rim many are used by bounty hunters and big-game hunters who need to take prey alive in order to collect their payments.</Description>
-    <Source Page="39">Enter the Unknown</Source>
+    <Sources>
+      <Source Page="39">Enter the Unknown</Source>
+      <Source Page="41">Savage Spirits</Source>
+    </Sources>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
     <Categories>
@@ -4444,44 +4447,6 @@ With a reputation for sturdy, reliable, no nonsense products, Czerka Arms has pr
     </BaseMods>
   </Weapon>  
   <Weapon>
-    <Key>MODEL77</Key>
-    <Name>Model 77 Air Rifle</Name>
-    <Description>
-      [H3]Model 77 Air Rifle[h3]
-
-Air rifles are not considered weapons on most planets in the galaxy, and the majority of sentients therein see them as little more than toys. Even those Core Worlds with the most draconian restrictions on weapon ownership have no official laws governing air-powered weapons. A specialized form of slugthrower, air rifles use compressed air or other gasses to propel tiny metal pellets or light, spin-stabilized darts over long distances. Lightweight and extremely accurate, they are usually marketed to hobby shooters, collectors, or those who need a quiet, easy-to-use, and relatively safe weapon with which to practice their marksmanship. 
-
-[P]These weapons' balance, accuracy, portability, and the nearly complete silence of their firing mechanism make them excellent weapons for hunters, both of beasts and of sentient beings. Combined with the ability to chamber specialty darts that can be filled with various chemicals and toxins, air weapons make for fine silent killing weapons. 
-
-[P]One of the most common air rifles on the market is the Model 77 from Field Sports, a trusted name in air-weapon production. Known colloquially as the Sandman, thanks to the unique effects of its standard ammunition, the Model 77 is a lightweight, long-barreled air gun similar in silhouette and stature to a sporting blaster. Made primarily of polycarbonate with fibermesh reinforcement, the Model 77 was initially marketed as a nonlethal weapon for animal control and law enforcement. It fires tiny, spin-stabilized darts with laser-honed tips capable of piercing the thickest hide from a detachable clip that is quick and easy to reload. Each dart contains a dose of tranquilizer agent that induces unconsciousness. In addition, the Model 77's darts can be loaded with the heavy-duty "SmartTranq" tranquilizer with an active ingredient that adapts itself upon contact with the target's bloodstream to be as effective as possible no matter what the species. Sandman air rifles have a well-deserved reputation for accuracy and reliability. In the Outer Rim many are used by bounty hunters and big-game hunters who need to take prey alive in order to collect their payments.</Description>
-    <Source Page="41">Savage Spirits</Source>
-    <Custom>DescOnly</Custom>
-    <SkillKey>RANGHVY</SkillKey>
-    <Damage>6</Damage>
-    <Crit>0</Crit>
-    <RangeValue>wrLong</RangeValue>
-    <Encumbrance>3</Encumbrance>
-    <HP>3</HP>
-    <Price>1100</Price>
-    <Rarity>6</Rarity>
-    <Type>Slugthrower</Type>
-    <Categories>
-      <Category>Rifle</Category>
-      <Category>Ranged</Category>
-    </Categories>
-    <Qualities>
-      <Quality>
-        <Key>PIERCE</Key>
-        <Count>4</Count>
-      </Quality>
-      <Quality>
-        <Key>STUNDAMAGE</Key>
-      </Quality>
-    </Qualities>
-    <BaseMods>
-    </BaseMods>
-  </Weapon>
-  <Weapon>
     <Key>BERSERKERRIF</Key>
     <Name>Berserker Rifle</Name>
     <Description>
@@ -4503,43 +4468,6 @@ The berserker rifle was originally a custom weapon commonly used by bounty hunte
     <Damage>7</Damage>
     <Crit>4</Crit>
     <SizeHigh>10</SizeHigh>
-    <RangeValue>wrMedium</RangeValue>
-    <Qualities>
-      <Quality>
-        <Key>BURN</Key>
-        <Count>1</Count>
-      </Quality>
-      <Quality>
-        <Key>CUMBERSOME</Key>
-        <Count>3</Count>
-      </Quality>
-      <Quality>
-        <Key>DISORIENT</Key>
-        <Count>1</Count>
-      </Quality>
-    </Qualities>
-  </Weapon>
-  <Weapon>
-    <Key>BERSERKERRIF</Key>
-    <Name>Berserker Rifle</Name>
-    <Description>
-      [H3]Berserker Rifle[h3]
-The berserker rifle was originally a custom weapon commonly used by bounty hunters in the Outer Rim and Unknown Regions. It gets its name from a misunderstood colloquial mish-mash of terms refering to bothe the lightning-jacks and blind  berserkers of the Stratos Distribution. Hundreds of years after its inception, a handful of weapons developers like Arakyd Industriesz Zoltan Arms, and even Imperial Munitions manufacture a variety of models.
-[P]At its core, the berserker rifle operates like a scaled-down version of the Wookiee bowcaster, using magnetic accelerator to stabilize and fire charged micro-slugs at incredible velocities. The weapon differs from the bowcaster by electrifying the slugs rather than encasing them in ionic particles, which has the potential to electrocute the ttarget, wracking them convulsions and possibly even igniting flammable articles of clothing or equipment.</Description>
-    <Source Page="46">Forged in Battle</Source>
-    <Custom>DescOnly</Custom>
-    <Type>Slugthrower</Type>
-    <Categories>
-      <Category>Ranged</Category>
-      <Category>Rifle</Category>
-    </Categories>
-    <Encumbrance>4</Encumbrance>
-    <Price>600</Price>
-    <Rarity>5</Rarity>
-    <Restricted>true</Restricted>
-    <SkillKey>RANGHVY</SkillKey>
-    <Damage>7</Damage>
-    <Crit>4</Crit>
     <RangeValue>wrMedium</RangeValue>
     <Qualities>
       <Quality>
@@ -11722,55 +11650,6 @@ Most often found in the hands of the Weequay, these vibro-glaives consist of a h
       </Quality>
     </Qualities>
   </Weapon>
-  <Weapon>
-    <Key>SHISBLADE</Key>
-    <Name>Shistavanen Combat Utility Vibroblade</Name>
-    <Description>
-      [H3]Shistavanen Combat Utility Vibroblade[h3]
-The wilds of Uvena Prime can be harsh and unforgiving, and have claimed countless Shistavanen hunters. For this reason, Shistavanen survivalists devised an item with every conceivable tool necessary to survive in the wilderness and in battle, dubbed the "Combat Utility Vibroblade". Shistavanens say that no respectable surivalist would be caught dead without this handy gadget, though their opinion is often somwhat biased. Still, each C.U.V. is a custom configuration, equipped with eight different tools of the owner's choosing, and as such these devices are extremely useful in the wilds. Containing anything from a fire starter to a hydrospanner to a water contaminant detector, the C.U.V. is many a survivalist's best friend.
-[P]The Combat Utility Vibroblade serves as a tool kit to allow Mechanics checks to repair devices and to "heal" droids, but adds [SE] to such checks. Additionally, it adds [BO] to the character's Survival checks.</Description>
-    <Source Page="48">Forged in Battle</Source>
-    <Custom>DescOnly</Custom>
-    <Type>Melee</Type>
-    <Categories>
-      <Category>Cutting Edge Melee</Category>
-      <Category>Powered Melee</Category>
-    </Categories>
-    <Encumbrance>2</Encumbrance>
-    <Price>600</Price>
-    <Rarity>7</Rarity>
-    <BaseMods>
-      <Mod>
-        <Count>1</Count>
-        <MiscDesc>The Combat Utility Vibroblade serves as a tool kit to allow Mechanics checks to repair devices and to "heal" droids, but adds [SE] to such checks.</MiscDesc>
-      </Mod>
-      <Mod>
-        <Count>1</Count>
-        <MiscDesc>Adds [BO] to the character's Survival checks.</MiscDesc>
-        <DieModifiers>
-          <DieModifier>
-            <SkillKey>SURV</SkillKey>
-            <BoostCount>1</BoostCount>
-          </DieModifier>
-        </DieModifiers>
-      </Mod>
-    </BaseMods>
-    <SkillKey>MELEE</SkillKey>
-    <DamageAdd>1</DamageAdd>
-    <Crit>2</Crit>
-    <SizeHigh>10</SizeHigh>
-    <RangeValue>wrEngaged</RangeValue>
-    <Qualities>
-      <Quality>
-        <Key>PIERCE</Key>
-        <Count>2</Count>
-      </Quality>
-      <Quality>
-        <Key>VICIOUS</Key>
-        <Count>1</Count>
-      </Quality>
-    </Qualities>
-  </Weapon>
 
   <Weapon>
     <Key>AKRABDAG</Key>
@@ -12900,110 +12779,6 @@ Massive, heavy-caliber weapons with incredible energy requirements, turbolasers 
       <Quality>
         <Key>SLOWFIRING</Key>
         <Count>2</Count>
-      </Quality>
-    </Qualities>
-  </Weapon>
-  <Weapon>
-    <Key>MOLSTILETTO</Key>
-    <Name>Molecular Stiletto</Name>
-    <Description>
-      [H3]Molecular Stiletto[h3]
-
-Produced by Xana Exotic Arms, the MSW-9 is a small, easily concealable blade popular among professionals, politicians, and entertainers. Built to resemble a datapad stylus, the MSW-9 is light, inconspicuous, and easily overlooked by even the most zealous and dedicated search. 
-
-[P]Due to their inherent fragility, any combat check made while wielding one of these blades that generates either [TH][TH] or [DE] damages the weapon by one step as if struck by a weapon with the Sunder quality. Add [SE] to a character's Perception check when attempting to find a molecular stiletto on a person's body.</Description>
-    <Source Page="43">Far Horizons</Source>
-    <Custom>DescOnly</Custom>
-    <Type>Melee</Type>
-    <Categories>
-      <Category>Cutting Edge Melee</Category>
-    </Categories>
-    <Encumbrance>1</Encumbrance>
-    <HP>1</HP>
-    <Price>500</Price>
-    <Rarity>5</Rarity>
-    <Restricted>false</Restricted>
-    <BaseMods>
-      <Mod>
-        <MiscDesc>Add [SETBACK] to Perception checks to find this weapon on a body.  [THREAT][THREAT] or [DESPAIR] damages weapon by one step.</MiscDesc>
-      </Mod>
-    </BaseMods>
-    <SkillKey>MELEE</SkillKey>
-    <Damage>0</Damage>
-    <DamageAdd>0</DamageAdd>
-    <Crit>2</Crit>
-    <RangeValue>wrEngaged</RangeValue>
-    <Qualities>
-      <Quality>
-        <Key>PIERCE</Key>
-        <Count>5</Count>
-      </Quality>
-      <Quality>
-        <Key>VICIOUS</Key>
-        <Count>1</Count>
-      </Quality>
-    </Qualities>
-  </Weapon>
-  <Weapon>
-    <Key>STUNBATON</Key>
-    <Name>Stun Baton</Name>
-    <Description>
-      [H3]Stun Baton[h3]
-
-Resembling a typical police truncheon, the Z2 by Merr-Sonn packs an extra, often completely unexpected punch in the form of a concentrated stun blast. Carried by riot police and criminal enforcers alike on countless planets, the Z2 is a one-handed blunt weapon built from heavily reinforced polymers with conductive alloy striking surfaces. When used against organic beings, the Z2 releases a burst of stun energy that can quickly and effectively reduce a malcontent to unconsciousness. While not commonly used by the Empire, who prefer a more direct and punitive form of policing, stun batons are common in the Outer Rim where law enforcement officers prefer non-lethal methods of dealing with the people they serve and protect.</Description>
-    <Source Page="43">Far Horizons</Source>
-    <Custom>DescOnly</Custom>
-    <Type>Melee</Type>
-    <Categories />
-    <Encumbrance>2</Encumbrance>
-    <HP>2</HP>
-    <Price>200</Price>
-    <Rarity>4</Rarity>
-    <Restricted>false</Restricted>
-    <BaseMods />
-    <SkillKey>MELEE</SkillKey>
-    <Damage>2</Damage>
-    <DamageAdd>0</DamageAdd>
-    <Crit>6</Crit>
-    <RangeValue>wrEngaged</RangeValue>
-    <Qualities>
-      <Quality>
-        <Key>DISORIENT</Key>
-        <Count>2</Count>
-      </Quality>
-      <Quality>
-        <Key>STUNDAMAGE</Key>
-      </Quality>
-    </Qualities>
-  </Weapon>
-  <Weapon>
-    <Key>THNDRBOLT</Key>
-    <Name>Thunderbolt Shock Prod</Name>
-    <Description>
-      [H3]Thunderbolt Shock Prod[h3]
-
-A particularly brutal weapon used to herd thick skinned creatures and, on occasion, sentient beings, the Thunderbolt Shock Prod produced by SoroSuub is a weapon with a mixed reputation throughout the galaxy. At once the symbol of bucolic agricultural life and brutally oppressive regimes, the Thunderbolt consists of a solid alloy staff nearly two meters long. At one end is a heavily insulated, two-handed grip and at the other is a series of sharp prongs. The prongs aren't the main threat posed by these weapons, however. Rather, it is the powerful electrical shock generated by them. Able to produce an electrical arc powerful enough to tame a krayt dragon, the Thunderbolt is popular among planetary security forces and slavers, and judicious use of these weapons by riot police can disperse a violent crowd in minutes. The effects of the noise and the crippling pain from the shock quickly incapacitate even the most determined rioters, and these weapons are infamous throughout the galaxy.</Description>
-    <Source Page="43">Far Horizons</Source>
-    <Custom>DescOnly</Custom>
-    <Type>Melee</Type>
-    <Categories />
-    <Encumbrance>0</Encumbrance>
-    <HP>2</HP>
-    <Price>875</Price>
-    <Rarity>4</Rarity>
-    <Restricted>false</Restricted>
-    <SkillKey>MELEE</SkillKey>
-    <Damage>5</Damage>
-    <DamageAdd>0</DamageAdd>
-    <Crit>3</Crit>
-    <RangeValue>wrEngaged</RangeValue>
-    <Qualities>
-      <Quality>
-        <Key>CONCUSSIVE</Key>
-        <Count>1</Count>
-      </Quality>
-      <Quality>
-        <Key>STUNDAMAGE</Key>
       </Quality>
     </Qualities>
   </Weapon>
