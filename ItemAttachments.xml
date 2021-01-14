@@ -12380,7 +12380,6 @@ Usually formed from rigid plates or packed with protective padding, most types o
     <Sources>
       <Source Page="63">Rise of the Separatists</Source>
     </Sources>
-    <Type>Weapon</Type>
     <ItemLimit />
     <SkillLimit />
     <TypeLimit />
@@ -12434,7 +12433,6 @@ Usually formed from rigid plates or packed with protective padding, most types o
     <Sources>
       <Source Page="64">Rise of the Separatists</Source>
     </Sources>
-    <Type>Weapon</Type>
     <ItemLimit />
     <SkillLimit />
     <TypeLimit />
