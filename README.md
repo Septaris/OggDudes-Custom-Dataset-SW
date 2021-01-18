@@ -12,4 +12,4 @@ Link to the detailed solution: https://gitlab.com/rikus01/SWDataSet-OggDudes/-/i
 Solution Summary:
 
 1. If you download using the \*.tar option instead of the \*.zip function it should fix the issue with the Windows 10 zip problem.
-2. The file has to be named "SWDataSet-(NAME)" and first folder inside has to be "DataSet_(NAME)". Please note that (NAME) has to be the exact same for both folders (including case). In addition, the program is both naming and case specific. If you are encountering an error double check the naming convention and make sure it matches exactly how it is above. 
+2. The file has to be named "SWDataSet-(NAME)" and first folder inside has to be "DataSet_(NAME)". Please note that (NAME) has to be the exact same for both folders (including case). In addition, the program is both naming and case specific. If you are encountering an error double check the naming convention and make sure it matches exactly how it is above. For example: the first folder inside the zip uses an underscore "_" ; not a dash "-".
