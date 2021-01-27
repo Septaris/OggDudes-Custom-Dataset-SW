@@ -4640,7 +4640,7 @@ When the character performs the Brace maneuver, the benefits apply to all allies
   <Talent>
     <Key>CONFIMP</Key>
     <Name>Confidence (Improved)</Name>
-    <Description>May decrease difficulty of Discipline checks to avoid fear by 1 per rank of Confidence.</Description>
+    <Description>My spend [TR] on a fear check to steady the nerves of other allies making the same fear check. If the character does so, each ally within short range who makes the fear check adds automatic [SU] equal to the character's ranks in Confidence to the results of the check.</Description>
     <Source Page="33">Lead by Example</Source>
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
