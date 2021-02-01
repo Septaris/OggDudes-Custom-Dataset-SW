@@ -950,7 +950,7 @@
   <ForceAbility>
     <Key>SEEKSTRENGTH</Key>
     <Name>Strength</Name>
-    <Description>Spend [FP] to gain one additional detail per Magnitude upgrade purchased.</Description>
+    <Description>Spend [FP] to eliminate 1 Force-based illusion per Strength upgrade purchased.</Description>
     <Source Page="302">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <Power>Seek</Power>
