@@ -9,7 +9,7 @@ Clone Pilots receive Gunnery, Mechanics, Piloting (Planetary), and Piloting (Spa
 Clone Pilots serve as members of a squadron under the command of a Clone Officer, who has also mastered the skills of a pilot. A squadron is typically assigned a particular type of craft, although this can change based on mission requirements. Clone Pilots are sometimes reassigned to other squadrons in which they are expected to fly other craft. Consequently, their training includes exposure to a range of starfighters, speeders, and walkers.
 </Description>
   <Source Page="21">Rise of the Separatists</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>GUNN</Key>
     <Key>MECH</Key>

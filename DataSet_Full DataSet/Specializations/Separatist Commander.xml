@@ -1,63 +1,63 @@
 <?xml version="1.0"?>
 <Specialization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Key>DWWAR</Key>
-  <Name>Death Watch Warrior</Name>
-  <Description>[H4]Death Watch Warrior[h4]
-Please see page 28 of the Collapse of the Republic Sourcebook for details.</Description>
-  <Source Page="28">Collapse of the Republic</Source>
+  <Key>SEPRTST</Key>
+  <Name>Separatist Commander</Name>
+  <Description>[H4]Separatist Commander[h4]
+Please see page 35 of the Collapse of the Republic Sourcebook for details.</Description>
+  <Source Page="35">Collapse of the Republic</Source>
   <Custom>AddedItem</Custom>
   <CareerSkills>
     <Key>COERC</Key>
-    <Key>MECH</Key>
-    <Key>PILOTPL</Key>
-    <Key>RANGLT</Key>
+    <Key>LEAD</Key>
+    <Key>VIGIL</Key>
+    <Key>WARF</Key>
   </CareerSkills>
   <TalentRows>
     <TalentRow>
       <Cost>5</Cost>
       <Talents>
-        <Key>TOUGH</Key>
-        <Key>INTIM</Key>
-        <Key>CONDITIONED</Key>
         <Key>GRIT</Key>
+        <Key>WELLTRAV</Key>
+        <Key>COM</Key>
+        <Key>INTIM</Key>
       </Talents>
       <Directions>
-        <Direction>
-          <Down>true</Down>
-        </Direction>
         <Direction />
         <Direction>
           <Down>true</Down>
         </Direction>
-        <Direction />
+        <Direction>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+        </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
       <Cost>10</Cost>
       <Talents>
-        <Key>ARM</Key>
-        <Key>SIDESTEP</Key>
-        <Key>JUMP</Key>
-        <Key>JETEXP</Key>
+        <Key>TOUGH</Key>
+        <Key>SPKBIN</Key>
+        <Key>CRUELCOM</Key>
+        <Key>SCATH</Key>
       </Talents>
       <Directions>
         <Direction>
-          <Right>true</Right>
-          <Up>true</Up>
-        </Direction>
-        <Direction>
-          <Left>true</Left>
-          <Right>true</Right>
           <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>true</Left>
+          <Up>true</Up>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Up>true</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
@@ -65,20 +65,24 @@ Please see page 28 of the Collapse of the Republic Sourcebook for details.</Desc
     <TalentRow>
       <Cost>15</Cost>
       <Talents>
-        <Key>INTIM</Key>
-        <Key>POINTBL</Key>
-        <Key>SIDESTEP</Key>
-        <Key>POINTBL</Key>
+        <Key>FLDCOMMIMP</Key>
+        <Key>FLDCOMM</Key>
+        <Key>SPKBIN</Key>
+        <Key>SCATHIMP</Key>
       </Talents>
       <Directions>
         <Direction>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
+          <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>true</Left>
+          <Right>true</Right>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Left>true</Left>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
@@ -91,20 +95,18 @@ Please see page 28 of the Collapse of the Republic Sourcebook for details.</Desc
     <TalentRow>
       <Cost>20</Cost>
       <Talents>
-        <Key>ARMIMP</Key>
-        <Key>CONDITIONED</Key>
-        <Key>HITRUN</Key>
-        <Key>DTHFRABOVE</Key>
+        <Key>DROIDCOMM</Key>
+        <Key>SPKBINSUP</Key>
+        <Key>SPKBINIMP</Key>
+        <Key>SCATHSUP</Key>
       </Talents>
       <Directions>
         <Direction>
-          <Right>true</Right>
           <Up>true</Up>
+          <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>true</Left>
           <Right>true</Right>
-          <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
@@ -113,31 +115,39 @@ Please see page 28 of the Collapse of the Republic Sourcebook for details.</Desc
         </Direction>
         <Direction>
           <Up>true</Up>
+          <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
       <Cost>25</Cost>
       <Talents>
+        <Key>LEADFRONT</Key>
         <Key>DEDI</Key>
-        <Key>TOTHEDTH</Key>
-        <Key>SIDESTIMP</Key>
-        <Key>MOMTUM</Key>
+        <Key>INTIM</Key>
+        <Key>LEADBACK</Key>
       </Talents>
       <Directions>
         <Direction>
+          <Right>true</Right>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Left>true</Left>
+          <Right>true</Right>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Left>true</Left>
           <Right>true</Right>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Up>true</Up>
         </Direction>
-        <Direction />
-        <Direction />
       </Directions>
     </TalentRow>
   </TalentRows>
-  <Universal>true</Universal>
   <AddlCareerSkills>
     <Type />
   </AddlCareerSkills>

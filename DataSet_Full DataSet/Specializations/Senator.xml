@@ -3,7 +3,7 @@
   <Key>SENTOR</Key>
   <Name>Senator</Name>
   <Description>[H4]Senator[h4]
-</Description>
+Please see page 30 of the Collapse of the Republic Sourcebook for details.</Description>
   <Source Page="30">Collapse of the Republic</Source>
   <Custom>AddedItem</Custom>
   <CareerSkills>
@@ -96,7 +96,7 @@
     <TalentRow>
       <Cost>20</Cost>
       <Talents>
-        <Key>RESQUEST</Key>
+        <Key>RESISTQUEST</Key>
         <Key>INSPRHETIMP</Key>
         <Key>CONGENIAL</Key>
         <Key>NOBFOOLIMP</Key>

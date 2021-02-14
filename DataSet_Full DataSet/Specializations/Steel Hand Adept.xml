@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Specialization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Key>STEELHANDADEPT</Key>
+  <Key>STEELHAND</Key>
   <Name>Steel Hand Adept</Name>
   <Description>[H4]Steel Hand Adept - Unarmed and Dangerous[h4]
 
@@ -13,7 +13,7 @@ The Jedi were known for, and even symbolized by, their distinctive use of lights
 [P]The capabilities of Steel Hand Adepts can be astounding for onlookers and terrifying for foes. Not only can adepts exhibit the same range of abilities other Force users draw upon to augment their lightsaber strikes, but they can fight just as effectively without a weapon of any kind. A practiced Adept can even be a match for an accomplished lightsaber duelist. Against more ordinary combatants. they spin and leap with frightening grace, laying foes low with rapid strikes.
 [P]A Steel Hand Adept can easily disarm all but the most skilled opponents through a variety of techniques. Some adepts can even shatter weapons with their bare hands. An unarmed opponent of an Adept, far from being on equal rooting, is almost certainly at an insurmountable disadvantage. Enemies with the seeming advantage of range are not safe, either. Blaster-wielding foes are often surprised when a Force user affects objects and even sentients at a distance, but no Force ability is as shocking as Adepts' ability to lash out with punishing strikes, laying into foes at range with the full strength and impact of their fists and feet.</Description>
   <Source Page="28">Knights of Fate</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>BRAWL</Key>
     <Key>COORD</Key>

@@ -152,7 +152,7 @@
     <Name>Black Market Contacts</Name>
     <Description>When purchasing illegal goods, may reduce rarity by 1 per rank of Black Market Contacts, increasing cost by 50 percent of base cost per reduction.</Description>
     <Source Page="132">Edge of the Empire Core Rulebook</Source>
-    <Custom>CustomItem</Custom>
+    <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <Activation>Incidental</Activation>
@@ -6350,59 +6350,6 @@
     <Activation>OOT Incidental</Activation>
   </Talent>
   <Talent>
-    <Key>CUNNINGSTUNT</Key>
-    <Name>Cunning Stunt</Name>
-    <Description>Use Cunning instead of Presence for Cool checks.</Description>
-    <Source>User Data</Source>
-    <Custom>AddedItem</Custom>
-    <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <SkillChars>
-      <SkillChar>
-        <SkillKey>COOL</SkillKey>
-        <CharKey>CUN</CharKey>
-      </SkillChar>
-    </SkillChars>
-    <Activation>Passive</Activation>
-  </Talent>
-  <Talent>
-    <Key>FINESSE</Key>
-    <Name>Finesse</Name>
-    <Description>Use Agility instead of Brawn for Brawl or Melee checks.
-</Description>
-    <Source>User Data</Source>
-    <Custom>AddedItem</Custom>
-    <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <SkillChars>
-      <SkillChar>
-        <SkillKey>MELEE</SkillKey>
-        <CharKey>AG</CharKey>
-      </SkillChar>
-      <SkillChar>
-        <SkillKey>BRAWL</SkillKey>
-        <CharKey>BR</CharKey>
-      </SkillChar>
-    </SkillChars>
-    <Activation>Passive</Activation>
-  </Talent>
-  <Talent>
     <Key>SPKBINSUP</Key>
     <Name>Supreme Speaks Binary</Name>
     <Description>Once per encounter, may perform the Speaks Binary maneuver. A number of NPC droids up to ranks in Speaks Binary may use the character's ranks for 1 skill of character's choice.
@@ -7161,22 +7108,6 @@
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
-    <Key>TENACIOUS</Key>
-    <Name>Tenacious</Name>
-    <Description>Upgrade the number of advantages needed to score a critical hit
-against the target a number of times equal to his ranks in Tenacious. Also, reduce a Critical Injury result he suffers by 10 per rank of Tenacious</Description>
-    <Source>User Data</Source>
-    <Custom>AddedItem</Custom>
-    <Ranked>true</Ranked>
-    <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
-  </Talent>
-  <Talent>
     <Key>ONCELEARN</Key>
     <Name>Once A Learner</Name>
     <Description>As an action, suffer 4 strain and let one ally within short range increase the ally's Force rating by an amount equal to the character's Force rating until the end of the round.</Description>
@@ -7363,9 +7294,9 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
   <Talent>
     <Key>SORESUTECH</Key>
     <Name>Soresu Technique</Name>
-    <Description>    When making a Lightsaber skill check, the character may use Intellect instead of Brawn.</Description>
+    <Description>When making a Lightsaber skill check, the character may use Intellect instead of Brawn.</Description>
     <Source>Force and Destiny Core Rulebook</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <SkillChoice>
       <TypeValue>stGeneral</TypeValue>
@@ -7537,7 +7468,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Brawl attacks gain Pierce equal to Force rating.
 </Description>
     <Source Page="30">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -7552,7 +7483,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Name>Dodge (Improved)</Name>
     <Description>After using Dodge, can make a Move maneuver as an out-of-turn incidental.</Description>
     <Source Page="30">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -7566,7 +7497,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Name>Far Strike</Name>
     <Description>As an action, make a Brawl check as a ranged attack, adding [FO] up to Force rating, increase the range of the attack by one band for each [FP] spent, to a maximum of long.</Description>
     <Source Page="30">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taAction</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -7581,7 +7512,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Name>Headbutt</Name>
     <Description>Perform Headbutt incidental, suffering 2 wounds to knock down and disorient enemy.</Description>
     <Source Page="30">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -7595,7 +7526,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Name>Indomitable Will</Name>
     <Description>Once per encounter as a maneuver, suffer 3 strain to commit [FO] up to Force rating and reduce all damage suffered by an equal amount, but suffer 1 strain per turn.</Description>
     <Source Page="30">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taManeuver</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -7610,7 +7541,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Name>Inner Peace</Name>
     <Description>Once per encounter, convert a number of dark side Destiny Points equal to ranks in Inner Peace to light side Destiny Points and reduce Conflict gained this session.</Description>
     <Source Page="31">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
@@ -7626,7 +7557,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Enter description for Talent "Juyo Savagery" here.
 </Description>
     <Source Page="31">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -7642,7 +7573,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Name>Power from Pain</Name>
     <Description>Once per session as an incidental, may spend 1 Destiny Point to gain +1 Force rating for each Critical Injury character is suffering until the end of the encounter.</Description>
     <Source Page="31">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -7659,7 +7590,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>May add [FO] up to Force rating to Brawl checks; the attack gains the Sunder quality, and character may spend [FP] generated one the check as [AD] to activate the Sunder quality.
 </Description>
     <Source Page="31">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -7674,7 +7605,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Name>Toughened (Improved)</Name>
     <Description>Once per session, may heal wounds equal to ranks in Toughened,</Description>
     <Source Page="31">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -7684,11 +7615,11 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Activation>Incidental</Activation>
   </Talent>
   <Talent>
-    <Key>VAAPADCON</Key>
+    <Key>VAAPADCONT</Key>
     <Name>Vaapad Control</Name>
     <Description>When making a Lightsaber combat check, the character may suffer 1 strain to downgrade the difficulty of this check a number of times equal to the number of light side Destiny Points in the Destiny pool.</Description>
     <Source Page="31">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -7703,7 +7634,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Name>Embrace Your Hate</Name>
     <Description>May spend 1 Destiny Point and suffer Conflict equal to dark side Destiny Points in pool to add equal damage to melee attack. May use this ability once per encounter per rank.</Description>
     <Source Page="30">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
@@ -7716,11 +7647,11 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Activation>Incidental</Activation>
   </Talent>
   <Talent>
-    <Key>ALCHARTS</Key>
+    <Key>ALCARTS</Key>
     <Name>Alchemical Arts</Name>
     <Description>After making a check to craft a potion or talisman, may suffer strain up to twice ranks in Alchemical Arts. For every two strain, add [LI] or [DA] to results.</Description>
     <Source Page="32">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
@@ -7736,7 +7667,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Name>Blooded (Improved)</Name>
     <Description>As an action, make a [B]Hard ([DI][DI][DI]) Resilience check[b] to immediately recover from all poisons and side-effects of drugs. Reduce difficulty once per rank of Blooded.</Description>
     <Source Page="32">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taAction</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -7902,7 +7833,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Once per session may take the Altered Deal action and make [B]Hard ([DI][DI][DI]) Coercion check[b] to radically change a previously made deal or bargain to the character's advantage.
 </Description>
     <Source Page="111">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -7916,7 +7847,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Name>Combat Veteran</Name>
     <Description>The character adds [BO] to his Brawl and Discipline checks equal to his ranks in Combat Veteran.</Description>
     <Source Page="111">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
@@ -7941,7 +7872,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Name>Comrades in Arms</Name>
     <Description>Once per encounter, take Comrades in Arms action and make a [B]Hard ([DI][DI][DI]) Discipline check[b]. If successful, the character plus one ally per [SU] within medium range gains +1 defense for the remainder of the encounter.</Description>
     <Source Page="111">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -7956,7 +7887,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Spend [AD][AD][AD] or [TR] from Comrades in Arms check to also gain +1 soak or give one affected ally +1 soak.
 </Description>
     <Source Page="111">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -7970,7 +7901,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Name>Disciple of Lore</Name>
     <Description>Once per round, may suffer 1 strain to decrease the difficulty of nest Knowledge (Lore) check a number of times equal to ranks in Disciple of Lore.</Description>
     <Source Page="112">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
@@ -7986,7 +7917,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Spend one Destiny Point after making a Discipline check to spend a number of [TH] not exceeding ranks in Knowledge (Lore) as [AD].
 </Description>
     <Source Page="112">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8001,7 +7932,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>After failing a Lightsaber combat check, may spend [AD][AD] or [TR] to disorient opponents for three rounds.
 </Description>
     <Source Page="112">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8016,7 +7947,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>The character may spend [AD][AD] or [TR] from a successful Charm or Deception check to disorient a number of opponents within short range equal to his Presence for remainder of round and next two rounds.
 </Description>
     <Source Page="112">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8031,7 +7962,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>While armed with a two-handed melee weapon, may suffer one strain to make a Melee combat check with that weapon targeting an enemy at up to short range (rather than engaged range).
 </Description>
     <Source Page="112">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8045,7 +7976,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Name>Fearsome Rep</Name>
     <Description>Add automatic [AD] to the results of Coercion checks equal to ranks in Fearsome Rep.</Description>
     <Source Page="112">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
@@ -8062,26 +7993,14 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
-    <Key>FORMTAC</Key>
-    <Name>Formation Tactics</Name>
-    <Description>May take the Formation Tactics action by making a [B]Hard ([DI][DI][DI]) Leadership check[b]. If successful, he may choose a number of allies within short range equal to [SU] generated. Upgrade the difficulty of attacks against these allies once until the end of his next turn.
-</Description>
-    <Source Page="112">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
-    <ActivationValue>taAction</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Action</Activation>
-  </Talent>
-  <Talent>
     <Key>IMPFORMTAC</Key>
     <Name>Formation Tactics (Improved)</Name>
     <Description>The difficulty of Formation Tactics is reduced to [B]Average ([DI][DI])[b]. May spend [TR] or [AD][AD][AD][AD][AD][AD] to have effect last until the end of encounter.</Description>
-    <Source Page="113">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="112">Dawn of Rebellion</Source>
+      <Source Page="22">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taManeuver</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8095,7 +8014,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Name>Inspiring Leadership</Name>
     <Description>Take the Inspiring Leadership action by making an [B]Average ([DI][DI]) Leadership check[b]. If successful, a number of allies not exceeding his rating in Presence within short range add automatic [SU] to their next skill check.</Description>
     <Source Page="113">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8110,7 +8029,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Spend [TR] from any skill check to allow a number of alies not exceeding the character's rating in Presence within short range to add automatic [AD] to their next check.
 </Description>
     <Source Page="113">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8125,7 +8044,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>After making one or more successful combat checks against a target, add [BO] to combat checks against that same target for the remainder of the encounter.
 </Description>
     <Source Page="114">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8140,7 +8059,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Choose one starship or vehicle character owns with a silhouette or 4 or higher; it becomes his 'Pride and Joy' vessel. He upgrades the ability of all social skill checks he makes while within short range of the vessel once.
 </Description>
     <Source Page="115">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8155,7 +8074,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>While inside his Pride and Joy vessel, recover 1 additional strain whenever recovering strain and spend [AD] on checks made to recover strain to allow an ally also within the vessel to recover one strain.
 </Description>
     <Source Page="115">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8170,7 +8089,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>When inside his Pride and Joy vessel, once per session as an incidental, the character may reduce its silhouette by 2 (to a minimum of 0) for the remainder of the round and the following round.
 </Description>
     <Source Page="115">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8184,7 +8103,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Name>Push Aside</Name>
     <Description>After making a successful Melee, Brawl, or Lightsaber combat check against an engaged foe, may force the foe to move to short range in a direction of the opponent's choosing. Spend [TR] to cause the opponent to fall prone after moving.</Description>
     <Source Page="115">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8199,7 +8118,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Whenever the character fails a Knowledge check, he may spend [AD][AD][AD] to roll the check again during his next turn.
 </Description>
     <Source Page="115">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8213,7 +8132,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Name>Steady Aim</Name>
     <Description>The character does not lose the benefits of the Aim maneuver if he performs other maneuvers (including moving) or actions. He does lose the benefits of the Aim maneuver if the encounter ends.</Description>
     <Source Page="116">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8227,7 +8146,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Name>Targeted Firepower</Name>
     <Description>Once per session may take Targeted Firepower action; identify one enemy target and make a [B]Hard ([DI][DI][DI]) Knowledge (Warfare) check[b]. If successful, for the rest of the encounter allies within short range of character add [AD] to attacks against target equal to [SU] gained in the check.</Description>
     <Source Page="116">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8241,7 +8160,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Name>Temple Training</Name>
     <Description>Before making a Lightsaber skill check, the character may spend one Destiny Point to add damage to the attack equal to his ranks in Knowledge (Lore).</Description>
     <Source Page="116">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8257,7 +8176,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>When targeted by a social check, may choose to suffer one strain to add automatic [FA] to the check. If the check fails with [DE], the character may immediately perform a maneuver as an out-of-turn incidental.
 </Description>
     <Source Page="116">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8272,7 +8191,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Once per encounter before making a combat check, the character may suffer two strain to add [AD] to the results equal to his ranks in By the Book.
 </Description>
     <Source Page="111">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
@@ -8287,7 +8206,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Name>Secrets of the Jedi (Improved)</Name>
     <Description>Discipline becomes a career skill. Secrets of the Jedi may also be used when installing mods on lightsabers.</Description>
     <Source Page="115">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <NewSkills>
@@ -8303,7 +8222,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Lightsaber becomes a career skill. He may also decrease to difficulty of checks made to construct or repair lightsaber hilts a number of times equal to half his ranks in Knowledge (Lore) (rounded up), to a minimum of [B]Easy ([DI])[b].
 </Description>
     <Source Page="115">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <NewSkills>
@@ -8320,7 +8239,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Name>Knows the Ropes</Name>
     <Description>Add [BO] to checks made to escape from restraints equal to ranks in Knowledge (Underworld). Spend [TR] to free all other allies withing short range.</Description>
     <Source Page="113">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8334,7 +8253,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Name>Know the Enemy</Name>
     <Description>The character may use Knowledge (Warfare) skill when making checks to determine Initiative.</Description>
     <Source Page="113">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8349,7 +8268,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>May make an [B]Easy ([DI]) Knowledge (Lore) check[b] to heal strain at the end of an encounter. [TR] can be spent to heal all strain.
 </Description>
     <Source Page="111">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8363,7 +8282,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Name>Trust the Captain</Name>
     <Description>May take the Trust the Captain action by making a [B]Hard ([DI][DI][DI]) Leadership check[b]. If successful, for the rest of the encounter allies within short range increase their ranks in Discipline by an amount equal to ranks in Trust the Captain.</Description>
     <Source Page="116">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8390,7 +8309,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Name>Prepare to be Boarded!</Name>
     <Description>Once per encounter may take Prepare to be Boarded! action and make [B]opposed Coercion vs. Discipline check[b] against enemy ship captain. If successful, the enemy suffers 1 strain per uncancelled [SU] and surrenders ship if he exceeds strain threshold. May also spend [TR] or [AD][AD][AD][AD] to inflict strain equal to ranks in Coercion.</Description>
     <Source Page="115">Dawn of Rebellion</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8593,21 +8512,19 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Activation>Action</Activation>
   </Talent>
   <Talent>
-    <Key>RESQUEST</Key>
+    <Key>RESISTQUEST</Key>
     <Name>Resist Questioning</Name>
     <Description>When targeted by an opposed social skill check, the character may suffer 2 strain to perform the Resist Questioning out-of-turn incidental, adding [SE] to the check. If the check fails, may spend [DE] to indicate he has provided false information to foe.</Description>
-    <Source Page="31">Cyphers and Masks</Source>
-    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="31">Cyphers and Masks</Source>
+      <Source Page="33">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>OOT Incidental</Activation>
   </Talent>
   <Talent>
-    <Key>RESQUESTIMP</Key>
+    <Key>RESISTQUESTIMP</Key>
     <Name>Resist Questioning (Improved)</Name>
     <Description>When one ally within short range is targeted by an opposed social skill check, the character may perform Resist Questioning to affect this check instead. If the check fails, may spend [DE] to indicate the ally provided false information to foe.</Description>
     <Source Page="31">Cyphers and Masks</Source>
@@ -8766,7 +8683,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Take the Blather action, making a [B]Hard ([DI][DI][DI]) Charm or Deception check[b]. If successful, one adverary per [SU] is Disoriented for rounds eqqual to the character's Presence. The character may spend [TR] from the check to Stagger one affected target
 </Description>
     <Source Page="31">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8781,7 +8698,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Perform the Bound Together maneuver. Until the character's next turn, when the character or an ally within short range suffers strain involuntarily, they reduce the amount by the current number of lightside Destiny Points
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taManeuver</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8827,7 +8744,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>When the character performs the Center of Being maneuver, the effects apply to ranged attacks as well
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8873,7 +8790,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>May take the Coven maneuver. On the character's next Force power check, they may reroll one [FO] for each ally with Coven within short range
 </Description>
     <Source Page="31">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taManeuver</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8888,7 +8805,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>May use ranks in Coercion to upgrdae Mass Combat checks instead of ranks in Leadership
 </Description>
     <Source Page="35">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8903,7 +8820,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Once per encounter, inflict 1 system strain on jetpack and make a [B]Hard ([DI][DI][DI]) Pilotingcheck[b]. For each [SU], one adversary in short range is knocked prone. May spend [TR] to stagger one affected target
 </Description>
     <Source Page="27">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8918,7 +8835,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>As an out-of-turn incidental, the character spends one Destiny Point and adversaries cannot choose them as a target of a combat check until the end of their next turn
 </Description>
     <Source Page="31">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8933,7 +8850,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Once per encounter may perform Field Commander as a maneuber instead of an action. All affected allies must be droids
 </Description>
     <Source Page="35">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -8948,7 +8865,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Once per session the character may upgrade a Mass Combat check even if the characer is not present or is prevented from communicating with their troops
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9006,7 +8923,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Add [FO] to mass combat checks up to Force rating and spend [FP] to add [SU] or [AD] to the result
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9021,7 +8938,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>While engaged with an opponent, the characer may suffer a number of strain up to their Leadership to allow an equal number of allies engaged with theat oppnent to immediately disengage as an out of turn incidental
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9083,7 +9000,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>The character may perform a maneuver to recover strain equal to their Force rating
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taManeuver</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9114,7 +9031,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Once per session, the character and any number of allies in the encounter may add [SU] equal to the character's rank in Stealth to their checks to determine initiative
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9145,7 +9062,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>After the character completes an attack targeting an opponent they are engaged with, they may immediately move to short range using a jetpack
 </Description>
     <Source Page="27">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9175,7 +9092,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>The character chooses one Melee or Brawl weapon they possess, which gains the Cortosis and Pierce 2 qualities and reduces its critical rating by 1 to a minimum of 1. If the weapon is lost or destroyed, the character can apply Ichor Blade to a new weapon
 </Description>
     <Source Page="31">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9190,7 +9107,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>The chosen weapon also gains the Sunder quality and Defensive 1 quality and increases its damage by 2
 </Description>
     <Source Page="31">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9205,7 +9122,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Once per session as a maneuver, the charcter may suffer 2 strain to increase Force rating by 1 until the end of the encounter
 </Description>
     <Source Page="31">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taManeuver</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9221,7 +9138,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Once per encounter, the character may perform the Ichor Transfusion maneuver to heal any number of strain by suffering that number of wounds +1. The character may instead heal any number of wounds by suffering that number of strain +1
 </Description>
     <Source Page="31">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taManeuver</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9236,7 +9153,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>When the character makes a Leadership check trageting on eor more clones, they may change the resilt of one [CH] to any non-blank face
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9251,7 +9168,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>The character may spend 1 Destiny Point to take the Inspiring Kill maneuver after incapacitating or inflicting a Critical Injury.  Roll [FO] no greater than force Rating and spend [FP] to heal 2 strain from each ally within medium range
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taManeuver</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9267,7 +9184,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>The character may spend [AD] from their checks to remove 1 system mstrain from their jetpack. They may choose the effect multiple times when spending [AD]
 </Description>
     <Source Page="27">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9282,7 +9199,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Once per session when making a check, the character may increase their Force rating by their ranks in Knowledge(Warfare)
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9298,7 +9215,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Once per session, make a [B]Hard ([DI][DI][DI]) Vigilance check[b] to upgrade the difficulty of a certain droid model's check against the character, plus one ally per [SU] after the first, once for the rest of the encounter
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9313,7 +9230,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Allies affected by Known Programming also upgrade the ability of their checks targeting the chose droid model once
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9343,7 +9260,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Once per round, may spend 1 Destiny Point to redirect a successful attack against the character to an allied NPC
 </Description>
     <Source Page="35">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9358,7 +9275,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>After succeeding on a Leadership check or other check to inspire, lead, or rally an audience, the character may spend 1 Destiny Point to upgrdae the ability of the next combat check made by all allies within short range
 </Description>
     <Source Page="35">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
@@ -9405,7 +9322,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>The character can spend 2 Destiny Points during a single action
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9436,7 +9353,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>The character deals additional damage to their first hit equal to the number of range bands they moved during the current round
 </Description>
     <Source Page="27">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
@@ -9452,7 +9369,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Once per session may reroll any 1 Leadership or Lightsaber check
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9467,7 +9384,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Once per session, the character may reroll one Ranged (Light) or Stealth check
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9512,7 +9429,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>May spend [TR] or [TH][TH] from an incoming Charm, Coercion, or Deception check to inflict strain on the opponent equal to the character's ranks in Nobody's Fool
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9586,7 +9503,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>The character may spend a Destiny Point to use the basic version of a Force power they have not purchased or apply the effects of a control upgrdae to a power they have purchased
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9602,7 +9519,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Once per session, make an [B]opposed knowledge(Warfare) check[b] against a leader of enemy forces to gain a narrative advantage
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9617,7 +9534,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Immediately after an opponent moves to engage an ally within short range, the character may spend one Destiny Point to engage that opponent as an out of turn incidental
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9632,7 +9549,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>May add the Autofire item quality to a Ranged (Light) combat check. After resolving the attack, the weapon runs out of ammo
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9696,27 +9613,12 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
-    <Key>RESQUES</Key>
-    <Name>Resist Questioning</Name>
-    <Description>When targeted by an oppsed social skill check, the character may suffer strain to add [SE] to the check. If the check fails, the character may spend [DE] to indicate they have provided false information
-</Description>
-    <Source Page="31">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
-    <ActivationValue>taIncidentalOOT</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>OOT Incidental</Activation>
-  </Talent>
-  <Talent>
     <Key>RESALLO</Key>
     <Name>Resource Allocation</Name>
     <Description>At the beginning of a Mass Combat, make a [B]Hard ([DI][DI][DI]) Charm or Negotiation check[b] to increase their force's strength by one step for the duration of the encounter. May spend [TR] from the check to upgrade the ability of their force's first Mass Combat check
 </Description>
     <Source Page="31">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9747,7 +9649,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>The character adds [BO] to Charm and Negotiation checks per rank of Savvy
 </Description>
     <Source Page="31">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
@@ -9839,10 +9741,10 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
   <Talent>
     <Key>SIDESTIMP</Key>
     <Name>Side Step (Improved)</Name>
-    <Description>Whenever the character performs a Side Step maneuver, until the start of their next turn they may spend [TH][TH][TH] or [DE] from an attacker's check to inflict one hit with a ranged weapon they are wielding
+    <Description>Whenever the character performs a Side Step maneuver, until the start of their next turn they may spend [TH][TH][TH] or [DE] from an attacker's check to inflict one hit with a ranged weapon they are wielding.
 </Description>
     <Source Page="27">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9888,7 +9790,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>As an action, make a [B]Hard ([DI][DI][DI]) Leadership check[b]. Choose one ally per [SU] who increase their wound threshold by the character's Presence until the end of the encounter
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9903,7 +9805,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Stand Firm action also increase affected allies strain threshold by an amount equal to the character's Presence rating
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9918,7 +9820,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>As a maneuver, the character can summon or dismiss a ritually prepared item
 </Description>
     <Source Page="31">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taManeuver</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9933,7 +9835,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Once per session when the character suffers a Critical injury spend 1 Destiny Point. Then the atacker must roll two results for the Critical Injury and the player chooese which will apply to their character
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9978,7 +9880,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Upgrade the difficulty of ranged combat checks targeting the character a number of times equal to the number of maneuvers they performed to move during this round
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -9993,7 +9895,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Once per session, the character may substitute a Knowledge(Warfare) skill check for another skill check
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -10007,7 +9909,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Name>There Is No Try</Name>
     <Description>Once per session before an ally rolls the dice for a check, the character may spend 1 Destiny Point to allow the ally to automatically succeed at the check with one [SU] ad no other results</Description>
     <Source Page="21">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -10023,7 +9925,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>Once per session, suffer strain up to Willpower and add a +10 per strain suffered to critical rolls the character inflicts or suffers until the end of the encounter
 </Description>
     <Source Page="27">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taManeuver</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
@@ -10083,7 +9985,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Description>The character gains Force Rating 1
 </Description>
     <Source Page="27">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <Attributes>
       <ForceRating>1</ForceRating>
@@ -10176,7 +10078,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
       <Source Page="34">Forged in Battle</Source>
       <Source Page="38">Collapse of the Republic</Source>
     </Sources>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <DieModifiers>
@@ -10194,8 +10096,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
   <Talent>
     <Key>ATCOST</Key>
     <Name>At Any Cost</Name>
-    <Description>May suffer a Critical Injury to reroll a Mass Combat check. At GM's discretion, may sacrifice an item or individual of personal significance instead
-</Description>
+    <Description>May suffer a Critical Injury to reroll a Mass Combat check. At GM's discretion, may sacrifice an item or individual of personal significance instead</Description>
     <Source Page="37">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
@@ -10207,17 +10108,21 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Activation>Incidental</Activation>
   </Talent>
   <Talent>
-    <Key>JETPACKEXP</Key>
-    <Name>Jetpack Expertise</Name>
-    <Description>The character may spend [AD] from their checks to remove 1 system strain from their jetpack. This effect may be chosen multiple times when spending [AD].</Description>
-    <Source Page="29">Collapse of the Republic</Source>
+    <Key>FORMTAC</Key>
+    <Name>Formation Tactics</Name>
+    <Description>May take the Formation Tactics action by making a [B]Hard ([DI][DI][DI]) Leadership check[b]. If successful, he may choose a number of allies within short range equal to [SU] generated. Upgrade the difficulty of attacks against these allies once until the end of his next turn.
+</Description>
+    <Sources>
+      <Source Page="112">Dawn of Rebellion</Source>
+      <Source Page="22">Collapse of the Republic</Source>
+    </Sources>
     <Custom>AddedItem</Custom>
-    <ActivationValue>taIncidental</ActivationValue>
+    <ActivationValue>taAction</ActivationValue>
     <ChooseCareerSkills>
       <ChooseByType>true</ChooseByType>
       <TypeValue>stGeneral</TypeValue>
       <Type>General</Type>
     </ChooseCareerSkills>
-    <Activation>Incidental</Activation>
+    <Activation>Action</Activation>
   </Talent>
 </Talents>
