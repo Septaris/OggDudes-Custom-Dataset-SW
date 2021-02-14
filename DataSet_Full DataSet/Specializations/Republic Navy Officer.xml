@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <Specialization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Key>REPNAVOFF</Key>
+  <Key>REPNAVYOFF</Key>
   <Name>Republic Navy Officer</Name>
   <Description>[H4]Republic Navy Officer[h4]
 </Description>
   <Source Page="26">Rise of the Separatists</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>ASTRO</Key>
     <Key>DISC</Key>

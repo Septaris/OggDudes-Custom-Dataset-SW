@@ -8602,7 +8602,7 @@
     <Activation>Incidental</Activation>
   </Talent>
   <Talent>
-    <Key>BACKRDE</Key>
+    <Key>BACKROOM</Key>
     <Name>Backroom Deal</Name>
     <Description>Once per encounter, make a [B]Hard ([DI][DI][DI]) Negotiation check[b] to reveal how previously unknown dealings have a meaningful impact on the current scene
 </Description>
@@ -8755,7 +8755,7 @@
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
-    <Key>CONSOPTS</Key>
+    <Key>CONCOPT</Key>
     <Name>Consider Our Optioins</Name>
     <Description>Take the Consider Our Options action, make a [B]Hard ([DI][DI][DI]) Negotiation check[b]. Until the character's next turn, a chatacter who attacks them first suffers 2 strain, plus 1 strain per [SU][SU] on the character's check
 </Description>
@@ -8770,7 +8770,7 @@
     <Activation>Action</Activation>
   </Talent>
   <Talent>
-    <Key>CONSOPTSIMP</Key>
+    <Key>CONCOPTIMP</Key>
     <Name>Consider Our Options (Improved)</Name>
     <Description>Allies within short range may also benefit from Consider Our Options
 </Description>
@@ -9301,7 +9301,7 @@
     <Activation>Action</Activation>
   </Talent>
   <Talent>
-    <Key>LEVRG</Key>
+    <Key>LEVER</Key>
     <Name>Leverage</Name>
     <Description>The character removes [SE] per rank of Leverage from their Cool and Negotiation checks
 </Description>
@@ -9935,7 +9935,7 @@
     <Activation>Maneuver</Activation>
   </Talent>
   <Talent>
-    <Key>TRANSERROR</Key>
+    <Key>TRANSERR</Key>
     <Name>Translation Error</Name>
     <Description>Once per encounter the character may remove [TH] from the resultes of a social skill check they make
 </Description>

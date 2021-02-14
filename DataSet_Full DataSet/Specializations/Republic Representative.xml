@@ -3,7 +3,7 @@
   <Key>REPREP</Key>
   <Name>Republic Representative</Name>
   <Description>[H4]Republic Representative[h4]
-</Description>
+Please see page 33 of the Rise of the Separatists Sourcebook for details.</Description>
   <Source Page="33">Rise of the Separatists</Source>
   <Custom>AddedItem</Custom>
   <CareerSkills>
@@ -16,7 +16,7 @@
       <Cost>5</Cost>
       <Talents>
         <Key>GRIT</Key>
-        <Key>LEVRG</Key>
+        <Key>LEVER</Key>
         <Key>KILL</Key>
         <Key>RESPDEL</Key>
       </Talents>
@@ -64,19 +64,16 @@
     <TalentRow>
       <Cost>15</Cost>
       <Talents>
-        <Key>TRANSERROR</Key>
-        <Key>LEVRG</Key>
+        <Key>TRANSERR</Key>
+        <Key>LEVER</Key>
         <Key>SMOOTHTALK</Key>
         <Key>NOBFOOL</Key>
       </Talents>
       <Directions>
         <Direction>
-          <Right>true</Right>
           <Up>true</Up>
-          <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>true</Left>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
@@ -92,16 +89,13 @@
     <TalentRow>
       <Cost>20</Cost>
       <Talents>
-        <Key>CONSOPTS</Key>
+        <Key>CONCOPT</Key>
         <Key>STNERV</Key>
         <Key>INTENSPRE</Key>
-        <Key>LEVRG</Key>
+        <Key>LEVER</Key>
       </Talents>
       <Directions>
-        <Direction>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
+        <Direction />
         <Direction>
           <Right>true</Right>
           <Up>true</Up>
@@ -115,22 +109,19 @@
         <Direction>
           <Left>true</Left>
           <Up>true</Up>
-          <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
       <Cost>25</Cost>
       <Talents>
-        <Key>CONSOPTSIMP</Key>
+        <Key>CONCOPTIMP</Key>
         <Key>NATNEG</Key>
         <Key>DEDI</Key>
-        <Key>BACKRDE</Key>
+        <Key>BACKROOM</Key>
       </Talents>
       <Directions>
-        <Direction>
-          <Up>true</Up>
-        </Direction>
+        <Direction />
         <Direction>
           <Right>true</Right>
           <Up>true</Up>
@@ -141,7 +132,6 @@
         </Direction>
         <Direction>
           <Left>true</Left>
-          <Up>true</Up>
         </Direction>
       </Directions>
     </TalentRow>
