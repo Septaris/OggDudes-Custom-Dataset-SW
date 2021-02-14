@@ -2582,7 +2582,7 @@ Skakoans require methane to live, and wear special pressure suits to emulate the
     <Soak>2</Soak>
   </Armor>
   <Armor>
-    <Key>ANCIENTARMOR</Key>
+    <Key>ANCBATARM</Key>
     <Name>Ancient Battle Armor</Name>
     <Description>[H3]Ancient Battle Armor[h3]
 The precursors of the ancient Jedi faced much more primitive weapons than lightsabers and blasters, and so found heavy combat armor to be more worthwhile than did later generations. Although most such suits were destroyed in battle or by the passage of the millennia, on rare occasions, archaeologists or construction droids uncover ancient suits of metal armor in buried or forgotten ruins. With generous cleaning and repair work, this kind of ancient armor can prove serviceable, if heavy and burdensome. Some claim that such armor is effective against even modern blasters when worn by an individual strong in the Force, although weapon developers and metallurgists dismiss such stories.
@@ -2606,7 +2606,7 @@ The precursors of the ancient Jedi faced much more primitive weapons than lights
     <Soak>2</Soak>
   </Armor>
   <Armor>
-    <Key>KATARNARMOR</Key>
+    <Key>MK1KATARN</Key>
     <Name>Mk I Katarn-class Commando Armor</Name>
     <Description>[H3]Mk I Katarn-class Commando Armor[h3]
 Katarn-class armor was originally designed for use by clone commandos during the Clone Wars. Named for a dangerous predatory beast native to Kashyyyk, this is one of the most advanced suits of heavy combat armor ever produced.
@@ -2721,9 +2721,9 @@ Ayelixe/Krongbing's Climbsuit is a popular set of lightweight armor designed spe
     <Soak>1</Soak>
   </Armor>
   <Armor>
-    <Key>MKINIGHTSTALKER SUIT</Key>
+    <Key>MKINIGHTSTALK</Key>
     <Name>Mk I NightStalker Suit</Name>
-    <Description>[H3]Bantin Corp Mk I NightStalker Infiltrator Suit[h3]
+    <Description>[H3]Bantin Corp Mk I Nightstalker Suit[h3]
 The Mk I NightStalker is a lightweight, surprisingly durable suit of armor that Bantin Corp recently produced. Marketed toward law enforcement and intelligence agencies, the NightStalker combines light-absorbing materials, armorweave, gel-insert plates, and sound dampening fabric to produce a suit that provides both respectable protection and decent passive stealth capabilities. The NightStalker is a full-body suit that covers everything but the wearer's eyes. It is typically worn with scanner goggles or other wearable vision-enhancement systems.
 [P]When wearing a NightStalker suit, the wearer adds automatic [SU] to Stealth checks he makes and adds automatic [TH] to social skill checks he makes.</Description>
     <Source Page="41">Cyphers and Masks</Source>
@@ -2771,7 +2771,7 @@ The Mk I NightStalker is a lightweight, surprisingly durable suit of armor that 
     <Soak>2</Soak>
   </Armor>
   <Armor>
-    <Key>MKIXMIMETIC</Key>
+    <Key>MKIXMIM</Key>
     <Name>Mk IX Personal Mimetic Concealment Suit</Name>
     <Description>[H3]Cyricept Mk IX Mimetic Concealment Suit[h3]
 Cyricept's Mk IX Personal Mimetic Concealment Suits use active stealth technologies combined with advanced textiles to provide one of the best personal stealth suits available. When active, a mimetic suit uses an optical camouflage (OC) system that bends light around the wearer and reflects back images of the surrounding area. This OC system is combined with electromagnetic and heat shielding, sound bafflers, and other systems to render a wearer essentially invisible to both the naked eye and most common security sensors. To run these systems, mimetic suits require a small, high-output energy cell built into a belt or wristband. Mimetic suits consume energy at an extremely high rate, and a power pack is good for about an hour of constant use. Like all mimetic suits, the Mk IX is illegal to own and to sell to civilians. While they are primarily used by governmental intelligence and law enforcement agencies, many suits have found their way into the hands of dangerous criminals throughout the galaxy. 
