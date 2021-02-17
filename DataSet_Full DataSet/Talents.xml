@@ -1792,7 +1792,7 @@
   <Talent>
     <Key>RESOLVE</Key>
     <Name>Resolve</Name>
-    <Description>When a character involuntarily suffers strain, he suffers 1 less strain per tank of Resolve to a minimum of 1.</Description>
+    <Description>When a character involuntarily suffers strain, he suffers 1 less strain per rank of Resolve to a minimum of 1.</Description>
     <Sources>
       <Source Page="142">Edge of the Empire Core Rulebook</Source>
       <Source Page="155">Age of Rebellion Core Rulebook</Source>
@@ -8371,7 +8371,7 @@
     <Activation>Action</Activation>
   </Talent>
   <Talent>
-    <Key>CUNNINGPERSONA</Key>
+    <Key>CUNNPERSON</Key>
     <Name>Cunning Persona</Name>
     <Description>The character may suffer 2 strain to perform a Charm check with Cunning instead of Presence.</Description>
     <Source Page="30">Cyphers and Masks</Source>
@@ -8399,7 +8399,7 @@
     <Activation>Incidental</Activation>
   </Talent>
   <Talent>
-    <Key>INCDIST</Key>
+    <Key>INCITEDIST</Key>
     <Name>Incite Distraction</Name>
     <Description>While in a crowd, may perform the Incite Distraction action to make an [B]Average ([DI][DI]) Deception check[b]. If successful, enemies treat the area as difficult terrain. The character may spend [TR] to make the location impassable terrain to them instead.</Description>
     <Source Page="30">Cyphers and Masks</Source>
@@ -8441,7 +8441,7 @@
     <Activation>Action</Activation>
   </Talent>
   <Talent>
-    <Key>INPER</Key>
+    <Key>INSIDEPERSON</Key>
     <Name>Inside Person</Name>
     <Description>Once per session the character may spend a Destiny Point to establish he has been undercover in an identified enemy base or large vehicle. For the remainder of the session, add automatic [AD][AD] to checks he or his allies make that are associated with that location.</Description>
     <Source Page="31">Cyphers and Masks</Source>
@@ -8455,7 +8455,7 @@
     <Activation>Incidental</Activation>
   </Talent>
   <Talent>
-    <Key>KNOWEAK</Key>
+    <Key>KNOWWEAK</Key>
     <Name>Know Their Weakness</Name>
     <Description>Once per session, may perform the Know Their Weakness action and choose one target within close range; make a [B]Hard ([DI][DI][DI]) Perception check[b] to downgrade the difficulty of social skill checks against target once per rank of Know Their Weakness until the end of the session.</Description>
     <Source Page="31">Cyphers and Masks</Source>
