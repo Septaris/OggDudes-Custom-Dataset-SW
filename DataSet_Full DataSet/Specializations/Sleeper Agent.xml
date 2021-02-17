@@ -9,7 +9,7 @@ Spies must be able to tell convincing lies. Often, a lie only needs to hold up f
 [P]All Sleeper Agents must be proficient in some profession that is not inherently related to uncovering military intelligence for the Rebellion. They might not need to be experts, but they must be able to convincingly assume an unremarkable civilian or military career. This act must be sustained for an extended period of time while the operatives wait to have their missions activated. Some missions focus entirely upon placing agents in critical places so that they can be activated to avert a currently unknown crisis. In these cases, the agents might pursue their cover career for years. Other missions have established timeframes or discrete objectives that the operative must pursue without raising suspicion. 
 [P]Critically, Sleeper Agents must remain unflinchingly loyal to their cause. At the same time, they must be able to maintain the illusion that they are loyal to the enemy. In the case of extended assignments, they must build friendships and working relationships with their foes—relationships that they know they will eventually betray. Few individuals are capable of maintaining this level of duplicity without developing some level of emotional attachment. Such attachment incurs terrible risk, as it could lead to hesitation at a critical juncture.</Description>
   <Source Page="28">Cyphers and Masks</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>CHARM</Key>
     <Key>COOL</Key>
@@ -22,7 +22,7 @@ Spies must be able to tell convincing lies. Often, a lie only needs to hold up f
       <Talents>
         <Key>COD</Key>
         <Key>GRIT</Key>
-        <Key>CUNNINGPERSONA</Key>
+        <Key>CUNNPERSON</Key>
         <Key>WELLROUND</Key>
       </Talents>
       <Directions>
@@ -131,7 +131,7 @@ Spies must be able to tell convincing lies. Often, a lie only needs to hold up f
       <Cost>25</Cost>
       <Talents>
         <Key>DEDI</Key>
-        <Key>INPER</Key>
+        <Key>INSIDEPERSON</Key>
         <Key>NATCHARM</Key>
         <Key>INKNOW</Key>
       </Talents>

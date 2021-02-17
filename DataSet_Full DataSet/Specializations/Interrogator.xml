@@ -9,7 +9,7 @@ A portion of the most critical military intelligence is never officially documen
 [P]A physically imposing questioner may rely upon violence, and this technique can sometimes be effective. However it is invariably cruel. Further, Imperial officers are trained to resist these techniques, reducing their efficacy. Additionally, some subjects recognize that the consequences for giving in to this type of torture can be as severe as those for resisting it. For these reasons, the most effective of interrogations eschew physical techniques for social ones.
 [P]Many Interrogators instead use a combination of Charm and Deception to effectively draw information from their subjects. They may intimidate through threats—often to the subject's friends, family, or special interests—rather than direct violence. Demonstrations of power over those other parties can provide additional leverage, though such demonstrations may be fabricated as necessary.</Description>
   <Source Page="26">Cyphers and Masks</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>CHARM</Key>
     <Key>COERC</Key>
@@ -69,10 +69,10 @@ A portion of the most critical military intelligence is never officially documen
     <TalentRow>
       <Cost>15</Cost>
       <Talents>
-        <Key>RESQUEST</Key>
+        <Key>RESISTQUEST</Key>
         <Key>BADCOP</Key>
         <Key>NOBFOOL</Key>
-        <Key>KNOWEAK</Key>
+        <Key>KNOWWEAK</Key>
       </Talents>
       <Directions>
         <Direction>
@@ -96,9 +96,9 @@ A portion of the most critical military intelligence is never officially documen
     <TalentRow>
       <Cost>20</Cost>
       <Talents>
-        <Key>RESQUESTIMP</Key>
+        <Key>RESISTQUEST</Key>
         <Key>INTIM</Key>
-        <Key>KNOWEAK</Key>
+        <Key>KNOWWEAK</Key>
         <Key>KNOWWEAKIMP</Key>
       </Talents>
       <Directions>
