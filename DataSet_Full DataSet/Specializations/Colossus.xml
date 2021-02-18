@@ -11,7 +11,7 @@ Most Warriors pride themselves on their ability to overcome pain. A Colossus, ho
 [P]Although all who fit the mold of a Colossus share certain traits when it comes to defense and longevity, they can take very different approaches to dishing out damage. There is no particular fighting style that defines a Colossus's approach to attacking. Some might heft a heavy blaster. wading heedlessly through enemy fire to unleash a salvo. Others prefer hefty vibro-axes, swords, or other melee weapons, getting up close to enemies and trading blows, confident in their ability to take punishment and give it back in turn. Regardless of their preferred approach, Colossi are sure to have the strength to overcome an opponent with well-placed strikes should the opportunity arise.
 [P]Whether by focusing on suffering or by aspiring to higher ideals, a Colossus achieves a preternatural level of physical hardiness and toughness by drawing on the Force. A hardened Force user possesses reserves of willpower to fight on despite agonizing wounds. More importantly, Colossi can allow the Force to flow through them, usng it to achieve impossible feats of endurance. They may be blasted and slashed, but their wounds do not bleed. They walk on broken legs and continue the fight, though it might worsen their injuries. They harness their pain, returning it twice over.</Description>
   <Source Page="24">Knights of Fate</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>BRAWL</Key>
     <Key>DISC</Key>

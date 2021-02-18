@@ -10,7 +10,7 @@ Many people think of the body as a machine. After all, it can fulfill complex fu
 [P]Other groups and individuals hold no such qualms about removing flesh, bones and organs to replace them with what Cyber Techs see as undoubtably superior components. Ganks, for instance, are a species known for their heavy use of cybernetic augmentation: completely unmodified Gank are very rare. Droids, of course have a special relationship with artificial limbs, and most droids desire periodic part replacements for maintenance.
 [P]A Cyber Tech can take on extra cybernetics and can improve augmentations far beyond their normal capacities. Further, a Cyber Tech can assist comrades with medical care and by replacing body parts with cybernetics, though most beings only accept this help after losing a body part - no matter how fervently the Cyber Tech speaks to the virtues of replacing squishy unreliable flesh and organs with cold, sturdy steel.</Description>
   <Source Page="28">Special Modifications</Source>
-  <Custom>CustomItem</Custom>
+  <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>ATHL</Key>
     <Key>CYBERNETICS</Key>

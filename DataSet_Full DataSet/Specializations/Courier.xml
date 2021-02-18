@@ -9,7 +9,7 @@ There is more to military intelligence than stealing the enemy's secrets. That d
 [P]Other Couriers deliver critical data to Rebel specialists in a variety of locations instead of adopting a mundane occupation that involves travel on regular routes. Some are enthusiastic adrenaline junkies who call on wild speed and quick thinking to overcome Imperial security. More risk-averse Couriers simply excel at developing good cover stories and staying true to their roles during a mission. Adrenaline junkies or not, these Couriers are unlikely to have any established relationship with the local Imperial guards. Consequently, they must quickly determine how to bypass security or rely on other intelligence sources to prepare for it.
 </Description>
   <Source Page="24">Cyphers and Masks</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>ATHL</Key>
     <Key>DECEP</Key>
@@ -128,7 +128,7 @@ There is more to military intelligence than stealing the enemy's secrets. That d
     <TalentRow>
       <Cost>25</Cost>
       <Talents>
-        <Key>INCDIST</Key>
+        <Key>INCITEDIST</Key>
         <Key>DEDI</Key>
         <Key>LOSETHEM</Key>
         <Key>NATATHL</Key>

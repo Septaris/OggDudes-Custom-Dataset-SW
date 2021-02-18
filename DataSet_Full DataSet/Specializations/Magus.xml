@@ -10,7 +10,7 @@ To hear of a Magus, even during the time of the Galactic Republic, would be a ra
 [P]If the Force flows through everything and is a part of everything, then by manipulating the Force, the Magus can manipulate reality. The Force can be used to make matter, affect matter. affect life. and perhaps...even create life. With this power, the Magus can do amazing and impossible things. No, not impossible, for nothing is impossible if one believes in the Force.
 [P]This confidence, however, is the biggest trap for Magi. They can do impossible things, yes, but it is the Force that allows them to do so, not their knowledge or talent. Despite what they may think, Magi still have mortal trappings. They have histories, memories, early thoughts, and emotions that can never be truly removed. Hubris may be the greatest enemy for Magi. This hubris can trick Magi into thinking that pushing here or pulling there might be for the good of all, or for the good of the Force, but in reality, they are manipulating the Force for their own selfish needs. Many a Force-using tyrant became a Magus before falling to the dark side.</Description>
   <Source Page="28">Unlimited Power</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>COERC</Key>
     <Key>DISC</Key>

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Specialization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Key>JUYOBERSERKER</Key>
+  <Key>JUYO</Key>
   <Name>Juyo Berserker</Name>
   <Description>[H4]Juyo Berserker - Controlled Rage[h4]
 
@@ -53,7 +53,7 @@ While a Juyo practitioner may appear calm , the form requires intense emotions t
 [P]A Juyo Berserker focuses on offense nearly to the exclusion of all else. This approach leaves the Berserker vulnerable should an opponent find the opportunity to counterattack, and so a Juyo practitioner must match the foe's skill in pure ferocity. Juyo fighters particularly risk being overwhelmed by greater numbers; a Berserker must be able to lay about with the blistering relentlessness of many Warriors-or of the deadly predator from which the form draws its name.
 [P]Jedi who practiced Juyo were careful to balance inner darkness with the tranquility offered by the light side of the Force. It was in this way that Mace Windu developed the Vaapad variant, a form that allowed him to channel his inner darkness toward positive outcomes, to harness his anger without allowing it to control him, For Warriors bereft of the doctrines of the Jedi this balance is difficult. Without it, a tragic outcome could be all but inevitable.</Description>
   <Source Page="26">Knights of Fate</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>COERC</Key>
     <Key>DISC</Key>

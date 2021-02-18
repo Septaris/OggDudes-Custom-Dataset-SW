@@ -12,7 +12,7 @@ The Jedi Order's proselytizing ebbed and flowed, much as the Force did throughou
 [P]Prophets who use their abilities for evil or selfish ends have an easier time now during the Galactic Civil War. Those suffering from the Empire's rule want a voice of hope to give them a reason to live on, and as long as the message doesn't violate Imperial restrictions on religion or political sedition, Prophets can enjoy a safe (and profitable) career. Even on planets free from the Empire, other sources of oppression (slavery, Hutt influence, corporate interests, and the like) may drive people to a religious charlatan, especially one who can produce miracles.
 [P]Even well-meaning Prophets should be wary, since it is much too easy for them to insert their own desires, needs, or fears into their visions, distorting them into their own ends, manipulating their followers into believing their own egos.</Description>
   <Source Page="30">Unlimited Power</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>CHARM</Key>
     <Key>COERC</Key>
