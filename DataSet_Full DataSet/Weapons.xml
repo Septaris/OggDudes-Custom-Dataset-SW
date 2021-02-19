@@ -18240,4 +18240,76 @@ Made for the GAR by MerrSonn, the MB is based on MerrSonn's popular Treppus 2 vi
     </Qualities>
     <Range>Engaged</Range>
   </Weapon>
+  <Weapon>
+    <Key>E11CARBINE</Key>
+    <Name>E-11D Blaster Carbine</Name>
+    <Description>[H3]E-11D Blaster Carbine[h3]
+The E-11D is the standard-issue longarm of the death troopers. Designed for the kinds of close-quarters and urban combat situations that death troopers excel at, the E-11D is a lightweight, sturdily built blaster carbine that trades range and accuracy for sheer stopping power and short-range performance. The E-11D has a large-bore reinforced barrel, and comes equipped with integrated features to improve power output, balance and handling.
+
+Upgrade the ability of combat checks made when using this weapon at short rance once.</Description>
+    <Source Page="117">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Energy Weapon</Type>
+    <Categories>
+      <Category>Blaster</Category>
+      <Category>Ranged</Category>
+      <Category>Blaster Carbine</Category>
+      <Category>Heavy Blaster Carbine</Category>
+    </Categories>
+    <Encumbrance>3</Encumbrance>
+    <HP>2</HP>
+    <Price>1400</Price>
+    <Rarity>9</Rarity>
+    <Restricted>true</Restricted>
+    <SkillKey>RANGHVY</SkillKey>
+    <Damage>9</Damage>
+    <Crit>3</Crit>
+    <SizeHigh>10</SizeHigh>
+    <RangeValue>wrMedium</RangeValue>
+    <Qualities>
+      <Quality>
+        <Key>STUNSETTING</Key>
+      </Quality>
+    </Qualities>
+    <Range>Medium</Range>
+  </Weapon>
+  <Weapon>
+    <Key>E22RIFLE</Key>
+    <Name>E-22 Blaster Rifle</Name>
+    <Description>[H3]E-22 Blaster Rifle[h3]
+Please see page 117 of the Dawn of Rebellion Sourcebook for details.</Description>
+    <Source Page="117">Dawn of Rebellion</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Energy Weapon</Type>
+    <Categories>
+      <Category>Blaster</Category>
+      <Category>Blaster Rifle</Category>
+      <Category>Ranged</Category>
+      <Category>Heavy Blaster Rifle</Category>
+    </Categories>
+    <Encumbrance>4</Encumbrance>
+    <HP>2</HP>
+    <Price>1500</Price>
+    <Rarity>8</Rarity>
+    <Restricted>true</Restricted>
+    <SkillKey>RANGHVY</SkillKey>
+    <Damage>8</Damage>
+    <Crit>3</Crit>
+    <SizeHigh>10</SizeHigh>
+    <RangeValue>wrMedium</RangeValue>
+    <Qualities>
+      <Quality>
+        <Key>CUMBERSOME</Key>
+        <Count>2</Count>
+      </Quality>
+      <Quality>
+        <Key>LINKED</Key>
+        <Count>1</Count>
+      </Quality>
+      <Quality>
+        <Key>STUNSETTING</Key>
+      </Quality>
+    </Qualities>
+    <Range>Medium</Range>
+  </Weapon>
 </Weapons>
