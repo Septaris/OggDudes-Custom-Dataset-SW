@@ -8572,7 +8572,7 @@
     <Activation>Incidental</Activation>
   </Talent>
   <Talent>
-    <Key>ANOTREAS</Key>
+    <Key>ANTREAS</Key>
     <Name>Another's Treasure</Name>
     <Description>the condition of an item does not affect its sale price. In addition, the character can always find a buyer for an item, no matter its condition or apparent value
 </Description>
@@ -8875,7 +8875,7 @@
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
-    <Key>EXCSPEC</Key>
+    <Key>EXCEEDSPEC</Key>
     <Name>Exceed Specifications</Name>
     <Description>When making a check using an item, may add [BO]. The GM may spend [TH][TH] on the check to damage the item one step, or [DE] to damage it beyond usability
 </Description>
@@ -8890,7 +8890,7 @@
     <Activation>Incidental</Activation>
   </Talent>
   <Talent>
-    <Key>EXCSPECIMP</Key>
+    <Key>EXCEEDSPECIMP</Key>
     <Name>Exceed Specifications (Improved)</Name>
     <Description>When the character takes the Exceed Specifications incidental, upgrdae the ability of the check once instead of the standard effect</Description>
     <Source Page="41">Rise of the Separatists</Source>
@@ -8904,7 +8904,7 @@
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
-    <Key>EXCSPECSUP</Key>
+    <Key>EXCEEDSPECSUP</Key>
     <Name>Exceed Specifications (Supreme)</Name>
     <Description>If a check benefitting from Exceed Specifications generates [TR], may damage the item to roll additional [PR] and addit to the check results. If the check generates [DE], add [CH] to the check results</Description>
     <Source Page="41">Rise of the Separatists</Source>
@@ -9454,7 +9454,7 @@
     <Activation>Action</Activation>
   </Talent>
   <Talent>
-    <Key>ONEPERTRASH</Key>
+    <Key>ONETRASH</Key>
     <Name>One Person's Trash</Name>
     <Description>May make a Pereption check in order to locate a particular item at no cost in a location with potential salvage. The difficulty of the check is determined by the item's rarity
 </Description>
@@ -9950,7 +9950,7 @@
     <Activation>Incidental</Activation>
   </Talent>
   <Talent>
-    <Key>UTILBELTIMP</Key>
+    <Key>UTILIMP</Key>
     <Name>Utility Belt (Improved)</Name>
     <Description>Once per session when the character performs a Utility Belt Incidental, They may produce up to fice functionally identical items
 </Description>

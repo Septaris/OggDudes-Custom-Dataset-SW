@@ -3,7 +3,7 @@
   <Key>SCAVENGER</Key>
   <Name>Scavenger</Name>
   <Description>[H4]Scavenger[h4]
-</Description>
+Please see page 35 of the Rise of the Separatists Sourcebook for details.</Description>
   <Source Page="33">Rise of the Separatists</Source>
   <Custom>AddedItem</Custom>
   <CareerSkills>
@@ -66,7 +66,7 @@
       <Talents>
         <Key>RAPREA</Key>
         <Key>JURY</Key>
-        <Key>EXCSPEC</Key>
+        <Key>EXCEEDSPEC</Key>
         <Key>ONEPERTRASH</Key>
       </Talents>
       <Directions>
@@ -94,8 +94,8 @@
       <Cost>20</Cost>
       <Talents>
         <Key>SIXSENSE</Key>
-        <Key>EXCSPECSUP</Key>
-        <Key>EXCSPECIMP</Key>
+        <Key>EXCEEDSPECSUP</Key>
+        <Key>EXCEEDSPECIMP</Key>
         <Key>ANOTREAS</Key>
       </Talents>
       <Directions>
@@ -117,7 +117,7 @@
     <TalentRow>
       <Cost>25</Cost>
       <Talents>
-        <Key>UTILBELTIMP</Key>
+        <Key>UTILIMP</Key>
         <Key>UTIL</Key>
         <Key>DEDI</Key>
         <Key>CONT</Key>
