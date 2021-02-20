@@ -6,7 +6,7 @@
 Many Force users have the ability to sense the life force of the environment around them. Some Force users take this sense a bit further. By tapping into that living gestalt, the can manipulate the land around them. Intruders may find vines choking their path or mists rising up to block their sight. Meanwhile, allies find that trails and paths mysteriously open up before them, only to vanish once they have reached their destination.
 </Description>
   <Source Page="42">Unlimited Power</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>
       <Abilities>

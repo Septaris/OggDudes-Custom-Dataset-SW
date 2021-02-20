@@ -148,6 +148,7 @@ Please see page 35 of the Collapse of the Republic Sourcebook for details.</Desc
       </Directions>
     </TalentRow>
   </TalentRows>
+  <Universal>true</Universal>
   <AddlCareerSkills>
     <Type />
   </AddlCareerSkills>
