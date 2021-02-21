@@ -2400,7 +2400,7 @@
     <Abilities>
       <Ability>
         <Name>Volatile Power Core</Name>
-        <Description>When droid suffers Critical Injury, add +50 ro result.  If the result kills the droid, it explodes.  Each engaged character suffers 10 damage.</Description>
+        <Description>When droid suffers Critical Injury, add +50 to result.  If the result kills the droid, it explodes.  Each engaged character suffers 10 damage.</Description>
       </Ability>
     </Abilities>
   </CraftImprovement>
@@ -2753,7 +2753,7 @@
     <Source Page="81">Fully Operational</Source>
     <Name>Lessons Learned</Name>
     <Description>
-      Gain [BO] on the next check made with the same skill duing this session.
+      Gain [BO] on the next check made with the same skill during this session.
     </Description>
     <AffectsCost>false</AffectsCost>
     <CostAdvThr>1</CostAdvThr>
@@ -2912,7 +2912,7 @@
     <Source Page="81">Fully Operational</Source>
     <Name>Difficult to Integrate</Name>
     <Description>
-      When a charaacter attempts the [B]Assembly[b] step, upgrade the Mechanics check by one.
+      When a character attempts the [B]Assembly[b] step, upgrade the Mechanics check by one.
     </Description>
     <CostAdvThr>-2</CostAdvThr>
     <CostTriDes>-1</CostTriDes>
@@ -2925,7 +2925,7 @@
     <Source Page="81">Fully Operational</Source>
     <Name>Difficult to Repair</Name>
     <Description>
-      When a charaacter attempts the [B]Assembly[b] step, upgrade the Mechanics check by {0}.
+      When a character attempts the [B]Assembly[b] step, upgrade the Mechanics check by {0}.
     </Description>
     <CostAdvThr>-3</CostAdvThr>
     <CostTriDes>-1</CostTriDes>
@@ -3086,7 +3086,7 @@
     <Source Page="83">Fully Operational</Source>
     <Name>Treacherous to Repair</Name>
     <Description>
-      Upgrade the difficulting of repair checks for Critical Hits.
+      Upgrade the difficulty of repair checks for Critical Hits.
     </Description>
     <SelectCount>1</SelectCount>
     <CostAdvThr>-2</CostAdvThr>
@@ -3301,7 +3301,7 @@
     <Source Page="84">Fully Operational</Source>
     <Name>Difficult to Integrate</Name>
     <Description>
-      When a charaacter attempts the [B]Assembly[b] step, upgrade the Mechanics check by {0}.
+      When a character attempts the [B]Assembly[b] step, upgrade the Mechanics check by {0}.
     </Description>
     <CostAdvThr>-2</CostAdvThr>
     <CostTriDes>-1</CostTriDes>
@@ -3362,7 +3362,7 @@
     <TempType>ctVehicleAssembly</TempType>
     <Key>IMPVEHASIMPSAFE</Key>
     <Source Page="85">Fully Operational</Source>
-    <Name>Improved Saftey Features</Name>
+    <Name>Improved Safety Features</Name>
     <Description>
       Characters in vehicle suffer less wound and strain.
     </Description>
@@ -3371,7 +3371,7 @@
     <CostTriDes>1</CostTriDes>
     <Mods>
       <Mod>
-        <MiscDesc>[B]Improved Saftey Features[b] - Whenever a character in this vehicle would suffer wounds or strain from a Critical Hit the vehicle suffers, as a result of working on the vehicle, or other similar occurrences, the character suffers two fewer wound or strain, to a minimum of 1.</MiscDesc>
+        <MiscDesc>[B]Improved Safety Features[b] - Whenever a character in this vehicle would suffer wounds or strain from a Critical Hit the vehicle suffers, as a result of working on the vehicle, or other similar occurrences, the character suffers two fewer wound or strain, to a minimum of 1.</MiscDesc>
         <Count>0</Count>
       </Mod>
     </Mods>
@@ -3669,7 +3669,7 @@
     <TempType>ctAlchemyPotion</TempType>3
     <Key>IMPALCHPOTPOTENT</Key>
     <Source Page="82">Unlimited Power</Source>
-    <Name>Extra Potentcy</Name>
+    <Name>Extra Potency</Name>
     <Description>
       Increase difficulty to resist potion by {0}.
     </Description>
@@ -3678,7 +3678,7 @@
     <CostLightDark>3</CostLightDark>
     <Mods>
       <Mod>
-        <MiscDesc>[B]Extra Potentcy[b]: Increase difficulty to resist potion by {0}, to a maximum of [B]Formidable ([DI][DI][DI][DI][DI])[b].</MiscDesc>
+        <MiscDesc>[B]Extra Potency[b]: Increase difficulty to resist potion by {0}, to a maximum of [B]Formidable ([DI][DI][DI][DI][DI])[b].</MiscDesc>
       </Mod>
     </Mods>
   </CraftImprovement>
@@ -4177,7 +4177,7 @@
     <Source Page="85">Unlimited Power</Source>
     <Name>Hard to Control</Name>
     <Description>
-      User must make a [B]Hard ([DI][DI][DI]) Discipline check[b] as an out-of-turn incidentalin order for the talisman to activate
+      User must make a [B]Hard ([DI][DI][DI]) Discipline check[b] as an out-of-turn incidental in order for the talisman to activate
     </Description>
     <CostAdvThr>-3</CostAdvThr>
     <CostTriDes>-1</CostTriDes>
