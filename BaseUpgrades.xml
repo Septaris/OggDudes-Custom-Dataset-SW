@@ -1894,7 +1894,7 @@ This upgrade may be purchased three additional times, each time selecting a diff
     <Name>Spare Parts Bin</Name>
     <Description>
       [H4]Spare Parts Bin[h4]
-      Reduce the rarity of any materials the character wishes to acquire for a crafting project in the workshop by one (to a minimum of 0). If this reduces the rarity of a material to 0, the character does not need to acquire it and is considered to already have it on hand. This advanced benefit can be slected any number of times, and its effects are cumulative.
+      Reduce the rarity of any materials the character wishes to acquire for a crafting project in the workshop by one (to a minimum of 0). If this reduces the rarity of a material to 0, the character does not need to acquire it and is considered to already have it on hand. This advanced benefit can be selected any number of times, and its effects are cumulative.
 
     </Description>
     <Source Page="95">Special Modifications</Source>
@@ -1914,7 +1914,7 @@ This upgrade may be purchased three additional times, each time selecting a diff
     <Name>Low-Grav Workspace</Name>
     <Description>
       [H4]Low-Grav Workspace[h4]
-      With access toa  low or zero gravity work area as part of a workshop, a Technician can smelt metals and create pharmaceuticals with unique processes difficult to reproduce under the effects of gravity. The character adds automatic [AD] Mechanics and Medicine checks in the workshop. This advanced benefit can only be selected once.
+      With access to a low or zero gravity work area as part of a workshop, a Technician can smelt metals and create pharmaceuticals with unique processes difficult to reproduce under the effects of gravity. The character adds automatic [AD] Mechanics and Medicine checks in the workshop. This advanced benefit can only be selected once.
     </Description>
     <Source Page="95">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -1973,7 +1973,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
     <Key>CIVREFITHANG</Key>
     <Name>Civilian Refit:  Hidden Hanger</Name>
     <Description>[H4]Civilian Refit:  Hidden Hanger[h4]
-The facility Incudes a large, reinforced room along with a wide passageway so that small vehicles can be stored inside and kept out of sight from Imperial eyes.[BR]
+The facility includes a large, reinforced room along with a wide passageway so that small vehicles can be stored inside and kept out of sight from Imperial eyes.[BR]
 This upgrade allows four vehicles of silhouette 2 or smaller to be secured inside the base.[BR]
 This upgrade may be purchased one additional time. </Description>
     <Source Page="75">Fully Operational</Source>
@@ -1992,7 +1992,7 @@ This upgrade may be purchased one additional time. </Description>
     <Key>CIVREFITINFIRM</Key>
     <Name>Civilian Refit:  Infirmary</Name>
     <Description>[H4]Civilian Refit:  Infirmary[h4]
-The facility includes a basic infirmary stocked to handle basic medical crises. The infirmary has cots and treatmenl space tor three patients, medical supplies (allowing characters to perform Medicine checks without penalty), and one bacta tank with supplies of bacta. [BR]
+The facility includes a basic infirmary stocked to handle basic medical crises. The infirmary has cots and treatment space tor three patients, medical supplies (allowing characters to perform Medicine checks without penalty), and one bacta tank with supplies of bacta. [BR]
 This upgrade may be taken up to two additional times, increasing the number of patients it can accommodate by three and the number of bacta tanks by one each time.     </Description>
     <Source Page="75">Fully Operational</Source>
     <Custom>DescOnly</Custom>
@@ -2032,7 +2032,7 @@ The once-civilian facility's security improves somewhat, better protecting the R
 • The exterior doors of the building gain better locks that can only be opened with a special electronic key, an [B]Average ([DI][DI]) Computers check[b], or a [B]Hard ([DI][DI][DI]) Skulduggery check[b].[BR] • The structure of the facility is reinforced, giving it an armor value of I (weapons unable to inflict more than 1 planetary scale damage cannot damage the facility). 
 [BR]• The building's walls are fitted with scanner baffles and sound deadening insulation, which increase the difficulty of checks to detect life signs, movement, sounds, and other signs of activity within once. 
 [BR]• The facility gains security cameras that can be monitored on terminals throughout the facility. 
-[BR]• The facility has a disguised entrance set along a rubble-strewn wall or seemingly solid window panelling, detectable only though a [B]Hard ([DI][DI][DI]) Perception check[b]. [P]This upgrade may be purchased four additional times, each time with a different option selected.    </Description>
+[BR]• The facility has a disguised entrance set along a rubble-strewn wall or seemingly solid window paneling, detectable only though a [B]Hard ([DI][DI][DI]) Perception check[b]. [P]This upgrade may be purchased four additional times, each time with a different option selected.    </Description>
     <Source Page="75">Fully Operational</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>5</PurchaseCount>
@@ -2074,7 +2074,7 @@ The once-civilian facility's security improves somewhat, better protecting the R
         <Key>CIVREFITSEC4</Key>
         <Name>Security Cameras</Name>
         <Description>
-          Facilty gains security cameras that can be monitored throughout the facility.
+          Facility gains security cameras that can be monitored throughout the facility.
         </Description>
         <PurchaseCount>1</PurchaseCount>
       </Option>

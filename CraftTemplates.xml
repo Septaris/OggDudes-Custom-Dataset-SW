@@ -3401,7 +3401,7 @@
     <Name>Elimination Directives</Name>
     <Description>
       [H3]Elimination Directives[h3]
-      Droids with these directives are typically used for assasination.
+      Droids with these directives are typically used for assassination.
     </Description>
     <Source Page="82">Special Modifications</Source>
     <TempType>ctDroidDirect</TempType>
@@ -3656,7 +3656,7 @@
           <MiscDesc>Target must make an [B]Average ([DI][DI]) Discipline check[b].  If failed, Willpower is counted as 0 for remainder of encounter or 1 hour, increased once per [TH] rolled.</MiscDesc>
         </Mod>
         <Mod>
-          <MiscDesc>Cannot be applied to a weapon.  Potion must be injested</MiscDesc>
+          <MiscDesc>Cannot be applied to a weapon.  Potion must be ingested</MiscDesc>
         </Mod>
       </BaseMods>
     </GearProfile>
@@ -3893,7 +3893,7 @@
       <Rarity>-1</Rarity>
       <BaseMods>
         <Mod>
-          <MiscDesc>User may ignore environmental affects such as fire, acid, and corrosive atmosphere.  They act as if in a standard gravitiy field, may breathe underwater and in a vacuum, and may ignore the Burn quality when hit by an attack.</MiscDesc>
+          <MiscDesc>User may ignore environmental affects such as fire, acid, and corrosive atmosphere.  They act as if in a standard gravity field, may breathe underwater and in a vacuum, and may ignore the Burn quality when hit by an attack.</MiscDesc>
         </Mod>
       </BaseMods>
     </GearProfile>
