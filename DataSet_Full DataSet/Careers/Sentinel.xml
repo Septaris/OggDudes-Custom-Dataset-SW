@@ -21,7 +21,7 @@ The Sentinel's six career skills are [B]Computers, Deception, Knowledge (Core Wo
 
 [P]Characters with a strong moral imperative may see these crusading skills as a means of Investigating powerful individuals. If they find powerful villains who are above the law, then employing less ethical approaches might be the only means to bring these rogues to justice. Under these circumstances, a Sentinel could readily justify deception and even minor crimes if they were undertaken to assure that a tyrant's excesses could be curbed.</Description>
   <Source Page="90">Force and Destiny Core Rulebook</Source>
-  <Custom>CustomItem</Custom>
+  <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>COMP</Key>
     <Key>CORE</Key>

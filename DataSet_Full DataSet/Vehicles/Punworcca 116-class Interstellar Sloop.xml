@@ -7,7 +7,7 @@ The [I]Punworcca 116[i]-class Interstellar Sloop is a solar sailer-a beautiful a
 [P]The [I]Punworcca 116[i] was built by the Huppla Pasa Tisc Shipwrights Collective on Geonosis, and was primarily designed as a personal yacht for the wealthy and important. It is not a practical vessel-it barely has room for 2 passengers in addition to the pilot (most owners tended to use a droid to pilot the ship), and not much cargo space. In addition, the huge sail can be an impractical method of travel, especially in dangerous regions of space.
 [P]Characters may encounter similar solar sailers when traveling in the far reaches of the Outer Rim and beyond, where older vessels are still occasionally used.</Description>
   <Source Page="62">Unlimited Power</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <Type>Yacht</Type>
   <Categories>
     <Category>Starship</Category>

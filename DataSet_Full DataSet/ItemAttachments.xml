@@ -10013,13 +10013,13 @@ Combat plating offers perhaps the best protection a hull can provide, but reduce
     </BaseMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>THISSSTABCOIL</Key>
+    <Key>THISSCOIL</Key>
     <Name>Thisspiasian Stabilizing Coils</Name>
     <Description>[H3]Thisspiasian Stabilizing Coils[h3]
 Thisspiasian weaponcraft focused, for centuries, on grace above all else. The antique manners of the Blood Court may embarrass the average citizen, but one can't argue with their results. Traditional weapons from Thisspias correct for even the clumsiest of maneuvers.
 [P]Survivors of the Jedi Purge return to this philosophy to strengthen their weaponry, Thisspiasian stabilizing coils are often stylized as a long tail that wraps itself around the hilt of a lightsaber. Rotating and curling with each movement, this device keeps the blade perfectly balanced.</Description>
     <Source Page="54">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
       <Category>Lightsaber</Category>
@@ -10036,12 +10036,12 @@ Thisspiasian weaponcraft focused, for centuries, on grace above all else. The an
     </BaseMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>THOLHEARTWOODHILT</Key>
+    <Key>THOLOHILT</Key>
     <Name>Tholothian Heartwood Hilt</Name>
     <Description>[H3]Tholothian Heartwood Hilt[h3]
 While most lightsabers have synthetic hilts, Tholothian Jedi preferred a more organic approach. At their height, they crafted heartwood hilts from the timber of still-living trees The wood was then preserved in a specialized ritual-one more often used when a heartwood tree was dying. The resulting hilt is resistant to decay and can house a lightsaber's apparatus. The resulting lightsabers are beautiful works of art as much as they are weapons. The resins used to preserve the timber increase its weight, and wielders must take appropriate care in using them. This often translates to a stronger and more deliberate strike when this weapon does connect.</Description>
     <Source Page="54">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
       <Category>Lightsaber</Category>
@@ -10066,12 +10066,12 @@ While most lightsabers have synthetic hilts, Tholothian Jedi preferred a more or
     </BaseMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>WALKINGSTICKHILT</Key>
+    <Key>WALKHILT</Key>
     <Name>Walking Stick Hilt Disguise</Name>
     <Description>[H3]Walking Stick Hilt Disguise[h3]
 Often, particularly elderly Jedi constructed their lightsabers in the body of a sturdy walking stick. If the blade is a Jedi's life, why shouldn't it make things a little easier? The pure utility of this practice fell out of favor with the Jedi Order. Most elderly Jedi did not, after all, survive the Purge. Survivors, though, found a similar technique could hide their weapons in plain sight. This concealment does come with a cost. The awkward size and inconsistent weighting often interferes with use in heated combat.</Description>
     <Source Page="55">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
       <Category>Lightsaber</Category>
@@ -10098,12 +10098,12 @@ Often, particularly elderly Jedi constructed their lightsabers in the body of a 
     </AddedMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>TAINTNIGHTSISCRYS</Key>
+    <Key>TAINTNIGHT</Key>
     <Name>Tainted Nightsister Crystal</Name>
     <Description>[H3]Tainted Nightsister Crystal[h3]
 The Nightsisters rose and fell as a faction untouched by the conflicts between Jedi and Sith. As such, they had little time to adopt the iconic lightsabers as their weapons of choice. This has not stopped dark side Mystics from trying to fuse Nightsister magic with Sith weaponry. Most experiments yield no fruit, but some have made for particularly terrifying advancements. Tainted Nightsister crystals were once pure Kyber crystals. Soaking them in Dathomiri Waters of Life perverts their connection to the Force. The resulting blade emits a choking, putrid green smoke when active.</Description>
     <Source Page="55">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
       <Category>Lightsaber</Category>
@@ -10154,13 +10154,13 @@ The Nightsisters rose and fell as a faction untouched by the conflicts between J
     <IsCrystal>true</IsCrystal>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>UNSTABLEKYBERCRYS</Key>
+    <Key>UNSTKYBER</Key>
     <Name>Unstable Kyber Crystal</Name>
     <Description>[H3]Unstable Kyber Crystal[h3]
 The Kyber crystal is the heart of a lightsaber, but as with the hearts of organic beings, there can be imperfections. There are many opportunities between mining and use for a crystal to become unstable. It could develop hairline fractures in initial transit. Its wielder might subject it to extreme stress in use. Either way, power can begin to leak out of the crystal itself.
 [P]Under normal circumstances, these imperfections will not affect a lightsaber's performance. With the right knowledge, however, a Force user can harness the leaking energy for their own ends. By performing a lengthy ritual with the lightsaber, a Mystic can draw some of its power into themselves for a time.</Description>
     <Source Page="55">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
       <Category>Lightsaber</Category>
@@ -10195,13 +10195,13 @@ The Kyber crystal is the heart of a lightsaber, but as with the hearts of organi
     <IsCrystal>true</IsCrystal>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>CRACKEDJEDHA</Key>
+    <Key>JEDHACR</Key>
     <Name>Cracked Jedha Crystal</Name>
     <Description>[H3]Cracked Jedha Crystal[h3]
 When a terrible mining accident destroyed Jedha City, the galaxy lost one of the last known sources of kyber crystals. The crystals produced on Jedha held great spiritual significance for the Jedi, the Church of the Force, and a number of other religious traditions. Jedha crystals were among the most popular kyber crystals for the Jedi. As a practical matter, Jedha crystals produce focused, potent lightsaber blades, but many Jedi valued the knowledge that their lightsaber housed an artifact from Jedha. For those who seek to follow in the Jedi's path, kyber crystals have become vanishingly rare in recent years. However, a small number of Jedha crystals have  been recovered from the ruins of Jedha City. Unfortunately, many of these crystals are cracked and damaged, producing unstable, ragged lightsaber beams.
 [P][B]Models Include:[b] None.</Description>
     <Source Page="48">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
       <Category>Lightsaber</Category>
@@ -10266,7 +10266,7 @@ When a terrible mining accident destroyed Jedha City, the galaxy lost one of the
 Considered dishonorable and unsporting by most Jedi, so-called flickerphase modifications were never widely adopted. With a few simple modifications, a lightsaber can be made to intermittently and randomly ignite and extinguish its blade, making it appear to fIicker on and off. While this unpredictable element adds some difficulty for the wielder, it is almost impossible for an opponent to time blocks and parries effectively.
 [P][B]Models Include:[b] None.</Description>
     <Source Page="48">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
       <Category>Lightsaber</Category>
@@ -10302,13 +10302,13 @@ Considered dishonorable and unsporting by most Jedi, so-called flickerphase modi
     </AddedMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>REINFMAGSHIELD</Key>
+    <Key>REMAGSH</Key>
     <Name>Reinforced Magnetic Shielding</Name>
     <Description>[H3]Reinforced Magnetic Shielding[h3]
 A delicately tuned magnetic field maintains the coherency of a lightsaber's plasma beam. Though this modification increases the strength of a lightsaber's magnetic shielding, the blade takes on some of the qualities of a solid weapon. With this modification, the wielder gives up some of the lightsaber's legendary penetrative capacity in order to deliver punishing electromagnetic impacts.
 [P][B]Models Include:[b] None.</Description>
     <Source Page="48">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
       <Category>Lightsaber</Category>
@@ -10429,13 +10429,13 @@ Compared to sublight engines, hyperdrive modules require less thrust ducting and
     <MustBeStarship>true</MustBeStarship>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>COMPONENTIZE</Key>
+    <Key>COMPONENT</Key>
     <Name>Componentization</Name>
     <Description>[H3]Componentization[h3]
 This mod allows a weapon to be broken down into a number of innocuous-looking pieces so that it can be smuggled into and out of places where weapons are not allowed or are highly regulated. When broken down, a componentized weapon looks like a collection of basic tools, comlinks, glow rods, datapad styluses, and other items any individual might be expected to carry. Each part also functions as that item as well. It takes two maneuvers to assemble or disassemble a weapon with this mod. Loss of or damage to a component ruins the weapon, and another will have to be acquired and modified. This attachment can be applied to any weapon with an encumbrance of 2 or less. 
 [P][B]Models Include:[b] Various models.</Description>
     <Source Page="56">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <Price>1250</Price>
     <Rarity>5</Rarity>
@@ -10449,7 +10449,7 @@ This mod allows a weapon to be broken down into a number of innocuous-looking pi
     <MaxEnc>2</MaxEnc>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>LIGHTWEIGHTFRAME</Key>
+    <Key>LIGHTFR</Key>
     <Name>Lightweight Frame</Name>
     <Description>[H3]Lightweight Frame[h3]
 This mod reduces both the weight and bulk of ranged weapons to make them easier to handle and conceal. Along with a frame made of a lighter alloy, this mod also includes lightweight polycarbonate stocks, foregrips, and other pieces designed to lighten up a blaster pistol or slugthrower rifle. This attachment can be applied to any weapon.
@@ -10477,13 +10477,13 @@ This mod reduces both the weight and bulk of ranged weapons to make them easier 
     </AddedMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>SCANNERPROOF</Key>
+    <Key>SCANPROOF</Key>
     <Name>Scanner-Proof Hardware</Name>
     <Description>[H3]Scanner-Proof Hardware[h3]
 Scanner-proof hardware is a collection of upgrades that together make a weapon virtually invisible to scanners. This mod typically replaces a weapon's stock, foregrip, and any other furniture with lightweight poly-carbonates woven with scanner-spoofing fibers. In addition, most if not all metallic parts—frame, trigger group, barrel, etc.—are replaced with fiber-reinforced polycarb pieces. This mod is extremely illegal. Being caught with a weapon that can pass through scanners without being detected is usually a one-way ticket to the nearest Imperial stockade. This attachment can be applied to any weapon.
 [P][B]Models Include:[b] Various models.</Description>
     <Source Page="57">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <Price>1000</Price>
     <Rarity>6</Rarity>
@@ -10507,13 +10507,13 @@ Scanner-proof hardware is a collection of upgrades that together make a weapon v
     </AddedMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>XCITEROVERCHARGE</Key>
+    <Key>XCITEOVER</Key>
     <Name>XCiter Overcharge</Name>
     <Description>[H3]XCiter Overcharge[h3]
 A common—and dangerous—modification among espionage agents, an XCiter Overcharge allows an individual to empty a blaster's energy cell in a single, extremely powerful shot. This increases the output for an emergency kick, but it runs the risk of destroying the weapon and harming the user. While typically applied to holdout blasters, this attachment can be applied to any personal blaster weapon.
 [P][B]Models Include:[b] BlasTech "Nova" Overcharge System.</Description>
     <Source Page="57">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
       <Category>Blaster</Category>
@@ -10540,7 +10540,7 @@ A common—and dangerous—modification among espionage agents, an XCiter Overch
 An excellent way to ensure an agent is always armed no matter the circumstances, boot blades are small spring-loaded knives that extend from the toes of an individual's shoes or boots to provide an extra edge in hand-to-hand combat. There are various ways to deploy the blades, such as pressing a certain point on the tongue of a shoe or stamping hard with a boot's heel. Retracting them often entails simply (but carefully) pushing them back into their compartment until they catch. This attachment can be applied to any armor that includes boots, shoes, or other footwear.
 [P][B]Models Include:[b] Various models.</Description>
     <Source Page="57">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <Price>100</Price>
     <Rarity>5</Rarity>
@@ -10569,13 +10569,13 @@ An excellent way to ensure an agent is always armed no matter the circumstances,
     </WeaponModifiers>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>ARMORINSERT</Key>
+    <Key>ARMINS</Key>
     <Name>Armor Insert</Name>
     <Description>[H3]Armor Insert[h3]
 Armor inserts are thin, flexible, plasteel and ballistic gel plates that can be sewn into clothing to give the wearer concealed armor protection. They can be added to any garment that is suitably large and alter- able, and they can be installed by any skilled tailor for a moderate fee. This attachment can be applied to any armor with a defense no greater than 0 and a soak of 1 or less. 
 [P][B]Models Include:[b] Creshaldyne "Slimline" Armor Plates.</Description>
     <Source Page="57">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <Price>450</Price>
     <Rarity>3</Rarity>
@@ -10637,13 +10637,13 @@ Jump boots are, essentially, a single-use jetpack built into a thick boots and a
     <MaxEnc>4</MaxEnc>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>REFLECADAPTIVESKIN</Key>
+    <Key>REFLADAPSKIN</Key>
     <Name>Reflec Adaptive Skin</Name>
     <Description>[H3]Reflec Adaptive Skin[h3]
 Reflec is an advanced polymer that possesses adaptive light-warping and sensor-damping properties. When applied to armor, reflec acts as an optical camouflage even in fully illuminated areas. This attachment can be applied to any armor. 
 [P][B]Models Include:[b] CorChemCo Reflec Treatment.</Description>
     <Source Page="58">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <Price>3500</Price>
     <Rarity>7</Rarity>
@@ -10675,13 +10675,13 @@ Reflec is an advanced polymer that possesses adaptive light-warping and sensor-d
     </AddedMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>SCANNERWEAVE</Key>
+    <Key>SCANWEAVE</Key>
     <Name>Scannerweave</Name>
     <Description>[H3]Scannerweave[h3]
 Scannerweave is a passive stealth system consisting of an advanced sensor-blocking textile. Armor modified with scannerweave tends to be quieter thanks to the nature of the soft, flexible fabric. More importantly, its inherent qualities make the wearer nearly invisible to the various scanners and security sensors found in security vaults and data facilities. This attachment can be applied to any armor. 
 [P][B]Models Include:[b] Ayelixe/Krongbing Passive Stealth.</Description>
     <Source Page="58">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <Price>1800</Price>
     <Rarity>6</Rarity>
@@ -10695,13 +10695,13 @@ Scannerweave is a passive stealth system consisting of an advanced sensor-blocki
     </BaseMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>STEALTHFIELD</Key>
+    <Key>STEALTHFGEN</Key>
     <Name>Stealth Field Generator</Name>
     <Description>[H3]Stealth Field Generator[h3]
 Produced by a number of stealth technology companies, stealth field generators are the final word in personal active stealth technology. They use a combination of optical camouflage, low-output cloaking technology, active electromagnetic dampers, electronic acoustic bafflers, and thermal shielding to make a user virtually invisible to both the naked eye and to most scanners. These systems are not perfect, however. Users still need to know how to move stealthily and how to use cover and shadows to their advantage. Users also cannot move faster than a walk, or the stealth field will break down. This attachment can be applied to any armor. 
 [P][B]Models Include:[b] Fabritech XO-A "Vanish l" Personal Stealth Generator, Kerner Corp. "Defel" Cloaking Belt.</Description>
     <Source Page="58">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <Price>3800</Price>
     <Rarity>7</Rarity>
@@ -10831,7 +10831,7 @@ Holo converters are common holo scrambling devices that allow users to alter a h
 Comlink bugs are tiny listening devices implanted into an otherwise normal comlink. When active, they allow an operator to listen in on whatever is being broadcast over a specific comlink. These devices detect both incoming and outgoing signals and can record entire conversations. As they are active listening devices, comlink bugs can be detected with proper equipment, such as a surveillance scanner. 
 [P][B]Models Include:[b] Various models.</Description>
     <Source Page="59">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Gear</Type>
     <Price>150</Price>
     <Rarity>4</Rarity>
@@ -10843,13 +10843,13 @@ Comlink bugs are tiny listening devices implanted into an otherwise normal comli
     </BaseMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>SUBMINHOLOCAM</Key>
+    <Key>SUBMINHOLO</Key>
     <Name>Subminiature Holocam</Name>
     <Description>[H3]Subminiature Holocam[h3]
 Subminiature holocams are small holorecorders equipped with a medium-sized fixed focal length lens. Able to record still images and video in numerous formats, they are often hidden in datapads, eyeglasses, goggles, or jewelry. Due to their size and the nature of the attached lens, they have relatively limited capabilities. The on-board storage can store only a handful of still images or a few minutes of video, and the images are all low-resolution. Unless the subminiature holocam is specifically built for the task, it can only reliably record up to a range of three meters. In addition, miniature holocams rarely, if ever, have networking capabilities; images and video footage must be removed manually by connecting the device to a datapad or computer. 
 [P][B]Models Include:[b] Xonim Holotech VEF22 SubMiniature Holocam.</Description>
     <Source Page="60">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Gear</Type>
     <Price>300</Price>
     <Rarity>5</Rarity>
@@ -10886,13 +10886,13 @@ This simple mod adds a garrote to any suitable item, typically a briefcase, coml
     </WeaponModifiers>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>SELFDESTRUCTSYS</Key>
+    <Key>SELFDEST</Key>
     <Name>Self-Destruct System</Name>
     <Description>[H3]Self-Destruct System[h3]
 Self-destruct systems are found on many pieces of espionage gear, especially bags, attaché cases, and diplomatic pouches. They use small, low-yield, shaped-charge explosives to destroy the item in case of theft, emergency, or improper usage. For example, an attaché case could be equipped with a self-destruct system that activates when an incorrect lock combination is entered. The explosions are usually very contained, but can be modified to deal damage to others nearby when the device detonates. 
 [P][B]Models Include:[b] Various models.</Description>
     <Source Page="60">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Gear</Type>
     <Price>550</Price>
     <Rarity>5</Rarity>
@@ -10914,13 +10914,13 @@ Self-destruct systems are found on many pieces of espionage gear, especially bag
     </AddedMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>CLOAKDEVICE</Key>
+    <Key>CLOAKDEV</Key>
     <Name>Cloaking Device</Name>
     <Description>[H3]Cloaking Device[h3]
 Cloaking devices are exceedingly rare and typically only fitted to starships employed in gathering intelligence assignments. Fueled with either hibridium or stygium, these power-hungry systems render a ship completely invisible. Cloaking devices are illegal to own for non-military use, a fact that is largely lost on those few criminals, smugglers, and espionage freelancers who are wealthy enough to afford them. This attachment can be applied to any starship of silhouette 3 or larger.
 [P][B]Models Include:[b] Sienar Fleet Systems Mk Ill Stygium Cloaking Device, Kerner Corp Multi-Phase Hibridium Stealth System.</Description>
     <Source Page="62">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>29000</Price>
     <Rarity>9</Rarity>
@@ -11020,13 +11020,13 @@ A staple of spies and infiltrators, this simple mechanical apparatus deploys and
     </BaseMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>SENSORSHUNT</Key>
+    <Key>SENSSHUNT</Key>
     <Name>Sensor Shunt</Name>
     <Description>[H3]Sensor Shunt[h3]
 Sensor shunts are passive stealth systems fitted to ships or vehicles to hide energy signatures. Unlike a scrambler, which draws attention to itself even as it fools sensors, shunts are quiet and unobtrusive. Ships or vehicles with these upgrades are nearly invisible to passive sensors and are difficult to detect with even active scanners. This attachment can be applied to any starship or vehicle.
 [P][B]Models Include:[b] Various models.</Description>
     <Source Page="63">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>3200</Price>
     <Rarity>8</Rarity>
@@ -11174,35 +11174,6 @@ A more drastic, but more effective, option is to alter a weapon or other device 
     </BaseMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>SPOOFSCAN</Key>
-    <Name>Spoofing Scanners</Name>
-    <Description>[H3]Spoofing Scanners[h3]
-Some physical alterations, no matter how extensive, can't fool the piercing eyes of scanners and electronic detection devices. However, clever Rebels aren't without hope. By reducing the energy output of a weapon or by installing jury-rigged scramblers to shield a device from sensory devices, a character can potentially allow the item to evade detection. 
-[P]Characters attempting such an alteration must make a [B]Hard ([DI][DI][DI]) Mechanics check[b]. This adds [SE] to Perception checks that operators using a scanning device make to detect the item. They may spend [TR] from the Mechanics check to have the difficulty of such detection checks upgraded once.
-[P]Unfortunately, the reduction of a weapon's energy output does diminish its effectiveness. Each net [SU] from the check for reducing a weapon's energy output also reduces its damage by one, to a minimum of 1. Characters may spend [TR] from the Mechanics check to halve this reduction in damage, rounding up. 
-[P]Only weapons that use energy-based attacks or other advanced devices can have their energy output reduced or signature concealed. This means that slugthrowers and traditional explosive devices cannot be modified in this fashion. In addition, items that require extensive power (such as repeating blasters) cannot have their energy signature reduced. Note that this differs from the scanner-proof hardware weapon attachment, which requires no check for use once it is installed and is more a customization of the weapon than a mechanical alteration.</Description>
-    <Source Page="82">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
-    <Type>Weapon</Type>
-    <TypeLimit>
-      <Type>Energy Weapon</Type>
-    </TypeLimit>
-    <BaseMods>
-      <Mod>
-        <Count>1</Count>
-        <MiscDesc>Characters attempting such an alteration must make a [B]Hard ([DI][DI][DI]) Mechanics check[b]. This adds [SE] to Perception checks that operators using a scanning device make to detect the item. They may spend [TR] from the Mechanics check to have the difficulty of such detection checks upgraded once.</MiscDesc>
-      </Mod>
-      <Mod>
-        <Count>1</Count>
-        <MiscDesc>Each net [SU] from the check for reducing a weapon's energy output also reduces its damage by one, to a minimum of 1. Characters may spend [TR] from the Mechanics check to halve this reduction in damage, rounding up.</MiscDesc>
-      </Mod>
-      <Mod>
-        <Count>1</Count>
-        <MiscDesc>Only weapons that use energy-based attacks or other advanced devices can have their energy output reduced or signature concealed. This means that slugthrowers and traditional explosive devices cannot be modified in this fashion. In addition, items that require extensive power (such as repeating blasters) cannot have their energy signature reduced.</MiscDesc>
-      </Mod>
-    </BaseMods>
-  </ItemAttachment>
-  <ItemAttachment>
     <Key>HIDCOMPARMOR</Key>
     <Name>Hidden Compartments in Armor</Name>
     <Description>[H3]Hidden Compartments in Armor[h3]
@@ -11284,12 +11255,12 @@ Armor and weapon designs oppose one another in a cycle of endless escalation. No
     </AddedMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>BIOSPTDIS</Key>
+    <Key>BIOSUPPORT</Key>
     <Name>Bio-Support Dispenser</Name>
     <Description>[H3]Bio-Support Dispenser[h3]
 Sophisticated medical technology integrated into armor can enhance the effects of in-combat treatments through carefully regulated and distributed dosages. This system applies medication automatically as the wearer's vitals begin to suffer, and It Includes an internal bacta reservoir for sealing the most grievous injuries. This attachment may only be installed on a fully enclosed suit of armor, such as laminate, clone trooper, or heavy battle armor</Description>
     <Source Page="64">Rise of the Separatists</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <Price>4000</Price>
     <Rarity>6</Rarity>
@@ -11306,5 +11277,34 @@ Sophisticated medical technology integrated into armor can enhance the effects o
         <MiscDesc>Heal 1 additional wound at the end of an encounter</MiscDesc>
       </Mod>
     </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>SPOOFSCAN</Key>
+    <Name>Spoofing Scanners</Name>
+    <Description>[H3]Spoofing Scanners[h3]
+Some physical alterations, no matter how extensive, can't fool the piercing eyes of scanners and electronic detection devices. However, clever Rebels aren't without hope. By reducing the energy output of a weapon or by installing jury-rigged scramblers to shield a device from sensory devices, a character can potentially allow the item to evade detection. 
+[P]Characters attempting such an alteration must make a [B]Hard ([DI][DI][DI]) Mechanics check[b]. This adds [SE] to Perception checks that operators using a scanning device make to detect the item. They may spend [TR] from the Mechanics check to have the difficulty of such detection checks upgraded once.
+[P]Unfortunately, the reduction of a weapon's energy output does diminish its effectiveness. Each net [SU] from the check for reducing a weapon's energy output also reduces its damage by one, to a minimum of 1. Characters may spend [TR] from the Mechanics check to halve this reduction in damage, rounding up. 
+[P]Only weapons that use energy-based attacks or other advanced devices can have their energy output reduced or signature concealed. This means that slugthrowers and traditional explosive devices cannot be modified in this fashion. In addition, items that require extensive power (such as repeating blasters) cannot have their energy signature reduced. Note that this differs from the scanner-proof hardware weapon attachment, which requires no check for use once it is installed and is more a customization of the weapon than a mechanical alteration.</Description>
+    <Source Page="82">Cyphers and Masks</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Weapon</Type>
+    <TypeLimit>
+      <Type>Energy Weapon</Type>
+    </TypeLimit>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Characters attempting such an alteration must make a [B]Hard ([DI][DI][DI]) Mechanics check[b]. This adds [SE] to Perception checks that operators using a scanning device make to detect the item. They may spend [TR] from the Mechanics check to have the difficulty of such detection checks upgraded once.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Each net [SU] from the check for reducing a weapon's energy output also reduces its damage by one, to a minimum of 1. Characters may spend [TR] from the Mechanics check to halve this reduction in damage, rounding up.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Only weapons that use energy-based attacks or other advanced devices can have their energy output reduced or signature concealed. This means that slugthrowers and traditional explosive devices cannot be modified in this fashion. In addition, items that require extensive power (such as repeating blasters) cannot have their energy signature reduced.</MiscDesc>
+      </Mod>
+    </BaseMods>
   </ItemAttachment>
 </ItemAttachments>

@@ -36,7 +36,7 @@ The Aqualish are a triad of semi-aquatic sub-species evolved from aquatic mammal
 
 [P]Due to the construction of Aqualish vocal cords and the limitations imposed by their over-hanging tusks. it is impossible for Aqualish to speak in Basic without it sounding abrasive and harsh. This only serves to further the perception of the Aqualish as brutish louts.</Description>
   <Source>Dangerous Covenants</Source>
-  <Custom>CustomItem</Custom>
+  <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>3</Brawn>
     <Agility>2</Agility>

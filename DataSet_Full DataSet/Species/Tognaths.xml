@@ -13,7 +13,7 @@ Hailing from the planet Yar Togna, the mysterious Tognaths are tall, quiet human
 [P][B]Language:[b] Tognath vocal cbhords evolved for an unusually dense, sulfur-rich atmosphere and, as such, their deep voices are too faint for most species to hear without technological aid. Tognath seldom speak; and when they do, their respirator amplifiers ofter garble their words.
 [P][B]Life under the Empire:[b] Tognath who escape Yar Togna are often skilled pilots. Many find work as couriers for secret or sensitive goods and information, as their ability to ignore pain makes them ideal for resisting torture. This has given them a reputation for keeping secrets, which has helped other Tognath find work as advisors and corporate or military analysts. It has also, unfortunately, led soem beings to find them untrustworthy, as in some circles such resilience means it is impossible to determine whether a subject is telling the truth. No matter what they do, almost all Tognath bear a grudge against the Empire over the treatment of their people and the co-opting of their planet. Most find their way to anti-Imperial extremist groups or the nascent rebellion.</Description>
   <Source Page="96">Dawn of Rebellion</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>2</Agility>

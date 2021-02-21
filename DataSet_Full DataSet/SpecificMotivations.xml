@@ -1452,7 +1452,7 @@ Seeking out and discovering new worlds, information, or the wondrous secrets hid
 
  All sentient beings must have the opportunity to make their own decisions. For good or for ill, and the right to face the consequences or receive the just rewards For their actions. The character seeks freedom for the enslaved and oppressed, and fights against organizations that promote slavery or subjugate their people.</Description>
     <Source>Force and Destiny Core Rulebook</Source>
-    <Custom>CustomItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Cause</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2648,7 +2648,7 @@ For many Consulars, the Force is like water, flowing between the life that creat
 Precision is important, in everything from sensors to weapons. These Engineers can become passionate over increasing exactness in all things, and might hate the Empire all the more for the way it twists truths and rewrites history.
     </Description>
     <Source Page="32">Fully Operational</Source>
-    <Custom>CustomItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Improvements</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2658,7 +2658,7 @@ Precision is important, in everything from sensors to weapons. These Engineers c
       [H4]Challenge[h4]
 It would be easier to leave things as they are, but these Engineers view difficulty as part of the reward and a sign of their prowess. Similarly, the struggle against the Empire is perhaps the most important challenge they face.</Description>
     <Source Page="32">Fully Operational</Source>
-    <Custom>CustomItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Improvements</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2669,7 +2669,7 @@ It would be easier to leave things as they are, but these Engineers view difficu
 It is clear to these Engineers that the more deadly the weapon, the better it is. They may also strive to make themselves as dangerous as possible through martial trainig and physical conditioning.
     </Description>
     <Source Page="32">Fully Operational</Source>
-    <Custom>CustomItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Improvements</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2679,7 +2679,7 @@ It is clear to these Engineers that the more deadly the weapon, the better it is
       [H4]Aesthetics[h4]
 These Engineers search for ways to make their creations as pleasing to look at as they are effective; some apply this personality to improve their social interactions and thus garner more support for their efforts.</Description>
     <Source Page="32">Fully Operational</Source>
-    <Custom>CustomItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Improvements</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2690,7 +2690,7 @@ These Engineers search for ways to make their creations as pleasing to look at a
 Weapons and ships that won't work cannot serve the Rebellion, so Engineers cannot allow them to become or remain unreliable. Increasing dependability not only aids in the war, but increases morale and fighting effectiveness.
     </Description>
     <Source Page="32">Fully Operational</Source>
-    <Custom>CustomItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Improvements</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2701,7 +2701,7 @@ Weapons and ships that won't work cannot serve the Rebellion, so Engineers canno
 Good Engineers work toward making sure everything - from tools to tanks - can be used in a variety of ways. These Engineers might also seek to improve themselves so that they are able to perform a wide variety of tasks.
     </Description>
     <Source Page="32">Fully Operational</Source>
-    <Custom>CustomItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Improvements</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2711,7 +2711,7 @@ Good Engineers work toward making sure everything - from tools to tanks - can be
       [H4]Durability[h4]
 Replacement items are always an issue, so everything in the Rebellion must last as long as possible. Engineers are always working to ensure weapons and vehicles function longer and to craft defenses to ensure they survive to fight another day.</Description>
     <Source Page="32">Fully Operational</Source>
-    <Custom>CustomItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Improvements</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2721,7 +2721,7 @@ Replacement items are always an issue, so everything in the Rebellion must last 
       [H4]Makeshift[h4]
 Anyone can improve things given sufficient resources, but true artisans can take whatever might be around and craft mechanical art. While Rebels are often starved for parts, these Enginers might deliberately use improvised items to create personal works.</Description>
     <Source Page="32">Fully Operational</Source>
-    <Custom>CustomItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Improvements</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2731,7 +2731,7 @@ Anyone can improve things given sufficient resources, but true artisans can take
       [H4]Simplicity[h4]
 The best items are the ones that perform their functions in a basic manner, and Engineers work to eliminate anything that stands in the way of this goal. Lives are also lived best this way, but the Empire's harsh oversight or all aspects of its citizenry is in direct opposition to thie ideal.</Description>
     <Source Page="32">Fully Operational</Source>
-    <Custom>CustomItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Improvements</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2742,277 +2742,277 @@ The best items are the ones that perform their functions in a basic manner, and 
 Fuel and materiel are always being wasted, and these Engineers are driven to eliminate such losses at every opportunity. The Empire wastes lives and productivity, adding yet another reason for its elimination.
     </Description>
     <Source Page="32">Fully Operational</Source>
-    <Custom>CustomItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Improvements</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>MYSTERIES1</Key>
+    <Key>MYSTERY1</Key>
     <Name>Death</Name>
     <Description>[H4]Death[h4]
 </Description>
     <Source Page="35">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Mysteries</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>MYSTERIES2</Key>
+    <Key>MYSTERY2</Key>
     <Name>The Force</Name>
     <Description>[H4]The Force[h4]
 </Description>
     <Source Page="35">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Mysteries</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>MYSTERIES3</Key>
+    <Key>MYSTERY3</Key>
     <Name>Destiny and Fate</Name>
     <Description>[H4]Destiny and Fate[h4]
 </Description>
     <Source Page="35">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Mysteries</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>MYSTERIES4</Key>
+    <Key>MYSTERY4</Key>
     <Name>Happiness</Name>
     <Description>[H4]Happiness[h4]
 </Description>
     <Source Page="35">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Mysteries</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>MYSTERIES5</Key>
+    <Key>MYSTERY5</Key>
     <Name>Balance</Name>
     <Description>[H4]Balance[h4]
 </Description>
     <Source Page="35">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Mysteries</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>MYSTERIES6</Key>
+    <Key>MYSTERY6</Key>
     <Name>Suffering</Name>
     <Description>[H4]Suffering[h4]
 </Description>
     <Source Page="35">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Mysteries</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>MYSTERIES7</Key>
+    <Key>MYSTERY7</Key>
     <Name>The Jedi</Name>
     <Description>[H4]The Jedi[h4]
 </Description>
     <Source Page="35">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Mysteries</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>MYSTERIES8</Key>
+    <Key>MYSTERY8</Key>
     <Name>Other Force Traditions</Name>
     <Description>[H4]Other Force Traditions[h4]
 </Description>
     <Source Page="35">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Mysteries</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>MYSTERIES9</Key>
+    <Key>MYSTERY9</Key>
     <Name>The Dark Side of the Force</Name>
     <Description>[H4]The Dark Side of the Force[h4]
 </Description>
     <Source Page="35">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Mysteries</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>MYSTERIES10</Key>
+    <Key>MYSTERY10</Key>
     <Name>Life</Name>
     <Description>[H4]Life[h4]
 </Description>
     <Source Page="35">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Mysteries</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>LIBERATION</Key>
+    <Key>CHALLENGE1</Key>
     <Name>Liberation</Name>
     <Description>[H4]Liberation[h4]
 This character works against oppression of all kinds. Harsh masters, domineering societies, even overzealous companions can spark the need to rise up against oppression and liberate the helpless.</Description>
     <Source Page="32">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Challenges</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>CHALLENGES1</Key>
+    <Key>CHALLENGE2</Key>
     <Name>Birthright</Name>
     <Description>[H4]Birthright[h4]
 This character's discovery of the Force awakened a need to claim forgotten teachings, martial techniques, and a forbidden way of life. Legends drive this character both to learn about and strive to emulate the Jedi of old.</Description>
     <Source Page="32">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Challenges</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>CHALLENGES2</Key>
+    <Key>CHALLENGE3</Key>
     <Name>Perfection</Name>
     <Description>[H4]Perfection[h4]
 This character is determined to be the best, to uncover the best in others, and to seek out perfection in an imperfect universe. The impossibility of the goal is irrelevant, as all improvement is beneficial, and the intent matters. This character continually seeks betterment, resulting in brilliance or, more often, disappointment.</Description>
     <Source Page="32">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Challenges</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>CHALLENGES3</Key>
+    <Key>CHALLENGE4</Key>
     <Name>Meaning</Name>
     <Description>[H4]Meaning[h4]
 </Description>
     <Source Page="32">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Challenges</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>CHALLENGES4</Key>
+    <Key>CHALLENGE5</Key>
     <Name>Acceptance</Name>
     <Description>[H4]Acceptance[h4]
 </Description>
     <Source Page="32">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Challenges</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>CHALLENGES5</Key>
+    <Key>CHALLENGE6</Key>
     <Name>Legacy</Name>
     <Description>[H4]Legacy[h4]
 </Description>
     <Source Page="32">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Challenges</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>CHALLENGES6</Key>
+    <Key>CHALLENGE7</Key>
     <Name>Recognition</Name>
     <Description>[H4]Recognition[h4]
 </Description>
     <Source Page="32">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Challenges</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>CHALLENGES7</Key>
+    <Key>CHALLENGE8</Key>
     <Name>Worthy Opponents</Name>
     <Description>[H4]Worthy Opponents[h4]
 </Description>
     <Source Page="32">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Challenges</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>CHALLENGES8</Key>
+    <Key>CHALLENGE9</Key>
     <Name>Martial Mastery</Name>
     <Description>[H4]Martial Mastery[h4]
 </Description>
     <Source Page="32">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Challenges</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>CHALLENGES9</Key>
+    <Key>CHALLENGE10</Key>
     <Name>Superiority</Name>
     <Description>[H4]Superiority[h4]
 </Description>
     <Source Page="32">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Challenges</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>SECRETS1</Key>
+    <Key>SECRET1</Key>
     <Name>Falsification</Name>
     <Description>[H4]Falsification[h4]
 </Description>
     <Source Page="32">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Secrets</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>SECRETS2</Key>
+    <Key>SECRET2</Key>
     <Name>Detection</Name>
     <Description>[H4]Detection[h4]
 </Description>
     <Source Page="32">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Secrets</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>SECRETS3</Key>
+    <Key>SECRET3</Key>
     <Name>Extraction</Name>
     <Description>[H4]Extraction[h4]
 </Description>
     <Source Page="32">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Secrets</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>SECRETS4</Key>
+    <Key>SECRET4</Key>
     <Name>Classification</Name>
     <Description>[H4]Classification[h4]
 </Description>
     <Source Page="32">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Secrets</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>SECRETS5</Key>
+    <Key>SECRET5</Key>
     <Name>Analysis</Name>
     <Description>[H4]Analysis[h4]
 </Description>
     <Source Page="32">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Secrets</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>SECRETS6</Key>
+    <Key>SECRET6</Key>
     <Name>Security</Name>
     <Description>[H4]Security[h4]
 </Description>
     <Source Page="32">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Secrets</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>SECRETS7</Key>
+    <Key>SECRET7</Key>
     <Name>Revelation</Name>
     <Description>[H4]Revelation[h4]
 </Description>
     <Source Page="32">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Secrets</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>SECRETS8</Key>
+    <Key>SECRET8</Key>
     <Name>Tracking</Name>
     <Description>[H4]Tracking[h4]
 </Description>
     <Source Page="32">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Secrets</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>SECRETS9</Key>
+    <Key>SECRET9</Key>
     <Name>Preservation</Name>
     <Description>[H4]Preservation[h4]
 </Description>
     <Source Page="32">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Secrets</Motivation>
   </SpecificMotivation>
   <SpecificMotivation>
-    <Key>SECRETS10</Key>
+    <Key>SECRET10</Key>
     <Name>Retrieval</Name>
     <Description>[H4]Retrieval[h4]
 </Description>
     <Source Page="32">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Motivation>Secrets</Motivation>
   </SpecificMotivation>
 </SpecificMotivations>

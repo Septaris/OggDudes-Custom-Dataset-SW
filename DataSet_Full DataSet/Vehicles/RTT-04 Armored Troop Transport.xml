@@ -7,7 +7,7 @@ The RTT-04, commonly known as the Republic troop transport, is a lightly armored
 [P]In its role as a troop carrier, the RTI-04 carries a squad of eight fully armed and equipped troopers with all of their necessary combat gear. Also configurable to carry supplies, it is sometimes pressed into use as a heavy hauler by engineering squads. While it is lightly armored for a fighting vehicle and has a reputation for being relatively fragile, the RTT-04 carries a respectable amount of firepower, with a twin light laser cannon and a twin dorsal turret-mounted mass-driver missile launcher like that found on the LAAT/i.
 [P]Thousands of RTT-04s were produced during the Clone Wars, but precious few survived into the Imperial era. The Imperial Army  declined to include them in their order of battle and those that  survived the Clone Wars were stripped of their weapon systems and sold as military surplus to industrial and resource-exploration concerns.</Description>
   <Source Page="55">Knights of Fate</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <Type>Armored Transport</Type>
   <Categories>
     <Category>Land Vehicle</Category>

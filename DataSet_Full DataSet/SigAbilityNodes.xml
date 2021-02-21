@@ -1793,7 +1793,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <Name>Quality: Breach</Name>
     <Description>The character may also apply the Breach item quality to the weapon or item.</Description>
     <Source Page="35">Fully Operational</Source>
-    <Custom>CustomItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Ingenuity</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
@@ -1801,7 +1801,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <Name>Quality: Concussive</Name>
     <Description>The character may also apply the Concussive item quality to the weapon or item.</Description>
     <Source Page="35">Fully Operational</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Ingenuity</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
@@ -1817,31 +1817,31 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <Name>Prophecy Base Ability</Name>
     <Description>Once per game session, the character may spend 1 Destiny Point and make a [B]Hard ([DI][DI][DI]) Vigilance check[b] to utter a prophecy. If they succeed, they foretell a single event, the focus of which is centered around themself. At any time before the end of the game session. they may spend 1 Destiny Point, at which point the foretold event transpires. The GM should interpret the prophecy to fit the scene, possibly revealing truths the character did not foresee in the process.</Description>
     <Source Page="37">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Prophecy</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>PROPHECYSETBACK</Key>
+    <Key>PROPHECYREDUCESETBACK</Key>
     <Name>Reduce Setback</Name>
     <Description>Remove [SE] from the check to activate Prophecy.</Description>
     <Source Page="37">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Prophecy</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>PROPHECYFLOW</Key>
+    <Key>PROPHECYFLOWOFUNIVERSE</Key>
     <Name>Flow of the Universe</Name>
     <Description>Add [BO] to the character's checks to bring the foretold event to fruition.</Description>
     <Source Page="37">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Prophecy</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>PROPHECYSHAREV</Key>
+    <Key>PROPHECYSHAREDREV</Key>
     <Name>Shared Revelation</Name>
     <Description>The prophecy may pertain to any one other character who hears it.</Description>
     <Source Page="37">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Prophecy</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
@@ -1849,15 +1849,15 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <Name>Recurrence</Name>
     <Description>One additional time before the end of the game session, the character may spend 1 Destiny Point to have to prophecy's foretold event recur, likely in a different form.</Description>
     <Source Page="37">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Prophecy</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>PROPHECYREDIFF</Key>
+    <Key>PROPHECYREDUCEDIFF</Key>
     <Name>Reduce Difficulty</Name>
     <Description>Reduce the difficulty of the skill check to activate Prophecy to [B]Average ([DI][DI])[b].</Description>
     <Source Page="37">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Prophecy</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
@@ -1865,7 +1865,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <Name>Doom</Name>
     <Description>Add [SE] to any character's checks to prevent the foretold event from occurring.</Description>
     <Source Page="37">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Prophecy</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
@@ -1873,285 +1873,285 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <Name>Destiny</Name>
     <Description>Prophecy costs 1 fewer Destiny Points to activate, it still requires a Destiny Point to trigger the occurrence of the prophesised event.</Description>
     <Source Page="37">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Prophecy</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>UNMATCHEDDESTBASE</Key>
+    <Key>UNMATCHEDDESTINYBASE</Key>
     <Name>Unmatched Destiny Base Ability</Name>
     <Description>Once per game session, after making a Force power check, the character may spend 2 Destiny Points to reroll up to 2 Force dice. Conflict generated as part of this Force power check is doubled.</Description>
     <Source Page="38">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Destiny</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>UNMATCHEDDESTINCNUMB</Key>
+    <Key>UNMATCHEDDESTINYINCREASENUMBER</Key>
     <Name>Increase Number</Name>
     <Description>Reroll up to 1 additional Force die per Increase Number upgrade.</Description>
     <Source Page="38">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Destiny</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>UNMATCHEDDESTDESTINY</Key>
+    <Key>UNMATCHEDDESTINYDESTINY</Key>
     <Name>Destiny</Name>
     <Description>Unmatched Destiny costs 1 fewer Destiny Points to activate.
 </Description>
     <Source Page="38">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Destiny</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>UNMATCHEDDESTSHADEST</Key>
+    <Key>UNMATCHEDDESTINYSHAREDDESTINY</Key>
     <Name>Shared Destiny</Name>
     <Description>Unmatched Destiny can be used after another character at short range makes a Force power check.
 </Description>
     <Source Page="38">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Destiny</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>UNMATCHEDDESTFREQ</Key>
+    <Key>UNMATCHEDDESTINYFREQUENCY</Key>
     <Name>Frequency</Name>
     <Description>Unmatched Destiny can be used 1 additional time per session.
 </Description>
     <Source Page="38">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Destiny</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>UNMATCHEDDESTUNPOWER</Key>
+    <Key>UNMATCHEDDESTINYUNLEASHEDPOWER</Key>
     <Name>Unleashed Power</Name>
     <Description>For each [LI][LI] result, add automatic [LI] to the check.
 [P]For each [DA][DA] result, add automatic [DA] to the check.
 </Description>
     <Source Page="38">Unlimited Power</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Destiny</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>DEADREPBASE</Key>
+    <Key>DEADLYREPBASE</Key>
     <Name>Deadly Reputation Base Ability</Name>
     <Description>Once per session as an incidental, the character may spend 2 Destiny Points to activate Deadly Reputation. Until the end of the character's next turn, increase the difficulty of all skill checks targeting the character by one.</Description>
     <Source Page="34">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Deadly Reputation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>DEADREPDURATION</Key>
+    <Key>DEADLYREPDURATION</Key>
     <Name>Duration</Name>
     <Description>Deadly Reputation lasts for one additional turn.</Description>
     <Source Page="34">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Deadly Reputation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>DEADREPASSOCIATION</Key>
+    <Key>DEADLYREPASSOCIATION</Key>
     <Name>Deadly by Association</Name>
     <Description>Deadly Reputation also affect checks targeting the character's allies.</Description>
     <Source Page="34">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Deadly Reputation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>DEADREPSETBACK</Key>
+    <Key>DEADLYREPADDSETBACK</Key>
     <Name>Add Setback</Name>
     <Description>Add [SE] to checks affected by Deadly Reputation.</Description>
     <Source Page="34">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Deadly Reputation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>DEADREPEFFECT</Key>
+    <Key>DEADLYREPINCREASEEFFECT</Key>
     <Name>Increase Effect</Name>
     <Description>Upgrade the difficulty of checks affected by Deadly Reputation.</Description>
     <Source Page="34">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Deadly Reputation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>DEADREPDESTINY</Key>
+    <Key>DEADLYREPDESTINY</Key>
     <Name>Destiny</Name>
     <Description>Deadly Reputation costs 1 fewer Destiny Point to activate.</Description>
     <Source Page="34">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Deadly Reputation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>UNMATCHEDFERBASE</Key>
+    <Key>UNMATCHEDFEROCITYBASE</Key>
     <Name>Unmatched Ferocity Base Ability</Name>
     <Description>Once per session after resolving a successful Melee combat check against a target engaged with the character, the character may spend 2 Destiny Points. The character then suffers 4 strain and 1 Conflict to immediately make a Melee attack as an incidental against the same target, increasing the difficulty of tile check by one, to a maximum difficulty of [B]Formidable ([DI][DI][DI][DI][DI])[b]. If successful, the character may repeat the process (suffering further strain and Conflict).</Description>
     <Source Page="35">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Ferocity</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>UNMATCHEDFERSTRAIN</Key>
+    <Key>UNMATCHEDFEROCITYREDUCESTRAIN</Key>
     <Name>Reduce Strain</Name>
     <Description>Reduce the strain suffered to make additional attacks by 1.</Description>
     <Source Page="35">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Ferocity</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>UNMATCHEDFERBRAWL</Key>
+    <Key>UNMATCHEDFEROCITYSKILL1</Key>
     <Name>Change Skill (Brawl)</Name>
     <Description>The character may activate Unmatched Ferocity after a successful Brawl check.</Description>
     <Source Page="35">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Ferocity</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>UNMATCHEDFERLIGHTSABER</Key>
+    <Key>UNMATCHEDFEROCITYSKILL2</Key>
     <Name>Change Skill (Lightsaber)</Name>
     <Description>The character may activate Unmatched Ferocity after a successful Lightsaber check.
 </Description>
     <Source Page="35">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Ferocity</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>UNMATCHEDFERDESTINY</Key>
+    <Key>UNMATCHEDFEROCITYDESTINY</Key>
     <Name>Destiny</Name>
     <Description>Unmatched Ferocity costs 1 fewer Destiny Point to activate.</Description>
     <Source Page="35">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Ferocity</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>UNMATCHEDFERTARGET</Key>
+    <Key>UNMATCHEDFEROCITYCHANGETARGET</Key>
     <Name>Change Target</Name>
     <Description>The character may choose a different target for each attack made as a result of Unmatched Ferocity.</Description>
     <Source Page="35">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Ferocity</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>UNMATCHEDFERCONFLICT</Key>
+    <Key>UNMATCHEDFEROCITYREDUCECONFLICT</Key>
     <Name>Reduce Conflict</Name>
     <Description>The character may choose to suffer an additional 2 strain instead of 1 Conflict to activate Unmatched Ferocity.</Description>
     <Source Page="35">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Ferocity</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>COUNTERESPIONAGEBASE</Key>
+    <Key>COUNTERESPBASE</Key>
     <Name>Counterespionage Base Ability</Name>
     <Description>Once per game session the character may spend 2 Destiny Points to make an [B]opposed Knowledge (Warfare) vs. Deception check[b] against an identified enemy agent or espionage leader. If successful, the character utterly foils one previously identified ploy or tactic associated with that enemy’s act of espionage. The exact nature of how the character accomplishes this must be approved by the GM, but should be suitably cunning and clever. Note that the enemy character does not need to be physically present or near the character for this ability to be used, and that the GM has final say on which NPCs are valid targets.</Description>
     <Source Page="34">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Counterespionage</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>COUNTERESPIONAGEBOOST</Key>
+    <Key>COUNTERESPBOOST</Key>
     <Name>Add Boost</Name>
     <Description>When making the skill check to activate Counterespionage, the character adds [BO] per Add Boost upgrade.</Description>
     <Source Page="34">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Counterespionage</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>COUNTERESPIONAGECHARM</Key>
+    <Key>COUNTERESPSKILL1</Key>
     <Name>Change Skill (Charm)</Name>
     <Description>The skill check the character makes as part of using Counterespionage can be made using Charm instead of Knowledge (Warfare).</Description>
     <Source Page="34">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Counterespionage</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>COUNTERESPIONAGENEGOTIATION</Key>
+    <Key>COUNTERESPSKILL2</Key>
     <Name>Change Skill (Negotiation)</Name>
     <Description>The skill check the character makes as part of using Counterespionage can be made using Negotiation instead of Knowledge (Warfare).</Description>
     <Source Page="34">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Counterespionage</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>COUNTERESPIONAGESETBACK</Key>
+    <Key>COUNTERESPREDUCESETBACK</Key>
     <Name>Reduce Setback</Name>
     <Description>Remove [SE] from the character’s skill check as part of using Counterespionage.</Description>
     <Source Page="34">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Counterespionage</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>COUNTERESPIONAGEDESTINY</Key>
+    <Key>COUNTERESPDESTINY</Key>
     <Name>Destiny</Name>
     <Description>To activate Counterespionage, the character needs to spend only one Destiny Point instead of the normal two Destiny Points.</Description>
     <Source Page="34">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Counterespionage</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>COUNTERESPIONAGETURN</Key>
+    <Key>COUNTERESPTURNAGENT</Key>
     <Name>Turn Agent</Name>
     <Description>Spend [TR] on a successful check to activate Counterespionage to turn one identified enemy agent into a double agent secretly working for the character.</Description>
     <Source Page="34">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Counterespionage</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>UNMATCHEDTRADBASE</Key>
+    <Key>UNMATCHEDTRADEBASE</Key>
     <Name>Unmatched Tradecraft Base Ability</Name>
     <Description>Once per session as an incidental, after the player rolls the dice for a Deception check but before resolving the results, he may spend 2 Destiny Points to remove one the rolled [DI] from the pool. The results from the [DI] are ignored, and the check is then resolved as normal.</Description>
     <Source Page="35">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Tradecraft</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>UNMATCHEDTRADSETBACK</Key>
+    <Key>UNMATCHEDTRADEINCREASEEFFECT1</Key>
     <Name>Increase Effect (Setback)</Name>
     <Description>Unmatched Tradecraft may also be used on [SE].</Description>
     <Source Page="35">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Tradecraft</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>UNMATCHEDTRADCHALLENGE</Key>
+    <Key>UNMATCHEDTRADEINCREASEEFFECT2</Key>
     <Name>Increase Effect (Challenge)</Name>
     <Description>Unmatched Tradecraft may also be used on [CH].</Description>
     <Source Page="35">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Tradecraft</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>UNMATCHEDTRADNUMBER</Key>
+    <Key>UNMATCHEDTRADEINCREASENUMBER</Key>
     <Name>Increase Number</Name>
     <Description>The number of dice removed through Unmatched Tradecraft increases by one per Increase Number upgrade.</Description>
     <Source Page="35">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Tradecraft</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>UNMATCHEDTRADSTEALTH</Key>
+    <Key>UNMATCHEDTRADESKILL1</Key>
     <Name>Change Skill (Stealth)</Name>
     <Description>Unmatched Tradecraft may be used with the Stealth skill instead of Deception.</Description>
     <Source Page="35">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Tradecraft</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>UNMATCHEDTRADSKULDUGGERY</Key>
+    <Key>UNMATCHEDTRADESKILL2</Key>
     <Name>Change Skill (Skulduggery)</Name>
     <Description>Unmatched Tradecraft may be used with the Skulduggery skill instead of Deception.</Description>
     <Source Page="35">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Tradecraft</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>UNMATCHEDTRADDESTINY</Key>
+    <Key>UNMATCHEDTRADEDESTINY</Key>
     <Name>Destiny</Name>
     <Description>To activate Unmatched Tradecraft, the character needs to spend only one Destiny Point instead of the normal two Destiny Points.</Description>
     <Source Page="35">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Tradecraft</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>UNMATCHEDTRADFREQ</Key>
+    <Key>FREQUENCY</Key>
     <Name>Frequency</Name>
     <Description>Unmatched Tradecraft can be used an additional time per game session.</Description>
     <Source Page="35">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Tradecraft</SigAbility>
   </SigAbilityNode>
 </SigAbilityNodes>

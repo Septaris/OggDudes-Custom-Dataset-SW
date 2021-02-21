@@ -7,7 +7,7 @@ The "Skywing" is a unique vehicle marketed for recreational use by manufacturer 
 [P]Considering the sorts of speeds and altitudes an S-K2 can achieve, the lack of an enclosed cabin is inarguably dangerous for the user. Skywings are primarily the province of adventurous thrill seekers, but no few mercenaries and roving fighters have found the vehicles useful for swiftly closing with foes or launching a surprise aerial attack. Some such users even consider Skywings disposable tools.
 [P]Ubrikkian Industries strongly recommends the use of a flight suit with helmet and full breath mask when operating an S-K2 personal speeder.</Description>
   <Source Page="53">Knights of Fate</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <Type>Airspeeder</Type>
   <Categories>
     <Category>Air Vehicle</Category>

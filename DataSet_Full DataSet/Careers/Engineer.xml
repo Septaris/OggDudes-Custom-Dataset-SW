@@ -15,7 +15,7 @@ An Engineer's eight career skills are [B]Athletics, Computers, Knowledge (Educat
 
 [P]Whether at the design table, in the hangar bay, or scurrying towards an access panel with explosives in hand, Engineers are a vital part of the Alliance's war effort. They bring the Rebellion new weapons to fight with, keep its machines in service, and deliver devastating setbacks to the Empire's continuing agenda to craft superweapons of mass destruction.</Description>
   <Source Page="82">Age of Rebellion Core Rulebook</Source>
-  <Custom>CustomItem</Custom>
+  <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>ATHL</Key>
     <Key>COMP</Key>

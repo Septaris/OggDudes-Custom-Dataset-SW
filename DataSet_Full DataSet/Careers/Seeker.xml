@@ -15,7 +15,7 @@ from the heart of galactic civilization. A Force adept who is willing and able t
 
 [P]This flexibility is vital for a Seeker. Some of these characters travel at the direction of the Force, allowing fortune and chance to select their destinations and their traveling companions. Others work within the confines of larger groups. They may be troubleshooters. bounty hunters, envoys, or even traveling merchants. The variety of work means the Seeker must be prepared to quickly adapt to these changing situations and to make the most effective use possible of the tools that are at hand.</Description>
   <Source Page="84">Force and Destiny Core Rulebook</Source>
-  <Custom>CustomItem</Custom>
+  <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>PILOTPL</Key>
     <Key>PILOTSP</Key>

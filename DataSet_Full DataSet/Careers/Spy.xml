@@ -15,7 +15,7 @@ A Spy's eight career skills are [B]Computers, Cool, Coordination, Deception, Kno
 
 [P]The Alliance's reliance on Spies cannot be understated. Together with other specialist operatives, Spies are critical to the Rebellion's chance for success. Their skills and talents play a crucial role in balancing the scales against the Empire's overwhelming superiority in both forces and resources. As the war progresses, however, the Alliance can no longer treat its Spies as untouchable assets, never to be unduly risked; more and more, Spies are being called on to make direct strikes against the targets from which they are sent to gain information.</Description>
   <Source Page="94">Age of Rebellion Core Rulebook</Source>
-  <Custom>CustomItem</Custom>
+  <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>COMP</Key>
     <Key>COOL</Key>

@@ -3,7 +3,20 @@
   <Key>REPREP</Key>
   <Name>Republic Representative</Name>
   <Description>[H4]Republic Representative[h4]
-Please see page 33 of the Rise of the Separatists Sourcebook for details.</Description>
+Resolving the conflicts of thousands of civilizations across the galaxy is a colossal undertaking, yet the Galactic Senate takes that as its function. The Senators who debate and negotiate within the Senate rotunda represent entire planets or corporate organizations; each Senator is a single voice speaking for millions. Yet, in representing such a massive constituency it is almost impossible for one person to balance the needs of the myriad smaller groups within the whole. For this reason, many worlds have one or more Republic Senate representatives, sometimes known as junior representatives, nonvoting members of the Senate who represent a minority political party or species. Representatives work closely with Senators as a delegation, to better represent the interests of a planet's entire population. Republic Representatives are expert politicians in their own right , working with each other and their world's Senator to determine what problems—or solutions—they should collectively bring before the Galactic Senate.
+
+[H4]ENVOYS IN THE ROTUNDA[h4]
+
+[P]The retinue of a Senator is, in many ways, like a miniature Senate of its own. Because no Senator can be familiar with all of the diverse cultures they represent, the many junior representatives who work with them stand in as the voices of their constituents. Each representative is sent to represent a distinct population or political coalition. A representative must be a master of diplomacy to ensure that their constituency's issues are taken seriously by the rest of their delegation, and they must be adaptable enough to retain the favor of their Senator and their political allies. Although a representative does not hold the power to vote or introduce legislation—except when fulfilling a Senator's duties during that Senator's leave of absence—they can sit on committees, and they receive all the same briefings as a Senator.
+
+[P]To succeed in the Senate, a character with the specialization receives [B]Charm, Cool, Knowledge (choose any one),[b] and [B]Negotiation[b] as additional career skills. When a character takes this specialization the player chooses one Knowledge skill appropriate for the group the character represents to become a career skill. The Senate is a stressful and dangerous place, full of competing interests and shifting loyalties. The ability to keep one's head when being rebuked by a Senator is highly sought after, as is a composure that betrays no hint of betrayal when a political alliance is going sour.
+
+[P]A Senator's responsibilities keep them on Coruscant much of the time, while those of a Republic Representative often take them away from the Senate. As an intermediary between their homeworld and the heart of the Republic, a Republic Representative is often among the stars, visiting the people of their world or carrying out assignments for the Senator. They tend to be more worldly than the full Senators of the rotunda, and most develop a wide network of associates among the less politically active communities of their homeworld.
+
+[P]However, when a Senator has to step away from Coruscant for any reason, they appoint a highly regarded Republic Representative to act as their proxy and rake on all the roles and responsibilities of a full Senator in the interim. This is often seen as a mark of high esteem and a first step toward inheriting the position from the current Senator when their term ends.
+
+[P]As they are politicians, Republic Representatives rarely train in martial techniques. The intrigues of the Senate are complex enough that mastering its intricacies is a lifelong undertaking. Furthermore, the tenets of the Republic are ones of peace and democracy rather than strength and valor, so peaceful solutions are always preferred to violent confrontation. Truly skilled representatives don’t even need weapons to defend themselves, for the right words can defuse a dangerous situation. One might say that Republic Representatives are never truly unarmed—that their weapons are smooth charm and sharp critiques.
+</Description>
   <Source Page="33">Rise of the Separatists</Source>
   <Custom>AddedItem</Custom>
   <CareerSkills>

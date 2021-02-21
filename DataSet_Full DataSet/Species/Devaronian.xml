@@ -34,7 +34,7 @@ of dangerous predators, which continue to thrive on the largely Civilized world.
 [P][B]Language:[b] Nearly all Devaronians are fluent in Basic though some speak localized dialects specific to their culture on Devaron. Relatively few study the ancestral language of Devaronese.
 [P][B]Life on the Fringe:[b] Devaronians have become increasingly prominent in the less civilized portions of the Outer Rim over the last few decades, in part because of the Empire's distrust of aliens of all sorts. The legends associated with their appearance—as well as their natural durability—make them desirable as Hired Guns, particularly among less savory elements of society. Devaronian resourcefulness also suits as the lifestyles of Explorers, Colonists, and Bounty Hunters.</Description>
   <Source Page="100">Nexus of Power</Source>
-  <Custom>CustomItem</Custom>
+  <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>2</Agility>

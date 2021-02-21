@@ -7,7 +7,7 @@ The TIE/rp "Reaper" attack lander is easily recognizable for its trademark Siena
 [P]In accordance with its primary role, the craft sports considerably better defenses than others in the TIE line.
 [P]The TIE Reaper's advanced comm systems and powerful scanners are equally effective in relaying orders and monitoring a battle's progress, allowing it to fulfill a secondary function as a mobile command bunker. When it is used in this capacity, a Reaper's passenger complement might serve as bodyguards for an officer.</Description>
   <Source Page="59">Knights of Fate</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <Type>Starfighter</Type>
   <Categories>
     <Category>Starship</Category>

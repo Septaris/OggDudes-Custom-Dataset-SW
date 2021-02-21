@@ -17,7 +17,7 @@ This reptilian race has extended their nomadic tradition to the galaxy. Galactic
 [P][B]Perception of the Force:[b] Describing the Force as water or a river fits well with Vurks, who not only live on an aquatic world, but have wandered their planet much like the rain, rivers, and oceans. While Vurks don't have a specific connection to, or affinity for, the Force, certain concepts are easier for them to grasp due to their cultural background. Failure isn't a setback, but simply a new experience. Pick up and move on. This gives them an openness to try something different or try again in a new way, a perfect attitude for a Mystic.
 [P]Of the Vurks who initially tried to join the Jedi Order, most failed due to the rigid discipline. Instead of becoming bitter or discouraged, these petitioners merely saw this setback as part of their continual migration. Perhaps this was not the community they should be joining at this time. Oddly, a few of those who failed the initial tests later came back as better candidates.</Description>
   <Source Page="22">Unlimited Power</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>2</Agility>

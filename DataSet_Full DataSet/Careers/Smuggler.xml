@@ -21,7 +21,7 @@
 
 [P]Of course, the most profitable cargoes are the ones that will land someone in the Kessel spice mines if he's caught with them.</Description>
   <Source Page="80">Edge of the Empire Core Rulebook</Source>
-  <Custom>CustomItem</Custom>
+  <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>COORD</Key>
     <Key>DECEP</Key>

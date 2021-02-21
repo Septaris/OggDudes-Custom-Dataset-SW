@@ -16,7 +16,7 @@ Perhaps the most well-known slaves of the Hutts, the fierce and humorless Niktos
 
 [P][B]Language:[b] Unlike the Klatooinians and Vodrans, the Niktos have not abandoned their own language. Most Niktos are able to speak their native tongue, as well as Huttese. Many Niktos are also able to speak at least some Basic, though the limited articulation of their mouths can make them somewhat difficult to understand.</Description>
   <Source>Lords of Nal Hutta</Source>
-  <Custom>CustomItem</Custom>
+  <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>3</Brawn>
     <Agility>2</Agility>

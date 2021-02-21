@@ -18,7 +18,7 @@ Thisspiasians are a people with great passions tempered by measured calm and dis
 [P][B]Language:[b]Although planet-bound individuals are mostly literate in Thisspiasian, those who traveled offworld learned to read and write Basic quickly. The Empire has been trying to stamp out their language, but each attempt only emboldens them more. A few eschew learning Basic altogether in protest , but they are chided as foolish.
 [P][B]Perception of the Force:[b] Some Thisspiasians practice meditation while in their trancelike rest, using guided focus and discipline to sort thoughts and feelings. A select few push further, opening their minds and spirits to touch upon the Force. Furthermore, Oppo Rancisis, the Blood Monarch heir who lived decades before the rise of the Empire, became a Jedi Master and refused to take the throne. This historical connection to the Jedi Order and the common practice of meditation give Thisspiasians a strong connection to the Mystic tradition and to the Force.</Description>
   <Source Page="18">Unlimited Power</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>3</Agility>

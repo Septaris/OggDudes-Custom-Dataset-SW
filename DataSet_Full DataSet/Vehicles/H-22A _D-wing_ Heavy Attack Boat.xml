@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Key>D-WING</Key>
+  <Key>H22ADWING</Key>
   <Name>H-22A "D-wing" Heavy Attack Boat</Name>
   <Description>[H3]H-22A "D-wing" Heavy Attack Boat[h3]
 Marketed by manufacturer Incom as a heavy attack boat, the H-22A is closer to a shuttle than a true starfighter. A combination of attack fighter and landing craft, it is designed for use in combat environments. To this end, the H-22A is heavily armored and shielded, boasting considerably more protection than a dedicated starfighter. The broad, wide wings that give rise to the "D-wing" designation mount tandem-firing proton torpedo launch tubes, and dual light laser cannons jut from beneath the nose of the craft's extended fuselage, providing the pilot with a dedicated weapon. A transparisteel blister projects above the middle hull, protecting the turret gunner for the craft's twin heavy laser cannons. Finally, the gunner seated in the transparisteel-enclosed turret aft of the boat provides defensive fire and deals with pursuers, allowing the pilot and forward gunner to focus on a primary target or on safely delivering passengers.
 [P]The D-wing excels at blasting its way through fierce opposition in order to deposit a squad of fighters on a surface battlefield or to initiate a boarding action. The craft is a favorite of mercenary companies and certain aggressively minded adventurers, not to mention pirates across the Outer Rim.</Description>
   <Source Page="58">Knights of Fate</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <Type>Shuttle</Type>
   <Categories>
     <Category>Starship</Category>

@@ -2588,7 +2588,7 @@ Skakoans require methane to live, and wear special pressure suits to emulate the
 The precursors of the ancient Jedi faced much more primitive weapons than lightsabers and blasters, and so found heavy combat armor to be more worthwhile than did later generations. Although most such suits were destroyed in battle or by the passage of the millennia, on rare occasions, archaeologists or construction droids uncover ancient suits of metal armor in buried or forgotten ruins. With generous cleaning and repair work, this kind of ancient armor can prove serviceable, if heavy and burdensome. Some claim that such armor is effective against even modern blasters when worn by an individual strong in the Force, although weapon developers and metallurgists dismiss such stories.
 [P]While worn by a character with a Force rating of 1 or higher, ancient battle armor gains Defense 1.</Description>
     <Source Page="47">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Categories>
       <Category>Full Body</Category>
       <Category>Heavy</Category>
@@ -2614,7 +2614,7 @@ Katarn-class armor was originally designed for use by clone commandos during the
 [P]In addition to its numerous on-board systems, Katarn-class armor can be equipped with a modular backpack system that can be tailored to various battlefield roles. Special plug-in modules provide long-range comms, medpacs, extended oxygen supplies, and even power generation.
 [P]A full suit of Katarn-class armor provides a wearer with all the benefits of a combat scanner and a breath mask, and increases the wearer's encumbrance threshold by 3. In addition, the suit's systems remove [SE] from all Perception and Survival checks made by the wearer.</Description>
     <Source Page="47">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Categories>
       <Category>Full Body</Category>
       <Category>Hard Full Body</Category>
@@ -2655,13 +2655,13 @@ Katarn-class armor was originally designed for use by clone commandos during the
     <Soak>2</Soak>
   </Armor>
   <Armor>
-    <Key>ARCARMOR</Key>
+    <Key>PHASEIARC</Key>
     <Name>Phase I ARC Trooper Armor</Name>
     <Description>[H3]Phase I ARC Trooper Armor[h3]
 Worn by the Grand Army of the Republic's elite Advanced Recon Commandos. Phase I ARC armor filled a gap between standard clone trooper armor and the heavy, highly advanced Katarn-class armor. Like the clone trooper armor from which it is derived, Phase I ARC armor is a full suit of plastoid armor worn over a formfitting bodysuit. It has heavier armor on the forearms, thighs, and chest, and an advanced helmet that features a hardened long-range comlink. A skirtlike kama made from advanced armored textiles is worn around the waist, providing extra protection to the legs and groin, and each suit is equipped with a built-in load-bearing harness and a survival pack.
 [P]The various systems built into Phase I ARC trooper armor remove [SE] from all Perception checks made by the wearer and provide all the benefits of a hardened comlink. In addition, the integrated load-bearing harness increases the wearer's encumbrance threshold by 3.</Description>
     <Source Page="48">Knights of Fate</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Categories>
       <Category>Full Body</Category>
       <Category>Hard Full Body</Category>
@@ -2700,7 +2700,7 @@ Ayelixe/Krongbing's Climbsuit is a popular set of lightweight armor designed spe
 [P]Wearing a Climbsuit upgrades the ability of the wearer's checks to climb or rappel down a surface once. The Climbsuit also reduces damage and strain suffered from falling by 5 and reduces any related Critical Injury results from falling by 10.
 </Description>
     <Source Page="41">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Categories>
       <Category>Full Body</Category>
     </Categories>
@@ -2727,7 +2727,7 @@ Ayelixe/Krongbing's Climbsuit is a popular set of lightweight armor designed spe
 The Mk I NightStalker is a lightweight, surprisingly durable suit of armor that Bantin Corp recently produced. Marketed toward law enforcement and intelligence agencies, the NightStalker combines light-absorbing materials, armorweave, gel-insert plates, and sound dampening fabric to produce a suit that provides both respectable protection and decent passive stealth capabilities. The NightStalker is a full-body suit that covers everything but the wearer's eyes. It is typically worn with scanner goggles or other wearable vision-enhancement systems.
 [P]When wearing a NightStalker suit, the wearer adds automatic [SU] to Stealth checks he makes and adds automatic [TH] to social skill checks he makes.</Description>
     <Source Page="41">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Categories>
       <Category>Full Body</Category>
     </Categories>
@@ -2777,7 +2777,7 @@ The Mk I NightStalker is a lightweight, surprisingly durable suit of armor that 
 Cyricept's Mk IX Personal Mimetic Concealment Suits use active stealth technologies combined with advanced textiles to provide one of the best personal stealth suits available. When active, a mimetic suit uses an optical camouflage (OC) system that bends light around the wearer and reflects back images of the surrounding area. This OC system is combined with electromagnetic and heat shielding, sound bafflers, and other systems to render a wearer essentially invisible to both the naked eye and most common security sensors. To run these systems, mimetic suits require a small, high-output energy cell built into a belt or wristband. Mimetic suits consume energy at an extremely high rate, and a power pack is good for about an hour of constant use. Like all mimetic suits, the Mk IX is illegal to own and to sell to civilians. While they are primarily used by governmental intelligence and law enforcement agencies, many suits have found their way into the hands of dangerous criminals throughout the galaxy. 
 [P]Wearing a Mk IX Personal Mimetic Concealment Suit upgrades the ability of all Stealth checks made by the wearer twice. In addition, the Game Master may spend [TH][TH][TH] or [DE] on any Stealth check made by the wearer while the suit is active to have the suit's power pack run dry. The suit cannot be used again until the power pack is replaced; replacing a power pack requires a maneuver.</Description>
     <Source Page="42">Cyphers and Masks</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Categories>
       <Category>Full Body</Category>
     </Categories>
@@ -2873,8 +2873,8 @@ Waterweave is a composite material created out of native Semblan alloys and mine
     <Soak>1</Soak>
   </Armor>
   <Armor>
-    <Key>CF9REPFLIGHTS</Key>
-    <Name>CF-9 Republic Naval Flight Suit</Name>
+    <Key>FLIGHTCF9</Key>
+    <Name>CF-9 Naval Flight Suit</Name>
     <Description>[H3]CF-9 Republic Naval Flight Suit[h3]
 Clones assigned to operate starfighters, combat airspeeders, and similar vehicles are not typically issued full bodysuits of armor like their brethren in the infantry. Instead, the Republic Navy has developed new flight suits appropriate for combat missions. The CF-9 model flight suit  an attempt to offer everything a pilot needed for missions without exacerbating the already substantial cost of supplying fighter wings.
 The protect has been a mixed success in both regards  but it serves enough to satisfy the Senate.[P]
@@ -2882,7 +2882,7 @@ The CF-9 is lightly armored—just enough to provide basic protection in case th
 [P]CF-9  Flight suits include a built-in respirator. Characters wearing CF-9 Republic naval flight suits remove [SE] from Piloting (Space) and Piloting (Planetary) added due to the danger or physical stress of the action
 </Description>
     <Source Page="57">Rise of the Separatists</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Categories>
       <Category>Full Body</Category>
     </Categories>

@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+  <?xml version="1.0"?>
 <Motivations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Motivation>
     <Key>AMB</Key>
@@ -663,63 +663,63 @@ For Engineers, there is nothing that cannot be improved with a bit of thought an
     </SpecificMotivations>
   </Motivation>
   <Motivation>
-    <Key>MYSTERIES</Key>
+    <Key>MYSTERY</Key>
     <Name>Mysteries</Name>
     <Description>[H4]Mysteries[h4]
 Any being can be motivated by their ambition or a cause, but a Mystic tends to be deeply interested in the most fundamental mysteries of their universe. They want to understand their world on a profound, even instinctual level, and often eschew worldly things for such knowledge. Sometimes they seek the answers to these mysteries for personal growth and enlightenment. Sometimes they seek them for power. And sometimes. as they seek one, they find the other as well.</Description>
     <Source Page="35">Unlimited Power</Source>
     <Custom>AddedItem</Custom>
     <SpecificMotivations>
-      <Key>MYSTERIES5</Key>
-      <Key>MYSTERIES1</Key>
-      <Key>MYSTERIES3</Key>
-      <Key>MYSTERIES4</Key>
-      <Key>MYSTERIES10</Key>
-      <Key>MYSTERIES8</Key>
-      <Key>MYSTERIES6</Key>
-      <Key>MYSTERIES9</Key>
-      <Key>MYSTERIES2</Key>
-      <Key>MYSTERIES7</Key>
+      <Key>MYSTERY5</Key>
+      <Key>MYSTERY1</Key>
+      <Key>MYSTERY3</Key>
+      <Key>MYSTERY4</Key>
+      <Key>MYSTERY10</Key>
+      <Key>MYSTERY8</Key>
+      <Key>MYSTERY6</Key>
+      <Key>MYSTERY9</Key>
+      <Key>MYSTERY2</Key>
+      <Key>MYSTERY7</Key>
     </SpecificMotivations>
   </Motivation>
   <Motivation>
-    <Key>CHALLENGES</Key>
+    <Key>CHALLENGE</Key>
     <Name>Challenges</Name>
     <Description>[H4]Challenges[h4]
 A Warrior is defined by the ability and willingness to fight. It is in the Warrior's nature to rise to challenges, and these challenges test the Warrior's mettle and hone their skills. It is by seeking out and overcoming challenges that a Warrior improves. The challenges a Warrior faces are not all on a battle field, but a Warrior approaches challenges of every type with the same determination and zeal.</Description>
     <Source Page="32">Knights of Fate</Source>
     <Custom>AddedItem</Custom>
     <SpecificMotivations>
-      <Key>CHALLENGES4</Key>
-      <Key>CHALLENGES1</Key>
-      <Key>CHALLENGES5</Key>
-      <Key>LIBERATION</Key>
-      <Key>CHALLENGES8</Key>
-      <Key>CHALLENGES3</Key>
-      <Key>CHALLENGES2</Key>
-      <Key>CHALLENGES6</Key>
-      <Key>CHALLENGES9</Key>
-      <Key>CHALLENGES7</Key>
+      <Key>CHALLENGE4</Key>
+      <Key>CHALLENGE1</Key>
+      <Key>CHALLENGE5</Key>
+      <Key>CHALLENGE9</Key>
+      <Key>CHALLENGE8</Key>
+      <Key>CHALLENGE3</Key>
+      <Key>CHALLENGE2</Key>
+      <Key>CHALLENGE6</Key>
+      <Key>CHALLENGE10</Key>
+      <Key>CHALLENGE7</Key>
     </SpecificMotivations>
   </Motivation>
   <Motivation>
-    <Key>SECRETS</Key>
+    <Key>SECRET</Key>
     <Name>Secrets</Name>
     <Description>[H4]Secrets[h4]
 Spies deal with secrets. Secrets are often the reason for their missions, but aspects of secrecy can also be what drew them to become Spies in the first place. They might be driven to uncover secrets, believing no information should be hidden. Alternatively, they could have a desire to keep secrets secured and believe that sometimes society is better off not knowing the truth Motivations related to secrecy can help mold backgrounds for Spy characters and offer guidance in playing them, especially when dealing with enemy agents.</Description>
     <Source Page="32">Cyphers and Masks</Source>
     <Custom>AddedItem</Custom>
     <SpecificMotivations>
-      <Key>SECRETS5</Key>
-      <Key>SECRETS4</Key>
-      <Key>SECRETS2</Key>
-      <Key>SECRETS3</Key>
-      <Key>SECRETS1</Key>
-      <Key>SECRETS9</Key>
-      <Key>SECRETS10</Key>
-      <Key>SECRETS7</Key>
-      <Key>SECRETS6</Key>
-      <Key>SECRETS8</Key>
+      <Key>SECRET5</Key>
+      <Key>SECRET4</Key>
+      <Key>SECRET2</Key>
+      <Key>SECRET3</Key>
+      <Key>SECRET1</Key>
+      <Key>SECRET9</Key>
+      <Key>SECRET10</Key>
+      <Key>SECRET7</Key>
+      <Key>SECRET6</Key>
+      <Key>SECRET8</Key>
     </SpecificMotivations>
   </Motivation>
 </Motivations>

@@ -17,7 +17,7 @@
 
 [P]Any Explorer relatively new to the trade finds himself in the classic conundrum—he needs experience in order to attain the choicest contracts, yet he cannot gain that experience because he cannot get hired. As such, many Explorers will take on any opportunity to travel and work in the Outer Rim, gathering what knowledge and leads they can in order to build up their contacts. resources, and their library of maps and routes. Most commonly, Explorers are able to parlay their astrogation and pilot skills into work opportunities.</Description>
   <Source Page="67">Edge of the Empire Core Rulebook</Source>
-  <Custom>CustomItem</Custom>
+  <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>ASTRO</Key>
     <Key>COOL</Key>

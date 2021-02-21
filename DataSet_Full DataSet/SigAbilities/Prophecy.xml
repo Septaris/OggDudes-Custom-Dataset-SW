@@ -4,7 +4,7 @@
   <Name>Prophecy</Name>
   <Description>The future is always in motion, and trying to predict it through the Force is a tricky and even dangerous endeavor. Even if one can sift through the shifting strands of fate and pick out the future most likely to occur, trying to bring about or stop that future may cause one to take actions that end up having the opposite effect. Nevertheless, many Force users delve into the dangerous art of prophecy, because if they succeed, the rewards can be great beyond measure.</Description>
   <Source Page="36">Unlimited Power</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>
       <Abilities>

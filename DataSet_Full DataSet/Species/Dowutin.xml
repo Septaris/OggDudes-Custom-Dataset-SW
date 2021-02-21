@@ -23,7 +23,7 @@ The Dowutins are a long-lived species of muscle-bound humanoids. So extensive ar
 [P]Though few Dowutins ever trained as Jedi, those who did witness the Jedi in battle often developed a great respect for the Jedi's strength. In fact, such encounters preceded the recruitment of the majority of Dowutin Jedi, since only a Dowutin fully convinced of the power and skill of a smaller being would deign to release its offspring in to Jedi custody. Dowutins inducted into the order would continue their Padawan training far past the time their kin on Dowut had set out on their own.
 [P]Despite the scarcity of Dowutins in the Jedi's history, the species' great strength ensured their success as Warriors, even if some had difficulty with the subtler aspects of lightsaber combat. Any Dowutins seeking to follow the path of the Jedi must take pains, however, to unlearn many of their traditional ways. The Dowutin propensity for violence and arrogance can be a great asset in battle, but taken too far can lead to the dark sid e of the Force. Even greater susceptibility lies in the traditional Dowutin view of power and authority. A being with such beliefs who taps into the power of the Force is certain to find tempting the limitless strength it can offer. Taken to their extreme. such views bear a troubling resemblance to those of the Sith.</Description>
   <Source Page="18">Knights of Fate</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>3</Brawn>
     <Agility>1</Agility>

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Key>TX130SABERCLASS</Key>
+  <Key>TX130TANK</Key>
   <Name>TX-130 Saber-class Fighter Tank</Name>
   <Description>[H3]TX-130 [I]Saber[i]-class Fighter Tank[h3]
 The TX-130 is a light, quick-strike repulsortank first deployed by the Grand Army of the Republic as an anti-infantry and escort tank. Produced for the GAR by Rothana Heavy Engineering, the Saber was designed to provide fire support for infantry formations and to engage light enemy armor. Remarkably quick and nimble for an armored fighting vehicle, the TX-130 was sometimes compared to the Delta-7 [I]Aethersprite[i]-class starfighter due to its ability to get quickly into a fight, hit hard, and escape without a scratch. GAR and Jedi commanders used these fast little tanks to frightening effect during the Clone Wars, and more than one clone trooper unit was saved by the timely arrival of a squadron.
@@ -11,7 +11,7 @@ Some Sabers were equipped with beam cannon turrets in place of the standard twin
 [P]Sabers equipped with KB-50a beam cannons are used in heavy support roles, providing cover fire for more lightly armed Saber platoons and squads of infantry during advances and assaults.
 [P]A turret-mounted KB-50a Beam Cannon has the following profile: (Fire Arc All; Damage 7; Critical 3: Range (Medium); Breach 2, Burn 2, Slow-Firing 2, Vicious 1).</Description>
   <Source Page="54">Knights of Fate</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <Type>Repulsor Tank</Type>
   <Categories>
     <Category>Land Vehicle</Category>

@@ -21,7 +21,7 @@
 
 [P]Colonists are the consummate leaders, negotiators, inspirational speakers, and strategists. A Colonist can take any small group of capable operators and turn them into a true force to be reckoned with. A capable Colonist in a group can mean the difference between just getting by and doing something truly spectacular in the galaxy.</Description>
   <Source Page="62">Edge of the Empire Core Rulebook</Source>
-  <Custom>CustomItem</Custom>
+  <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>CHARM</Key>
     <Key>CORE</Key>

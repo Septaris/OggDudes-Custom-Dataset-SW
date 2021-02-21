@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Species xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Key>KUBAZCAM</Key>
+  <Key>KUBAZ</Key>
   <Name>Kubaz</Name>
   <Description>[H4]Kubaz[h4]
 Distinguished by their long snout and green-black skin as well as the whirling trill of their native tongue, the Kubaz flit from shadow to shadow. Their sensitive eyes observe what remains unseen by less perceptive species. Consummate pragmatists, the few Kubaz who travel beyond their homeworld of Kubindi do what is necessary to survive the dangers of life in Palpatine's regime. Keen senses and a willingness to set aside moral obligations that burden other species cement their place as some of the most sought-after spies and informants on all sides of the Galactic Civil War.
@@ -14,7 +14,7 @@ Distinguished by their long snout and green-black skin as well as the whirling t
 [P][B]Language:[b] Though most Kubaz understand Basic, they are unable to speak it. Their native tongue, Kubazian, is subtle and complex, combining shrill squeaks and whistles with the almost imperceptible snout motions so common among the Kubaz. Very few outsiders are capable of speaking Kubazian, but those who do earn a measure of respect for their efforts. 
 [P][B]Life in the Alliance:[b] Kubaz who join the Rebellion are rarely idealists. Instead, they recognize that both the Hutts and the Empire offer false promises and oppression to their people. This makes the Alliancean unlikely but logical choice. Their sharp senses and unwavering commitment to whatever task is set before them makes Kubaz natural spies, infiltrators, and assassins. These traits make them particularly suitable for performing many of the necessary but morally questionable missions that more idealistic freedom fighters are loathe to undertake.</Description>
   <Source Page="20">Cyphers and Masks</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>2</Agility>

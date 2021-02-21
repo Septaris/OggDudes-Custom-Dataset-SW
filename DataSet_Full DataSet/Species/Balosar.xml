@@ -13,7 +13,7 @@ Across the galaxy, Balosars are regarded as untrustworthy grifters and con artis
 [P][B]Language:[b] The Balosars speak their own language, also called Balosar. It combines rasping hisses and odd clicks with subtle gestures from their antennapalps. This makes it impossible for non-Balosars to communicate fluently; when outsiders speak the language, it comes off as stilted and crude. Balosars speak Basic and are as capable as humans of learning other languages. They also regularly use their antennapalps to pass simple messages to other Balosars without other species taking notice.
 [P][B]Life in the Alliance:[b] Most Balosars join the Rebel Alliance out of a simple desire to survive. Those who can tolerate the idealistic rhetoric of the Alliance find themselves in the unlikely position of being seen as valued assets because of their natural charm. Some Balosars find purpose or even hope among their new allies, discovering a renewed spirit and an unexpected sense of belonging.</Description>
   <Source Page="19">Cyphers and Masks</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
     <Agility>2</Agility>

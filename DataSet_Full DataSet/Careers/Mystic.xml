@@ -15,7 +15,7 @@ The Mystic's six career skills are [B]Charm, Coercion, Knowledge (Lore), Knowled
 
 [P]Many Mystics come from a culture where their connection to the Force has made them a person of importance. In some instances, they might have served as an advisor or even a magistrate. In other cases, their role could have been more religious or shamanic. They are likely to expect a certain degree of deference because of their previous experiences. This means many Mystics develop a powerful charisma and captivating presence. Some Mystics come by this naturally, able to convince others of what they have seen using soft words and persuasive arguments. Others work tirelessly to develop these personality traits, knowing that a compliment (or even a lie) in the right ear at the right time can quickly advance their goals.</Description>
   <Source Page="78">Force and Destiny Core Rulebook</Source>
-  <Custom>CustomItem</Custom>
+  <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>CHARM</Key>
     <Key>COERC</Key>

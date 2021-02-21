@@ -4,7 +4,7 @@
   <Name>Unmatched Ferocity</Name>
   <Description>All Warriors walk a fine line between ferocity and control. Some Warriors, particularly with the aid of the Force, can unleash a barrage of blows on a foe, overwhelming their defenses and ending a confrontation in one dramatic onslaught. Even when tempered with skill and control, such an assault draws on anger or other negative emotions, which might overtake the Warrior.</Description>
   <Source Page="35">Knights of Fate</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>
       <Abilities>

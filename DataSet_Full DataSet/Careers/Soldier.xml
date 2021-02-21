@@ -15,7 +15,7 @@ A Soldier's eight career skills are [B]Athletics, Brawl,  Knowledge (Warfare), M
 
 [P]On the battlefront, behind enemy lines, and across the galaxy, the true heart and soul of the Rebellion is found in the Soldiers who serve beneath its banner. The causes they fight for are justice and freedom from tyranny. The cost of failure is almost certainly death, not only for themselves, but for everyone and everything they love.</Description>
   <Source Page="88">Age of Rebellion Core Rulebook</Source>
-  <Custom>CustomItem</Custom>
+  <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>ATHL</Key>
     <Key>BRAWL</Key>
