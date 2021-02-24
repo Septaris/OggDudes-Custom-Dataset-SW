@@ -2894,4 +2894,34 @@ The CF-9 is lightly armored—just enough to provide basic protection in case th
     <Defense>1</Defense>
     <Soak>1</Soak>
   </Armor>
+  <Armor>
+    <Key>PIIARCARMOR</Key>
+    <Name>Phase II ARC Trooper Armor</Name>
+    <Description>[H3]Phase II ARC Trooper Armor[h3]
+Please see page 57 of the Collapse of the Republic Sourcebook for details.</Description>
+    <Source Page="57">Collapse of the Republic</Source>
+    <Custom>AddedItem</Custom>
+    <Categories>
+      <Category>Full Body</Category>
+      <Category>Hard</Category>
+      <Category>Hard Full Body</Category>
+    </Categories>
+    <Encumbrance>4</Encumbrance>
+    <HP>2</HP>
+    <Price>5000</Price>
+    <Rarity>7</Rarity>
+    <Restricted>true</Restricted>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Integrated comlink with scrambler capable of using all standard Republic communications protocols.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Survival pack incorporates emergency rations, a water filtration system, microfiber line, and a distress beacon.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <Defense>1</Defense>
+    <Soak>2</Soak>
+  </Armor>
 </Armors>
