@@ -57,7 +57,7 @@ More than machines, credits, or information, the people of the Alliance are the 
     <Description>
       [H4]Political Support[h4]
 
-Every blaster, starfighter, and thermal detonator in the galaxy is useless without the political will to truly challenge and overthrow Palpatine and his New Order. The Player Character understands this all too well and is determined to see to it that as many factions, systems, and sectors as possible come to the side—and the aid—of the Alliance against the Empire.</Description>
+Every blaster, starfighter, and thermal detonator in the galaxy is useless without the political will to truly challenge and overthrow Palpatine and his New Order. The Player Character understands this all too well and is determined to see to it that as many factions, systems, and sectors as possible come to the side—and the aid of— the Alliance against the Empire.</Description>
     <Source Page="47">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
   </Duty>
@@ -193,7 +193,7 @@ Efficient use of resources is a key to the success of the Rebel Alliance. Rebel 
     <Name>Rebel Base</Name>
     <Description>
       [H4]Rebel Base[h4]
-[P]If a campaign is centered around a Rebel Base, then, at the CM’s discretion, one or more of the characters may choose to have a Rebel Base be his Duty. This Duty behaves much like any other, and the CM can use the following as guidance for how to reflect it in the story. If multiple characters choose to have this be their Duty (or one of them, anyway), the CM should consider condensing it into a group Duty. A group Duty is tracked cumulatively. Whenever a group Duty triggers, it counts as triggering for all characters who share in it.
+[P]If a campaign is centered around a Rebel Base, then, at the GM’s discretion, one or more of the characters may choose to have a Rebel Base be his Duty. This Duty behaves much like any other, and the CM can use the following as guidance for how to reflect it in the story. If multiple characters choose to have this be their Duty (or one of them, anyway), the CM should consider condensing it into a group Duty. A group Duty is tracked cumulatively. Whenever a group Duty triggers, it counts as triggering for all characters who share in it.
 Generally, when one or more characters' Rebel Base Duty triggers, the narrative events should relate to that facility and its inhabitants. [P]At times, this could be relatively mundane. The bonus to the PCs’ wound thresholds might come from the base staff recognizing their hard work or even doing something special to make the team more at home. Alternatively, when it triggers, it might mean that the story focuses on the base itself in some way. Perhaps the base comes under attack, for instance, and
 the PCs’ increased wound thresholds represent their desire to protect their home. Much like any other Duty, a Rebel Base Duty provides the CM with plenty of narrative hooks.
 [P]Alternatively or in addition to any narrative ramifications, the GM can use the Rebel Base Duty triggering to offer the PCs chances to upgrade their stronghold. If the PCs are at the base, this could mean that an opportunity comes to them. Perhaps a smuggler reaches the base, offering to trade various important supplies for protection from bounty hunters, or a group of fresh recruits arrives and the PCs must train them to work as support staff and soldiers on the base. If this Duty triggers while the PCs are off-base, it might mean that they runs across a unique chance to improve the base, recruit a new staff member, or get much-needed supplies. At the GM’s discretion, when the Rebel base Duty triggers, the GM can offer the PCs an opportunity to acquire one of the base upgrades found on pages 88-89 without paying the normal price in credits for it.
@@ -250,7 +250,7 @@ cowardice, which harms both discipline and their own chances for advancement.</D
     <Name>Clear Skies</Name>
     <Description>
       [H4]Clear Skies[h4]
-The PC recognizes the danger that infantry units face from enemy air power. A pair of TIE fighters can turn certain victory on the ground into disasrer. This PC always has a plan to take out any enemy air support, whether through the judicious use of portable launchers, jammers, camouflage, concealing terrain, or even anti-air emplacement weapons.</Description>
+The PC recognizes the danger that infantry units face from enemy air power. A pair of TIE fighters can turn certain victory on the ground into disaster. This PC always has a plan to take out any enemy air support, whether through the judicious use of portable launchers, jammers, camouflage, concealing terrain, or even anti-air emplacement weapons.</Description>
     <Source Page="17">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
   </Duty>
@@ -268,7 +268,7 @@ While the troops of the Rebel Alliance know their cause to be just, the hopeless
     <Name>Psychological Warfare</Name>
     <Description>
       [H4]Psychological Warfare[h4]
-While Imperial stormtroopers might appear fearless and disciplined, others within the Imperial Army and Officer Corps aren't as willing to die for the Emporer. Some PCs recognize that it is possible to intimidate, confuse, or frighten an enemy to gain an advantage in an engagement, or avoid one altogether.</Description>
+While Imperial stormtroopers might appear fearless and disciplined, others within the Imperial Army and Officer Corps aren't as willing to die for the Emperor. Some PCs recognize that it is possible to intimidate, confuse, or frighten an enemy to gain an advantage in an engagement, or avoid one altogether.</Description>
     <Sources>
       <Source Page="17">Forged in Battle</Source>
       <Source Page="17">Cyphers and Masks</Source>
