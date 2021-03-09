@@ -4585,7 +4585,7 @@
   <Talent>
     <Key>VALFACT</Key>
     <Name>Valuable Facts</Name>
-    <Description>Once per encounter, perform a Valuable Facts action: make an [B]Average ([DI][DI]) Knowledge check[b]. If successful, add [TR] to one ally's skill check during the enounter.</Description>
+    <Description>Once per encounter, perform a Valuable Facts action: make an [B]Average ([DI][DI]) Knowledge check[b]. If successful, add [TR] to one ally's skill check during the encounter.</Description>
     <Sources>
       <Source>Force and Destiny Core Rulebook</Source>
       <Source>Desperate Allies</Source>
@@ -8156,7 +8156,7 @@
     <Activation>Action</Activation>
   </Talent>
   <Talent>
-    <Key>TEMPTRAIN</Key>
+    <Key>TEMPLETR</Key>
     <Name>Temple Training</Name>
     <Description>Before making a Lightsaber skill check, the character may spend one Destiny Point to add damage to the attack equal to his ranks in Knowledge (Lore).</Description>
     <Source Page="116">Dawn of Rebellion</Source>
@@ -9288,7 +9288,7 @@
   <Talent>
     <Key>LEARNOPP</Key>
     <Name>Learning Opportunity</Name>
-    <Description>Once per round, the character may spend [AD][AD][AD] from a checlk they fail to upgrade the ability of their next check once.
+    <Description>Once per round, the character may spend [AD][AD][AD] from a check they fail to upgrade the ability of their next check once.
 </Description>
     <Source Page="27">Rise of the Separatists</Source>
     <Custom>DescOnly</Custom>
@@ -9724,7 +9724,7 @@
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
-    <Key>SIDESIDE</Key>
+    <Key>SIDEBYSIDE</Key>
     <Name>Side By Side</Name>
     <Description>While the character and one or more engaged allies are wielding lightsabers, add [TH] to all combat checks that target the character or the allies.</Description>
     <Source Page="26">Rise of the Separatists</Source>
@@ -9756,9 +9756,7 @@
   <Talent>
     <Key>SINFLAT</Key>
     <Name>Sincerest Flattery</Name>
-    <Description>Once eper encounter when the character makes a check using a skill that another character has previously used durint the encounter, they add [BO][BO]
-
-</Description>
+    <Description>Once per encounter when the character makes a check using a skill that another character has previously used during the encounter, they add [BO][BO]</Description>
     <Source Page="27">Rise of the Separatists</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
