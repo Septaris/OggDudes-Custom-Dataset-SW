@@ -3281,7 +3281,7 @@
   <Talent>
     <Key>HEROICRES</Key>
     <Name>Heroic Resilience</Name>
-    <Description>Immediately after being hit by an attack but before suffering damage, spend 1 Destiny Point to increase soak by ranks in Resiliance.</Description>
+    <Description>Immediately after being hit by an attack but before suffering damage, spend 1 Destiny Point to increase soak by ranks in Resilience.</Description>
     <Source>Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
