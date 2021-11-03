@@ -17846,11 +17846,17 @@ Like many items made by the Vurk, Semblan daggers tend to serve at least two fun
     <Name>DC-15A Blaster Carbine</Name>
     <Description>[H3]DC-15A Blaster Carbine[h3]
 Blastechs DC-1 5A blaster carbine is the GARS standard-issue carbine. Every clone, from the greenest recruit to the most seasoned special operator. can use the DC-15A from the moment they are decant ed. A lighter, shorter-ranged cousin of the heavy and cantankerous DC-15, the DC-15A is accurate, easy to handle, and as reliable as a chrono.</Description>
-    <Source Page="51">Rise of the Separatists</Source>
+    <Sources>
+      <Source Page="51">Rise of the Separatists</Source>
+      <Source Page="51">Collapse of the Republic</Source>
+    </Sources>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
+      <Category>Carbine</Category>
       <Category>Blaster Carbine</Category>
+      <Category>Blaster</Category>
+      <Category>Ranged</Category>
     </Categories>
     <Encumbrance>3</Encumbrance>
     <HP>4</HP>
@@ -17860,7 +17866,6 @@ Blastechs DC-1 5A blaster carbine is the GARS standard-issue carbine. Every clon
     <SkillKey>RANGHVY</SkillKey>
     <Damage>9</Damage>
     <Crit>3</Crit>
-    <SizeHigh>10</SizeHigh>
     <RangeValue>wrMedium</RangeValue>
     <Qualities>
       <Quality>
@@ -18350,6 +18355,75 @@ The under-barrel mount typically mounts a high-powered flashlight that removes [
       <Quality>
         <Key>LINKED</Key>
         <Count>1</Count>
+      </Quality>
+    </Qualities>
+    <Range>Medium</Range>
+  </Weapon>
+  <Weapon>
+    <Key>DUSKBLADE</Key>
+    <Name>Duskblade</Name>
+    <Description>[H3]Duskblade[h3]
+Please see page 53 of the Collapse of the Republic Sourcebook for details.</Description>
+    <Source Page="53">Collapse of the Republic</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Melee</Type>
+    <Categories>
+      <Category>Cutting Edge Melee</Category>
+    </Categories>
+    <Encumbrance>2</Encumbrance>
+    <HP>1</HP>
+    <Price>1800</Price>
+    <Rarity>8</Rarity>
+    <SkillKey>MELEE</SkillKey>
+    <DamageAdd>3</DamageAdd>
+    <Crit>4</Crit>
+    <SizeHigh>10</SizeHigh>
+    <RangeValue>wrEngaged</RangeValue>
+    <Qualities>
+      <Quality>
+        <Key>PIERCE</Key>
+        <Count>2</Count>
+      </Quality>
+      <Quality>
+        <Key>SUPERIOR</Key>
+      </Quality>
+    </Qualities>
+    <Range>Engaged</Range>
+  </Weapon>
+  <Weapon>
+    <Key>NSBOW</Key>
+    <Name>Nightsister Energy Bow</Name>
+    <Description>[H3]Nightsister Energy Bow[h3]
+Please see page 52 of the Collapse of the Republic Sourcebook for details.</Description>
+    <Source Page="52">Collapse of the Republic</Source>
+    <Custom>AddedItem</Custom>
+    <Type>Energy Weapon</Type>
+    <Categories>
+      <Category>Ranged</Category>
+      <Category>Bow</Category>
+    </Categories>
+    <Encumbrance>4</Encumbrance>
+    <HP>2</HP>
+    <Price>2800</Price>
+    <Rarity>8</Rarity>
+    <Restricted>true</Restricted>
+    <SkillKey>RANGHVY</SkillKey>
+    <Damage>8</Damage>
+    <Crit>2</Crit>
+    <SizeHigh>10</SizeHigh>
+    <RangeValue>wrMedium</RangeValue>
+    <Qualities>
+      <Quality>
+        <Key>PIERCE</Key>
+        <Count>4</Count>
+      </Quality>
+      <Quality>
+        <Key>UNWIELDY</Key>
+        <Count>3</Count>
+      </Quality>
+      <Quality>
+        <Key>VICIOUS</Key>
+        <Count>2</Count>
       </Quality>
     </Qualities>
     <Range>Medium</Range>
