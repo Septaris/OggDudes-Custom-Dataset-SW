@@ -2982,7 +2982,7 @@
   <Talent>
     <Key>DECEPTAUNT</Key>
     <Name>Deceptive Taunt</Name>
-    <Description>Once per session, may make Deceptive Taunt action. Make opposed Deception check. If successful, one adversary must attack the character during adversary's next turn.</Description>
+    <Description>Once per session, may make Deceptive Taunt action. Make an opposed Deception check. If successful, one adversary must attack the character during adversary's next turn.</Description>
     <Source>Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -10122,5 +10122,16 @@
       <Type>General</Type>
     </ChooseCareerSkills>
     <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>HYPASSAULT</Key>
+    <Name>Hyperspace Assault</Name>
+    <Description>May use Astrogation or Knowledge: Warfare to determine their initiative during an encounter in which they are piloting or using a starship. When rolling [TR] from the check to choose the starting locations of all allied ships in the encounter.</Description>
+    <Sources>
+      <Source Page="39">Rise of the Separatists</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <Activation>Passive</Activation>
   </Talent>
 </Talents>
