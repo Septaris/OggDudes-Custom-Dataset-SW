@@ -523,7 +523,7 @@ Rigorous mental and physical discipline comes naturally to the character. He doe
     <Name>Frugality</Name>
     <Description>
       [H4]Frugality (Strength)[h4]
-There is strength inliving a simple life, not just in eschewing possessions but also in keeping relationships simple, so as not to be distracted from the bigger picture.</Description>
+There is strength in living a simple life, not just in eschewing possessions but also in keeping relationships simple, so as not to be distracted from the bigger picture.</Description>
     <Source Page="17">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Type>Strength</Type>
@@ -1495,7 +1495,7 @@ The character mistakes defiance for bravery. This merely serves to cause tension
     <Name>Condemnation</Name>
     <Description>
       [H4]Condemnation (Weakness)[h4]
-The character inisists on a standard that no one can bear. This includes the condemnation of the self, punishing oneself for transgressions imagined or actual.</Description>
+The character insists on a standard that no one can bear. This includes the condemnation of the self, punishing oneself for transgressions imagined or actual.</Description>
     <Source Page="17">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>

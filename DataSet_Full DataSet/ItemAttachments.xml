@@ -1089,7 +1089,7 @@ Hydraulic control circuits are a throwback to an earlier era of shipbuilding. In
 
 A good defense is crucial to keeping a starship operational in the rough and tumble space of the Outer Rim. P-K's AEGIS Shield Generators and other reinforced shield generators upgrade a ship's stock particle and ray shielding so as to make it stronger and to make the shields easier to manage. While the AEGIS improves only one defense zone at a time, further tinkering with these units has resulted in improved shield strength. This may be added to any ship or vehicle. 
 
-[P][B]Models indude:[b] Phoah-Kingsmeyer 721a AEGIS Shield Generator, KDY 880 Palisade Shield Generator, Sienar SH-2/a.Z Shield Reinforcement.</Description>
+[P][B]Models include:[b] Phoah-Kingsmeyer 721a AEGIS Shield Generator, KDY 880 Palisade Shield Generator, Sienar SH-2/a.Z Shield Reinforcement.</Description>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>3800</Price>
@@ -1204,7 +1204,7 @@ Upgraded hyperdrive generators increase a vessel's speed through hyperspace, all
     <Description>
       [H3]High-Output Ion Turbine[h3]
 
-A fast, powerful sublight engine, high output ion turbines increase a ship's raw, straight-line speed at the cost of slightly lower reliability. May be installed on any a irspeeder or starship. 
+A fast, powerful sublight engine, high output ion turbines increase a ship's raw, straight-line speed at the cost of slightly lower reliability. May be installed on any airspeeder or starship. 
 
 [P][B]Models Include:[b] Girodyne Ter40 High-Output Ion Turbine, Sienar Fleet Systems SFS-220 Ion Drives, Koensayr Manufacturing R800 Ion Ramjet.</Description>
     <Custom>DescOnly</Custom>
@@ -3913,7 +3913,7 @@ better to make passengers and guests feel at home.</Description>
     <Name>Magnetic Weapon Tether</Name>
     <Description>
       [H3]Magnetic Weapon Tether[h3]
-[P]A magnetic weapon tether is a reelatively simple modification that consists of a small magnetic device built into the weapon. The magnetic weapon tether allows the wielder to snap the weapon back to a readied position with a press of a button, rather than havin gto scramble to retrieve it. While many Force users might scoff at this ability - after all, why use a device for what they can do with the force anyway - others prefer to have the extra layer or safety, or wish to avoid using their Force powers openly in places where the Empire's presence is strong. This attachment can be applied to any weapon wielded in one hand that could logically benefit from a weapon tether.</Description>
+[P]A magnetic weapon tether is a reelatively simple modification that consists of a small magnetic device built into the weapon. The magnetic weapon tether allows the wielder to snap the weapon back to a readied position with a press of a button, rather than having to scramble to retrieve it. While many Force users might scoff at this ability - after all, why use a device for what they can do with the force anyway - others prefer to have the extra layer or safety, or wish to avoid using their Force powers openly in places where the Empire's presence is strong. This attachment can be applied to any weapon wielded in one hand that could logically benefit from a weapon tether.</Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -4067,7 +4067,7 @@ better to make passengers and guests feel at home.</Description>
     <Name>Armor Spikes</Name>
     <Description>
       [H3]Armor Spikes[h3]
-[P]While armor serces a largely defensive role for its wearers, that needn't be the rule. With the addition of spikes, blades, and other protrusions on areas covering shoulders, knuckles, feet, knees or elbows, armor can be turned ino a deadly weapon of last resort. The majority of such modifications are scratch-built, though a handful o f armor manufacturers mass-produce kits for the armor sets they sell. Largely popular with criminals, mercenaries, and bounty hunters, armor spikes lend an intimidating mien to anyone equipped with them. Some professionals prefer to keep such deadly modofications concealed and retractable, and these are perhaps the most dangerous of them all. This attachment can be attached to any armor that covers the arms or legs.      
+[P]While armor serces a largely defensive role for its wearers, that needn't be the rule. With the addition of spikes, blades, and other protrusions on areas covering shoulders, knuckles, feet, knees or elbows, armor can be turned into a deadly weapon of last resort. The majority of such modifications are scratch-built, though a handful o f armor manufacturers mass-produce kits for the armor sets they sell. Largely popular with criminals, mercenaries, and bounty hunters, armor spikes lend an intimidating mien to anyone equipped with them. Some professionals prefer to keep such deadly modofications concealed and retractable, and these are perhaps the most dangerous of them all. This attachment can be attached to any armor that covers the arms or legs.      
     </Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
@@ -4526,7 +4526,7 @@ While true cloaking devices are all but unhead of and limited to capital ships, 
     <Key>GUNNBRAIN</Key>
     <Name>Gunnery Droid Brain</Name>
     <Description>[H3]Gunnery Droid Brain[h3]
-Much more than a simiple targeting computer, a specialized droid brain can be installed on a ship to operate its weapons indepedantly or assist a sentient gunner. Although GoCorp's CD-14c model continues to prove popular with Technicians who want their ship to defend itself when necessary, some users complain of the droid's overly hostile antagonistic behavior. GoCorp continues to deny rumours of so-called "unanticipated activations". This attachment can be applied to any vehicle or starship.
+Much more than a simiple targeting computer, a specialized droid brain can be installed on a ship to operate its weapons independently or assist a sentient gunner. Although GoCorp's CD-14c model continues to prove popular with Technicians who want their ship to defend itself when necessary, some users complain of the droid's overly hostile antagonistic behavior. GoCorp continues to deny rumours of so-called "unanticipated activations". This attachment can be applied to any vehicle or starship.
 [P][B]Models Include:[b] GoCorp's CD-14c</Description>
     <Source Page="66">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -4770,7 +4770,7 @@ Installing a hyperdrive, even a relatively low-grade one, in an AD-15 takes up a
     <Key>AD15SHIELD</Key>
     <Name>(AD-15) Shield Generator Module</Name>
     <Description>[H3]Shield Generator Module  forAD-15[h3]
-Many fightercraft lack shields, including most of the Galactic Empire's TIE Series. Of course, many pilots view going into battle without shields as a sure sign of a death wish, Soldiers of fortune and others who fight for credits rather than ideology tend to prefer the thought of living to get paid to the prospect of dying gloriously for some intagible ideal, and so the highly customizable AD-15 can be fitted with shield generators to improve its durability.
+Many fightercraft lack shields, including most of the Galactic Empire's TIE Series. Of course, many pilots view going into battle without shields as a sure sign of a death wish, Soldiers of fortune and others who fight for credits rather than ideology tend to prefer the thought of living to get paid to the prospect of dying gloriously for some intangible ideal, and so the highly customizable AD-15 can be fitted with shield generators to improve its durability.
 [P][H4]&lt;font size=1&gt;Please see page 63 of the Special Modifications Sourcebook for details.&lt;/font&gt;[h4]</Description>
     <Source Page="63">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -4949,7 +4949,7 @@ The galaxy contains many perils, but one of the most common is radiation. From t
     <Key>REINFGAUNT</Key>
     <Name>Reinforced Gauntlets</Name>
     <Description>[H3]Reinforced Gauntlets[h3]
-Additional armor plating on the hands is a valuable upgrade for those who gavour heavier armor, as well as those who do welding jobs on starships and desire to keep all of their fingers. Not only does such extra plating provide additional protection, but it ensures that the wearer is never unarmed; after all, the guantles are heavy enough to shatter bones when used to deliver a punch. It also helps protect the user's hands in case they are ever stuck closing a blast door or shocked by a loose wireing while performing battlefield repairs. This attachment can be applied to any  armor with soak 2 or higher.
+Additional armor plating on the hands is a valuable upgrade for those who wear heavier armor, as well as those who do welding jobs on starships and desire to keep all of their fingers. Not only does such extra plating provide additional protection, but it ensures that the wearer is never unarmed; after all, the gauntlets are heavy enough to shatter bones when used to deliver a punch. It also helps protect the user's hands in case they are ever stuck closing a blast door or shocked by a loose wireing while performing battlefield repairs. This attachment can be applied to any  armor with soak 2 or higher.
 [P][B]Models Include:[b] Various models</Description>
     <Source Page="58">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -4990,7 +4990,7 @@ Additional armor plating on the hands is a valuable upgrade for those who gavour
     <Key>INTSLICGEAR</Key>
     <Name>Integrated Slicer Gear</Name>
     <Description>[H3]Integrated Slicer Gear[h3]
-Slicers must often conduct their work under strict time constraints and less than ideal conditions. By integrating a customized computer, dataports and gesture interface circuitry into worn armour, a slicer can ensure that the tools of the trade are always at hand and almost impossible to lose. A visor-mounted heads-up display or holographic image streams the data the slicer needs, while specially designed gloves or guantlets allow the slicer to manipulate code using nothing more than gestures and brief voice commands. This attachment can be applied to any armor.
+Slicers must often conduct their work under strict time constraints and less than ideal conditions. By integrating a customized computer, dataports and gesture interface circuitry into worn armour, a slicer can ensure that the tools of the trade are always at hand and almost impossible to lose. A visor-mounted heads-up display or holographic image streams the data the slicer needs, while specially designed gloves or gauntlets allow the slicer to manipulate code using nothing more than gestures and brief voice commands. This attachment can be applied to any armor.
 [P][B]Models Include:[b] MerenData Mobile XR-1, numerous custom variants</Description>
     <Source Page="58">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -6130,7 +6130,7 @@ blaster pistols and other sidearms to achieve results
 similar to that of the spread barrel used on larger,
 more powerful blasters. Beam splitters function by
 modifying the Galven pattern and carefully mounting
-three or more em itters into a honeycomb configuration inside a stock blaster barrel. Shots fired from a
+three or more emitters into a honeycomb configuration inside a stock blaster barrel. Shots fired from a
 weapon with this modification diffuse into a weaker,
 spread shot rather than the typical blaster bolt, giving a single shot the potential to connect with multiple targets. Rebel troops often use this upgrade to
 transform weaponry into effective standoff weapons
@@ -6282,7 +6282,7 @@ Few things are more dangerous to a ship than colliding with a mass shadow in hyp
     <Name>Podracer Engine</Name>
     <Description>
       [H3]Podracer Engine[h3]
-Podracer engines come in three varieties rocket motors, turbine engines, and high-performance ion engines. In the early days of Podracing, engines were salvaged and reuilt by talented amateurs. Single-stage heavy lift rockets, ion engines from crashed starfighters, air breathing turbojets from performance irspeeders, and even more exotic engine types were hauled out of scrapyards or dug out of old military depots and put to use on the racing circuits. Today most Podracer engines are either hand-built custom jobs built by big racing teams to their own exact specifications or mass produced engines from one of the major manufacturers. No matter their provenance, they are all too big, too fast and too loud for civilized racing, which is what makes them so appealing for Podracers.
+Podracer engines come in three varieties rocket motors, turbine engines, and high-performance ion engines. In the early days of Podracing, engines were salvaged and reuilt by talented amateurs. Single-stage heavy lift rockets, ion engines from crashed starfighters, air breathing turbojets from performance airspeeders, and even more exotic engine types were hauled out of scrapyards or dug out of old military depots and put to use on the racing circuits. Today most Podracer engines are either hand-built custom jobs built by big racing teams to their own exact specifications or mass produced engines from one of the major manufacturers. No matter their provenance, they are all too big, too fast and too loud for civilized racing, which is what makes them so appealing for Podracers.
 [P]Podracer engines must be installed in matched sets usually in multiples of two. Doing otherwise makes for a poorly balanced, finicky, unreliable Podracer that is  by its mismatched nature, even more dangerous than usual.
 [P][B]Models Include:[b] TurboDyne 99-U, Manta RamAir Mk. IV Flat Twin Turbojet, JAK Racing J930 Dash-8, Radon-Ulzer 620C S&amp;K JZ-5 Fusial Thrust Engine, Incom 2a Fission Engine.</Description>
     <Source Page="60">Endless Vigil</Source>
@@ -6442,7 +6442,7 @@ Podracing attracts a wide range of pilots, from those who delight in testing the
     <Name>Handling Upgrades</Name>
     <Description>
       [H3]Handling Upgrades[h3]
-Podracer handling upgrades encompass a wide array of systems and technologies designed to make Podracers easier to pilot. These upgrades can be tiny, variable pitch jets and movable repulsor fields to brute force counterweights that slide into special compartments to counteract intertia. While such upgrades do increase a Podracer's handling capabilities, no amount of modification is likely to likely to make the exceedingly fast and fragile race vehicle easy enough to handle for a human pilot.
+Podracer handling upgrades encompass a wide array of systems and technologies designed to make Podracers easier to pilot. These upgrades can be tiny, variable pitch jets and movable repulsor fields to brute force counterweights that slide into special compartments to counteract inertia. While such upgrades do increase a Podracer's handling capabilities, no amount of modification is likely to likely to make the exceedingly fast and fragile race vehicle easy enough to handle for a human pilot.
 [BR][B]Models Include:[b] Incom ETX Mk. I Etheric Rudder, Slayn &amp; Korpil Vitus-Series Attitude Thrusters, Bespid Motors PinPoint II Targeted Repulsor Generator.</Description>
     <Source Page="59">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
@@ -7475,7 +7475,7 @@ Suppressors are used by assassins and sharpshooters to make their weapons queite
     <Name>Motion Tracker</Name>
     <Description>
       [H3]Motion Tracker[h3]
-The sophisticated device incorporates a full suite of onboard sensors and computers to track and predict the motion of a target, then feed that data back to the user through a variety of means, including a helmet HUD, a hardwirded feed  jacked directly into the brain, or other methods. The system might involve motive-actuators within the weapon to subtly adjust aim, or it might interface with motorized gloves. This attachment can be applied to any Ranged (Heavy) weapon.
+The sophisticated device incorporates a full suite of onboard sensors and computers to track and predict the motion of a target, then feed that data back to the user through a variety of means, including a helmet HUD, a hardwired feed  jacked directly into the brain, or other methods. The system might involve motive-actuators within the weapon to subtly adjust aim, or it might interface with motorized gloves. This attachment can be applied to any Ranged (Heavy) weapon.
 [BR][B]Models Include:[b] CryonCorp Xv3 "Surefire" Motion Predictor, Industrial Automaton A-3 Tracking Computer.</Description>
     <Source Page="50">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
@@ -7731,8 +7731,8 @@ There are as many ways of boosting the output of a Podracer's engine as there ar
     <Name>Environmental Adaption Kit</Name>
     <Description>
       [H3]Environmental Adaption Kit[h3]
-      The varied and often hazardour environments found throughout the galaxy have a tendency to hinder and harm even the sturdiest, most well-built pieves of equipment. Ranged weapons, especially energy weapons like blasters, are particularly susceptible to environmental damage. Dirt, dust and sand can scratch fog lenses, reducing a blaster beam's cohesion and therefore its range and damage potential. Moisture can collect in barrels and recievers, corroding galven circuitry or rusting bolts and strikers. More exotic environments can wear away at weapons with heat, caustic gases, or damaging ionization.
-[P]To combat these dangers, most weapon and wepaon accessory manufacturers produce Environmental adaption kits. Primarly just collections of seals and protective covers, these kits grant a weapon an added layer of protection against the wear and tear of regular use in hotile environments. While some are for general use, most of these kits are designed for specific environments: dusty, cold, caustic, etc. Environmental adaptation kits can be attached to any ranged weapon.
+      The varied and often hazardous environments found throughout the galaxy have a tendency to hinder and harm even the sturdiest, most well-built pieves of equipment. Ranged weapons, especially energy weapons like blasters, are particularly susceptible to environmental damage. Dirt, dust and sand can scratch fog lenses, reducing a blaster beam's cohesion and therefore its range and damage potential. Moisture can collect in barrels and recievers, corroding galven circuitry or rusting bolts and strikers. More exotic environments can wear away at weapons with heat, caustic gases, or damaging ionization.
+[P]To combat these dangers, most weapon and wepaon accessory manufacturers produce Environmental adaption kits. Primarly just collections of seals and protective covers, these kits grant a weapon an added layer of protection against the wear and tear of regular use in hostile environments. While some are for general use, most of these kits are designed for specific environments: dusty, cold, caustic, etc. Environmental adaptation kits can be attached to any ranged weapon.
 [P][B]Models Include:[b] Various models and manufacturers.
 [P][I]Note: If this kit is for a specific environment, rename the kit to specify the environment.[i]
     </Description>
@@ -7890,7 +7890,7 @@ Creshaldyne Industries' Mk. III Modular Backpack is a civilian version of its po
     <Name>Pannier Modular Cargo Handling System</Name>
     <Description>
       [H3]Pannier Modular Cargo Handling System[h3]
-Designed by Piccatech Ltd., the Pennier system is designed to fit as much cargo on a beast as it can carry in an efficient and secure manner. Its base is a specially designed load-bearing harness equipped with quick-release hardwar. From this harness, a beast handler or teamster can hang a variety of secure, hard sided cargo containers. Made from either plasteel or reinforced fiberweave, the cargo containers are built in a variety of shapes and sizes to suit individual users' needs. The containers are equipped wotj am environmentally sealed locking lid that secures cargo and protects it from dirt, water and other contaminants.
+Designed by Piccatech Ltd., the Pennier system is designed to fit as much cargo on a beast as it can carry in an efficient and secure manner. Its base is a specially designed load-bearing harness equipped with quick-release hardware. From this harness, a beast handler or teamster can hang a variety of secure, hard sided cargo containers. Made from either plasteel or reinforced fiberweave, the cargo containers are built in a variety of shapes and sizes to suit individual users' needs. The containers are equipped wotj am environmentally sealed locking lid that secures cargo and protects it from dirt, water and other contaminants.
 [P]The Pannier Modular Cargo Handling system comes with two cargo containers and can only be worn by riding or working animals of silhouette 2 or larger. It increases the creature's encumbrance threshold by 6, plus an additional 3 points of encumbrance threshold for each additional cargo containers added to the system (to a maximum increase of 12).</Description>
     <Source Page="46">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
@@ -8051,7 +8051,7 @@ A prisoner lockup is an aftermarket modification that provides a ship with a com
     <Name>Micro-Rocket Armor Mounting</Name>
     <Description>
       [H3]Micro-Rocket Armor Mounting[h3]
-Micro-rockets are flexible (if dangerous) weapons favored as secondary arms by many bounty hunters (see [B]Micro-Rockets[b] on page 46), and generally fired from a mount installed in the wielder's armor. This attachment can be intalled on any armor.
+Micro-rockets are flexible (if dangerous) weapons favored as secondary arms by many bounty hunters (see [B]Micro-Rockets[b] on page 46), and generally fired from a mount installed in the wielder's armor. This attachment can be installed on any armor.
 [BR][B]Models Include:[b] BlasTech Mag-Clip Micro-Rocket Mounting, Goseia HIC "Last Word" Launch/Targeter System, countless custom variants.
     </Description>
     <Source Page="52">No Disintegrations</Source>

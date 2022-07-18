@@ -23,7 +23,7 @@ The [I]Punworcca 116[i]-class Interstellar Sloop is a solar sailer-a beautiful a
     </Mod>
     <Mod>
       <Count>1</Count>
-      <MiscDesc>[B]Let Out The Sail:[b] When the [I]Punworcca 116[i] has its massive sail unfurled, its silhouette is increased from 3 to 5. Its port and starboard defenses are lowered from 2 to 0. Without the sail unfurled, though, the primary hyperdrive cannot be used. If the sail is damaged, the primary hyperdrive is inoperable, forclng the use of an extremely sub-standard class 15 backup drive.</MiscDesc>
+      <MiscDesc>[B]Let Out The Sail:[b] When the [I]Punworcca 116[i] has its massive sail unfurled, its silhouette is increased from 3 to 5. Its port and starboard defenses are lowered from 2 to 0. Without the sail unfurled, though, the primary hyperdrive cannot be used. If the sail is damaged, the primary hyperdrive is inoperable, forcing the use of an extremely sub-standard class 15 backup drive.</MiscDesc>
     </Mod>
   </BaseMods>
   <HyperdrivePrimary>1</HyperdrivePrimary>

@@ -264,7 +264,7 @@ Some characters take to tinkering as children or as adolescents, displaying a pr
     <Name>Tech Designer</Name>
     <Description>
       [H4]Tech Designer[h4]
-Some Technicians believe that no matter what problem a being faces, the answer always lies in building a better solution, If a starship engine is powerful, it can be made more compact. If a cybernetic arm is as precise as an organic one, it can be made even more exact. Technology transforms the galazy, and those at the cutting edge of design have the power to create a future in their own image.</Description>
+Some Technicians believe that no matter what problem a being faces, the answer always lies in building a better solution, If a starship engine is powerful, it can be made more compact. If a cybernetic arm is as precise as an organic one, it can be made even more exact. Technology transforms the galaxy, and those at the cutting edge of design have the power to create a future in their own image.</Description>
     <Source Page="15">Special Modifications</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -426,7 +426,7 @@ Not all Seekers avoid the centers of galactic activity because they are pursuing
     <Description>
       [H4]Exile[h4]
 While many Seekers choose their paths, some are set upon them by events beyond their control. Whether they are cast adrift by the will of the Force or just cruel chance is difficult to say, but these new circumstances demand that Seekers adapt quickly. They might be constantly on the run from the past they left behind, dodging bounty hunters, Imperials, or even their own family and former friends. Alternatively, these characters might simply be cut off from what was once their home, unable to return because of the events that precipitated their departure.
-[P]Although most exiles long for their past life to some degree. This longing is rarely more than bittersweet. By leaving the past behind, they have freed themselves from what once was and have plunged into a crucible of new adventures that call with an intesity their old life rarely offered. Any one might have to reluctantly leave their home, but the best Seekers are those who leave and never look back.</Description>
+[P]Although most exiles long for their past life to some degree. This longing is rarely more than bittersweet. By leaving the past behind, they have freed themselves from what once was and have plunged into a crucible of new adventures that call with an intensity their old life rarely offered. Any one might have to reluctantly leave their home, but the best Seekers are those who leave and never look back.</Description>
     <Source Page="12">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -454,7 +454,7 @@ Many Sentinels start off as activists in some form of another. Even unawaked to 
     <Name>Quester</Name>
     <Description>
       [H4]Quester[h4]
-Sometimes, Seekers are not content to bide their time in the fringes of society or to follow the guidence of the Force to hidden wisdom. They might do those things out of necessity, but more often than not, Seekers set their own goals establishing new trails for thei own reasons. Such Seekers, find a reason to go out into the galaxy, whether to wilderness, cityscape, or deep space areas, and track down a new secret, treasure, or target. Then, having found what they were looking for, they set their sights on a new goal. Questing Seekers are always in motion, pushing the boundaries of their lives and the galaxy alike. These Seeker aren't easily defined by their pasts, but rather by the missions they seek out new challenges and the methods by which they pursue them.</Description>
+Sometimes, Seekers are not content to bide their time in the fringes of society or to follow the guidance of the Force to hidden wisdom. They might do those things out of necessity, but more often than not, Seekers set their own goals establishing new trails for thei own reasons. Such Seekers, find a reason to go out into the galaxy, whether to wilderness, cityscape, or deep space areas, and track down a new secret, treasure, or target. Then, having found what they were looking for, they set their sights on a new goal. Questing Seekers are always in motion, pushing the boundaries of their lives and the galaxy alike. These Seeker aren't easily defined by their pasts, but rather by the missions they seek out new challenges and the methods by which they pursue them.</Description>
     <Source Page="13">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -463,7 +463,7 @@ Sometimes, Seekers are not content to bide their time in the fringes of society 
     <Name>Thrill of the Hunt</Name>
     <Description>
       [H4]Thrill of the Hunt[h4]
-The hunting of sentient beings is said by some to be the most thrilling and treacherous challenge in the galaxy. Though some beasts are more powerful, faster, or more savage than any sentient creature, few kinds of prey are more cunning. For most bounty hunters, the pursuit of targets from world to world and sector to secotr is simply a means to an end. For some, however the hunt is an end unto intself, and the payout for collecting the bounty is simply an added bonus.</Description>
+The hunting of sentient beings is said by some to be the most thrilling and treacherous challenge in the galaxy. Though some beasts are more powerful, faster, or more savage than any sentient creature, few kinds of prey are more cunning. For most bounty hunters, the pursuit of targets from world to world and sector to secotr is simply a means to an end. For some, however the hunt is an end unto itself, and the payout for collecting the bounty is simply an added bonus.</Description>
     <Source Page="16">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -959,7 +959,7 @@ Spies are frequently after information that isn’t simply stored in Imperial da
     <Key>REPOSPECIALIST</Key>
     <Name>Repo Specialist</Name>
     <Description>[H4]Repo Specialist[h4]
-Not all Spy recruits come from honourable professions. Many already operate in the gray regions of galactic society. One such profession is the starship repossession specialist, more commonly known as repo specialist. Some work for legitimate corporations under Imperial licenses and laws. Most, though, work for shady third-party resellers, used starship lots, or even criminal syndicates. In any case, repo specialists use a combination of bounty hunting, burglary, intimidation, and stealth to find and repossess their target. While they might have the legal authority to do so, their techniques work for either side of the law.
+Not all Spy recruits come from Honorable professions. Many already operate in the gray regions of galactic society. One such profession is the starship repossession specialist, more commonly known as repo specialist. Some work for legitimate corporations under Imperial licenses and laws. Most, though, work for shady third-party resellers, used starship lots, or even criminal syndicates. In any case, repo specialists use a combination of bounty hunting, burglary, intimidation, and stealth to find and repossess their target. While they might have the legal authority to do so, their techniques work for either side of the law.
 [P]A tremendous range of security systems is employed in the protection of starships and vehicles. Some vehicles have nothing at all or only require a basic key or code to access and start. Others have advanced systems with sensors for detecting innumerable methods of attack. While high-end and expensive craft can be expected to have many layers or protection, even relatively mundane or innocuous-looking ships could be so equipped, if the owner is rich and paranoid enough. Combined with ray shields, traps, or weapons, these security systems can be dangerous and even lethal to repo specialists.
 [P]Of course, none of that matters if the repo specialist cannot find the ship to begin with. While repo specialists usually get some sort of address or suspected location from their employer, vehicle owners behind in their payments are unlikely to remain in the area if they suspect someone is after them. Additionally, hyperspace-capable starships could jump to almost anywhere in the galaxy, making discovery efforts even more difficult.</Description>
     <Source Page="15">Cyphers and Masks</Source>

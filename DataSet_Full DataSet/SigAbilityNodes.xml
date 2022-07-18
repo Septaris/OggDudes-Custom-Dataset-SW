@@ -6,7 +6,7 @@
     <Description>Once per game session, the character may perform an Insightful Revelation action and spend 2 Destiny points to make a [B]Hard ([DI][DI][DI]) Knowledge (Education) check[b]. If he succeeds, he learns some valuable information that he did not previously possess pertaining to his current situation. What he learns is up to the GM. but it must be valuable to the player overcoming his immediate encounter or situation, and the information cannot be obtainable by any other immediately available means. </Description>
     <Source>Far Horizons</Source>
     <Custom>DescOnly</Custom>
-    <SigAbility>Insighful Revelation</SigAbility>
+    <SigAbility>Insightful Revelation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>INSIGHTFULSETBACK</Key>

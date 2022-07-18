@@ -1773,7 +1773,7 @@ The character loves to work with a specific type of machine, sometimes to the po
     <Name>Technical Business Interests</Name>
     <Description>
       [H4]Technical Business Interests[h4]
-The character strives to own and operate a successful legal or outlaw business in a particular area of expertise. The business might consume all of the character's time when not out adventuring with the other PCs. It might run itself in the character's absence by way of employees or automation or it might go on hiatus whenever the character has to go galivanting across the galaxy. However, it is always on the character's mind, and the character is likely looking for ways to expand or improve it even when away.</Description>
+The character strives to own and operate a successful legal or outlaw business in a particular area of expertise. The business might consume all of the character's time when not out adventuring with the other PCs. It might run itself in the character's absence by way of employees or automation or it might go on hiatus whenever the character has to go gallivanting across the galaxy. However, it is always on the character's mind, and the character is likely looking for ways to expand or improve it even when away.</Description>
     <Source Page="37">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Innovation</Motivation>
@@ -2175,7 +2175,7 @@ attempt to assuage his anguish for the lives he feels he's lost.</Description>
     <Name>Finish the Job</Name>
     <Description>
       [H4]Finish the Job[h4]
-It is a rare bounty hunter who keeps pursuing preyeven when it becomes clear that the hnt is not economically viable. This bounty hunter is one of the rare exceptions; her word is irrevocable, and once she has taken a contract, the character pursues it at all costs. While a job might be put on hiatus, once the hunt begins, she can never abandon or forget it—perhaps even if the client rescinds the bounty.</Description>
+It is a rare bounty hunter who keeps pursuing preyeven when it becomes clear that the hunt is not economically viable. This bounty hunter is one of the rare exceptions; her word is irrevocable, and once she has taken a contract, the character pursues it at all costs. While a job might be put on hiatus, once the hunt begins, she can never abandon or forget it—perhaps even if the client rescinds the bounty.</Description>
     <Source Page="37">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Code</Motivation>
@@ -2315,7 +2315,7 @@ Similar to Disenfranchisement, this Injustice sees one group using culture, law 
     <Name>Poverty</Name>
     <Description>
       [H4]Poverty[h4]
-Money makes modern civilization work. A lack of money results in not only an inability ot participate in modern society but also a dearth in access to resources that help a person earn an income in the first place. Money may not buy happiness, but the lack of money garantees misery and can lead to crime.</Description>
+Money makes modern civilization work. A lack of money results in not only an inability ot participate in modern society but also a dearth in access to resources that help a person earn an income in the first place. Money may not buy happiness, but the lack of money guarantees misery and can lead to crime.</Description>
     <Source Page="32">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Injustice</Motivation>
@@ -2385,7 +2385,7 @@ Beyond just the loss of voting rights, this can also mean the loss of other esse
     <Name>Self-Reliance</Name>
     <Description>
       [H4]Self-Reliance[h4]
-It's a dangerous galaxy, with governments being overthrown and entire planets being destroyed. No matter where, the character always works to avoid any need for halp for there will always be times when either no one else is present or able to offer assistance.</Description>
+It's a dangerous galaxy, with governments being overthrown and entire planets being destroyed. No matter where, the character always works to avoid any need for help for there will always be times when either no one else is present or able to offer assistance.</Description>
     <Source Page="32">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Pursuit</Motivation>
@@ -2395,7 +2395,7 @@ It's a dangerous galaxy, with governments being overthrown and entire planets be
     <Name>Efficiency</Name>
     <Description>
       [H4]Efficiency[h4]
-Life is a precious resource, and the character strives to waste as little as possible. Not only are the character's own actions examples of economical, effective perfection, but the character also always seeks to similarly imrpve other sentients, technologies, and even nature where possible, to these standards.</Description>
+Life is a precious resource, and the character strives to waste as little as possible. Not only are the character's own actions examples of economical, effective perfection, but the character also always seeks to similarly improve other sentients, technologies, and even nature where possible, to these standards.</Description>
     <Source Page="32">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Pursuit</Motivation>
@@ -2488,7 +2488,7 @@ do just about anything to prove himself and achieve the authority he knows he de
     <Description>
       [H4]Local Civilian[h4]
 Soldiers often form quick bonds with the people who live on worlds where they deploy. The connection
-may be with a farmer who sells produce to the troops, a local youth who shares a love of m ilitary technology, or a village 
+may be with a farmer who sells produce to the troops, a local youth who shares a love of military technology, or a village 
 elder whose venerable traditions strike a chord within the Soldier. This bond can be an asset, supplying the PC with
 unique inform action on the region, but can also cause the Soldier em otional strife if this friend is dragged into the war.</Description>
     <Source Page="36">Forged in Battle</Source>
@@ -2500,7 +2500,7 @@ unique inform action on the region, but can also cause the Soldier em otional st
     <Name>Tech</Name>
     <Description>
       [H4]Tech[h4]
-A Soldier m ight have one very specific piece of technology that is especially precious, such as a droid, a vehicle
+A Soldier might have one very specific piece of technology that is especially precious, such as a droid, a vehicle
 or customized rifle. The character works hard to safeguard it, and spends any spare tim e or money on maintaining,
 repairing, or upgrading this cherished machine.</Description>
     <Source Page="36">Forged in Battle</Source>

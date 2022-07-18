@@ -17,7 +17,7 @@ The Spectres commonly use the [I]Ghost[i] on their missions, which sadly means I
   <BaseMods>
     <Mod>
       <Count>1</Count>
-      <MiscDesc>[B]Sensor Jammer:[b] Upgrade the difficulty of checks from incoming scans to verify indentification of this ship as the Ghost once.</MiscDesc>
+      <MiscDesc>[B]Sensor Jammer:[b] Upgrade the difficulty of checks from incoming scans to verify identification of this ship as the Ghost once.</MiscDesc>
     </Mod>
   </BaseMods>
   <HyperdrivePrimary>1</HyperdrivePrimary>

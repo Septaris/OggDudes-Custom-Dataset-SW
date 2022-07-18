@@ -3016,7 +3016,7 @@
   <Talent>
     <Key>PWRBLST</Key>
     <Name>Powerful Blast</Name>
-    <Description>Increase Blast damage dealt by explosives, explosive weapons, and grenafes by +1 per rank of Powerful Blast.</Description>
+    <Description>Increase Blast damage dealt by explosives, explosive weapons, and grenades by +1 per rank of Powerful Blast.</Description>
     <Source Page="154">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
@@ -3141,7 +3141,7 @@
   <Talent>
     <Key>IMPDETIMP</Key>
     <Name>Improvised Detonation (Improved)</Name>
-    <Description>Reduce the difficulty of Improvis Detonation to [B]Average ([DI][DI]) and increase damage to twice ranks in Mechanics.</Description>
+    <Description>Reduce the difficulty of Improvise Detonation to [B]Average ([DI][DI]) and increase damage to twice ranks in Mechanics.</Description>
     <Source>Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -6537,7 +6537,7 @@
   <Talent>
     <Key>READANY</Key>
     <Name>Ready for Anything</Name>
-    <Description>Remove [SE] per rank of Ready for Anything on Mass Combat checks and Cool or Vigiliance checks to determine Initiateve order.</Description>
+    <Description>Remove [SE] per rank of Ready for Anything on Mass Combat checks and Cool or Vigiliance checks to determine Initiative order.</Description>
     <Source Page="34">Lead by Example</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
@@ -6668,7 +6668,7 @@
   <Talent>
     <Key>SUPHUMAN</Key>
     <Name>Superhuman Reflexes</Name>
-    <Description>Once per session, after generatin [DE] on a Piloting check cancel the [DE] and add [SU] equal to ranks in Cool.</Description>
+    <Description>Once per session, after generating [DE] on a Piloting check cancel the [DE] and add [SU] equal to ranks in Cool.</Description>
     <Source Page="31">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
@@ -8649,7 +8649,7 @@
   <Talent>
     <Key>BARROLLSUP</Key>
     <Name>Barrel Roll (Supreme)</Name>
-    <Description>When using Barrel Roll against certain weapons may spend [DE] or [TH][TH][TH] to infllict once hit on an enemy vehicle wihin close range, dealing base damage of the original attack
+    <Description>When using Barrel Roll against certain weapons may spend [DE] or [TH][TH][TH] to inflict once hit on an enemy vehicle wihin close range, dealing base damage of the original attack
 </Description>
     <Source Page="41">Rise of the Separatists</Source>
     <Custom>DescOnly</Custom>
@@ -9860,7 +9860,7 @@
   <Talent>
     <Key>TACTADVIMP</Key>
     <Name>Tactical Advance (Improved)</Name>
-    <Description>The character may spend [AD][AD] from any check they make or [TH][TH] from a combat check targeting them to perform the Tactical Advance Incedental insteead of suffering strain
+    <Description>The character may spend [AD][AD] from any check they make or [TH][TH] from a combat check targeting them to perform the Tactical Advance Incidental instead of suffering strain
 </Description>
     <Source Page="41">Rise of the Separatists</Source>
     <Custom>DescOnly</Custom>
@@ -10024,7 +10024,7 @@
   <Talent>
     <Key>DTHFRABOVE</Key>
     <Name>Death from Above</Name>
-    <Description>Once per encounter while using a jetpack, the character may take the Death from Above action, inflicing 1 system strain on their jetpack and making a [B]Hard ([DI][DI][DI])piloting (planetary) check[b]. If the check is successful, for each [SU], one adversary of silhouette 0 or 1 within short range is knocked prone. The character may spend [TRIUMPH] from teh check to stagger one affected adversary until the end of that adversary's next turn.</Description>
+    <Description>Once per encounter while using a jetpack, the character may take the Death from Above action, inflicting 1 system strain on their jetpack and making a [B]Hard ([DI][DI][DI])piloting (planetary) check[b]. If the check is successful, for each [SU], one adversary of silhouette 0 or 1 within short range is knocked prone. The character may spend [TRIUMPH] from teh check to stagger one affected adversary until the end of that adversary's next turn.</Description>
     <Source Page="29">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
     <Ranked>true</Ranked>
