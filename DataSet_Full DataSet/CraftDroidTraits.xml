@@ -59,7 +59,7 @@
   <CraftDroidTrait>
     <Key>POS8</Key>
     <Name>Cheerful</Name>
-    <Description>A good attittude is the first step to success (or so says this droid anyway).
+    <Description>A good attitude is the first step to success (or so says this droid anyway).
 </Description>
     <Source Page="83">Special Modifications</Source>
     <Custom>DescOnly</Custom>

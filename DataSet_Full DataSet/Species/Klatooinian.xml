@@ -45,7 +45,7 @@ Klatooinians are heavily built humanoids, roughly the height of the average huma
           <Key>KLATOC1OP1</Key>
           <Name>Additional Non-Career Skill</Name>
           <Description>
-            Klatooninians start the game with one additional rank of one non careet skill of his choice.
+            Klatooninians start the game with one additional rank of one non career skill of his choice.
           </Description>
           <StartingSkillTraining>
             <SkillTraining>

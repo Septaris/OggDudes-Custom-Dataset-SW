@@ -1588,7 +1588,7 @@ The character can sometimes spend far too long considering a matter, unable to f
     <Name>Condescension</Name>
     <Description>
       [H4]Condescension (Weakness)[h4]
-The character often treats less patient beings like childrean and dismisses their concerns. As a result, the character may overlook valuable insight from friends and allies.</Description>
+The character often treats less patient beings like children and dismisses their concerns. As a result, the character may overlook valuable insight from friends and allies.</Description>
     <Source Page="15">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>

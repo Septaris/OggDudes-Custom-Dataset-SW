@@ -216,8 +216,8 @@ Ideally, the players should decide what type of base they wish to establish when
 The form and capacity of a workshop is decided in large part by its location. A workshop in a cramped cargo bay aboard a tramp freighter does not have the capabilities of one that takes up a sprawling planetside warehouse, but it is mobile and secure in a way that the warehouse cannot match
 [P]All workshops worthy of the name provide the same basic utilities. A Technician's workshop offers storage space, including space to house large or unwieldly equipment as well as access to the essentials of tehnical work, such as power, tools and materials.
 [H3]Basic Benefits[h3] Upon acquiring a workshop, a character chooses the workshop's focus. This is a particular skill for which it is optimized and is on of the character's career skills for which a workshop is relevant (generally Computers, Mechanics or Medicine). When making checks with the workshop's focus skill, the character is always treated as having the right tools for the job (see page 171 of the [B]Edge of The Empire Core Rulebook[b]).
-[P]Further, a default workshop has space to store tools, equipment and other helpful accountrements up to 25 encumbrance.
-[H3]Advanced Benefits[h3] Advanced or expansive workshops can offer additional benedfites to appropriate projects or cover more types of work. Additional benefits include upgrading relevant checks, downgrading their difficulty or reducing the cost or time spent on a project. Depending on a workshop's location, there are certain limits to the effects of a workshop.
+[P]Further, a default workshop has space to store tools, equipment and other helpful accoutrements up to 25 encumbrance.
+[H3]Advanced Benefits[h3] Advanced or expansive workshops can offer additional benefits to appropriate projects or cover more types of work. Additional benefits include upgrading relevant checks, downgrading their difficulty or reducing the cost or time spent on a project. Depending on a workshop's location, there are certain limits to the effects of a workshop.
 [P]By default, a workshop has the capacity for three advanced benefits. The workshop's owner must acquire and install these in the workshop seperately. through narrative efforts or, at the GM's discretion, through time and labor.
     </Description>
     <Source Page="94">Special Modifications</Source>
@@ -245,7 +245,7 @@ The form and capacity of a workshop is decided in large part by its location. A 
     <Description>
       [H4]Shipboard Workshop[h4]
 For Technicians without a stable home a workshop on board a starship or vehicle may be the best option. Such workshops are often cramped and have limited potential for expansion but they are typically quite secure and offer unparalleled access to new clients and jobs. A Technician can put a shipboard workshop only on a craft of silhoette 4 or larger.
-[P][B]Basic Workshop:[b] A basic shipboard workshop takes up a spare storage compartment or cargo bay. It can only contain tools and supplies up to 20 total encumbrance, and it can accomodate three advanced benefits. At the GM's discretion, the workshop's owner can use on of the ship's unused hard points to increase the number of advanced benefits it can sustain by one. When a PC acquires an advanced benefit for a spacecraft, the character may choose a Low-Grav Workspace as that advanced benefit.</Description>
+[P][B]Basic Workshop:[b] A basic shipboard workshop takes up a spare storage compartment or cargo bay. It can only contain tools and supplies up to 20 total encumbrance, and it can accommodate three advanced benefits. At the GM's discretion, the workshop's owner can use on of the ship's unused hard points to increase the number of advanced benefits it can sustain by one. When a PC acquires an advanced benefit for a spacecraft, the character may choose a Low-Grav Workspace as that advanced benefit.</Description>
     <Source Page="95">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Cost />
@@ -302,7 +302,7 @@ For Technicians without a stable home a workshop on board a starship or vehicle 
     <Description>
       [H4]Industrial Workshop[h4]
       While Technicians who operate alone or with a small crew use private workshops out of necessity, thise with ties to larger groups, such as corporations or crime syndicates, often have other options. Powerful patrons might have access to their own facilities, which they can share with favored underlings. These workshops are often outfitted as befits the wealth and influence of their owner, but their use usally comes with the expectation that the patron gets a cut of the work done there.
-[P][B]Basic Workshop:[b] A basic industrial workshop usually consists of a building with workspaces for several assistants, a manufacturing facility that can handle the creation of prototypes and organized storage space. It can contain tools and supplies up to 60 total encumbrance. It automatically has on Additional Workspace advanced benefit, one Research Records advanced benefit and on Spare Parts Bin advanced benefit and it can accomodate any number of additional advanced benefits.</Description>
+[P][B]Basic Workshop:[b] A basic industrial workshop usually consists of a building with workspaces for several assistants, a manufacturing facility that can handle the creation of prototypes and organized storage space. It can contain tools and supplies up to 60 total encumbrance. It automatically has on Additional Workspace advanced benefit, one Research Records advanced benefit and on Spare Parts Bin advanced benefit and it can accommodate any number of additional advanced benefits.</Description>
     <Source Page="96">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Cost />

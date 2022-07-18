@@ -46,7 +46,7 @@ The Talz are a culturally and technologically primitive species native to the fr
         <Option>
           <Key>TALZCH1OP1</Key>
           <Name>Insulated fur</Name>
-          <Description>When making skill checks, Talz remove [SETBACK] imposed due to actic or cold environmental conditions.</Description>
+          <Description>When making skill checks, Talz remove [SETBACK] imposed due to arctic or cold environmental conditions.</Description>
         </Option>
       </Options>
     </OptionChoice>

@@ -9456,7 +9456,7 @@ that can serve as sniper weapons. The Verpine are a largely peaceful species, an
     <Name>Security S-5 Heavy Blaster Pistol</Name>
     <Description>
       [H3]Security S-5 Heavy Blaster Pistol[h3]
-[P]A pistol designed and manufactured by Theed Arms on Naboo, the Security S-5 is a reliable, versatile weapon. During the Clone Wars, it was a preferred weapon of the Royal Naboo Security Forces, and it remains a popular choice for private security groups, bodyguards and other blaster conoisseurs. Its under-barrel dart launcher can be configured to launch solid projectiles of various sorts; on eparticularly common choice is a grappling hook attached to a cable, which wielders can use to anchor themselves to nearby objects, swing across gaps, and safely descend into drops.
+[P]A pistol designed and manufactured by Theed Arms on Naboo, the Security S-5 is a reliable, versatile weapon. During the Clone Wars, it was a preferred weapon of the Royal Naboo Security Forces, and it remains a popular choice for private security groups, bodyguards and other blaster connoisseurs. Its under-barrel dart launcher can be configured to launch solid projectiles of various sorts; on eparticularly common choice is a grappling hook attached to a cable, which wielders can use to anchor themselves to nearby objects, swing across gaps, and safely descend into drops.
 [P]As an action, a character may make an Average ([DI][DI]) Ranged (Light) check to secure the grappling hook to an object within medium range. On success, as an action, he may reel in the cord, pullin ghimself to the object (or, if the object is unsecured and lighter than he is, pulling it to him). A character may use the grappling hook to pull another character aloft with him; if he does, he must make an Average ([DI][DI]) Athletics check to avoid losing his grip on either his partner or his gun.</Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
@@ -9594,7 +9594,7 @@ Though the Jedi Order was primarily known for its use of lightsabers, there have
     <Name>Energy Buckler</Name>
     <Description>
       [H3]Energy Buckler[h3]
-[P]An energy buckler consists of a metallic disc worn on the wielder's wrist. Once active, the disk projects a small, circular shield that can be used to block melee attacks. Given the nature of the energy shield, it can also be used a s a melee weapon to bash targets with a stunning blow. Though an active energy buckletr projects of a relatively nondescript circular energy field, the projecter disks themselves are often decorated to appear as mundane jewelry. An energy buckler has steep power requirements and can only be used for a short period of time before it must be recharged.
+[P]An energy buckler consists of a metallic disc worn on the wielder's wrist. Once active, the disk projects a small, circular shield that can be used to block melee attacks. Given the nature of the energy shield, it can also be used a s a melee weapon to bash targets with a stunning blow. Though an active energy buckler projects of a relatively nondescript circular energy field, the projecter disks themselves are often decorated to appear as mundane jewelry. An energy buckler has steep power requirements and can only be used for a short period of time before it must be recharged.
 [P]When the wielder is using an energy buckler, the GM can spend any [DE] the wielder generates on a combat check to have the energy buckler run out of power; it ceases to function until the end of the encounter or until recharged.</Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
@@ -9771,7 +9771,7 @@ Though the Jedi Order was primarily known for its use of lightsabers, there have
     <Name>Snap Baton</Name>
     <Description>
       [H3]Snap Baton[h3]
-[P]Snap batons are light, collapsible truncheons often employed by law enforcers and bounty hunters. With little more than a flick of the wrist, the baton can be extended to its full one-meter length. Once extended, the baton's weighted end can be used to inflict serious injusry on opponents. Due to the nature of the baton's construction, it provides a colid and punishing weapon in a very small package. Collapsing a snap baton requires that a stud be depressed while the wielder pushed it back into the handle. </Description>
+[P]Snap batons are light, collapsible truncheons often employed by law enforcers and bounty hunters. With little more than a flick of the wrist, the baton can be extended to its full one-meter length. Once extended, the baton's weighted end can be used to inflict serious injusry on opponents. Due to the nature of the baton's construction, it provides a solid and punishing weapon in a very small package. Collapsing a snap baton requires that a stud be depressed while the wielder pushed it back into the handle. </Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -9846,7 +9846,7 @@ Though the Jedi Order was primarily known for its use of lightsabers, there have
     <Name>Guard Shoto</Name>
     <Description>
       [H3]Guard Shoto[h3]
-[P]Similar to the shoto lightsaber, the guard shoto or lightsaber tonfa, is a lightsaber with its grip set perpendicular to the blade, allowing the wielder to rapidly switch betweek attack and defense, deflecting bolts and blows one moment and lashing out with circular attacks of blinding speed the next. While these versatile weapons are extremely difficult to master, they can be startlingly effective, especially when paired with cortosis gauntlets to protect against slips of the blade.
+[P]Similar to the shoto lightsaber, the guard shoto or lightsaber tonfa, is a lightsaber with its grip set perpendicular to the blade, allowing the wielder to rapidly switch between attack and defense, deflecting bolts and blows one moment and lashing out with circular attacks of blinding speed the next. While these versatile weapons are extremely difficult to master, they can be startlingly effective, especially when paired with cortosis gauntlets to protect against slips of the blade.
 [P]The lightsaber is a guard shoto hilt containing an unmodded Illum lightsaber crystal (see page 197 of the Force and Destiny core rulebook). This crystal occupies two of the weapons hardpoints.
 [P]When installing a lightsaber crystal into a guard shoto, decrease the damage of that lightsaber crystal by 1.</Description>
     <Source>Keeping the Peace</Source>
@@ -9892,7 +9892,7 @@ Though the Jedi Order was primarily known for its use of lightsabers, there have
     <Name>Guard Shoto Hilt</Name>
     <Description>
       [H3]Guard Shoto Hilt[h3]
-[P]Similar to the shoto lightsaber, the guard shoto or lightsaber tonfa, is a lightsaber with its grip set perpendicular to the blade, allowing the wielder to rapidly switch betweek attack and defense, deflecting bolts and blows one moment and lashing out with circular attacks of blinding speed the next. While these versatile weapons are extremely difficult to master, they can be startlingly effective, especially when paired with cortosis gauntlets to protect against slips of the blade.
+[P]Similar to the shoto lightsaber, the guard shoto or lightsaber tonfa, is a lightsaber with its grip set perpendicular to the blade, allowing the wielder to rapidly switch between attack and defense, deflecting bolts and blows one moment and lashing out with circular attacks of blinding speed the next. While these versatile weapons are extremely difficult to master, they can be startlingly effective, especially when paired with cortosis gauntlets to protect against slips of the blade.
 [P]The lightsaber is a guard shoto hilt containing an unmodded Illum lightsaber crystal (see page 197 of the Force and Destiny core rulebook). This crystal occupies two of the weapons hardpoints.
 [P]When installing a lightsaber crystal into a guard shoto, decrease the damage of that lightsaber crystal by 1.</Description>
     <Source>Keeping the Peace</Source>
@@ -10070,7 +10070,7 @@ Though the Jedi Order was primarily known for its use of lightsabers, there have
       [H3]Diiro[h3]
 The diiro is a common Arbooinian weapon, wailored to the needs of the Sathari. The weapon consists of a hollow but sturdy haft of wood about a meter long, tipped with a small but very sharp alloy blade. The diiro is lightweight but capable of deadly precision strikes in the hands of a skilled user. To further cut down on weight, blades of most diiros are alos hollow. In many cases, they contain a reservoir of venom extracted from a bearsloth, a zabros, or another of Arbooine's unique plants and animals. This ensures that although the cuts delivered by a diiro are seldom sever on their own, the weapon is nonetheless capable of bringing down even the largest of Arbooinian predators in short order.
 [P]A diiro can be loaded with up to three doses of any poison. Whenever the wielder successfully attacks a target with a diiro (whether or not damage is dealt), the target also suffers the effects of being exposed to the poison it contains.
-[P]Due to its lightweight construction, when a diiro suffers one or more levels of damage due to a [DE] result on a combat check or the effects of the Sunder quality, it recieves one additonal level of damage.
+[P]Due to its lightweight construction, when a diiro suffers one or more levels of damage due to a [DE] result on a combat check or the effects of the Sunder quality, it recieves one additional level of damage.
 [P][I]Note: The diiro may only be found on Arbooine.[i]
     </Description>
     <Source>Chronicles of the Gatekeeper</Source>
@@ -10236,9 +10236,9 @@ Most rivet guns work around the principle of a basic pneumatic hammer, and fire 
     <Name>Welding Rod</Name>
     <Description>
       [H3]Welding Rod[h3]
-Technicians need not only the ability to cut metal apart quickly, but the capacity to fuse back together. A welding rod works on a simple principle, generating a jet of focused heat that liqefies small parts of two or more pieces of metal, creating a sturdy bond between the formerly seperate pieces. The heat involved is in this process is extremely dangerous to organic creatures and can even sear clean through athe much sturdier limbs of droids. For good reason, welding rods are typically sold with instruction manuals that highlight the danger involved in their use - which some Technicians choose to actively ignore when threatened in their workshops.
+Technicians need not only the ability to cut metal apart quickly, but the capacity to fuse back together. A welding rod works on a simple principle, generating a jet of focused heat that liqefies small parts of two or more pieces of metal, creating a sturdy bond between the formerly seperate pieces. The heat involved is in this process is extremely dangerous to organic creatures and can even sear clean through the much sturdier limbs of droids. For good reason, welding rods are typically sold with instruction manuals that highlight the danger involved in their use - which some Technicians choose to actively ignore when threatened in their workshops.
 [P]A welding rod adds automatic [SU] to Mechanics checks checks to repair droids, vehicles and starships.
-[P]The GM may spend [DE] on any check made with a welding rod to inflict a Criticaly Injury (see page 216 of the [B]Edge of The Empire[b] Core Rulebook) on the user.</Description>
+[P]The GM may spend [DE] on any check made with a welding rod to inflict a Critically Injury (see page 216 of the [B]Edge of The Empire[b] Core Rulebook) on the user.</Description>
     <Source Page="47">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Type>Tool</Type>
@@ -10277,7 +10277,7 @@ Technicians need not only the ability to cut metal apart quickly, but the capaci
     <Name>Hand Grinder</Name>
     <Description>
       [H3]Hand Grinder[h3]
-A hand grinder uses a rotating wheel coated with rough material to polish down spurs and marks on metal surfaces. This can be extremely helpful when trying to get mechanical components to fit perfectly, whether these are the armoured plates of a starship hull or the joints of a droid. While not as effective as a vibrosaw in terms of raw cutting power, it is perhaps even more intimidating.
+A hand grinder uses a rotating wheel coated with rough material to polish down spurs and marks on metal surfaces. This can be extremely helpful when trying to get mechanical components to fit perfectly, whether these are the armored plates of a starship hull or the joints of a droid. While not as effective as a vibrosaw in terms of raw cutting power, it is perhaps even more intimidating.
 [P]A hand grinder adds automatic [AD] to crafting checks that involve shaping large pieces of hardened material. A hand grinder requires two hands to use as a weapon.</Description>
     <Source Page="47">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -10319,7 +10319,7 @@ A hand grinder uses a rotating wheel coated with rough material to polish down s
     <Name>Multi-Goo Gun</Name>
     <Description>
       [H3]Multi-Goo Gun[h3]
-The multi-goo gun, an all-in-one spray injector, has a self-cleaning element that allows Technicians to switch out lubricant, adhesive or acid cartridges with no loss in function. The device apeals to many machinists' natural affinity for efficiency, enabling users to switch between substances quickly without stopping their work, rather than having to stop, clean their spray injectors and load them with a new substance at each step of a project.
+The multi-goo gun, an all-in-one spray injector, has a self-cleaning element that allows Technicians to switch out lubricant, adhesive or acid cartridges with no loss in function. The device appeals to many machinists' natural affinity for efficiency, enabling users to switch between substances quickly without stopping their work, rather than having to stop, clean their spray injectors and load them with a new substance at each step of a project.
 [P]A character using this tool gains automatic [AD] on Mechanics checks to repair droids, vehicles or starships.
 [P]The GM may spend [TH][TH] or [DE] on a Mechanics or combat check made using a multi-goo gun to have all of its spray cartridges run out; it cannot be used at all untill refulled. A pack that includes replacements for all three substances costs 20 credits and has a rarity of 2. Placing a refill pack in a multi-goo gun requires an action.</Description>
     <Source Page="45">Special Modifications</Source>
@@ -10644,7 +10644,7 @@ Although Auraterans have access to modern energy weapons, the simple but reliabl
         <MiscDesc>If retrieved, boomerang can be used again.</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>May spend [AD] on missed attack to have boomerange return to thrower's hand.</MiscDesc>
+        <MiscDesc>May spend [AD] on missed attack to have boomerang return to thrower's hand.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGLT</SkillKey>
@@ -11659,7 +11659,7 @@ a BlasTech A280 C heavy blaster rifle by 1 (to a minimum of [B]Simple (-)[b]).</
     <Name>Berserker Rifle</Name>
     <Description>
       [H3]Berserker Rifle[h3]
-The berserker rifle was originally a custom weapon commonly used by bounty hunters in the Outer Rim and Unknown Regions. It gets its name from a misunderstood colloquial mish-mash of terms refering to bothe the lightning-jacks and blind  berserkers of the Stratos Distribution. Hundreds of years after its inception, a handful of weapons developers like Arakyd Industriesz Zoltan Arms, and even Imperial Munitions manufacture a variety of models.
+The berserker rifle was originally a custom weapon commonly used by bounty hunters in the Outer Rim and Unknown Regions. It gets its name from a misunderstood colloquial mish-mash of terms refering to both the lightning-jacks and blind  berserkers of the Stratos Distribution. Hundreds of years after its inception, a handful of weapons developers like Arakyd Industriesz Zoltan Arms, and even Imperial Munitions manufacture a variety of models.
 [P]At its core, the berserker rifle operates like a scaled-down version of the Wookiee bowcaster, using magnetic accelerator to stabilize and fire charged micro-slugs at incredible velocities. The weapon differs from the bowcaster by electrifying the slugs rather than encasing them in ionic particles, which has the potential to electrocute the ttarget, wracking them convulsions and possibly even igniting flammable articles of clothing or equipment.</Description>
     <Source Page="46">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
@@ -12530,7 +12530,7 @@ one (see [B]Table 6-1 0: Critical Injury Result[b] on page
     <Name>Crossguard Lightsaber Hilt</Name>
     <Description>
       [H3]Crossguard Lightsaber Hilt[h3]
-Crossguard lightsabers are common among students of Makashi and any other Force users who enhoy the challenge and excitement of dueling. They resemble a standard lightsaber and operate like one with one exception just beneath their blade, they have a smaller, low-output, emitter set in the hilt. The internal circuitry is run through a splitter and through use of a specialized power modulator, the weapon produces two secondary, very short baldes at ninety-degree angles to the main blade. While their primary purpose is to vent raw power away from the main blade, in practice these smaller blades could catach an opponent's blade, either blocking it or, with a little luck, disarming the opponent altogether.
+Crossguard lightsabers are common among students of Makashi and any other Force users who enhoy the challenge and excitement of dueling. They resemble a standard lightsaber and operate like one with one exception just beneath their blade, they have a smaller, low-output, emitter set in the hilt. The internal circuitry is run through a splitter and through use of a specialized power modulator, the weapon produces two secondary, very short blades at ninety-degree angles to the main blade. While their primary purpose is to vent raw power away from the main blade, in practice these smaller blades could catch an opponent's blade, either blocking it or, with a little luck, disarming the opponent altogether.
 [P]Whenever an enemy engaged with the character makes a Melee or Lightsaber check, after the attack is resolved, the character may spend [DE] or [TH][TH][TH] to hook her opponent's blade and disarm him. Aside from losing the weapon, any other effects of being disarmed are left up to the GM's discretion.</Description>
     <Source Page="43">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
@@ -12567,7 +12567,7 @@ Crossguard lightsabers are common among students of Makashi and any other Force 
     <Name>Crossguard Lightsaber</Name>
     <Description>
       [H3]Crossguard Lightsaber[h3]
-Crossguard lightsabers are common among students of Makashi and any other Force users who enhoy the challenge and excitement of dueling. They resemble a standard lightsaber and operate like one with one exception just beneath their blade, they have a smaller, low-output, emitter set in the hilt. The internal circuitry is run through a splitter and through use of a specialized power modulator, the weapon produces two secondary, very short baldes at ninety-degree angles to the main blade. While their primary purpose is to vent raw power away from the main blade, in practice these smaller blades could catach an opponent's blade, either blocking it or, with a little luck, disarming the opponent altogether.
+Crossguard lightsabers are common among students of Makashi and any other Force users who enhoy the challenge and excitement of dueling. They resemble a standard lightsaber and operate like one with one exception just beneath their blade, they have a smaller, low-output, emitter set in the hilt. The internal circuitry is run through a splitter and through use of a specialized power modulator, the weapon produces two secondary, very short blades at ninety-degree angles to the main blade. While their primary purpose is to vent raw power away from the main blade, in practice these smaller blades could catch an opponent's blade, either blocking it or, with a little luck, disarming the opponent altogether.
 [P]Whenever an enemy engaged with the character makes a Melee or Lightsaber check, after the attack is resolved, the character may spend [DE] or [TH][TH][TH] to hook her opponent's blade and disarm him. Aside from losing the weapon, any other effects of being disarmed are left up to the GM's discretion.</Description>
     <Source Page="42">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
@@ -12611,7 +12611,7 @@ Crossguard lightsabers are common among students of Makashi and any other Force 
     <Name>Lightwhip</Name>
     <Description>
       [H3]Lightwhip[h3]
-Lightwhips are, perhaps, the rarest and most bizarre of the numerous lightsaber veriants. Highly modified lightsabers, lightwhips consist of a short lightsaber haft built from alloys or composites laced with either cortosis or phrik. Their internals are modified in such a way that the plasma's continment field is more flexible, allowing each emitter to create thin, snaking, fluid blades several meters in length. These modifications also have an unintended side effect of reducing the raw damage output and striking capabilities. Once active, lightwhips can both deal damage and capture or entangle an opponent. Due to the instability of the energy blades, though, lightwhips are extraordinarily hard to master and can be more of a danger to their users than their opponents.
+Lightwhips are, perhaps, the rarest and most bizarre of the numerous lightsaber veriants. Highly modified lightsabers, lightwhips consist of a short lightsaber haft built from alloys or composites laced with either cortosis or phrik. Their internals are modified in such a way that the plasma's containment field is more flexible, allowing each emitter to create thin, snaking, fluid blades several meters in length. These modifications also have an unintended side effect of reducing the raw damage output and striking capabilities. Once active, lightwhips can both deal damage and capture or entangle an opponent. Due to the instability of the energy blades, though, lightwhips are extraordinarily hard to master and can be more of a danger to their users than their opponents.
 [P]When the character using a lightwhip makes a successful Lightsaber combat check, she may spend [AD][AD] or [TR] to prevent her opponent from using the Parry incidental to reduce damage. A user may not add lightsaber crystal attachments to a lightwhip, and cannot use a lightwhip to parry or reflect attacks.</Description>
     <Source Page="42">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
@@ -12743,7 +12743,7 @@ Considered incredibly niche, obscure weapons with little combat utility, needler
 Contracted by the Republice specifically for use by the Senate Guard, the Mk II Paladin is an ornate, highly accurate blaster rifle designed for ceremonial use. Built to exacting specifications by SoroSuub, Paladin rifles are as much works of art as they are weapons. With their highly polished black barrels and frames, pearlescent silver polycarbonate furniture, and ornate fittings, they are striking weapons that make quite an impression on those who see them.
 [P]Despite their officially ceremonial nature, these weapons are incredibly potent in combat. Respectable range and accuracy, and the ability to switch between single-shot, and auto-fire make Paladin rifles very dangerous in the right hands. From the factory, they are fitted with slings, collapsible stocks, and a number of other features designed to optimize their combat efficientcy while maintaining their ceremonial look. In addition, when  assigned to Senate Guardsmen, these weapons were fitted with an under barrel stun prod that combined with their stun setting, made them suitable for crowd control duties as well as combat.
 [P]Today, Paladin rifles are a rare sight and most remain in storage armories deep below the Imperial Palace on Coruscant. Some have made their way to the galactic weapons market, however, commanding steep prices whenever they are sold.
-[P]The damage from the Superior quality is included in the weapon's profile. When the integral stun prod is used in clos combat, it has the following profile: Melee Damage +2; Critical 6; Range (Engaged); Disorient 2; Stun Damage.</Description>
+[P]The damage from the Superior quality is included in the weapon's profile. When the integral stun prod is used in close combat, it has the following profile: Melee Damage +2; Critical 6; Range (Engaged); Disorient 2; Stun Damage.</Description>
     <Source Page="41">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -12801,7 +12801,7 @@ Contracted by the Republice specifically for use by the Senate Guard, the Mk II 
     <Name>KWS Mk I Saberdart</Name>
     <Description>
       [H3]KWS Mk I Saberdart[h3]
-Kaminoan Weaponsmiths, a subsidiary of Kaminoan Armorsmiths Ltd., is a small weapons producer based on the watery planet of Kamino. Its products are all essentially handmade, produced in msall numbers byu highly trained craftsmen and sold in limited runs. The company is relatively unknown outside of certain circles—namely bounty hunters and professional killers—but among its select cliente. it has a reputation for well-made, high-quality products.
+Kaminoan Weaponsmiths, a subsidiary of Kaminoan Armorsmiths Ltd., is a small weapons producer based on the watery planet of Kamino. Its products are all essentially handmade, produced in small numbers by highly trained craftsmen and sold in limited runs. The company is relatively unknown outside of certain circles—namely bounty hunters and professional killers—but among its select clients. it has a reputation for well-made, high-quality products.
 [P]Perhaps their most popular product is the Mk. I Saberdart. The Saberdart, a name that applies to both the dart itself and its launcher, is a tiny, roughly triangualr durasteel alloy dart fired via compressed air. The dart has three hooked barbs surrouding a central cylinder tipped withy an incredibly sharp needle. Within the central core of the dart is a small, fillable chamber used to deliver toxins and poisons to targets at range. Saberdarts can be used to deliver anything tranquillizers to deadly neurotoxins such as Fex-M3 and Malkite themfar. They are silent, deadly, obscure and largely untraceable, which makes them a perfect weapon for assassins.
 [P]Saberdart launchers have lightweight barrels that propel their darts via compressed gas. Dart launchers can be built into gloves, pieces of armor, other weapons, even innocuous pieces of everyday gear like datapads and glowrods.
 [P]Saberdarts may be loaded with 1 dose of synthetic neuroparalytic (see page 181 of the [B]Force and Destiny[b] Core Rulebook), or any other poison the GM, deems appropriate. Whenever the wielder successfully attacks a target with the weapon (even if she deals no damage), the target also suggers the effects of being exposed to the poison.</Description>
@@ -12921,7 +12921,7 @@ Merr-Sonn's LD-1 is the company's latest foray into the highly competitive long-
       [H3]BR-219 Heavy Blaster Pistol[h3]
 The BR-219 is a rare, high performance heavy blaster pistol produced by BlasTech. A large, intimidating weapon, the BR-219 has a short, thick barrel with a broad aperture, a heavy-duty frame, and a custom grip with an integral recoil compensation system. These super-heavy pistols were developed in response to requests from bounty hunters and law enforcement agencies for a powerful, pistol-sized weapon for use in taking down particularly dangerous opponents. To meet the demand, BlasTech turned to one of its most popular and well-respected product lines and developed the BR-219 from its E-11 series of millitary blaster rifles.
 [P]Using the E-11's reciever and firing mechanism, BlasTech engineers then reengineered the XCiter and actuating module to produce an overcharged bolt, equipped the drastically shortened barrel with an improved Galven pattern, and developed a special and highly volatile blend of blaster gases to feed their new weapon. All of this enhanced technology combined with the new bespoke blaster gas made for an extremely powerful—if slightly inaccurate and finicky—pistol. The bolt from the BR-219 is nearly as powerful as the E-11, and the weapon produces a tremendous noise and muzzle flash when fired. It is neither a subtle nor a restrained weapon; openly carrying one of these massive pistols makes an eloquent point about the user's intentions.
-[P]The BR-219 is not sold through BlasTech's usual dealer network. Instead, the weapon must be custom ordered straight from the factory. A thorough Imperial Security Bureau background check and a specially issued carry permit are required to purchase one of these weapons legally. Of course, this background check can be circumvented by purchasing the pistol on the black market or acuiring it through other less-than-legal means. Carrying a BR-219 without the proper permit is a risky business, and being found with an illegally purchased model is grounds for immediate Imperial imprisonment. Using a BR-219 in combat for an extended period of time is,  to the least, quite hazardous. The immense heat generated by the high-performance blaster gas and the overcharged action of the firing mechanism put an incredible amount of strain on the weapon.
+[P]The BR-219 is not sold through BlasTech's usual dealer network. Instead, the weapon must be custom ordered straight from the factory. A thorough Imperial Security Bureau background check and a specially issued carry permit are required to purchase one of these weapons legally. Of course, this background check can be circumvented by purchasing the pistol on the black market or acquiring it through other less-than-legal means. Carrying a BR-219 without the proper permit is a risky business, and being found with an illegally purchased model is grounds for immediate Imperial imprisonment. Using a BR-219 in combat for an extended period of time is,  to the least, quite hazardous. The immense heat generated by the high-performance blaster gas and the overcharged action of the firing mechanism put an incredible amount of strain on the weapon.
 [P]GMs may spend [TH][TH] from a check to cause the BR-219 to become damaged one step (undamaged to minot, minor to moderate, etc.) and suffer the penalties listed on page 166 of the [B]Force and Destiny[b] Core Rulebook until repaired. In addition, Game Masters may spend [DE] to cause the BR-219 to melt down and explode, destroying the weapon and dealing the weapon's base damage to the user.</Description>
     <Source Page="40">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
@@ -13004,7 +13004,7 @@ LaserHone's Trailbreaker is a versatile piece of equipment designed for explorat
     <Name>MSW-12 NanoDagger</Name>
     <Description>
       [H3]Xana Exotic Arms MSW-12 NanoDagger[h3]
-Another MSW-series mono-molecular blade offering by Xana Exotic Arms, the MSW-12 NanoDagger is a larger, deadlier version of the MSW-9 Molecular Stiletto. Resembling a common combat or ability blade, the NanoDagger's blade is made of a synthetic crystaline matrix embedded with super dense alloys that resist wear, chipping, blunting, and breakage. It has a mono-molecular edge that can slice through some of the toughest materials, and it can cause vicious, slow heating wounds on most being in the galaxy. Despite its reinforcement, like all mono-molecular blades produced by Xana, the NanoDagger's blade has an alarming tendancy to break under certain conditions.
+Another MSW-series mono-molecular blade offering by Xana Exotic Arms, the MSW-12 NanoDagger is a larger, deadlier version of the MSW-9 Molecular Stiletto. Resembling a common combat or ability blade, the NanoDagger's blade is made of a synthetic crystalline matrix embedded with super dense alloys that resist wear, chipping, blunting, and breakage. It has a mono-molecular edge that can slice through some of the toughest materials, and it can cause vicious, slow heating wounds on most being in the galaxy. Despite its reinforcement, like all mono-molecular blades produced by Xana, the NanoDagger's blade has an alarming tendancy to break under certain conditions.
 [P]The GM may spend [TH][TH][TH] or [DE] from any combat check made with this weapon to have it become damaged on step (from undamaged to minor, minor to moderate, moderate to major, etc.) as described on page 166 of the [B]Force and Destiny[b] Core Rulebook.</Description>
     <Sources>
       <Source Page="44">Savage Spirits</Source>
@@ -13044,7 +13044,7 @@ Another MSW-series mono-molecular blade offering by Xana Exotic Arms, the MSW-12
     <Description>
       [H3]Corellian Arms CR-8 Takedown Rifle[h3]
 The CR-8 is a high-performance blaster rifle designed for use by CorSec snipers and secret agents. Built to exacting specifications by Corellian Arms, the CR-8 is a long, deadly looking weapon designed for pinpoint accuracy at very long ranges. Just shy of two meters in length, the CR-8 is equipped with a precision barrel, lightweight, matte finish composite furniture, and a highpowered sight. It also features an integrated energy damper that reduces its report and muzzle flash. The weapon's firing system uses a supercharged actuator, upgraded XCiter, and a high-output proprietary blaster gas. These modifications increase power and reduce beam refraction and degradation, allowing the weapon to accurately hit targets at ranges well beyond normal blaster rifle range. The downside is that the weapon produces an inordinate amount of heat, which it must offset with a low rate of fire.
-[P]Perhaps the CR-8's most unique aspect is its transportability, the weapon is designed to be broken down into its core components quickly  and easily. with just a few moments of work, the CR-8 can be disassembled into five seperate components: berrel, stock, reciever, sight, and energy damper. Obstensibly, this feature was added to the weapon to assist in carrying and storing it. As an added side effect, however, the takedown feature makes these weapons extremely easy to hide and very attractive for professional killers. A CR-8 is nearly impossible to find when hidden, thanks to the takedown feature and its unique finish.
+[P]Perhaps the CR-8's most unique aspect is its transportability, the weapon is designed to be broken down into its core components quickly  and easily. with just a few moments of work, the CR-8 can be disassembled into five seperate components: barrel, stock, reciever, sight, and energy damper. Obstensibly, this feature was added to the weapon to assist in carrying and storing it. As an added side effect, however, the takedown feature makes these weapons extremely easy to hide and very attractive for professional killers. A CR-8 is nearly impossible to find when hidden, thanks to the takedown feature and its unique finish.
 [P]When a CR-8 is properly broken down and concealed add [SE][SE] to a character's Perception checks made to find it on a person's body.</Description>
     <Source Page="40">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
@@ -13115,7 +13115,7 @@ copies of the T-7 schematics escaped deletion, and private weapon manufacturers 
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Whenever a living target is hit with a T-7 ion disruptor, any Crititcal Injury results in a "Crippled" effect unless the roll on the Critical Injury table would result in a more grievous injury.</MiscDesc>
+        <MiscDesc>Whenever a living target is hit with a T-7 ion disruptor, any Critical Injury results in a "Crippled" effect unless the roll on the Critical Injury table would result in a more grievous injury.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
@@ -13564,7 +13564,7 @@ When faced with heavily protected targets, or even light vehicles, warheads with
     <Description>
       [H3]"Firecaller" Light Flame Projector[h3]
 Merr-Sonn's "Firecaller" model flame projectors have inspired almost as much fear and revulsion among those who have encountered them as disruptors, despite the long and infamous history of disintegrators. Under a galactic government more concerned with sapient rights and well-being than the Empire, authorities might have banned these dreadful weapons already; some individual planetary governments have taken that step on their own. As such, Firecallers have tremendous appeal to criminals, bounty hunters, and those who are drawn towards such a repuation.
-[P]The reason for the Firecallers' infamy lies in its unconventional fuel, an accelerite derivative abandoned by the company's starship designers as too unstable for use in their work. The highly flammable chemical substance burns at an incredibly high temperature and for an extended period compared to the typical fuels used in flame projectors. Although each blast from these weapons releases only a small spray of the chemical in order to prevent dangerous blowback, even this limited exposure causes devastating wounds over time as it burns its way through armor and protective gear to inflict terrible harm on now-exposed flesh.</Description>
+[P]The reason for the Firecallers' infamy lies in its unconventional fuel, an accelerate derivative abandoned by the company's starship designers as too unstable for use in their work. The highly flammable chemical substance burns at an incredibly high temperature and for an extended period compared to the typical fuels used in flame projectors. Although each blast from these weapons releases only a small spray of the chemical in order to prevent dangerous blowback, even this limited exposure causes devastating wounds over time as it burns its way through armor and protective gear to inflict terrible harm on now-exposed flesh.</Description>
     <Source Page="44">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -13606,7 +13606,7 @@ Merr-Sonn's "Firecaller" model flame projectors have inspired almost as much fea
     <Name>Grapnel-Harpoon Launcher</Name>
     <Description>
       [H3]Grapnel-Harpoon Launcher[h3]
-Commonly thought of as tools for climbing or lifting cargo, the weapons division of Pharr Co. instead produces grapnel launchers with the balance and targeting capablities necessary for combat use, allowing their users entangle opponents in a binding cord. Although sometimes used by thieves who don't like the idea of their victems fighting back, these grapnel guns see more use by bounty hunters or even law enforcement agents, assisting in the capture of their quarries. Although viewed as a non-lethal option, the magnetic firing mechanism of a grapnel is powerful enough to inflict injuries on the targets it ensnares. Generally, such wounds are superficial, and thus don't threaten the target's life—or more importantly, the bounty hunter's chances of getting paid in full.</Description>
+Commonly thought of as tools for climbing or lifting cargo, the weapons division of Pharr Co. instead produces grapnel launchers with the balance and targeting capabilities necessary for combat use, allowing their users entangle opponents in a binding cord. Although sometimes used by thieves who don't like the idea of their victems fighting back, these grapnel guns see more use by bounty hunters or even law enforcement agents, assisting in the capture of their quarries. Although viewed as a non-lethal option, the magnetic firing mechanism of a grapnel is powerful enough to inflict injuries on the targets it ensnares. Generally, such wounds are superficial, and thus don't threaten the target's life—or more importantly, the bounty hunter's chances of getting paid in full.</Description>
     <Source Page="45">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -13805,7 +13805,7 @@ Gravity mines are another non-lethal type of mine designed to interfere with a s
     <Name>Concussion Mine</Name>
     <Description>
       [H3]Concussion Mine[h3]
-Typically deployed as anti-fighter measures, concussion mines use a potent explosve to creat a powerful shockwave capable of cracking open the toughest hulls.</Description>
+Typically deployed as anti-fighter measures, concussion mines use a potent explosve to create a powerful shockwave capable of cracking open the toughest hulls.</Description>
     <Source Page="64">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -13910,7 +13910,7 @@ Deployed in groups, firecracker mines emit intense bursts of light, noise, and r
     <Description>
       [H3]"Subduer-9" Riot Blaster[h3]
 Although just as heavy and unwieldly as many more lethal weapons, riot blasters lack stopping power in the traditional sense, as these bulky blaster varients are very unlikely to do lasting harm. Instead, riot blasters are built to enhance the effectiveness of the stun setting common to blaster weapons. The "Subduer-9" model is noteworthy for it can maintain a coherent stun blast over a wide area, reducing the risk of collateral damage or unintended injury to the target.
-[P]Given these capabilites, many peacekeeping forces equip their troops with riot blasters, or at least keep the powerful weapons on hand for major civil disturbances. While obviously preferable to the alternative, the willingness with which some Imperial commanders deploy the weapons at the slightest provocation has given them an unsavory repuation in the eyes of many. Nevertheless, they are a welcome addition to the armory of any hunter who prefers to take targets alive and avoid incental harm to others.
+[P]Given these capabilities, many peacekeeping forces equip their troops with riot blasters, or at least keep the powerful weapons on hand for major civil disturbances. While obviously preferable to the alternative, the willingness with which some Imperial commanders deploy the weapons at the slightest provocation has given them an unsavory repuation in the eyes of many. Nevertheless, they are a welcome addition to the armory of any hunter who prefers to take targets alive and avoid incental harm to others.
     </Description>
     <Source Page="44">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
@@ -14293,7 +14293,7 @@ Tools capable of generating intense cold are critical when dealing with preserva
     <Description>
       [H3]Tenloss IDX-9 Ion Stunner[h3]
 An ion stunner disrupts living beings' neural pathways as well as the electronic components of droids and other technological devices. This offers an effective and non-lethal solution for security personnel dealing with threats from living beings as well as droids. However, because ion stunners can affect electronic sensors, criminals often use these weapons to disable security measures. Different governmental agencies take different legal views of these devices because of their alternative uses. All ion stunners incorporate distinctive dish on the barrel, required to focus the ionic flash on a target.
-[P]The Tenloss IDX-9 intergrates a collpsible focusing dish. This modification enables the sidearm to be worn in a normal blaster holster. However, when drawn and its safety disabled, the dish expands, assuming the weapon's characteristic profile. The conversation between holstered and active mode is instant, though most weapon jams with the Tenloss model are due to difficulties with this specialized focusing dish.</Description>
+[P]The Tenloss IDX-9 intergrates a collapsible focusing dish. This modification enables the sidearm to be worn in a normal blaster holster. However, when drawn and its safety disabled, the dish expands, assuming the weapon's characteristic profile. The conversation between holstered and active mode is instant, though most weapon jams with the Tenloss model are due to difficulties with this specialized focusing dish.</Description>
     <Source Page="42">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -16794,7 +16794,7 @@ Seen in some of the more remote areas of the galaxy, especially in rougher and m
     <Key>SUPERLASER</Key>
     <Name>Superlaser</Name>
     <Description>[H3]Superlaser[h3]
-The Mk I Superlaser developed for the Death Star is the most powerful weapon in the galaxy. Utilizing the unique energy-focusing qualities of refined kyber crystals and powered by four huge animatter generators, this weapon has the ability to completely destroy planets with a single blast.
+The Mk I Superlaser developed for the Death Star is the most powerful weapon in the galaxy. Utilizing the unique energy-focusing qualities of refined kyber crystals and powered by four huge antimatter generators, this weapon has the ability to completely destroy planets with a single blast.
 [P]The superlaser has no damage or critical rating, yet deals damage. Its destructive power is on such a level that it transcends mere numbers. When the Death Star fires its superlaser, everything in its path is utterly destroyed. Even when using the energy from a single reactor, it can crater cities and devastate huge swaths of a planet's surface.
 [P]The damage that this massive weapon can dish out is more narrative that mechanical. If the players ever encounter the Death Star and see the superlaser in action, the Game Master should describe ships burning to ash as it they were paper, whole worlds obliterated in the blink of an eye, shockwaves and strange localized hyperspace anomalies, and other terrible consequences. Force-sensitives, for example, might become disoriented from the death cries of an entire city's population. If the Player Characters are ever targeted by the Death Star's superlaser, the Game Master should find a way to allow them to escape what would be certain death, perhaps by making suitably heroic Piloting (Space) checks or spending Destiny Points.</Description>
     <Source Page="32">Dawn of Rebellion</Source>

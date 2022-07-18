@@ -1743,7 +1743,7 @@ The character cultivates a rivalry with another Technician who works in the same
     <Name>Technological Historian</Name>
     <Description>
       [H4]Technological Historian[h4]
-The character is very interested in historic or ancient technology and strives to learn more about it, meticulously cataloguing any findings for future publication. The character might amass an extensive collection that others regard as useless junk, going out of the way to acquire seemingly meaningless and often expensive archaic devices. Occasionally, the character finds a useful or amazing item that might bring a high price from a collector or other interested party, or draw unwanted attention from treasure seekers and the authorities.</Description>
+The character is very interested in historic or ancient technology and strives to learn more about it, meticulously cataloging any findings for future publication. The character might amass an extensive collection that others regard as useless junk, going out of the way to acquire seemingly meaningless and often expensive archaic devices. Occasionally, the character finds a useful or amazing item that might bring a high price from a collector or other interested party, or draw unwanted attention from treasure seekers and the authorities.</Description>
     <Source Page="37">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Innovation</Motivation>
@@ -1753,7 +1753,7 @@ The character is very interested in historic or ancient technology and strives t
     <Name>Technological Necessity</Name>
     <Description>
       [H4]Technological Necessity[h4]
-The character has a great need to complete or acquire a specific device or program. The goal might be to save a world, a town or a life or to provide a workable solution to an important diplomatic or military situation. Whatever the specifics of this need, the character likely sees its completeion as a magnum opus and stakes a considerable amount of hope upon the promise of salvation the unfinished business represents.</Description>
+The character has a great need to complete or acquire a specific device or program. The goal might be to save a world, a town or a life or to provide a workable solution to an important diplomatic or military situation. Whatever the specifics of this need, the character likely sees its completion as a magnum opus and stakes a considerable amount of hope upon the promise of salvation the unfinished business represents.</Description>
     <Source Page="37">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Innovation</Motivation>
@@ -2195,7 +2195,7 @@ Some bounty hunters vow to never kill their targets (though when dealing with a 
     <Name>No Collateral Damage</Name>
     <Description>
       [H4]No Collateral Damage[h4]
-Though some particularly pernicious bounty hunters are willing to toss around thermal detonators on populated worlds, most try to minimize the civilian harm they cause, if only because it can be inconvenient to clean up. A few, however, are scrupulous about avoiding civilian casualities, to the point of letting a target escape to avoide escape to avoid hurting civilians.</Description>
+Though some particularly pernicious bounty hunters are willing to toss around thermal detonators on populated worlds, most try to minimize the civilian harm they cause, if only because it can be inconvenient to clean up. A few, however, are scrupulous about avoiding civilian causalities, to the point of letting a target escape to avoid escape to avoid hurting civilians.</Description>
     <Source Page="37">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Code</Motivation>
@@ -2205,7 +2205,7 @@ Though some particularly pernicious bounty hunters are willing to toss around th
     <Name>Quiet Professionalism</Name>
     <Description>
       [H4]Quiet Professionalism[h4]
-There is an old saying in the bounty hunting trade that good work  makes little noise, and the character is the embodiment of that. Like a master artisan, the character pursues bounties with far greater care about attentiaon to detail than most. The PC sees little need for flashy accoutrement or ostenatious shows of prowess.</Description>
+There is an old saying in the bounty hunting trade that good work  makes little noise, and the character is the embodiment of that. Like a master artisan, the character pursues bounties with far greater care about attention to detail than most. The PC sees little need for flashy accoutrement or ostenatious shows of prowess.</Description>
     <Source Page="37">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Code</Motivation>
@@ -2215,7 +2215,7 @@ There is an old saying in the bounty hunting trade that good work  makes little 
     <Name>Reputation is Everything</Name>
     <Description>
       [H4]Reputation is Everything[h4]
-To a bounty hunter, maintaining the appearance of being an unrelenting, unstoppable force is often as important as acutally having the skills and strength of will to succeed in the chase. While false bravado usually falls apart in the face of the challenges a bounty hunter faces, many bounty hunters work hard to uphold their repuations, repaying slights and provocations with disproportionate violence.</Description>
+To a bounty hunter, maintaining the appearance of being an unrelenting, unstoppable force is often as important as actually having the skills and strength of will to succeed in the chase. While false bravado usually falls apart in the face of the challenges a bounty hunter faces, many bounty hunters work hard to uphold their repuations, repaying slights and provocations with disproportionate violence.</Description>
     <Source Page="37">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Code</Motivation>
@@ -2335,7 +2335,7 @@ Illness can devastate communities and finding a cure requires uncovering and und
     <Name>Imprisonment</Name>
     <Description>
       [H4]Imprisonment[h4]
-A just society isolates a troubled individual for rehabilitation and community protection, while an unjust one imprisons based on predjudice or a list for power. Sentinels bettling unjust imprisonment often find themselves fighting against corrupt police forces and legal system personnel, especially with a planet aligned with the Empire.</Description>
+A just society isolates a troubled individual for rehabilitation and community protection, while an unjust one imprisons based on predjudice or a list for power. Sentinels battling unjust imprisonment often find themselves fighting against corrupt police forces and legal system personnel, especially with a planet aligned with the Empire.</Description>
     <Source Page="32">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Injustice</Motivation>
@@ -2355,7 +2355,7 @@ Without a home or a homeworld, a species not only loses resources but also the l
     <Name>Hunger</Name>
     <Description>
       [H4]Hunger[h4]
-Considered the most basice Injustice, the denial of food has made civilizations collapse. Sentinels often find a wide range of complex obstacles in solving this problem—apathy, poverty, logistics, and institutional stubbornness.</Description>
+Considered the most basic Injustice, the denial of food has made civilizations collapse. Sentinels often find a wide range of complex obstacles in solving this problem—apathy, poverty, logistics, and institutional stubbornness.</Description>
     <Source Page="32">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Injustice</Motivation>
@@ -2490,7 +2490,7 @@ do just about anything to prove himself and achieve the authority he knows he de
 Soldiers often form quick bonds with the people who live on worlds where they deploy. The connection
 may be with a farmer who sells produce to the troops, a local youth who shares a love of m ilitary technology, or a village 
 elder whose venerable traditions strike a chord within the Soldier. This bond can be an asset, supplying the PC with
-unique inform ation on the region, but can also cause the Soldier em otional strife if this friend is dragged into the war.</Description>
+unique inform action on the region, but can also cause the Soldier em otional strife if this friend is dragged into the war.</Description>
     <Source Page="36">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Relationship</Motivation>

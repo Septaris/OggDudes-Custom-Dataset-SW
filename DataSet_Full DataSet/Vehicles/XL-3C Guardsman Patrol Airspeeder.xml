@@ -17,7 +17,7 @@ The XL-3c Guardsman, produced by Tion Mil/Sci Industries, is the civilian versio
   <Rarity>7</Rarity>
   <MaxAltitude>150 kilometers</MaxAltitude>
   <SensorRangeValue>srLong</SensorRangeValue>
-  <Crew>One pilot, one co-pilot, one sensor/commms, one security tech</Crew>
+  <Crew>One pilot, one co-pilot, one sensor/comms, one security tech</Crew>
   <EncumbranceCapacity>30</EncumbranceCapacity>
   <Passengers>12</Passengers>
   <Silhouette>3</Silhouette>

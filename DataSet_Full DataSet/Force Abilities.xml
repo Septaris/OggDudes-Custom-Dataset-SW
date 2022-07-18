@@ -1179,7 +1179,7 @@
   <ForceAbility>
     <Key>MANIPULATECONTROL2</Key>
     <Name>Control: Increase System Strain</Name>
-    <Description>Ongoing efffect: Commit [FO] Increase the system strain threshold of 1 vehicle or starship at engaged range by 3 per [FO] commited.</Description>
+    <Description>Ongoing efffect: Commit [FO] Increase the system strain threshold of 1 vehicle or starship at engaged range by 3 per [FO] committed.</Description>
     <Source Page="37">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Power>Manipulate</Power>

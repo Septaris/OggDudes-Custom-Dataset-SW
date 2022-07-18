@@ -869,7 +869,7 @@
   <SigAbilityNode>
     <Key>INVENTIVECREATIONBASIC</Key>
     <Name>Inventive Creation Base Ability</Name>
-    <Description>Oncer per game session, as an action, the character may spend 2 Destiny Points and make a [B]Daunting ([DI][DI][DI][DI]) Mechanics check[b]. If he succeeds, the character immediately uses available parts to build a device that functions as an item of his choice with a rarity of 5 or lower. The item is functional until the end of the encounter, at which point it falls apart, shorts out, or otherwise ceases to function permanently. The exact nature of the device the character its trying to construct as well as the end results, must be apporved by the GM (see [B]Narrative Abilities[b] on page 38).</Description>
+    <Description>Oncer per game session, as an action, the character may spend 2 Destiny Points and make a [B]Daunting ([DI][DI][DI][DI]) Mechanics check[b]. If he succeeds, the character immediately uses available parts to build a device that functions as an item of his choice with a rarity of 5 or lower. The item is functional until the end of the encounter, at which point it falls apart, shorts out, or otherwise ceases to function permanently. The exact nature of the device the character its trying to construct as well as the end results, must be approved by the GM (see [B]Narrative Abilities[b] on page 38).</Description>
     <Source Page="39">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Inventive Creation</SigAbility>
@@ -1245,7 +1245,7 @@ to activate Rousing Oratory.</Description>
   <SigAbilityNode>
     <Key>BIGGERTHEYARESKILL1</Key>
     <Name>Change Skill (Survival)</Name>
-    <Description>May use Survival instead of Knowledge (Warfare) to acivate The Bigger They Are.</Description>
+    <Description>May use Survival instead of Knowledge (Warfare) to activate The Bigger They Are.</Description>
     <Source Page="38">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>The Bigger They Are...</SigAbility>
@@ -1269,7 +1269,7 @@ to activate Rousing Oratory.</Description>
   <SigAbilityNode>
     <Key>BIGGERTHEYAREDURATION</Key>
     <Name>Duration</Name>
-    <Description>The Bigger They Are lasts for 2 additonal rounds.</Description>
+    <Description>The Bigger They Are lasts for 2 additional rounds.</Description>
     <Source Page="38">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>The Bigger They Are...</SigAbility>
@@ -1309,7 +1309,7 @@ to activate Rousing Oratory.</Description>
   <SigAbilityNode>
     <Key>UNEXPECTEDDEMISESKILL</Key>
     <Name>Change Skill</Name>
-    <Description>To acivate Unexpected Demise, the character can use Discipline.</Description>
+    <Description>To activate Unexpected Demise, the character can use Discipline.</Description>
     <Source Page="34">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unexpected Demise</SigAbility>
@@ -1445,7 +1445,7 @@ to activate Rousing Oratory.</Description>
   <SigAbilityNode>
     <Key>ALWAYSGETMYMARKBASIC</Key>
     <Name>Always Get My Mark Base Ability</Name>
-    <Description>Once per game session, the character may choose a known minion NPC on the same planet to be her mark, spend 2 Destiny Points, and make a [B]Hard ([DI][DI][DI]) Streetwise check[b]. If she succeeds, the character tracks down the chosen mark; a new encounter begins as the character reaches the mark's location. The exact nature of the encounter, as well as the circumstances under which it takes place, must be approved by the GM (see [B]Narrative Abilites[b] on page 40).</Description>
+    <Description>Once per game session, the character may choose a known minion NPC on the same planet to be her mark, spend 2 Destiny Points, and make a [B]Hard ([DI][DI][DI]) Streetwise check[b]. If she succeeds, the character tracks down the chosen mark; a new encounter begins as the character reaches the mark's location. The exact nature of the encounter, as well as the circumstances under which it takes place, must be approved by the GM (see [B]Narrative Abilities[b] on page 40).</Description>
     <Source Page="39">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Always Get My Mark</SigAbility>

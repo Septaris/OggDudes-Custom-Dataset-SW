@@ -17,7 +17,7 @@
   <BaseMods>
     <Mod>
       <Count>1</Count>
-      <MiscDesc>[B]Interior Ordnance[b]: Unlike most ship-mounted weapons, a [I]Barrage[i]'s torpedo tubes can be manually reloaded from internal reserves.  As an action, anyone onboard may make an [B]Average ([DI][DI]) Athletices check[b] to reload one proton torpedo launcher.</MiscDesc>
+      <MiscDesc>[B]Interior Ordnance[b]: Unlike most ship-mounted weapons, a [I]Barrage[i]'s torpedo tubes can be manually reloaded from internal reserves.  As an action, anyone onboard may make an [B]Average ([DI][DI]) Athletics check[b] to reload one proton torpedo launcher.</MiscDesc>
     </Mod>
   </BaseMods>
   <HyperdrivePrimary>3</HyperdrivePrimary>

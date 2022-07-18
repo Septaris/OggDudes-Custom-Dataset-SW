@@ -2622,7 +2622,7 @@
   <Talent>
     <Key>MUSEUMWORTHY</Key>
     <Name>Museum Worthy</Name>
-    <Description>Once per session, take Museum Worthy action, make a [B]Hard ([DI][DI][DI]) Knowledge (Education) check[b] to ascetain information regarding a relic, ruin, or piece of history.</Description>
+    <Description>Once per session, take Museum Worthy action, make a [B]Hard ([DI][DI][DI]) Knowledge (Education) check[b] to ascertain information regarding a relic, ruin, or piece of history.</Description>
     <Source>Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -3850,7 +3850,7 @@
   <Talent>
     <Key>QUICKFIX</Key>
     <Name>Quick Fix</Name>
-    <Description>Once per session, make one skill check using Agility rather than the characterstic linked to that skill.</Description>
+    <Description>Once per session, make one skill check using Agility rather than the characteristic linked to that skill.</Description>
     <Source>Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -6318,7 +6318,7 @@
   <Talent>
     <Key>BLINDSPOT</Key>
     <Name>Blind Spot</Name>
-    <Description>The character and allies within short range add automatic [AD] to combat checks they make while benefitting from cover.</Description>
+    <Description>The character and allies within short range add automatic [AD] to combat checks they make while benefiting from cover.</Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -6856,7 +6856,7 @@
   <Talent>
     <Key>MARKDEATH</Key>
     <Name>Marked for Death</Name>
-    <Description>Take the Marked for Death maneuver; commiting [FO]. Add [AD][AD] to combat checks against target while [FO] remains committed but cannot use this talent again until the original target is incapacitated or the session ends. </Description>
+    <Description>Take the Marked for Death maneuver; committing [FO]. Add [AD][AD] to combat checks against target while [FO] remains committed but cannot use this talent again until the original target is incapacitated or the session ends. </Description>
     <Source Page="30">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taManeuver</ActivationValue>
@@ -7743,7 +7743,7 @@
   <Talent>
     <Key>OVERAURA</Key>
     <Name>Overwhelming Aura</Name>
-    <Description>Commit [FO]. Add [AD] to social checks equal to [FO] committed. Add [TH] to equal [FO] commited to enemy social checks in short range.
+    <Description>Commit [FO]. Add [AD] to social checks equal to [FO] committed. Add [TH] to equal [FO] committed to enemy social checks in short range.
 </Description>
     <Source Page="33">Unlimited Power</Source>
     <Custom>DescOnly</Custom>
@@ -8026,7 +8026,7 @@
   <Talent>
     <Key>MOSTIMP</Key>
     <Name>Most Impressive</Name>
-    <Description>Spend [TR] from any skill check to allow a number of alies not exceeding the character's rating in Presence within short range to add automatic [AD] to their next check.
+    <Description>Spend [TR] from any skill check to allow a number of allies not exceeding the character's rating in Presence within short range to add automatic [AD] to their next check.
 </Description>
     <Source Page="113">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
@@ -8680,7 +8680,7 @@
   <Talent>
     <Key>BLAT</Key>
     <Name>Blather</Name>
-    <Description>Take the Blather action, making a [B]Hard ([DI][DI][DI]) Charm or Deception check[b]. If successful, one adverary per [SU] is Disoriented for rounds eqqual to the character's Presence. The character may spend [TR] from the check to Stagger one affected target
+    <Description>Take the Blather action, making a [B]Hard ([DI][DI][DI]) Charm or Deception check[b]. If successful, one adversary per [SU] is Disoriented for rounds eqqual to the character's Presence. The character may spend [TR] from the check to Stagger one affected target
 </Description>
     <Source Page="31">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
@@ -8757,7 +8757,7 @@
   <Talent>
     <Key>CONCOPT</Key>
     <Name>Consider Our Optioins</Name>
-    <Description>Take the Consider Our Options action, make a [B]Hard ([DI][DI][DI]) Negotiation check[b]. Until the character's next turn, a chatacter who attacks them first suffers 2 strain, plus 1 strain per [SU][SU] on the character's check
+    <Description>Take the Consider Our Options action, make a [B]Hard ([DI][DI][DI]) Negotiation check[b]. Until the character's next turn, a character who attacks them first suffers 2 strain, plus 1 strain per [SU][SU] on the character's check
 </Description>
     <Source Page="41">Rise of the Separatists</Source>
     <Custom>DescOnly</Custom>
@@ -8862,7 +8862,7 @@
   <Talent>
     <Key>ENDPRES</Key>
     <Name>Enduring Presence</Name>
-    <Description>Once per session the character may upgrade a Mass Combat check even if the characer is not present or is prevented from communicating with their troops
+    <Description>Once per session the character may upgrade a Mass Combat check even if the character is not present or is prevented from communicating with their troops
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
@@ -8906,7 +8906,7 @@
   <Talent>
     <Key>EXCEEDSPECSUP</Key>
     <Name>Exceed Specifications (Supreme)</Name>
-    <Description>If a check benefitting from Exceed Specifications generates [TR], may damage the item to roll additional [PR] and addit to the check results. If the check generates [DE], add [CH] to the check results</Description>
+    <Description>If a check benefiting from Exceed Specifications generates [TR], may damage the item to roll additional [PR] and add it to the check results. If the check generates [DE], add [CH] to the check results</Description>
     <Source Page="41">Rise of the Separatists</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
@@ -8935,7 +8935,7 @@
   <Talent>
     <Key>FALLBAK</Key>
     <Name>Fall Back</Name>
-    <Description>While engaged with an opponent, the characer may suffer a number of strain up to their Leadership to allow an equal number of allies engaged with theat oppnent to immediately disengage as an out of turn incidental
+    <Description>While engaged with an opponent, the character may suffer a number of strain up to their Leadership to allow an equal number of allies engaged with theat oppnent to immediately disengage as an out of turn incidental
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
@@ -9119,7 +9119,7 @@
   <Talent>
     <Key>ICHORRES</Key>
     <Name>Ichor Reserve</Name>
-    <Description>Once per session as a maneuver, the charcter may suffer 2 strain to increase Force rating by 1 until the end of the encounter
+    <Description>Once per session as a maneuver, the character may suffer 2 strain to increase Force rating by 1 until the end of the encounter
 </Description>
     <Source Page="31">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
@@ -9441,7 +9441,7 @@
   <Talent>
     <Key>ONORDER</Key>
     <Name>On My Order</Name>
-    <Description>As an actioni, make a [B]Hard ([DI][DI][DI]) Leadership check.[b] Choose a number of crew equal to Presence who upgrade the ability of their next Gunnery check once plus once per additional [SU][SU]
+    <Description>As an action, make a [B]Hard ([DI][DI][DI]) Leadership check.[b] Choose a number of crew equal to Presence who upgrade the ability of their next Gunnery check once plus once per additional [SU][SU]
 </Description>
     <Source Page="41">Rise of the Separatists</Source>
     <Custom>DescOnly</Custom>
@@ -9830,7 +9830,7 @@
   <Talent>
     <Key>SURVINS</Key>
     <Name>Survivor's Instincts</Name>
-    <Description>Once per session when the character suffers a Critical injury spend 1 Destiny Point. Then the atacker must roll two results for the Critical Injury and the player chooese which will apply to their character
+    <Description>Once per session when the character suffers a Critical injury spend 1 Destiny Point. Then the attacker must roll two results for the Critical Injury and the player choose which will apply to their character
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
