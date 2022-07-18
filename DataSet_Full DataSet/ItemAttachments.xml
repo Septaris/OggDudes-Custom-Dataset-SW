@@ -3781,7 +3781,7 @@ better to make passengers and guests feel at home.</Description>
     <Name>Cyclic Crystal Array</Name>
     <Description>
       [H3]Cyclic Crystal Array[h3]
-[P]Lightsabers rely on kyber crystals attuned to the wielder to create energy blades of different types. Under normal circumstances, swapping out one crystal for another is an arduous process requiring the lightsaver to be disassembled first. Unsatisfied with this situation, a handful of enterprising (if unorthodox) Force users have created attachments that allow for two (or more) crystals to be installed in a single lightsaber. With the press of a button, one crystal is swapped for another, granting unprecendented versatility to lightsaber wielders looking for additional functionality from their otherwise traditional weapon. This attachment can only be applied to lightsabers.</Description>
+[P]Lightsabers rely on kyber crystals attuned to the wielder to create energy blades of different types. Under normal circumstances, swapping out one crystal for another is an arduous process requiring the lightsaber to be disassembled first. Unsatisfied with this situation, a handful of enterprising (if unorthodox) Force users have created attachments that allow for two (or more) crystals to be installed in a single lightsaber. With the press of a button, one crystal is swapped for another, granting unprecendented versatility to lightsaber wielders looking for additional functionality from their otherwise traditional weapon. This attachment can only be applied to lightsabers.</Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -3938,7 +3938,7 @@ better to make passengers and guests feel at home.</Description>
     <Name>Kimber Stone</Name>
     <Description>
       [H3]Kimber Stone[h3]
-[P]Kimber stones are a type of kyber crystal produced by violent volcanic activity on the moon of Y'ness in the N'zoth system. They were once considered unsuitable for use in lightsabers due to the non-lethal nature of the blades they create. Certain Jedi Knights saw potential in kimber stones, and so a number were acquired from Y'ness prior to the destruction of the Jedi Order. Today, kimber stones are occassionally sold at auction on the black market, usually as mere trinkets by those who do not understand their true value as kyber kristals. A kimber stone is a lightsaber crystal. </Description>
+[P]Kimber stones are a type of kyber crystal produced by violent volcanic activity on the moon of Y'ness in the N'zoth system. They were once considered unsuitable for use in lightsabers due to the non-lethal nature of the blades they create. Certain Jedi Knights saw potential in kimber stones, and so a number were acquired from Y'ness prior to the destruction of the Jedi Order. Today, kimber stones are occassionally sold at auction on the black market, usually as mere trinkets by those who do not understand their true value as kyber crystals. A kimber stone is a lightsaber crystal. </Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -4190,7 +4190,7 @@ Low-friction coatings work by lowering the coefficient of friction against solid
     <Name>Hardened</Name>
     <Description>
       [H3]Hardened[h3]
-[P]Power armor relies on its energy source to maintain functionality. If this flow of energy is interrupted by a powerful electromagnetic burst or exposure to ion weapons, the armor losesboth its mobility and its ability to enhance the wearer.  With the armor's vital systems "hardened" against such effects, power armor becomes immune to these attacks. Such hardening modifications are weighty, however. Adjustments must be made to nearly every subsystem to prevent even partial shutdowns from taking place. This attachment can only be applied to power armor.     </Description>
+[P]Power armor relies on its energy source to maintain functionality. If this flow of energy is interrupted by a powerful electromagnetic burst or exposure to ion weapons, the armor loses both its mobility and its ability to enhance the wearer.  With the armor's vital systems "hardened" against such effects, power armor becomes immune to these attacks. Such hardening modifications are weighty, however. Adjustments must be made to nearly every subsystem to prevent even partial shutdowns from taking place. This attachment can only be applied to power armor.     </Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
@@ -4583,7 +4583,7 @@ Laser cannons are the mainstay weapons of many ships, and manufacturers constant
     <Key>ENCRYCOMP</Key>
     <Name>Encrypted Computer</Name>
     <Description>[H3]Encrypted Computer[h3]
-A skilled Slicer knows how to protect a computer system from others skilled in electronic skulduggery, and is likeley to take steps to do just that. Whether consisting of modifications and programming by a crew member or of specialized softwar purchased on teh black market, encrypted systems can protect a ship against slicing attacks at port and during battle. In addition to preventing catastrophes during skirmishes, the extra security is of great use to any group that wants to keep its data private. This attachment can be applied to any vehicle or starship.
+A skilled Slicer knows how to protect a computer system from others skilled in electronic skulduggery, and is likely to take steps to do just that. Whether consisting of modifications and programming by a crew member or of specialized softwar purchased on teh black market, encrypted systems can protect a ship against slicing attacks at port and during battle. In addition to preventing catastrophes during skirmishes, the extra security is of great use to any group that wants to keep its data private. This attachment can be applied to any vehicle or starship.
 [B][P]Models Include:[b] Numerous Custom Variants</Description>
     <Source Page="65">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -5066,7 +5066,7 @@ Although standard "off-the-shelf" armor can provide invaluable protection, it ca
     <Key>INTASCGEAR</Key>
     <Name>Integrated Ascension Gear</Name>
     <Description>[H3]Integrated Ascension Gear[h3]
-Incorporating a grapnel launcer, line, clips and other climbing and rappelling equipment directly into a set of armor ensures that the user is always prepared to ascend or descend sheer surfaces in a hurry. Whether to escape from pursuers, follow a target, infiltrate a secure building or exfiltrate from a dangerous situation, ascension gear  can prove invaluable in a variety of situations. In addition, having the grapnel and line integrated directly into one's armor provides a high degree of safety and security. This attachment can be applied to any armor.
+Incorporating a grapnel launcher, line, clips and other climbing and rappelling equipment directly into a set of armor ensures that the user is always prepared to ascend or descend sheer surfaces in a hurry. Whether to escape from pursuers, follow a target, infiltrate a secure building or exfiltrate from a dangerous situation, ascension gear  can prove invaluable in a variety of situations. In addition, having the grapnel and line integrated directly into one's armor provides a high degree of safety and security. This attachment can be applied to any armor.
 [P][B]Models Include:[b] TaggeCo Integrated Ascension Unit, VargeCorp ClimbAll Armor.</Description>
     <Source Page="57">Special Modifications</Source>
     <Custom>DescOnly</Custom>

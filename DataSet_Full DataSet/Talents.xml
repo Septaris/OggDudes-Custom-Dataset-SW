@@ -6992,7 +6992,7 @@
   <Talent>
     <Key>FORCECONN</Key>
     <Name>Force Connection</Name>
-    <Description>When the character performs a Survival or Knowledgen(Xenology) skill check, he may roll [FO] no greater than his Force rating. The character may spend [FP] to add [SU] or [AD] (character's choice) to the result.</Description>
+    <Description>When the character performs a Survival or Knowledge(Xenology) skill check, he may roll [FO] no greater than his Force rating. The character may spend [FP] to add [SU] or [AD] (character's choice) to the result.</Description>
     <Source Page="30">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>

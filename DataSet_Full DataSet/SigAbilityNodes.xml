@@ -1703,7 +1703,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
   <SigAbilityNode>
     <Key>HARDERTHEYFALLBASE</Key>
     <Name>The Harder They Fall Base Ability</Name>
-    <Description>Once per game session as an incidental, the character may spend 2 Destiny Points and make a [B]Hard ([DI][DI][DI]) Mechanics check[b]. If successful, for the remainder of the encounter, combat checks the character makes against vehicles, structures, or droids that inflict wounds or hull trauma automatically inflict a Critical lnjury or Critical Hit (depending on the target). [AD] or [TR] can be spent to trigger the attack's critical rating additional times, adding + 10 to the critical roll as usual.</Description>
+    <Description>Once per game session as an incidental, the character may spend 2 Destiny Points and make a [B]Hard ([DI][DI][DI]) Mechanics check[b]. If successful, for the remainder of the encounter, combat checks the character makes against vehicles, structures, or droids that inflict wounds or hull trauma automatically inflict a Critical injury or Critical Hit (depending on the target). [AD] or [TR] can be spent to trigger the attack's critical rating additional times, adding + 10 to the critical roll as usual.</Description>
     <Source Page="34">Fully Operational</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>The Harder They Fall</SigAbility>

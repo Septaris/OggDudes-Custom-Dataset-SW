@@ -6666,7 +6666,7 @@ The ChandrilTech PX-7 heat sensor used to detect anomalous variations in tempera
     <Name>Personal Transponder</Name>
     <Description>
       [H3]Personal Transponder[h3]
-[P]Personal transponders are low-powered tracking devices used to locate individuals. While bare-bones transponders are available at relatively low prices, many individuals choose to personalize theirs for use as jewlery, such as rings, pendants, cuff links, or other affectations. Though the transmission range for personal transponders is hardly infinite, they can be easily located with standard hand scanners as long as the transponder's unique frequency is known.
+[P]Personal transponders are low-powered tracking devices used to locate individuals. While bare-bones transponders are available at relatively low prices, many individuals choose to personalize theirs for use as jewelry, such as rings, pendants, cuff links, or other affectations. Though the transmission range for personal transponders is hardly infinite, they can be easily located with standard hand scanners as long as the transponder's unique frequency is known.
 [P]Picking up a personal transponder's signal accurately enough to find its exact location wthin close range on a planetary scale requires an [B]Average ([DI][DI]) Computers check[b]. Increase the difficulty of this check by two for each planetary scale range band beyond close, to a maximum of extreme range at the planetary scale.</Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
@@ -7037,7 +7037,7 @@ Designed for cold-weather expeditions, the Copora-Tech Thermal Cutter is basical
     <Name>Sporting Macrobinoculars</Name>
     <Description>
       [H3]Sporting Macrobinoculars[h3]
-Sporting macrobinoculars incorporate typical macrobinocu- lar functions with video recording and playback features. Aleena sports enthusiasts are typically credited with the integration of these extra features into the device. Sporting macrobinoculars also see use in the field of espionage. Spies can track their targets’ schedules or selectively record their prey’s actions for later review.
+Sporting macrobinoculars incorporate typical macrobinocular functions with video recording and playback features. Aleena sports enthusiasts are typically credited with the integration of these extra features into the device. Sporting macrobinoculars also see use in the field of espionage. Spies can track their targets’ schedules or selectively record their prey’s actions for later review.
 [P]Sporting macrobinoculars magnify objects up to five kilometers away, and can record objects viewed. They also remove [SE] imposed due to long range or poor light.</Description>
     <Source Page="105">Nexus of Power</Source>
     <Custom>DescOnly</Custom>
@@ -7355,7 +7355,7 @@ the officer corps of the Alliance Military.</Description>
     <Name>Taradon's Helm</Name>
     <Description>
       [H3]Taradon's Helm[h3]
-Somewhere in the icy wastes of Hum, the wreckage of a starfighter serves as the tomb of the Jedi Taradon, a Corel- lian human possessed of extraordinary prowess as a pilot. Taradon was a member of the Jedi Order in the early days of the Republic. If legends are to be believed, he pursued evildoers with blade and blaster for almost a century before disappearing while fighting off a raid of the Jedi-protected planet Hum.
+Somewhere in the icy wastes of Hum, the wreckage of a starfighter serves as the tomb of the Jedi Taradon, a Corellian human possessed of extraordinary prowess as a pilot. Taradon was a member of the Jedi Order in the early days of the Republic. If legends are to be believed, he pursued evildoers with blade and blaster for almost a century before disappearing while fighting off a raid of the Jedi-protected planet Hum.
 [P]Taradon is known to have brought dozens of galactic criminals to justice, but unlike other famous Jedi Knights, he rarely met his foes face to face. Instead, he haunted the spacelanes, ghosting in and out of hyperspace at the controls of one of the half-dozen starfighters and gunboats he is known to have piloted. Whether acting on his own or at the behest of the Jedi Council, the human always preferred to stalk his prey while safely ensconced in a cockpit, where his preternatural skills and technical acumen eventually led him to develop the omnicompatible piloting device known today as Taradon’s Helm.
 [P]Though many shipwrights and pilots have heard tales of the Helm, few could venture to describe its physical characteristics, much less its functions. The Helm is known to have been human-portable; hot-swappable into the hardware of dozens, if not hundreds, of different ship types; and capable of integrating piloting, navigation, and weapon systems into a discrete, maddeningly complicated interface. What is less well known is that Taradon imbued his unique invention with secret crystalline technologies that tap into the Force, enabling those who use it to channel their courage and wisdom into extraordinary acts of piloting derring-do.
 [P]In fact, the device now called the Helm (it is unknown by what name Taradon referred to it) is relatively small and bears more resemblance to a modern slicer’s gear than to surviving examples of early Republic starship control mechanisms. It takes the form of a control box studded with switches, buttons, and indicator lights, roughly rectangular but tapering to a conical point on one side. This cone, along with the leads that extend from it, is the interface point that connects Taradon’s Helm to the controls of almost any craft capable of flight, from simple atmospheric hoppers to interstellar dreadnoughts. The design is wickedly clever, with multiple methods available to connect the Helm to a ship, accounting for the mind- boggling array of craft it could augment.
@@ -7676,7 +7676,7 @@ The swampy world of Dagobah has been erased from galactic charts, but the rare v
     <Name>Butterbug Remote</Name>
     <Description>
       [H3]Butterbug Remote[h3]
-These small palm-sized remotes tramsit localised information to each other and to the user. Whole batches can be linked together as a networked swarm.
+These small palm-sized remotes tramsit localized information to each other and to the user. Whole batches can be linked together as a networked swarm.
     </Description>
     <Source Page="53">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -7979,7 +7979,7 @@ motion sensor with video and audio that can detect targets up to long range. Onc
       [H3]Low-Feedback Scanner[h3]
 CryonCorp designed the low-feedback scanner specifically for Cotals and members of other species sensitive to the electromagnetic spectrum. While more
 problematic for droids, certain active scanners also
-cause afflicted species migraines or worse. The lowfeedback scanner avoids these issues by only making
+cause afflicted species migraines or worse. The low-feedback scanner avoids these issues by only making
 use of passive collection technologies.
 [P]For Alliance purposes, this scanner is effectively
 invisible to Imperial sensor sweeps, making it common in special forces units. The Alliance hijacked
@@ -8207,7 +8207,7 @@ These compact containers for use in relief efforts when catastrophe strikes inha
     <Name>Model 31 Palm Stunner</Name>
     <Description>
       [H3]Merr-Sonn Model 31 Palm Stunner[h3]
-This high-output stun weapon takes the form of a flat lense small enough to conceal in the palm of a hand. This compact construction, though, restricts its use in actual combat due to the limits of its power storage. Instead, the owners of these devices typically use them to incapacitate an unaware target with a careful application.
+This high-output stun weapon takes the form of a flat lens small enough to conceal in the palm of a hand. This compact construction, though, restricts its use in actual combat due to the limits of its power storage. Instead, the owners of these devices typically use them to incapacitate an unaware target with a careful application.
 [P]A character can use a palm stunner on an unaware target with an [B]opposed Skulduggery versus Resilience check[b]. A successful check automatically incapacitates a minion, or deals 12 damage to the strain threshold of a rival or nemesis. In addition, each [SU] on the Opposed Stealth check increases the damage dealt by 1.
     </Description>
     <Source Page="49">Endless Vigil</Source>
@@ -8294,7 +8294,7 @@ These tiny spiderlike automata are little more than mobile audio bugs, barely wo
     <Name>Infrabinoculars (Long Range)</Name>
     <Description>
       [H3]Infrabinoculars (Long Range)[h3]
-A normal pair of macrobinoculars allows their user to see distant objects with great clarity, and more advanced electrobinoculars allow for surveillance in dim light or at great ranges. Both tools are limited use in a city, where the walls of high-rise buildings frequently limite lines of sight. Infrabinoculars are specialized tools designed to enhance awareness in urban environments. Instead of enhancing vision at a distance, infrabinoculars are able to pick up heat signatures through even thick or shielded walls, outlinging life forms and other heat-emitting phenomena.
+A normal pair of macrobinoculars allows their user to see distant objects with great clarity, and more advanced electrobinoculars allow for surveillance in dim light or at great ranges. Both tools are limited use in a city, where the walls of high-rise buildings frequently limit lines of sight. Infrabinoculars are specialized tools designed to enhance awareness in urban environments. Instead of enhancing vision at a distance, infrabinoculars are able to pick up heat signatures through even thick or shielded walls, outlinging life forms and other heat-emitting phenomena.
 [P]A character using infrabinoculars can see through up to two meters of wall, possible allowing surveillance of a whole building at once. Walls made of dense materials or constructed to shields their interiors may impose one or more [SE] on Perception checks to see inside, at the GM's discretion.
 [P]Some models of infrabinoculars can alternate between this infrared sensor package and a long-range view equivalent to that of electrobinoculars.</Description>
     <Source Page="48">Endless Vigil</Source>
@@ -8328,7 +8328,7 @@ A normal pair of macrobinoculars allows their user to see distant objects with g
     <Name>Infrabinoculars</Name>
     <Description>
       [H3]Infrabinoculars[h3]
-A normal pair of macrobinoculars allows their user to see distant objects with great clarity, and more advanced electrobinoculars allow for surveillance in dim light or at great ranges. Both tools are limited use in a city, where the walls of high-rise buildings frequently limite lines of sight. Infrabinoculars are specialized tools designed to enhance awareness in urban environments. Instead of enhancing vision at a distance, infrabinoculars are able to pick up heat signatures through even thick or shielded walls, outlinging life forms and other heat-emitting phenomena.
+A normal pair of macrobinoculars allows their user to see distant objects with great clarity, and more advanced electrobinoculars allow for surveillance in dim light or at great ranges. Both tools are limited use in a city, where the walls of high-rise buildings frequently limit lines of sight. Infrabinoculars are specialized tools designed to enhance awareness in urban environments. Instead of enhancing vision at a distance, infrabinoculars are able to pick up heat signatures through even thick or shielded walls, outlinging life forms and other heat-emitting phenomena.
 [P]A character using infrabinoculars can see through up to two meters of wall, possible allowing surveillance of a whole building at once. Walls made of dense materials or constructed to shields their interiors may impose one or more [SE] on Perception checks to see inside, at the GM's discretion.
 [P]Some models of infrabinoculars can alternate between this infrared sensor package and a long-range view equivalent to that of electrobinoculars.</Description>
     <Source Page="48">Endless Vigil</Source>
@@ -8435,7 +8435,7 @@ Interrogation serums are a favored product of the Empire. Used by Imperial autho
     <Name>Karrak Spice (100 doses)</Name>
     <Description>
       [H3]Karrak Spice[h3]
-This rare spice is well known for its properties as a powerful painkiller and for the degenerative toxins that build up in long-term users. Underworld pushers frequently attempt to sell it instead of medicine, knowning it supresses most symptoms of illness long enough to appear effective, while doing nothing to cure the customers of their need for its "treatment". As if this practice were not repugnant enough, the spice has another, less-known property  that offers another venue for exploitation; karrak spice suppresses Force abilities in those who take it. This property is tracked by the Imperial Science Bureau, which is working on new ways to refine or duplicate it. The ISB has also developed improved forms of the spice that are sometimes issued to Imperial agents hoping to capture a Force-using target.
+This rare spice is well known for its properties as a powerful painkiller and for the degenerative toxins that build up in long-term users. Underworld pushers frequently attempt to sell it instead of medicine, knowing it supresses most symptoms of illness long enough to appear effective, while doing nothing to cure the customers of their need for its "treatment". As if this practice were not repugnant enough, the spice has another, less-known property  that offers another venue for exploitation; karrak spice suppresses Force abilities in those who take it. This property is tracked by the Imperial Science Bureau, which is working on new ways to refine or duplicate it. The ISB has also developed improved forms of the spice that are sometimes issued to Imperial agents hoping to capture a Force-using target.
 [P]When taken by characters who are not Force users, a single does of karrak spice removes [SE][SE][SE] added to checks from pain or illness for twelve hours, but imposes automatic [TH] on all checks for twenty four hours as it slows down thought and reflexes. Force users who take a does of karrak spice recieve both effects for twice the duration and also count their Force rating as one lower while it is active.</Description>
     <Source Page="48">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
@@ -8457,7 +8457,7 @@ This rare spice is well known for its properties as a powerful painkiller and fo
     <Name>Karrak Spice (1 dose)</Name>
     <Description>
       [H3]Karrak Spice[h3]
-This rare spice is well known for its properties as a powerful painkiller and for the degenerative toxins that build up in long-term users. Underworld pushers frequently attempt to sell it instead of medicine, knowning it supresses most symptoms of illness long enough to appear effective, while doing nothing to cure the customers of their need for its "treatment". As if this practice were not repugnant enough, the spice has another, less-known property  that offers another venue for exploitation; karrak spice suppresses Force abilities in those who take it. This property is tracked by the Imperial Science Bureau, which is working on new ways to refine or duplicate it. The ISB has also developed improved forms of the spice that are sometimes issued to Imperial agents hoping to capture a Force-using target.
+This rare spice is well known for its properties as a powerful painkiller and for the degenerative toxins that build up in long-term users. Underworld pushers frequently attempt to sell it instead of medicine, knowing it supresses most symptoms of illness long enough to appear effective, while doing nothing to cure the customers of their need for its "treatment". As if this practice were not repugnant enough, the spice has another, less-known property  that offers another venue for exploitation; karrak spice suppresses Force abilities in those who take it. This property is tracked by the Imperial Science Bureau, which is working on new ways to refine or duplicate it. The ISB has also developed improved forms of the spice that are sometimes issued to Imperial agents hoping to capture a Force-using target.
 [P]When taken by characters who are not Force users, a single does of karrak spice removes [SE][SE][SE] added to checks from pain or illness for twelve hours, but imposes automatic [TH] on all checks for twenty four hours as it slows down thought and reflexes. Force users who take a does of karrak spice recieve both effects for twice the duration and also count their Force rating as one lower while it is active.</Description>
     <Source Page="48">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
@@ -8666,7 +8666,7 @@ Even in a galaxy as old and well travelled as this, new worlds are still regular
     <Description>
       [H3]Urban Compass[h3]
 While constructed around common datapads, urban compasses are more specialized tools. These compasses are equipped with a network of miniaturized sensors and data transmitters that connect to any actively broadcasting frequencies to collect information about the position of the user,  possible routes to the user's destination, local conditions, and other information relevent to navigating a large city.
-[P]Individuals using an urban compass to find their way around a city remove [SE][SE] from checks due to unfamiliarity with the city, traffic, or other avoidable travel hazards. Additionally, an urban compass can turn up information on local establishments and customs, granting [BO] to checks to find information about the city's operation, various landmakrs of note and businesses of all types.</Description>
+[P]Individuals using an urban compass to find their way around a city remove [SE][SE] from checks due to unfamiliarity with the city, traffic, or other avoidable travel hazards. Additionally, an urban compass can turn up information on local establishments and customs, granting [BO] to checks to find information about the city's operation, various landmarks of note and businesses of all types.</Description>
     <Source Page="51">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
@@ -8988,7 +8988,7 @@ A rare example of a feline predator with a pack instinct, manka cats have been f
     <Name>Hurghol</Name>
     <Description>
       [H3]Hurghol[h3]
-The mountain dwelling hurghols are surefotted, reptilian climbers, whose many jointed limbs allow them to move across almost any incline or surface. However, the species' most unusual trait is not its deft climbing, but its diet—or arguably, its lack of one. While some believe that hurghols ingest a mineral diet, as they lick or even chew at the rocks of their mountain homes. In truth they only draw in trace elements from this habit, used to strengthen their hides against harsh elements. As far as can be determined, they do not need to eat at all in the commonly understood sense, instead drawing all the energy needed to survive from the Force itself. Stories have circulated through the galaxy of incredible feats of endurance by hurghols such as falling down a steep inclines and breaking legs, then climbing out unperturbed months laterm after the limbs healed naturally.</Description>
+The mountain dwelling hurghols are surefotted, reptilian climbers, whose many jointed limbs allow them to move across almost any incline or surface. However, the species' most unusual trait is not its deft climbing, but its diet—or arguably, its lack of one. While some believe that hurghols ingest a mineral diet, as they lick or even chew at the rocks of their mountain homes. In truth they only draw in trace elements from this habit, used to strengthen their hides against harsh elements. As far as can be determined, they do not need to eat at all in the commonly understood sense, instead drawing all the energy needed to survive from the Force itself. Stories have circulated through the galaxy of incredible feats of endurance by hurghols such as falling down a steep inclines and breaking legs, then climbing out unperturbed months later after the limbs healed naturally.</Description>
     <Source Page="75">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Type>Trainable Beasts</Type>
@@ -9369,7 +9369,7 @@ Used in spice mines and prisons across the galaxy, stun collars are an effective
     <Description>
       [H3]TRD-2 Sparring Droid[h3]
 
-[P]Briefly manufactured by Balmorran Arms, and loosley based upon their SD-series battle droid, these droids were designed to complement live sparring partners during the training of youn Imperial officer cadets. However, instructors found that the TRD-series lacked the killer instinct of more purpose-built combat droids, resulting in fewer training deaths and the perception that trainees were being coddled. The sparring droids were subsequently phased out of service. As the Empire moved on with more lethal units, the TRDs were reproduced, often for crowd suppression or as inexpensive corporate security. There are still examples of the TRD units being used for their original purpose, however, with organizations that feel the droid's versatility and resilience impart a deeper mastery of a wider array of combat skills.
+[P]Briefly manufactured by Balmorran Arms, and loosely based upon their SD-series battle droid, these droids were designed to complement live sparring partners during the training of youn Imperial officer cadets. However, instructors found that the TRD-series lacked the killer instinct of more purpose-built combat droids, resulting in fewer training deaths and the perception that trainees were being coddled. The sparring droids were subsequently phased out of service. As the Empire moved on with more lethal units, the TRDs were reproduced, often for crowd suppression or as inexpensive corporate security. There are still examples of the TRD units being used for their original purpose, however, with organizations that feel the droid's versatility and resilience impart a deeper mastery of a wider array of combat skills.
 [P]Buzzing back and forth on their whirring treads, the TRD's arms flash with lightning reflexes, showcasing the fighting styles of over a hundred thousand cultures programmed into the droid's core memory systems. Variable limb configurations serve to mimic the strengths and weaknesses of countless foes. Many find a TRD-2 droid one of the best tests of martial prowess to be found.</Description>
     <Source Page="55">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
@@ -11437,7 +11437,7 @@ The IG-RM series is one the the more common offshoots of Holowan Laboratories IG
     <Description>[H3]KX-series Enforcer Droid[h3]
 Arakyd Industries' KX-series enforcer droids are a rarity in the Empire's armed forces. While droids in general are quite common in the Imperial military, those programmed for combat or other warlike functions are largely unheard of. General distrust of Class IV droids throughout the galaxy, plus the debacle of the dark trooper program, has soured the Joint Chiefs on the use of combat droids. One exception to this rule, however, is the Imperial Army's KX-series.
 [P]Officially classified as security droids, KX-series droids are general-purpose units used in roles ranging from combat support to security to frontline battle. They stand just over two meters tall, with broad shoulders; long, thin limbs; and a skull-like head with two piercing white optical sensors. Their bodies are covered in dark gunmetal armor and an integrated back-mounted combat computer gives them an almost hunchbacked posture. Rigorously controlled and monitored, these droids are subjected to all appropriate service and maintenance, which gives them little opportunity to develop individual personalities. What little personality they do have is cool, commanding, and menacing. Extremely single-minded, they are quite difficult to bluff or distract from their given mission. Their humanoid form also means they can be equipped with almost any weapon a human could use.
-[P]KX-series droids are a priority target for insurgents. Rebel leadershiphas put a bounty on their capture, and at least one cell has a KX among its membership that acts as an infiltrator and spy.</Description>
+[P]KX-series droids are a priority target for insurgents. Rebel leaderships put a bounty on their capture, and at least one cell has a KX among its membership that acts as an infiltrator and spy.</Description>
     <Source Page="120">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <Type>Droids</Type>
@@ -11575,8 +11575,8 @@ Originally produced for Corellian Security (CorSec) intelligence agents by Chiew
     <Key>VUTALAMINE</Key>
     <Name>Vutalamine</Name>
     <Description>[H3]Vutalamine[h3]
-Vutalamine is a common anti-anxiety drug that Bio- Tech Industries produces and sells throughout the galaxy. Colloquially known as "vue," it has been a mainstay of the galactic pharmacopeia for treating psychological maladies, muscle spasms, and seizures for at least a century. Vue has a calming effect that allows individuals to process information more clearly and make better decisions. It also slows down breathing and circulation, along with reducing tremors and steadying limbs. Thanks to these last qualities, many sharpshooters, slicers, and assassins use the drug to help steady their hands while shooting or to steady their nerves in extremely stressful situations. Long-term use of vue can be addicting, and side effects can include acute paranoia, suicidal ideation, and impairment of memory and judgement. 
-[P]A single dose of vue lasts for twenty-four hours. During that time, the character upgrades the ability of any checks made to resist stress or fear once. In addition, the difficulty of Ranged (Light) and Ranged (Heavy) checks made at long or extreme range is reduced by one. At the Game Master's discretion, frequent use of vue can cause impaired judgement and loss of memory, imposing permanent [SE] on Intellect- and Cunning-based checks.</Description>
+Vutalamine is a common anti-anxiety drug that Bio- Tech Industries produces and sells throughout the galaxy. Colloquially known as "vue," it has been a mainstay of the galactic pharmacopeia for treating psychological maladies, muscle spasms, and seizures for at least a century. Vue has a calming effect that allows individuals to process information more clearly and make better decisions. It also slows down breathing and circulation, along with reducing tremors and steadying limbs. Thanks to these last qualities, many sharpshooters, slicers, and assassins use the drug to help steady their hands while shooting or to steady their nerves in extremely stressful situations. Long-term use of vue can be addicting, and side effects can include acute paranoia, suicidal ideation, and impairment of memory and judgment. 
+[P]A single dose of vue lasts for twenty-four hours. During that time, the character upgrades the ability of any checks made to resist stress or fear once. In addition, the difficulty of Ranged (Light) and Ranged (Heavy) checks made at long or extreme range is reduced by one. At the Game Master's discretion, frequent use of vue can cause impaired judgment and loss of memory, imposing permanent [SE] on Intellect- and Cunning-based checks.</Description>
     <Source Page="43">Cyphers and Masks</Source>
     <Custom>AddedItem</Custom>
     <Type>Poisons</Type>
@@ -11590,7 +11590,7 @@ Vutalamine is a common anti-anxiety drug that Bio- Tech Industries produces and 
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>At the Game Master's discretion, frequent use of vue can cause impaired judgement and loss of memory, imposing permanent [SE] on Intellect- and Cunning-based checks.</MiscDesc>
+        <MiscDesc>At the Game Master's discretion, frequent use of vue can cause impaired judgment and loss of memory, imposing permanent [SE] on Intellect- and Cunning-based checks.</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
