@@ -401,7 +401,7 @@
       <Source>Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Power>Forsee</Power>
+    <Power>Foresee</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>FORSEECONTROL1</Key>
@@ -412,7 +412,7 @@
       <Source>Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Power>Forsee</Power>
+    <Power>Foresee</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>FORSEECONTROL2</Key>
@@ -423,7 +423,7 @@
       <Source>Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Power>Forsee</Power>
+    <Power>Foresee</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>FORSEECONTROL3</Key>
@@ -434,7 +434,7 @@
       <Source>Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Power>Forsee</Power>
+    <Power>Foresee</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>FORSEEDURATION</Key>
@@ -445,7 +445,7 @@
       <Source>Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Power>Forsee</Power>
+    <Power>Foresee</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>FORSEEMAGNITUDE</Key>
@@ -456,7 +456,7 @@
       <Source>Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Power>Forsee</Power>
+    <Power>Foresee</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>FORSEERANGE</Key>
@@ -467,7 +467,7 @@
       <Source>Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Power>Forsee</Power>
+    <Power>Foresee</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>FORSEESTRENGTH</Key>
@@ -478,7 +478,7 @@
       <Source>Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Power>Forsee</Power>
+    <Power>Foresee</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>HEALHARMBASIC</Key>
@@ -1115,7 +1115,7 @@
   <ForceAbility>
     <Key>FARSIGHTDURATION</Key>
     <Name>Duration</Name>
-    <Description>Spend [FP] to increase duration by number of rounds for minutes equal to Druation upgrades purchased.</Description>
+    <Description>Spend [FP] to increase duration by number of rounds for minutes equal to Duration upgrades purchased.</Description>
     <Source Page="36">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Power>Farsight</Power>
@@ -1179,7 +1179,7 @@
   <ForceAbility>
     <Key>MANIPULATECONTROL2</Key>
     <Name>Control: Increase System Strain</Name>
-    <Description>Ongoing efffect: Commit [FO] Increase the system strain threshold of 1 vehicle or starship at engaged range by 3 per [FO] committed.</Description>
+    <Description>Ongoing effect: Commit [FO] Increase the system strain threshold of 1 vehicle or starship at engaged range by 3 per [FO] committed.</Description>
     <Source Page="37">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Power>Manipulate</Power>
@@ -1220,7 +1220,7 @@
   <ForceAbility>
     <Key>FARSIGHTCONTROL4</Key>
     <Name>Control: Perception</Name>
-    <Description>This power gains the ongoing effect: Commit [FO] after successfully activating the Farshigh power to increase ranks in Perception by 1.</Description>
+    <Description>This power gains the ongoing effect: Commit [FO] after successfully activating the Farsight power to increase ranks in Perception by 1.</Description>
     <Source Page="36">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Power>Farsight</Power>
@@ -1395,7 +1395,7 @@
   <ForceAbility>
     <Key>EBBFLOWCONTROL4</Key>
     <Name>Control: Skill Checks</Name>
-    <Description>Commit [FO] until the end of the current ecounter. For the remainer of the current encounter, add [FO] to all skill checks. Each [LI] and [DA] adds either [SU] or [AD] to the check; each [DA] causes the user to suffer 1 strain and gain 1 Conflict.</Description>
+    <Description>Commit [FO] until the end of the current encounter. For the remainer of the current encounter, add [FO] to all skill checks. Each [LI] and [DA] adds either [SU] or [AD] to the check; each [DA] causes the user to suffer 1 strain and gain 1 Conflict.</Description>
     <Source Page="39">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
     <Power>Ebb/Flow</Power>

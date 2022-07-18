@@ -3246,7 +3246,7 @@
   <Talent>
     <Key>BURLY</Key>
     <Name>Burly</Name>
-    <Description>Reduce any wielded weapon's Cumbersome quality and Encumberance rating by a number equal to ranks in Burly to a minimum of 1.</Description>
+    <Description>Reduce any wielded weapon's Cumbersome quality and Encumbrance rating by a number equal to ranks in Burly to a minimum of 1.</Description>
     <Source>Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
@@ -4742,7 +4742,7 @@
   <Talent>
     <Key>INKNOWIMP</Key>
     <Name>In the Know (Improved)</Name>
-    <Description>Once per session, make an [B]opposed Decepetion vs Vigilance[b] check with the difficulty downgraded once per rank of In the Know to have a target NPC believe specific false intelligence.</Description>
+    <Description>Once per session, make an [B]opposed Deception vs Vigilance[b] check with the difficulty downgraded once per rank of In the Know to have a target NPC believe specific false intelligence.</Description>
     <Source Page="33">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taAction</ActivationValue>
@@ -6678,7 +6678,7 @@
   <Talent>
     <Key>STRSMARTIMP</Key>
     <Name>Street Smarts (Improved)</Name>
-    <Description>Once per session, amy take an Improved Street Smarts action; make a [B]Formidible ([DI][DI][DI][DI][DI]) Streetwise[b] or [B]Knowledge (Underworld) check[b] toe learn one vital clue from the GM. Reduce the difficulty oncer per rank of Street Smarts.</Description>
+    <Description>Once per session, amy take an Improved Street Smarts action; make a [B]Formidable ([DI][DI][DI][DI][DI]) Streetwise[b] or [B]Knowledge (Underworld) check[b] toe learn one vital clue from the GM. Reduce the difficulty oncer per rank of Street Smarts.</Description>
     <Source Page="31">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taAction</ActivationValue>
@@ -6717,7 +6717,7 @@
   <Talent>
     <Key>IMPOSFALL</Key>
     <Name>Impossible Fall</Name>
-    <Description>Once per session, perform Impossible Fall incidental when falling: make Force power check and spend [FP][FP] to decrese fall by one range band and land somewhere safe. Spend [FP] to decrease distance by one additional range band.</Description>
+    <Description>Once per session, perform Impossible Fall incidental when falling: make Force power check and spend [FP][FP] to decrease fall by one range band and land somewhere safe. Spend [FP] to decrease distance by one additional range band.</Description>
     <Source Page="31">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
@@ -8680,7 +8680,7 @@
   <Talent>
     <Key>BLAT</Key>
     <Name>Blather</Name>
-    <Description>Take the Blather action, making a [B]Hard ([DI][DI][DI]) Charm or Deception check[b]. If successful, one adversary per [SU] is Disoriented for rounds eqqual to the character's Presence. The character may spend [TR] from the check to Stagger one affected target
+    <Description>Take the Blather action, making a [B]Hard ([DI][DI][DI]) Charm or Deception check[b]. If successful, one adversary per [SU] is Disoriented for rounds equal to the character's Presence. The character may spend [TR] from the check to Stagger one affected target
 </Description>
     <Source Page="31">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
@@ -9150,7 +9150,7 @@
   <Talent>
     <Key>INGLOY</Key>
     <Name>Ingrained Loyalty</Name>
-    <Description>When the character makes a Leadership check trageting on eor more clones, they may change the resilt of one [CH] to any non-blank face
+    <Description>When the character makes a Leadership check trageting one or more clones, they may change the resilt of one [CH] to any non-blank face
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
@@ -9335,7 +9335,7 @@
   <Talent>
     <Key>MISSCRIT</Key>
     <Name>Mission Critical</Name>
-    <Description>Once per session after rolling a Piloting (Planetary) or Piloting(Space) check but before resolving it, the character may spend a Destiniy Point to add [SU] or [AD] to the results equal to their ranks in that skill
+    <Description>Once per session after rolling a Piloting (Planetary) or Piloting(Space) check but before resolving it, the character may spend a Destiny Point to add [SU] or [AD] to the results equal to their ranks in that skill
 </Description>
     <Source Page="41">Rise of the Separatists</Source>
     <Custom>DescOnly</Custom>
@@ -9950,7 +9950,7 @@
   <Talent>
     <Key>UTILIMP</Key>
     <Name>Utility Belt (Improved)</Name>
-    <Description>Once per session when the character performs a Utility Belt Incidental, They may produce up to fice functionally identical items
+    <Description>Once per session when the character performs a Utility Belt Incidental, They may produce up to five functionally identical items
 </Description>
     <Source Page="41">Rise of the Separatists</Source>
     <Custom>DescOnly</Custom>

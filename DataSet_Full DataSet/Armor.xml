@@ -1743,7 +1743,7 @@ The latest suit in Merr-Sonn's N-series armor for combat engineers has broken wi
     <Description>
       [H3]Rebel Heavy Battle Armor[h3]
 Most Alliance field tactics focus on hit-and-fade strikes, sabotage and denial operations, but sometimes the Rebellion has no choice but to stand and fight against Imperial forces. Unfortunately, the Rebellion lacks the manpower and weapons to dominate the Empire in field warfare. Rebel infantry uses heavy battle armor to help ensure their survival when outmanned and outgunned by superior Imperial numbers.
-[P]Rebel heavy battle armor is a combination of composites, laminate and armored clothing that provides significant overall protection. The base layer is made of armorweave cloth to disspate blaster bolts and plastoid segments over top to protect from fragmentation and blunt force. The combination of materials provides heavy protection while allowing freedom of movement, unlike most full laminate battle suits.
+[P]Rebel heavy battle armor is a combination of composites, laminate and armored clothing that provides significant overall protection. The base layer is made of armorweave cloth to dissipate blaster bolts and plastoid segments over top to protect from fragmentation and blunt force. The combination of materials provides heavy protection while allowing freedom of movement, unlike most full laminate battle suits.
 [P]Rebel heavy battle armor is equipped with helmet-fitted breath mask and respirator (see page 195 of the [B]Age of Rebellion [b] Core Rulebook).
     </Description>
     <Source Page="50">Forged in Battle</Source>
@@ -1989,7 +1989,7 @@ provides one hour of internal power. The stock suit
 comes with six removable filters and power packs,
 easily stored in the thinsuit’s many pockets.
 [P]A character equipped with a thinsuit removes [SE][SE]
-imposed by the environm ent in which she is currently
+imposed by the environment in which she is currently
 operating from her checks.</Description>
     <Source Page="50">Forged in Battle</Source>
     <Custom>DescOnly</Custom>

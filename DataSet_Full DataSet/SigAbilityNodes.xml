@@ -1061,7 +1061,7 @@ to activate Rousing Oratory.</Description>
   <SigAbilityNode>
     <Key>UNMATCHEDVIGILANCEBASIC</Key>
     <Name>Unmatched Vigilance Base Ability</Name>
-    <Description>Once per game session at the beginning of a structured encounter, the character may spend 2 Destiny Points. If he does so, he determines the Initiative order of the first round of the enounter. Characters still make checks to determine Initiative, but these results will only apply after Unmatched Vigilance's effects end.</Description>
+    <Description>Once per game session at the beginning of a structured encounter, the character may spend 2 Destiny Points. If he does so, he determines the Initiative order of the first round of the encounter. Characters still make checks to determine Initiative, but these results will only apply after Unmatched Vigilance's effects end.</Description>
     <Source Page="35">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Vigilance</SigAbility>
@@ -1384,7 +1384,7 @@ to activate Rousing Oratory.</Description>
     <Description>Before performing a combat check as part of Unmatched Devastation, suffer 2 strain  to perform the Move maneuver as an incidental.</Description>
     <Source Page="41">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
-    <SigAbility>Unmatched Devistation</SigAbility>
+    <SigAbility>Unmatched Devastation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>ALWAYSGETMYMARKINCREASEEFFECT2</Key>
@@ -1396,11 +1396,11 @@ to activate Rousing Oratory.</Description>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEDDEVISTATIONBASIC</Key>
-    <Name>Unmatched Devistation Base Ability</Name>
+    <Name>Unmatched Devastation Base Ability</Name>
     <Description>Once per game session as an incidental, after performing a combat check, the character may spend 2 Destiny Points to perform an additional combat check against the same target with the difficulty increased by 1 for each successful combat check the character has performed this turn. This combat check must be made using a non-starship vehicle weapon that the character has not already used this turn.</Description>
     <Source Page="41">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
-    <SigAbility>Unmatched Devistation</SigAbility>
+    <SigAbility>Unmatched Devastation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEDCOURAGEFINISH</Key>
@@ -1429,7 +1429,7 @@ to activate Rousing Oratory.</Description>
   <SigAbilityNode>
     <Key>UNMATCHEDCOURAGEBASIC</Key>
     <Name>Unmatched Courage Base Ability</Name>
-    <Description>Once per game session, as an out of turn incidental, the character may spend 2 Destiny Points to ignore the effects of all Critical Injuries for 2 rounds. When this effect ends, he fuggers the effects of these Critical Injuries as normal.</Description>
+    <Description>Once per game session, as an out of turn incidental, the character may spend 2 Destiny Points to ignore the effects of all Critical Injuries for 2 rounds. When this effect ends, he suffers the effects of these Critical Injuries as normal.</Description>
     <Source Page="39">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Courage</SigAbility>
@@ -1480,7 +1480,7 @@ to activate Rousing Oratory.</Description>
     <Description>The character may choose a new legal target for each combat check made as part of Unmatched Devastation.</Description>
     <Source Page="41">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
-    <SigAbility>Unmatched Devistation</SigAbility>
+    <SigAbility>Unmatched Devastation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEDDEVISTATIONINCREASENUMBER</Key>
@@ -1488,7 +1488,7 @@ to activate Rousing Oratory.</Description>
     <Description>Perform additional combat checks equal to ranks in Increase Number upgrade.</Description>
     <Source Page="41">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
-    <SigAbility>Unmatched Devistation</SigAbility>
+    <SigAbility>Unmatched Devastation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>ALWAYSGETMYMARKREDUCEDIFFICULTY</Key>
@@ -1512,7 +1512,7 @@ to activate Rousing Oratory.</Description>
     <Description>Before performing each combat check with Unmatched Devastation, the character may holster and draw a weapon.</Description>
     <Source Page="41">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
-    <SigAbility>Unmatched Devistation</SigAbility>
+    <SigAbility>Unmatched Devastation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEDDEVISTATIONREMOVESETBACK</Key>
@@ -1520,7 +1520,7 @@ to activate Rousing Oratory.</Description>
     <Description>When making a combat check part of Unmatched Devastation, remove [SE] equal to ranks in Remove Setback upgrade.</Description>
     <Source Page="41">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
-    <SigAbility>Unmatched Devistation</SigAbility>
+    <SigAbility>Unmatched Devastation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEDCOURAGESURVIVOR</Key>

@@ -622,7 +622,7 @@ The character takes anger and instead of suppressing it, uses it to fuel work. P
     <Name>Modesty</Name>
     <Description>
       [H4]Modesty (Strength)[h4]
-The character eschews credit and thanks. After all, anyone can do this work. This attitude ensures discpline and focus to the task at hand and thus helping others and reducing suffering.</Description>
+The character eschews credit and thanks. After all, anyone can do this work. This attitude ensures discipline and focus to the task at hand and thus helping others and reducing suffering.</Description>
     <Source Page="17">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Type>Strength</Type>
@@ -1535,7 +1535,7 @@ The character deliberately tries to upset or hurt those beneath him. Indulgence 
     <Name>Vanity</Name>
     <Description>
       [H4]Vanity (Weakness)[h4]
-The character turns self-deference into false modesty, denigrating himself and expecting others to bolster his ego. A twisted passive-aggressiveness can emerge in which the character demends recognition for this modesty.</Description>
+The character turns self-deference into false modesty, denigrating himself and expecting others to bolster his ego. A twisted passive-aggressiveness can emerge in which the character demands recognition for this modesty.</Description>
     <Sources>
       <Source Page="17">Endless Vigil</Source>
       <Source Page="16">Knights of Fate</Source>

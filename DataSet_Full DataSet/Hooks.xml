@@ -246,7 +246,7 @@ Some characters see their strange abilities as a sign that they are destined for
     <Name>Underworld Tech Expert</Name>
     <Description>
       [H4]Underworld Tech Expert[h4]
-In the [B]Edge of The Empire[b], it can be hard to avoid occasionally interacting with criminal enterprises and underworld culture. Many Technicians support and are supported by shady characters, if not by outright criminals. Specialised underwolrd techs can be highly prized when they fulfull a critical role in a larger organisation, bu the average Mechanic or Droid Tech is sometimes regarded as more expendable than a reliable enforcer. The character might be trying to escape difficult decisions from the past or seeking to advance within a particular criminal organisation.</Description>
+In the [B]Edge of The Empire[b], it can be hard to avoid occasionally interacting with criminal enterprises and underworld culture. Many Technicians support and are supported by shady characters, if not by outright criminals. Specialised underwolrd techs can be highly prized when they fulfill a critical role in a larger organisation, bu the average Mechanic or Droid Tech is sometimes regarded as more expendable than a reliable enforcer. The character might be trying to escape difficult decisions from the past or seeking to advance within a particular criminal organisation.</Description>
     <Source Page="16">Special Modifications</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -326,7 +326,7 @@ their former masters.
     <Name>Citizen Soldier</Name>
     <Description>
       [H4]Citizen Soldier[h4]
-Citzen soldiers are commoners from across the galaxy who fight to protect their families, their planets and their people. Though many such individuals serve in teh ranks of the Rebel Alliance only a handful reveal themselves to be exemplary leaders, especially in times of freat strife. For these people, the Rebel Alliance is a temporary but absolute obligation; the only things that might end their service are victory or death.</Description>
+Citzen soldiers are commoners from across the galaxy who fight to protect their families, their planets and their people. Though many such individuals serve in teh ranks of the Rebel Alliance only a handful reveal themselves to be exemplary leaders, especially in times of great strife. For these people, the Rebel Alliance is a temporary but absolute obligation; the only things that might end their service are victory or death.</Description>
     <Source Page="14">Lead by Example</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -407,7 +407,7 @@ Aristocrats have (or had) money and perhaps a title. They may belong to an actua
     <Name>Gang Leader</Name>
     <Description>
       [H4]Gang Leader[h4]
-Gang leaders don't always organize their groups purely for violence. Some toughs gather together to protect themselves and support each other. Other gangs mobilize to become the unofficial police of a neighborhood, espeically in places where law enforcement refuses to patrol. Gangs are sometimes a symptom of a city suffering from the disease of an injustice, be it poverty or local persecution. They are only as violent and corrupt as their leaders, though, and those led by Sentinels might be the best forces of good in a city.</Description>
+Gang leaders don't always organize their groups purely for violence. Some toughs gather together to protect themselves and support each other. Other gangs mobilize to become the unofficial police of a neighborhood, especially in places where law enforcement refuses to patrol. Gangs are sometimes a symptom of a city suffering from the disease of an injustice, be it poverty or local persecution. They are only as violent and corrupt as their leaders, though, and those led by Sentinels might be the best forces of good in a city.</Description>
     <Source Page="12">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -425,7 +425,7 @@ Not all Seekers avoid the centers of galactic activity because they are pursuing
     <Name>Exile</Name>
     <Description>
       [H4]Exile[h4]
-While many Seekers choose their paths, some are set upon them by events beyond their control. Whether they are cast adrift by the will of the Force or just cruel chance is difficult to say, but these new circumstances demeand that Seekers adapt quickly. They might be constantly on the run from the past they left behind, dodging bounty hunters, Imperials, or even their own family and fromer friends. Alternatively, these characters might simply be cut off from what was once their home, unable to return because of the events that precipitated their departure.
+While many Seekers choose their paths, some are set upon them by events beyond their control. Whether they are cast adrift by the will of the Force or just cruel chance is difficult to say, but these new circumstances demand that Seekers adapt quickly. They might be constantly on the run from the past they left behind, dodging bounty hunters, Imperials, or even their own family and former friends. Alternatively, these characters might simply be cut off from what was once their home, unable to return because of the events that precipitated their departure.
 [P]Although most exiles long for their past life to some degree. This longing is rarely more than bittersweet. By leaving the past behind, they have freed themselves from what once was and have plunged into a crucible of new adventures that call with an intesity their old life rarely offered. Any one might have to reluctantly leave their home, but the best Seekers are those who leave and never look back.</Description>
     <Source Page="12">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
@@ -445,7 +445,7 @@ The lives of Seekers can be about more than just establishing their own path. So
     <Name>Activist</Name>
     <Description>
       [H4]Activist[h4]
-Many Sentinels start off as activists in some form of another. Even unawaked to the Force, activists find themselves fighting injustice through social and legal pressure. They spread awareness, organize bodies of experts, and push for new laws. on planets that have (or claim to have) progressive rights and equalities, activists work out in the open—or at least not in hiding. On more oppressive planets, activists work queitly in the shadows but are no less effective. Those who fall to the dark side give in to their rage and desperation, their activism turning destructive for desctruction's sake or even becoming murderous in the name of justice.</Description>
+Many Sentinels start off as activists in some form of another. Even unawaked to the Force, activists find themselves fighting injustice through social and legal pressure. They spread awareness, organize bodies of experts, and push for new laws. on planets that have (or claim to have) progressive rights and equities, activists work out in the open—or at least not in hiding. On more oppressive planets, activists work queitly in the shadows but are no less effective. Those who fall to the dark side give in to their rage and desperation, their activism turning destructive for destruction's sake or even becoming murderous in the name of justice.</Description>
     <Source Page="10">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -807,7 +807,7 @@ Knowledge can be a dangerous thing and rogue scholars know this. Emperor Palpati
     <Description>
       [H4]Failed Initiate[h4]
 Not all who served in the now-destroyed Jedi Order rose to the rank of Knight. In fact, a great many did not even achieve the status of Padawan. Whether their connection to the Force was judged too weak, they did not possess the maturity to become Padawans when the time came, or no Jedi Knight would accept them into their apprenticeship, they never rose beyond the rank of Initiate. While many of these failed initiates entered the Jedi Service Corps, where they could serve as aides to the order, some simply turned their backs on the organization they felt had abandoned them. With the Empire now ruling the galaxy and the Jedi Knights exterminated, the failed initiates travel the galaxy, finding their own path in the Force.
-[P]Other failed initiates received training in traditions outside the Jedi Order, taking lessons from hidden mentors and ecentric wizards before either striking out on their own or being forced into the life of a fugitive by the Galactic Empire or other organizations. They have a great potential, but their lack of understanding may place them on a dangerous path.</Description>
+[P]Other failed initiates received training in traditions outside the Jedi Order, taking lessons from hidden mentors and eccentric wizards before either striking out on their own or being forced into the life of a fugitive by the Galactic Empire or other organizations. They have a great potential, but their lack of understanding may place them on a dangerous path.</Description>
     <Source Page="11">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -824,7 +824,7 @@ The Force grants people thoughts, visions, and emotions that some can't process,
     <Name>Augurs</Name>
     <Description>[H4]Augurs[h4]
 Augurs served a straightforward function: they exposed the truth to those who listened. They could have been anything from a fortune-teller to a psychologist, offering insights on what people should do, but also revealing hidden truths to help people make their own decisions. Some augurs received academic or institutionalized training, while others simply had an uncanny intuition (such as a village elder or community leader). Most were content with this role. The few who had the humility to delve deeper discovered the Force as the source of their wisdom.
-[P]Augurs who fell to the dark side encouraged their victims' darkest desires and instincts, enhancing their anger and pushing them toward violence. These augurs sometimes inflicted harm on others, mistaking pain, deprivaton. and violence for a means to understanding.</Description>
+[P]Augurs who fell to the dark side encouraged their victims' darkest desires and instincts, enhancing their anger and pushing them toward violence. These augurs sometimes inflicted harm on others, mistaking pain, deprivation. and violence for a means to understanding.</Description>
     <Source Page="12">Unlimited Power</Source>
     <Custom>AddedItem</Custom>
   </Hook>
