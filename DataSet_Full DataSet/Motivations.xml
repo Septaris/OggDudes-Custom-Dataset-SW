@@ -550,7 +550,7 @@ Core Rulebook.</Description>
     <Description>
       [H4]Pursuit[h4]
 Seekers are often driven individuals and their Motivations might dominate their desires and goals. These goals can be as common as Wealth or Happiness; or more specific such as Vengeance, or ongoing ones such as Exploration. Pursuits can help Seekers to improve themselves as well, becoming better in dealing death or connecting tot he Force. Players can use Pursuits to guide and strengthen the narrative gameplay for their Seeker characters.
-[P]During character creation, players can shoose the Motivation that fits their character, or they can roll randomly for one. To choose randomly from the expanded list, they first roll on [B]Table 1-2: Random Seeker Motivation[b] instead of using the corresponding [B]Table 2-3: Random Motivation[b] from page 105 of the [B]Force and Destiny[b] Core Rulebook. Player who roll Pursuit then roll again [B]Table 1-3: Specific Pursuits[b] to determine which Pursuit the appropriate tabe in the [B]Force and Destiny[b] Core Rulebook for the category rolled.</Description>
+[P]During character creation, players can choose the Motivation that fits their character, or they can roll randomly for one. To choose randomly from the expanded list, they first roll on [B]Table 1-2: Random Seeker Motivation[b] instead of using the corresponding [B]Table 2-3: Random Motivation[b] from page 105 of the [B]Force and Destiny[b] Core Rulebook. Player who roll Pursuit then roll again [B]Table 1-3: Specific Pursuits[b] to determine which Pursuit the appropriate table in the [B]Force and Destiny[b] Core Rulebook for the category rolled.</Description>
     <Source Page="32">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
@@ -571,7 +571,7 @@ Seekers are often driven individuals and their Motivations might dominate their 
     <Name>Injustice</Name>
     <Description>
       [H4]Injustice[h4]
-Similar to the Cause category of Motivation as presented in the [B]Force and Destiny[b] Core Rulebook, the new Injustice category represents social ills that motivate Sentinels. Unlike Causes, which can span worlds, Injustices (at least in the context of a Sentinal's Motivation) are less broad and affect a specific and known population. Injustices are abstract as a concept, but specific instances are concrete, as there is always a group of people sufering from the injustice.</Description>
+Similar to the Cause category of Motivation as presented in the [B]Force and Destiny[b] Core Rulebook, the new Injustice category represents social ills that motivate Sentinels. Unlike Causes, which can span worlds, Injustices (at least in the context of a Sentinal's Motivation) are less broad and affect a specific and known population. Injustices are abstract as a concept, but specific instances are concrete, as there is always a group of people suffering from the injustice.</Description>
     <Source Page="32">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>

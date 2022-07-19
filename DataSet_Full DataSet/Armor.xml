@@ -1881,7 +1881,7 @@ about unnoticed by sensors and sentries.
     <Description>
       [H3]Creshaldyne Survivalist Armor[h3]
 Creshaldyne Industries is known throughout the galaxy as a purveyor of finely made working clothes for hunters, scouts and others who live in frontier settings. It offers multiple lines of clothing and armor in a number of proprietary colors and camouflage patterns, as well as camping and hunting gear for the discerning buyer. One of the company's newer offerings in the Survivalist line of personal armor found in police forces and paramilitary organizations througout the galaxy, the Survivalist line is lightweight and hard wearing and performs well in nearly every environment.
-[P]a suit of Survivalist armor provides whole-body protection, with reinforcement patches at the elbows, knees and shoulders that combines a collection of pouches of various sizes with attachments for external bags, backpacks and sustems to aid with its load-carrying capabilities.
+[P]a suit of Survivalist armor provides whole-body protection, with reinforcement patches at the elbows, knees and shoulders that combines a collection of pouches of various sizes with attachments for external bags, backpacks and systems to aid with its load-carrying capabilities.
 [P]Wearing a suit of Survivalist armor increases the wearer's encumbrance threshold by 1.
 </Description>
     <Source Page="45">Savage Spirits</Source>
@@ -2147,7 +2147,7 @@ Stealth suits, produced by companies like Ayelixe/Kronbing Textiles and Creshald
     <Name>Crash Gear</Name>
     <Description>
       [H3]Crash Gear[h3]
-Most sets of crash gear consist of an assortment of protective wears designed to allow a user to better survive the inevitable collisions and buffeting that are part of every race or mission. Typical outerwear includes layers of microfiber cloth and impact-absorbing gel inserts worked into a jumpsuit or other form-fitting outfit, along with thick gloves and boots. Most importantly, crash gear comes with protective headwear. These can range from small skullcaps (known colloquially as "skid lids") to full-face, internally supported, environmentally sealed helmets that can rival military gear. Like crash gear outerwear, crash helmets include gel-packs and wicking microfiber but also have stron polycarbonate shells lined with dense polyfoam for greater protection. Some helmets are also equipped with integral face shields or flip-up visors that are tinted and polarized to protect the wearer's eyes from  both debris and flaring lights.
+Most sets of crash gear consist of an assortment of protective wears designed to allow a user to better survive the inevitable collisions and buffeting that are part of every race or mission. Typical outerwear includes layers of microfiber cloth and impact-absorbing gel inserts worked into a jumpsuit or other form-fitting outfit, along with thick gloves and boots. Most importantly, crash gear comes with protective headwear. These can range from small skullcaps (known colloquially as "skid lids") to full-face, internally supported, environmentally sealed helmets that can rival military gear. Like crash gear outerwear, crash helmets include gel-packs and wicking microfiber but also have strong polycarbonate shells lined with dense polyfoam for greater protection. Some helmets are also equipped with integral face shields or flip-up visors that are tinted and polarized to protect the wearer's eyes from  both debris and flaring lights.
 [P]A character wearing crash gear ignores the effects of ongoing Critical Injuries on any Intellect or Cunning related checks but still suffers from the injuries themselves. She also cannot be disorientated.
     </Description>
     <Source Page="43">Endless Vigil</Source>
@@ -2173,7 +2173,7 @@ Most sets of crash gear consist of an assortment of protective wears designed to
     <Name>Armored Drop Suit</Name>
     <Description>
       [H3]Armored Drop Suit[h3]
-Mobility is often a decisive element in any engagement. Combatants from common killers-for-hire to Imperial storrmroopers know that taking a good position and controlling the flow of combat can be better protection than a durasteel blast door. Most armor designs factor this in to some degree, foregoing absolutely maximized plating or coverage to allow normal mobility, but a few suits go above and beyond the concept of allowing “normal mobility.”
+Mobility is often a decisive element in any engagement. Combatants from common killers-for-hire to Imperial stormtroopers know that taking a good position and controlling the flow of combat can be better protection than a durasteel blast door. Most armor designs factor this in to some degree, foregoing absolutely maximized plating or coverage to allow normal mobility, but a few suits go above and beyond the concept of allowing “normal mobility.”
 [P]Armored drop suits are a type of light laminate body armor constructed around a powerful repulsorift unit,
 allowing the wearer to fly between firing positions or
 spots of cover, or to rain down attacks from above.
@@ -2558,7 +2558,7 @@ Designed with the combat engineer in mind, pioneer armor consists of a rugged, r
     <Name>Skakoan Pressure Suit</Name>
     <Description>
       [H3]Skakoan Pressure Suit[h3]
-Skakoans require methane to live, and wear special pressure suits to emulate the conditions on Skako. They start the game with a specialised pressure suit with methane respirator, which counts as armor with indefinite supplies of methane. The suit has + 2 soak, encumbrance of 3, 3 hard points, cannot acquired unless on Skako (at a price equivalent to laminate armor), and cannot be worn by other species.</Description>
+Skakoans require methane to live, and wear special pressure suits to emulate the conditions on Skako. They start the game with a specialized pressure suit with methane respirator, which counts as armor with indefinite supplies of methane. The suit has + 2 soak, encumbrance of 3, 3 hard points, cannot acquired unless on Skako (at a price equivalent to laminate armor), and cannot be worn by other species.</Description>
     <Source Page="23">Fully Operational</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -2928,7 +2928,7 @@ Please see page 57 of the Collapse of the Republic Sourcebook for details.</Desc
     <Key>GUNDSCAV</Key>
     <Name>"Gundark" Scav-Suit</Name>
     <Description>[H3]"Gundark" Scav-Suit[h3]
-The peculiar brainchild of an exiled Arkanian engineer, the “Gundark” scav-suit is becoming an increasingly common sight across the galactic underworld. Designed to assist salvagers and collectors in uncovering and assessing lost technology, the suit includes an advanced sensor package that can analyze energy readings and material compositions quickly to help the wearer sift valuable salvage from a scrap heap-or from the detritus of a battlefield. The suits are so-named because the arrangement of the sensor package is reminiscent of huge ears at the side of the wearer's head, similar to those of a wild gundark. Bounty hunters and other figures sent to deal with scavengers sometimes take advantage of this design by targeting the sensor array to blind the wearer with a feedback loop from their damaged equipment. 
+The peculiar brainchild of an exiled Arkanian engineer, the “Gundark” scav-suit is becoming an increasingly common sight across the galactic underworld. Designed to assist salvages and collectors in uncovering and assessing lost technology, the suit includes an advanced sensor package that can analyze energy readings and material compositions quickly to help the wearer sift valuable salvage from a scrap heap-or from the detritus of a battlefield. The suits are so-named because the arrangement of the sensor package is reminiscent of huge ears at the side of the wearer's head, similar to those of a wild gundark. Bounty hunters and other figures sent to deal with scavengers sometimes take advantage of this design by targeting the sensor array to blind the wearer with a feedback loop from their damaged equipment. 
 
 [P]The inbuilt sensor array on a “Gundark” scav-suit adds [BO] to the wearer's Perception checks, and an additional [BO] to all checks to detect or analyze technological parts and items. However, if the suits systems become damaged due to a Critical Injury, aimed shot, or other circumstance, the wearer instead suffers [SE] due to sensor feedback on all Perception checks instead until the suit is repaired.
     </Description>

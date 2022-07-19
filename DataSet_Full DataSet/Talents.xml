@@ -6145,7 +6145,7 @@
   <Talent>
     <Key>SUPPRFIRE</Key>
     <Name>Suppressing Fire</Name>
-    <Description>The character and each ally within short range may spend [AD] on their failed combat checks to inflict one strain on the target per rank of Supressing Fire. Each character can only activate this effect once per round.</Description>
+    <Description>The character and each ally within short range may spend [AD] on their failed combat checks to inflict one strain on the target per rank of Suppressing Fire. Each character can only activate this effect once per round.</Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
@@ -6826,7 +6826,7 @@
   <Talent>
     <Key>ONENAT</Key>
     <Name>One with Nature</Name>
-    <Description>When in the wilderness, the character may make a [B]Simple (-) Survival check[b] instead of Discipline or Cool to recover starin at the end of an encounter.</Description>
+    <Description>When in the wilderness, the character may make a [B]Simple (-) Survival check[b] instead of Discipline or Cool to recover strain at the end of an encounter.</Description>
     <Sources>
       <Source Page="31">Savage Spirits</Source>
       <Source Page="35">Forged in Battle</Source>
@@ -7212,7 +7212,7 @@
   <Talent>
     <Key>MEDTRANCE</Key>
     <Name>Meditative Trance</Name>
-    <Description>When suffocaring (see [B]Force and Destiny[b] Core Rulebook, page 221), the character suffers 1 strain each round instead of 3. When exposed to vacuum, the character suffers 1 wound each round instead of 3.</Description>
+    <Description>When suffocating (see [B]Force and Destiny[b] Core Rulebook, page 221), the character suffers 1 strain each round instead of 3. When exposed to vacuum, the character suffers 1 wound each round instead of 3.</Description>
     <Sources>
       <Source Page="29">Disciples of Harmony</Source>
     </Sources>
@@ -9515,7 +9515,7 @@
   </Talent>
   <Talent>
     <Key>PRACTSTRAT</Key>
-    <Name>Practiced Stragist</Name>
+    <Name>Practiced Strategist</Name>
     <Description>Once per session, make an [B]opposed knowledge(Warfare) check[b] against a leader of enemy forces to gain a narrative advantage
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
@@ -10010,7 +10010,7 @@
   <Talent>
     <Key>TOTHEDTH</Key>
     <Name>To the Death!</Name>
-    <Description>Once per session, the character may take the To the Death! maneuver, suffering strain no greater than their Willpower rating. For each strain suffered this way, add +10 to Critical Injury rolls the character inflicts and siffers until the end of the encounter.</Description>
+    <Description>Once per session, the character may take the To the Death! maneuver, suffering strain no greater than their Willpower rating. For each strain suffered this way, add +10 to Critical Injury rolls the character inflicts and suffers until the end of the encounter.</Description>
     <Source Page="29">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taManeuver</ActivationValue>

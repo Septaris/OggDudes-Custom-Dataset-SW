@@ -1763,7 +1763,7 @@ The character has a great need to complete or acquire a specific device or progr
     <Name>Technological Fascination</Name>
     <Description>
       [H4]Technological Fascination[h4]
-The character loves to work with a specific type of machine, sometimes to the point of excluding all others, be it firearms, starhips, droids, or some other more esoteric branch of technology. The character seeks out new information and the latest news pertaining to this area of fascination and knows the intricacies of various models and minute differences between them. The character might have favorite models, but this singular obsession is not usually limited to one specific object or design.</Description>
+The character loves to work with a specific type of machine, sometimes to the point of excluding all others, be it firearms, starships, droids, or some other more esoteric branch of technology. The character seeks out new information and the latest news pertaining to this area of fascination and knows the intricacies of various models and minute differences between them. The character might have favorite models, but this singular obsession is not usually limited to one specific object or design.</Description>
     <Source Page="37">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Innovation</Motivation>
@@ -2285,7 +2285,7 @@ There is nothing more important than the rule of law, and the character is sworn
     <Name>Prejudice</Name>
     <Description>
       [H4]Prejudice[h4]
-Sentinels fighting prejudice often operate as street-level diplomats, confronting individuals about their acts and stopping violence as it occurs. Prejudice is usually personal and ingrained. Sentinals might find themselves arguing with bigots completely unaware or in denial of their bigotry.</Description>
+Sentinels fighting prejudice often operate as street-level diplomats, confronting individuals about their acts and stopping violence as it occurs. Prejudice is usually personal and ingrained. Sentinels might find themselves arguing with bigots completely unaware or in denial of their bigotry.</Description>
     <Source Page="32">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Injustice</Motivation>

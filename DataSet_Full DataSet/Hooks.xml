@@ -246,7 +246,7 @@ Some characters see their strange abilities as a sign that they are destined for
     <Name>Underworld Tech Expert</Name>
     <Description>
       [H4]Underworld Tech Expert[h4]
-In the [B]Edge of The Empire[b], it can be hard to avoid occasionally interacting with criminal enterprises and underworld culture. Many Technicians support and are supported by shady characters, if not by outright criminals. Specialised underwolrd techs can be highly prized when they fulfill a critical role in a larger organization, bu the average Mechanic or Droid Tech is sometimes regarded as more expendable than a reliable enforcer. The character might be trying to escape difficult decisions from the past or seeking to advance within a particular criminal organization.</Description>
+In the [B]Edge of The Empire[b], it can be hard to avoid occasionally interacting with criminal enterprises and underworld culture. Many Technicians support and are supported by shady characters, if not by outright criminals. Specialized underwolrd techs can be highly prized when they fulfill a critical role in a larger organization, bu the average Mechanic or Droid Tech is sometimes regarded as more expendable than a reliable enforcer. The character might be trying to escape difficult decisions from the past or seeking to advance within a particular criminal organization.</Description>
     <Source Page="16">Special Modifications</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -273,7 +273,7 @@ Some Technicians believe that no matter what problem a being faces, the answer a
     <Name>Antiquarian</Name>
     <Description>
       [H4]Antiquarian[h4]
-Technology often seems an inherently progressive idea, and to many people it represents only efforts to build and improve upon the things of th past. However, some Technicians are actually deeply engaged in the past. The galaxy is unfathomably ancient, and over countless millennia, thousands of species have lived and discovered new ways to transform their environments to their needs. At first glance, manufacturing techniques used only in a single community on a backwater world might seem less advanced than those used in a vast starship construction facility. However, these unique methods may produce results that are not directly comparable, or may even perform certain tasks better than their "modern" counterparts. The metallurgy of some societies whose members have never left their homeworlds have been found to surpass the industrial standards used to fabricate starship hulls due to the specialized techniques used by these enclaves. Other cultures have found inventive solutions to problems the wider galaxy never even thought to address, from creative energy solusions in absence of traditional fuels, to esoteric weapons that function on principles that still evade even the sharpest researchers and academics.
+Technology often seems an inherently progressive idea, and to many people it represents only efforts to build and improve upon the things of th past. However, some Technicians are actually deeply engaged in the past. The galaxy is unfathomably ancient, and over countless millennia, thousands of species have lived and discovered new ways to transform their environments to their needs. At first glance, manufacturing techniques used only in a single community on a backwater world might seem less advanced than those used in a vast starship construction facility. However, these unique methods may produce results that are not directly comparable, or may even perform certain tasks better than their "modern" counterparts. The metallurgy of some societies whose members have never left their homeworlds have been found to surpass the industrial standards used to fabricate starship hulls due to the specialized techniques used by these enclaves. Other cultures have found inventive solutions to problems the wider galaxy never even thought to address, from creative energy solutions in absence of traditional fuels, to esoteric weapons that function on principles that still evade even the sharpest researchers and academics.
 </Description>
     <Source Page="13">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -371,7 +371,7 @@ eagerness for any life that gets them offworld.</Description>
     <Name>Laborer</Name>
     <Description>
       [H4]Laborer[h4]
-Laborers start off in menial occupations essential but less-valued skills and often involve repetitive, physical work. They often suffer economic injustices on the lower rung of the socioeconomic ladder. Labor leaders fit the Activist background better, so this background often reflects those who grew up in humbler circumstances. a laborer's strugg;es can be about moral corruption but can also include fighting against despair and drudgery.</Description>
+Laborers start off in menial occupations essential but less-valued skills and often involve repetitive, physical work. They often suffer economic injustices on the lower rung of the socioeconomic ladder. Labor leaders fit the Activist background better, so this background often reflects those who grew up in humbler circumstances. a laborer's struggles can be about moral corruption but can also include fighting against despair and drudgery.</Description>
     <Source Page="13">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -380,7 +380,7 @@ Laborers start off in menial occupations essential but less-valued skills and of
     <Name>Refugee</Name>
     <Description>
       [H4]Refugee[h4]
-Refugees have escaped violence, starvation, and persecution only to face similar problems in their new home. In some cases, cities are unprepared to handle an influx of refugees and have no social services set up to accommodate them. In extreme instances, governments seperate refugees from the rest of the population and cut them off from economic opportunities. On other worlds, differences in culture create tenrions among the populations, and refugees face violence from the citizenry rather than the government.</Description>
+Refugees have escaped violence, starvation, and persecution only to face similar problems in their new home. In some cases, cities are unprepared to handle an influx of refugees and have no social services set up to accommodate them. In extreme instances, governments separate refugees from the rest of the population and cut them off from economic opportunities. On other worlds, differences in culture create tenrions among the populations, and refugees face violence from the citizenry rather than the government.</Description>
     <Source Page="14">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -398,7 +398,7 @@ Officials once worked in the system, either in the local bureaucracy, law enforc
     <Name>Aristocrat</Name>
     <Description>
       [H4]Aristocrat[h4]
-Aristocrats have (or had) money and perhaps a title. They may belong to an actual aristocracy, come from moneyed families or bear historic names that grant them privileges, even if only token privileges. Somtimes these privileges oppress another group. Like elected or appointed officials, aristocrats are bolstered by their position and hampered by the conservatism of the system it is part of. In this case, cultural pressures rather than bureaucratic ones maintain the status quo. Sentinels with this background may still have family and friend who search for them, providing a resource, a source of conflict, and an emotional tie that enemies might exploit.</Description>
+Aristocrats have (or had) money and perhaps a title. They may belong to an actual aristocracy, come from moneyed families or bear historic names that grant them privileges, even if only token privileges. Sometimes these privileges oppress another group. Like elected or appointed officials, aristocrats are bolstered by their position and hampered by the conservatism of the system it is part of. In this case, cultural pressures rather than bureaucratic ones maintain the status quo. Sentinels with this background may still have family and friend who search for them, providing a resource, a source of conflict, and an emotional tie that enemies might exploit.</Description>
     <Source Page="11">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -435,7 +435,7 @@ While many Seekers choose their paths, some are set upon them by events beyond t
     <Name>Survivor</Name>
     <Description>
       [H4]Survivor[h4]
-The lives of Seekers can be about more than just establishing their own path. Some Seekers find themselves directly in the paths of others, whether caught up in galactic turmoil, hunted by deadly predators, or always being in the wrong place at the wrong time. For these intrepid soulds their path is about taking everything the galaxy can throw their way and moving onward in spite of it.
+The lives of Seekers can be about more than just establishing their own path. Some Seekers find themselves directly in the paths of others, whether caught up in galactic turmoil, hunted by deadly predators, or always being in the wrong place at the wrong time. For these intrepid souls their path is about taking everything the galaxy can throw their way and moving onward in spite of it.
 [P]These natural survivors might view themselves as unlucky, or they might be too stubborn to admit any alternative route. A rare few even seek out increasingly difficult challenges through whcih to prove themselves. Whatever the reason for their trials their journey forward forges them into some of the toughest and most determined individuals in the galaxy.</Description>
     <Source Page="14">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
@@ -463,7 +463,7 @@ Sometimes, Seekers are not content to bide their time in the fringes of society 
     <Name>Thrill of the Hunt</Name>
     <Description>
       [H4]Thrill of the Hunt[h4]
-The hunting of sentient beings is said by some to be the most thrilling and treacherous challenge in the galaxy. Though some beasts are more powerful, faster, or more savage than any sentient creature, few kinds of prey are more cunning. For most bounty hunters, the pursuit of targets from world to world and sector to secotr is simply a means to an end. For some, however the hunt is an end unto itself, and the payout for collecting the bounty is simply an added bonus.</Description>
+The hunting of sentient beings is said by some to be the most thrilling and treacherous challenge in the galaxy. Though some beasts are more powerful, faster, or more savage than any sentient creature, few kinds of prey are more cunning. For most bounty hunters, the pursuit of targets from world to world and sector to sector is simply a means to an end. For some, however the hunt is an end unto itself, and the payout for collecting the bounty is simply an added bonus.</Description>
     <Source Page="16">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
   </Hook>

@@ -17,7 +17,7 @@ The LAAT/c (carrier is a variant of the Low Altitude Assault Transport designed 
   <BaseMods>
     <Mod>
       <Count>1</Count>
-      <MiscDesc>[B][U]Rapid Walker Deployment[u][b]: As an action, pilot may make a [B]Hard ([DI][DI][DI]) Piloting Planetary check[b] upgraded a number of times equal to the LAAT/c's current speed. If successsful, walker deploys safely.  If failed, walker deploys, but suffers a Critical Hit as if it had suffered a collision.</MiscDesc>
+      <MiscDesc>[B][U]Rapid Walker Deployment[u][b]: As an action, pilot may make a [B]Hard ([DI][DI][DI]) Piloting Planetary check[b] upgraded a number of times equal to the LAAT/c's current speed. If successful, walker deploys safely.  If failed, walker deploys, but suffers a Critical Hit as if it had suffered a collision.</MiscDesc>
     </Mod>
   </BaseMods>
   <MaxAltitude>100 kilometers</MaxAltitude>

@@ -51,12 +51,12 @@ The Dowutins are a long-lived species of muscle-bound humanoids. So extensive ar
         <Option>
           <Key>DOWUTINCH1OP1</Key>
           <Name>Normal</Name>
-          <Description>Dowutin may start the game with a sihouette of 1.</Description>
+          <Description>Dowutin may start the game with a silhouette of 1.</Description>
         </Option>
         <Option>
           <Key>DOWUTINCH1OP2</Key>
           <Name>Large</Name>
-          <Description>Dowutin may start the game with a sihouette of 2.</Description>
+          <Description>Dowutin may start the game with a silhouette of 2.</Description>
         </Option>
       </Options>
     </OptionChoice>

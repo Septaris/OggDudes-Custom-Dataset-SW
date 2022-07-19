@@ -1820,7 +1820,7 @@ Complex and sophisticated attachments, targeting systems integrate an advanced t
     <Description>
       [H3]Repulsorlift Enhancement[h3]
 
-A repulsorlift enhancement increases the output of a standard airspeeder's repulsorlift engine considerably. Vehicles with this upgrade deplete their fuel cells at a dramatically increased rate. Since most races are relatively short in duration, and those that are longer have the opportunity to use a pit crew to recharge their cells, this makes them an extremely popular choice with most racing teams. Installing this attachment requires an [B]Average ([DI][DI]) Mechanics check[b]. Repulsor enhancements may only be attached to vehicles of silhoutte 2 or lower.
+A repulsorlift enhancement increases the output of a standard airspeeder's repulsorlift engine considerably. Vehicles with this upgrade deplete their fuel cells at a dramatically increased rate. Since most races are relatively short in duration, and those that are longer have the opportunity to use a pit crew to recharge their cells, this makes them an extremely popular choice with most racing teams. Installing this attachment requires an [B]Average ([DI][DI]) Mechanics check[b]. Repulsor enhancements may only be attached to vehicles of silhouette 2 or lower.
 
 [P][B]Models Include:[b] None.</Description>
     <Source>Jewel of Yavin</Source>
@@ -4067,7 +4067,7 @@ better to make passengers and guests feel at home.</Description>
     <Name>Armor Spikes</Name>
     <Description>
       [H3]Armor Spikes[h3]
-[P]While armor serces a largely defensive role for its wearers, that needn't be the rule. With the addition of spikes, blades, and other protrusions on areas covering shoulders, knuckles, feet, knees or elbows, armor can be turned into a deadly weapon of last resort. The majority of such modifications are scratch-built, though a handful o f armor manufacturers mass-produce kits for the armor sets they sell. Largely popular with criminals, mercenaries, and bounty hunters, armor spikes lend an intimidating mien to anyone equipped with them. Some professionals prefer to keep such deadly modifications concealed and retractable, and these are perhaps the most dangerous of them all. This attachment can be attached to any armor that covers the arms or legs.      
+[P]While armor serves a largely defensive role for its wearers, that needn't be the rule. With the addition of spikes, blades, and other protrusions on areas covering shoulders, knuckles, feet, knees or elbows, armor can be turned into a deadly weapon of last resort. The majority of such modifications are scratch-built, though a handful o f armor manufacturers mass-produce kits for the armor sets they sell. Largely popular with criminals, mercenaries, and bounty hunters, armor spikes lend an intimidating mien to anyone equipped with them. Some professionals prefer to keep such deadly modifications concealed and retractable, and these are perhaps the most dangerous of them all. This attachment can be attached to any armor that covers the arms or legs.      
     </Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
@@ -4526,7 +4526,7 @@ While true cloaking devices are all but unhead of and limited to capital ships, 
     <Key>GUNNBRAIN</Key>
     <Name>Gunnery Droid Brain</Name>
     <Description>[H3]Gunnery Droid Brain[h3]
-Much more than a simiple targeting computer, a specialized droid brain can be installed on a ship to operate its weapons independently or assist a sentient gunner. Although GoCorp's CD-14c model continues to prove popular with Technicians who want their ship to defend itself when necessary, some users complain of the droid's overly hostile antagonistic behavior. GoCorp continues to deny rumors of so-called "unanticipated activations". This attachment can be applied to any vehicle or starship.
+Much more than a simple targeting computer, a specialized droid brain can be installed on a ship to operate its weapons independently or assist a sentient gunner. Although GoCorp's CD-14c model continues to prove popular with Technicians who want their ship to defend itself when necessary, some users complain of the droid's overly hostile antagonistic behavior. GoCorp continues to deny rumors of so-called "unanticipated activations". This attachment can be applied to any vehicle or starship.
 [P][B]Models Include:[b] GoCorp's CD-14c</Description>
     <Source Page="66">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -4583,7 +4583,7 @@ Laser cannons are the mainstay weapons of many ships, and manufacturers constant
     <Key>ENCRYCOMP</Key>
     <Name>Encrypted Computer</Name>
     <Description>[H3]Encrypted Computer[h3]
-A skilled Slicer knows how to protect a computer system from others skilled in electronic skulduggery, and is likely to take steps to do just that. Whether consisting of modifications and programming by a crew member or of specialized softwar purchased on teh black market, encrypted systems can protect a ship against slicing attacks at port and during battle. In addition to preventing catastrophes during skirmishes, the extra security is of great use to any group that wants to keep its data private. This attachment can be applied to any vehicle or starship.
+A skilled Slicer knows how to protect a computer system from others skilled in electronic skulduggery, and is likely to take steps to do just that. Whether consisting of modifications and programming by a crew member or of specialized software purchased on teh black market, encrypted systems can protect a ship against slicing attacks at port and during battle. In addition to preventing catastrophes during skirmishes, the extra security is of great use to any group that wants to keep its data private. This attachment can be applied to any vehicle or starship.
 [B][P]Models Include:[b] Numerous Custom Variants</Description>
     <Source Page="65">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -4920,7 +4920,7 @@ Although ion drives and repulsorlifts dominate the galaxy, the continued use of 
     <Key>RADSHIELD</Key>
     <Name>Radiation Shielding</Name>
     <Description>[H3]Radiation Shielding[h3]
-The galaxy contains many perils, but one of the most common is radiation. From the depths of space to polluted industrial zones, radiation hazards both natural and artificial are a frequent threat to spacers. Although spacesuits provide a degree of protection and specialiszed hazard suits are available, some individuals prefer to also be protected from blaster bolts and blades. A variety of polymers, reflective coatings, and energy dampeners can be fitted or applied to armour to provide protection from radiation. This attachment can only be applied to laminate armor, heavy battle armor, and any other armor that can be fully sealed.
+The galaxy contains many perils, but one of the most common is radiation. From the depths of space to polluted industrial zones, radiation hazards both natural and artificial are a frequent threat to spacers. Although spacesuits provide a degree of protection and specialized hazard suits are available, some individuals prefer to also be protected from blaster bolts and blades. A variety of polymers, reflective coatings, and energy dampeners can be fitted or applied to armour to provide protection from radiation. This attachment can only be applied to laminate armor, heavy battle armor, and any other armor that can be fully sealed.
 [P][B]Models Include:[b] Loronar Model 4 Hostile Environment Treatment, Neuro-Saav Radiological Hazard Shielding.</Description>
     <Source Page="58">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -5015,7 +5015,7 @@ Slicers must often conduct their work under strict time constraints and less tha
     <Key>IONSHIELD</Key>
     <Name>Ion Shielding</Name>
     <Description>[H3]Ion Shielding[h3]
-Rarely encountered in doby armor and more commonly (and usually illegally) applied directly to droid shssis, ion shielding provides protection against ionization blasters. Although the mitigation it grants is far from complete, the energy-dampening effects can keep a droid operational where it would otherwise be shutdown. This attachment can be applied to any armor with soak 2 or higher.
+Rarely encountered in doby armor and more commonly (and usually illegally) applied directly to droid chassis, ion shielding provides protection against ionization blasters. Although the mitigation it grants is far from complete, the energy-dampening effects can keep a droid operational where it would otherwise be shutdown. This attachment can be applied to any armor with soak 2 or higher.
 [P][B]Models Include:[b] Outlaw Tech Ion Shielding, Industrial Automaton Mk. III Ion Guard</Description>
     <Source Page="58">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -5652,7 +5652,7 @@ While a spray injector does not typically expel its contents with sufficient for
     <Key>RIVETGUNBALBAR</Key>
     <Name>Balanced Barrel</Name>
     <Description>[H3]Balanced Barrel[h3]
-Adding a functional barrel to a rivet gun can give it dramatically more range and accuracy as a shooting weapon. Of course, such an addition also makes it obvious that the device is liable to be fired at range, as few Technicians can make a coherent case that they legitimately need to be able to bolt hull plates onto a ship with pinpoint accuracy at a distance of severy meters.</Description>
+Adding a functional barrel to a rivet gun can give it dramatically more range and accuracy as a shooting weapon. Of course, such an addition also makes it obvious that the device is liable to be fired at range, as few Technicians can make a coherent case that they legitimately need to be able to bolt hull plates onto a ship with pinpoint accuracy at a distance of several meters.</Description>
     <Source Page="46">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -6256,7 +6256,7 @@ brain damage and even death.</Description>
     <Name>Enhanced Hyperspace Shields</Name>
     <Description>
       [H3]Enhanced Hyperspace Shields[h3]
-Few things are more dangerous to a ship than colliding with a mass shadow in hyperspace. Although all ships are equipped with sensors intended to detect a mass shadow and automatically drop the ship out of hyperspace, such systems are not infallible. As an added level of protection, some engineers modify a vessel with  enhanced particle shielfs designed to potentially save a ship from complete destruction in a case of a hyperspace collision. Many captains consider the drain on ship resources and the cost to be too great for additional protection against such a rare event, but these systems save lives. This attachment can be applied to any ship with a hyperdrive.
+Few things are more dangerous to a ship than colliding with a mass shadow in hyperspace. Although all ships are equipped with sensors intended to detect a mass shadow and automatically drop the ship out of hyperspace, such systems are not infallible. As an added level of protection, some engineers modify a vessel with  enhanced particle Shields designed to potentially save a ship from complete destruction in a case of a hyperspace collision. Many captains consider the drain on ship resources and the cost to be too great for additional protection against such a rare event, but these systems save lives. This attachment can be applied to any ship with a hyperdrive.
     </Description>
     <Source Page="66">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -7155,7 +7155,7 @@ These kyber crystals grow in nearly invisible formations on a handful of far flu
     <Name>Reflex Grip</Name>
     <Description>
       [H3]Reflex Grip[h3]
-Through a delicate system of motion sensors and miniaturized motors built into a lightsaber hilt, a craftsperson can alter the lightsaber to respond to adjustments in grip and position with greater responsiveness. The split-second edge granted by this sytem allows a combatant to more easily parry an opponent's decisive stroke or block each of a hail of blaster bolts. Controlling the system and keeping it from overreacting to minute or inadvertent motions can be difficult to master, but the defensive advantage of a reflex grip can be worth the extra practice.
+Through a delicate system of motion sensors and miniaturized motors built into a lightsaber hilt, a craftsperson can alter the lightsaber to respond to adjustments in grip and position with greater responsiveness. The split-second edge granted by this system allows a combatant to more easily parry an opponent's decisive stroke or block each of a hail of blaster bolts. Controlling the system and keeping it from overreacting to minute or inadvertent motions can be difficult to master, but the defensive advantage of a reflex grip can be worth the extra practice.
 [BR][B]Models Include:[b] None; users must custom make each lightsaber attachment.</Description>
     <Source Page="52">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
@@ -7999,7 +7999,7 @@ Minelayers, and their accompanying ordnance, are anti-ship weapons sold by numer
     <Name>Containment Field</Name>
     <Description>
       [H3]Containment Field[h3]
-Designed for permanent installation, a containment field generator consists of two flat, cylindrical generators—one bolted to the floor, the other to the ceiling— that hold a single individual captive in a powerful stasis field. Individuals held in a containment field. Individuals held in a containment field wear magnetic binders and are suspended in mid-air, completely isolated from the world around them. When held in  a containment field, individuals are usually fitted with bio-signs monitors due to the field's distressing habit of causing heart attacks, brain damage, or death if it is not tuned correctly. This attachment can be installed on any vessel of silhoette 4 or higher.
+Designed for permanent installation, a containment field generator consists of two flat, cylindrical generators—one bolted to the floor, the other to the ceiling— that hold a single individual captive in a powerful stasis field. Individuals held in a containment field. Individuals held in a containment field wear magnetic binders and are suspended in mid-air, completely isolated from the world around them. When held in  a containment field, individuals are usually fitted with bio-signs monitors due to the field's distressing habit of causing heart attacks, brain damage, or death if it is not tuned correctly. This attachment can be installed on any vessel of silhouette 4 or higher.
 [BR][B]Models Include:[b] Gordarl Weaponsmiths A1 Containment Field.</Description>
     <Source Page="64">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
@@ -8201,7 +8201,7 @@ Micro-rockets can be fired in a plethora of ways, and some hunters mount them on
     <Name>Marked-Target Firing Lock</Name>
     <Description>
       [H3]Marked-Target Firing Lock[h3]
-In the chaos of a firefight, shots can go astray, damaging property or bystanders. While some hunters do not care about the carnage they cause, this kind of haphazard damage is a liability, courting attention from the law or revenge from those who sugger in the crossfire. To mitigate this risk, some bounty hunters invest in firing locks on their blasters, allowing them to designate specific targets for the weapons. Once the systems' sensors have recognized a target, the weapons refuse to fire without a clear shot, minimizing the chance of collateral damage. This attachment can be installed on any ranged weapon that does not posses the Blast or Auto-fire quality.
+In the chaos of a firefight, shots can go astray, damaging property or bystanders. While some hunters do not care about the carnage they cause, this kind of haphazard damage is a liability, courting attention from the law or revenge from those who suffer in the crossfire. To mitigate this risk, some bounty hunters invest in firing locks on their blasters, allowing them to designate specific targets for the weapons. Once the systems' sensors have recognized a target, the weapons refuse to fire without a clear shot, minimizing the chance of collateral damage. This attachment can be installed on any ranged weapon that does not posses the Blast or Auto-fire quality.
 [P][B]Models Include:[b] BlasTech "Surefire" Safety Sensor, Cadregg Armory Model-87 Weapon Sensor.</Description>
     <Source Page="51">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
@@ -8230,7 +8230,7 @@ In the chaos of a firefight, shots can go astray, damaging property or bystander
     <Name>Shock Pulse Emitter</Name>
     <Description>
       [H3]Shock Pulse Emitter[h3]
-Shock pulse emitters operate along principles simlar to a blaster's stun setting, but at much shorter effective range—a range short enough to be of little use as weapons in themselves. However, when shock pulse emitters are integrated into weapons intended for close combat to begin with, they become effective combat tools to debilitate opponents and make a finishing blow easier to land. This attachment can be installed on any Melee or Brawl weapon.
+Shock pulse emitters operate along principles similar to a blaster's stun setting, but at much shorter effective range—a range short enough to be of little use as weapons in themselves. However, when shock pulse emitters are integrated into weapons intended for close combat to begin with, they become effective combat tools to debilitate opponents and make a finishing blow easier to land. This attachment can be installed on any Melee or Brawl weapon.
 [P][B]Models Include:[b] Corellian Personal Defense Stun Pad.</Description>
     <Source Page="51">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
@@ -8786,7 +8786,7 @@ Force sensitives trained or experienced in other fields prior to embarking on th
     <Name>Seeker Crystal</Name>
     <Description>
       [H3]Seeker Crystal[h3]
-No one seems to know where these crystals come from or how they make their way into the hands of their users. Rumors persist of markets so dark that none but a handful of beings know about them. Other rumors suggest that these crystals have an entirely different purpose and only incidentally happen to function as lightsaber crystals with unusual properties. Still others say they come from the deepest edges of the galaxy, from stars yet unknown. Whatever the case may be, those few that are known to exist have served their users well, allowing them to avoid ambush and suprise attack. Users of these crystals seem to instinctively know when they are being secretly observed or when their charges are in danger from hidden assassins. When ignited, blades produced by these crystals glow a soft pink color and connect users to the Force in such a way that they are able to detect those who hide nearby. While it is not a compass pointing the way to hidden beings, a wielder will know without a doubt that a concealed foe is near. A seeker crystal is a lightsaber crystal.</Description>
+No one seems to know where these crystals come from or how they make their way into the hands of their users. Rumors persist of markets so dark that none but a handful of beings know about them. Other rumors suggest that these crystals have an entirely different purpose and only incidentally happen to function as lightsaber crystals with unusual properties. Still others say they come from the deepest edges of the galaxy, from stars yet unknown. Whatever the case may be, those few that are known to exist have served their users well, allowing them to avoid ambush and surprise attack. Users of these crystals seem to instinctively know when they are being secretly observed or when their charges are in danger from hidden assassins. When ignited, blades produced by these crystals glow a soft pink color and connect users to the Force in such a way that they are able to detect those who hide nearby. While it is not a compass pointing the way to hidden beings, a wielder will know without a doubt that a concealed foe is near. A seeker crystal is a lightsaber crystal.</Description>
     <Source Page="53">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -9240,7 +9240,7 @@ While lacking the range and power of a true jetpack, a repulsor pack provides a 
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Operator uses Coordination skil for any relevant checks.</MiscDesc>
+        <MiscDesc>Operator uses Coordination skill for any relevant checks.</MiscDesc>
       </Mod>
     </BaseMods>
     <AddedMods>
@@ -11230,7 +11230,7 @@ A whipcord thrower quickly deploys a length of high-tensile strength cable, firi
     <Key>PORTPLASHLD</Key>
     <Name>Portable Plasma Shield</Name>
     <Description>[H3]Portable Plasma Shield[h3]
-Armor and weapon designs oppose one another in a cycle of endless escalation. Not surprisingly, many warriors seek out means to enhance their defenses in hopes that it will leave them free to make additional attacks. A small defensive shield can provide a substantial upgrade. energy shielfs take this a step further, offering a near-inpenetrable defense while requiring much less weight and bulk than a more traditional shield. </Description>
+Armor and weapon designs oppose one another in a cycle of endless escalation. Not surprisingly, many warriors seek out means to enhance their defenses in hopes that it will leave them free to make additional attacks. A small defensive shield can provide a substantial upgrade. energy Shields take this a step further, offering a near-inpenetrable defense while requiring much less weight and bulk than a more traditional shield. </Description>
     <Source Page="63">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
     <Type>Armor</Type>
