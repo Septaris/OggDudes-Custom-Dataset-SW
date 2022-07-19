@@ -21,7 +21,7 @@ keep them in working order.
   <Categories />
   <Price>1200</Price>
   <Rarity>2</Rarity>
-  <StarFighters>Land vehicles totalling up to silhouette 6</StarFighters>
+  <StarFighters>Land vehicles totaling up to silhouette 6</StarFighters>
   <SensorRangeValue>srNone</SensorRangeValue>
   <Crew>One to ten mechanics</Crew>
   <EncumbranceCapacity>200</EncumbranceCapacity>

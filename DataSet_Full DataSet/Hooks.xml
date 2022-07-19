@@ -326,7 +326,7 @@ their former masters.
     <Name>Citizen Soldier</Name>
     <Description>
       [H4]Citizen Soldier[h4]
-Citzen soldiers are commoners from across the galaxy who fight to protect their families, their planets and their people. Though many such individuals serve in teh ranks of the Rebel Alliance only a handful reveal themselves to be exemplary leaders, especially in times of great strife. For these people, the Rebel Alliance is a temporary but absolute obligation; the only things that might end their service are victory or death.</Description>
+Citzen soldiers are commoners from across the galaxy who fight to protect their families, their planets and their people. Though many such individuals serve in the ranks of the Rebel Alliance only a handful reveal themselves to be exemplary leaders, especially in times of great strife. For these people, the Rebel Alliance is a temporary but absolute obligation; the only things that might end their service are victory or death.</Description>
     <Source Page="14">Lead by Example</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -380,7 +380,7 @@ Laborers start off in menial occupations essential but less-valued skills and of
     <Name>Refugee</Name>
     <Description>
       [H4]Refugee[h4]
-Refugees have escaped violence, starvation, and persecution only to face similar problems in their new home. In some cases, cities are unprepared to handle an influx of refugees and have no social services set up to accommodate them. In extreme instances, governments separate refugees from the rest of the population and cut them off from economic opportunities. On other worlds, differences in culture create tenrions among the populations, and refugees face violence from the citizenry rather than the government.</Description>
+Refugees have escaped violence, starvation, and persecution only to face similar problems in their new home. In some cases, cities are unprepared to handle an influx of refugees and have no social services set up to accommodate them. In extreme instances, governments separate refugees from the rest of the population and cut them off from economic opportunities. On other worlds, differences in culture create tensions among the populations, and refugees face violence from the citizenry rather than the government.</Description>
     <Source Page="14">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -436,7 +436,7 @@ While many Seekers choose their paths, some are set upon them by events beyond t
     <Description>
       [H4]Survivor[h4]
 The lives of Seekers can be about more than just establishing their own path. Some Seekers find themselves directly in the paths of others, whether caught up in galactic turmoil, hunted by deadly predators, or always being in the wrong place at the wrong time. For these intrepid souls their path is about taking everything the galaxy can throw their way and moving onward in spite of it.
-[P]These natural survivors might view themselves as unlucky, or they might be too stubborn to admit any alternative route. A rare few even seek out increasingly difficult challenges through whcih to prove themselves. Whatever the reason for their trials their journey forward forges them into some of the toughest and most determined individuals in the galaxy.</Description>
+[P]These natural survivors might view themselves as unlucky, or they might be too stubborn to admit any alternative route. A rare few even seek out increasingly difficult challenges through which to prove themselves. Whatever the reason for their trials their journey forward forges them into some of the toughest and most determined individuals in the galaxy.</Description>
     <Source Page="14">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -454,7 +454,7 @@ Many Sentinels start off as activists in some form of another. Even unawaked to 
     <Name>Quester</Name>
     <Description>
       [H4]Quester[h4]
-Sometimes, Seekers are not content to bide their time in the fringes of society or to follow the guidance of the Force to hidden wisdom. They might do those things out of necessity, but more often than not, Seekers set their own goals establishing new trails for thei own reasons. Such Seekers, find a reason to go out into the galaxy, whether to wilderness, cityscape, or deep space areas, and track down a new secret, treasure, or target. Then, having found what they were looking for, they set their sights on a new goal. Questing Seekers are always in motion, pushing the boundaries of their lives and the galaxy alike. These Seeker aren't easily defined by their pasts, but rather by the missions they seek out new challenges and the methods by which they pursue them.</Description>
+Sometimes, Seekers are not content to bide their time in the fringes of society or to follow the guidance of the Force to hidden wisdom. They might do those things out of necessity, but more often than not, Seekers set their own goals establishing new trails for their own reasons. Such Seekers, find a reason to go out into the galaxy, whether to wilderness, cityscape, or deep space areas, and track down a new secret, treasure, or target. Then, having found what they were looking for, they set their sights on a new goal. Questing Seekers are always in motion, pushing the boundaries of their lives and the galaxy alike. These Seeker aren't easily defined by their pasts, but rather by the missions they seek out new challenges and the methods by which they pursue them.</Description>
     <Source Page="13">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
   </Hook>

@@ -9637,7 +9637,7 @@ Though the Jedi Order was primarily known for its use of lightsabers, there have
     <Name>Electronet</Name>
     <Description>
       [H3]Electronet[h3]
-[P]Electronets were once preferred by the Republic Scout Service when capturing newly discovered animals on alien worlds. They have since become popular with bounty hunters and law enforcers the galaxy over. Constructed of duracord with interwoven stun threads or beads, electronets can be manually draped over targets to ensnare them They are also capable of being loaded into net guns for ranged applications, or used as ground traps by canny hunters. Traditional activation of an electronet is accomplished with a handheld transmitter to avoid unintenionally stunning the user. Alternatively, a user might wear insulated gloves to protect against the nets incapacitating charge. </Description>
+[P]Electronets were once preferred by the Republic Scout Service when capturing newly discovered animals on alien worlds. They have since become popular with bounty hunters and law enforcers the galaxy over. Constructed of duracord with interwoven stun threads or beads, electronets can be manually draped over targets to ensnare them They are also capable of being loaded into net guns for ranged applications, or used as ground traps by canny hunters. Traditional activation of an electronet is accomplished with a handheld transmitter to avoid unintentionally stunning the user. Alternatively, a user might wear insulated gloves to protect against the nets incapacitating charge. </Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <Type>Thrown</Type>
@@ -10068,7 +10068,7 @@ Though the Jedi Order was primarily known for its use of lightsabers, there have
     <Name>Diiro</Name>
     <Description>
       [H3]Diiro[h3]
-The diiro is a common Arbooinian weapon, wailored to the needs of the Sathari. The weapon consists of a hollow but sturdy haft of wood about a meter long, tipped with a small but very sharp alloy blade. The diiro is lightweight but capable of deadly precision strikes in the hands of a skilled user. To further cut down on weight, blades of most diiros are alos hollow. In many cases, they contain a reservoir of venom extracted from a bearsloth, a zabros, or another of Arbooine's unique plants and animals. This ensures that although the cuts delivered by a diiro are seldom sever on their own, the weapon is nonetheless capable of bringing down even the largest of Arbooinian predators in short order.
+The diiro is a common Arbooinian weapon, tailored to the needs of the Sathari. The weapon consists of a hollow but sturdy haft of wood about a meter long, tipped with a small but very sharp alloy blade. The diiro is lightweight but capable of deadly precision strikes in the hands of a skilled user. To further cut down on weight, blades of most diiros are alos hollow. In many cases, they contain a reservoir of venom extracted from a bearsloth, a zabros, or another of Arbooine's unique plants and animals. This ensures that although the cuts delivered by a diiro are seldom sever on their own, the weapon is nonetheless capable of bringing down even the largest of Arbooinian predators in short order.
 [P]A diiro can be loaded with up to three doses of any poison. Whenever the wielder successfully attacks a target with a diiro (whether or not damage is dealt), the target also suffers the effects of being exposed to the poison it contains.
 [P]Due to its lightweight construction, when a diiro suffers one or more levels of damage due to a [DE] result on a combat check or the effects of the Sunder quality, it receives one additional level of damage.
 [P][I]Note: The diiro may only be found on Arbooine.[i]
@@ -10321,7 +10321,7 @@ A hand grinder uses a rotating wheel coated with rough material to polish down s
       [H3]Multi-Goo Gun[h3]
 The multi-goo gun, an all-in-one spray injector, has a self-cleaning element that allows Technicians to switch out lubricant, adhesive or acid cartridges with no loss in function. The device appeals to many machinists' natural affinity for efficiency, enabling users to switch between substances quickly without stopping their work, rather than having to stop, clean their spray injectors and load them with a new substance at each step of a project.
 [P]A character using this tool gains automatic [AD] on Mechanics checks to repair droids, vehicles or starships.
-[P]The GM may spend [TH][TH] or [DE] on a Mechanics or combat check made using a multi-goo gun to have all of its spray cartridges run out; it cannot be used at all untill refueled. A pack that includes replacements for all three substances costs 20 credits and has a rarity of 2. Placing a refill pack in a multi-goo gun requires an action.</Description>
+[P]The GM may spend [TH][TH] or [DE] on a Mechanics or combat check made using a multi-goo gun to have all of its spray cartridges run out; it cannot be used at all until refueled. A pack that includes replacements for all three substances costs 20 credits and has a rarity of 2. Placing a refill pack in a multi-goo gun requires an action.</Description>
     <Source Page="45">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Type>Tool</Type>
@@ -10668,7 +10668,7 @@ Although Auraterans have access to modern energy weapons, the simple but reliabl
     <Name>Gungan Atlatl</Name>
     <Description>
       [H3]Gungan Atlatl[h3]
-A Gungan warrior could throw one of her signature plasma balls like a grenade (and often do), but a Gungan atlatl gives the weapon a greater range and aids in accuracy. The atlatl also protects the wielder from inadvertent discharges. These weapons are traditionally carved from nonconduc- tive hardwoods.
+A Gungan warrior could throw one of her signature plasma balls like a grenade (and often do), but a Gungan atlatl gives the weapon a greater range and aids in accuracy. The atlatl also protects the wielder from inadvertent discharges. These weapons are traditionally carved from nonconductive hardwoods.
 [P]Atlatls throw Gungan plasma balls [B](see Table 3-1: Ranged Weapons)[b], giving them greater range. An atlatl must have a supply of plasma balls for ammunition.</Description>
     <Source Page="102">Nexus of Power</Source>
     <Custom>DescOnly</Custom>
@@ -11168,7 +11168,7 @@ and an [B]Easy ([DI]) Mechanics check[b].</Description>
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>While attached to a suitable power source (such as a base's power grid or a similarly-sized generator), this wweapon loses the Limited Ammo 8 quality. Wiring the weapon into a power source requires several minutes and an [B]Easy ([DI]) Mechanics check[b].</MiscDesc>
+        <MiscDesc>While attached to a suitable power source (such as a base's power grid or a similarly-sized generator), this weapon loses the Limited Ammo 8 quality. Wiring the weapon into a power source requires several minutes and an [B]Easy ([DI]) Mechanics check[b].</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>GUNN</SkillKey>
@@ -11259,7 +11259,7 @@ weapon to cause the shield to ricochet back to her grasp.</Description>
     <Description>
       [H3]Mer-Sonn Model 14 "Stalker" Vibrospear[h3]
 The Stalker is Merr-Sonn Munitions' answer to LaserHone's surprisingly popular Huntsman Vibrospear. Like its competitor, the Stalker is a long, sturdy vibrospear nearly as tall as a grown Wookiee, and is designed for hunting large, particularly dangerous wild game. It has a strong, flexible reinforced plasteel haft over two meters long, capped bt a leaf-shaped blade capable of piercing the toughest hide or thickest armor. Beneath the blade are two short barbs that extend for a few centimeters perpendicular from the haft. These barbs are designed to stop wounded creatures from charging up the weapons haft after they are stabbed, and this attacking the user while in their death throes.
-[P]While it is lighter and decidedly cheaper than LaserHone's weaponm the Stalker suffers from a few drawbacks. In an effort to keep weight and cost down, Merr-Sonn used the standard model vibrofield generator found in all of their vibro weapons and equipped the Stalker with only the simplest noise-reduction system. This means that while the vibrofield generator's sound output is greatly reduced it makes enough noise to alert most creatures to the user's presence, which makes hunting with the weapon a challenge. Despite this, the Stalker's popularity continues to grow and it is seen as an affordable alternative to its heavier more expensive competition.
+[P]While it is lighter and decidedly cheaper than LaserHone's weapon the Stalker suffers from a few drawbacks. In an effort to keep weight and cost down, Merr-Sonn used the standard model vibrofield generator found in all of their vibro weapons and equipped the Stalker with only the simplest noise-reduction system. This means that while the vibrofield generator's sound output is greatly reduced it makes enough noise to alert most creatures to the user's presence, which makes hunting with the weapon a challenge. Despite this, the Stalker's popularity continues to grow and it is seen as an affordable alternative to its heavier more expensive competition.
 [P]The Stalker vibrospear requires two hands to use. The GM may spend [TH][TH] from any combat check with this weapon to have it produce a loud noise, spooking nearby animals, alerting foes and adding [SE][SE] to the user's next Survival check in this area to hunt or track prey.</Description>
     <Sources>
       <Source Page="43">Savage Spirits</Source>
@@ -11365,7 +11365,7 @@ functions well enough even when wet or submerged.
 For all these reasons, and the fact that its slugs can
 penetrate most light laminate armors, the SH-9 is a
 favorite boot gun among Alliance SpecOps soldiers.
-[P]Add [SE] to Perception checks to find an SH-9 slugthrower pistol on a person's body. Add [SE] to Perception or Vigiliance checks made to locate a concealed shooter firing an SH-9 slugthrower pistol.</Description>
+[P]Add [SE] to Perception checks to find an SH-9 slugthrower pistol on a person's body. Add [SE] to Perception or Vigilance checks made to locate a concealed shooter firing an SH-9 slugthrower pistol.</Description>
     <Source Page="46">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
@@ -11660,7 +11660,7 @@ a BlasTech A280 C heavy blaster rifle by 1 (to a minimum of [B]Simple (-)[b]).</
     <Description>
       [H3]Berserker Rifle[h3]
 The berserker rifle was originally a custom weapon commonly used by bounty hunters in the Outer Rim and Unknown Regions. It gets its name from a misunderstood colloquial mish-mash of terms referring to both the lightning-jacks and blind  berserkers of the Stratos Distribution. Hundreds of years after its inception, a handful of weapons developers like Arakyd Industries Zoltan Arms, and even Imperial Munitions manufacture a variety of models.
-[P]At its core, the berserker rifle operates like a scaled-down version of the Wookiee bowcaster, using magnetic accelerator to stabilize and fire charged micro-slugs at incredible velocities. The weapon differs from the bowcaster by electrifying the slugs rather than encasing them in ionic particles, which has the potential to electrocute the ttarget, wracking them convulsions and possibly even igniting flammable articles of clothing or equipment.</Description>
+[P]At its core, the berserker rifle operates like a scaled-down version of the Wookiee bowcaster, using magnetic accelerator to stabilize and fire charged micro-slugs at incredible velocities. The weapon differs from the bowcaster by electrifying the slugs rather than encasing them in ionic particles, which has the potential to electrocute the target, wracking them convulsions and possibly even igniting flammable articles of clothing or equipment.</Description>
     <Source Page="46">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
@@ -11769,7 +11769,7 @@ With a reputation for sturdy, reliable, no nonsense products, Czerka Arms has pr
     <Name>Kyuzo Energy Bow</Name>
     <Description>
       [H3]Kyuzo Energy Bow[h3]
-Designed to be fired from a mount or a mobile platform, a Kyuzo energy bow is a massive bow that fires terrifyingly large, charged bolts. The Kyuzos of the Gyaryi clovoc are particularly renowned for their skilled archers, who use theor considerable might to draw these bows and their elite training to hit targets at incredible distance.</Description>
+Designed to be fired from a mount or a mobile platform, a Kyuzo energy bow is a massive bow that fires terrifyingly large, charged bolts. The Kyuzos of the Gyaryi clovoc are particularly renowned for their skilled archers, who use their considerable might to draw these bows and their elite training to hit targets at incredible distance.</Description>
     <Source Page="44">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -12611,7 +12611,7 @@ Crossguard lightsabers are common among students of Makashi and any other Force 
     <Name>Lightwhip</Name>
     <Description>
       [H3]Lightwhip[h3]
-Lightwhips are, perhaps, the rarest and most bizarre of the numerous lightsaber veriants. Highly modified lightsabers, lightwhips consist of a short lightsaber haft built from alloys or composites laced with either cortosis or phrik. Their internals are modified in such a way that the plasma's containment field is more flexible, allowing each emitter to create thin, snaking, fluid blades several meters in length. These modifications also have an unintended side effect of reducing the raw damage output and striking capabilities. Once active, lightwhips can both deal damage and capture or entangle an opponent. Due to the instability of the energy blades, though, lightwhips are extraordinarily hard to master and can be more of a danger to their users than their opponents.
+Lightwhips are, perhaps, the rarest and most bizarre of the numerous lightsaber variants. Highly modified lightsabers, lightwhips consist of a short lightsaber haft built from alloys or composites laced with either cortosis or phrik. Their internals are modified in such a way that the plasma's containment field is more flexible, allowing each emitter to create thin, snaking, fluid blades several meters in length. These modifications also have an unintended side effect of reducing the raw damage output and striking capabilities. Once active, lightwhips can both deal damage and capture or entangle an opponent. Due to the instability of the energy blades, though, lightwhips are extraordinarily hard to master and can be more of a danger to their users than their opponents.
 [P]When the character using a lightwhip makes a successful Lightsaber combat check, she may spend [AD][AD] or [TR] to prevent her opponent from using the Parry incidental to reduce damage. A user may not add lightsaber crystal attachments to a lightwhip, and cannot use a lightwhip to parry or reflect attacks.</Description>
     <Source Page="42">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
@@ -12802,7 +12802,7 @@ Contracted by the Republic specifically for use by the Senate Guard, the Mk II P
     <Description>
       [H3]KWS Mk I Saberdart[h3]
 Kaminoan Weaponsmiths, a subsidiary of Kaminoan Armorsmiths Ltd., is a small weapons producer based on the watery planet of Kamino. Its products are all essentially handmade, produced in small numbers by highly trained craftsmen and sold in limited runs. The company is relatively unknown outside of certain circles—namely bounty hunters and professional killers—but among its select clients. it has a reputation for well-made, high-quality products.
-[P]Perhaps their most popular product is the Mk. I Saberdart. The Saberdart, a name that applies to both the dart itself and its launcher, is a tiny, roughly triangualr durasteel alloy dart fired via compressed air. The dart has three hooked barbs surrounding a central cylinder tipped withy an incredibly sharp needle. Within the central core of the dart is a small, fillable chamber used to deliver toxins and poisons to targets at range. Saberdarts can be used to deliver anything tranquillizers to deadly neurotoxins such as Fex-M3 and Malkite themfar. They are silent, deadly, obscure and largely untraceable, which makes them a perfect weapon for assassins.
+[P]Perhaps their most popular product is the Mk. I Saberdart. The Saberdart, a name that applies to both the dart itself and its launcher, is a tiny, roughly triangular durasteel alloy dart fired via compressed air. The dart has three hooked barbs surrounding a central cylinder tipped with an incredibly sharp needle. Within the central core of the dart is a small, fillable chamber used to deliver toxins and poisons to targets at range. Saberdarts can be used to deliver anything tranquilizers to deadly neurotoxins such as Fex-M3 and Malkite themfar. They are silent, deadly, obscure and largely untraceable, which makes them a perfect weapon for assassins.
 [P]Saberdart launchers have lightweight barrels that propel their darts via compressed gas. Dart launchers can be built into gloves, pieces of armor, other weapons, even innocuous pieces of everyday gear like datapads and glowrods.
 [P]Saberdarts may be loaded with 1 dose of synthetic neuroparalytic (see page 181 of the [B]Force and Destiny[b] Core Rulebook), or any other poison the GM, deems appropriate. Whenever the wielder successfully attacks a target with the weapon (even if she deals no damage), the target also suffers the effects of being exposed to the poison.</Description>
     <Source Page="41">Endless Vigil</Source>
@@ -13004,7 +13004,7 @@ LaserHone's Trailbreaker is a versatile piece of equipment designed for explorat
     <Name>MSW-12 NanoDagger</Name>
     <Description>
       [H3]Xana Exotic Arms MSW-12 NanoDagger[h3]
-Another MSW-series mono-molecular blade offering by Xana Exotic Arms, the MSW-12 NanoDagger is a larger, deadlier version of the MSW-9 Molecular Stiletto. Resembling a common combat or ability blade, the NanoDagger's blade is made of a synthetic crystalline matrix embedded with super dense alloys that resist wear, chipping, blunting, and breakage. It has a mono-molecular edge that can slice through some of the toughest materials, and it can cause vicious, slow heating wounds on most being in the galaxy. Despite its reinforcement, like all mono-molecular blades produced by Xana, the NanoDagger's blade has an alarming tendancy to break under certain conditions.
+Another MSW-series mono-molecular blade offering by Xana Exotic Arms, the MSW-12 NanoDagger is a larger, deadlier version of the MSW-9 Molecular Stiletto. Resembling a common combat or ability blade, the NanoDagger's blade is made of a synthetic crystalline matrix embedded with super dense alloys that resist wear, chipping, blunting, and breakage. It has a mono-molecular edge that can slice through some of the toughest materials, and it can cause vicious, slow heating wounds on most being in the galaxy. Despite its reinforcement, like all mono-molecular blades produced by Xana, the NanoDagger's blade has an alarming tendency to break under certain conditions.
 [P]The GM may spend [TH][TH][TH] or [DE] from any combat check made with this weapon to have it become damaged on step (from undamaged to minor, minor to moderate, moderate to major, etc.) as described on page 166 of the [B]Force and Destiny[b] Core Rulebook.</Description>
     <Sources>
       <Source Page="44">Savage Spirits</Source>
@@ -13606,7 +13606,7 @@ Merr-Sonn's "Firecaller" model flame projectors have inspired almost as much fea
     <Name>Grapnel-Harpoon Launcher</Name>
     <Description>
       [H3]Grapnel-Harpoon Launcher[h3]
-Commonly thought of as tools for climbing or lifting cargo, the weapons division of Pharr Co. instead produces grapnel launchers with the balance and targeting capabilities necessary for combat use, allowing their users entangle opponents in a binding cord. Although sometimes used by thieves who don't like the idea of their victems fighting back, these grapnel guns see more use by bounty hunters or even law enforcement agents, assisting in the capture of their quarries. Although viewed as a non-lethal option, the magnetic firing mechanism of a grapnel is powerful enough to inflict injuries on the targets it ensnares. Generally, such wounds are superficial, and thus don't threaten the target's life—or more importantly, the bounty hunter's chances of getting paid in full.</Description>
+Commonly thought of as tools for climbing or lifting cargo, the weapons division of Pharr Co. instead produces grapnel launchers with the balance and targeting capabilities necessary for combat use, allowing their users entangle opponents in a binding cord. Although sometimes used by thieves who don't like the idea of their victims fighting back, these grapnel guns see more use by bounty hunters or even law enforcement agents, assisting in the capture of their quarries. Although viewed as a non-lethal option, the magnetic firing mechanism of a grapnel is powerful enough to inflict injuries on the targets it ensnares. Generally, such wounds are superficial, and thus don't threaten the target's life—or more importantly, the bounty hunter's chances of getting paid in full.</Description>
     <Source Page="45">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -13909,7 +13909,7 @@ Deployed in groups, firecracker mines emit intense bursts of light, noise, and r
     <Name>"Subduer-9" Riot Blaster</Name>
     <Description>
       [H3]"Subduer-9" Riot Blaster[h3]
-Although just as heavy and unwieldly as many more lethal weapons, riot blasters lack stopping power in the traditional sense, as these bulky blaster varients are very unlikely to do lasting harm. Instead, riot blasters are built to enhance the effectiveness of the stun setting common to blaster weapons. The "Subduer-9" model is noteworthy for it can maintain a coherent stun blast over a wide area, reducing the risk of collateral damage or unintended injury to the target.
+Although just as heavy and unwieldy as many more lethal weapons, riot blasters lack stopping power in the traditional sense, as these bulky blaster variants are very unlikely to do lasting harm. Instead, riot blasters are built to enhance the effectiveness of the stun setting common to blaster weapons. The "Subduer-9" model is noteworthy for it can maintain a coherent stun blast over a wide area, reducing the risk of collateral damage or unintended injury to the target.
 [P]Given these capabilities, many peacekeeping forces equip their troops with riot blasters, or at least keep the powerful weapons on hand for major civil disturbances. While obviously preferable to the alternative, the willingness with which some Imperial commanders deploy the weapons at the slightest provocation has given them an unsavory reputation in the eyes of many. Nevertheless, they are a welcome addition to the armory of any hunter who prefers to take targets alive and avoid incidental harm to others.
     </Description>
     <Source Page="44">No Disintegrations</Source>

@@ -1783,7 +1783,7 @@ The character strives to own and operate a successful legal or outlaw business i
     <Name>Personal Improvement</Name>
     <Description>
       [H4]Personal Improvement[h4]
-The character does anything and everything to acquire enhanced abilities, whether to make up for a devastating injury or merely to exceed the limitations of nature. This character likely already has cybernetics and will be seeking to expand thier effectiveness. Other character might regard the character as dangerously willing to give new cybernetic program or device a try, no matter its source even if the potential downside could alter the character's life for the worse.</Description>
+The character does anything and everything to acquire enhanced abilities, whether to make up for a devastating injury or merely to exceed the limitations of nature. This character likely already has cybernetics and will be seeking to expand their effectiveness. Other character might regard the character as dangerously willing to give new cybernetic program or device a try, no matter its source even if the potential downside could alter the character's life for the worse.</Description>
     <Source Page="37">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Innovation</Motivation>
@@ -2666,7 +2666,7 @@ It would be easier to leave things as they are, but these Engineers view difficu
     <Name>Lethality</Name>
     <Description>
       [H4]Lethality[h4]
-It is clear to these Engineers that the more deadly the weapon, the better it is. They may also strive to make themselves as dangerous as possible through martial trainig and physical conditioning.
+It is clear to these Engineers that the more deadly the weapon, the better it is. They may also strive to make themselves as dangerous as possible through martial training and physical conditioning.
     </Description>
     <Source Page="32">Fully Operational</Source>
     <Custom>DescOnly</Custom>
@@ -2729,7 +2729,7 @@ Anyone can improve things given sufficient resources, but true artisans can take
     <Name>Simplicity</Name>
     <Description>
       [H4]Simplicity[h4]
-The best items are the ones that perform their functions in a basic manner, and Engineers work to eliminate anything that stands in the way of this goal. Lives are also lived best this way, but the Empire's harsh oversight or all aspects of its citizenry is in direct opposition to thie ideal.</Description>
+The best items are the ones that perform their functions in a basic manner, and Engineers work to eliminate anything that stands in the way of this goal. Lives are also lived best this way, but the Empire's harsh oversight or all aspects of its citizenry is in direct opposition to the ideal.</Description>
     <Source Page="32">Fully Operational</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Improvements</Motivation>

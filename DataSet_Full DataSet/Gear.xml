@@ -3748,7 +3748,7 @@ An improvement on MicroData's versatile Pocket Secretary and the more common Ver
 
 [P]Trying to slice into a Pocket Attache requires a [B]Daunting ([DI][DI][DI][DI]) Computers check[b]. If the check is unsuccessful, the data stored on the device, is automatically wiped and lost forever. 
 
-[P][B]Models Include:[b] MicroData P-2 Pocket Attache, Versafunction 108 Traveller datapad.</Description>
+[P][B]Models Include:[b] MicroData P-2 Pocket Attache, Versafunction 108 Traveler datapad.</Description>
     <Source>Lords of Nal Hutta</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
@@ -6667,7 +6667,7 @@ The ChandrilTech PX-7 heat sensor used to detect anomalous variations in tempera
     <Description>
       [H3]Personal Transponder[h3]
 [P]Personal transponders are low-powered tracking devices used to locate individuals. While bare-bones transponders are available at relatively low prices, many individuals choose to personalize theirs for use as jewelry, such as rings, pendants, cuff links, or other affectations. Though the transmission range for personal transponders is hardly infinite, they can be easily located with standard hand scanners as long as the transponder's unique frequency is known.
-[P]Picking up a personal transponder's signal accurately enough to find its exact location wthin close range on a planetary scale requires an [B]Average ([DI][DI]) Computers check[b]. Increase the difficulty of this check by two for each planetary scale range band beyond close, to a maximum of extreme range at the planetary scale.</Description>
+[P]Picking up a personal transponder's signal accurately enough to find its exact location within close range on a planetary scale requires an [B]Average ([DI][DI]) Computers check[b]. Increase the difficulty of this check by two for each planetary scale range band beyond close, to a maximum of extreme range at the planetary scale.</Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <Type>Security/Espionage</Type>
@@ -6714,7 +6714,7 @@ The ChandrilTech PX-7 heat sensor used to detect anomalous variations in tempera
       [H3]InstaMist Generator[h3]
 [P]Though designed for firefighting and agricultural use, Agrierd Intergalactics' InstaMist generator has found a place in the arsenals of some combatants who use it to create ambushes or make quick escapes. When loaded with a specially designed high-pressure mist cartridge and triggered, the InstaMist generator creates clouds of dense vapor. The vapor conceals the user (and anyone else nearby), providing an edge in both offensive and defensive situations. Other cartridges designed for use with the InstaMist generator create mists that can extinguish fires, generate humidity, or dispense pest control agents, but these tend to be separate, specialized products. 
 [P]As an action, a character may activate an InstaMist generator to fill an area out to short range of the generator with a heavy fog. As described on page 219 of the [B]Force and Destiny[b] core rulebook, heavy fog adds [SE][SE][SE] to Ranged (Light), Ranged (Heavy), Gunnery and Perception checks against targets obscured by it, and adds [Bo][BO][BO] to Stealth checks made by characters concealed by it. The heavy fog lasts for three rounds. At the GM's discretion, windy conditions can cause it to become fog or mist or reduce the time it takes for the vapor to disperse entirely.
-[P]The generator comes wiht five vapor cartridges. Additional vapor cartridges cost 10 credits each, and other cartridges vary in price based on their function.      </Description>
+[P]The generator comes with five vapor cartridges. Additional vapor cartridges cost 10 credits each, and other cartridges vary in price based on their function.      </Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <Type>Survival</Type>
@@ -6735,7 +6735,7 @@ The ChandrilTech PX-7 heat sensor used to detect anomalous variations in tempera
     <Description>
       [H3]Med-Aid Patch[h3]
 [P]"Med-Aid" is a general term applied to single-use bandages and compresses that have been infused with bacta, antibiotics, coagulants, and other healing agents. Such supplies are especially valued by field medics treating cases of minor injuries that do not call for the expenditure of stimpacks, as they are relatively less costly.
-[P]When making a Medicine check to heal wounds from a character, a character can expend up to one med-aid patch to add automatic [SU][AD] to the results of the check. A character cannot use more tha one med-aid patch per check.
+[P]When making a Medicine check to heal wounds from a character, a character can expend up to one med-aid patch to add automatic [SU][AD] to the results of the check. A character cannot use more than one med-aid patch per check.
     </Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
@@ -6758,7 +6758,7 @@ The ChandrilTech PX-7 heat sensor used to detect anomalous variations in tempera
       [H3]Luma Flare[h3]
 [P]Luma flares are rocket propelled illumination devices commonly used by both militaries and survivalists. Luma flares excel at illuminating dark areas, as their detonation spreads a luminous compound over a wide blast area. They are also popular as signaling devices, especially when used to attract the attention of search and rescue teams.
 [P]Each luma flare is a self contained device with limited guidance capability. The flare's simple controls allow the user to guide its rough trajectory, as well as to adjust the blast's detonation point based on the desired altitude. A safety is included, which generally prevents the flare from igniting before the rocket reaches its destination.
-[P]As an action, a character may make an [B]Easy (DI) Gunnery check[b] to launch a luma flare into the air to provide light. Uf he succeeds and the flare has room to travel into the air, he flare completely illuminates an area out to long range from the location it was fired. If he fails or does not have room to fire it, the flare still ignites, but does not travel into the air. Instead it remains at ground level, illuminating an area out to short range. Whether he succeeds or fails, the flare's illumination continues for five rounds, after which time it burns out.
+[P]As an action, a character may make an [B]Easy (DI) Gunnery check[b] to launch a luma flare into the air to provide light. If he succeeds and the flare has room to travel into the air, he flare completely illuminates an area out to long range from the location it was fired. If he fails or does not have room to fire it, the flare still ignites, but does not travel into the air. Instead it remains at ground level, illuminating an area out to short range. Whether he succeeds or fails, the flare's illumination continues for five rounds, after which time it burns out.
 [P]Though Luma flares are not designed as weapons, creative characters can nonetheless use them as such. They are extremely hard to aim, but the mere prospect of being struck with one will cause many foes to reconsider attacking. They have the following profile as a weapon: luma flare (Gunnery) Damage 6, Critical 3, Range Long, Blast 4, Burn 4, Disorient 2, Inaccurate 2, Prepare 2, Limited Ammo 1.
     </Description>
     <Source>Keeping the Peace</Source>
@@ -6875,7 +6875,7 @@ Frangawl cultists are masters of dark side techniques, including ones that deal 
     <Name>Tracing Console</Name>
     <Description>
       [H3]Ealewon A-212 Tracing Console[h3]
-Tracing consoles are most commonly found within espionage agencies and other sensitive installations, but they could be used by any group concerned about the security of its electronic systems to which they are linked, logging all attempts at access and monitoring for unsual activity. Once irregularities are logged, the console can be used to assist in following the disturbance to its source.
+Tracing consoles are most commonly found within espionage agencies and other sensitive installations, but they could be used by any group concerned about the security of its electronic systems to which they are linked, logging all attempts at access and monitoring for unusual activity. Once irregularities are logged, the console can be used to assist in following the disturbance to its source.
 [P]A tracing console can be installed to monitor a single system, such as a buildin's data network or a ship's computer. Computers checks to slice a system protected in this way suffer [SE] due to the difficulty of avoiding notice. A defended slicer using the console gains [BO][BO] to Computers checks to identify any intruder as by the Trace User action (see [B]Slicing Encounters,[b] page 87).</Description>
     <Source Page="51">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -7178,7 +7178,7 @@ The service patch remote analyzes damage to a starship's systems and repairs bro
     <Name>OR-Series Tech Recycling Station</Name>
     <Description>
       [H3]OR-Series Tech Recycling Station[h3]
-Tech recycling stations are used to speed up the time consuming task of sifting through damaged or discarded technology to find items of value. High-grade examples are sometimes used by archaeological expeditions but the more common OR-Series is typical of models in service  everywhere from the recycling plants of environmental concerns to the warehouses of Outer Rim scrap dealers. The OR-Series sorts through loads of junked technology to find vaulable quality alloys, active power cells and useful parts that can be separated from the trash surrounding them.
+Tech recycling stations are used to speed up the time consuming task of sifting through damaged or discarded technology to find items of value. High-grade examples are sometimes used by archaeological expeditions but the more common OR-Series is typical of models in service  everywhere from the recycling plants of environmental concerns to the warehouses of Outer Rim scrap dealers. The OR-Series sorts through loads of junked technology to find valuable quality alloys, active power cells and useful parts that can be separated from the trash surrounding them.
 [P]A character using a tech recycling station adds [BO][BO] to Perception and Mechanics checks to scavenge parts or raw materials and can complete such checks in half the time (or one quarter of the time with the Utinni! talent). Additionally, a character with a tech recycling station on hand may recover supplies worth half the Material Price from any failed crafting checks, to a maximum of the full value (see [B]Crafting[b] on page 74).</Description>
     <Source Page="52">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -7421,7 +7421,7 @@ in their particular military culture.</Description>
     <Name>CZ-88 Heavy Loader Arm</Name>
     <Description>
       [H3]CZ-88 Heavy Loader Arm[h3]
-The CZ-88 model heavy loader produced by Czerka is a flexible piece of equipment used for everything from moving freight to collecting salvage to replacing damaged hull plating on starships. The primary loading arm has several extensions that enhance articulation and balance allowing it to handle even delicate materials without sacrificing the lifting power needed for large-scale construction and salvage jobs. It generally comes mounted on a cart witha  repulsorlift as transporting the arm would otherwise be largely impractical due to its enormity.
+The CZ-88 model heavy loader produced by Czerka is a flexible piece of equipment used for everything from moving freight to collecting salvage to replacing damaged hull plating on starships. The primary loading arm has several extensions that enhance articulation and balance allowing it to handle even delicate materials without sacrificing the lifting power needed for large-scale construction and salvage jobs. It generally comes mounted on a cart with a repulsorlift as transporting the arm would otherwise be largely impractical due to its enormity.
 [P]A heavy loader arm includes a monotask droid brain that can perform checks to heft objects; it has an Athletics skill of 1 and a Brawn of 5 (if unassisted, it rolls [PR][AB][AB][AB][AB] for Athletics checks.
 [P]Sometimes, salvages install loader arms directly onto starships or other vehicles for easy retrieval of scrap metal and other components, using the arm as a low-cost alternative to a tractor beam projector. A CZ-88 heavy loader arm can be installed onto a vehicle of silhouette 3 or larger as an attachment, and uses one hard point. The occupants of the craft can use it to perform Athletics checks to lift objects into or out of the vessel (and other checks at the GM's discretion) without disembarking.
 
@@ -7650,7 +7650,7 @@ Deception, and Leadership checks he makes once.
       [H3]Dolina Ring Seeds[h3]
 The swampy world of Dagobah has been erased from galactic charts, but the rare visitors of times past brought away samples of the planet’s unique flora and fauna. One example from Dagobah’s extensive catalog of vegetative wonders is the dolina ring seed, samples of which are held by several universities and agribusiness concerns throughout the galaxy. Although the samples’ provenance is now unknown, their unusual shape and mysterious properties continue to be studied by scientists.
 [P]The seeds are just that, embryonic plants forming both the culmination and the beginning of the life cycle of an unknown angiosperm. However, unlike the vast majority of coated seeds that have been cataloged from across known space, dolina ring seeds are not spherical or ovoid. Instead, the hardened fruit layer, or endocarp, surrounding and fused to the actual seed material takes the form of a woody ring about three centimeters in diameter. This unique shape has long fascinated biologists, who seek to learn what form of plant might grow from a ring. However, no dolina ring seeds have ever germinated away from the soggy soils of Dagobah, so no one now living knows what manner of shrub, flowering plant, or tree might grow from them.
-[P]Normally, thus stymied, scientists would turn their attention to some other wonder, but the dolina ring seeds have characteristics that make them fascinating on their own. For one thing, they are near-indestructible, capable of withstanding tremendous pressures, extremes of temperature, and baths of caustic and corrosive chemicals with little or no physical evidence of trauma to their outer coatings. Another property unusual in a clearly biological artifact is the seeds' extraordinary density. Though small enough to be held in the palm of a human’s hand, and even of a size and shape appropriate to be worn as jewelry on some sen- tients’ fingers, dolina ring seeds mass in at an incredible nine kilograms on average, making them some of the heaviest known plant matter.
+[P]Normally, thus stymied, scientists would turn their attention to some other wonder, but the dolina ring seeds have characteristics that make them fascinating on their own. For one thing, they are near-indestructible, capable of withstanding tremendous pressures, extremes of temperature, and baths of caustic and corrosive chemicals with little or no physical evidence of trauma to their outer coatings. Another property unusual in a clearly biological artifact is the seeds' extraordinary density. Though small enough to be held in the palm of a human’s hand, and even of a size and shape appropriate to be worn as jewelry on some sentients’ fingers, dolina ring seeds mass in at an incredible nine kilograms on average, making them some of the heaviest known plant matter.
 [P]There is another characteristic of dolina ring seeds, known to only the very few Force-sensitive scientists who have studied them, kept as a closely guarded secret. Their Force reactivity was first discovered and described by a Sullustan agronomist in the employ of a Mid Rim foodstuffs company just a few years after the end of the Clone Wars. All of this scientist’s research, and the scientist herself, were promptly confiscated by agents of the Empire. Around the same time, a human farmer and chemist working independently came across a dolina ring seed in a lot of seed stocks he had purchased as part of a load of salvage from a Trandoshan junk dealer. Unaware of the scant findings that had been published about the ring seeds, this man at first kept the sample as a simple curiosity. It was only when an Imperial sweep of his planet for Force sensitives targeted his young daughter that the ring’s value became apparent.
 [P]Seeking to protect his daughter from Inquisitorial kidnapping, the farmer hid her in his laboratory while he tried to convince the Imperial agents that she was offworld with her mother. A quick records check showed the agents that the farmer was in fact a widower, and then the casual brutality of the Empire evinced itself as they shot the man in cold blood. Overhearing the execution, the girl cast about desperately for anything that might save her, and it was then that the innate Force abilities that had attracted the attention of the Inquisition in the first place reacted with the dolina ring seed. Sensing that she should do so, and ignoring its incredible weight, the girl slipped the seed onto her thumb. The energy of the Living Force filled her body, taking the form of an incredible burst of speed. The Imperial agents saw only a blur as she fled into the night, never to be seen by them again.
 [P]Now a grown woman, Syla Trasker is an accomplished Force adept and a member of the Rebellion. She still wears the dolina ring seed her father found, now on a chain around her neck, its weight unfelt and thus no hindrance. It gives her the ability to run at tremendous Force-granted speeds, though such efforts are only sustainable for a short time and are exhausting. Tests performed by Syla and Rebellion scientists show that both the variable weight and the speedgranting properties of the seed are only active when it is held by a Force-sensitive being.
@@ -7676,7 +7676,7 @@ The swampy world of Dagobah has been erased from galactic charts, but the rare v
     <Name>Butterbug Remote</Name>
     <Description>
       [H3]Butterbug Remote[h3]
-These small palm-sized remotes tramsit localized information to each other and to the user. Whole batches can be linked together as a networked swarm.
+These small palm-sized remotes transit localized information to each other and to the user. Whole batches can be linked together as a networked swarm.
     </Description>
     <Source Page="53">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -8074,7 +8074,7 @@ tiny, pill-shaped package. In addition to military-grade
 encryption, the 3-MAL scans popular civil defense,
 emergency services, and law enforcement frequencies. Like most comlinks on the market, the 3-MAL
 easily synchronizes with properly equipped droids,
-computers, sensors, and cyborg units, and can transm it either voice or data.
+computers, sensors, and cyborg units, and can transmit either voice or data.
 [P]This comlink transmits up to medium range on the
 planetary scale. The 3-MAL’s encryption adds [SE] to
 any check made to intercept and unscramble the signal. Monitoring a standard clear frequency on a civilized world can add [BO][BO] to Knowledge checks related to current events or conditions at the GM’s discretion.
@@ -8232,7 +8232,7 @@ This high-output stun weapon takes the form of a flat lens small enough to conce
       [H3]Scramble Key[h3]
 Breaking into a facility secured with an electronic lock usually requires a knowledgeable slicer, but the galactic underworld has invented myriad ways to perform the task in the absence of such personnel. Scramble keys, also called lottery keys or luckbreakers, are one such tool. Scramble keys interact with electronic locks that require a password or code input to open. instead of providing or faking the legitimate entry code, scramble keys cycle through  possible codes at incredible speeds, offering up a barrage of possible matches in fractions of a second.
 [P]The processing power is such that they are typically able to generate potential matches faster than they can input all of them. Some criminals calim that it is possible to notice when a scramble key generates the correct code through faint tremors or buzzing in the device, even if the key has not yet input this code, and that they can adjust the controls to allow them to select the correct code for immediate input. This procedure can be less effective, but could save valuable time if the operator's hunch is correct. many Force-sensitive users find they have a special knack for this approach and can intuitively select correct codes with ease.
-[P]A scramble key bypasses most simple electronic locks within five minutes of application. At the Game Master's discretion, more complicated locks may require additional time to crack or might trigger alarms at the brute force incursion. The user may attempt to speed up this process with a [B]Daunting ([DI][DI][DI][DI]) Skulduggery check[b], relying on pure intuition to select the correct code from thsoe the scramble key generates. Success reduces the time needed to crack a common lock to a single minute, but failure immediately triggers any relevant alarms. Force-sensitive characters may make a Force power check as part of this check, adding either  [SU] or [AD] for each [FP] generated.</Description>
+[P]A scramble key bypasses most simple electronic locks within five minutes of application. At the Game Master's discretion, more complicated locks may require additional time to crack or might trigger alarms at the brute force incursion. The user may attempt to speed up this process with a [B]Daunting ([DI][DI][DI][DI]) Skulduggery check[b], relying on pure intuition to select the correct code from those the scramble key generates. Success reduces the time needed to crack a common lock to a single minute, but failure immediately triggers any relevant alarms. Force-sensitive characters may make a Force power check as part of this check, adding either  [SU] or [AD] for each [FP] generated.</Description>
     <Source Page="49">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Type>Security/Espionage</Type>
@@ -8315,7 +8315,7 @@ A normal pair of macrobinoculars allows their user to see distant objects with g
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Magnifies targetets up to 10 kilometers away.</MiscDesc>
+        <MiscDesc>Magnifies targets up to 10 kilometers away.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
@@ -8351,7 +8351,7 @@ A normal pair of macrobinoculars allows their user to see distant objects with g
     <Description>
       [H3]Yaladai Spice[h3]
 Yaladai spice is a prized and expensive stimulant, worth many times  the value of more common drugs, such as glitterstim, on the black market. To most, it offers a supreme clarity of thought and focus, along with a sense of relaxation that refreshes the user even through extended activity. The spice is extremely addictive with long-term use, but those who can afford to take it regularly it regularly rarely stop for this reason. The benefits of yaladai spice express themselves most strongly among Force users, who can use it to temporarily enhance their abilities and connection to the Force. This can be a double-edge sword as the enhanced connection usually amplifies any negative emotions or effects to which the user experiences.
-[P]Yaladai spice has effects that last for one encounter. When a character under the effects of the spice suffers strain, whe suffers three less strain, to a minimum of one. This does not apply to voluntary strain loss. Additionally, a Force user under the effects of yaladai spice can add [FO] to any Force power checks she makes. When she does so, however, the spice doubles any strain and Conflict suffered for using {DA] to generate [FP].</Description>
+[P]Yaladai spice has effects that last for one encounter. When a character under the effects of the spice suffers strain, he suffers three less strain, to a minimum of one. This does not apply to voluntary strain loss. Additionally, a Force user under the effects of yaladai spice can add [FO] to any Force power checks she makes. When she does so, however, the spice doubles any strain and Conflict suffered for using {DA] to generate [FP].</Description>
     <Source Page="48">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Type>Drugs and Consumables</Type>
@@ -8373,7 +8373,7 @@ Yaladai spice is a prized and expensive stimulant, worth many times  the value o
     <Description>
       [H3]Yaladai Spice[h3]
 Yaladai spice is a prized and expensive stimulant, worth many times  the value of more common drugs, such as glitterstim, on the black market. To most, it offers a supreme clarity of thought and focus, along with a sense of relaxation that refreshes the user even through extended activity. The spice is extremely addictive with long-term use, but those who can afford to take it regularly it regularly rarely stop for this reason. The benefits of yaladai spice express themselves most strongly among Force users, who can use it to temporarily enhance their abilities and connection to the Force. This can be a double-edge sword as the enhanced connection usually amplifies any negative emotions or effects to which the user experiences.
-[P]Yaladai spice has effects that last for one encounter. When a character under the effects of the spice suffers strain, whe suffers three less strain, to a minimum of one. This does not apply to voluntary strain loss. Additionally, a Force user under the effects of yaladai spice can add [FO] to any Force power checks she makes. When she does so, however, the spice doubles any strain and Conflict suffered for using {DA] to generate [FP].</Description>
+[P]Yaladai spice has effects that last for one encounter. When a character under the effects of the spice suffers strain, he suffers three less strain, to a minimum of one. This does not apply to voluntary strain loss. Additionally, a Force user under the effects of yaladai spice can add [FO] to any Force power checks she makes. When she does so, however, the spice doubles any strain and Conflict suffered for using {DA] to generate [FP].</Description>
     <Source Page="48">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Type>Drugs and Consumables</Type>
@@ -8394,7 +8394,7 @@ Yaladai spice is a prized and expensive stimulant, worth many times  the value o
     <Description>
       [H3]Questioner-9 Interrogation Serum[h3]
 Interrogation serums are a favored product of the Empire. Used by Imperial authorities from local police forces to the ISB, and even the Inquisitorius, these serms come in a wide variety of forms. Such serums are also available on the black market, where they are purchased by powerful crime lords and ruthless vigilantes. The druge known as Questioner-9 is a typical example, noteworthy primarily for the flexible means of application and for the low synthesis cost that makes it available to Imperial authorities and criminals alike. Interrogators typically inject the serum into a restrained or helpless target, but Questioner-9 can also operate through ingestions by an unsuspecting diner.
-[P]The serum takes effect in the victim's system after a delay of about five minutes. At the point, the victem upgrades the difficulty of all checks to withold information of resist manipulation (including resisting Force powers such as Influence) once for the next 24 hours.</Description>
+[P]The serum takes effect in the victim's system after a delay of about five minutes. At the point, the victim upgrades the difficulty of all checks to withhold information of resist manipulation (including resisting Force powers such as Influence) once for the next 24 hours.</Description>
     <Source Page="48">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Type>Drugs and Consumables</Type>
@@ -8405,7 +8405,7 @@ Interrogation serums are a favored product of the Empire. Used by Imperial autho
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Five minute delay.  Victim upgrades the difficulty of all checks to withold information or resist manipulation (including Force powers) once for next 24 hours.</MiscDesc>
+        <MiscDesc>Five minute delay.  Victim upgrades the difficulty of all checks to withhold information or resist manipulation (including Force powers) once for next 24 hours.</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
@@ -8415,7 +8415,7 @@ Interrogation serums are a favored product of the Empire. Used by Imperial autho
     <Description>
       [H3]Questioner-9 Interrogation Serum[h3]
 Interrogation serums are a favored product of the Empire. Used by Imperial authorities from local police forces to the ISB, and even the Inquisitorius, these serms come in a wide variety of forms. Such serums are also available on the black market, where they are purchased by powerful crime lords and ruthless vigilantes. The druge known as Questioner-9 is a typical example, noteworthy primarily for the flexible means of application and for the low synthesis cost that makes it available to Imperial authorities and criminals alike. Interrogators typically inject the serum into a restrained or helpless target, but Questioner-9 can also operate through ingestions by an unsuspecting diner.
-[P]The serum takes effect in the victim's system after a delay of about five minutes. At the point, the victem upgrades the difficulty of all checks to withold information of resist manipulation (including resisting Force powers such as Influence) once for the next 24 hours.</Description>
+[P]The serum takes effect in the victim's system after a delay of about five minutes. At the point, the victim upgrades the difficulty of all checks to withhold information of resist manipulation (including resisting Force powers such as Influence) once for the next 24 hours.</Description>
     <Source Page="48">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Type>Drugs and Consumables</Type>
@@ -8426,7 +8426,7 @@ Interrogation serums are a favored product of the Empire. Used by Imperial autho
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Five minute delay.  Victim upgrades the difficulty of all checks to withold information or resist manipulation (including Force powers) once for next 24 hours.</MiscDesc>
+        <MiscDesc>Five minute delay.  Victim upgrades the difficulty of all checks to withhold information or resist manipulation (including Force powers) once for next 24 hours.</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
@@ -8531,7 +8531,7 @@ GU-series "Guardian" police droids were the primary law enforcement droids opera
       [H3]DUM-Series Pit Droid[h3]
 Produced in huge numbers by Serv-O-Droid, the ubiquitous DUM-series droids are a common sight in workshops mechanics' garages and racing pits all across the galaxy. Introduced during the days of the Galactic Republic these droids were constructed at the Serv-O-Droid facility on Cyrillia for labor repair, and light construction use. Through out the decades during which the DUM series has been in service these droids have gained an unfortunate reputation as poorly programmed, hapless and clumsy things that are often not worth the trouble of keeping. They are also highly  disposable, thanks to their cheap construction and low price point, most DUM-series droids are simply destroyed or recycled when damaged rather than repairing. Scrapyards throughout the galaxy are littered with the remains of DUM-series droids, and few individuals consider them to have worth at all.
 [P]Despite their reputation and common prejudices against them DUM-series droids are quite capable within the narrow range of their abilities DUM-series droids stand roughly one meter high. They have a spindly almost skeletal appearance, with long, thin limbs and agile digits. They have a broad, flared dome-shaped head dominated by a single large, round photoreceptor equipped with multi-spectrum scanners that detect microscopic damage in metals and other solid materials. Designed to work in large packs, they are equipped with a built-in comm system that includes a constant data link allowing groups of the droids to work together more efficiently and effectively without vocal communications. In addition, DUM-series droids can lift and carry weights well out of proportion to their tiny size. When deactivated, DUM-series droids can fold up into rough cubes covered by their broad heads this allows them to be stored and shipped easily. They can also use this mode to protect themselves from danger such as crashing vehicles or falling debris.
-[P]While not particularly well liked by the general galactic population or well supported by Serv-O-Droid, DUM-series droids are still a common sight in the galaxy. They are especially popular in the Outer Rim, where their relative strength and mechanical programming make them excellent assistants to poorer shipwrights and vehicel builders. DUM-series droids are also closely associated with Podracing, nearly every Podracing team keeps a stable of these droids to maintain their vehicles and salvage scrap from crashed competitors along racecourses.</Description>
+[P]While not particularly well liked by the general galactic population or well supported by Serv-O-Droid, DUM-series droids are still a common sight in the galaxy. They are especially popular in the Outer Rim, where their relative strength and mechanical programming make them excellent assistants to poorer shipwrights and vehicle builders. DUM-series droids are also closely associated with Podracing, nearly every Podracing team keeps a stable of these droids to maintain their vehicles and salvage scrap from crashed competitors along racecourses.</Description>
     <Source Page="45">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Type>Droids</Type>
@@ -8645,7 +8645,7 @@ Traditional, projectile-throwin bow weapons are a rarity in the galaxy. They are
     <Name>Surveyer's Tools</Name>
     <Description>
       [H3]Surveyer's Tools[h3]
-Even in a galaxy as old and well travelled as this, new worlds are still regularly discovered. Whether found by sheer accident or during a sponsored exploration mission, newly discovered worlds need to be surveyed and cataloged—making planetary surveyors in high demand throughout the galaxy. While most surveyors, especially those with years of experience, claim they need little more than a ruler, compass and stout length of chain to do their job, the planetary survey field is full of specialized tools and equipment. A good kit of surveyor's tools and measuring and recording devices for plotting out and mapping, planetary surfaces. Basic kits are often more than a chain, a compass, and tool like a sextant for recording the position and movement of stars, but advanced kits used by professional surveyors can fill one or two large carrying cases or even the bed of a small speeder truck.
+Even in a galaxy as old and well traveled as this, new worlds are still regularly discovered. Whether found by sheer accident or during a sponsored exploration mission, newly discovered worlds need to be surveyed and cataloged—making planetary surveyors in high demand throughout the galaxy. While most surveyors, especially those with years of experience, claim they need little more than a ruler, compass and stout length of chain to do their job, the planetary survey field is full of specialized tools and equipment. A good kit of surveyor's tools and measuring and recording devices for plotting out and mapping, planetary surfaces. Basic kits are often more than a chain, a compass, and tool like a sextant for recording the position and movement of stars, but advanced kits used by professional surveyors can fill one or two large carrying cases or even the bed of a small speeder truck.
 [P]A set of basic surveyor's tools adds [BO] to a character's Perception checks when plotting specific locations on a planet's surface, measuring distances or creating detailed maps. Larger kits may add [BO][BO] at the Game Master's discretion.</Description>
     <Source Page="49">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
@@ -8800,7 +8800,7 @@ Creshaldyne Industries' Mk. III Modular Backpack is a civilian version of its po
     <Name>XV-20 Portable Veterinary Kit</Name>
     <Description>
       [H3]XV-20 Portable Veterinary Kit[h3]
-The XV-20 is produced by Xenovet, a biotech firm based on Commenor known for its designer pets and respected line of vetinary equipment. Designed for individuals in out-of-the-way places who make their livings with beasts, such as scouts, surveyors and herders, the XV-20 provides all the medical tools and supplies needed to keep a creature happy and healthy. Packed in a small, shock-proof carrying case, the kit contains enough drugs, supplies, vetinary medical instruments and other gear to treat sick or wounded animals in the field, in addition to the medical supplies the XV-20 also contains a small datapad with a vetinary care database for most of the galaxy's common creatures and a number of tutorials to assist untrained individuals in the emergency treatment of animals.</Description>
+The XV-20 is produced by Xenovet, a biotech firm based on Commenor known for its designer pets and respected line of veterinary equipment. Designed for individuals in out-of-the-way places who make their livings with beasts, such as scouts, surveyors and herders, the XV-20 provides all the medical tools and supplies needed to keep a creature happy and healthy. Packed in a small, shock-proof carrying case, the kit contains enough drugs, supplies, veterinary medical instruments and other gear to treat sick or wounded animals in the field, in addition to the medical supplies the XV-20 also contains a small datapad with a veterinary care database for most of the galaxy's common creatures and a number of tutorials to assist untrained individuals in the emergency treatment of animals.</Description>
     <Source Page="48">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Type>Medical</Type>
@@ -8821,7 +8821,7 @@ The XV-20 is produced by Xenovet, a biotech firm based on Commenor known for its
     <Description>
       [H3]Healer's Kit[h3]
 Those who live on the fringes of society, whether by choice or by circumstance, tend to be more hardy and skillful than the typical galactic citizen. Resourceful and self-reliant, these individuals often live days or even weeks from civilization, and must rely on what they can find or make by hand for daily survival. A healer's kit is simply a collection of local natural medicines kept together in a case or pouch. Depending on the users and the environments in which they live, it might contain plant back and leaves, mosses, various herbs and other natural healing agents found in the environment.
-[P]Rather than being purchased, a character must fashion her own container and equip the empty pack with native medicinal items through a [B]Hard ([DI][DI][DI]) Survival check[b]. A healer's kit allows the character to use the Medicine skill to heal herself or other individuals without penalty as described on page 123 of the [B]Force and Destiny[b] Core Rulebook. The GM may spend [DE] on a Medicine check when  a character is using the healer's kit to indicate that some or all of the medicinal items have been exhausted in the attempt, in such a case, the healer's kit cannot be used again until the character spends some tme restocking and makes an [B]Average ([DI][DI]) Survival check[b].</Description>
+[P]Rather than being purchased, a character must fashion her own container and equip the empty pack with native medicinal items through a [B]Hard ([DI][DI][DI]) Survival check[b]. A healer's kit allows the character to use the Medicine skill to heal herself or other individuals without penalty as described on page 123 of the [B]Force and Destiny[b] Core Rulebook. The GM may spend [DE] on a Medicine check when  a character is using the healer's kit to indicate that some or all of the medicinal items have been exhausted in the attempt, in such a case, the healer's kit cannot be used again until the character spends some time restocking and makes an [B]Average ([DI][DI]) Survival check[b].</Description>
     <Source Page="48">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Type>Medical</Type>
@@ -8959,8 +8959,8 @@ Porvir are tiny, awkward creatures. More than half of their bodies are taken up 
     <Name>Nexu</Name>
     <Description>
       [H3]Nexu[h3]
-Orignally native to the jungles of Cholganna, nexu have been transplanted across the galaxy since they were first discovered to be domesticable. Sometimes used as guard animals, they are far more commonly trained as arena combatants for use in gladiatorial games and challenges. They demand is driven part by their fearsome appearance with a huge toothy maw, four beady eyes and massive claw-tipped paws, all backed up by a pair of barbed tail spikes. What's more, nexu are fully as lethal as their natural armament would suggest, and possess a temperment and instinctive cunning that make them even greater threats.
-[P]Although naturally stealthy and elusive, nexu do not lack for ferocity or mettle in a direct fight, and they rarely back down in the face of any threat they encounter. Even then faced wth more ferocious predator, nexu are more likely to attempt to melt away into the underbrush or other cover and attack again using stealth to gain the advantage than to simply flee their hunting grounds. Of course, this means that training such fierce beasts is a dangerous and unforgiving task, but the demand for them means there are always those willing to take the risk.</Description>
+Orignally native to the jungles of Cholganna, nexu have been transplanted across the galaxy since they were first discovered to be domesticable. Sometimes used as guard animals, they are far more commonly trained as arena combatants for use in gladiatorial games and challenges. They demand is driven part by their fearsome appearance with a huge toothy maw, four beady eyes and massive claw-tipped paws, all backed up by a pair of barbed tail spikes. What's more, nexu are fully as lethal as their natural armament would suggest, and possess a temperament and instinctive cunning that make them even greater threats.
+[P]Although naturally stealthy and elusive, nexu do not lack for ferocity or mettle in a direct fight, and they rarely back down in the face of any threat they encounter. Even then faced with more ferocious predator, nexu are more likely to attempt to melt away into the underbrush or other cover and attack again using stealth to gain the advantage than to simply flee their hunting grounds. Of course, this means that training such fierce beasts is a dangerous and unforgiving task, but the demand for them means there are always those willing to take the risk.</Description>
     <Source Page="77">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Type>Trainable Beasts</Type>
@@ -8974,7 +8974,7 @@ Orignally native to the jungles of Cholganna, nexu have been transplanted across
     <Name>Manka Cat</Name>
     <Description>
       [H3]Manka Cat[h3]
-A rare example of a feline predator with a pack instinct, manka cats have been found across the mountains and grasslands of a number of the Core Worlds still lightly settled enough to have wilderness areas. These creatures range from 1.5 to nearly 2 meters in length, although they have low-slung bodies for hiding in tall grass or among rock formations. Manka cats are also distinguishable by the thick manes of fur around their necks, and the two sets of menacing, forward-jutting tusks in their lower jaws. Although they still can be found on other worldsm one of the largest populations of the species was located in the mountains of Alderaan. With that planet;s destruction the species has had its numbers thinned considerable, although they are not yet truly endangered.</Description>
+A rare example of a feline predator with a pack instinct, manka cats have been found across the mountains and grasslands of a number of the Core Worlds still lightly settled enough to have wilderness areas. These creatures range from 1.5 to nearly 2 meters in length, although they have low-slung bodies for hiding in tall grass or among rock formations. Manka cats are also distinguishable by the thick manes of fur around their necks, and the two sets of menacing, forward-jutting tusks in their lower jaws. Although they still can be found on other worlds one of the largest populations of the species was located in the mountains of Alderaan. With that planet;s destruction the species has had its numbers thinned considerable, although they are not yet truly endangered.</Description>
     <Source Page="76">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Type>Trainable Beasts</Type>
@@ -9016,7 +9016,7 @@ The kath hounds of Dantooine are a species of fierce canine pack hunters, averag
     <Name>Jerethian Clamberwolf</Name>
     <Description>
       [H3]Jerethian Clamberwolf[h3]
-The powerful, heavily furred clamberwolves are the unquestion apex predators of the forests on their homeworld of Jereth VI. Their fierce, lupine muzzles and ripping talons can take down almost any prey, but in their native forests, it is their natural deftness at climbing that places them atop the food chain. Clamberwolves are capable of cunning ambushes and and tactics that can take down larger animals or leave weak prey with nowhere to run. They are surprisingly intelligent for mere beasts, but their natural aggression makes studying or training them difficult for most.</Description>
+The powerful, heavily furred clamberwolves are the unquestioned apex predators of the forests on their homeworld of Jereth VI. Their fierce, lupine muzzles and ripping talons can take down almost any prey, but in their native forests, it is their natural deftness at climbing that places them atop the food chain. Clamberwolves are capable of cunning ambushes and and tactics that can take down larger animals or leave weak prey with nowhere to run. They are surprisingly intelligent for mere beasts, but their natural aggression makes studying or training them difficult for most.</Description>
     <Source Page="75">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Type>Trainable Beasts</Type>
@@ -9125,7 +9125,7 @@ When setting a trap or infiltrating a facility, altering one's appearance grants
     <Name>Com-Scan</Name>
     <Description>[H3]Com-Scan[h3]
 Nearly every person and vehicle carries a comlink or a transceiver. While most are encrypted at some level—particularly military grade gear—sophisticated sensory apparatuses can detect the act of sending a signal, regardless of its content. If a system is able to identify the transceiver codes from a particular device, that unit can be accurately traced over a great distance, even if the contents of its messages cannot be decrypted.
-[P]Military organizations mount complex and sophisticated com-scans on their capital ships, which are capable of tracing signals even across subspace. More compact eversions, with substantially more limited capabilities, however, may be installed in smaller vehicles, including speeders. These are of greater interest to independent operators, who might need to track the movements of an individual or vehice.
+[P]Military organizations mount complex and sophisticated com-scans on their capital ships, which are capable of tracing signals even across subspace. More compact eversions, with substantially more limited capabilities, however, may be installed in smaller vehicles, including speeders. These are of greater interest to independent operators, who might need to track the movements of an individual or vehicle.
 [P]Using a com-scan, a character can triangulate the location and movement of a known comlink or transceiver with an [B]Average ([DI][DI]) Computers check[b]. The device functions out to close range on planetary scale. Prevailing atmospheric conditions or excessive background signals can reduce its efficacy.</Description>
     <Source Page="54">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
@@ -9138,7 +9138,7 @@ Nearly every person and vehicle carries a comlink or a transceiver. While most a
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Can trianguate location and movement of a known comlink or transeiver within close range (planetary) with an [B]Average ([DI][DI]) Computers check.[b]</MiscDesc>
+        <MiscDesc>Can triangulate location and movement of a known comlink or transceiver within close range (planetary) with an [B]Average ([DI][DI]) Computers check.[b]</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
@@ -9200,7 +9200,7 @@ Often, a hunter needs to track prey across tremendous distances. Sometimes this 
     <Name>Bioscan</Name>
     <Description>[H3]Bioscan[h3]
 Verifying a target's identity is crucial to retrieving payment on any acquisition. A wise bounty hunter does so prior to contacting the bounty's sponsor. A bioscan is a device that scans for life forms as well as verifying their physical makeup for anomalies and identifiers. Biometric data can be compared against another sample or a recording of one previously obtained.
-[P]Using a bioscan to scan an area for life signs grants [BO] to any Perception checks opposing Stealth. Using the device to verify a person's identity requires an [B]Average ([DI][DI]) Computers check[b] and a biometric identifier for comparison. The GM may modify this difficulty based upon any unusal anatomical characteristics of the target's species.</Description>
+[P]Using a bioscan to scan an area for life signs grants [BO] to any Perception checks opposing Stealth. Using the device to verify a person's identity requires an [B]Average ([DI][DI]) Computers check[b] and a biometric identifier for comparison. The GM may modify this difficulty based upon any unusual anatomical characteristics of the target's species.</Description>
     <Source Page="53">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
@@ -9369,7 +9369,7 @@ Used in spice mines and prisons across the galaxy, stun collars are an effective
     <Description>
       [H3]TRD-2 Sparring Droid[h3]
 
-[P]Briefly manufactured by Balmorran Arms, and loosely based upon their SD-series battle droid, these droids were designed to complement live sparring partners during the training of youn Imperial officer cadets. However, instructors found that the TRD-series lacked the killer instinct of more purpose-built combat droids, resulting in fewer training deaths and the perception that trainees were being coddled. The sparring droids were subsequently phased out of service. As the Empire moved on with more lethal units, the TRDs were reproduced, often for crowd suppression or as inexpensive corporate security. There are still examples of the TRD units being used for their original purpose, however, with organizations that feel the droid's versatility and resilience impart a deeper mastery of a wider array of combat skills.
+[P]Briefly manufactured by Balmorran Arms, and loosely based upon their SD-series battle droid, these droids were designed to complement live sparring partners during the training of young Imperial officer cadets. However, instructors found that the TRD-series lacked the killer instinct of more purpose-built combat droids, resulting in fewer training deaths and the perception that trainees were being coddled. The sparring droids were subsequently phased out of service. As the Empire moved on with more lethal units, the TRDs were reproduced, often for crowd suppression or as inexpensive corporate security. There are still examples of the TRD units being used for their original purpose, however, with organizations that feel the droid's versatility and resilience impart a deeper mastery of a wider array of combat skills.
 [P]Buzzing back and forth on their whirring treads, the TRD's arms flash with lightning reflexes, showcasing the fighting styles of over a hundred thousand cultures programmed into the droid's core memory systems. Variable limb configurations serve to mimic the strengths and weaknesses of countless foes. Many find a TRD-2 droid one of the best tests of martial prowess to be found.</Description>
     <Source Page="55">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
@@ -10071,7 +10071,7 @@ Used in spice mines and prisons across the galaxy, stun collars are an effective
     <Description>[H3]Kamperdine Clothing Specialists Body Glove[h3]
 [P]A critical negotiation requires the complete attention of everyone taking part. The slightest distraction can be enough to misinterpret a speaker's words or body language-either of which can have disastrous results. Any suggestion of nervousness-including a sweaty brow-can have implications for the direction of the discussion. These factors dictate that personal comfort must be a critical concern for anyone involved in high-stakes meetings.
 [P]This body glove is a tight-fitting layer of clothing that integrates myriad sensors with localized heating and cooling solutions. By design, a body glove is utterly undetectable: effective but silent, producing no visual or auditory cues to its activities. It provides the wearer with a level of physical comfort that helps overcome inconveniences from both climate and dress requirements.
-[P]A body glove may be worn under other clothing or armor. It removes [SE] from any checks due to tempuratures outside those of the wearer's preferred environment.</Description>
+[P]A body glove may be worn under other clothing or armor. It removes [SE] from any checks due to temperatures outside those of the wearer's preferred environment.</Description>
     <Source Page="47">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
     <Type>Survival</Type>
@@ -11408,7 +11408,7 @@ Industrial Automaton's DTS-series dismantler droids are a common sight in the ga
     <Key>ID9SEEKER</Key>
     <Name>ID9 Seeker Droid</Name>
     <Description>[H3]ID9 Seeker Droid[h3]
-Seekers are small, repulsor-driven, Class II droids used throughout the galaxy as couriers, scouts, and occasionally assassins. The ID9 by Arakyd Industries is a perfect example of the type. These small, nimble droids look like miniature Viper probe droids. They are commonly used tby the ISB and Inquisitorius in the course of their work rooting out rebels, traitors, and Jedi. Roughly the size of a large datapad, these droids have a flat, saucer-shaped body covered in light-absorbing polycarbonate. A single large red photoreceptor surrounded by four small sensor globes is mounted on the leading edge of the saucer, and the dorsal surface is studded with antennae and sensors. Five multi-jointed limbs-three long and two short-are mounted to the droid's ventral surface. Each of these limbs is equipped with a powerful grasping claw and a short-range energy weapon that allow the little droids to knock out organics and other droids with ease.
+Seekers are small, repulsor-driven, Class II droids used throughout the galaxy as couriers, scouts, and occasionally assassins. The ID9 by Arakyd Industries is a perfect example of the type. These small, nimble droids look like miniature Viper probe droids. They are commonly used by the ISB and Inquisitorius in the course of their work rooting out rebels, traitors, and Jedi. Roughly the size of a large datapad, these droids have a flat, saucer-shaped body covered in light-absorbing polycarbonate. A single large red photoreceptor surrounded by four small sensor globes is mounted on the leading edge of the saucer, and the dorsal surface is studded with antennae and sensors. Five multi-jointed limbs-three long and two short-are mounted to the droid's ventral surface. Each of these limbs is equipped with a powerful grasping claw and a short-range energy weapon that allow the little droids to knock out organics and other droids with ease.
 [P]ID9 droids are not the smartest droids in the Imperial arsenal, but they make up for it with tenacity and a kind of low cunning not often seen in droids of their class. With their nearly silent repulsorlift generator, light-absorbing coating, and stealthy programming, they are well suited for sneaking and spying. Since these droids are used primarily by ISB agents and other secretive assets, most resistance operatives don't even know they exist. Those who have encountered them view them with equal parts annoyance, respect, and fear, because while they themselves are easy to deal with, their masters usually are not.</Description>
     <Source Page="119">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>

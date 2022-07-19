@@ -19,7 +19,7 @@ that together total 12 or less.
   <Categories />
   <Price>2200</Price>
   <Rarity>2</Rarity>
-  <StarFighters>Starfighters or airspeeders totalling up to silhouette 12</StarFighters>
+  <StarFighters>Starfighters or airspeeders totaling up to silhouette 12</StarFighters>
   <SensorRangeValue>srNone</SensorRangeValue>
   <Crew>One to twenty mechanics</Crew>
   <EncumbranceCapacity>200</EncumbranceCapacity>

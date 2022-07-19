@@ -2,7 +2,7 @@
 <SigAbility xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Key>ALWAYSGETMYMARK</Key>
   <Name>Always Get My Mark</Name>
-  <Description>Once per game session, the character may choose a minion NPC to be her mark. She must know this NPC's identity and basic personal information (or have another lead of comparable quality, per the GM's discretion), and must know that the NPC is on the same planet. She spends 2 Destiny Points, and makes a [B]Hard ([DI][DI][DI]) Streetwise check[b]. If she succeeds, teh character tracks down the chosen mark, and a new encounter begins as the character reaches the mark's location.
+  <Description>Once per game session, the character may choose a minion NPC to be her mark. She must know this NPC's identity and basic personal information (or have another lead of comparable quality, per the GM's discretion), and must know that the NPC is on the same planet. She spends 2 Destiny Points, and makes a [B]Hard ([DI][DI][DI]) Streetwise check[b]. If she succeeds, the character tracks down the chosen mark, and a new encounter begins as the character reaches the mark's location.
 [P]The exact nature of this encounter, as well as the circumstances under which it takes place, must be approved by the GM (see [B]Narrative Abilities[b] on page 40). When making the skill check to activate Always Get My Mark, the GM can add [BO] or [SE] for any situational effects that might affect the difficulty of the check.</Description>
   <Source Page="39">No Disintegrations</Source>
   <Custom>DescOnly</Custom>

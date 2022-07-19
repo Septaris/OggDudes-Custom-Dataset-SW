@@ -60,7 +60,7 @@ by land units approaching the device and operator.
   <BaseMods>
     <Mod>
       <Count>1</Count>
-      <MiscDesc>Adds [BO][BO] to any Perception, Computers, or Vigilance checks to detect incoming orbital air trafic within long range (planetary).</MiscDesc>
+      <MiscDesc>Adds [BO][BO] to any Perception, Computers, or Vigilance checks to detect incoming orbital air traffic within long range (planetary).</MiscDesc>
     </Mod>
     <Mod>
       <Count>1</Count>

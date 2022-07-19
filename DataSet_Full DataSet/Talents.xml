@@ -1858,7 +1858,7 @@
   <Talent>
     <Key>STIMAPSUP</Key>
     <Name>Stim Application (Supreme)</Name>
-    <Description>When performing ther Stim Application Action, spend [TR] to increase an additional Characteristic by 1.</Description>
+    <Description>When performing their Stim Application Action, spend [TR] to increase an additional Characteristic by 1.</Description>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <SkillChoice>
@@ -3919,7 +3919,7 @@
   </Talent>
   <Talent>
     <Key>WELLTRAV</Key>
-    <Name>Well Travelled</Name>
+    <Name>Well Traveled</Name>
     <Description>Knowledge (Core Worlds) and Knowledge (Outer Rim) become career skills.</Description>
     <Source>Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -6537,7 +6537,7 @@
   <Talent>
     <Key>READANY</Key>
     <Name>Ready for Anything</Name>
-    <Description>Remove [SE] per rank of Ready for Anything on Mass Combat checks and Cool or Vigiliance checks to determine Initiative order.</Description>
+    <Description>Remove [SE] per rank of Ready for Anything on Mass Combat checks and Cool or Vigilance checks to determine Initiative order.</Description>
     <Source Page="34">Lead by Example</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
@@ -6638,7 +6638,7 @@
   <Talent>
     <Key>CUNNSNARE</Key>
     <Name>Cunning Snare</Name>
-    <Description>Once per encounter as an action, amy create a trap. Any other character wh moves to engaged range of the trap must make an [B]Opposed Vigilance vs. Survival check[b] to avoid harm and ill effects.</Description>
+    <Description>Once per encounter as an action, amy create a trap. Any other character who moves to engaged range of the trap must make an [B]Opposed Vigilance vs. Survival check[b] to avoid harm and ill effects.</Description>
     <Source Page="34">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taAction</ActivationValue>
@@ -6922,7 +6922,7 @@
   <Talent>
     <Key>PRECSTRSUP</Key>
     <Name>Precision Strike (Supreme)</Name>
-    <Description>When this character inflicts a Critical Injury with a Brawl, Melee, or Lightsaber wepaon, may suffer 1 strain to chang the result to any [B]Easy ([DI])[b] Critical Injury.</Description>
+    <Description>When this character inflicts a Critical Injury with a Brawl, Melee, or Lightsaber weapon, may suffer 1 strain to chang the result to any [B]Easy ([DI])[b] Critical Injury.</Description>
     <Sources>
       <Source Page="36">No Disintegrations</Source>
     </Sources>
@@ -8649,7 +8649,7 @@
   <Talent>
     <Key>BARROLLSUP</Key>
     <Name>Barrel Roll (Supreme)</Name>
-    <Description>When using Barrel Roll against certain weapons may spend [DE] or [TH][TH][TH] to inflict once hit on an enemy vehicle wihin close range, dealing base damage of the original attack
+    <Description>When using Barrel Roll against certain weapons may spend [DE] or [TH][TH][TH] to inflict once hit on an enemy vehicle within close range, dealing base damage of the original attack
 </Description>
     <Source Page="41">Rise of the Separatists</Source>
     <Custom>DescOnly</Custom>
@@ -8802,7 +8802,7 @@
   <Talent>
     <Key>CRUELCOM</Key>
     <Name>Cruel Commander</Name>
-    <Description>May use ranks in Coercion to upgrdae Mass Combat checks instead of ranks in Leadership
+    <Description>May use ranks in Coercion to upgrade Mass Combat checks instead of ranks in Leadership
 </Description>
     <Source Page="35">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
@@ -8892,7 +8892,7 @@
   <Talent>
     <Key>EXCEEDSPECIMP</Key>
     <Name>Exceed Specifications (Improved)</Name>
-    <Description>When the character takes the Exceed Specifications incidental, upgrdae the ability of the check once instead of the standard effect</Description>
+    <Description>When the character takes the Exceed Specifications incidental, upgrade the ability of the check once instead of the standard effect</Description>
     <Source Page="41">Rise of the Separatists</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -8935,7 +8935,7 @@
   <Talent>
     <Key>FALLBAK</Key>
     <Name>Fall Back</Name>
-    <Description>While engaged with an opponent, the character may suffer a number of strain up to their Leadership to allow an equal number of allies engaged with theat opponent to immediately disengage as an out of turn incidental
+    <Description>While engaged with an opponent, the character may suffer a number of strain up to their Leadership to allow an equal number of allies engaged with threat opponent to immediately disengage as an out of turn incidental
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
@@ -9074,7 +9074,7 @@
   <Talent>
     <Key>HYPERASSAULT</Key>
     <Name>Hyperspace Assault</Name>
-    <Description>The character may use Astrogation or Knowledge(Warfaere) to determine initiative during an encounter in which they are piloting or commanding a starship and may spend [TR] from the check to choose the starting location of allies
+    <Description>The character may use Astrogation or Knowledge(Warfare) to determine initiative during an encounter in which they are piloting or commanding a starship and may spend [TR] from the check to choose the starting location of allies
 </Description>
     <Source Page="41">Rise of the Separatists</Source>
     <Custom>DescOnly</Custom>
@@ -9150,7 +9150,7 @@
   <Talent>
     <Key>INGLOY</Key>
     <Name>Ingrained Loyalty</Name>
-    <Description>When the character makes a Leadership check trageting one or more clones, they may change the result of one [CH] to any non-blank face
+    <Description>When the character makes a Leadership check targeting one or more clones, they may change the result of one [CH] to any non-blank face
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
@@ -9242,7 +9242,7 @@
   <Talent>
     <Key>LATTHINK</Key>
     <Name>Lateral Thinking</Name>
-    <Description>Once per encounter spend one Destiny Point to force an enemy to reroll a successful check targetin the character. does not require a Destiny Point if the enemy is a droid
+    <Description>Once per encounter spend one Destiny Point to force an enemy to reroll a successful check targeting the character. does not require a Destiny Point if the enemy is a droid
 </Description>
     <Source Page="41">Rise of the Separatists</Source>
     <Custom>DescOnly</Custom>
@@ -9272,7 +9272,7 @@
   <Talent>
     <Key>LEADFRONT</Key>
     <Name>Lead From the Front</Name>
-    <Description>After succeeding on a Leadership check or other check to inspire, lead, or rally an audience, the character may spend 1 Destiny Point to upgrdae the ability of the next combat check made by all allies within short range
+    <Description>After succeeding on a Leadership check or other check to inspire, lead, or rally an audience, the character may spend 1 Destiny Point to upgrade the ability of the next combat check made by all allies within short range
 </Description>
     <Source Page="35">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
@@ -9500,7 +9500,7 @@
   <Talent>
     <Key>POWERALLY</Key>
     <Name>Powerful Ally</Name>
-    <Description>The character may spend a Destiny Point to use the basic version of a Force power they have not purchased or apply the effects of a control upgrdae to a power they have purchased
+    <Description>The character may spend a Destiny Point to use the basic version of a Force power they have not purchased or apply the effects of a control upgrade to a power they have purchased
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
@@ -9845,7 +9845,7 @@
   <Talent>
     <Key>TACTADV</Key>
     <Name>Tactical Advance</Name>
-    <Description>The character may suffer 2 strain to perform the Tactical Advance incidental. Until the end of the character's next trun, the character and allies within short range may leave cover and continue to receive its benefits
+    <Description>The character may suffer 2 strain to perform the Tactical Advance incidental. Until the end of the character's next turn, the character and allies within short range may leave cover and continue to receive its benefits
 </Description>
     <Source Page="41">Rise of the Separatists</Source>
     <Custom>DescOnly</Custom>
@@ -10024,7 +10024,7 @@
   <Talent>
     <Key>DTHFRABOVE</Key>
     <Name>Death from Above</Name>
-    <Description>Once per encounter while using a jetpack, the character may take the Death from Above action, inflicting 1 system strain on their jetpack and making a [B]Hard ([DI][DI][DI])piloting (planetary) check[b]. If the check is successful, for each [SU], one adversary of silhouette 0 or 1 within short range is knocked prone. The character may spend [TRIUMPH] from teh check to stagger one affected adversary until the end of that adversary's next turn.</Description>
+    <Description>Once per encounter while using a jetpack, the character may take the Death from Above action, inflicting 1 system strain on their jetpack and making a [B]Hard ([DI][DI][DI])piloting (planetary) check[b]. If the check is successful, for each [SU], one adversary of silhouette 0 or 1 within short range is knocked prone. The character may spend [TRIUMPH] from the check to stagger one affected adversary until the end of that adversary's next turn.</Description>
     <Source Page="29">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
     <Ranked>true</Ranked>

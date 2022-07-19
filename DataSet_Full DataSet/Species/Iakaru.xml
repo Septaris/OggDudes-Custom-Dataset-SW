@@ -41,7 +41,7 @@ The heavy-browed simian Iakaru are a rare sight in the galaxy, as their species 
         <Option>
           <Key>IAKARUCH1OP1</Key>
           <Name>Brachiation</Name>
-          <Description>Iakaru suffer no terrian penalties to movement though jungles or similar environments. They also add [BO] to Athletics and Coordination checks related to climbing, swinging, and balancing.</Description>
+          <Description>Iakaru suffer no terrain penalties to movement though jungles or similar environments. They also add [BO] to Athletics and Coordination checks related to climbing, swinging, and balancing.</Description>
         </Option>
       </Options>
     </OptionChoice>

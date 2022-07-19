@@ -46,7 +46,7 @@ Trandoshans are belligerent, lizard-like humanoids who have an avowed hatred of 
         <Option>
           <Key>TRANDREGEN</Key>
           <Name>Wound Regeneration</Name>
-          <Description>Whenever a trandoshan would recover one or more wounds from natural rest or recuperation in a Bacta tank, he recovers one additional wound.  Trandoshans can regrow lost limbs as well, though it usully takes at least a month before the limb is usable.</Description>
+          <Description>Whenever a trandoshan would recover one or more wounds from natural rest or recuperation in a Bacta tank, he recovers one additional wound.  Trandoshans can regrow lost limbs as well, though it usually takes at least a month before the limb is usable.</Description>
         </Option>
       </Options>
     </OptionChoice>
