@@ -21,7 +21,7 @@ Orbital maintenance depots are an important part of any space-going navy's logis
   <BaseMods>
     <Mod>
       <Count>1</Count>
-      <MiscDesc>[B]Depot Resources:[b] Reduce difficulty of repair and construction checks perfomed using this station by one.</MiscDesc>
+      <MiscDesc>[B]Depot Resources:[b] Reduce difficulty of repair and construction checks performed using this station by one.</MiscDesc>
     </Mod>
   </BaseMods>
   <StarFighters>Six gunboats, six shuttles, numerous runabouts.</StarFighters>

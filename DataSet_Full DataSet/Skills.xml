@@ -771,7 +771,7 @@ lightsabers as well as with derivative weapons such as light whips, guard shotos
     <Name>Cybernetics</Name>
     <Description>[H4]Cybernetics (Intellect)[h4]
 At the GM's and players' discretion, Cybernetics can be presented as a custom skill rather than as a specific use of Mechanics and Medicine. The introduction of this skill is optional.
-[P]If introduced, Cybernetics is used for building, modifying, and installing cybernetic enhancements and replacements (see page 85 of the [B]Special Modifications[b] Technician Source Book), as well as other checks at the GM's discretion. Talents that apply to Mechanics or Medicine checks might apply to Cybernetics checks at the GM's discretion. The Cyber Tech should recieve Cybernetics as an additional bonus career skill.</Description>
+[P]If introduced, Cybernetics is used for building, modifying, and installing cybernetic enhancements and replacements (see page 85 of the [B]Special Modifications[b] Technician Source Book), as well as other checks at the GM's discretion. Talents that apply to Mechanics or Medicine checks might apply to Cybernetics checks at the GM's discretion. The Cyber Tech should receive Cybernetics as an additional bonus career skill.</Description>
     <Source>User Data</Source>
     <Custom>AddedItem</Custom>
     <CharKey>INT</CharKey>

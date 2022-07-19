@@ -25,7 +25,7 @@ have serious medical consequences for a Devaronian.
 [P][B]Society:[b] Devaronian culture is primarily matriarchal, in no small part because Devaronian men tend not to stay in one place long enough to achieve leadership positions. Whether these tendencies are purely cultural or have a biological component remains a topic of dispute amongst both Devaronians and offworld
 academics. Devaronian women, by contrast, tend to value security and prosperity, and have traditionally been the architects of Devaronian society, building and maintaining its cultural institutions and physical structures alike. Thus, most Devaronians who become
 corporate and political leaders, enter law enforcement, or pursue other careers with strong long-term prospects are women.
-[P]Male Devaronians, for their part, are more likely to be risk-takers, driven by wanderlust and the thrill of new experiences. While not averse to creating lasting emotional bonds, most Devaronian men stay in single place for only a few years before moving on, if they remain that long. male Devaronians who start families often support them while working remotely, taking on postions where they can send their earnings home while still satisfying their desire to explore the galaxy—thus many become starship hands, traders, or even smugglers. Those who remain in one location to raise a family or maintain other relationships tend to change professions more often than female Devaronions, and develop a wider but less expert pool of knowledge and skills as a restult.
+[P]Male Devaronians, for their part, are more likely to be risk-takers, driven by wanderlust and the thrill of new experiences. While not averse to creating lasting emotional bonds, most Devaronian men stay in single place for only a few years before moving on, if they remain that long. male Devaronians who start families often support them while working remotely, taking on positions where they can send their earnings home while still satisfying their desire to explore the galaxy—thus many become starship hands, traders, or even smugglers. Those who remain in one location to raise a family or maintain other relationships tend to change professions more often than female Devaronions, and develop a wider but less expert pool of knowledge and skills as a result.
 [P]Of course individuals and even some cultural groups on Devaron defy these gender stereotypes. No few Devaronian women are starfaring adventurers, and Devarornlan history contains many men who achieved prominence in a single institution or field. Still, some visitors to Devaron are initially surprised at the seemingly low number of male Devaronians in the upper echelons of society on Devaron, as compared to vastly the higher ratio overall among the species’ offworld population.
 [P][B]Homeworld:[b] Devaron is a temperate world in the Colonies region. The planet includes dense jungles and cooler mountainous regions. The species has established prosperous cities in most regions of the planet, though the oldesL and most populous are within the low mountains. Devaron's jungles are home to a range
 of dangerous predators, which continue to thrive on the largely Civilized world. Journeys to these wilds are dangerous for even accomplished explorers.
@@ -83,9 +83,9 @@ of dangerous predators, which continue to thrive on the largely Civilized world.
       <Options>
         <Option>
           <Key>DEFAB2OP1</Key>
-          <Name>Resillient Metabolism</Name>
+          <Name>Resilient Metabolism</Name>
           <Description>
-            Devaronians add automatic [SU] to all Resillience checks.
+            Devaronians add automatic [SU] to all Resilience checks.
           </Description>
           <DieModifiers>
             <DieModifier>

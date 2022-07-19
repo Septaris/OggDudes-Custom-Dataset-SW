@@ -2144,7 +2144,7 @@
   <Talent>
     <Key>RESEARCH</Key>
     <Name>Researcher</Name>
-    <Description>Remove [SE] per rank of Researcher from all Knowledge checks. Reserching a subject takes half the time.</Description>
+    <Description>Remove [SE] per rank of Researcher from all Knowledge checks. Researching a subject takes half the time.</Description>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
@@ -5555,7 +5555,7 @@
   <Talent>
     <Key>INTUITSHOT</Key>
     <Name>Intuitive Shot</Name>
-    <Description>When maing a Ranged (Heavy) or Range (Light) combat check, add [FO] no greater than Force rating to the check. May spend [FP] to add [SU] or [AD].</Description>
+    <Description>When making a Ranged (Heavy) or Range (Light) combat check, add [FO] no greater than Force rating to the check. May spend [FP] to add [SU] or [AD].</Description>
     <Source>Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -6443,7 +6443,7 @@
   <Talent>
     <Key>ENERGTRANS</Key>
     <Name>Energy Transfer</Name>
-    <Description>May suffer 1 strain to use the Energy Transfer meneuver to power up an unpowered device or replenish exhausted ammunition for an energy weapon.
+    <Description>May suffer 1 strain to use the Energy Transfer maneuver to power up an unpowered device or replenish exhausted ammunition for an energy weapon.
 </Description>
     <Source Page="34">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -6547,7 +6547,7 @@
   <Talent>
     <Key>READANYIMP</Key>
     <Name>Ready for Anything (Improved)</Name>
-    <Description>When making Cool or Vigilance checks to determine Initiative order, may spend [TR] to add [SU] equal to rnaks in Ready for Anything.</Description>
+    <Description>When making Cool or Vigilance checks to determine Initiative order, may spend [TR] to add [SU] equal to ranks in Ready for Anything.</Description>
     <Source Page="34">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -6656,7 +6656,7 @@
   <Talent>
     <Key>BODSUP</Key>
     <Name>Body Guard (Supreme)</Name>
-    <Description>Body Guard maneuver may protect a number of engaged characters up to ranks in Reilience.
+    <Description>Body Guard maneuver may protect a number of engaged characters up to ranks in Resilience.
     </Description>
     <Sources>
       <Source Page="34">Forged in Battle</Source>
@@ -6678,7 +6678,7 @@
   <Talent>
     <Key>STRSMARTIMP</Key>
     <Name>Street Smarts (Improved)</Name>
-    <Description>Once per session, amy take an Improved Street Smarts action; make a [B]Formidable ([DI][DI][DI][DI][DI]) Streetwise[b] or [B]Knowledge (Underworld) check[b] toe learn one vital clue from the GM. Reduce the difficulty oncer per rank of Street Smarts.</Description>
+    <Description>Once per session, amy take an Improved Street Smarts action; make a [B]Formidable ([DI][DI][DI][DI][DI]) Streetwise[b] or [B]Knowledge (Underworld) check[b] toe learn one vital clue from the GM. Reduce the difficulty once per rank of Street Smarts.</Description>
     <Source Page="31">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taAction</ActivationValue>
@@ -8359,7 +8359,7 @@
   <Talent>
     <Key>ANALYZEDATA</Key>
     <Name>Analyze Data</Name>
-    <Description>Once per session after capturing enemy data, the character may perfom the Analyze Data action to make an [B]Average ([DI][DI]) Knowledge (Warfare) check[b]. Once during the remainder of session he may then add [SU] equal to ranks in Knowledge (Warfare) to one check related to that data.</Description>
+    <Description>Once per session after capturing enemy data, the character may perform the Analyze Data action to make an [B]Average ([DI][DI]) Knowledge (Warfare) check[b]. Once during the remainder of session he may then add [SU] equal to ranks in Knowledge (Warfare) to one check related to that data.</Description>
     <Source Page="30">Cyphers and Masks</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taAction</ActivationValue>
@@ -8664,7 +8664,7 @@
   <Talent>
     <Key>BEGLUCK</Key>
     <Name>Beginner's Luck</Name>
-    <Description>Once per session when the character makes a check, may add [SU] equal to the nmber  of light side Destiny Points in the Destiny pool to the results
+    <Description>Once per session when the character makes a check, may add [SU] equal to the number  of light side Destiny Points in the Destiny pool to the results
 </Description>
     <Source Page="27">Rise of the Separatists</Source>
     <Custom>DescOnly</Custom>
@@ -8756,7 +8756,7 @@
   </Talent>
   <Talent>
     <Key>CONCOPT</Key>
-    <Name>Consider Our Optioins</Name>
+    <Name>Consider Our Options</Name>
     <Description>Take the Consider Our Options action, make a [B]Hard ([DI][DI][DI]) Negotiation check[b]. Until the character's next turn, a character who attacks them first suffers 2 strain, plus 1 strain per [SU][SU] on the character's check
 </Description>
     <Source Page="41">Rise of the Separatists</Source>
@@ -8817,7 +8817,7 @@
   <Talent>
     <Key>DEATHABOVE</Key>
     <Name>Death From Above</Name>
-    <Description>Once per encounter, inflict 1 system strain on jetpack and make a [B]Hard ([DI][DI][DI]) Pilotingcheck[b]. For each [SU], one adversary in short range is knocked prone. May spend [TR] to stagger one affected target
+    <Description>Once per encounter, inflict 1 system strain on jetpack and make a [B]Hard ([DI][DI][DI]) Piloting check[b]. For each [SU], one adversary in short range is knocked prone. May spend [TR] to stagger one affected target
 </Description>
     <Source Page="27">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
@@ -8847,7 +8847,7 @@
   <Talent>
     <Key>DROIDCOMM</Key>
     <Name>Droid Commander</Name>
-    <Description>Once per encounter may perform Field Commander as a maneuber instead of an action. All affected allies must be droids
+    <Description>Once per encounter may perform Field Commander as a maneuver instead of an action. All affected allies must be droids
 </Description>
     <Source Page="35">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
@@ -8935,7 +8935,7 @@
   <Talent>
     <Key>FALLBAK</Key>
     <Name>Fall Back</Name>
-    <Description>While engaged with an opponent, the character may suffer a number of strain up to their Leadership to allow an equal number of allies engaged with theat oppnent to immediately disengage as an out of turn incidental
+    <Description>While engaged with an opponent, the character may suffer a number of strain up to their Leadership to allow an equal number of allies engaged with theat opponent to immediately disengage as an out of turn incidental
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
@@ -9150,7 +9150,7 @@
   <Talent>
     <Key>INGLOY</Key>
     <Name>Ingrained Loyalty</Name>
-    <Description>When the character makes a Leadership check trageting one or more clones, they may change the resilt of one [CH] to any non-blank face
+    <Description>When the character makes a Leadership check trageting one or more clones, they may change the result of one [CH] to any non-blank face
 </Description>
     <Source Page="21">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
@@ -9181,7 +9181,7 @@
   <Talent>
     <Key>JETEXP</Key>
     <Name>Jetpack Expertise</Name>
-    <Description>The character may spend [AD] from their checks to remove 1 system mstrain from their jetpack. They may choose the effect multiple times when spending [AD]
+    <Description>The character may spend [AD] from their checks to remove 1 system strain from their jetpack. They may choose the effect multiple times when spending [AD]
 </Description>
     <Source Page="27">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
@@ -9456,7 +9456,7 @@
   <Talent>
     <Key>ONETRASH</Key>
     <Name>One Person's Trash</Name>
-    <Description>May make a Pereption check in order to locate a particular item at no cost in a location with potential salvage. The difficulty of the check is determined by the item's rarity
+    <Description>May make a Perception check in order to locate a particular item at no cost in a location with potential salvage. The difficulty of the check is determined by the item's rarity
 </Description>
     <Source Page="41">Rise of the Separatists</Source>
     <Custom>DescOnly</Custom>
@@ -9593,7 +9593,7 @@
   <Talent>
     <Key>RENFORM</Key>
     <Name>Renegade Form</Name>
-    <Description>When the character purchases this talent, they choose one characteristic. they may use this characteristic in plance of Brawn when making Lightsaber checks.
+    <Description>When the character purchases this talent, they choose one characteristic. they may use this characteristic in place of Brawn when making Lightsaber checks.
 </Description>
     <Source Page="41">Rise of the Separatists</Source>
     <Custom>DescOnly</Custom>
@@ -9935,7 +9935,7 @@
   <Talent>
     <Key>TRANSERR</Key>
     <Name>Translation Error</Name>
-    <Description>Once per encounter the character may remove [TH] from the resultes of a social skill check they make
+    <Description>Once per encounter the character may remove [TH] from the results of a social skill check they make
 </Description>
     <Source Page="41">Rise of the Separatists</Source>
     <Custom>DescOnly</Custom>

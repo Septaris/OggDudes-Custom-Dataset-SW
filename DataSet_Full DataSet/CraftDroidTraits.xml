@@ -19,7 +19,7 @@
   <CraftDroidTrait>
     <Key>POS3</Key>
     <Name>Patient</Name>
-    <Description>Unlike organic beings, droids are theoretically immortal as long as they recieve proper maintenance. Thus, a droid can have a capacity for patience that even the most long-lived organic beings lack.
+    <Description>Unlike organic beings, droids are theoretically immortal as long as they receive proper maintenance. Thus, a droid can have a capacity for patience that even the most long-lived organic beings lack.
 </Description>
     <Source Page="83">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -27,7 +27,7 @@
   <CraftDroidTrait>
     <Key>POS4</Key>
     <Name>Enthusiastic</Name>
-    <Description>The droid has a boundless capacity to see oppurtunities, and it frequently points them out.
+    <Description>The droid has a boundless capacity to see opportunities, and it frequently points them out.
 </Description>
     <Source Page="83">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -75,7 +75,7 @@
   <CraftDroidTrait>
     <Key>NEG1</Key>
     <Name>Cowardly</Name>
-    <Description>This droid sets survival as a top pritoriy, and shies away from any potential danger.
+    <Description>This droid sets survival as a top priority, and shies away from any potential danger.
 </Description>
     <Source Page="83">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -138,7 +138,7 @@
   <CraftDroidTrait>
     <Key>NEG8</Key>
     <Name>Pessimistic</Name>
-    <Description>Apparent doom lurks around every corner for this droid, and it expresses this belief at every oppurtunity.
+    <Description>Apparent doom lurks around every corner for this droid, and it expresses this belief at every opportunity.
 </Description>
     <Source Page="83">Special Modifications</Source>
     <Custom>DescOnly</Custom>

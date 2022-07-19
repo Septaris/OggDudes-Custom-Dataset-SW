@@ -1262,7 +1262,7 @@
     <Key>IMBUEBASIC</Key>
     <Name>Imbue Basic Power</Name>
     <Description>The Force user lends strength to allies, making them more potent, resourceful, or resilient for a time.
-[P]The user may spend [FP] [FP] to increase one of another engaged character's characteristics by 1 (to a maxium of 6) until the end of the Force user's next turn.
+[P]The user may spend [FP] [FP] to increase one of another engaged character's characteristics by 1 (to a maximum of 6) until the end of the Force user's next turn.
 [P]This can only be used once per character per encounter. If the user uses [DA] to generate [FP], the target increases a second characteristic by 1 (to a maximum of 6) until the end of the user's next turn, but both the Force user and target suffer 3 strain.</Description>
     <Source Page="37">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
@@ -1287,7 +1287,7 @@
   <ForceAbility>
     <Key>IMBUEMASTERY</Key>
     <Name>Mastery</Name>
-    <Description>Increase characteristics boosted by this power by 2 (to a maximum of 7) instead of 1 (to a maxiumum of 6).</Description>
+    <Description>Increase characteristics boosted by this power by 2 (to a maximum of 7) instead of 1 (to a maximum of 6).</Description>
     <Source Page="37">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
     <Power>Imbue</Power>
@@ -1395,7 +1395,7 @@
   <ForceAbility>
     <Key>EBBFLOWCONTROL4</Key>
     <Name>Control: Skill Checks</Name>
-    <Description>Commit [FO] until the end of the current encounter. For the remainer of the current encounter, add [FO] to all skill checks. Each [LI] and [DA] adds either [SU] or [AD] to the check; each [DA] causes the user to suffer 1 strain and gain 1 Conflict.</Description>
+    <Description>Commit [FO] until the end of the current encounter. For the remainder of the current encounter, add [FO] to all skill checks. Each [LI] and [DA] adds either [SU] or [AD] to the check; each [DA] causes the user to suffer 1 strain and gain 1 Conflict.</Description>
     <Source Page="39">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
     <Power>Ebb/Flow</Power>

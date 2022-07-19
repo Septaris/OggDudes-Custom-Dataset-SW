@@ -24,7 +24,7 @@ The PC has a pressing contract to fulfill, whether it is legally binding or an i
     <Name>Failed Installation/Repair</Name>
     <Description>
       [H4]Failed Installation/Repair[h4]
-A botched modification, installation, or repair job has publicly damaged the character's repuation and rendered teh device, droid or vehicle inoperable. The PC must take action to restore the damaged item, and find a way to socially engineer a return to good standing in the public eye.</Description>
+A botched modification, installation, or repair job has publicly damaged the character's reputation and rendered teh device, droid or vehicle inoperable. The PC must take action to restore the damaged item, and find a way to socially engineer a return to good standing in the public eye.</Description>
     <Source Page="18">Special Modifications</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
@@ -33,7 +33,7 @@ A botched modification, installation, or repair job has publicly damaged the cha
     <Name>Crew</Name>
     <Description>
       [H4]Crew[h4]
-The PC has an Obligation to keep a work crew or ship's complement safe, healthy and in work. Whether or not the PC usually travels with the work crew, this character serves as a mediator between the crew and outside individuals. The PC migth owe the debt due from a time the crew saved the PC's career or even life through hard work and sacrifice.</Description>
+The PC has an Obligation to keep a work crew or ship's complement safe, healthy and in work. Whether or not the PC usually travels with the work crew, this character serves as a mediator between the crew and outside individuals. The PC might owe the debt due from a time the crew saved the PC's career or even life through hard work and sacrifice.</Description>
     <Source Page="18">Special Modifications</Source>
     <Custom>DescOnly</Custom>
   </Obligation>

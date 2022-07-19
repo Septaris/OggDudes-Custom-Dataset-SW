@@ -1793,7 +1793,7 @@ The character does anything and everything to acquire enhanced abilities, whethe
     <Name>Waste Not, Want Not</Name>
     <Description>
       [H4]Waste Not, Want Not[h4]
-The character hates to let anything go to waste and tries to devise ways of recycling or refubishing discarded parts, scrap metal, old technology and worn-out droids. Perhaps the character comes from a remot world where technology and materials are scarce and anything remotely technological is expensive. Perhaps the character simply hates the thought of later realizing that something thrown away was useful. While this character's workshop and living area are often cluttered, the character likely claims to know where everything is.</Description>
+The character hates to let anything go to waste and tries to devise ways of recycling or refurbishing discarded parts, scrap metal, old technology and worn-out droids. Perhaps the character comes from a remote world where technology and materials are scarce and anything remotely technological is expensive. Perhaps the character simply hates the thought of later realizing that something thrown away was useful. While this character's workshop and living area are often cluttered, the character likely claims to know where everything is.</Description>
     <Source Page="37">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Innovation</Motivation>
@@ -2175,7 +2175,7 @@ attempt to assuage his anguish for the lives he feels he's lost.</Description>
     <Name>Finish the Job</Name>
     <Description>
       [H4]Finish the Job[h4]
-It is a rare bounty hunter who keeps pursuing preyeven when it becomes clear that the hunt is not economically viable. This bounty hunter is one of the rare exceptions; her word is irrevocable, and once she has taken a contract, the character pursues it at all costs. While a job might be put on hiatus, once the hunt begins, she can never abandon or forget it—perhaps even if the client rescinds the bounty.</Description>
+It is a rare bounty hunter who keeps pursuing prey even when it becomes clear that the hunt is not economically viable. This bounty hunter is one of the rare exceptions; her word is irrevocable, and once she has taken a contract, the character pursues it at all costs. While a job might be put on hiatus, once the hunt begins, she can never abandon or forget it—perhaps even if the client rescinds the bounty.</Description>
     <Source Page="37">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Code</Motivation>
@@ -2205,7 +2205,7 @@ Though some particularly pernicious bounty hunters are willing to toss around th
     <Name>Quiet Professionalism</Name>
     <Description>
       [H4]Quiet Professionalism[h4]
-There is an old saying in the bounty hunting trade that good work  makes little noise, and the character is the embodiment of that. Like a master artisan, the character pursues bounties with far greater care about attention to detail than most. The PC sees little need for flashy accoutrement or ostenatious shows of prowess.</Description>
+There is an old saying in the bounty hunting trade that good work  makes little noise, and the character is the embodiment of that. Like a master artisan, the character pursues bounties with far greater care about attention to detail than most. The PC sees little need for flashy accoutrement or ostentatious shows of prowess.</Description>
     <Source Page="37">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Code</Motivation>
@@ -2215,7 +2215,7 @@ There is an old saying in the bounty hunting trade that good work  makes little 
     <Name>Reputation is Everything</Name>
     <Description>
       [H4]Reputation is Everything[h4]
-To a bounty hunter, maintaining the appearance of being an unrelenting, unstoppable force is often as important as actually having the skills and strength of will to succeed in the chase. While false bravado usually falls apart in the face of the challenges a bounty hunter faces, many bounty hunters work hard to uphold their repuations, repaying slights and provocations with disproportionate violence.</Description>
+To a bounty hunter, maintaining the appearance of being an unrelenting, unstoppable force is often as important as actually having the skills and strength of will to succeed in the chase. While false bravado usually falls apart in the face of the challenges a bounty hunter faces, many bounty hunters work hard to uphold their reputations, repaying slights and provocations with disproportionate violence.</Description>
     <Source Page="37">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Code</Motivation>
@@ -2285,7 +2285,7 @@ There is nothing more important than the rule of law, and the character is sworn
     <Name>Prejudice</Name>
     <Description>
       [H4]Prejudice[h4]
-Sentinels fighting prejudice often operate as street-level diplomats, confronting individuals about their acts and stopping violence as it occers. Prejudice is usually personal and ingrained. Sentinals might find themselves arguing with bigots completely unaware or in denial of their bigotry.</Description>
+Sentinels fighting prejudice often operate as street-level diplomats, confronting individuals about their acts and stopping violence as it occurs. Prejudice is usually personal and ingrained. Sentinals might find themselves arguing with bigots completely unaware or in denial of their bigotry.</Description>
     <Source Page="32">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Injustice</Motivation>
@@ -2335,7 +2335,7 @@ Illness can devastate communities and finding a cure requires uncovering and und
     <Name>Imprisonment</Name>
     <Description>
       [H4]Imprisonment[h4]
-A just society isolates a troubled individual for rehabilitation and community protection, while an unjust one imprisons based on predjudice or a list for power. Sentinels battling unjust imprisonment often find themselves fighting against corrupt police forces and legal system personnel, especially with a planet aligned with the Empire.</Description>
+A just society isolates a troubled individual for rehabilitation and community protection, while an unjust one imprisons based on prejudice or a list for power. Sentinels battling unjust imprisonment often find themselves fighting against corrupt police forces and legal system personnel, especially with a planet aligned with the Empire.</Description>
     <Source Page="32">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Injustice</Motivation>
@@ -2425,7 +2425,7 @@ Since finding a connection to the Force, the character has sought to learn more 
     <Name>Deadliness</Name>
     <Description>
       [H4]Deadliness[h4]
-While death is not the character's goal, it cannot be avoided and so must be honed to an art. Never missing an oppurtunity to practice swordplay and aim, the PC views each combat as a test of personal lethality.</Description>
+While death is not the character's goal, it cannot be avoided and so must be honed to an art. Never missing an opportunity to practice swordplay and aim, the PC views each combat as a test of personal lethality.</Description>
     <Source Page="32">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Pursuit</Motivation>
@@ -2490,7 +2490,7 @@ do just about anything to prove himself and achieve the authority he knows he de
 Soldiers often form quick bonds with the people who live on worlds where they deploy. The connection
 may be with a farmer who sells produce to the troops, a local youth who shares a love of military technology, or a village 
 elder whose venerable traditions strike a chord within the Soldier. This bond can be an asset, supplying the PC with
-unique inform action on the region, but can also cause the Soldier em otional strife if this friend is dragged into the war.</Description>
+unique inform action on the region, but can also cause the Soldier emotional strife if this friend is dragged into the war.</Description>
     <Source Page="36">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Relationship</Motivation>

@@ -246,7 +246,7 @@ Some characters see their strange abilities as a sign that they are destined for
     <Name>Underworld Tech Expert</Name>
     <Description>
       [H4]Underworld Tech Expert[h4]
-In the [B]Edge of The Empire[b], it can be hard to avoid occasionally interacting with criminal enterprises and underworld culture. Many Technicians support and are supported by shady characters, if not by outright criminals. Specialised underwolrd techs can be highly prized when they fulfill a critical role in a larger organisation, bu the average Mechanic or Droid Tech is sometimes regarded as more expendable than a reliable enforcer. The character might be trying to escape difficult decisions from the past or seeking to advance within a particular criminal organisation.</Description>
+In the [B]Edge of The Empire[b], it can be hard to avoid occasionally interacting with criminal enterprises and underworld culture. Many Technicians support and are supported by shady characters, if not by outright criminals. Specialised underwolrd techs can be highly prized when they fulfill a critical role in a larger organization, bu the average Mechanic or Droid Tech is sometimes regarded as more expendable than a reliable enforcer. The character might be trying to escape difficult decisions from the past or seeking to advance within a particular criminal organization.</Description>
     <Source Page="16">Special Modifications</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -273,7 +273,7 @@ Some Technicians believe that no matter what problem a being faces, the answer a
     <Name>Antiquarian</Name>
     <Description>
       [H4]Antiquarian[h4]
-Technology often seems an inherently progressive idea, and to many people it represents only efforts to build and improve upon the things of th past. However, some Technicians are actually deeply engaged in the past. The galaxy is unfathomably ancient, and over countless millenia, thousands of species have lived and discovered new ways to transform their environments to their needs. At first glance, manufacturing techniques used only in a single community on a backwater world might seem less advanced than those used in a vast starship construction facility. However, these unique methods may produce results that are not directly comparable, or may even perform certain tasks better than their "modern" counterparts. The metallurgy of some societies whose members have never left their homeworlds have been found to surpass the industrial standards used to fabricate starship hulls due to the specialized techniques used by these enclaves. Other cultures have found inventive solutions to problems the wider galaxy never even thought to address, from creative energy solusions in absence of traditional fuels, to esoteric weapons that function on principles that still evade even the sharpest researchers and academics.
+Technology often seems an inherently progressive idea, and to many people it represents only efforts to build and improve upon the things of th past. However, some Technicians are actually deeply engaged in the past. The galaxy is unfathomably ancient, and over countless millennia, thousands of species have lived and discovered new ways to transform their environments to their needs. At first glance, manufacturing techniques used only in a single community on a backwater world might seem less advanced than those used in a vast starship construction facility. However, these unique methods may produce results that are not directly comparable, or may even perform certain tasks better than their "modern" counterparts. The metallurgy of some societies whose members have never left their homeworlds have been found to surpass the industrial standards used to fabricate starship hulls due to the specialized techniques used by these enclaves. Other cultures have found inventive solutions to problems the wider galaxy never even thought to address, from creative energy solusions in absence of traditional fuels, to esoteric weapons that function on principles that still evade even the sharpest researchers and academics.
 </Description>
     <Source Page="13">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -380,7 +380,7 @@ Laborers start off in menial occupations essential but less-valued skills and of
     <Name>Refugee</Name>
     <Description>
       [H4]Refugee[h4]
-Refugees have escaped violence, starvation, and persecution only to face similar problems in their new home. In some cases, cities are unprepared to handle an influx of refugees and have no social services set up to accommodate them. In extreme instances, governments seperate refugees from the rest of the population and cut them off from economic opportunities. On other worlds, differences in culture create tenrions among the populations, and refugees face violence from the citizenry rahter than the government.</Description>
+Refugees have escaped violence, starvation, and persecution only to face similar problems in their new home. In some cases, cities are unprepared to handle an influx of refugees and have no social services set up to accommodate them. In extreme instances, governments seperate refugees from the rest of the population and cut them off from economic opportunities. On other worlds, differences in culture create tenrions among the populations, and refugees face violence from the citizenry rather than the government.</Description>
     <Source Page="14">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -389,7 +389,7 @@ Refugees have escaped violence, starvation, and persecution only to face similar
     <Name>Official</Name>
     <Description>
       [H4]Official[h4]
-Officials once worked in the system, either in the local bureaucracy, law enforcement, a religious organization, or the Empire itself. From their chairs and desks, they had access to those in power, but ironically, they had  little power themselves, being cogs in a machine built of procedures, red tape, and calcified culture. In an organization hostile to Force users, the official's title became a collar, and the positon a leash, forcing the official to abandon this rigid life if the pursuit of something more meaningful is desired.</Description>
+Officials once worked in the system, either in the local bureaucracy, law enforcement, a religious organization, or the Empire itself. From their chairs and desks, they had access to those in power, but ironically, they had  little power themselves, being cogs in a machine built of procedures, red tape, and calcified culture. In an organization hostile to Force users, the official's title became a collar, and the position a leash, forcing the official to abandon this rigid life if the pursuit of something more meaningful is desired.</Description>
     <Source Page="14">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -416,7 +416,7 @@ Gang leaders don't always organize their groups purely for violence. Some toughs
     <Name>Recluse</Name>
     <Description>
       [H4]Recluse[h4]
-Not all Seekers avoid the centers of galactic activity because they are pursuing particular goals or need to be on the run. For some, dwelling on the fringes of the galaxy is all they have ever known. Their paths may eventually lead them into contact with wider society but they bear the indelible imprint of their origins as outsiders. These Seekers may have come from a society largely undiscovered by other species, or they may have simply been born into a remote area that recieves few visitors. In rare cases, they might possibly be the descendants of other Force users, who fled the Imperial purge or even earlier calamities, and have grown up deliberately cut off from the outside world.</Description>
+Not all Seekers avoid the centers of galactic activity because they are pursuing particular goals or need to be on the run. For some, dwelling on the fringes of the galaxy is all they have ever known. Their paths may eventually lead them into contact with wider society but they bear the indelible imprint of their origins as outsiders. These Seekers may have come from a society largely undiscovered by other species, or they may have simply been born into a remote area that receives few visitors. In rare cases, they might possibly be the descendants of other Force users, who fled the Imperial purge or even earlier calamities, and have grown up deliberately cut off from the outside world.</Description>
     <Source Page="14">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -445,7 +445,7 @@ The lives of Seekers can be about more than just establishing their own path. So
     <Name>Activist</Name>
     <Description>
       [H4]Activist[h4]
-Many Sentinels start off as activists in some form of another. Even unawaked to the Force, activists find themselves fighting injustice through social and legal pressure. They spread awareness, organize bodies of experts, and push for new laws. on planets that have (or claim to have) progressive rights and equities, activists work out in the open—or at least not in hiding. On more oppressive planets, activists work queitly in the shadows but are no less effective. Those who fall to the dark side give in to their rage and desperation, their activism turning destructive for destruction's sake or even becoming murderous in the name of justice.</Description>
+Many Sentinels start off as activists in some form of another. Even unawaked to the Force, activists find themselves fighting injustice through social and legal pressure. They spread awareness, organize bodies of experts, and push for new laws. on planets that have (or claim to have) progressive rights and equities, activists work out in the open—or at least not in hiding. On more oppressive planets, activists work quietly in the shadows but are no less effective. Those who fall to the dark side give in to their rage and desperation, their activism turning destructive for destruction's sake or even becoming murderous in the name of justice.</Description>
     <Source Page="10">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
   </Hook>

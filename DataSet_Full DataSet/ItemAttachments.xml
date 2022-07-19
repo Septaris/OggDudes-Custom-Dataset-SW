@@ -2989,7 +2989,7 @@ Highly sought after by jewelers, artisans, and wealthy collectors for their lust
     <Description>
       [H3]Lorrdian Gemstone[h3]
 
-Lorrdian gemstones arc kyber crystals mined millen nia ago by enslaved Lorrdians during the Kanz Disorders. Created by Force-sensitive Lorrdians to supplement the intricate kinetic communication developed among the slave populace, these gemstones were imbued with Force energies that allowed their possessors to read the emotions and actions of others. When installed in a lightsaber, a Lorrdian gemstone allows the wielder to predict the actions of an opponent, giving the wielder a decided edge in melee combat. A Lorrdian gemstone is a lightsaber crystal. 
+Lorrdian gemstones arc kyber crystals mined millennia ago by enslaved Lorrdians during the Kanz Disorders. Created by Force-sensitive Lorrdians to supplement the intricate kinetic communication developed among the slave populace, these gemstones were imbued with Force energies that allowed their possessors to read the emotions and actions of others. When installed in a lightsaber, a Lorrdian gemstone allows the wielder to predict the actions of an opponent, giving the wielder a decided edge in melee combat. A Lorrdian gemstone is a lightsaber crystal. 
 
 [P][B]Models Include:[b] None.</Description>
     <Source>Force and Destiny Core Rulebook</Source>
@@ -3353,13 +3353,13 @@ Like electronic countermeasures, physical counter-measures are designed to fool 
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Adds [SETBACK] to all Gunnery checks made using misiles, rockets, or torpedoes targeting the starship.</MiscDesc>
+        <MiscDesc>Adds [SETBACK] to all Gunnery checks made using missiles, rockets, or torpedoes targeting the starship.</MiscDesc>
       </Mod>
     </BaseMods>
     <AddedMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Adds [SETBACK] to all Gunnery checks made using misiles, rockets, or torpedoes targeting the starship.</MiscDesc>
+        <MiscDesc>Adds [SETBACK] to all Gunnery checks made using missiles, rockets, or torpedoes targeting the starship.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
@@ -3847,7 +3847,7 @@ better to make passengers and guests feel at home.</Description>
     <Name>Force-Attuned Resonator</Name>
     <Description>
       [H3]Force-Attuned Resonator[h3]
-[P]When the Jedi artificer Sokiro Terebin set about reproducing the crystalline, force-attuned resonaters from the blasters she had unearthed at Site-145 on Filata, she first had to solve some numerious technical challenges. During this time, she created a number of internal resonaters that could be housed within a weapon the effectiveness of different technologies the ancients might have used. Though she meticulously recorded all of her efforts to create resonators that could be activated only by Force sensitives, the Empire's tumultuous rise to power led the destruction of many repositiories of Jedi lore. During Terebin's lifetime, few Jedi considered these weapons to be serious armaments, but in the dark times of Imperial rule, some Force sensitives might find having a blaster that most people can't operate to be practical. The blueprints persist in certain scholastic records, and the aspiring Force sensitives might be able  to make a use of them. This attachment can be applied to any Ranged (Light) or Ranged (Heavy) weapon that has a trigger.</Description>
+[P]When the Jedi artificer Sokiro Terebin set about reproducing the crystalline, force-attuned resonaters from the blasters she had unearthed at Site-145 on Filata, she first had to solve some numerous technical challenges. During this time, she created a number of internal resonaters that could be housed within a weapon the effectiveness of different technologies the ancients might have used. Though she meticulously recorded all of her efforts to create resonators that could be activated only by Force sensitives, the Empire's tumultuous rise to power led the destruction of many repositories of Jedi lore. During Terebin's lifetime, few Jedi considered these weapons to be serious armaments, but in the dark times of Imperial rule, some Force sensitives might find having a blaster that most people can't operate to be practical. The blueprints persist in certain scholastic records, and the aspiring Force sensitives might be able  to make a use of them. This attachment can be applied to any Ranged (Light) or Ranged (Heavy) weapon that has a trigger.</Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -3913,7 +3913,7 @@ better to make passengers and guests feel at home.</Description>
     <Name>Magnetic Weapon Tether</Name>
     <Description>
       [H3]Magnetic Weapon Tether[h3]
-[P]A magnetic weapon tether is a reelatively simple modification that consists of a small magnetic device built into the weapon. The magnetic weapon tether allows the wielder to snap the weapon back to a readied position with a press of a button, rather than having to scramble to retrieve it. While many Force users might scoff at this ability - after all, why use a device for what they can do with the force anyway - others prefer to have the extra layer or safety, or wish to avoid using their Force powers openly in places where the Empire's presence is strong. This attachment can be applied to any weapon wielded in one hand that could logically benefit from a weapon tether.</Description>
+[P]A magnetic weapon tether is a relatively simple modification that consists of a small magnetic device built into the weapon. The magnetic weapon tether allows the wielder to snap the weapon back to a readied position with a press of a button, rather than having to scramble to retrieve it. While many Force users might scoff at this ability - after all, why use a device for what they can do with the force anyway - others prefer to have the extra layer or safety, or wish to avoid using their Force powers openly in places where the Empire's presence is strong. This attachment can be applied to any weapon wielded in one hand that could logically benefit from a weapon tether.</Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -3938,7 +3938,7 @@ better to make passengers and guests feel at home.</Description>
     <Name>Kimber Stone</Name>
     <Description>
       [H3]Kimber Stone[h3]
-[P]Kimber stones are a type of kyber crystal produced by violent volcanic activity on the moon of Y'ness in the N'zoth system. They were once considered unsuitable for use in lightsabers due to the non-lethal nature of the blades they create. Certain Jedi Knights saw potential in kimber stones, and so a number were acquired from Y'ness prior to the destruction of the Jedi Order. Today, kimber stones are occassionally sold at auction on the black market, usually as mere trinkets by those who do not understand their true value as kyber crystals. A kimber stone is a lightsaber crystal. </Description>
+[P]Kimber stones are a type of kyber crystal produced by violent volcanic activity on the moon of Y'ness in the N'zoth system. They were once considered unsuitable for use in lightsabers due to the non-lethal nature of the blades they create. Certain Jedi Knights saw potential in kimber stones, and so a number were acquired from Y'ness prior to the destruction of the Jedi Order. Today, kimber stones are occasionally sold at auction on the black market, usually as mere trinkets by those who do not understand their true value as kyber crystals. A kimber stone is a lightsaber crystal. </Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -4067,7 +4067,7 @@ better to make passengers and guests feel at home.</Description>
     <Name>Armor Spikes</Name>
     <Description>
       [H3]Armor Spikes[h3]
-[P]While armor serces a largely defensive role for its wearers, that needn't be the rule. With the addition of spikes, blades, and other protrusions on areas covering shoulders, knuckles, feet, knees or elbows, armor can be turned into a deadly weapon of last resort. The majority of such modifications are scratch-built, though a handful o f armor manufacturers mass-produce kits for the armor sets they sell. Largely popular with criminals, mercenaries, and bounty hunters, armor spikes lend an intimidating mien to anyone equipped with them. Some professionals prefer to keep such deadly modofications concealed and retractable, and these are perhaps the most dangerous of them all. This attachment can be attached to any armor that covers the arms or legs.      
+[P]While armor serces a largely defensive role for its wearers, that needn't be the rule. With the addition of spikes, blades, and other protrusions on areas covering shoulders, knuckles, feet, knees or elbows, armor can be turned into a deadly weapon of last resort. The majority of such modifications are scratch-built, though a handful o f armor manufacturers mass-produce kits for the armor sets they sell. Largely popular with criminals, mercenaries, and bounty hunters, armor spikes lend an intimidating mien to anyone equipped with them. Some professionals prefer to keep such deadly modifications concealed and retractable, and these are perhaps the most dangerous of them all. This attachment can be attached to any armor that covers the arms or legs.      
     </Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
@@ -4160,7 +4160,7 @@ Low-friction coatings work by lowering the coefficient of friction against solid
     <Name>Kiirium Coating</Name>
     <Description>
       [H3]Kiirium Coating[h3]
-      [P] An obselte shielding material once processedin abundance in the Si'klaata Cluster, kiirium was at one time vital to the manufacture of heavy weapons and starships. While largely supplanted by cheaper, more durable alloys, kiirium has properties that make it useful to armorsmiths, who can apply a coating of kiirium to armored plating as a relatively effective thermal shielding. This attachment can only be applied to armor that has hard or solid parts around which the allow can be coated, such as with laminate armor, heavy battle armor, and similar types of armor at the GM's discretion.</Description>
+      [P] An obsolete shielding material once processed in abundance in the Si'klaata Cluster, kiirium was at one time vital to the manufacture of heavy weapons and starships. While largely supplanted by cheaper, more durable alloys, kiirium has properties that make it useful to armorsmiths, who can apply a coating of kiirium to armored plating as a relatively effective thermal shielding. This attachment can only be applied to armor that has hard or solid parts around which the allow can be coated, such as with laminate armor, heavy battle armor, and similar types of armor at the GM's discretion.</Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
@@ -4213,7 +4213,7 @@ Low-friction coatings work by lowering the coefficient of friction against solid
     <Name>Reflec Shadowskin</Name>
     <Description>
       [H3]Reflec Shadowskin[h3]
-[P]An advanced, light-absorbing polymer that can be applied to armor, refec shadowskin coating can enhance the stealth abilities of its wearer - anyone wearing armor covered in this substance can easily blend into the shadows. While this coating does not make the wearer invisible, it does mean that observers who only catch a glimpse are far less likely to register what they saw or believe it to be anything more than a trick of the light. This attachment can only be applied to armor with a soak of 2 or lower. </Description>
+[P]An advanced, light-absorbing polymer that can be applied to armor, reflec shadowskin coating can enhance the stealth abilities of its wearer - anyone wearing armor covered in this substance can easily blend into the shadows. While this coating does not make the wearer invisible, it does mean that observers who only catch a glimpse are far less likely to register what they saw or believe it to be anything more than a trick of the light. This attachment can only be applied to armor with a soak of 2 or lower. </Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
@@ -4526,7 +4526,7 @@ While true cloaking devices are all but unhead of and limited to capital ships, 
     <Key>GUNNBRAIN</Key>
     <Name>Gunnery Droid Brain</Name>
     <Description>[H3]Gunnery Droid Brain[h3]
-Much more than a simiple targeting computer, a specialized droid brain can be installed on a ship to operate its weapons independently or assist a sentient gunner. Although GoCorp's CD-14c model continues to prove popular with Technicians who want their ship to defend itself when necessary, some users complain of the droid's overly hostile antagonistic behavior. GoCorp continues to deny rumours of so-called "unanticipated activations". This attachment can be applied to any vehicle or starship.
+Much more than a simiple targeting computer, a specialized droid brain can be installed on a ship to operate its weapons independently or assist a sentient gunner. Although GoCorp's CD-14c model continues to prove popular with Technicians who want their ship to defend itself when necessary, some users complain of the droid's overly hostile antagonistic behavior. GoCorp continues to deny rumors of so-called "unanticipated activations". This attachment can be applied to any vehicle or starship.
 [P][B]Models Include:[b] GoCorp's CD-14c</Description>
     <Source Page="66">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -4641,7 +4641,7 @@ As one might well guess from their name, speeders are swift craft by nature. For
     <Key>AMPHIBMOD</Key>
     <Name>Amphibious Modification</Name>
     <Description>[H3]Amphibious Modification[h3]
-Most starships, speeders and other vehicles not specifically designed for it are unfit for usage underwater. Starships are typically not hydrodynamic, and hills designed for zero gravity and atmospheric use can suffer damage from deep-sea pressure. However, with the addition of turbines, moidifications to the engines and reinforcement of the structure  almost any vehicle can be made seaworthy. This attachment can be applied to any vehicle or starship that can enter an atmosphere.
+Most starships, speeders and other vehicles not specifically designed for it are unfit for usage underwater. Starships are typically not hydrodynamic, and hills designed for zero gravity and atmospheric use can suffer damage from deep-sea pressure. However, with the addition of turbines, modifications to the engines and reinforcement of the structure  almost any vehicle can be made seaworthy. This attachment can be applied to any vehicle or starship that can enter an atmosphere.
 [P][B]Models Include:[b] Various Custom Models</Description>
     <Source Page="65">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -4666,7 +4666,7 @@ Most starships, speeders and other vehicles not specifically designed for it are
     <Key>DECOYBUOY</Key>
     <Name>Decoy Buoy</Name>
     <Description>[H3]Decoy Buoy[h3]
-A favorite of scoundrels and pirates, decoy buoys are oftern devices cobbled together from salvaged parts, including transponders and comm systems. Although it might visually resemble nothing so much as a cylinder - or amalgamation of scrap parts - a meter or so across, a well constructed decoy bot transmits a transponder signal, emits ion streams and outputs other data and signals associated with starships. This attachment can be applied to any starship.
+A favorite of scoundrels and pirates, decoy buoys are often devices cobbled together from salvaged parts, including transponders and comm systems. Although it might visually resemble nothing so much as a cylinder - or amalgamation of scrap parts - a meter or so across, a well constructed decoy bot transmits a transponder signal, emits ion streams and outputs other data and signals associated with starships. This attachment can be applied to any starship.
 [P][B]Models Include:[b] Numerous custom variants</Description>
     <Source Page="65">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -5156,7 +5156,7 @@ Many worlds are covered in cast oceans and no few species have evolved in aquati
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Provides up to five hours of oxegen in submersive or airless environments.  Does not protect against vacuum.</MiscDesc>
+        <MiscDesc>Provides up to five hours of oxygen in submersive or airless environments.  Does not protect against vacuum.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
@@ -5166,7 +5166,7 @@ Many worlds are covered in cast oceans and no few species have evolved in aquati
     <AddedMods>
       <Mod>
         <Count>2</Count>
-        <MiscDesc>Increase oxegen supply by two hours</MiscDesc>
+        <MiscDesc>Increase oxygen supply by two hours</MiscDesc>
       </Mod>
     </AddedMods>
   </ItemAttachment>
@@ -5235,7 +5235,7 @@ Often seen among mercenary and special operations forces, an under-barrel grapne
     <Key>IONBLAST</Key>
     <Name>Secondary Ion Blaster</Name>
     <Description>[H3]Secondary Ion Blaster[h3]
-A secondary ion blaster provides an extra level of offense for those expecting run-ins with droids. Many Technicians prefer to take enemy droids intact, the better to "recruite" them or even scavenge for parts later. An ion blaster mounted alongside another weapon provides just that option. This attachment can be used with any Ranged (Heavy) weapon.
+A secondary ion blaster provides an extra level of offense for those expecting run-ins with droids. Many Technicians prefer to take enemy droids intact, the better to "recruit" them or even scavenge for parts later. An ion blaster mounted alongside another weapon provides just that option. This attachment can be used with any Ranged (Heavy) weapon.
 [P][B]Models Include:[b] SoroSuub Droid Defender, BlasTech Model 9 Under-Barrel Ion Blaster</Description>
     <Source Page="56">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -5404,7 +5404,7 @@ An optimized energy cell or expanded gas reserve allows a blaster to achieve a m
     <Key>OVERACTMOD</Key>
     <Name>Overcharged Actuating Module</Name>
     <Description>[H3]Overcharged Actuating Module[h3]
-An overcharged blaster actuating module provies for a more powerful shot at the cost of a greater use of gas as well as increased wear and tear on the weapon. For some spacers, these drawbacks are woth the extra firepower. Although some kits are available for purchase many Technicians achieve the same result by scavenging parts from higher yield blaster. This attachment can be applied to any blaster pistol or carbine.
+An overcharged blaster actuating module provides for a more powerful shot at the cost of a greater use of gas as well as increased wear and tear on the weapon. For some spacers, these drawbacks are woth the extra firepower. Although some kits are available for purchase many Technicians achieve the same result by scavenging parts from higher yield blaster. This attachment can be applied to any blaster pistol or carbine.
 [P][B]Models Include:[b] BlasTech Mk. II Actuating Module, SoroSuub BlastPro</Description>
     <Source Page="55">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -6282,7 +6282,7 @@ Few things are more dangerous to a ship than colliding with a mass shadow in hyp
     <Name>Podracer Engine</Name>
     <Description>
       [H3]Podracer Engine[h3]
-Podracer engines come in three varieties rocket motors, turbine engines, and high-performance ion engines. In the early days of Podracing, engines were salvaged and reuilt by talented amateurs. Single-stage heavy lift rockets, ion engines from crashed starfighters, air breathing turbojets from performance airspeeders, and even more exotic engine types were hauled out of scrapyards or dug out of old military depots and put to use on the racing circuits. Today most Podracer engines are either hand-built custom jobs built by big racing teams to their own exact specifications or mass produced engines from one of the major manufacturers. No matter their provenance, they are all too big, too fast and too loud for civilized racing, which is what makes them so appealing for Podracers.
+Podracer engines come in three varieties rocket motors, turbine engines, and high-performance ion engines. In the early days of Podracing, engines were salvaged and rebuilt by talented amateurs. Single-stage heavy lift rockets, ion engines from crashed starfighters, air breathing turbojets from performance airspeeders, and even more exotic engine types were hauled out of scrapyards or dug out of old military depots and put to use on the racing circuits. Today most Podracer engines are either hand-built custom jobs built by big racing teams to their own exact specifications or mass produced engines from one of the major manufacturers. No matter their provenance, they are all too big, too fast and too loud for civilized racing, which is what makes them so appealing for Podracers.
 [P]Podracer engines must be installed in matched sets usually in multiples of two. Doing otherwise makes for a poorly balanced, finicky, unreliable Podracer that is  by its mismatched nature, even more dangerous than usual.
 [P][B]Models Include:[b] TurboDyne 99-U, Manta RamAir Mk. IV Flat Twin Turbojet, JAK Racing J930 Dash-8, Radon-Ulzer 620C S&amp;K JZ-5 Fusial Thrust Engine, Incom 2a Fission Engine.</Description>
     <Source Page="60">Endless Vigil</Source>
@@ -6306,7 +6306,7 @@ Podracer engines come in three varieties rocket motors, turbine engines, and hig
     <Name>Podracer Shield Generator</Name>
     <Description>
       [H3]Podracer Shield Generator[h3]
-Most Podracers, whether custom-built raceers or one of the many factory customs, mount a small, low-output shield generator in the cockpit. These shield generators are thin and cover primarily the very front. They only protect the driver, and only from exhaust wash from the engines and from debris kicked up from the track surface or flung at the racer by spectators (or other racers). They provide no protection to to the vehicle itself and are generally worthless in the event of a crash or other catastrophic event.
+Most Podracers, whether custom-built racers or one of the many factory customs, mount a small, low-output shield generator in the cockpit. These shield generators are thin and cover primarily the very front. They only protect the driver, and only from exhaust wash from the engines and from debris kicked up from the track surface or flung at the racer by spectators (or other racers). They provide no protection to to the vehicle itself and are generally worthless in the event of a crash or other catastrophic event.
 [P]Some racers, though, value personal safety over tradition, running powerful, full-spectrum shield generators that protect the entire vehicel. These are usually built specifically for Podracing and are tuned for the kinds of environments typically found on Podrace courses. Racing teams that are too poor or too old-fasioned to use factory-built generators still use salvaged units pulled from wrecked starfighters or emplacement shield generators.
 [P][B]Models Include:[b] Novaldex GA21 Shield Generator, Chempat CED8089Y Shields, Keizar-Volvec Mk VIII Safety Shield, BGRE "Bug Smasher" Shield.</Description>
     <Source Page="59">Endless Vigil</Source>
@@ -6415,7 +6415,7 @@ Part of the thrill of Podracing is the near certainty of collisions, for many en
     <Name>Foreign Debris Ejector</Name>
     <Description>
       [H3]Foreign Debris Ejector[h3]
-Podracing attracts a wide range of pilots, from those who delight in testing their skill against fellow speed enthusiasts to those who are only interested in winning, no matter what it takes. For the latter, one method is not to boost their own vehicles performance but to instead hamper their opponants Podracers. Using concealed compartments (known more informally as "dirty trick kits"), pilots can release small nails, reactive chemicals or other debris-designed to foul the engines of a training vehicle, slowing it down or even knocking it out of the running. Though illegal, when used out of the sight of officials these compartments can decide the fate of many a race.
+Podracing attracts a wide range of pilots, from those who delight in testing their skill against fellow speed enthusiasts to those who are only interested in winning, no matter what it takes. For the latter, one method is not to boost their own vehicles performance but to instead hamper their opponents Podracers. Using concealed compartments (known more informally as "dirty trick kits"), pilots can release small nails, reactive chemicals or other debris-designed to foul the engines of a training vehicle, slowing it down or even knocking it out of the running. Though illegal, when used out of the sight of officials these compartments can decide the fate of many a race.
 [P][B]Models Include:[b] Various (pilots and their crew typically craft them secretly).</Description>
     <Source Page="58">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
@@ -6494,7 +6494,7 @@ This is a simple pilot's ejection seat, commonly found in starfighters and comba
     <Name>Collision Avoidance System</Name>
     <Description>
       [H3]Collision Avoidance System[h3]
-Due to their speed and the primative nature of their handling systems, Podracers are notoriously difficult to control. While a Podracer is blindingly fast in a straight line, getting one around corners with any accuracy or reliability is almost impossible, making crashes a common sight at races. As a result, many pilots equip their Podracers with collision avoidance systems to reduce the risk of crashes. While common collision avoidance systems are often barred from use in race series and are frowned upon by veteran racers, who consider them "electronic nannies".
+Due to their speed and the primitive nature of their handling systems, Podracers are notoriously difficult to control. While a Podracer is blindingly fast in a straight line, getting one around corners with any accuracy or reliability is almost impossible, making crashes a common sight at races. As a result, many pilots equip their Podracers with collision avoidance systems to reduce the risk of crashes. While common collision avoidance systems are often barred from use in race series and are frowned upon by veteran racers, who consider them "electronic nannies".
 [BR][B]Models Include:[b] Aratech 8pz-X Constant Active Array, Fabritech "Co-Pilot" Adaptive Anti-Collision System, SoroSuub LX-19 Automatic Spot Thrusters.</Description>
     <Source Page="58">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
@@ -7052,7 +7052,7 @@ Converts a cloud car to a paramilitary vehicle.  </Description>
     <Description>
       [H3]Etaan Crystal[h3]
 These unusual kyber crystals from in the deep caverns of the Mid Rim world of Etai. Given that the crystals rarely form fewer than five hundred meters below the surface and usually at over twice the depth, the formation can be extremely difficult to locate. However, the raw crystals echo any nearby sound with a humming resonance, guiding searchers who draw near.
-[P]Harvested etaan crystals retain this resonant property causing the activated blades of lightsabers using them to thrum in harmony with the motion of the blade, and to chime at nearby sounds. The blades resond especially spectacularly to a clash with another lightsaber or blaster bolt, emitting a near-deafening crack and a bright flare of energies. A clash of blades involving etaan crystals usually results in the lightsabers being forced apart, but reflected blasted bolts draw in the resonant energies from the reaction and intensify on their new trajectory.</Description>
+[P]Harvested etaan crystals retain this resonant property causing the activated blades of lightsabers using them to thrum in harmony with the motion of the blade, and to chime at nearby sounds. The blades respond especially spectacularly to a clash with another lightsaber or blaster bolt, emitting a near-deafening crack and a bright flare of energies. A clash of blades involving etaan crystals usually results in the lightsabers being forced apart, but reflected blasted bolts draw in the resonant energies from the reaction and intensify on their new trajectory.</Description>
     <Source Page="52">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -7155,7 +7155,7 @@ These kyber crystals grow in nearly invisible formations on a handful of far flu
     <Name>Reflex Grip</Name>
     <Description>
       [H3]Reflex Grip[h3]
-Through a delicate system of motion sensors and miniaturized motors built into a lightsaber hilt, a craftsperson can alter the lightsaber to respond to adjustments in grip and postion with greater responsiveness. The split-second edge granted by this sytem allows a combatant to more easily parry an opponent's decisive stroke or block each of a hail of blaster bolts. Controlling the system and keeping it from overreacting to minute or inadvertent motions can be difficult to master, but the defensive advantage of a reflex grip can be worth the extra practice.
+Through a delicate system of motion sensors and miniaturized motors built into a lightsaber hilt, a craftsperson can alter the lightsaber to respond to adjustments in grip and position with greater responsiveness. The split-second edge granted by this sytem allows a combatant to more easily parry an opponent's decisive stroke or block each of a hail of blaster bolts. Controlling the system and keeping it from overreacting to minute or inadvertent motions can be difficult to master, but the defensive advantage of a reflex grip can be worth the extra practice.
 [BR][B]Models Include:[b] None; users must custom make each lightsaber attachment.</Description>
     <Source Page="52">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
@@ -7188,7 +7188,7 @@ Through a delicate system of motion sensors and miniaturized motors built into a
     <Name>Shien Reverse Grip Customization</Name>
     <Description>
       [H3]Shien Reverse Grip Customization[h3]
-Practitioners of Form V sometimes use a reverse grip on their lightsabers to assist in many of the techniques common to that form. Through a few careful adjustments to the grip and balance of their lightsabers, these practictioners can make the weapons more suited to wielding in this manner although the modifications make using a traditional grip somewhat unwieldly in the process.
+Practitioners of Form V sometimes use a reverse grip on their lightsabers to assist in many of the techniques common to that form. Through a few careful adjustments to the grip and balance of their lightsabers, these practitioners can make the weapons more suited to wielding in this manner although the modifications make using a traditional grip somewhat unwieldly in the process.
 [P][B]Models Include:[b] None; users must custom make each lightsaber attachment.</Description>
     <Source Page="52">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
@@ -7267,7 +7267,7 @@ Lightsabers are exceptionally efficient weapons, able to run nearly forever off 
     <Name>Pistol Hilt</Name>
     <Description>
       [H3]Pistol Hilt[h3]
-While the Jedi of old disdained blasters, modern Force users often need every advantage they can get. By adding a customized secondary emitter to a lightsaber hilt, the wielder can release the energies of her weapon at a distance in a manner similar to that of a blaster bolt. Without the focused field produced by a regular lightsaber emitter, the beam repidly loses coherency and stopping power, producing only a short-range stun bolt. A lightsaber used in this manner, though might not even be recognized for what it is, appearing to be an unusal or custom model of pistol instead of one of the legendary weapons of the Jedi. This additional layer of cover could mean as much protection as the new capabilities of the weapon.
+While the Jedi of old disdained blasters, modern Force users often need every advantage they can get. By adding a customized secondary emitter to a lightsaber hilt, the wielder can release the energies of her weapon at a distance in a manner similar to that of a blaster bolt. Without the focused field produced by a regular lightsaber emitter, the beam rapidly loses coherency and stopping power, producing only a short-range stun bolt. A lightsaber used in this manner, though might not even be recognized for what it is, appearing to be an unusal or custom model of pistol instead of one of the legendary weapons of the Jedi. This additional layer of cover could mean as much protection as the new capabilities of the weapon.
 [P]The user must spend a maneuver to switch from one weapon mode to the other lightsaber function to pistol function, for example.
 [P][B]Models Include:[b] None; users must custom make each lightsaber attachment.</Description>
     <Source Page="52">Endless Vigil</Source>
@@ -7450,7 +7450,7 @@ The AD-1 S is already a relatively maneuverable craft, but installing and person
     <Name>Slugthrower Suppressor</Name>
     <Description>
       [H3]Slugthrower Suppressor[h3]
-Suppressors are used by assassins and sharpshooters to make their weapons queiter and more difficult to detect when firing. Similar to energy dampers used to silence blasters, suppressors clip or screw onto the end of a weapon's barrel, redirecting sound and escaping gases to reduce the noise and muzzle flash a slugthrower produces when fired. While they don't make the weapon completely silent they do dramatically reduce its report, making a shooter more difficult to detect. The major downside of using a suppressor is that in reducing the weapon's report it also lowers the speed at which a round travels, diminishing the weapon's damage in the process. Suppressors can only be used on Ranged (Light) and Ranged (Heavy) slugthrower weapons.
+Suppressors are used by assassins and sharpshooters to make their weapons quieter and more difficult to detect when firing. Similar to energy dampers used to silence blasters, suppressors clip or screw onto the end of a weapon's barrel, redirecting sound and escaping gases to reduce the noise and muzzle flash a slugthrower produces when fired. While they don't make the weapon completely silent they do dramatically reduce its report, making a shooter more difficult to detect. The major downside of using a suppressor is that in reducing the weapon's report it also lowers the speed at which a round travels, diminishing the weapon's damage in the process. Suppressors can only be used on Ranged (Light) and Ranged (Heavy) slugthrower weapons.
 [P][B]Models Include:[b] Czerka Mk. I Suppressor, SoroSuub "Whisperflite" Slugthrower Silencer.
 </Description>
     <Source Page="51">Savage Spirits</Source>
@@ -7612,7 +7612,7 @@ Nishalorite stones are found on worlds with particularly strong magnetic fields.
     <Name>Water Reclamation Suit</Name>
     <Description>
       [H3]Water Reclamation Suit[h3]
-Water reclaimation systems are popular with scouts and hermits, especially those living or working on arid worlds. Produced by a variety of wilderness outfitters, like Survival Equipment Inc. and Gandorthral Atmospherics, these systems collect a body's waste moisture and distill it for drinking. Typically, the consist of a tight bodysuit worn under a suit of armor, that covers a wearer to the neck, wrists, and ankles, along with a matching pair of gloves and a filtermask that covers the mouth and nose.
+Water reclamation systems are popular with scouts and hermits, especially those living or working on arid worlds. Produced by a variety of wilderness outfitters, like Survival Equipment Inc. and Gandorthral Atmospherics, these systems collect a body's waste moisture and distill it for drinking. Typically, the consist of a tight bodysuit worn under a suit of armor, that covers a wearer to the neck, wrists, and ankles, along with a matching pair of gloves and a filtermask that covers the mouth and nose.
 [P]Made from layers of synthetic fibermesh, the suit wicks sweat away from the skin and purifies it by means of integrated filtration media. It also collects waste moisture from the mouth and nose by means of the filtermask. The water is then collected in pouches spread across the suit and can either be decanted into a larger container or drunk straight from the suit by means of a long, flexible tube connected to the suit's back. Adding a Water Reclamation System to a suit of armor allows an individual to operate much longer in desolate environments without fear of running out of water. This attachment can be applied to any armor that could logically integrate the necessary pouches and tubing.</Description>
     <Source Page="52">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
@@ -7622,7 +7622,7 @@ Water reclaimation systems are popular with scouts and hermits, especially those
     <HP>2</HP>
     <BaseMods>
       <Mod>
-        <MiscDesc>Upgrades ability of Resiliance and Survival checks made in dry or hot environments due to scarcity of water twice.</MiscDesc>
+        <MiscDesc>Upgrades ability of Resilience and Survival checks made in dry or hot environments due to scarcity of water twice.</MiscDesc>
       </Mod>
     </BaseMods>
   </ItemAttachment>
@@ -7653,7 +7653,7 @@ Made by purveyors of animal-handling gear such as VeTech and Piccatech, saddleba
     <Name>Passive Foliage Suit</Name>
     <Description>
       [H3]Passive Foliage Suit[h3]
-For those operating in the wilds, sometimes the simplest camoflage methods are the best. Given this, it's not surprising that hunters and other individuals who spend a lot of time in the wilderness often use passive foliage suits. These suits have patches of synthetic greenery designed to mimic natural flora. Clusters of opern tie-lines also allow wearers to easily attach local foliage to the suit, allowing them to alter their camouflage when the surroundings change. This attachment can be applied to any armor that could logically integrate the necessary patches and tie-lines.
+For those operating in the wilds, sometimes the simplest camoflage methods are the best. Given this, it's not surprising that hunters and other individuals who spend a lot of time in the wilderness often use passive foliage suits. These suits have patches of synthetic greenery designed to mimic natural flora. Clusters of open tie-lines also allow wearers to easily attach local foliage to the suit, allowing them to alter their camouflage when the surroundings change. This attachment can be applied to any armor that could logically integrate the necessary patches and tie-lines.
 [P][B]Models Include:[b] Various types.</Description>
     <Source Page="51">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
@@ -7731,8 +7731,8 @@ There are as many ways of boosting the output of a Podracer's engine as there ar
     <Name>Environmental Adaption Kit</Name>
     <Description>
       [H3]Environmental Adaption Kit[h3]
-      The varied and often hazardous environments found throughout the galaxy have a tendency to hinder and harm even the sturdiest, most well-built pieves of equipment. Ranged weapons, especially energy weapons like blasters, are particularly susceptible to environmental damage. Dirt, dust and sand can scratch fog lenses, reducing a blaster beam's cohesion and therefore its range and damage potential. Moisture can collect in barrels and recievers, corroding galven circuitry or rusting bolts and strikers. More exotic environments can wear away at weapons with heat, caustic gases, or damaging ionization.
-[P]To combat these dangers, most weapon and wepaon accessory manufacturers produce Environmental adaption kits. Primarly just collections of seals and protective covers, these kits grant a weapon an added layer of protection against the wear and tear of regular use in hostile environments. While some are for general use, most of these kits are designed for specific environments: dusty, cold, caustic, etc. Environmental adaptation kits can be attached to any ranged weapon.
+      The varied and often hazardous environments found throughout the galaxy have a tendency to hinder and harm even the sturdiest, most well-built pieces of equipment. Ranged weapons, especially energy weapons like blasters, are particularly susceptible to environmental damage. Dirt, dust and sand can scratch fog lenses, reducing a blaster beam's cohesion and therefore its range and damage potential. Moisture can collect in barrels and receivers, corroding galven circuitry or rusting bolts and strikers. More exotic environments can wear away at weapons with heat, caustic gases, or damaging ionization.
+[P]To combat these dangers, most weapon and wepaon accessory manufacturers produce Environmental adaption kits. Primarily just collections of seals and protective covers, these kits grant a weapon an added layer of protection against the wear and tear of regular use in hostile environments. While some are for general use, most of these kits are designed for specific environments: dusty, cold, caustic, etc. Environmental adaptation kits can be attached to any ranged weapon.
 [P][B]Models Include:[b] Various models and manufacturers.
 [P][I]Note: If this kit is for a specific environment, rename the kit to specify the environment.[i]
     </Description>
@@ -7921,7 +7921,7 @@ Designed by Piccatech Ltd., the Pennier system is designed to fit as much cargo 
     <Name>Hunting Barrel</Name>
     <Description>
       [H3]Hunting Barrel[h3]
-Designed to increase range and accuracy, a hunting barrel can turn any blaster rifle into a dedicated hunting weapon. This two-meter-long replacement barrel is constructed of lightweight materiels and packed with upgraded pulse adapters and denser, more aggressive galven circuitry. The increased accuracy and range come at the cost of the base weapon's weight and size, however. The extra-long barrel makes the weapon awkward to handle and fire without proper support, as well as making it almost impossible to conceal. A hunting barrel can only be used on a blaster rifle.
+Designed to increase range and accuracy, a hunting barrel can turn any blaster rifle into a dedicated hunting weapon. This two-meter-long replacement barrel is constructed of lightweight materials and packed with upgraded pulse adapters and denser, more aggressive galven circuitry. The increased accuracy and range come at the cost of the base weapon's weight and size, however. The extra-long barrel makes the weapon awkward to handle and fire without proper support, as well as making it almost impossible to conceal. A hunting barrel can only be used on a blaster rifle.
 [BR][B]Models Include:[b] Czerka Model 2 "Huntsman" Precision Barrel, SoroSuub WQ60 "Sure-shot" Barrel, Arakyd 3100 "Deadeye" Barrel.</Description>
     <Source Page="50">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
@@ -7963,7 +7963,7 @@ Designed to increase range and accuracy, a hunting barrel can turn any blaster r
     <Name>Minelayer</Name>
     <Description>
       [H3]Minelayer[h3]
-Minelayers, and their accompanying ordance, are anti-ship weapons sold by numerous mahor galactic arms manufacturers. Mines are typically deployed in defensive positions, used to deny areas to vehicle traffic or to create fire lanes for weapon emplacements, but they can also be used offensively in a manner similar to missile or torpedo launchers. They come in a variety of styles—from simple concussion mines to sophisticated gravity mines—and grant a small vessel such as a starfighter or patrol boat, a damage capacity well out of proportion to its size. This attachment can be installed on any starship.
+Minelayers, and their accompanying ordnance, are anti-ship weapons sold by numerous major galactic arms manufacturers. Mines are typically deployed in defensive positions, used to deny areas to vehicle traffic or to create fire lanes for weapon emplacements, but they can also be used offensively in a manner similar to missile or torpedo launchers. They come in a variety of styles—from simple concussion mines to sophisticated gravity mines—and grant a small vessel such as a starfighter or patrol boat, a damage capacity well out of proportion to its size. This attachment can be installed on any starship.
 [BR][B]Models Include:[b] GSI M-L4 Seeker. Czerka Arms Mk. IX Proton Mine.</Description>
     <Source Page="64">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
@@ -7999,7 +7999,7 @@ Minelayers, and their accompanying ordance, are anti-ship weapons sold by numero
     <Name>Containment Field</Name>
     <Description>
       [H3]Containment Field[h3]
-Designed for permanent installation, a containment field generator consists of two flat, cylindrical generators—one bolted to the floor, the other to the ceiling— that hold a single individual captive in a powerful stasis field. Individuals held in a containment field. Individuals held in a containment field wear megnetic binders and are suspended in mid-air, completely isolated from the world around them. When held in  a containment field, individuals are usually fitted with bio-signs monitors due to the field's distressing habit of causing heart attacks, brain damage, or death if it is not tuned correctly. This attachment can be installed on any vessel of silhoette 4 or higher.
+Designed for permanent installation, a containment field generator consists of two flat, cylindrical generators—one bolted to the floor, the other to the ceiling— that hold a single individual captive in a powerful stasis field. Individuals held in a containment field. Individuals held in a containment field wear magnetic binders and are suspended in mid-air, completely isolated from the world around them. When held in  a containment field, individuals are usually fitted with bio-signs monitors due to the field's distressing habit of causing heart attacks, brain damage, or death if it is not tuned correctly. This attachment can be installed on any vessel of silhoette 4 or higher.
 [BR][B]Models Include:[b] Gordarl Weaponsmiths A1 Containment Field.</Description>
     <Source Page="64">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
@@ -8201,7 +8201,7 @@ Micro-rockets can be fired in a plethora of ways, and some hunters mount them on
     <Name>Marked-Target Firing Lock</Name>
     <Description>
       [H3]Marked-Target Firing Lock[h3]
-In the chaos of a firefight, shots can go astray, damaging property or bystanders. While some hunters do not care about the carnage they cause, this kind of haphazard damage is a liability, courting attention from the law or revenge from those who sugger in the crossfire. To mitigate this risk, some bounty hunters invest in firing locks on their blasters, allowing them to designate specific targets for the weapons. Once the systems' sensors have recognized a target, the weapons refuse to fire without a clear shot, minimizing the chance of collateral damage. This attachment can be installed on any ranged weapon that does not posess the Blast or Auto-fire quality.
+In the chaos of a firefight, shots can go astray, damaging property or bystanders. While some hunters do not care about the carnage they cause, this kind of haphazard damage is a liability, courting attention from the law or revenge from those who sugger in the crossfire. To mitigate this risk, some bounty hunters invest in firing locks on their blasters, allowing them to designate specific targets for the weapons. Once the systems' sensors have recognized a target, the weapons refuse to fire without a clear shot, minimizing the chance of collateral damage. This attachment can be installed on any ranged weapon that does not posses the Blast or Auto-fire quality.
 [P][B]Models Include:[b] BlasTech "Surefire" Safety Sensor, Cadregg Armory Model-87 Weapon Sensor.</Description>
     <Source Page="51">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
@@ -8297,7 +8297,7 @@ Although more common among factory or warehouse labor crews than in battle, repu
     <Name>Rocket Guidance System</Name>
     <Description>
       [H3]Rocket Guidance System[h3]
-Most micro-rockets are fired directly at their target, relying on the firer's aim and the rocket's acceleration to ensure a direct hit. For those who prefer more insurance that their rockets land precisely where intended, packages of sensors, limited fuel cell expansions, and adjustable maneuvering fins allow for rockets to be modifed into maneuvering fins allow for rockets to be modified into "smart" weapons that continue to seek their designated target in the event of an initial miss or misfire. These systems enable users to get more reliable performance out of their rockets while at the same time minimizing the collateral damage. This attachment can be installed on any micro-rocket.
+Most micro-rockets are fired directly at their target, relying on the firer's aim and the rocket's acceleration to ensure a direct hit. For those who prefer more insurance that their rockets land precisely where intended, packages of sensors, limited fuel cell expansions, and adjustable maneuvering fins allow for rockets to be modified into maneuvering fins allow for rockets to be modified into "smart" weapons that continue to seek their designated target in the event of an initial miss or misfire. These systems enable users to get more reliable performance out of their rockets while at the same time minimizing the collateral damage. This attachment can be installed on any micro-rocket.
 [P][B]Models Include:[b] Phar Co. "Vornskr" Guidance Package, Merr-Sonn "Outreach" Target Sensor.</Description>
     <Source Page="47">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
@@ -8331,7 +8331,7 @@ Most micro-rockets are fired directly at their target, relying on the firer's ai
     <Name>Staged Rocket Booster</Name>
     <Description>
       [H3]Staged Rocket Booster[h3]
-The limitations of size mean that most micro-rockets lack the fuel capacity to reach distant targets. However, high-yield fuel cells, advanced filtration systems, or staged boosters added to the rockets can all increase a rocket's effective range substantially. Of course, the term "effective range" becomes something of a misnomer with rockets modifed in this way, as the additional fuel risks unbalancing the rocket's flight path, and the increased range comes with an increased chance of misjudgement on the part of the user. However, the chance to deliver a hefty payload beyond the reach of equivalent retribution is worth the risk to many. This attachment can be installed on any micro-rocket.
+The limitations of size mean that most micro-rockets lack the fuel capacity to reach distant targets. However, high-yield fuel cells, advanced filtration systems, or staged boosters added to the rockets can all increase a rocket's effective range substantially. Of course, the term "effective range" becomes something of a misnomer with rockets modified in this way, as the additional fuel risks unbalancing the rocket's flight path, and the increased range comes with an increased chance of misjudgment on the part of the user. However, the chance to deliver a hefty payload beyond the reach of equivalent retribution is worth the risk to many. This attachment can be installed on any micro-rocket.
 [P][B]Models Include:[b] SoroSuub HV-33 Fuel Filter.</Description>
     <Source Page="47">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
@@ -8402,7 +8402,7 @@ Through a series of specialized computer systems and sensors, this attachment co
     <Name>Integrated Holsters</Name>
     <Description>
       [H3]Integrated Holsters[h3]
-By mounting their holsters into the framework of their armor, combatants can ensure no one can catch them unarmed. Not only does the wearer have easy access to these weapons at all times, but powered servos an other systems can be set up to assist the wearer in drawing or stowing these weapons more repidly. A character with  a fully tooled set of integrated holsters has access to a hidden arsenal that can overwhelm most foes.
+By mounting their holsters into the framework of their armor, combatants can ensure no one can catch them unarmed. Not only does the wearer have easy access to these weapons at all times, but powered servos an other systems can be set up to assist the wearer in drawing or stowing these weapons more rapidly. A character with  a fully tooled set of integrated holsters has access to a hidden arsenal that can overwhelm most foes.
 [BR][B]Models Include:[b] BlasTech "Personal Armory" Gear.</Description>
     <Source Page="52">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
@@ -8576,7 +8576,7 @@ By mounting their holsters into the framework of their armor, combatants can ens
     <Name>Pommel Cap</Name>
     <Description>
       [H3]Pommel Cap[h3]
-Force users, especially those walking a path closely attuned to the light side of the Force, often seek non-lethal means for incapacitating their opponents. The pomel cap provides just such a solution. The pommel cap is a small, weighted knob or other similar piece attached to the base of a lightsaber's hilt. The increased weight and reinforcement provided by the pommel cap make pommel strikes with the lightsaber more effective, and less likely to damage the lightsaber itself, than a strike with a bare hilt. The pommel cap not only enhances the ability of a Force user to provide a stunning blow, but it can also be used to store small items of necessity-most often an additional backup power cell, though any number of small items can prove useful to a Force user in need. The pommel cap screws into the base of a lightsaber, and competent wielders often incorporate its use into their fighting style as a matter of course. This attachment can be applied to lightsabers or any Melee weapon with a hilt.</Description>
+Force users, especially those walking a path closely attuned to the light side of the Force, often seek non-lethal means for incapacitating their opponents. The pommel cap provides just such a solution. The pommel cap is a small, weighted knob or other similar piece attached to the base of a lightsaber's hilt. The increased weight and reinforcement provided by the pommel cap make pommel strikes with the lightsaber more effective, and less likely to damage the lightsaber itself, than a strike with a bare hilt. The pommel cap not only enhances the ability of a Force user to provide a stunning blow, but it can also be used to store small items of necessity-most often an additional backup power cell, though any number of small items can prove useful to a Force user in need. The pommel cap screws into the base of a lightsaber, and competent wielders often incorporate its use into their fighting style as a matter of course. This attachment can be applied to lightsabers or any Melee weapon with a hilt.</Description>
     <Source Page="51">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -10752,7 +10752,7 @@ This is a simple device that uses springs or compressed air to fire a tiny alloy
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Enable the item to fire a single dart with the following profiile: (Ranged [Light]: Damage 2; Critical 5; Range [Short]; Limited Ammo 1, Pierce 1).</MiscDesc>
+        <MiscDesc>Enable the item to fire a single dart with the following profile: (Ranged [Light]: Damage 2; Critical 5; Range [Short]; Limited Ammo 1, Pierce 1).</MiscDesc>
       </Mod>
     </BaseMods>
     <WeaponModifiers>

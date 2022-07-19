@@ -869,7 +869,7 @@
   <SigAbilityNode>
     <Key>INVENTIVECREATIONBASIC</Key>
     <Name>Inventive Creation Base Ability</Name>
-    <Description>Oncer per game session, as an action, the character may spend 2 Destiny Points and make a [B]Daunting ([DI][DI][DI][DI]) Mechanics check[b]. If he succeeds, the character immediately uses available parts to build a device that functions as an item of his choice with a rarity of 5 or lower. The item is functional until the end of the encounter, at which point it falls apart, shorts out, or otherwise ceases to function permanently. The exact nature of the device the character its trying to construct as well as the end results, must be approved by the GM (see [B]Narrative Abilities[b] on page 38).</Description>
+    <Description>Once per game session, as an action, the character may spend 2 Destiny Points and make a [B]Daunting ([DI][DI][DI][DI]) Mechanics check[b]. If he succeeds, the character immediately uses available parts to build a device that functions as an item of his choice with a rarity of 5 or lower. The item is functional until the end of the encounter, at which point it falls apart, shorts out, or otherwise ceases to function permanently. The exact nature of the device the character its trying to construct as well as the end results, must be approved by the GM (see [B]Narrative Abilities[b] on page 38).</Description>
     <Source Page="39">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Inventive Creation</SigAbility>
@@ -1037,7 +1037,7 @@ to activate Rousing Oratory.</Description>
   <SigAbilityNode>
     <Key>ROUSORBASIC</Key>
     <Name>Rousing Oratory Basic Ability</Name>
-    <Description>Once per game session, the character may perform a Rousing Oratory action, spend 2 Destiny Poins, and make a [B]Hard ([DI][DI][DI]) Leadership check to inspire a group to take action in a military situation about which  members were previously hesitant.</Description>
+    <Description>Once per game session, the character may perform a Rousing Oratory action, spend 2 Destiny Points, and make a [B]Hard ([DI][DI][DI]) Leadership check to inspire a group to take action in a military situation about which  members were previously hesitant.</Description>
     <Source Page="38">Lead by Example</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Rousing Oratory</SigAbility>
@@ -1197,7 +1197,7 @@ to activate Rousing Oratory.</Description>
   <SigAbilityNode>
     <Key>UNMATCHEDPURSUITENDURANCE</Key>
     <Name>Endurance</Name>
-    <Description>Reduce the strain cost to keep up with the target by 1to a minimumof 0, per endurance upgrade.</Description>
+    <Description>Reduce the strain cost to keep up with the target by 1 to a minimum of 0, per endurance upgrade.</Description>
     <Source Page="35">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Pursuit</SigAbility>
@@ -1205,7 +1205,7 @@ to activate Rousing Oratory.</Description>
   <SigAbilityNode>
     <Key>UNMATCHEDPURSUITDESTINY</Key>
     <Name>Destiny</Name>
-    <Description>To activate Unmatched Pursuit, the character only needs to spend 1 Destiny Point, instead of the Nomral 2 Destiny Points.</Description>
+    <Description>To activate Unmatched Pursuit, the character only needs to spend 1 Destiny Point, instead of the Normal 2 Destiny Points.</Description>
     <Source Page="35">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Pursuit</SigAbility>
@@ -1421,7 +1421,7 @@ to activate Rousing Oratory.</Description>
   <SigAbilityNode>
     <Key>UNMATCHEDCOURAGETOUGH</Key>
     <Name>Too Tough To Die</Name>
-    <Description>When Unmatched Courage ends, make a [B]Hard ([DI][DI][DI]) Resillience check[b] to remove one Critical Injury.</Description>
+    <Description>When Unmatched Courage ends, make a [B]Hard ([DI][DI][DI]) Resilience check[b] to remove one Critical Injury.</Description>
     <Source Page="39">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Courage</SigAbility>
@@ -1871,7 +1871,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
   <SigAbilityNode>
     <Key>PROPHECYDESTINY</Key>
     <Name>Destiny</Name>
-    <Description>Prophecy costs 1 fewer Destiny Points to activate, it still requires a Destiny Point to trigger the occurrence of the prophesised event.</Description>
+    <Description>Prophecy costs 1 fewer Destiny Points to activate, it still requires a Destiny Point to trigger the occurrence of the prophesied event.</Description>
     <Source Page="37">Unlimited Power</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Prophecy</SigAbility>
