@@ -153,7 +153,4 @@ Racers race. Whether by landspeeder, airspeeder, starship, or on foot, the Racer
       </Directions>
     </TalentRow>
   </TalentRows>
-  <AddlCareerSkills>
-    <Type />
-  </AddlCareerSkills>
 </Specialization>

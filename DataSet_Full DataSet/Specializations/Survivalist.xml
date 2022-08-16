@@ -6,9 +6,9 @@
 
 [P]Beyond civilization, in the farthest reaches of the galaxy, there are places where few (if any) sentients have ever trodden the ground. Places like these are ideal hiding places for those fleeing the law or retribution for their actions. Places like these are where Bounty Hunters who specialize as Survivalists thrive.
 
-[P]Harkening back to the ancient practices of true wilderness hunters, the Survivalist gains [B]Knowledge (Xenology), Perception, Resilience,[b] and [B]Survival[b] as additional Career skills. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. With his talent array, he can keep himself and his companions alive, and he knows where and what to look for when searching for just about anything or anyone. He's also gifted at hunting any kind of target. 
+[P]Harkening back to the ancient practices of true wilderness hunters, the Survivalist gains [B]Knowledge (Xenology), Perception, Resilience,[b] and [B]Survival[b] as additional Career skills. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. With his talent array, he can keep himself and his companions alive, and he knows where and what to look for when searching for just about anything or anyone. He's also gifted at hunting any kind of target.
 
-[P]Not everything that happens in the galaxy occurs in cities or out in space. In fact, most of the habitable places of the galaxy are rural or wilderness in nature. A specialization in Survivalist ensures a character has the necessary knowledge and training to make his way in such environments, and help the far more urban-minded folks he's likely traveling with. 
+[P]Not everything that happens in the galaxy occurs in cities or out in space. In fact, most of the habitable places of the galaxy are rural or wilderness in nature. A specialization in Survivalist ensures a character has the necessary knowledge and training to make his way in such environments, and help the far more urban-minded folks he's likely traveling with.
 
 [P]Despite their capacity to live off the land, Survivalists enjoy credits and the things that can be purchased with them just like anyone else. They will often look to hire themselves out to customers who need their expertise in seeking out (or hunting) something beyond the duracrete and tapcafs.</Description>
   <Source Page="61">Edge of the Empire Core Rulebook</Source>
@@ -159,7 +159,4 @@
       </Directions>
     </TalentRow>
   </TalentRows>
-  <AddlCareerSkills>
-    <Type />
-  </AddlCareerSkills>
 </Specialization>

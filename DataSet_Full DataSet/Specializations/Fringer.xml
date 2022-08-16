@@ -4,11 +4,11 @@
   <Name>Fringer</Name>
   <Description>[H4]Fringer - Discovering Possibilities[h4]
 
-[P]Part negotiator, part astrogator, and savvy in the ways of the galaxy beyond the Core Worlds, the Fringer is a jack-of-all-trades. He focuses on knowing how to find what he needs and how to get where he needs to go. He's got the gift of gab when it's time to talk, and the awareness and reflexes to maneuver away when it's time to run. 
+[P]Part negotiator, part astrogator, and savvy in the ways of the galaxy beyond the Core Worlds, the Fringer is a jack-of-all-trades. He focuses on knowing how to find what he needs and how to get where he needs to go. He's got the gift of gab when it's time to talk, and the awareness and reflexes to maneuver away when it's time to run.
 
-[P]The additional Career skills for a Fringer are indicative of his diversified nature: [B]Astrogation, Coordination, Negotiation,[b] and [B]Streetwise[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. Fringers are skilled navigators and rugged survivalists. 
+[P]The additional Career skills for a Fringer are indicative of his diversified nature: [B]Astrogation, Coordination, Negotiation,[b] and [B]Streetwise[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. Fringers are skilled navigators and rugged survivalists.
 
-[P]Many Fringers are excellent pilots, some rivaling even Smugglers in terms of talent. They are also highly prized for their ability to navigate ships through the unknown ranges of the Outer Rim. Fringers can also be tough, wiry, and nimble, surprising any would-be assailant with their ability to avoid getting hit and avoid getting caught. 
+[P]Many Fringers are excellent pilots, some rivaling even Smugglers in terms of talent. They are also highly prized for their ability to navigate ships through the unknown ranges of the Outer Rim. Fringers can also be tough, wiry, and nimble, surprising any would-be assailant with their ability to avoid getting hit and avoid getting caught.
 
 [P]A Player Character Fringer stands a good chance of being either the primary or secondary pilot for a group; he'll certainly be the likely choice for handling astrogation duties. He may also be the one the group turns to when it comes to dealing with employers, or finding a job in the first place. If someone needs to go into a starport or town to handle business, the Fringer should definitely be a part of that excursion.</Description>
   <Source Page="71">Edge of the Empire Core Rulebook</Source>
@@ -159,7 +159,4 @@
       </Directions>
     </TalentRow>
   </TalentRows>
-  <AddlCareerSkills>
-    <Type />
-  </AddlCareerSkills>
 </Specialization>

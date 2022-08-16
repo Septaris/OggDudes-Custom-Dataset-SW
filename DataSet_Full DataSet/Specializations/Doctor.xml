@@ -4,11 +4,11 @@
   <Name>Doctor</Name>
   <Description>[H4]Doctor - The Gift of Healing[h4]
 
-Of all the types of Colonists who come to the Outer Rim, Doctors probably have the easiest time finding employment. They are in high demand almost anywhere they go. Unfortunately, most of what they are asked to do involves patching up the wounds of the worst kind of beings. 
+Of all the types of Colonists who come to the Outer Rim, Doctors probably have the easiest time finding employment. They are in high demand almost anywhere they go. Unfortunately, most of what they are asked to do involves patching up the wounds of the worst kind of beings.
 
-[P]The Doctor adds [B]Cool, Knowledge (Education), Medicine,[b] and [B]Resilience[b] to his Career skills. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. With these skills, a Doctor brings not only healing and the treatment of illnesses with him, he brings a broad spectrum of knowledge and a solid persona in the face of adversity. 
+[P]The Doctor adds [B]Cool, Knowledge (Education), Medicine,[b] and [B]Resilience[b] to his Career skills. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. With these skills, a Doctor brings not only healing and the treatment of illnesses with him, he brings a broad spectrum of knowledge and a solid persona in the face of adversity.
 
-[P]Most Doctors trade their healing talents for a chance to see more of the galaxy than their time in medical school ever allowed. Their overall motives can be as varied as those of any being, yet they tend to share a common instinct to heal where there is harm. While many will simply take up residence with whatever lord, corporation, or boss will hire them, other Doctors will find a way to get out into the larger galaxy, both to bring help to those in need and to experience life in some fashion. 
+[P]Most Doctors trade their healing talents for a chance to see more of the galaxy than their time in medical school ever allowed. Their overall motives can be as varied as those of any being, yet they tend to share a common instinct to heal where there is harm. While many will simply take up residence with whatever lord, corporation, or boss will hire them, other Doctors will find a way to get out into the larger galaxy, both to bring help to those in need and to experience life in some fashion.
 
 [P]A Player Character Doctor is likely to be considered a kind of "combat medic" for the group; this isn't a bad thing at all, and the role will make him very popular. At the same time, a Doctor can often help with broader issues of understanding or finding things out, especially if there isn't a Scholar in the group. </Description>
   <Source Page="65">Edge of the Empire Core Rulebook</Source>
@@ -158,7 +158,4 @@ Of all the types of Colonists who come to the Outer Rim, Doctors probably have t
       </Directions>
     </TalentRow>
   </TalentRows>
-  <AddlCareerSkills>
-    <Type />
-  </AddlCareerSkills>
 </Specialization>

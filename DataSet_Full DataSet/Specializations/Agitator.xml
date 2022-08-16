@@ -5,11 +5,11 @@
   <Description>
     [H4]Agitator - Rousing the Masses[h4]
 
-The Empire's main weapon, more effective than all of the incredible firepower at its disposal, is fear. Fear lets it maintain order and authority over the countless beings in its thrall. The Agitator's primary goal is to remove that fear and replace it with anger, or courage, or a sense of righteousness—whatever it takes to get the people to rise up, take up arms, reject Palpatine's tyranny, and restore freedom and justice to the galaxy. 
+The Empire's main weapon, more effective than all of the incredible firepower at its disposal, is fear. Fear lets it maintain order and authority over the countless beings in its thrall. The Agitator's primary goal is to remove that fear and replace it with anger, or courage, or a sense of righteousness—whatever it takes to get the people to rise up, take up arms, reject Palpatine's tyranny, and restore freedom and justice to the galaxy.
 
-[P]For Agitators, [B]Coercion, Deception, Knowledge (Underworld),[b] and [B]Streetwise[b] are all added as career skills. So long as this is the first specialization for the PC, he gains a free rank in two of these four skills. Agitators often bully the bullies to move them out of the way, and when they are able to get the people to follow them, they know how to lead. Understanding the ways of the streets is also vital to survival and success. 
+[P]For Agitators, [B]Coercion, Deception, Knowledge (Underworld),[b] and [B]Streetwise[b] are all added as career skills. So long as this is the first specialization for the PC, he gains a free rank in two of these four skills. Agitators often bully the bullies to move them out of the way, and when they are able to get the people to follow them, they know how to lead. Understanding the ways of the streets is also vital to survival and success.
 
-[P]Most Agitators come by the calling through hardship and suffering. Their own personal tragedies at the hands of their oppressors drive them to call upon others to resist injustice and authoritarianism. Some are more altruistic in nature, sufficiently moved,by the suffering of others to take action and rouse the people to a cause in which they can believe. Only those with charisma and will in sufficient quantities can truly succeed in this dangerous and demanding course. 
+[P]Most Agitators come by the calling through hardship and suffering. Their own personal tragedies at the hands of their oppressors drive them to call upon others to resist injustice and authoritarianism. Some are more altruistic in nature, sufficiently moved,by the suffering of others to take action and rouse the people to a cause in which they can believe. Only those with charisma and will in sufficient quantities can truly succeed in this dangerous and demanding course.
 
 [P]Many in the Alliance's upper levels consider Agitators a necessary evil; they are not keen to move populations of untrained civilians to go to war against the Empire's stormtroopers and other resources, yet they accept that, ultimately, it will take the entire galaxy doing just that if victory is to be achieved. When possible, Agitators are supported by other Alliance operatives, and a plan to arm and support the populace is usually in place before the Agitator goes to work.</Description>
   <Source Page="80">Age of Rebellion Core Rulebook</Source>
@@ -153,7 +153,4 @@ The Empire's main weapon, more effective than all of the incredible firepower at
       </Directions>
     </TalentRow>
   </TalentRows>
-  <AddlCareerSkills>
-    <Type />
-  </AddlCareerSkills>
 </Specialization>

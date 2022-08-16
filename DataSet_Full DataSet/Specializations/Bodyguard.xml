@@ -4,11 +4,11 @@
   <Name>Bodyguard</Name>
   <Description>[H4]Bodyguard - Personal Defender[h4]
 
-[P]Hired Guns who choose the Bodyguard specialization are excellent choices for defending both people and places. They tend to be highly capable with all kinds of weaponry, extremely tough and savvy in combat, and exactly the right people to get behind when blaster fire starts flying. 
+[P]Hired Guns who choose the Bodyguard specialization are excellent choices for defending both people and places. They tend to be highly capable with all kinds of weaponry, extremely tough and savvy in combat, and exactly the right people to get behind when blaster fire starts flying.
 
-[P]Their additional Career skills are indicative of their job: [B]Gunnery, Perception, Piloting (Planetary),[b] and [B]Ranged (Heavy)[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. With this array of skills, a Bodyguard can operate anything that shoots, keep a good eye on his surroundings, and can handle any planet-bound craft with great aptitude. This, combined with his talent options, makes him potentially perfect as an armed chauffeur [I]or[i] as a heavy weapons emplacement operator. He also makes a resilient soldier. 
+[P]Their additional Career skills are indicative of their job: [B]Gunnery, Perception, Piloting (Planetary),[b] and [B]Ranged (Heavy)[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. With this array of skills, a Bodyguard can operate anything that shoots, keep a good eye on his surroundings, and can handle any planet-bound craft with great aptitude. This, combined with his talent options, makes him potentially perfect as an armed chauffeur [I]or[i] as a heavy weapons emplacement operator. He also makes a resilient soldier.
 
-[P]A Bodyguard will have a rather easy time finding work in the Outer Rim, especially if he doesn't mind looking after the backside of high-ranking criminal scum or corporate operators who are trying to do business without becoming victims. His facility with all kinds of weapons and vehicles make him useful to any number of quasi-legal or criminal operations. 
+[P]A Bodyguard will have a rather easy time finding work in the Outer Rim, especially if he doesn't mind looking after the backside of high-ranking criminal scum or corporate operators who are trying to do business without becoming victims. His facility with all kinds of weapons and vehicles make him useful to any number of quasi-legal or criminal operations.
 
 [P]As part of a group of Player Characters, a Bodyguard is going to be considered more or less a heavy combatant—the guy who stands up front with the biggest gun. However, the combination of skills and talents can be angled towards some different approaches. For example, if there's any kind of Politico or Trader in the group, a Bodyguard may well be there solely for the purpose of keeping that person alive.</Description>
   <Source Page="77">Edge of the Empire Core Rulebook</Source>
@@ -158,7 +158,4 @@
       </Directions>
     </TalentRow>
   </TalentRows>
-  <AddlCareerSkills>
-    <Type />
-  </AddlCareerSkills>
 </Specialization>

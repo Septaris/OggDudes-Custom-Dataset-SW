@@ -149,7 +149,4 @@ Padawans receive [B]Coordination, Knowledge (Education), Mechanics[b], and[B] Vi
       </Directions>
     </TalentRow>
   </TalentRows>
-  <AddlCareerSkills>
-    <Type />
-  </AddlCareerSkills>
 </Specialization>
