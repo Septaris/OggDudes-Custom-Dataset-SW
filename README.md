@@ -2,7 +2,7 @@
 Dataset for OggDude's character generator 2.3.4.0.
 
 Master has a stable version. The 2.2.1.0 branch has the files in it for the previous version.
-The 2.3.4.0 branch has all datasets I have loaded, inclusing some personal ones with images from X-Wing: Alliance. Great game. Great ships. The Develop branch is where I push out fixes.
+The 2.3.4.0 branch has all datasets I have loaded, including some personal ones with images from X-Wing: Alliance. Great game. Great ships. The Develop branch is where I push out fixes.
 
 If the file is downloaded using the "Clone or download" button, and in a zip file, the name will be dataset-master.zip. Github zips up the file using "Repository - Branch" format. 
 

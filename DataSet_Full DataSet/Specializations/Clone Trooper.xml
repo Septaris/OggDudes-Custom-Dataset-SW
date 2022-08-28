@@ -6,7 +6,7 @@
 Standard infantry make up the largest portion to
  	soldiers in almost every army. Their units handle the direct, personal conflict on the surface of every   battlefield, whether that battlefield is on the ground, the sea, or within the confines of a space Because the Clone Troopers—the infantry—represent the front line of the Grand Army of the Republic.  basic level of competency defines the army's capabilities. In order for the army to be able to overcome   foes quickly and effectively, every Clone Trooper be more capable than the rank and file of the Separatists' droid armies.
 </Description>
-  <Source Page="21">Rise of the Separatists</Source>
+  <Source Page="23">Rise of the Separatists</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>GUNN</Key>
@@ -67,7 +67,7 @@ Standard infantry make up the largest portion to
         <Key>ARM</Key>
         <Key>DEADACC</Key>
         <Key>SUPPRFIRE</Key>
-        <Key>BRACIMP</Key>
+        <Key>BRAIMP</Key>
       </Talents>
       <Directions>
         <Direction>
@@ -97,7 +97,7 @@ Standard infantry make up the largest portion to
         <Key>TOUGH</Key>
         <Key>CLANKILL</Key>
         <Key>ENDUR</Key>
-        <Key>BRACSUP</Key>
+        <Key>BRASUP</Key>
       </Talents>
       <Directions>
         <Direction>
@@ -147,7 +147,4 @@ Standard infantry make up the largest portion to
       </Directions>
     </TalentRow>
   </TalentRows>
-  <AddlCareerSkills>
-    <Type />
-  </AddlCareerSkills>
 </Specialization>

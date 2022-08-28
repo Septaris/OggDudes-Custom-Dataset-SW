@@ -158,7 +158,4 @@ Clone troopers were grown on Kamino using the human bounty hunter Jango Fett as 
     </TalentRow>
   </TalentRows>
   <Universal>true</Universal>
-  <AddlCareerSkills>
-    <Type />
-  </AddlCareerSkills>
 </Specialization>

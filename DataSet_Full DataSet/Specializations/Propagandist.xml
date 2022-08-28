@@ -6,9 +6,9 @@
 
 Truth is often a matter of perspective, and Propagandists serve the Rebel Alliance by skewing this perspective in favor of their cause. To the Propagandist, truth is just as much worth pursuing as it is worth manipulating. Whether simply leaking the right facts to shift public opinion or creating outright fabrications to demoralize the enemy, a Propagandist understands the power of perception.
 
-[P]Propagandists gain [B]Charm, Deception, Knowledge (Warfare),[b] and [B]Perception[b] as additional career skills. If this is the character's starting specialization, he may choose two of these skills, gaining one free rank in each without spending starting experience. Propagandists leverage Perception to uncover the truth and use Charm or Deception to spin it to benefit the Rebel Alliance. Some Propagandists focus more on either weaving compelling rhetoric or telling believable lies, while others prefer to gain ranks in Charm and Deception equally, giving them maximum flexibility. 
+[P]Propagandists gain [B]Charm, Deception, Knowledge (Warfare),[b] and [B]Perception[b] as additional career skills. If this is the character's starting specialization, he may choose two of these skills, gaining one free rank in each without spending starting experience. Propagandists leverage Perception to uncover the truth and use Charm or Deception to spin it to benefit the Rebel Alliance. Some Propagandists focus more on either weaving compelling rhetoric or telling believable lies, while others prefer to gain ranks in Charm and Deception equally, giving them maximum flexibility.
 
-[P]Propagandists play an important role in the Galactic Civil War. Even as the battles rage on and above many oppressed worlds, the Rebel Alliance wages an equally important struggle for the support of the galactic citizenry. While the Empire's evil is obvious to most, few possess the courage to stand against such a brutal enemy. Propagandists must sway these people, distributing persuasive information as far and wide as possible, inspiring heroism in everyday citizens. 
+[P]Propagandists play an important role in the Galactic Civil War. Even as the battles rage on and above many oppressed worlds, the Rebel Alliance wages an equally important struggle for the support of the galactic citizenry. While the Empire's evil is obvious to most, few possess the courage to stand against such a brutal enemy. Propagandists must sway these people, distributing persuasive information as far and wide as possible, inspiring heroism in everyday citizens.
 
 [P]Ideally, a Propagandist reveals truths that the Empire would conceal: galactic atrocities, corruption, and the terrible cost of its policies. However, few Propagandists deal strictly in truth as such, more likely distributing misinformation to enrage the oppressed. Criticizing the ethics of such tactics is difficult when they serve the cause so effectively. Propagandists might argue that small lies expose much greater truths that the Empire tries to conceal. For some, news is as much a business as a political pursuit, while for others, propaganda is of paramount importance.
 
@@ -160,7 +160,4 @@ Truth is often a matter of perspective, and Propagandists serve the Rebel Allian
       </Directions>
     </TalentRow>
   </TalentRows>
-  <AddlCareerSkills>
-    <Type />
-  </AddlCareerSkills>
 </Specialization>

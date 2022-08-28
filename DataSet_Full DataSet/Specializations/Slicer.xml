@@ -4,9 +4,9 @@
   <Name>Slicer</Name>
   <Description>[H4]Slicer - Making the Data Flow[h4]
 
-[P]For the Slicer, a computer or datapad is just a puzzle to solve with prizes for doing so. "Slicing" is the term used for the invasive efforts to steal or alter data in a system. With practically the entire galaxy wired to computerized systems, Slicers are extremely valuable people to know, and dangerous to cross. 
+[P]For the Slicer, a computer or datapad is just a puzzle to solve with prizes for doing so. "Slicing" is the term used for the invasive efforts to steal or alter data in a system. With practically the entire galaxy wired to computerized systems, Slicers are extremely valuable people to know, and dangerous to cross.
 
-[P]Slicers naturally tend towards the underworld, yet they are also highly intelligent and knowledgeable. They add these skills to their career skills: [B]Computers, Knowledge (Education), Knowledge (Underworld),[b] and [B]Stealth[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. Their talents mainly focus on making computerized and electronic systems dance to their tune. 
+[P]Slicers naturally tend towards the underworld, yet they are also highly intelligent and knowledgeable. They add these skills to their career skills: [B]Computers, Knowledge (Education), Knowledge (Underworld),[b] and [B]Stealth[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. Their talents mainly focus on making computerized and electronic systems dance to their tune.
 
 [P]Slicers are among the most valued professionals in the Outer Rim, especially to the criminal world. A Slicer's worth, however, is only as good as his reputation; success and loyalty will earn him top credits, while blowing key operations or double-crossing an employer will tend to make his prospects far less attractive.
 
@@ -166,7 +166,4 @@
       </Directions>
     </TalentRow>
   </TalentRows>
-  <AddlCareerSkills>
-    <Type />
-  </AddlCareerSkills>
 </Specialization>

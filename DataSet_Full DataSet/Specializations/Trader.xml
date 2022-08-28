@@ -4,13 +4,13 @@
   <Name>Trader</Name>
   <Description>[H4]Trader - Discovering New Markets[h4]
 
-Those seeking to take what they discover as they explore the Outer Rim and beyond (and turn a serious profit from it) are Traders. For a Trader, a new planet represents nigh-infinite potential for resource exploitation, while a new culture or hidden community is a customer base just begging for his particular talents. 
+Those seeking to take what they discover as they explore the Outer Rim and beyond (and turn a serious profit from it) are Traders. For a Trader, a new planet represents nigh-infinite potential for resource exploitation, while a new culture or hidden community is a customer base just begging for his particular talents.
 
 [P]Traders gain access to the additional Career skills of [B]Deception, Knowledge (Core Worlds), Knowledge (Underworld),[b] and [B]Negotiation[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. Most Traders know how to build connections between the center of civilization and the far reaches, and they are often educated folks who bring knowledge and proficiency in economics, sociology, and politics with them.
 
-[P]Traders are exceptionally adept at commerce, naturally; they know how to find what is needed, and can usually bypass the kinds of restrictions that stymie others. At the same time, Traders can get the most out of a transaction, as well as talk themselves into or out of almost anything. Traders are strategic thinkers, planning ahead for contingencies. They are also strong-willed, making them excellent companions in a crisis. 
+[P]Traders are exceptionally adept at commerce, naturally; they know how to find what is needed, and can usually bypass the kinds of restrictions that stymie others. At the same time, Traders can get the most out of a transaction, as well as talk themselves into or out of almost anything. Traders are strategic thinkers, planning ahead for contingencies. They are also strong-willed, making them excellent companions in a crisis.
 
-[P]A Trader played in a campaign will likely serve as the group's public face, though not necessarily as the leader. He will be one of the best first choices for interacting with public officials, money men, and anyone with whom the group seeks to do business. When it comes to finding and buying something that the team needs, or fencing something that they wish to get rid of for a profit, he is invaluable. 
+[P]A Trader played in a campaign will likely serve as the group's public face, though not necessarily as the leader. He will be one of the best first choices for interacting with public officials, money men, and anyone with whom the group seeks to do business. When it comes to finding and buying something that the team needs, or fencing something that they wish to get rid of for a profit, he is invaluable.
 </Description>
   <Source Page="73">Edge of the Empire Core Rulebook</Source>
   <Custom>DescOnly</Custom>
@@ -152,7 +152,4 @@ Those seeking to take what they discover as they explore the Outer Rim and beyon
       </Directions>
     </TalentRow>
   </TalentRows>
-  <AddlCareerSkills>
-    <Type />
-  </AddlCareerSkills>
 </Specialization>

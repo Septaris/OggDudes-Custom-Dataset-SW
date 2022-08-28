@@ -5,11 +5,11 @@
   <Description>
     [H4]Commodore - Capital Command[h4]
 
-Each and every capital ship the Alliance has is valuable, which means that each Commodore given one to command has earned tremendous respect and trust. Even those Commodores who are not actually captains of particular ships, instead operating in another key support role, have demonstrated great gifts for strategic thinking and resource management on a large scale. 
+Each and every capital ship the Alliance has is valuable, which means that each Commodore given one to command has earned tremendous respect and trust. Even those Commodores who are not actually captains of particular ships, instead operating in another key support role, have demonstrated great gifts for strategic thinking and resource management on a large scale.
 
-[P]Commodores add [B]Astrogation, Computers, Knowledge (Education),[b] and [B]Knowledge (Outer Rim)[b] to their career skills. If this is the first specialization for a PC, two of these four skills gain a free rank when they are chosen. In addition to maintaining extraordinary calm in stressful situations and providing strong guidance to those around him, a Commodore is best served by understanding the incredibly technical aspects of navigating the stars and managing the crucial resources of his ship. 
+[P]Commodores add [B]Astrogation, Computers, Knowledge (Education),[b] and [B]Knowledge (Outer Rim)[b] to their career skills. If this is the first specialization for a PC, two of these four skills gain a free rank when they are chosen. In addition to maintaining extraordinary calm in stressful situations and providing strong guidance to those around him, a Commodore is best served by understanding the incredibly technical aspects of navigating the stars and managing the crucial resources of his ship.
 
-[P]Commodores tend to spend very little time on any planet, having chosen a path placing them firmly in the stars with hard ship decks under their feet. They relish both the daily challenge of keeping a ship and its crew operating at peak capacity and facing the strategic challenges of capital ship engagements. The greatest Commodores find themselves managing not just a single ship, but a fleet of them, matching wits against their enemy counterparts in a huge game with very deadly consequences for each and every piece in play. 
+[P]Commodores tend to spend very little time on any planet, having chosen a path placing them firmly in the stars with hard ship decks under their feet. They relish both the daily challenge of keeping a ship and its crew operating at peak capacity and facing the strategic challenges of capital ship engagements. The greatest Commodores find themselves managing not just a single ship, but a fleet of them, matching wits against their enemy counterparts in a huge game with very deadly consequences for each and every piece in play.
 
 [P]Effective Commodores are even more precious than Pilots for the Alliance Navy. Anyone showing a capacity for the role likely finds himself groomed heavily for eventual command. The Rebellion faces the might of the Imperial Navy with but a fraction of the tonnage in capital ships, so each one must be commanded by the absolute best. </Description>
   <Source Page="73">Age of Rebellion Core Rulebook</Source>
@@ -159,7 +159,4 @@ Each and every capital ship the Alliance has is valuable, which means that each 
       </Directions>
     </TalentRow>
   </TalentRows>
-  <AddlCareerSkills>
-    <Type />
-  </AddlCareerSkills>
 </Specialization>

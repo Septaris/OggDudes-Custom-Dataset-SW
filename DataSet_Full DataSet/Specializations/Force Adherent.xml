@@ -153,7 +153,4 @@ Force Adherents worship the Force and accept its influence over the galaxy. The 
     </TalentRow>
   </TalentRows>
   <Universal>true</Universal>
-  <AddlCareerSkills>
-    <Type />
-  </AddlCareerSkills>
 </Specialization>
