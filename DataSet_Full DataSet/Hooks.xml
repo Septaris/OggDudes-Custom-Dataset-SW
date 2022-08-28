@@ -246,7 +246,7 @@ Some characters see their strange abilities as a sign that they are destined for
     <Name>Underworld Tech Expert</Name>
     <Description>
       [H4]Underworld Tech Expert[h4]
-In the [B]Edge of The Empire[b], it can be hard to avoid occasionally interacting with criminal enterprises and underworld culture. Many Technicians support and are supported by shady characters, if not by outright criminals. Specialised underwolrd techs can be highly prized when they fulfull a critical role in a larger organisation, bu the average Mechanic or Droid Tech is sometimes regarded as more expendable than a reliable enforcer. The character might be trying to escape difficult decisions from the past or seeking to advance within a particular criminal organisation.</Description>
+In the [B]Edge of The Empire[b], it can be hard to avoid occasionally interacting with criminal enterprises and underworld culture. Many Technicians support and are supported by shady characters, if not by outright criminals. Specialized underwolrd techs can be highly prized when they fulfill a critical role in a larger organization, bu the average Mechanic or Droid Tech is sometimes regarded as more expendable than a reliable enforcer. The character might be trying to escape difficult decisions from the past or seeking to advance within a particular criminal organization.</Description>
     <Source Page="16">Special Modifications</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -264,7 +264,7 @@ Some characters take to tinkering as children or as adolescents, displaying a pr
     <Name>Tech Designer</Name>
     <Description>
       [H4]Tech Designer[h4]
-Some Technicians believe that no matter what problem a being faces, the answer always lies in building a better solution, If a starship engine is powerful, it can be made more compact. If a cybernetic amr is as precise as an organic one, it can be made even more exact. Technology transforms the galazy, and those at the cutting edge of design have the power to create a future in their own image.</Description>
+Some Technicians believe that no matter what problem a being faces, the answer always lies in building a better solution, If a starship engine is powerful, it can be made more compact. If a cybernetic arm is as precise as an organic one, it can be made even more exact. Technology transforms the galaxy, and those at the cutting edge of design have the power to create a future in their own image.</Description>
     <Source Page="15">Special Modifications</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -273,7 +273,7 @@ Some Technicians believe that no matter what problem a being faces, the answer a
     <Name>Antiquarian</Name>
     <Description>
       [H4]Antiquarian[h4]
-Technology often seems an inherently progressive idea, and to many people it represents only efforts ot buld and improve upon the things of th past. However, some Technicians are actually deeply engaged in the past. The galaxy is unfathomably ancient, and over countless millenia, thousands of species have lived and discovered new ways to transform their environments to their needs. At first glance, manufacturing techniques used only in a single community on a backwater world might seem less advanced than those used in a vast starship constuction facility. However, these unique methods may produce results that are not directly comparable, or may even perform certain tasks better than their "modern" counterparts. The metallurgy of some societies whose members have never left their homeworlds have been found to surpass the industrial standards used to fabricate starship hulls due to the specialized techniques used by these enclaves. Other cultures have found inventive solutions to problems the wider galaxy never even thought to address, from creative energy solusions in absence of traditional fuels, to esoteric weapons that function on principles that still evade even the sharpest researchers and academics.
+Technology often seems an inherently progressive idea, and to many people it represents only efforts to build and improve upon the things of th past. However, some Technicians are actually deeply engaged in the past. The galaxy is unfathomably ancient, and over countless millennia, thousands of species have lived and discovered new ways to transform their environments to their needs. At first glance, manufacturing techniques used only in a single community on a backwater world might seem less advanced than those used in a vast starship construction facility. However, these unique methods may produce results that are not directly comparable, or may even perform certain tasks better than their "modern" counterparts. The metallurgy of some societies whose members have never left their homeworlds have been found to surpass the industrial standards used to fabricate starship hulls due to the specialized techniques used by these enclaves. Other cultures have found inventive solutions to problems the wider galaxy never even thought to address, from creative energy solutions in absence of traditional fuels, to esoteric weapons that function on principles that still evade even the sharpest researchers and academics.
 </Description>
     <Source Page="13">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -326,7 +326,7 @@ their former masters.
     <Name>Citizen Soldier</Name>
     <Description>
       [H4]Citizen Soldier[h4]
-Citzen soldiers are commoners from across the galaxy who fight to protect their families, their planets and their people. Though many such individuals serve in teh ranks of the Rebel Alliance only a handful reveal themselves to be exemplary leaders, especially in times of freat strife. For these people, the Rebel Alliance is a temporary but absolute obligation; the only things that might end their service are victory or death.</Description>
+Citzen soldiers are commoners from across the galaxy who fight to protect their families, their planets and their people. Though many such individuals serve in the ranks of the Rebel Alliance only a handful reveal themselves to be exemplary leaders, especially in times of great strife. For these people, the Rebel Alliance is a temporary but absolute obligation; the only things that might end their service are victory or death.</Description>
     <Source Page="14">Lead by Example</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -371,7 +371,7 @@ eagerness for any life that gets them offworld.</Description>
     <Name>Laborer</Name>
     <Description>
       [H4]Laborer[h4]
-Laborers start off in menial occupations essential but less-valued skills and often involve repetitive, physical work. They often suffer economic injustices on the lower rung of the socioeconomic ladder. Labor leaders fit the Activist background better, so this background often reflects those who grew up in humbler circumstances. a laborer's strugg;es can be about moral corruption but can also include fighting against despair and drudgery.</Description>
+Laborers start off in menial occupations essential but less-valued skills and often involve repetitive, physical work. They often suffer economic injustices on the lower rung of the socioeconomic ladder. Labor leaders fit the Activist background better, so this background often reflects those who grew up in humbler circumstances. a laborer's struggles can be about moral corruption but can also include fighting against despair and drudgery.</Description>
     <Source Page="13">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -380,7 +380,7 @@ Laborers start off in menial occupations essential but less-valued skills and of
     <Name>Refugee</Name>
     <Description>
       [H4]Refugee[h4]
-Refugees have escaped violence, starvation, and persecution only to face similar problems in their new home. In some cases, cities are unprepared to handle an influx of refugees and have no social services set up to accommodate them. In extreme instances, governments seperate refugees from the rest of the population and cut them off from economic opportunities. On other worlds, differences in culture create tenrions among the populations, and refugees face violence from the citizenry rahter than the government.</Description>
+Refugees have escaped violence, starvation, and persecution only to face similar problems in their new home. In some cases, cities are unprepared to handle an influx of refugees and have no social services set up to accommodate them. In extreme instances, governments separate refugees from the rest of the population and cut them off from economic opportunities. On other worlds, differences in culture create tensions among the populations, and refugees face violence from the citizenry rather than the government.</Description>
     <Source Page="14">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -389,7 +389,7 @@ Refugees have escaped violence, starvation, and persecution only to face similar
     <Name>Official</Name>
     <Description>
       [H4]Official[h4]
-Officials once worked in the system, either in the local bureaucracy, law enforcement, a religious organization, or the Empire itself. From their chairs and desks, they had access to those in power, but ironically, they had  little power themselves, being cogs in a machine built of procedures, red tape, and calcified culture. In an organization hostile to Force users, the official's title became a collar, and the positon a leash, forcing the official to abandon this rigid life if the pursuit of something more meaningful is desired.</Description>
+Officials once worked in the system, either in the local bureaucracy, law enforcement, a religious organization, or the Empire itself. From their chairs and desks, they had access to those in power, but ironically, they had  little power themselves, being cogs in a machine built of procedures, red tape, and calcified culture. In an organization hostile to Force users, the official's title became a collar, and the position a leash, forcing the official to abandon this rigid life if the pursuit of something more meaningful is desired.</Description>
     <Source Page="14">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -398,7 +398,7 @@ Officials once worked in the system, either in the local bureaucracy, law enforc
     <Name>Aristocrat</Name>
     <Description>
       [H4]Aristocrat[h4]
-Aristocrats have (or had) money and perhaps a title. They may belong to an actual aristocracy, come from moneyed families or bear historic names that grant them privileges, even if only token privileges. Somtimes these privileges oppress another group. Like elected or appointed officials, aristocrats are bolstered by their position and hampered by the conservatism of the system it is part of. In this case, cultural pressures rather than bureaucratic ones maintain the status quo. Sentinels with this background may still have family and friend who search for them, providing a resource, a source of conflict, and an emotional tie that enemies might exploit.</Description>
+Aristocrats have (or had) money and perhaps a title. They may belong to an actual aristocracy, come from moneyed families or bear historic names that grant them privileges, even if only token privileges. Sometimes these privileges oppress another group. Like elected or appointed officials, aristocrats are bolstered by their position and hampered by the conservatism of the system it is part of. In this case, cultural pressures rather than bureaucratic ones maintain the status quo. Sentinels with this background may still have family and friend who search for them, providing a resource, a source of conflict, and an emotional tie that enemies might exploit.</Description>
     <Source Page="11">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -407,7 +407,7 @@ Aristocrats have (or had) money and perhaps a title. They may belong to an actua
     <Name>Gang Leader</Name>
     <Description>
       [H4]Gang Leader[h4]
-Gang leaders don't always organize their groups purely for violence. Some toughs gather together to protect themselves and support each other. Other gangs mobilize to become the unofficial police of a neighborhood, espeically in places where law enforcement refuses to patrol. Gangs are sometimes a symptom of a city suffering from the disease of an injustice, be it poverty or local persecution. They are only as violent and corrupt as their leaders, though, and those led by Sentinels might be the best forces of good in a city.</Description>
+Gang leaders don't always organize their groups purely for violence. Some toughs gather together to protect themselves and support each other. Other gangs mobilize to become the unofficial police of a neighborhood, especially in places where law enforcement refuses to patrol. Gangs are sometimes a symptom of a city suffering from the disease of an injustice, be it poverty or local persecution. They are only as violent and corrupt as their leaders, though, and those led by Sentinels might be the best forces of good in a city.</Description>
     <Source Page="12">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -416,7 +416,7 @@ Gang leaders don't always organize their groups purely for violence. Some toughs
     <Name>Recluse</Name>
     <Description>
       [H4]Recluse[h4]
-Not all Seekers avoid the centres of galactic activity because they are pursuing particular goals or need to be on the run. For some, dwelling on the fringes of the galaxy is all they have ever known. Their paths may eventually lead them into contact with wider society but they bear the indelible imprint of their origins as outsiders. These Seekers may have come from a society largely undiscovered by other species, or they may have simply been born into a remote area that recieves few visitors. In rare cases, they might possibly be the descendants of other Force users, who fled the Imperial purge or even earlier calamities, and have grown up deliberately cut off from the outside world.</Description>
+Not all Seekers avoid the centers of galactic activity because they are pursuing particular goals or need to be on the run. For some, dwelling on the fringes of the galaxy is all they have ever known. Their paths may eventually lead them into contact with wider society but they bear the indelible imprint of their origins as outsiders. These Seekers may have come from a society largely undiscovered by other species, or they may have simply been born into a remote area that receives few visitors. In rare cases, they might possibly be the descendants of other Force users, who fled the Imperial purge or even earlier calamities, and have grown up deliberately cut off from the outside world.</Description>
     <Source Page="14">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -425,8 +425,8 @@ Not all Seekers avoid the centres of galactic activity because they are pursuing
     <Name>Exile</Name>
     <Description>
       [H4]Exile[h4]
-While many Seekers choose their paths, some are set upon them by events beyond their control. Whether they are cast adrift by the will of the Force or just cruel chance is difficult to say, but these new circumstances demeand that Seekers adapt quickly. They might be constantly on the run from the past they left behind, dodging bounty hunters, Imperials, or even their own family and fromer friends. Alternatively, these characters might simply be cut off from what was once their home, unable to return becasue of the events that precipitated their departure.
-[P]Although most exiles long for their past life to some degree. This longing is rarely more than bittersweet. By leaving the past behind, they have freed themselves from what once was and have plunged into a crucible of new adventures that call with an intesity their old life rarely offered. Any one might have to reluctantly leave their home, but the best Seekers are those who leave and never look back.</Description>
+While many Seekers choose their paths, some are set upon them by events beyond their control. Whether they are cast adrift by the will of the Force or just cruel chance is difficult to say, but these new circumstances demand that Seekers adapt quickly. They might be constantly on the run from the past they left behind, dodging bounty hunters, Imperials, or even their own family and former friends. Alternatively, these characters might simply be cut off from what was once their home, unable to return because of the events that precipitated their departure.
+[P]Although most exiles long for their past life to some degree. This longing is rarely more than bittersweet. By leaving the past behind, they have freed themselves from what once was and have plunged into a crucible of new adventures that call with an intensity their old life rarely offered. Any one might have to reluctantly leave their home, but the best Seekers are those who leave and never look back.</Description>
     <Source Page="12">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -435,8 +435,8 @@ While many Seekers choose their paths, some are set upon them by events beyond t
     <Name>Survivor</Name>
     <Description>
       [H4]Survivor[h4]
-The lives of Seekers can be about more than just establishing their own path. Some Seekers find themselves directly in the paths of others, whether caight up in galactic turmoil, hunted by deadly predators, or always being in the wrong place at the wrong time. For these intrepid soulds their path is about taking everything the galaxy can throw their way and moving onward in spite of it.
-[P]These natural survivors might view themselves as unlucky, or they might be too stubborn to admit any alternative route. A rare few even seek out increasingly difficult challenges through whcih to prove themselves. Whatever the reason for their trials their journey forward forges them into some of the toughest and most determined individuals in the galaxy.</Description>
+The lives of Seekers can be about more than just establishing their own path. Some Seekers find themselves directly in the paths of others, whether caught up in galactic turmoil, hunted by deadly predators, or always being in the wrong place at the wrong time. For these intrepid souls their path is about taking everything the galaxy can throw their way and moving onward in spite of it.
+[P]These natural survivors might view themselves as unlucky, or they might be too stubborn to admit any alternative route. A rare few even seek out increasingly difficult challenges through which to prove themselves. Whatever the reason for their trials their journey forward forges them into some of the toughest and most determined individuals in the galaxy.</Description>
     <Source Page="14">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -445,7 +445,7 @@ The lives of Seekers can be about more than just establishing their own path. So
     <Name>Activist</Name>
     <Description>
       [H4]Activist[h4]
-Many Sentinels start off as activists in some form of another. Even unawaked to the Force, activists find themselves fighting injustice through social and legal pressure. They spread awareness, organize bodies of experts, and push for new laws. on planets that have (or claim to have) progressive rights and equalities, activistswork out in the open—or at least not in hiding. On more oppressive planets, activists work queitly in the shadows but are no less effective. Those who fall to the dark side give in to their rage and desperation, their activism turning destructive for desctruction's sake or even becoming murderous in the name of justice.</Description>
+Many Sentinels start off as activists in some form of another. Even unawaked to the Force, activists find themselves fighting injustice through social and legal pressure. They spread awareness, organize bodies of experts, and push for new laws. on planets that have (or claim to have) progressive rights and equities, activists work out in the open—or at least not in hiding. On more oppressive planets, activists work quietly in the shadows but are no less effective. Those who fall to the dark side give in to their rage and desperation, their activism turning destructive for destruction's sake or even becoming murderous in the name of justice.</Description>
     <Source Page="10">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -454,7 +454,7 @@ Many Sentinels start off as activists in some form of another. Even unawaked to 
     <Name>Quester</Name>
     <Description>
       [H4]Quester[h4]
-Sometimes, Seekers are not content to bide their time in the fringes of society or to follow the guidence of the Force to hidden wisdom. They might do those things out of necessity, but more often than not, Seekers set their own goals establishing new trails for thei own reasons. Such Seekers, find a reason to go out into the galaxy, whether to wilderness, cityscape, or deep space areas, and track down a new secret, treasure, or target. Then, having found what they were looking for, they set their sights on a new goal. Questing Seekers are always in motion, pushing the boundaries of their lives and the galaxy alike. These Seeker aren't easily defined by their pasts, but rather by the missions they seek out new challenges and the methods by which they pursue them.</Description>
+Sometimes, Seekers are not content to bide their time in the fringes of society or to follow the guidance of the Force to hidden wisdom. They might do those things out of necessity, but more often than not, Seekers set their own goals establishing new trails for their own reasons. Such Seekers, find a reason to go out into the galaxy, whether to wilderness, cityscape, or deep space areas, and track down a new secret, treasure, or target. Then, having found what they were looking for, they set their sights on a new goal. Questing Seekers are always in motion, pushing the boundaries of their lives and the galaxy alike. These Seeker aren't easily defined by their pasts, but rather by the missions they seek out new challenges and the methods by which they pursue them.</Description>
     <Source Page="13">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -463,7 +463,7 @@ Sometimes, Seekers are not content to bide their time in the fringes of society 
     <Name>Thrill of the Hunt</Name>
     <Description>
       [H4]Thrill of the Hunt[h4]
-The hunting of sentient beings is said by some to be the most thrilling and treacherous challenge in the galaxy. Though some beasts are more powerful, faster, or more savage than any sentient creature, few kinds of prey are more cunning. For most bounty hunters, the pursuit of targets from world to world and sector to secotr is simply a means to an end. For some, however the hunt is an end unto intself, and the payout for collecting the bounty is simply an added bonus.</Description>
+The hunting of sentient beings is said by some to be the most thrilling and treacherous challenge in the galaxy. Though some beasts are more powerful, faster, or more savage than any sentient creature, few kinds of prey are more cunning. For most bounty hunters, the pursuit of targets from world to world and sector to sector is simply a means to an end. For some, however the hunt is an end unto itself, and the payout for collecting the bounty is simply an added bonus.</Description>
     <Source Page="16">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -481,7 +481,7 @@ Bounty hunters are, at their core, exceedingly mercenary. While many bounty hunt
     <Name>Lawbringer</Name>
     <Description>
       [H4]Lawbringer[h4]
-Law and order is not typically the first thing that comes to mind when considering the bounty hunting trade. Most galactic citzens, when they consider bounty hunters at all, imagine freewheeling loose cannons who skirt the edge of the law, useful only in desperate situations to capture difficult fugitives. While this is largely the case, there are some among the profession for whom  the rule of law is sacrosanct. These hunters consider themselves extensions of legitimate law enforcement or, in some cases. agents of justice in an unjust galaxy.</Description>
+Law and order is not typically the first thing that comes to mind when considering the bounty hunting trade. Most galactic citizens, when they consider bounty hunters at all, imagine freewheeling loose cannons who skirt the edge of the law, useful only in desperate situations to capture difficult fugitives. While this is largely the case, there are some among the profession for whom  the rule of law is sacrosanct. These hunters consider themselves extensions of legitimate law enforcement or, in some cases. agents of justice in an unjust galaxy.</Description>
     <Source Page="16">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -807,7 +807,7 @@ Knowledge can be a dangerous thing and rogue scholars know this. Emperor Palpati
     <Description>
       [H4]Failed Initiate[h4]
 Not all who served in the now-destroyed Jedi Order rose to the rank of Knight. In fact, a great many did not even achieve the status of Padawan. Whether their connection to the Force was judged too weak, they did not possess the maturity to become Padawans when the time came, or no Jedi Knight would accept them into their apprenticeship, they never rose beyond the rank of Initiate. While many of these failed initiates entered the Jedi Service Corps, where they could serve as aides to the order, some simply turned their backs on the organization they felt had abandoned them. With the Empire now ruling the galaxy and the Jedi Knights exterminated, the failed initiates travel the galaxy, finding their own path in the Force.
-[P]Other failed initiates received training in traditions outside the Jedi Order, taking lessons from hidden mentors and ecentric wizards before either striking out on their own or being forced into the life of a fugitive by the Galactic Empire or other organizations. They have a great potential, but their lack of understanding may place them on a dangerous path.</Description>
+[P]Other failed initiates received training in traditions outside the Jedi Order, taking lessons from hidden mentors and eccentric wizards before either striking out on their own or being forced into the life of a fugitive by the Galactic Empire or other organizations. They have a great potential, but their lack of understanding may place them on a dangerous path.</Description>
     <Source Page="11">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -824,7 +824,7 @@ The Force grants people thoughts, visions, and emotions that some can't process,
     <Name>Augurs</Name>
     <Description>[H4]Augurs[h4]
 Augurs served a straightforward function: they exposed the truth to those who listened. They could have been anything from a fortune-teller to a psychologist, offering insights on what people should do, but also revealing hidden truths to help people make their own decisions. Some augurs received academic or institutionalized training, while others simply had an uncanny intuition (such as a village elder or community leader). Most were content with this role. The few who had the humility to delve deeper discovered the Force as the source of their wisdom.
-[P]Augurs who fell to the dark side encouraged their victims' darkest desires and instincts, enhancing their anger and pushing them toward violence. These augurs sometimes inflicted harm on others, mistaking pain, deprivaton. and violence for a means to understanding.</Description>
+[P]Augurs who fell to the dark side encouraged their victims' darkest desires and instincts, enhancing their anger and pushing them toward violence. These augurs sometimes inflicted harm on others, mistaking pain, deprivation. and violence for a means to understanding.</Description>
     <Source Page="12">Unlimited Power</Source>
     <Custom>AddedItem</Custom>
   </Hook>
@@ -916,7 +916,7 @@ Freerunners turn movement into a highly skilled and specialized art form, using 
     <Name>Law Enforcement Agent</Name>
     <Description>[H4]Law Enforcement Agent[h4]
 Plenty of current and former law enforcement agents dislike Imperial laws and enforcement methods. Personnel who observe or are forced to participate in the Empire’s oppressive operations may become sympathizers or join the Rebellion outrights. Officers and detectives have many skills suitable for a Spy career.
-[P]Detectives, investigators, and profilers use deductive reasoning and similar skills to analyse new information. These individuals might act as field agents, or they may review incoming data. Patrol officers might have a combination of investigation and fighting skills.
+[P]Detectives, investigators, and profilers use deductive reasoning and similar skills to analyze new information. These individuals might act as field agents, or they may review incoming data. Patrol officers might have a combination of investigation and fighting skills.
 [P]Law officer training depends largely on earlier experience, ability, and residence. Agents on Core Worlds usually receive high-quality training, and are well-versed in Imperial laws, with access to excellent resources and support staff. Agents from less populated or remote worlds are likely to have less training, staff, and resources and depend more on their own skills and experience.
 [P]Officers on non-Imperial or more lawless worlds are focused on more regional laws and politics. They are often more concerned with keeping the peace than with following the letter of the law.
 [P]These elements impact how law enforcement agents become spies and where best to deploy their skills. Many have extensive knowledge of, and contacts with, underworld elements and criminal syndicates. High-ranking agents know officials of similar standing, providing potential channels for unofficial information.</Description>
@@ -959,7 +959,7 @@ Spies are frequently after information that isn’t simply stored in Imperial da
     <Key>REPOSPECIALIST</Key>
     <Name>Repo Specialist</Name>
     <Description>[H4]Repo Specialist[h4]
-Not all Spy recruits come from honourable professions. Many already operate in the gray regions of galactic society. One such profession is the starship repossession specialist, more commonly known as repo specialist. Some work for legitimate corporations under Imperial licenses and laws. Most, though, work for shady third-party resellers, used starship lots, or even criminal syndicates. In any case, repo specialists use a combination of bounty hunting, burglary, intimidation, and stealth to find and repossess their target. While they might have the legal authority to do so, their techniques work for either side of the law.
+Not all Spy recruits come from Honorable professions. Many already operate in the gray regions of galactic society. One such profession is the starship repossession specialist, more commonly known as repo specialist. Some work for legitimate corporations under Imperial licenses and laws. Most, though, work for shady third-party resellers, used starship lots, or even criminal syndicates. In any case, repo specialists use a combination of bounty hunting, burglary, intimidation, and stealth to find and repossess their target. While they might have the legal authority to do so, their techniques work for either side of the law.
 [P]A tremendous range of security systems is employed in the protection of starships and vehicles. Some vehicles have nothing at all or only require a basic key or code to access and start. Others have advanced systems with sensors for detecting innumerable methods of attack. While high-end and expensive craft can be expected to have many layers or protection, even relatively mundane or innocuous-looking ships could be so equipped, if the owner is rich and paranoid enough. Combined with ray shields, traps, or weapons, these security systems can be dangerous and even lethal to repo specialists.
 [P]Of course, none of that matters if the repo specialist cannot find the ship to begin with. While repo specialists usually get some sort of address or suspected location from their employer, vehicle owners behind in their payments are unlikely to remain in the area if they suspect someone is after them. Additionally, hyperspace-capable starships could jump to almost anywhere in the galaxy, making discovery efforts even more difficult.</Description>
     <Source Page="15">Cyphers and Masks</Source>

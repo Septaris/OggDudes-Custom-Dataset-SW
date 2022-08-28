@@ -1620,7 +1620,7 @@ The armor utilized by Jedi Padawans in training was far from functional, but it 
     <Name>Cloaking Coat</Name>
     <Description>
       [H3]Cloaking Coat[h3]
-While spies, thieves and saboteurs favor more expensive personal stealth fields and similar devices, a skilled Slicer typically considers staying unnoticed by sensors and probes to be the most important part of breaking through security. After all, if the slicer runs into organic guards in person, something has already gone dramatically wrong elsewhere in the planned operation or heist. To avoid automated detection measures, amny Slicers invest in or construct cloaking coats. These heavy, full-body suits are outfitted with jamming suites designed to mask the wearer's presence from detection. A cloaking coat's sensors and automated systems keep the wearer hidden by constantly broadcasting an obscuring cloud of junk data. this specialized array does nothing to stop visual recognition but it can baffle almost any scanner. A skilled Sliver can even modify the clouding signal it broadcasts on the fly to confuse droid brains into disregarding the wearer as backgroud data rather than as a being of any note.
+While spies, thieves and saboteurs favor more expensive personal stealth fields and similar devices, a skilled Slicer typically considers staying unnoticed by sensors and probes to be the most important part of breaking through security. After all, if the slicer runs into organic guards in person, something has already gone dramatically wrong elsewhere in the planned operation or heist. To avoid automated detection measures, many Slicers invest in or construct cloaking coats. These heavy, full-body suits are outfitted with jamming suites designed to mask the wearer's presence from detection. A cloaking coat's sensors and automated systems keep the wearer hidden by constantly broadcasting an obscuring cloud of junk data. this specialized array does nothing to stop visual recognition but it can baffle almost any scanner. A skilled Sliver can even modify the clouding signal it broadcasts on the fly to confuse droid brains into disregarding the wearer as background data rather than as a being of any note.
 
 [P]Upgrade the difficulty of all checks to detect an individual wearing a cloaking coat using sensors or electronic forms of detection twice. Droids with an Intellect characteristic lower than the character's ranks in the Computers skill are also affected in the same way when trying to detect the character.
     </Description>
@@ -1702,8 +1702,8 @@ The latest suit in Merr-Sonn's N-series armor for combat engineers has broken wi
     <Name>P-14 Hazardous Industry Suit</Name>
     <Description>
       [H3]SoroSuub P-14 Hazardous Industry Suit[h3]
-    Hazardous industry suits, common from manufacturers accross the galaxy, allow technical experts and laborers alike to deal with workshop or factory conditions dangerous to most living species. Some models, like the Soro-Suub P-14, are heavily reinforced enough to even provide limited protection against a blaster bolt, abd they all feature extraordinary protection against heat, radiation, fumes and other perils of working with damaged or poorly maintained machinery. A hazardous industry suit creates an environmental seal when the helmet is worn and is good for up to eight hours of protection from hostile atmosphers, deadly radiation or even direct exposure to the void. Finally, the suit's special chemical coating insulates the wearer from burns and shocks. However, their extraordinary protection comes at the cost of mobility, as hazardous industry suits are extremely bulky, with barely more than the range of motion needed to wield a hydrospanner effectively.
-[P]The hazardous industry suit counts as a breath mask (see page 179 of the [B]Edge of The Empire Core Rulebook[b]). Further, the wearer adds [BO][BO] to Resilience checks to resist heat, cold, radiatin and other hostile environmental conditions. The wearer does not suffer the effects of the Burn or Disorient item qualities. When the wearer suffers strain in order to take an extra maneuver, he suffers 1 additional strain.
+    Hazardous industry suits, common from manufacturers across the galaxy, allow technical experts and laborers alike to deal with workshop or factory conditions dangerous to most living species. Some models, like the Soro-Suub P-14, are heavily reinforced enough to even provide limited protection against a blaster bolt, abd they all feature extraordinary protection against heat, radiation, fumes and other perils of working with damaged or poorly maintained machinery. A hazardous industry suit creates an environmental seal when the helmet is worn and is good for up to eight hours of protection from hostile atmospheres, deadly radiation or even direct exposure to the void. Finally, the suit's special chemical coating insulates the wearer from burns and shocks. However, their extraordinary protection comes at the cost of mobility, as hazardous industry suits are extremely bulky, with barely more than the range of motion needed to wield a hydrospanner effectively.
+[P]The hazardous industry suit counts as a breath mask (see page 179 of the [B]Edge of The Empire Core Rulebook[b]). Further, the wearer adds [BO][BO] to Resilience checks to resist heat, cold, radiation and other hostile environmental conditions. The wearer does not suffer the effects of the Burn or Disorient item qualities. When the wearer suffers strain in order to take an extra maneuver, he suffers 1 additional strain.
     </Description>
     <Source Page="48">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -1743,7 +1743,7 @@ The latest suit in Merr-Sonn's N-series armor for combat engineers has broken wi
     <Description>
       [H3]Rebel Heavy Battle Armor[h3]
 Most Alliance field tactics focus on hit-and-fade strikes, sabotage and denial operations, but sometimes the Rebellion has no choice but to stand and fight against Imperial forces. Unfortunately, the Rebellion lacks the manpower and weapons to dominate the Empire in field warfare. Rebel infantry uses heavy battle armor to help ensure their survival when outmanned and outgunned by superior Imperial numbers.
-[P]Rebel heavy battle armor is a combination of composites, laminate and armored clothing that provides significant overall protection. The base layer is made of armorweave cloth to disspate blaster bolts and plastoid segments over top to protect from fragmentation and blunt force. The combination of materials provides heavy protection while allowing freedom of movement, unlike most full laminate battle suits.
+[P]Rebel heavy battle armor is a combination of composites, laminate and armored clothing that provides significant overall protection. The base layer is made of armorweave cloth to dissipate blaster bolts and plastoid segments over top to protect from fragmentation and blunt force. The combination of materials provides heavy protection while allowing freedom of movement, unlike most full laminate battle suits.
 [P]Rebel heavy battle armor is equipped with helmet-fitted breath mask and respirator (see page 195 of the [B]Age of Rebellion [b] Core Rulebook).
     </Description>
     <Source Page="50">Forged in Battle</Source>
@@ -1880,8 +1880,8 @@ about unnoticed by sensors and sentries.
     <Name>Survivalist Armor</Name>
     <Description>
       [H3]Creshaldyne Survivalist Armor[h3]
-Creshaldyne Industries is known throughout the galaxy as a purveyor of finely made working clothes for hunters, scouts and others who live in frontier settings. It offers multiple lines of clothing and armor in a number of proprietry colors and camouflage patterns, as well as camping and hunting gear for the discerning buyer. One of the company's newer offerings in the Survivalist line of personal armor found in police forces and paramilitary organizations througout the galaxy, the Survivalist line is lightweight and hard wearing and performs well in nearly every environment.
-[P]a suit of Survivalist armor provides whole-body protection, with reinforcement patches at the elbows, knees and shoulders that combines a collection of pouches of various sizes with attachments for external bags, backpacks and sustems to aid with its load-carrying capabilities.
+Creshaldyne Industries is known throughout the galaxy as a purveyor of finely made working clothes for hunters, scouts and others who live in frontier settings. It offers multiple lines of clothing and armor in a number of proprietary colors and camouflage patterns, as well as camping and hunting gear for the discerning buyer. One of the company's newer offerings in the Survivalist line of personal armor found in police forces and paramilitary organizations throughout the galaxy, the Survivalist line is lightweight and hard wearing and performs well in nearly every environment.
+[P]a suit of Survivalist armor provides whole-body protection, with reinforcement patches at the elbows, knees and shoulders that combines a collection of pouches of various sizes with attachments for external bags, backpacks and systems to aid with its load-carrying capabilities.
 [P]Wearing a suit of Survivalist armor increases the wearer's encumbrance threshold by 1.
 </Description>
     <Source Page="45">Savage Spirits</Source>
@@ -1906,7 +1906,7 @@ Creshaldyne Industries is known throughout the galaxy as a purveyor of finely ma
     <Name>Chitin Armor</Name>
     <Description>
       [H3]Chitin Armor[h3]
-Chitin armor is usually made by hand from the husks of various giant insect species found throughout, the galaxy. Essentially a poor poerson's composite armor, chitin is made by working insect carapaces into protective plates and attaching them to a flexible backing. This is typically standard cloth but occasionally more advanced materials like mylamesh or the balistic cloth used in armored bodysuits is used. Each suit of chitin armor is unique. Depending on the materials used, a chitin suit can be any color, cut or style imaginable. The creatures whose hides are used in the construction of a suit of chitin armor might also offer protective qualities such as the ability to better deflect blaster bolts or blend into specific environments.
+Chitin armor is usually made by hand from the husks of various giant insect species found throughout, the galaxy. Essentially a poor poerson's composite armor, chitin is made by working insect carapaces into protective plates and attaching them to a flexible backing. This is typically standard cloth but occasionally more advanced materials like mylamesh or the ballistic cloth used in armored bodysuits is used. Each suit of chitin armor is unique. Depending on the materials used, a chitin suit can be any color, cut or style imaginable. The creatures whose hides are used in the construction of a suit of chitin armor might also offer protective qualities such as the ability to better deflect blaster bolts or blend into specific environments.
 [P]Chitin armor makes a strong statement about the wearer and these suits tend to have a startling effect on people in civilized society. A character wearing a suit of chitin armor adds automatic [AD] to her Coercion checks and automatic [TH] on her Charm checks. The Game Master may determine that the armor provides further benefits or drawbacks depending on the situation.</Description>
     <Source Page="45">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
@@ -1940,7 +1940,7 @@ Chitin armor is usually made by hand from the husks of various giant insect spec
     <Name>AniPro Layered Beast Armor</Name>
     <Description>
       [H3]VeTech AniPro Layered Beast Armor[h3]
-Light and easy to maintain, the AniPro-series  layered beast armor by VeTech strikes a good balance between protection and practicality. Somewhat similar to light armor suits worn by many of the galaxy's law enforcement officers, it is made from thick layers of synthetic fibers reinforced with lengths of energy absorbing armorweave. This material is backed with thin polycarbonate plates at strategic loations on an animal's neck, shoulders, back and leg. Thanks to its design and lightweight construction, AniPro armor doesn't weigh an animal down or restrict its speed or range motion, making it easy to wear for extended lengths of time.
+Light and easy to maintain, the AniPro-series  layered beast armor by VeTech strikes a good balance between protection and practicality. Somewhat similar to light armor suits worn by many of the galaxy's law enforcement officers, it is made from thick layers of synthetic fibers reinforced with lengths of energy absorbing armorweave. This material is backed with thin polycarbonate plates at strategic locations on an animal's neck, shoulders, back and leg. Thanks to its design and lightweight construction, AniPro armor doesn't weigh an animal down or restrict its speed or range motion, making it easy to wear for extended lengths of time.
 [P]AniPro beast armor can only be worn by riding or working animals. In addition to providing protection to a mount, this armor allows a character to ride the animal without suffering the bareback riding penalties detailed on page 73.
     </Description>
     <Source Page="44">Savage Spirits</Source>
@@ -1979,7 +1979,7 @@ minimal protection against blasters and other armaments, the ease of transportin
 addition to the kit of many elite combat units. Made
 from a proprietary material that regulates internal
 conditions while blocking external ones, the thinsuit
-protects from dangerous tem peratures, pressure,
+protects from dangerous temperatures, pressure,
 radiation, chemicals, and partial vacuums.
 [P]The thinsuit is a skin-tight body glove, weighing only
 one kilogram, which provides total coverage for standard humanoids, leaving only the face exposed. The
@@ -1989,7 +1989,7 @@ provides one hour of internal power. The stock suit
 comes with six removable filters and power packs,
 easily stored in the thinsuit’s many pockets.
 [P]A character equipped with a thinsuit removes [SE][SE]
-imposed by the environm ent in which she is currently
+imposed by the environment in which she is currently
 operating from her checks.</Description>
     <Source Page="50">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
@@ -2060,7 +2060,7 @@ Perception, Vigilance, and combat checks. Additionally, storm commando armor add
     <Name>Pit Crew Coveralls</Name>
     <Description>
       [H3]Pit Crew Coveralls[h3]
-Working as a mechanic in a pit crew, whether fixing lowly groundcars on a dusty Outer Rim backwater or maintaining elaborate podracers in a high-end racing circuit, is a dirty job. It requires clothing that stands up to hard wear and resists chemicals, fuels, lubricants, paints, weilding spatter and anything else heavy work can throw at it. Pit crew coveralls are thus ubiquitous wherever individuals work with racing machines or other powerful vehicles. These garments are sturdy, one-piece suits that fit over regular clothes to protect both the clothes and the wearer. They are typically made of sturdy, tear-proof textiles and secured with heavy-duty clasps and zippers. Most are flame resistant and some can even be sealed up with a helmet to act as an emergency, limited-use environmental suit. No matter the type, though, pit crew coveralls are always covered in pockets and hanging tabs that alow a wearer to carry tools and parts with ease.
+Working as a mechanic in a pit crew, whether fixing lowly groundcars on a dusty Outer Rim backwater or maintaining elaborate podracers in a high-end racing circuit, is a dirty job. It requires clothing that stands up to hard wear and resists chemicals, fuels, lubricants, paints, wielding spatter and anything else heavy work can throw at it. Pit crew coveralls are thus ubiquitous wherever individuals work with racing machines or other powerful vehicles. These garments are sturdy, one-piece suits that fit over regular clothes to protect both the clothes and the wearer. They are typically made of sturdy, tear-proof textiles and secured with heavy-duty clasps and zippers. Most are flame resistant and some can even be sealed up with a helmet to act as an emergency, limited-use environmental suit. No matter the type, though, pit crew coveralls are always covered in pockets and hanging tabs that allow a wearer to carry tools and parts with ease.
 [P]When wearing pit crew coveralls, a character reduces damage she suffers from fires and weapons with the Burn quality by 1. In addition, wearing pit crew coveralls increases the character's encumbrance threshold by 1.
 </Description>
     <Source Page="44">Endless Vigil</Source>
@@ -2104,7 +2104,7 @@ G-suits, or gravity suits, are special garments worn under flight suits by pilot
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Wearer reduces strain cost to perfrom a second Pilot Only maneuver by 1.</MiscDesc>
+        <MiscDesc>Wearer reduces strain cost to perform a second Pilot Only maneuver by 1.</MiscDesc>
       </Mod>
     </BaseMods>
     <Soak>1</Soak>
@@ -2114,7 +2114,7 @@ G-suits, or gravity suits, are special garments worn under flight suits by pilot
     <Name>Zephyr Stealth Suit</Name>
     <Description>
       [H3]Zephyr Stealth Suit[h3]
-Stealth suits, produced by comanies like Ayelixe/Kronbing Textiles and Creshaldyne, are designed to make a wearer difficult or impossible to detect by visual or technological means. Constructed from a wide array of materials and using technologies such as optical camouflage, silhouette breakers, thermal sinks and sound deadeners, they render a wearer nearly invisible under the right circumstances. Zephyr are a comon type of such stealth wear for those who often perform cover missions, and are favored amongst urban vigilantes, criminals, and industrial spies alike. These suits have dark, muted colors with matte-finish hardwar and come with gloves boots, and a head garment that covers everything but the wearer's eyes.
+Stealth suits, produced by companies like Ayelixe/Kronbing Textiles and Creshaldyne, are designed to make a wearer difficult or impossible to detect by visual or technological means. Constructed from a wide array of materials and using technologies such as optical camouflage, silhouette breakers, thermal sinks and sound deadeners, they render a wearer nearly invisible under the right circumstances. Zephyr are a common type of such stealth wear for those who often perform cover missions, and are favored amongst urban vigilantes, criminals, and industrial spies alike. These suits have dark, muted colors with matte-finish hardware and come with gloves boots, and a head garment that covers everything but the wearer's eyes.
 [P]A character wearing a zephyr stealth suit upgrades the ability of any Stealth checks she makes once.
     </Description>
     <Source Page="44">Endless Vigil</Source>
@@ -2147,7 +2147,7 @@ Stealth suits, produced by comanies like Ayelixe/Kronbing Textiles and Creshaldy
     <Name>Crash Gear</Name>
     <Description>
       [H3]Crash Gear[h3]
-Most sets of crash gear consist of an assortment of protective wears designed to allow a user to better survive the inevitable collisions and buffeting that are part of every race or mission. Typical outerwear includes layers of microfiber cloth and impact-absorbing gel inserts worked into a jumpsuit or other form-fitting outfit, along with thick gloves and boots. Most importantly, crash gear comes with protective headwear. These can range from small skullcaps (known colloquially as "skid lids") to full-face, internally supported, environmentally sealed helmets that can rival military gear. Like crash gear outerwear, crash helmets inlude gel-packs and wicking microfiber but also have stron polycarbonate shells lined with dense polyfoam for greater protection. Some helmets are also equipped with integral face shields or flip-up visors that are tinted and polarized to protect the wearer's eyes from  both debris and flaring lights.
+Most sets of crash gear consist of an assortment of protective wears designed to allow a user to better survive the inevitable collisions and buffeting that are part of every race or mission. Typical outerwear includes layers of microfiber cloth and impact-absorbing gel inserts worked into a jumpsuit or other form-fitting outfit, along with thick gloves and boots. Most importantly, crash gear comes with protective headwear. These can range from small skullcaps (known colloquially as "skid lids") to full-face, internally supported, environmentally sealed helmets that can rival military gear. Like crash gear outerwear, crash helmets include gel-packs and wicking microfiber but also have strong polycarbonate shells lined with dense polyfoam for greater protection. Some helmets are also equipped with integral face shields or flip-up visors that are tinted and polarized to protect the wearer's eyes from  both debris and flaring lights.
 [P]A character wearing crash gear ignores the effects of ongoing Critical Injuries on any Intellect or Cunning related checks but still suffers from the injuries themselves. She also cannot be disorientated.
     </Description>
     <Source Page="43">Endless Vigil</Source>
@@ -2173,7 +2173,7 @@ Most sets of crash gear consist of an assortment of protective wears designed to
     <Name>Armored Drop Suit</Name>
     <Description>
       [H3]Armored Drop Suit[h3]
-Mobility is often a decisive element in any engagement. Combatants from common killers-for-hire to Imperial storrmroopers know that taking a good position and controlling the flow of combat can be better protection than a durasteel blast door. Most armor designs factor this in to some degree, foregoing absolutely maximized plating or coverage to allow normal mobility, but a few suits go above and beyond the concept of allowing “normal mobility.”
+Mobility is often a decisive element in any engagement. Combatants from common killers-for-hire to Imperial stormtroopers know that taking a good position and controlling the flow of combat can be better protection than a durasteel blast door. Most armor designs factor this in to some degree, foregoing absolutely maximized plating or coverage to allow normal mobility, but a few suits go above and beyond the concept of allowing “normal mobility.”
 [P]Armored drop suits are a type of light laminate body armor constructed around a powerful repulsorift unit,
 allowing the wearer to fly between firing positions or
 spots of cover, or to rain down attacks from above.
@@ -2216,10 +2216,10 @@ does not suffer damage from falling.
     <Name>Hunter's Trophy Armor</Name>
     <Description>
       [H3]Hunter's Trophy Armor[h3]
-Bounty hunters who specialize in wild ammals and
-dangerous beasts sometimes make a habit of colecting trophies to show off their accomplishments. These trophies, from horns and teeth to hides and pelts, may end up on display in the bounty hunter's homes or ships, or these hunters might put them to more practical use. These hunters sometimes comission gear
+Bounty hunters who specialize in wild animals and
+dangerous beasts sometimes make a habit of collecting trophies to show off their accomplishments. These trophies, from horns and teeth to hides and pelts, may end up on display in the bounty hunter's homes or ships, or these hunters might put them to more practical use. These hunters sometimes commission gear
 made from the trophies they have collected, gathering the toughened hides of whatever nigh-unstoppable creatures they have defeated so that their prey's resilience passes on to them.
-[P]A character wearing trophy armor suffers [SE] to Charm checks, but gains [BO][BO] to Coercion checks due to the armor's intimidating appearance. At the GM's discretion, Charm checks made to impress or persueade other character of the wearer's prowess may recieve [BO][BO] instead of [SE].
+[P]A character wearing trophy armor suffers [SE] to Charm checks, but gains [BO][BO] to Coercion checks due to the armor's intimidating appearance. At the GM's discretion, Charm checks made to impress or persuade other character of the wearer's prowess may receive [BO][BO] instead of [SE].
 [P]Trophy armor has two Prices and Availabilities on [B]Table 2-4: Armor[b]. Use the first price listed ([R] 2,000/9) if a character is attempting to purchase an existing suit of trophy armor outright, and the second price listed ([R] 1,000/6) if a character has already procured a suitable hide and wishes to have it fashioned into trophy armor by an artisan.
       [P][I]Note:  If making your own suit from owned hides, price/rarity drops to 1000/6.[i]
     </Description>
@@ -2263,7 +2263,7 @@ made from the trophies they have collected, gathering the toughened hides of wha
     <Description>
       [H3]Mandalorian Armor[h3]
 Although the ancient warrior culture of the Mandolorians is long past its heyday, its presence can still be felt on many worlds. Among the most recognizable Mandalorian items are their meticulously crafted suits of battle armor. Suits of Mandalorian armor offer some of the best personal protection in the galaxy, and their owner typically take advantage of the superlative construction to install numerous additional sub-systems and weapons. While there are few armorers capable of crafting this armor, the prestige of owning it comes at a premium to many bounty hunters.
-[P]Some hunters feel a spiritual kinship with the legendary Mandalorian warriros, who are described in stories across the galaxy as deadly—if ruthless—warriors and hunters. Others revel in the fear the suits still inspire, and many more simply recognize the quality of the armor as better than many of the best modern designs.
+[P]Some hunters feel a spiritual kinship with the legendary Mandalorian warriors, who are described in stories across the galaxy as deadly—if ruthless—warriors and hunters. Others revel in the fear the suits still inspire, and many more simply recognize the quality of the armor as better than many of the best modern designs.
 [P]A few warriors even claim lineal descent from the old Mandalorian clans, such as the Death Watch terrorist group from the Clone Wars, although not everyone takes such claims seriously. Whatever their reasons, hunters who acquire Mandalorian armor often value their suits above nearly any other possession, and customize them with carefully selected modifications. Such upgrades make the suits even more durable, provide new utility to the wearer, or conceal deadly tricks to help a bounty hunter get the edge in any situation.
 [P]PCs who wish to obtain Mandalorian armor may find the effort of getting a suit worthy of the name more challenging than buying other gear. See [B]Acquiring Mandalorian Armor[b] for suggestions on acquiring Mandalorian armor with upgrades installed.
     </Description>
@@ -2290,7 +2290,7 @@ Although the ancient warrior culture of the Mandolorians is long past its heyday
     <Description>
       [H3]Biogel Suit[h3]
 During martial arts training, both students and teachers put themselves at risk as they work through the process of education. A wayward strike can cause grievous injury, particularly when a participant is practicing at full speed or training with weapons. Steps must be taken to mitigate this risk, so that safety can be increased during the training process. While some argue that this decreases the sense of risk felt during training, the effective counterargument states that not every simulation has to be life threatening, particularly the earliest ones.
-[P]Biogel suits are semitranslucent, organic body gloves that completely encase the wearer. They provide protection against attacks such that while the defender can still feel an impact, the risk of injury is substantially reduced. However the suits are bulky, which can limit wearers' flexibility as well as thei ability to dodge an attack or strike at full strength.
+[P]Biogel suits are semitranslucent, organic body gloves that completely encase the wearer. They provide protection against attacks such that while the defender can still feel an impact, the risk of injury is substantially reduced. However the suits are bulky, which can limit wearers' flexibility as well as their ability to dodge an attack or strike at full strength.
 [P]The armor gains +1 soak when the wearer suffers damage from Brawl weapons or bludgeoning Melee weapons. A character adds [SE] to any Brawn- or Agility-based checks while wearing this armor.</Description>
     <Source Page="45">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
@@ -2327,7 +2327,7 @@ During martial arts training, both students and teachers put themselves at risk 
     <Name>Formal Council Armor</Name>
     <Description>
       [H3]Formal Council Armor[h3]
-In rare circumstances, Jedi were called in to treat with societies for which status and associated symbols played a significant factor in negotiations. Some cultures maintain intricate systems of etiquette or strictly enforce caste systems. Other cultures engage in ostentatious demonstrations of wealth among their ruling classes. These societies expected any negotiator from the Republic to conform to their standards. In these circumstancesm a Jedi might don a suit of formal Council armor to aid in the critical first impression.
+In rare circumstances, Jedi were called in to treat with societies for which status and associated symbols played a significant factor in negotiations. Some cultures maintain intricate systems of etiquette or strictly enforce caste systems. Other cultures engage in ostentatious demonstrations of wealth among their ruling classes. These societies expected any negotiator from the Republic to conform to their standards. In these circumstances a Jedi might don a suit of formal Council armor to aid in the critical first impression.
 [P]Never common, these ornate suits of armor are now almost unknown. While they were comparable in function to far more common armored robes, they incorporated a variety of inlays and artistic florishes-as well as a range of semiprecious metals and gemstones. Each suit was custom crafted, integration different designs.
 [P]A character wearing former Council armor adds automatic [AD] [AD] to Negotiation checks when interacting with individuals who hold Jedi in high regard. At the GM's discretion, the character may add automatic [AD] [AD] to Coercion checks when interacting with individuals who hate or fear the Jedi (such as representatives of the Galactic Empire).</Description>
     <Source Page="45">Disciples of Harmony</Source>
@@ -2401,9 +2401,9 @@ A field disruptor is normally used to disable the shields and potentially the el
     <Name>Reflect Body Glove</Name>
     <Description>
       [H3]Reflect Body Glove[h3]
-Effective body armor is conspicious. Good armor certainly provides an intimidation factor in addition to security, but it risks setting the wrong tone for a tenuous negotiation. For those times when appearances are as important as security, armor that is much less noticeable-even if it is less protective-is a necessary compromise.
+Effective body armor is conspicuous. Good armor certainly provides an intimidation factor in addition to security, but it risks setting the wrong tone for a tenuous negotiation. For those times when appearances are as important as security, armor that is much less noticeable-even if it is less protective-is a necessary compromise.
 [P]A reflect body glove is a skintight suit that can be worn underneath traditional garments. It incorporates a reflective weave that is capable of dispersing the blasts from an energy weapon. The thin layer of tight weave is fragile, however, particularly for suit of armor.
-[P]Add [SE] [SE] to Vigilance and Perception checks to notice that the wearer is wearing a reflect body glove. After a successful combat check has been resolved against the wearer, the reflect body glove's soak is reduced by one, to a minumum of zero. The reflect body glove's soak may be restored to its original value by making a successful [B]Average ([DI] [DI]) Mechanics check[b].</Description>
+[P]Add [SE] [SE] to Vigilance and Perception checks to notice that the wearer is wearing a reflect body glove. After a successful combat check has been resolved against the wearer, the reflect body glove's soak is reduced by one, to a minimum of zero. The reflect body glove's soak may be restored to its original value by making a successful [B]Average ([DI] [DI]) Mechanics check[b].</Description>
     <Source Page="46">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -2434,7 +2434,7 @@ Effective body armor is conspicious. Good armor certainly provides an intimidati
     <Description>
       [H3]SeaScape Diving Suit[h3]
 A surprising number of sentients dwell in aquatic environments, far from an oxygen-enriched atmosphere. When air breathers must work closely with aquatic species-or travel beneath an ocean's surface for any other reason-a self-contained diving suit is required. A good suit must be flexible and comfortable, but it must also provide for the user's needs over multiple hours of use.
-[P]The SeaScape diving suit can provide six hours of atmostphere to an air breather. During this time, the wearer also has access to fresh water, nutrition supplements, and other biological necessities. While wearing a SeaScape diving suit, a character does not suffer movement penalties for traveling through water.
+[P]The SeaScape diving suit can provide six hours of atmosphere to an air breather. During this time, the wearer also has access to fresh water, nutrition supplements, and other biological necessities. While wearing a SeaScape diving suit, a character does not suffer movement penalties for traveling through water.
     </Description>
     <Source Page="46">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
@@ -2521,7 +2521,7 @@ Worn by welders, machinists, tinkerers, and mechanics throughout the galaxy, fab
     <Rarity>1</Rarity>
     <BaseMods>
       <Mod>
-        <MiscDesc>Wearer ignores effects of fires or acides of rating 1 or 2.</MiscDesc>
+        <MiscDesc>Wearer ignores effects of fires or acids of rating 1 or 2.</MiscDesc>
       </Mod>
       <Mod>
         <MiscDesc>Has soak 3 against damage from Blast quality.</MiscDesc>
@@ -2558,7 +2558,7 @@ Designed with the combat engineer in mind, pioneer armor consists of a rugged, r
     <Name>Skakoan Pressure Suit</Name>
     <Description>
       [H3]Skakoan Pressure Suit[h3]
-Skakoans require methane to live, and wear special pressure suits to emulate the conditions on Skako. They start the game with a specialised pressure suit with methane respirator, which counts as armor with indefinite supplies of methane. The suit has + 2 soak, encumbrance of 3, 3 hard points, cannot acquired unless on Skako (at a price equivalent to laminate armor), and cannot be worn by other species.</Description>
+Skakoans require methane to live, and wear special pressure suits to emulate the conditions on Skako. They start the game with a specialized pressure suit with methane respirator, which counts as armor with indefinite supplies of methane. The suit has + 2 soak, encumbrance of 3, 3 hard points, cannot acquired unless on Skako (at a price equivalent to laminate armor), and cannot be worn by other species.</Description>
     <Source Page="23">Fully Operational</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -2928,7 +2928,7 @@ Please see page 57 of the Collapse of the Republic Sourcebook for details.</Desc
     <Key>GUNDSCAV</Key>
     <Name>"Gundark" Scav-Suit</Name>
     <Description>[H3]"Gundark" Scav-Suit[h3]
-The peculiar brainchild of an exiled Arkanian engineer, the “Gundark” scav-suit is becoming an increasingly common sight across the galactic underworld. Designed to assist salvagers and collectors in uncovering and assessing lost technology, the suit includes an advanced sensor package that can analyze energy readings and material compositions quickly to help the wearer sift valuable salvage from a scrap heap-or from the detritus of a battlefield. The suits are so-named because the arrangement of the sensor package is reminiscent of huge ears at the side of the wearer's head, similar to those of a wild gundark. Bounty hunters and other figures sent to deal with scavengers sometimes take advantage of this design by targeting the sensor array to blind the wearer with a feedback loop from their damaged equipment. 
+The peculiar brainchild of an exiled Arkanian engineer, the “Gundark” scav-suit is becoming an increasingly common sight across the galactic underworld. Designed to assist salvages and collectors in uncovering and assessing lost technology, the suit includes an advanced sensor package that can analyze energy readings and material compositions quickly to help the wearer sift valuable salvage from a scrap heap-or from the detritus of a battlefield. The suits are so-named because the arrangement of the sensor package is reminiscent of huge ears at the side of the wearer's head, similar to those of a wild gundark. Bounty hunters and other figures sent to deal with scavengers sometimes take advantage of this design by targeting the sensor array to blind the wearer with a feedback loop from their damaged equipment. 
 
 [P]The inbuilt sensor array on a “Gundark” scav-suit adds [BO] to the wearer's Perception checks, and an additional [BO] to all checks to detect or analyze technological parts and items. However, if the suits systems become damaged due to a Critical Injury, aimed shot, or other circumstance, the wearer instead suffers [SE] due to sensor feedback on all Perception checks instead until the suit is repaired.
     </Description>

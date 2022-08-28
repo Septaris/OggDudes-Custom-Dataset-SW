@@ -1688,7 +1688,7 @@ This upgrade may be purchased three additional times, each time selecting a diff
     <Name>Spare Parts Bin</Name>
     <Description>
       [H4]Spare Parts Bin[h4]
-      Reduce the rarity of any materials the character wishes to acquire for a crafting project in the workshop by one (to a minimum of 0). If this reduces the rarity of a material to 0, the character does not need to acquire it and is considered to already have it on hand. This advanced benefit can be slected any number of times, and its effects are cumulative.
+      Reduce the rarity of any materials the character wishes to acquire for a crafting project in the workshop by one (to a minimum of 0). If this reduces the rarity of a material to 0, the character does not need to acquire it and is considered to already have it on hand. This advanced benefit can be selected any number of times, and its effects are cumulative.
 
     </Description>
     <Source Page="95">Special Modifications</Source>
@@ -1701,7 +1701,7 @@ This upgrade may be purchased three additional times, each time selecting a diff
     <Name>Low-Grav Workspace</Name>
     <Description>
       [H4]Low-Grav Workspace[h4]
-      With access toa  low or zero gravity work area as part of a workshop, a Technician can smelt metals and create pharmaceuticals with unique processes difficult to reproduce under the effects of gravity. The character adds automatic [AD] Mechanics and Medicine checks in the workshop. This advanced benefit can only be selected once.
+      With access to a low or zero gravity work area as part of a workshop, a Technician can smelt metals and create pharmaceuticals with unique processes difficult to reproduce under the effects of gravity. The character adds automatic [AD] Mechanics and Medicine checks in the workshop. This advanced benefit can only be selected once.
     </Description>
     <Source Page="95">Special Modifications</Source>
     <Custom>DescOnly</Custom>

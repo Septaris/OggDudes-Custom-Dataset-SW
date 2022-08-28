@@ -314,8 +314,8 @@ See Pages 95-96 of Fully Operational for additional information on Maker's Mark.
     <Key>PROVENEXP</Key>
     <Name>Proven Expertise</Name>
     <Description>[H3]Proven Expertise[h3]
-Even within a given specialization, an Engineer might demonstrate truly remarkable proficiency in a narrower neld. Whether a Mechanic whose modified blasters are the envy of fighters the galaxy over or a Droid Specialist whose astromechs are known for unerring accuracy, an Engineer with proven expertise is a truly exceptional craftsman in a narrow area of specialty. This stellar proficiency In turn brings rewards. [P]
-Proven expertise is available to Engineer PCs at the GM's discretion. In orderto qualify, the character must demonstrate in-game exceptional ability in designing or constructing a specific type of equipment or in carrying out a particular task. The GM and player should work together to define this area of expertise and sum it up as briefly as possible. For instance, a character might have proven expertise in blasters, starfighters, weapon attachments, or battlefield repairs. 
+Even within a given specialization, an Engineer might demonstrate truly remarkable proficiency in a narrower field. Whether a Mechanic whose modified blasters are the envy of fighters the galaxy over or a Droid Specialist whose astromechs are known for unerring accuracy, an Engineer with proven expertise is a truly exceptional craftsman in a narrow area of specialty. This stellar proficiency In turn brings rewards. [P]
+Proven expertise is available to Engineer PCs at the GM's discretion. In order to qualify, the character must demonstrate in-game exceptional ability in designing or constructing a specific type of equipment or in carrying out a particular task. The GM and player should work together to define this area of expertise and sum it up as briefly as possible. For instance, a character might have proven expertise in blasters, starfighters, weapon attachments, or battlefield repairs. 
 [P]
 See page 95 of the Fully Operational Sourcebook for more details.
     </Description>
@@ -627,7 +627,7 @@ Awards granted by Alliance High Command for distinguished service or conspicuous
           <Option>
             <Key>MEDALAB1OP3</Key>
             <Name>Kalidor Crescent</Name>
-            <Description>You are the recipient of the Kalidor Crescent for conspicuous and intrepid gallantry at the risk of life above and byond the call of duty.</Description>
+            <Description>You are the recipient of the Kalidor Crescent for conspicuous and intrepid gallantry at the risk of life above and beyond the call of duty.</Description>
           </Option>
           <Option>
             <Key>MEDALAB1OP4</Key>

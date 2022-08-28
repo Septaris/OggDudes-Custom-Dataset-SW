@@ -50,7 +50,7 @@ The gruff, wrinkle-faced Dressellians are best known as gritty, tough outdoorsme
       <Options>
         <Option>
           <Key>DRESSELLIANCH1OP1</Key>
-          <Name>Primative</Name>
+          <Name>Primitive</Name>
           <Description>Dressellians must upgrade the difficulty of any checks involving non-Dressellian technology.</Description>
         </Option>
         <Option>

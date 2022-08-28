@@ -6,7 +6,7 @@
     <Description>Once per game session, the character may perform an Insightful Revelation action and spend 2 Destiny points to make a [B]Hard ([DI][DI][DI]) Knowledge (Education) check[b]. If he succeeds, he learns some valuable information that he did not previously possess pertaining to his current situation. What he learns is up to the GM. but it must be valuable to the player overcoming his immediate encounter or situation, and the information cannot be obtainable by any other immediately available means. </Description>
     <Source>Far Horizons</Source>
     <Custom>DescOnly</Custom>
-    <SigAbility>Insighful Revelation</SigAbility>
+    <SigAbility>Insightful Revelation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>INSIGHTFULSETBACK</Key>
@@ -869,7 +869,7 @@
   <SigAbilityNode>
     <Key>INVENTIVECREATIONBASIC</Key>
     <Name>Inventive Creation Base Ability</Name>
-    <Description>Oncer per game session, as an action, the character may spend 2 Destiny Points and make a [B]Daunting ([DI][DI][DI][DI]) Mechanics check[b]. If he succeeds, the character immediately uses available parts to build a device that functions as an item of his choice with a rarity of 5 or lower. The item is functional until the end of the encounter, at which point it falls apart, shorts out, or otherwise ceases to function permanently. The exact nature of the device the character its trying to construct as well as the end results, must be apporved by the GM (see [B]Narrative Abilities[b] on page 38).</Description>
+    <Description>Once per game session, as an action, the character may spend 2 Destiny Points and make a [B]Daunting ([DI][DI][DI][DI]) Mechanics check[b]. If he succeeds, the character immediately uses available parts to build a device that functions as an item of his choice with a rarity of 5 or lower. The item is functional until the end of the encounter, at which point it falls apart, shorts out, or otherwise ceases to function permanently. The exact nature of the device the character its trying to construct as well as the end results, must be approved by the GM (see [B]Narrative Abilities[b] on page 38).</Description>
     <Source Page="39">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Inventive Creation</SigAbility>
@@ -1037,7 +1037,7 @@ to activate Rousing Oratory.</Description>
   <SigAbilityNode>
     <Key>ROUSORBASIC</Key>
     <Name>Rousing Oratory Basic Ability</Name>
-    <Description>Once per game session, the character may perform a Rousing Oratory action, spend 2 Destiny Poins, and make a [B]Hard ([DI][DI][DI]) Leadership check to inspire a group to take action in a military situation about which  members were previously hesitant.</Description>
+    <Description>Once per game session, the character may perform a Rousing Oratory action, spend 2 Destiny Points, and make a [B]Hard ([DI][DI][DI]) Leadership check to inspire a group to take action in a military situation about which  members were previously hesitant.</Description>
     <Source Page="38">Lead by Example</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Rousing Oratory</SigAbility>
@@ -1061,7 +1061,7 @@ to activate Rousing Oratory.</Description>
   <SigAbilityNode>
     <Key>UNMATCHEDVIGILANCEBASIC</Key>
     <Name>Unmatched Vigilance Base Ability</Name>
-    <Description>Once per game session at the beginning of a structured encounter, the character may spend 2 Destiny Points. If he does so, he determines the Initiative order of the first round of the enounter. Characters still make checks to determine Initiative, but these results will only apply after Unmatched Vigilance's effects end.</Description>
+    <Description>Once per game session at the beginning of a structured encounter, the character may spend 2 Destiny Points. If he does so, he determines the Initiative order of the first round of the encounter. Characters still make checks to determine Initiative, but these results will only apply after Unmatched Vigilance's effects end.</Description>
     <Source Page="35">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Vigilance</SigAbility>
@@ -1197,7 +1197,7 @@ to activate Rousing Oratory.</Description>
   <SigAbilityNode>
     <Key>UNMATCHEDPURSUITENDURANCE</Key>
     <Name>Endurance</Name>
-    <Description>Reduce the strain cost to keep up with the target by 1to a minimumof 0, per endurance upgrade.</Description>
+    <Description>Reduce the strain cost to keep up with the target by 1 to a minimum of 0, per endurance upgrade.</Description>
     <Source Page="35">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Pursuit</SigAbility>
@@ -1205,7 +1205,7 @@ to activate Rousing Oratory.</Description>
   <SigAbilityNode>
     <Key>UNMATCHEDPURSUITDESTINY</Key>
     <Name>Destiny</Name>
-    <Description>To activate Unmatched Pursuit, the character only needs to spend 1 Destiny Point, instead of the Nomral 2 Destiny Points.</Description>
+    <Description>To activate Unmatched Pursuit, the character only needs to spend 1 Destiny Point, instead of the Normal 2 Destiny Points.</Description>
     <Source Page="35">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Pursuit</SigAbility>
@@ -1245,7 +1245,7 @@ to activate Rousing Oratory.</Description>
   <SigAbilityNode>
     <Key>BIGGERTHEYARESKILL1</Key>
     <Name>Change Skill (Survival)</Name>
-    <Description>May use Survival instead of Knowledge (Warfare) to acivate The Bigger They Are.</Description>
+    <Description>May use Survival instead of Knowledge (Warfare) to activate The Bigger They Are.</Description>
     <Source Page="38">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>The Bigger They Are...</SigAbility>
@@ -1269,7 +1269,7 @@ to activate Rousing Oratory.</Description>
   <SigAbilityNode>
     <Key>BIGGERTHEYAREDURATION</Key>
     <Name>Duration</Name>
-    <Description>The Bigger They Are lasts for 2 additonal rounds.</Description>
+    <Description>The Bigger They Are lasts for 2 additional rounds.</Description>
     <Source Page="38">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>The Bigger They Are...</SigAbility>
@@ -1309,7 +1309,7 @@ to activate Rousing Oratory.</Description>
   <SigAbilityNode>
     <Key>UNEXPECTEDDEMISESKILL</Key>
     <Name>Change Skill</Name>
-    <Description>To acivate Unexpected Demise, the character can use Discipline.</Description>
+    <Description>To activate Unexpected Demise, the character can use Discipline.</Description>
     <Source Page="34">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unexpected Demise</SigAbility>
@@ -1333,7 +1333,7 @@ to activate Rousing Oratory.</Description>
   <SigAbilityNode>
     <Key>UNEXPECTEDDEMISEBASIC</Key>
     <Name>Unexpected Demise Base Ability</Name>
-    <Description>Once per session as an action, the character may spend 2 Destiny Points and make a [B]Hard ([DI][DI][DI]) Perception check[b] If successful, for the next 2 rounds the character may spend 1 maneuver to add 1 automatic [TR] to his next combat check made in that turn. In addition, for the next 2 rounds when the character inflicts a Critical Injury on a rival NPC, the target is immediately incapacitated in teh same way as a minion NPC would be (see page 400 of the [B]Force and Destiny[b] Core Rulebook).</Description>
+    <Description>Once per session as an action, the character may spend 2 Destiny Points and make a [B]Hard ([DI][DI][DI]) Perception check[b] If successful, for the next 2 rounds the character may spend 1 maneuver to add 1 automatic [TR] to his next combat check made in that turn. In addition, for the next 2 rounds when the character inflicts a Critical Injury on a rival NPC, the target is immediately incapacitated in the same way as a minion NPC would be (see page 400 of the [B]Force and Destiny[b] Core Rulebook).</Description>
     <Source Page="34">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unexpected Demise</SigAbility>
@@ -1384,7 +1384,7 @@ to activate Rousing Oratory.</Description>
     <Description>Before performing a combat check as part of Unmatched Devastation, suffer 2 strain  to perform the Move maneuver as an incidental.</Description>
     <Source Page="41">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
-    <SigAbility>Unmatched Devistation</SigAbility>
+    <SigAbility>Unmatched Devastation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>ALWAYSGETMYMARKINCREASEEFFECT2</Key>
@@ -1396,11 +1396,11 @@ to activate Rousing Oratory.</Description>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEDDEVISTATIONBASIC</Key>
-    <Name>Unmatched Devistation Base Ability</Name>
+    <Name>Unmatched Devastation Base Ability</Name>
     <Description>Once per game session as an incidental, after performing a combat check, the character may spend 2 Destiny Points to perform an additional combat check against the same target with the difficulty increased by 1 for each successful combat check the character has performed this turn. This combat check must be made using a non-starship vehicle weapon that the character has not already used this turn.</Description>
     <Source Page="41">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
-    <SigAbility>Unmatched Devistation</SigAbility>
+    <SigAbility>Unmatched Devastation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEDCOURAGEFINISH</Key>
@@ -1421,7 +1421,7 @@ to activate Rousing Oratory.</Description>
   <SigAbilityNode>
     <Key>UNMATCHEDCOURAGETOUGH</Key>
     <Name>Too Tough To Die</Name>
-    <Description>When Unmatched Courage ends, make a [B]Hard ([DI][DI][DI]) Resillience check[b] to remove one Critical Injury.</Description>
+    <Description>When Unmatched Courage ends, make a [B]Hard ([DI][DI][DI]) Resilience check[b] to remove one Critical Injury.</Description>
     <Source Page="39">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Courage</SigAbility>
@@ -1429,7 +1429,7 @@ to activate Rousing Oratory.</Description>
   <SigAbilityNode>
     <Key>UNMATCHEDCOURAGEBASIC</Key>
     <Name>Unmatched Courage Base Ability</Name>
-    <Description>Once per game session, as an out of turn incidental, the character may spend 2 Destiny Points to ignore the effects of all Critical Injuries for 2 rounds. When this effect ends, he fuggers the effects of these Critical Injuries as normal.</Description>
+    <Description>Once per game session, as an out of turn incidental, the character may spend 2 Destiny Points to ignore the effects of all Critical Injuries for 2 rounds. When this effect ends, he suffers the effects of these Critical Injuries as normal.</Description>
     <Source Page="39">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Courage</SigAbility>
@@ -1445,7 +1445,7 @@ to activate Rousing Oratory.</Description>
   <SigAbilityNode>
     <Key>ALWAYSGETMYMARKBASIC</Key>
     <Name>Always Get My Mark Base Ability</Name>
-    <Description>Once per game session, the character may choose a known minion NPC on the same planet to be her mark, spend 2 Destiny Points, and make a [B]Hard ([DI][DI][DI]) Streetwise check[b]. If she succeeds, the character tracks down the chosen mark; a new encounter begins as the character reaches the mark's location. The exact nature of the encounter, as well as the circumstances under which it takes place, must be approved by the GM (see [B]Narrative Abilites[b] on page 40).</Description>
+    <Description>Once per game session, the character may choose a known minion NPC on the same planet to be her mark, spend 2 Destiny Points, and make a [B]Hard ([DI][DI][DI]) Streetwise check[b]. If she succeeds, the character tracks down the chosen mark; a new encounter begins as the character reaches the mark's location. The exact nature of the encounter, as well as the circumstances under which it takes place, must be approved by the GM (see [B]Narrative Abilities[b] on page 40).</Description>
     <Source Page="39">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Always Get My Mark</SigAbility>
@@ -1480,7 +1480,7 @@ to activate Rousing Oratory.</Description>
     <Description>The character may choose a new legal target for each combat check made as part of Unmatched Devastation.</Description>
     <Source Page="41">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
-    <SigAbility>Unmatched Devistation</SigAbility>
+    <SigAbility>Unmatched Devastation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEDDEVISTATIONINCREASENUMBER</Key>
@@ -1488,7 +1488,7 @@ to activate Rousing Oratory.</Description>
     <Description>Perform additional combat checks equal to ranks in Increase Number upgrade.</Description>
     <Source Page="41">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
-    <SigAbility>Unmatched Devistation</SigAbility>
+    <SigAbility>Unmatched Devastation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>ALWAYSGETMYMARKREDUCEDIFFICULTY</Key>
@@ -1512,7 +1512,7 @@ to activate Rousing Oratory.</Description>
     <Description>Before performing each combat check with Unmatched Devastation, the character may holster and draw a weapon.</Description>
     <Source Page="41">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
-    <SigAbility>Unmatched Devistation</SigAbility>
+    <SigAbility>Unmatched Devastation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEDDEVISTATIONREMOVESETBACK</Key>
@@ -1520,7 +1520,7 @@ to activate Rousing Oratory.</Description>
     <Description>When making a combat check part of Unmatched Devastation, remove [SE] equal to ranks in Remove Setback upgrade.</Description>
     <Source Page="41">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
-    <SigAbility>Unmatched Devistation</SigAbility>
+    <SigAbility>Unmatched Devastation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEDCOURAGESURVIVOR</Key>
@@ -1703,7 +1703,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
   <SigAbilityNode>
     <Key>HARDERTHEYFALLBASE</Key>
     <Name>The Harder They Fall Base Ability</Name>
-    <Description>Once per game session as an incidental, the character may spend 2 Destiny Points and make a [B]Hard ([DI][DI][DI]) Mechanics check[b]. If successful, for the remainder of the encounter, combat checks the character makes against vehicles, structures, or droids that inflict wounds or hull trauma automatically inflict a Critical lnjury or Critical Hit (depending on the target). [AD] or [TR] can be spent to trigger the attack's critical rating additional times, adding + 10 to the critical roll as usual.</Description>
+    <Description>Once per game session as an incidental, the character may spend 2 Destiny Points and make a [B]Hard ([DI][DI][DI]) Mechanics check[b]. If successful, for the remainder of the encounter, combat checks the character makes against vehicles, structures, or droids that inflict wounds or hull trauma automatically inflict a Critical injury or Critical Hit (depending on the target). [AD] or [TR] can be spent to trigger the attack's critical rating additional times, adding + 10 to the critical roll as usual.</Description>
     <Source Page="34">Fully Operational</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>The Harder They Fall</SigAbility>
@@ -1871,7 +1871,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
   <SigAbilityNode>
     <Key>PROPHECYDESTINY</Key>
     <Name>Destiny</Name>
-    <Description>Prophecy costs 1 fewer Destiny Points to activate, it still requires a Destiny Point to trigger the occurrence of the prophesised event.</Description>
+    <Description>Prophecy costs 1 fewer Destiny Points to activate, it still requires a Destiny Point to trigger the occurrence of the prophesied event.</Description>
     <Source Page="37">Unlimited Power</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Prophecy</SigAbility>

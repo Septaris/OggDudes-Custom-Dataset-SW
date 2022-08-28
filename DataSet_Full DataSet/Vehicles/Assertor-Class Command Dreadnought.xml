@@ -51,7 +51,7 @@ support ships.</Description>
   <BaseMods>
     <Mod>
       <Count>1</Count>
-      <MiscDesc>[B]Inspiring Presense 3[b]: When this starship is engaged with the enemy, all allies gain [BO][BO][BO] to any Cool or Discipline checks to resist fear caused by combat.</MiscDesc>
+      <MiscDesc>[B]Inspiring Presence 3[b]: When this starship is engaged with the enemy, all allies gain [BO][BO][BO] to any Cool or Discipline checks to resist fear caused by combat.</MiscDesc>
     </Mod>
   </BaseMods>
   <HyperdrivePrimary>2</HyperdrivePrimary>

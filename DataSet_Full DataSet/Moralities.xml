@@ -294,7 +294,7 @@ The character shows mercy toward his foes, dealing with them fairly and honorabl
     <Name>Assertiveness</Name>
     <Description>
       [H4]Assertiveness (Strength)[h4]
-In all things, the character is quite determined and steadfast. No matter the situation, the PC shows no hint of idleness or weakness in speeh or action, only firm conviction.</Description>
+In all things, the character is quite determined and steadfast. No matter the situation, the PC shows no hint of idleness or weakness in speech or action, only firm conviction.</Description>
     <Sources>
       <Source Page="17">Savage Spirits</Source>
       <Source Page="16">Knights of Fate</Source>
@@ -523,7 +523,7 @@ Rigorous mental and physical discipline comes naturally to the character. He doe
     <Name>Frugality</Name>
     <Description>
       [H4]Frugality (Strength)[h4]
-There is strength inliving a simple life, not just in eschewing possessions but also in keeping relationships simple, so as not to be distracted from the bigger picture.</Description>
+There is strength in living a simple life, not just in eschewing possessions but also in keeping relationships simple, so as not to be distracted from the bigger picture.</Description>
     <Source Page="17">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Type>Strength</Type>
@@ -622,7 +622,7 @@ The character takes anger and instead of suppressing it, uses it to fuel work. P
     <Name>Modesty</Name>
     <Description>
       [H4]Modesty (Strength)[h4]
-The character eschews credit and thanks. After all, anyone can do this work. This attitude ensures discpline and focus to the task at hand and thus helping others and reducing suffering.</Description>
+The character eschews credit and thanks. After all, anyone can do this work. This attitude ensures discipline and focus to the task at hand and thus helping others and reducing suffering.</Description>
     <Source Page="17">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Type>Strength</Type>
@@ -684,7 +684,7 @@ This character believes in giving everyone the benefit of the doubt. The good th
     <Name>Malleability</Name>
     <Description>
       [H4]Malleability (Strength)[h4]
-This character is morally and ethically flexible and judges situations and others based on reletive circumstance for the good of the community rather than on a strict legal code.</Description>
+This character is morally and ethically flexible and judges situations and others based on relative circumstance for the good of the community rather than on a strict legal code.</Description>
     <Source Page="17">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Type>Strength</Type>
@@ -750,7 +750,7 @@ The character is able to look at situations objectively, and observe the natural
     <Name>Cleverness</Name>
     <Description>
       [H4]Cleverness (Strength)[h4]
-By observing beings and situations in an unorthadox manner, the character gains a new and unique understanding. This allows the character to approach problems from an unexpected angle and produce original solutions.</Description>
+By observing beings and situations in an unorthodox manner, the character gains a new and unique understanding. This allows the character to approach problems from an unexpected angle and produce original solutions.</Description>
     <Source Page="15">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
     <Type>Strength</Type>
@@ -1495,7 +1495,7 @@ The character mistakes defiance for bravery. This merely serves to cause tension
     <Name>Condemnation</Name>
     <Description>
       [H4]Condemnation (Weakness)[h4]
-The character inisists on a standard that no one can bear. This includes the condemnation of the self, punishing oneself for transgressions imagined or actual.</Description>
+The character insists on a standard that no one can bear. This includes the condemnation of the self, punishing oneself for transgressions imagined or actual.</Description>
     <Source Page="17">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
@@ -1525,7 +1525,7 @@ Even a saint can burn out. It's not that people don't deserve help or a second c
     <Name>Spite</Name>
     <Description>
       [H4]Spite (Weakness)[h4]
-The character deliberately tries to upset or hurt those beneath him. Indulgence in this pettieness comes easily as these individuals deserve contempt.</Description>
+The character deliberately tries to upset or hurt those beneath him. Indulgence in this pettiness comes easily as these individuals deserve contempt.</Description>
     <Source Page="17">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
@@ -1535,7 +1535,7 @@ The character deliberately tries to upset or hurt those beneath him. Indulgence 
     <Name>Vanity</Name>
     <Description>
       [H4]Vanity (Weakness)[h4]
-The character turns self-deference into false modesty, denigrating himself and expecting others to bolster his ego. A twisted passive-aggressiveness can emerge in which the character demends recognition for this modesty.</Description>
+The character turns self-deference into false modesty, denigrating himself and expecting others to bolster his ego. A twisted passive-aggressiveness can emerge in which the character demands recognition for this modesty.</Description>
     <Sources>
       <Source Page="17">Endless Vigil</Source>
       <Source Page="16">Knights of Fate</Source>
@@ -1588,7 +1588,7 @@ The character can sometimes spend far too long considering a matter, unable to f
     <Name>Condescension</Name>
     <Description>
       [H4]Condescension (Weakness)[h4]
-The character often treats less patient beings like childrean and dismisses their concerns. As a result, the character may overlook valuable insight from friends and allies.</Description>
+The character often treats less patient beings like children and dismisses their concerns. As a result, the character may overlook valuable insight from friends and allies.</Description>
     <Source Page="15">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
@@ -1688,7 +1688,7 @@ When working with others, this character has a tendency to value the group above
     <Key>JUDGING</Key>
     <Name>Judging</Name>
     <Description>[H4]Judging (Weakness)[h4]
-Believing they have a right to pass judgement on others, this character expects their personal morals and rules to apply wherever they go. Refusing to show mercy to those who have not shown mercy to others, whatever the circumstances, the character makes them pay.</Description>
+Believing they have a right to pass judgment on others, this character expects their personal morals and rules to apply wherever they go. Refusing to show mercy to those who have not shown mercy to others, whatever the circumstances, the character makes them pay.</Description>
     <Source Page="16">Knights of Fate</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>

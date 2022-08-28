@@ -256,7 +256,7 @@ While Imperial stormtroopers might appear fearless and disciplined, others withi
     <Name>Clear Skies</Name>
     <Description>
       [H4]Clear Skies[h4]
-The PC recognizes the danger that infantry units face from enemy air power. A pair of TIE fighters can turn certain victory on the ground into disasrer. This PC always has a plan to take out any enemy air support, whether through the judicious use of portable launchers, jammers, camouflage, concealing terrain, or even anti-air emplacement weapons.</Description>
+The PC recognizes the danger that infantry units face from enemy air power. A pair of TIE fighters can turn certain victory on the ground into disaster. This PC always has a plan to take out any enemy air support, whether through the judicious use of portable launchers, jammers, camouflage, concealing terrain, or even anti-air emplacement weapons.</Description>
     <Source Page="17">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
   </Duty>

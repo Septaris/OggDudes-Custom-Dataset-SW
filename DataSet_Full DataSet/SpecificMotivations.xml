@@ -1743,7 +1743,7 @@ The character cultivates a rivalry with another Technician who works in the same
     <Name>Technological Historian</Name>
     <Description>
       [H4]Technological Historian[h4]
-The character is very interested in historic or ancient technology and strives to learn more about it, meticulously cataloguing any findings for future publication. The character might amass an extensive collection that others regard as useless junk, going out of the way to acquire seemingly meaningless and often expensive archaic devices. Occasionally, the character finds a useful or amazing item that might bring a high price from a collector or other interested party, or draw unwanted attention from treasure seekers and the authorities.</Description>
+The character is very interested in historic or ancient technology and strives to learn more about it, meticulously cataloging any findings for future publication. The character might amass an extensive collection that others regard as useless junk, going out of the way to acquire seemingly meaningless and often expensive archaic devices. Occasionally, the character finds a useful or amazing item that might bring a high price from a collector or other interested party, or draw unwanted attention from treasure seekers and the authorities.</Description>
     <Source Page="37">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Innovation</Motivation>
@@ -1753,7 +1753,7 @@ The character is very interested in historic or ancient technology and strives t
     <Name>Technological Necessity</Name>
     <Description>
       [H4]Technological Necessity[h4]
-The character has a great need to complete or acquire a specific device or program. The goal might be to save a world, a town or a life or to provide a workable solution to an important diplomatic or military situation. Whatever the specifics of this need, the character likely sees its completeion as a magnum opus and stakes a considerable amount of hope upon the promise of salvation the unfinished business represents.</Description>
+The character has a great need to complete or acquire a specific device or program. The goal might be to save a world, a town or a life or to provide a workable solution to an important diplomatic or military situation. Whatever the specifics of this need, the character likely sees its completion as a magnum opus and stakes a considerable amount of hope upon the promise of salvation the unfinished business represents.</Description>
     <Source Page="37">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Innovation</Motivation>
@@ -1763,7 +1763,7 @@ The character has a great need to complete or acquire a specific device or progr
     <Name>Technological Fascination</Name>
     <Description>
       [H4]Technological Fascination[h4]
-The character loves to work with a specific type of machine, sometimes to the point of exculding all others, be it firearms, starhips, droids, or some other more esoteric branch of technology. The character seeks out new information and the latest news pertaining to this area of fascination and knows the intricacies of various models and minute differences between them. The character might have favourite models, but this singular obsession is not usually limited to one specific object or design.</Description>
+The character loves to work with a specific type of machine, sometimes to the point of excluding all others, be it firearms, starships, droids, or some other more esoteric branch of technology. The character seeks out new information and the latest news pertaining to this area of fascination and knows the intricacies of various models and minute differences between them. The character might have favorite models, but this singular obsession is not usually limited to one specific object or design.</Description>
     <Source Page="37">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Innovation</Motivation>
@@ -1773,7 +1773,7 @@ The character loves to work with a specific type of machine, sometimes to the po
     <Name>Technical Business Interests</Name>
     <Description>
       [H4]Technical Business Interests[h4]
-The character strives to own and operate a successful legal or outlaw business in a particular area of expertise. The business might consume all of the character's time when not out adventuring with the other PCs. It might run itself in the character's absence by way of employees or automation or it might go on hiatus whenever the character has to go galivanting across the galaxy. However, it is always on the character's mind, and the character is likely looking for ways to expand or improve it even when away.</Description>
+The character strives to own and operate a successful legal or outlaw business in a particular area of expertise. The business might consume all of the character's time when not out adventuring with the other PCs. It might run itself in the character's absence by way of employees or automation or it might go on hiatus whenever the character has to go gallivanting across the galaxy. However, it is always on the character's mind, and the character is likely looking for ways to expand or improve it even when away.</Description>
     <Source Page="37">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Innovation</Motivation>
@@ -1783,7 +1783,7 @@ The character strives to own and operate a successful legal or outlaw business i
     <Name>Personal Improvement</Name>
     <Description>
       [H4]Personal Improvement[h4]
-The character does anything and everything to acquire enchanced abilities, whether to make up for a devastating injury or merely to exceed the limitations of nature. This character likely already has cybernetics and will be seeking to expand thier effectiveness. Other character might regard the character as dangerously willing to give new cybernetic program or device a try, no matter its source even if the potential downside could alter the character's life for the worse.</Description>
+The character does anything and everything to acquire enhanced abilities, whether to make up for a devastating injury or merely to exceed the limitations of nature. This character likely already has cybernetics and will be seeking to expand their effectiveness. Other character might regard the character as dangerously willing to give new cybernetic program or device a try, no matter its source even if the potential downside could alter the character's life for the worse.</Description>
     <Source Page="37">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Innovation</Motivation>
@@ -1793,7 +1793,7 @@ The character does anything and everything to acquire enchanced abilities, wheth
     <Name>Waste Not, Want Not</Name>
     <Description>
       [H4]Waste Not, Want Not[h4]
-The character hates to let anything go to waste and tries to devise ways of recycling or refubishing discarded parts, scrap metal, old technology and worn-out droids. Perhaps the character comes from a remot world where technology and materials are scarce and anything remotely technological is expensive. Perhaps the character simply hates the thought of later realizing that something thrown away was useful. While this character's workshop and living area are often cluttered, the character likely claims to know where everything is.</Description>
+The character hates to let anything go to waste and tries to devise ways of recycling or refurbishing discarded parts, scrap metal, old technology and worn-out droids. Perhaps the character comes from a remote world where technology and materials are scarce and anything remotely technological is expensive. Perhaps the character simply hates the thought of later realizing that something thrown away was useful. While this character's workshop and living area are often cluttered, the character likely claims to know where everything is.</Description>
     <Source Page="37">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Innovation</Motivation>
@@ -1803,7 +1803,7 @@ The character hates to let anything go to waste and tries to devise ways of recy
     <Name>Invention</Name>
     <Description>
       [H4]Invention[h4]
-The character constantly desires to create new devices, vehicles or programs. Sometimes, the character invents something new to overcome a specific problem, but more often than not, the act of inventing something new is its own reward. r course, the character's desire for novelty can sometimes get in the way of finding an espedient solution. After all, sometimes a simple tool is the best one for a given job. Still a character driven by this Motivation is likely to at least try reinventing the wheel from time to time, even if the results aren't particularly useful.</Description>
+The character constantly desires to create new devices, vehicles or programs. Sometimes, the character invents something new to overcome a specific problem, but more often than not, the act of inventing something new is its own reward. Of course, the character's desire for novelty can sometimes get in the way of finding an expedient solution. After all, sometimes a simple tool is the best one for a given job. Still a character driven by this Motivation is likely to at least try reinventing the wheel from time to time, even if the results aren't particularly useful.</Description>
     <Source Page="37">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Innovation</Motivation>
@@ -1833,7 +1833,7 @@ The character likes building useful things. Some creations could be helpful to s
     <Name>Wide-Eyed Wanderer</Name>
     <Description>
       [H4]Wide-Eyed Wanderer[h4]
-This character has lived a sheltered existence and views the galaxy at large as a scary and nearly magical place. Blasters are confounding, droids may be devils in disguise, and travel between the stars is akin to dark sorcery. Flowever, all this only serves to interest the character more, inducing a hunger to travel in this strange and wondrous galaxy.</Description>
+This character has lived a sheltered existence and views the galaxy at large as a scary and nearly magical place. Blasters are confounding, droids may be devils in disguise, and travel between the stars is akin to dark sorcery. However, all this only serves to interest the character more, inducing a hunger to travel in this strange and wondrous galaxy.</Description>
     <Source Page="115">Nexus of Power</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Location: Weik</Motivation>
@@ -2175,7 +2175,7 @@ attempt to assuage his anguish for the lives he feels he's lost.</Description>
     <Name>Finish the Job</Name>
     <Description>
       [H4]Finish the Job[h4]
-It is a rare bounty hunter who keeps pursuing preyeven when it becomes clear that the hnt is not economically viable. This bounty hunter is one of the rare exceptions; her word is irrevocable, and once she has taken a contract, the character pursues it at all costs. While a job might be put on hiatus, once the hunt begins, she can never abandon or forget it—perhaps even if the client rescinds the bounty.</Description>
+It is a rare bounty hunter who keeps pursuing prey even when it becomes clear that the hunt is not economically viable. This bounty hunter is one of the rare exceptions; her word is irrevocable, and once she has taken a contract, the character pursues it at all costs. While a job might be put on hiatus, once the hunt begins, she can never abandon or forget it—perhaps even if the client rescinds the bounty.</Description>
     <Source Page="37">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Code</Motivation>
@@ -2195,7 +2195,7 @@ Some bounty hunters vow to never kill their targets (though when dealing with a 
     <Name>No Collateral Damage</Name>
     <Description>
       [H4]No Collateral Damage[h4]
-Though some particularly pernicious bounty hunters are willing to toss around thermal detonators on populated worlds, most try to minimize the civilian harm they cause, if only because it can be inconvenient to clean up. A few, however, are scrupulous about avoiding civilian casualities, to the point of letting a target escape to avoide escape to avoid hurting civilians.</Description>
+Though some particularly pernicious bounty hunters are willing to toss around thermal detonators on populated worlds, most try to minimize the civilian harm they cause, if only because it can be inconvenient to clean up. A few, however, are scrupulous about avoiding civilian causalities, to the point of letting a target escape to avoid escape to avoid hurting civilians.</Description>
     <Source Page="37">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Code</Motivation>
@@ -2205,7 +2205,7 @@ Though some particularly pernicious bounty hunters are willing to toss around th
     <Name>Quiet Professionalism</Name>
     <Description>
       [H4]Quiet Professionalism[h4]
-There is an old saying in the bounty hunting trade that good work  makes little noise, and the character is the embodiment of that. Like a master artisan, the character pursues bounties with far greater care about attentiaon to detail than most. The PC sees little need for flashy accoutrement or ostenatious shows of prowess.</Description>
+There is an old saying in the bounty hunting trade that good work  makes little noise, and the character is the embodiment of that. Like a master artisan, the character pursues bounties with far greater care about attention to detail than most. The PC sees little need for flashy accoutrement or ostentatious shows of prowess.</Description>
     <Source Page="37">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Code</Motivation>
@@ -2215,7 +2215,7 @@ There is an old saying in the bounty hunting trade that good work  makes little 
     <Name>Reputation is Everything</Name>
     <Description>
       [H4]Reputation is Everything[h4]
-To a bounty hunter, maintaining the appearance of being an unrelenting, unstoppable force is often as important as acutally having the skills and strength of will to succeed in the chase. While false bravado usually falls apart in the face of the challenges a bounty hunter faces, many bounty hunters work hard to uphold their repuations, repaying slights and provocations with disproportionate violence.</Description>
+To a bounty hunter, maintaining the appearance of being an unrelenting, unstoppable force is often as important as actually having the skills and strength of will to succeed in the chase. While false bravado usually falls apart in the face of the challenges a bounty hunter faces, many bounty hunters work hard to uphold their reputations, repaying slights and provocations with disproportionate violence.</Description>
     <Source Page="37">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Code</Motivation>
@@ -2285,7 +2285,7 @@ There is nothing more important than the rule of law, and the character is sworn
     <Name>Prejudice</Name>
     <Description>
       [H4]Prejudice[h4]
-Sentinels fighting prejudice often operate as street-level diplomats, confronting individuals about their acts and stopping violence as it occers. Prejudice is usually personal and ingrained. Sentinals might find themselves arguing with bigots completely unaware or in denial of their bigotry.</Description>
+Sentinels fighting prejudice often operate as street-level diplomats, confronting individuals about their acts and stopping violence as it occurs. Prejudice is usually personal and ingrained. Sentinels might find themselves arguing with bigots completely unaware or in denial of their bigotry.</Description>
     <Source Page="32">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Injustice</Motivation>
@@ -2315,7 +2315,7 @@ Similar to Disenfranchisement, this Injustice sees one group using culture, law 
     <Name>Poverty</Name>
     <Description>
       [H4]Poverty[h4]
-Money makes modern civilization work. A lack of money results in not only an inability ot participate in modern society but also a dearth in access to resources that help a person earn an income in the first place. Money may not buy happiness, but the lack of money garantees misery and can lead to crime.</Description>
+Money makes modern civilization work. A lack of money results in not only an inability ot participate in modern society but also a dearth in access to resources that help a person earn an income in the first place. Money may not buy happiness, but the lack of money guarantees misery and can lead to crime.</Description>
     <Source Page="32">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Injustice</Motivation>
@@ -2335,7 +2335,7 @@ Illness can devastate communities and finding a cure requires uncovering and und
     <Name>Imprisonment</Name>
     <Description>
       [H4]Imprisonment[h4]
-A just society isolates a troubled individual for rehabilitation and community protection, while an unjust one imprisons based on predjudice or a list for power. Sentinels bettling unjust imprisonment often find themselves fighting against corrupt police forces and legal system personnel, especially with a planet aligned with the Empire.</Description>
+A just society isolates a troubled individual for rehabilitation and community protection, while an unjust one imprisons based on prejudice or a list for power. Sentinels battling unjust imprisonment often find themselves fighting against corrupt police forces and legal system personnel, especially with a planet aligned with the Empire.</Description>
     <Source Page="32">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Injustice</Motivation>
@@ -2355,7 +2355,7 @@ Without a home or a homeworld, a species not only loses resources but also the l
     <Name>Hunger</Name>
     <Description>
       [H4]Hunger[h4]
-Considered the most basice Injustice, the denial of food has made civilizations collapse. Sentinels often find a wide range of complex obstacles in solving this problem—apathy, poverty, logistics, and institutional stubbornness.</Description>
+Considered the most basic Injustice, the denial of food has made civilizations collapse. Sentinels often find a wide range of complex obstacles in solving this problem—apathy, poverty, logistics, and institutional stubbornness.</Description>
     <Source Page="32">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Injustice</Motivation>
@@ -2385,7 +2385,7 @@ Beyond just the loss of voting rights, this can also mean the loss of other esse
     <Name>Self-Reliance</Name>
     <Description>
       [H4]Self-Reliance[h4]
-It's a dangerous galaxy, with governments being overthrown and entire planets being destroyed. No matter where, the character always works to avoid any need for halp for there will always be times when either no one else is present or able to offer assistance.</Description>
+It's a dangerous galaxy, with governments being overthrown and entire planets being destroyed. No matter where, the character always works to avoid any need for help for there will always be times when either no one else is present or able to offer assistance.</Description>
     <Source Page="32">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Pursuit</Motivation>
@@ -2395,7 +2395,7 @@ It's a dangerous galaxy, with governments being overthrown and entire planets be
     <Name>Efficiency</Name>
     <Description>
       [H4]Efficiency[h4]
-Life is a precious resource, and the character strives to waste as little as possible. Not only are the character's own actions examples of economical, effective perfection, but the character also always seeks to similarly imrpve other sentients, technologies, and even nature where possible, to these standards.</Description>
+Life is a precious resource, and the character strives to waste as little as possible. Not only are the character's own actions examples of economical, effective perfection, but the character also always seeks to similarly improve other sentients, technologies, and even nature where possible, to these standards.</Description>
     <Source Page="32">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Pursuit</Motivation>
@@ -2425,7 +2425,7 @@ Since finding a connection to the Force, the character has sought to learn more 
     <Name>Deadliness</Name>
     <Description>
       [H4]Deadliness[h4]
-While death is not the character's goal, it cannot be avoided and so must be honed to an art. Never missing an oppurtunity to practice swordplay and aim, the PC views each combat as a test of personal lethality.</Description>
+While death is not the character's goal, it cannot be avoided and so must be honed to an art. Never missing an opportunity to practice swordplay and aim, the PC views each combat as a test of personal lethality.</Description>
     <Source Page="32">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Pursuit</Motivation>
@@ -2488,9 +2488,9 @@ do just about anything to prove himself and achieve the authority he knows he de
     <Description>
       [H4]Local Civilian[h4]
 Soldiers often form quick bonds with the people who live on worlds where they deploy. The connection
-may be with a farmer who sells produce to the troops, a local youth who shares a love of m ilitary technology, or a village 
+may be with a farmer who sells produce to the troops, a local youth who shares a love of military technology, or a village 
 elder whose venerable traditions strike a chord within the Soldier. This bond can be an asset, supplying the PC with
-unique inform ation on the region, but can also cause the Soldier em otional strife if this friend is dragged into the war.</Description>
+unique inform action on the region, but can also cause the Soldier emotional strife if this friend is dragged into the war.</Description>
     <Source Page="36">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Relationship</Motivation>
@@ -2500,7 +2500,7 @@ unique inform ation on the region, but can also cause the Soldier em otional str
     <Name>Tech</Name>
     <Description>
       [H4]Tech[h4]
-A Soldier m ight have one very specific piece of technology that is especially precious, such as a droid, a vehicle
+A Soldier might have one very specific piece of technology that is especially precious, such as a droid, a vehicle
 or customized rifle. The character works hard to safeguard it, and spends any spare tim e or money on maintaining,
 repairing, or upgrading this cherished machine.</Description>
     <Source Page="36">Forged in Battle</Source>
@@ -2666,7 +2666,7 @@ It would be easier to leave things as they are, but these Engineers view difficu
     <Name>Lethality</Name>
     <Description>
       [H4]Lethality[h4]
-It is clear to these Engineers that the more deadly the weapon, the better it is. They may also strive to make themselves as dangerous as possible through martial trainig and physical conditioning.
+It is clear to these Engineers that the more deadly the weapon, the better it is. They may also strive to make themselves as dangerous as possible through martial training and physical conditioning.
     </Description>
     <Source Page="32">Fully Operational</Source>
     <Custom>DescOnly</Custom>
@@ -2719,7 +2719,7 @@ Replacement items are always an issue, so everything in the Rebellion must last 
     <Name>Makeshift</Name>
     <Description>
       [H4]Makeshift[h4]
-Anyone can improve things given sufficient resources, but true artisans can take whatever might be around and craft mechanical art. While Rebels are often starved for parts, these Enginers might deliberately use improvised items to create personal works.</Description>
+Anyone can improve things given sufficient resources, but true artisans can take whatever might be around and craft mechanical art. While Rebels are often starved for parts, these Engineers might deliberately use improvised items to create personal works.</Description>
     <Source Page="32">Fully Operational</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Improvements</Motivation>
@@ -2729,7 +2729,7 @@ Anyone can improve things given sufficient resources, but true artisans can take
     <Name>Simplicity</Name>
     <Description>
       [H4]Simplicity[h4]
-The best items are the ones that perform their functions in a basic manner, and Engineers work to eliminate anything that stands in the way of this goal. Lives are also lived best this way, but the Empire's harsh oversight or all aspects of its citizenry is in direct opposition to thie ideal.</Description>
+The best items are the ones that perform their functions in a basic manner, and Engineers work to eliminate anything that stands in the way of this goal. Lives are also lived best this way, but the Empire's harsh oversight or all aspects of its citizenry is in direct opposition to the ideal.</Description>
     <Source Page="32">Fully Operational</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Improvements</Motivation>

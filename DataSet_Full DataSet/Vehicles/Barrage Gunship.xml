@@ -3,7 +3,7 @@
   <Key>BARRGUN</Key>
   <Name>Barrage Gunship</Name>
   <Description>[H3]Barrage Gunship[h3]
-[P]The [I]Barrage[i]-class gunship was designed to provide long-distance, overwhelming missile barrages against key enemy starships. While its design maximizes full broadside potential, this comes at the cost of a relatively fragile frame. Thus, this gunshop must be closely protected by more durable craft. Certain tacticians have learned that a carefully placed [I]Barrage[i] gunship can utterly incapacitate a key enemy vessel before the foe realizes that the first volley is away. Many buyers shy away from the vessel due to the high maintenence costs (and the high costs of ammunition). However, owners of [I]Barrage[i] gunships always speak highly of these vessels, and perhaps more tellingly, so do those who have faced them.</Description>
+[P]The [I]Barrage[i]-class gunship was designed to provide long-distance, overwhelming missile barrages against key enemy starships. While its design maximizes full broadside potential, this comes at the cost of a relatively fragile frame. Thus, this gunshop must be closely protected by more durable craft. Certain tacticians have learned that a carefully placed [I]Barrage[i] gunship can utterly incapacitate a key enemy vessel before the foe realizes that the first volley is away. Many buyers shy away from the vessel due to the high maintenance costs (and the high costs of ammunition). However, owners of [I]Barrage[i] gunships always speak highly of these vessels, and perhaps more tellingly, so do those who have faced them.</Description>
   <Source>Keeping the Peace</Source>
   <Custom>DescOnly</Custom>
   <Type>Gunship</Type>
@@ -17,7 +17,7 @@
   <BaseMods>
     <Mod>
       <Count>1</Count>
-      <MiscDesc>[B]Interior Ordnance[b]: Unlike most ship-mounted weapons, a [I]Barrage[i]'s torpedo tubes can be manually reloaded from internal reserves.  As an action, anyone onboard may make an [B]Average ([DI][DI]) Athletices check[b] to reload one proton torpedo launcher.</MiscDesc>
+      <MiscDesc>[B]Interior Ordnance[b]: Unlike most ship-mounted weapons, a [I]Barrage[i]'s torpedo tubes can be manually reloaded from internal reserves.  As an action, anyone onboard may make an [B]Average ([DI][DI]) Athletics check[b] to reload one proton torpedo launcher.</MiscDesc>
     </Mod>
   </BaseMods>
   <HyperdrivePrimary>3</HyperdrivePrimary>

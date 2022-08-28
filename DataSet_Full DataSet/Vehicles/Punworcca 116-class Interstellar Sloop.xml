@@ -5,7 +5,7 @@
   <Description>[H3][I]Punworcca 116[i]-class Interstellar Sloop[h3]
 The [I]Punworcca 116[i]-class Interstellar Sloop is a solar sailer-a beautiful and ancient class of vessel that uses an immense sail to draw energy particles from surrounding space to power its hyperdrive.
 [P]The [I]Punworcca 116[i] was built by the Huppla Pasa Tisc Shipwrights Collective on Geonosis, and was primarily designed as a personal yacht for the wealthy and important. It is not a practical vessel-it barely has room for 2 passengers in addition to the pilot (most owners tended to use a droid to pilot the ship), and not much cargo space. In addition, the huge sail can be an impractical method of travel, especially in dangerous regions of space.
-[P]Characters may encounter similar solar sailers when traveling in the far reaches of the Outer Rim and beyond, where older vessels are still occasionally used.</Description>
+[P]Characters may encounter similar solar sailors when traveling in the far reaches of the Outer Rim and beyond, where older vessels are still occasionally used.</Description>
   <Source Page="62">Unlimited Power</Source>
   <Custom>DescOnly</Custom>
   <Type>Yacht</Type>
@@ -23,7 +23,7 @@ The [I]Punworcca 116[i]-class Interstellar Sloop is a solar sailer-a beautiful a
     </Mod>
     <Mod>
       <Count>1</Count>
-      <MiscDesc>[B]Let Out The Sail:[b] When the [I]Punworcca 116[i] has its massive sail unfurled, its silhouette is increased from 3 to 5. Its port and starboard defenses are lowered from 2 to 0. Without the sail unfurled, though, the primary hyperdrive cannot be used. If the sail is damaged, the primary hyperdrive is inoperable, forclng the use of an extremely sub-standard class 15 backup drive.</MiscDesc>
+      <MiscDesc>[B]Let Out The Sail:[b] When the [I]Punworcca 116[i] has its massive sail unfurled, its silhouette is increased from 3 to 5. Its port and starboard defenses are lowered from 2 to 0. Without the sail unfurled, though, the primary hyperdrive cannot be used. If the sail is damaged, the primary hyperdrive is inoperable, forcing the use of an extremely sub-standard class 15 backup drive.</MiscDesc>
     </Mod>
   </BaseMods>
   <HyperdrivePrimary>1</HyperdrivePrimary>

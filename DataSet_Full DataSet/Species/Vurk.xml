@@ -45,7 +45,7 @@ This reptilian race has extended their nomadic tradition to the galaxy. Galactic
         <Option>
           <Key>VURKCH1OP1</Key>
           <Name>Amphibious</Name>
-          <Description>Vurks can breathe underwater without penalty and never suffer movement penalties when travelling through water.</Description>
+          <Description>Vurks can breathe underwater without penalty and never suffer movement penalties when traveling through water.</Description>
         </Option>
       </Options>
     </OptionChoice>
