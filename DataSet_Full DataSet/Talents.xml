@@ -10153,4 +10153,82 @@
     </DieModifiers>
     <Activation>Passive</Activation>
   </Talent>
+  <Talent>
+    <Key>BRAIMP</Key>
+    <Name>Brace (Improved)</Name>
+    <Description>When the character perorms the Brace maneuver, they may choose one environmental circumstance. The benefits of Brace apply to that circumstance until the end of the encounter.</Description>
+    <Sources>
+      <Source Page="38">Rise of the Separatists</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>BRASUP</Key>
+    <Name>Brace (Supreme)</Name>
+    <Description>When the character performs the Brace maneuver, the benefits apply to all allies within short range.</Description>
+    <Sources>
+      <Source Page="38">Rise of the Separatists</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>FIRESUP</Key>
+    <Name>Fire Support</Name>
+    <Description>After the character makes a successful combat check using a vehicle weapon, the next ally to make a check adds [BO] equal to ranks of Fire Support.</Description>
+    <Sources>
+      <Source Page="39">Rise of the Separatists</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taPassive</ActivationValue>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>BARREL</Key>
+    <Name>Barrel Roll</Name>
+    <Description>When piloting a vehicle of sihouette 3 or less, when hit by an attack, suffer 3 system strain to reduce damage of one hit by ranks in Piloting.</Description>
+    <Sources>
+      <Source Page="37">Rise of the Separatists</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <Activation>OOT Incidental</Activation>
+  </Talent>
+  <Talent>
+    <Key>BARRELIMP</Key>
+    <Name>Barrel Roll (Improved)</Name>
+    <Description>When the character takes the Barrel Roll incidental, reduce the damage of all hits of the ttack by ranks in Piloting.</Description>
+    <Sources>
+      <Source Page="37">Rise of the Separatists</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>BARRELSUP</Key>
+    <Name>Barrel Roll (Supreme)</Name>
+    <Description>When using Barrel Roll against certain weapons, may spend [DE] or [TH][TH][TH] to inflict one hit on an enemy vehicle within close rankge, dealing base damage of the original attack.</Description>
+    <Sources>
+      <Source Page="37">Rise of the Separatists</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>ASSAULTDR</Key>
+    <Name>Assault Drop</Name>
+    <Description>Once per session, the character may perform the Assault Drop incidental to allow allies to embark or disembark from a vehicle or ship they are piloting as an out-of-turn incidental.</Description>
+    <Sources>
+      <Source Page="37">Rise of the Separatists</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <Activation>Incidental</Activation>
+  </Talent>
 </Talents>

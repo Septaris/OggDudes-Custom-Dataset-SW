@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Reputations>
+  <Reputation>
+    <Key>GUARDBELOVED</Key>
+    <Name>Beloved</Name>
+    <Description>[H4]Beloved[h3]
+    Please see page 92 of the Keeping the Peace source book for details.</Description>
+    <Source Page="92">Keeping the Peace source book</Source>
+    <Level>3</Level>
+  </Reputation>
+</Reputations>
