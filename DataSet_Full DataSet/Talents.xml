@@ -37,7 +37,13 @@
     <Key>ARM</Key>
     <Name>Armor Master</Name>
     <Description>When wearing armor, Increase total soak value by 1.</Description>
-    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="132">Edge of the Empire Core Rulebook</Source>
+      <Source Page="142">Age of Rebellion Core Rulebook</Source>
+      <Source Page="37">Rise of the Separatists</Source>
+      <Source Page="37">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <Attributes>
       <SoakValue>1</SoakValue>
@@ -45,21 +51,19 @@
         <WearingArmor>true</WearingArmor>
       </Requirement>
     </Attributes>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
     <Key>ARMIMP</Key>
     <Name>Armor Master (Improved)</Name>
     <Description>When wearing armor with a soak value of 2 or higher, increase defense by 1.</Description>
-    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="132">Edge of the Empire Core Rulebook</Source>
+      <Source Page="143">Age of Rebellion Core Rulebook</Source>
+      <Source Page="37">Rise of the Separatists</Source>
+      <Source Page="37">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <Attributes>
       <DefenseRanged>1</DefenseRanged>
@@ -69,14 +73,6 @@
         <SoakAtLeast>2</SoakAtLeast>
       </Requirement>
     </Attributes>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
@@ -116,18 +112,15 @@
     <Key>BAL</Key>
     <Name>Balance</Name>
     <Description>When the character heals strain at the end of the encounter, he may add [FO] per Force Rating. He recovers additional strain equal to [LI] generated.</Description>
-    <Custom>DescOnly</Custom>
-    <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
+    <Sources>
+      <Source Page="132">Edge of the Empire Core Rulebook</Source>
+      <Source Page="143">Age of Rebellion Core Rulebook</Source>
+      <Source Page="37">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
+    <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
-    <Activation>Passive</Activation>
+    <Activation>Maneuver</Activation>
   </Talent>
   <Talent>
     <Key>BAR</Key>
@@ -3789,18 +3782,15 @@
     <Key>PHYSTRAIN</Key>
     <Name>Physical Training</Name>
     <Description>Add [BO] per rank of Physical Training to Athletics and Resilience checks.</Description>
-    <Source>Age of Rebellion Core Rulebook</Source>
-    <Custom>DescOnly</Custom>
+    <Sources>
+      <Source Page="154">Age of Rebellion Core Rulebook</Source>
+      <Source Page="30">Disciples of Harmony</Source>
+      <Source Page="41">Rise of the Separatists</Source>
+      <Source Page="42">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>CustomItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <DieModifiers>
       <DieModifier>
         <SkillKey>ATHL</SkillKey>
@@ -9724,7 +9714,7 @@
   <Talent>
     <Key>SIDESTIMP</Key>
     <Name>Side Step (Improved)</Name>
-    <Description>Whenever the character performs a Side Step maneuver, until the start of their next turn they may spend [TH][TH][TH] or [DE] from an attacker's check to inflict one hit with a ranged weapon they are wielding.
+    <Description>When the character performs a Side Step maneuver, until the start of their next turn they may spend [TH][TH][TH] or [DE] from an attacker's check to inflict one hit with a ranged weapon they are wielding.
 </Description>
     <Source Page="27">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
@@ -9993,7 +9983,8 @@
   <Talent>
     <Key>TOTHEDTH</Key>
     <Name>To the Death!</Name>
-    <Description>Once per session, the character may take the To the Death! maneuver, suffering strain no greater than their Willpower rating. For each strain suffered this way, add +10 to Critical Injury rolls the character inflicts and suffers until the end of the encounter.</Description>
+    <Description>Once per session, suffer strain up to Willpower and add a +10 per strain suffered to critical rolls the character inflicts or suffers until the end of the encounter
+</Description>
     <Source Page="29">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taManeuver</ActivationValue>
@@ -10007,7 +9998,8 @@
   <Talent>
     <Key>DTHFRABOVE</Key>
     <Name>Death from Above</Name>
-    <Description>Once per encounter while using a jetpack, the character may take the Death from Above action, inflicting 1 system strain on their jetpack and making a [B]Hard ([DI][DI][DI])piloting (planetary) check[b]. If the check is successful, for each [SU], one adversary of silhouette 0 or 1 within short range is knocked prone. The character may spend [TRIUMPH] from the check to stagger one affected adversary until the end of that adversary's next turn.</Description>
+    <Description>Once per encounter, inflict 1 system strain on jetpack and make a [B]Hard ([DI][DI][DI]) Piloting check[b]. For each [SU], one adversary in short range is knocked prone. May spend [TR] to stagger one affected target
+</Description>
     <Source Page="29">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
     <Ranked>true</Ranked>
