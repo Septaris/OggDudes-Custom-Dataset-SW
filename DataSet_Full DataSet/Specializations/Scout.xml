@@ -4,8 +4,8 @@
   <Name>Scout</Name>
   <Description>[H4]Scout - Discovering New Planets[h4]
 
-[P]There's finding a planet, and then there's going down to the planet and seeing what's what. The Scout is the professional for the task, trained to survey and survive, gathering all of the information he can while keeping his head attached to his body. While bravery in combat is one thing, there can be no denying the fearlessness of anyone willing to touch down on a completely unknown planet and trudge about with only scanners and his wits to discover its secrets. 
-[P]A Scout knows his way around in any environment, and he's both tough and knowledgeable enough to make the most of his situation. His additional Career skills make his job much easier: [B]Athletics, Medicine, Piloting (Planetary),[b] and [B]Survival[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. Most Scouts are skilled at: covering any ground (or lack thereof); how to find what to eat and where to sleep; and how to survey an area and gather all the needed data. Scouts are often excellent at driving or piloting atmospheric craft as well. 
+[P]There's finding a planet, and then there's going down to the planet and seeing what's what. The Scout is the professional for the task, trained to survey and survive, gathering all of the information he can while keeping his head attached to his body. While bravery in combat is one thing, there can be no denying the fearlessness of anyone willing to touch down on a completely unknown planet and trudge about with only scanners and his wits to discover its secrets.
+[P]A Scout knows his way around in any environment, and he's both tough and knowledgeable enough to make the most of his situation. His additional Career skills make his job much easier: [B]Athletics, Medicine, Piloting (Planetary),[b] and [B]Survival[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. Most Scouts are skilled at: covering any ground (or lack thereof); how to find what to eat and where to sleep; and how to survey an area and gather all the needed data. Scouts are often excellent at driving or piloting atmospheric craft as well.
 
 [P]There are plenty of Scouts that work either for the Empire or for corporations that actively seek out and survey planets for possible exploitation. They normally work with survey teams with excellent support and resources. Independent Scouts—like the one a player is likely to play—operate with a great deal more autonomy. They will find smaller operations to work with, ones with looser rules and regulations that let them operate more as they choose. Living by his toughness and wits as he must, a Scout will be surprisingly effective in most situations. After all, adapting to the unknown is a trademark talent of any Scout.</Description>
   <Sources>
@@ -160,7 +160,4 @@
       </Directions>
     </TalentRow>
   </TalentRows>
-  <AddlCareerSkills>
-    <Type />
-  </AddlCareerSkills>
 </Specialization>

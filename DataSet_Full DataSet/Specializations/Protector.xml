@@ -4,11 +4,11 @@
   <Name>Protector</Name>
   <Description>[H4]Protector[h4]
 
-Guardians are often driven by their compassion for the plights of those who cannot protect themselves. Protectors ensure these innocents never come to harm. Few are tougher than a Protector, and even fewer can get through his guard to attack those he defends. Even if his charges do suffer harm, the Protector possesses basic medical knowledge to heal their wounds. 
+Guardians are often driven by their compassion for the plights of those who cannot protect themselves. Protectors ensure these innocents never come to harm. Few are tougher than a Protector, and even fewer can get through his guard to attack those he defends. Even if his charges do suffer harm, the Protector possesses basic medical knowledge to heal their wounds.
 
-[P]Protectors gain the additional career skills of [B]Athletics, Medicine, Ranged (Light),[b] and [B]Resilience[b]. If this is the characters starting specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. This combination enables the character to assist those who are in need during a crisis. These skills complement many of the talent selections, so that the Protector remains capable of effectively shielding others from suffering harm without sacrificing his own capabilities. 
+[P]Protectors gain the additional career skills of [B]Athletics, Medicine, Ranged (Light),[b] and [B]Resilience[b]. If this is the characters starting specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. This combination enables the character to assist those who are in need during a crisis. These skills complement many of the talent selections, so that the Protector remains capable of effectively shielding others from suffering harm without sacrificing his own capabilities.
 
-[P]Protectors could be considered bodyguards, but their efforts are seldom limited to protecting a single individual. Instead, Protectors are more likely to defend the needy on a larger scale. Often, they function as rescue workers, using their medical knowledge to stabilize injuries in the field and then providing additional protection. In other cases, Protectors may shelter refugees or other victims fleeing terrible situations. holding the line until the innocents can escape to safety. When a Protector does defend a single individual, It is likely because a great threat—even another Force user—pursues the person. 
+[P]Protectors could be considered bodyguards, but their efforts are seldom limited to protecting a single individual. Instead, Protectors are more likely to defend the needy on a larger scale. Often, they function as rescue workers, using their medical knowledge to stabilize injuries in the field and then providing additional protection. In other cases, Protectors may shelter refugees or other victims fleeing terrible situations. holding the line until the innocents can escape to safety. When a Protector does defend a single individual, It is likely because a great threat—even another Force user—pursues the person.
 
 [P]Some Protectors might come to master their abilities while working in a military or law enforcement role. Some Force techniques might manifest spontaneously as they instinctively act to keep companions safe. This could be particularly relevant for individuals who have not recognized their connection to the Force. Its presence might enable them to save an ally from danger in a seemingly inexplicable fashion. However, once these individuals realize the power they have, they must decide whether to continue their career and keep it a secret, or leave the life they've known and explore their new abilities.</Description>
   <Source Page="76">Force and Destiny Core Rulebook</Source>
@@ -159,7 +159,4 @@ Guardians are often driven by their compassion for the plights of those who cann
       </Directions>
     </TalentRow>
   </TalentRows>
-  <AddlCareerSkills>
-    <Type />
-  </AddlCareerSkills>
 </Specialization>

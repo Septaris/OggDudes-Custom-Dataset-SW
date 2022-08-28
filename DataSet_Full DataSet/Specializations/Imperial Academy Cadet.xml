@@ -156,7 +156,4 @@ The Empire trains cadets to be effective and unquestioning soldiers. To its dism
     </TalentRow>
   </TalentRows>
   <Universal>true</Universal>
-  <AddlCareerSkills>
-    <Type />
-  </AddlCareerSkills>
 </Specialization>

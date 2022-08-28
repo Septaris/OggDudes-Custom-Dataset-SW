@@ -5,9 +5,9 @@
   <Description>
     [H4]Scientist - Making New Things[h4]
 
-With a fraction of the resources and funding of the Empire, the Alliance is constantly forced to find creative solutions to problems. These problems include matters of supply, housing, transport, effective weaponry and defenses, and a host of others. The people they turn to for those creative solutions are those who are trained and driven to identify a need and seek out a technical solution to it—in other words, Scientists. 
+With a fraction of the resources and funding of the Empire, the Alliance is constantly forced to find creative solutions to problems. These problems include matters of supply, housing, transport, effective weaponry and defenses, and a host of others. The people they turn to for those creative solutions are those who are trained and driven to identify a need and seek out a technical solution to it—in other words, Scientists.
 
-[P]The additional career skills for Scientists are [B]Computers, Knowledge (Education), Knowledge (Lore),[b] and [B]Medicine[b]. If this is a first specialization, the PC gains a free rank in two of these skills. Unsurprisingly, Scientists are among the most educated people in the galaxy, with a wide range of advanced knowledge in areas such as medicine and celestial mechanics. 
+[P]The additional career skills for Scientists are [B]Computers, Knowledge (Education), Knowledge (Lore),[b] and [B]Medicine[b]. If this is a first specialization, the PC gains a free rank in two of these skills. Unsurprisingly, Scientists are among the most educated people in the galaxy, with a wide range of advanced knowledge in areas such as medicine and celestial mechanics.
 
 [P]Most Scientists pursue their work in labs, rarely venturing out into the greater galaxy. Their lives are spent on theories and research, pondering the latest mysteries of the universe comfortably away from conflict and strife. Some Scientists, however, seek the satisfaction of bringing their theories and their ideas into the galaxy in order to help others. They design solutions, help create of the technology to implement those solutions, and actively test and use those solutions alongside others who are also trying to help make life better.
 
@@ -153,7 +153,4 @@ With a fraction of the resources and funding of the Empire, the Alliance is cons
       </Directions>
     </TalentRow>
   </TalentRows>
-  <AddlCareerSkills>
-    <Type />
-  </AddlCareerSkills>
 </Specialization>

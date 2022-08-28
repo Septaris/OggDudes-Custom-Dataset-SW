@@ -156,7 +156,4 @@ Pirates care about helping themselves, and they do not care how they do it. They
     </TalentRow>
   </TalentRows>
   <Universal>true</Universal>
-  <AddlCareerSkills>
-    <Type />
-  </AddlCareerSkills>
 </Specialization>

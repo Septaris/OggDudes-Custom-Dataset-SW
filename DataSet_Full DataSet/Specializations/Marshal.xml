@@ -6,9 +6,9 @@
 
 [P]Criminals might run and criminals might hide, but the Marshal won't rest until he drags them back to town in binders. The presence of a strong Marshal is often the only thing keeping a colony from plunging into chaos. The Marshal has a gift for extracting information from witnesses and confessions from criminals. and separating lies and irrelevant information from the truth. Should suspects turn violent, the Marshal is equally adept at talking criminals into a pair of binders or blasting them into oblivion.
 
-[P]Marshals receive [B]Coercion, Knowledge (Underworld), Ranged (Light)[b] and [B]Vigilance[b] as additional career skills. If this is the character's starting specialization, he gains one free rank in each of two of these skills of his choice, without spending experience. Where most Colonists are forced to rely on talking their way out of trouble, the Marshal finds that his blaster speaks almost as well as he does. Most law officers know that holding the weight of the law over a potential witness is the quickest way to modify his attitude. Marshals can throw the weight of their authority around to get answers. There is little government oversight on the fringe, and often a Marshal's word is the law. 
+[P]Marshals receive [B]Coercion, Knowledge (Underworld), Ranged (Light)[b] and [B]Vigilance[b] as additional career skills. If this is the character's starting specialization, he gains one free rank in each of two of these skills of his choice, without spending experience. Where most Colonists are forced to rely on talking their way out of trouble, the Marshal finds that his blaster speaks almost as well as he does. Most law officers know that holding the weight of the law over a potential witness is the quickest way to modify his attitude. Marshals can throw the weight of their authority around to get answers. There is little government oversight on the fringe, and often a Marshal's word is the law.
 
-[P]Equally as important is the Marshal's knowledge of crime and criminal elements, especially those operating within his jurisdiction. A Marshal who doesn't take the time to familiarize himself with the local malcontents isn't going to be very good at his job. And when it comes time to go toe to toe with those criminals, the Marshal is ready. Most Marshals know how to use the blasters at their hips. 
+[P]Equally as important is the Marshal's knowledge of crime and criminal elements, especially those operating within his jurisdiction. A Marshal who doesn't take the time to familiarize himself with the local malcontents isn't going to be very good at his job. And when it comes time to go toe to toe with those criminals, the Marshal is ready. Most Marshals know how to use the blasters at their hips.
 
 The Marshal makes for a great leader in combat-oriented groups, or can provide some muscle to non-combat groups while still participating in social and investigative encounters. Marshals strike a great balance between social skills and combat, allowing them to speak on behalf of combat-oriented parties without being a liability when blaster bolts start flying. Their ability to sort fact from fiction makes them difficult to manipulate, and their gritty determination can carry an entire group that would have otherwise given up hope of success.</Description>
   <Source Page="28">Far Horizons</Source>
@@ -152,7 +152,4 @@ The Marshal makes for a great leader in combat-oriented groups, or can provide s
       </Directions>
     </TalentRow>
   </TalentRows>
-  <AddlCareerSkills>
-    <Type />
-  </AddlCareerSkills>
 </Specialization>
