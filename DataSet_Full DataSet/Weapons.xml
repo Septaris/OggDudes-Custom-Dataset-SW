@@ -836,7 +836,7 @@ Dirty fighters and those looking to protect their fists from the tough hides of 
 
 Thin, metallic wires turn standard insulated gauntlets into shock gloves. Martial artists can use them to augment their brutal hand attacks, and more than a few nefarious rogues have been known to "seal a deal" with a handshake that leaves a rival convulsing on the floor. 
 
-[P][B]Models Include[b]: Corellian Personal Defence X-21.</Description>
+[P][B]Models Include[b]: Corellian Personal Defense X-21.</Description>
     <Custom>DescOnly</Custom>
     <Type>Brawling</Type>
     <Categories>
@@ -5029,9 +5029,9 @@ Known primarily for their finely designed skiffs and robust security systems, Te
   </Weapon>
   <Weapon>
     <Key>RIOTRIFLE</Key>
-    <Name>R-88 Supressor Riot Rifle</Name>
+    <Name>R-88 Suppressor Riot Rifle</Name>
     <Description>
-      [H3]R-88 Supressor Riot Rifle[h3]
+      [H3]R-88 Suppressor Riot Rifle[h3]
 
 Produced by the non-lethal weapons division of Merr-Sonn Munitions, the R-88 is one of the most common riot control weapons in the galaxy. First released decades before the Clone Wars, the R-88 is similar in design and operation to the rare and expensive Stokhli Spray Stick. These long arms resemble bulky blaster rifles with two large cylinders slung beneath the barrel. The cylinders are loaded with a highly effective liquid nerve agent called Brix-C Stun Fluid, which is synthesized by Merr-Sonn. When fired, the Suppressor shoots a high velocity, concentrated stream of Brix-C that quickly aerosolizes as it travels. Effective at short and medium ranges, the stun fluid deals its damage either through inhalation or skin contact and causes nausea, impaired vision, difficulty breathing, burning pain, and unconsciousness. 
 
@@ -8149,7 +8149,7 @@ The basic lightsaber is, in essence, the baseline to which all other lightsabers
     <Description>
       [H3]Double-Bladed Lightsaber[h3]
 
-Known colloquially among Force adherents as lightstaffs or Sith lightsabers, the dangerous double-bladed I ightsabers were first designed by the Dark Lords of the Old Sith Empire. Double-bladed lightsabers consist of an oversized lightsaber hilt equipped with an upgraded power supply and twin emitter systems and crystals, one at either end of the hilt. When activated, a full-sized lightsaber blade springs from each emitter, making an exceptionally potent weapon nearly as long as a full-grown human. The weapon's twin blades allow a user to strike more rapidly, and sometimes fight multiple foes at once. Although quite dangerous and effective in combat, double-bladed lightsabers are also exceptionally difficult to master. Nevertheless, some Jedi constructed double-bladed lightsabers for themselves, including some notable figures in ancient Jedi myth. 
+Known colloquially among Force adherents as lightstaffs or Sith lightsabers, the dangerous double-bladed lightsabers were first designed by the Dark Lords of the Old Sith Empire. Double-bladed lightsabers consist of an oversized lightsaber hilt equipped with an upgraded power supply and twin emitter systems and crystals, one at either end of the hilt. When activated, a full-sized lightsaber blade springs from each emitter, making an exceptionally potent weapon nearly as long as a full-grown human. The weapon's twin blades allow a user to strike more rapidly, and sometimes fight multiple foes at once. Although quite dangerous and effective in combat, double-bladed lightsabers are also exceptionally difficult to master. Nevertheless, some Jedi constructed double-bladed lightsabers for themselves, including some notable figures in ancient Jedi myth. 
 [P]Although technically, this weapon contains two lightsaber crystals (one for each blade), for the purposes of gameplay it is treated as having a single crystal. This lightsaber is a double-bladed lightsaber hilt containing an unmodded Hum lightsaber crystal (see page 197). This crystal occupies two of the weapon's hard points. 
 [P]When purchasing attachments for this weapon (including crystals), each attachment costs double the listed price. This represents the fact that the double-bladed lightsaber generally requires two of each attachment (one for each end). However, when installing and modding these attachments, follow all normal rules. 
 [BR][B]Models Include:[b] None; each of these weapons is individually constructed.</Description>
@@ -9427,6 +9427,7 @@ that can serve as sniper weapons. The Verpine are a largely peaceful species, an
     <Description>
       [H3]Palandrix KO-2 Heavy Stun Pistol[h3]
 [P]Known colloquially as a "coma pistol", the Palandrix KO-2 stands head and shoulders above other stun pistols in both power and range. Though as large as a typical heavy blaster pistol, the KO-2 is streamlined and lightweight due to the use of orbital alloys and high-density plastics in its construction. Given its size, the weapon is an intimidating sight in the hands of a trained professional.
+
 [P]Primarily used by law enforcement organizations requiring an effective, non-lethal alternative to traditional blaster weapons, the KO-2 is generally seen only in the Core Worlds. The weapon has only recently seen use in the Outer RIm, and is generally harder to find the farther one gets from the galactic center. despire its relative obscurity, the KO-2 continues to gain high marks for effectiveness and reliability.</Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
@@ -9456,7 +9457,7 @@ that can serve as sniper weapons. The Verpine are a largely peaceful species, an
     <Name>Security S-5 Heavy Blaster Pistol</Name>
     <Description>
       [H3]Security S-5 Heavy Blaster Pistol[h3]
-[P]A pistol designed and manufactured by Theed Arms on Naboo, the Security S-5 is a reliable, versatile weapon. During the Clone Wars, it was a preferred weapon of the Royal Naboo Security Forces, and it remains a popular choice for private security groups, bodyguards and other blaster conoisseurs. Its under-barrel dart launcher can be configured to launch solid projectiles of various sorts; on eparticularly common choice is a grappling hook attached to a cable, which wielders can use to anchor themselves to nearby objects, swing across gaps, and safely descend into drops.
+[P]A pistol designed and manufactured by Theed Arms on Naboo, the Security S-5 is a reliable, versatile weapon. During the Clone Wars, it was a preferred weapon of the Royal Naboo Security Forces, and it remains a popular choice for private security groups, bodyguards and other blaster connoisseurs. Its under-barrel dart launcher can be configured to launch solid projectiles of various sorts; one particularly common choice is a grappling hook attached to a cable, which wielders can use to anchor themselves to nearby objects, swing across gaps, and safely descend into drops.
 [P]As an action, a character may make an Average ([DI][DI]) Ranged (Light) check to secure the grappling hook to an object within medium range. On success, as an action, he may reel in the cord, pullin ghimself to the object (or, if the object is unsecured and lighter than he is, pulling it to him). A character may use the grappling hook to pull another character aloft with him; if he does, he must make an Average ([DI][DI]) Athletics check to avoid losing his grip on either his partner or his gun.</Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
@@ -9637,7 +9638,7 @@ Though the Jedi Order was primarily known for its use of lightsabers, there have
     <Name>Electronet</Name>
     <Description>
       [H3]Electronet[h3]
-[P]Electronets were once preferred by the Republic Scout Service when capturing newly discovered animals on alien worlds. They have since become popular with bounty hunters and law enforcers the galaxy over. Constructed of duracord with interwoven stun threads or beads, electrones can be manually draped over targets to ensnare them They are also capable of being loaded into net guns for ranged applications, or used as ground traps by canny hunters. Traditional activation of an electronet is accomplished with a handheld transmitter to avoid unintenionally stunning the user. Alternatively, a user might wear insulated glives to protect against the nets incapacitating charge. </Description>
+[P]Electronets were once preferred by the Republic Scout Service when capturing newly discovered animals on alien worlds. They have since become popular with bounty hunters and law enforcers the galaxy over. Constructed of duracord with interwoven stun threads or beads, electronets can be manually draped over targets to ensnare them. They are also capable of being loaded into net guns for ranged applications, or used as ground traps by canny hunters. Traditional activation of an electronet is accomplished with a handheld transmitter to avoid unintenionally stunning the user. Alternatively, a user might wear insulated glives to protect against the nets incapacitating charge. </Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <Type>Thrown</Type>
