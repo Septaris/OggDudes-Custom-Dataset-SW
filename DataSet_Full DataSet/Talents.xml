@@ -2982,7 +2982,7 @@
   <Talent>
     <Key>DECEPTAUNT</Key>
     <Name>Deceptive Taunt</Name>
-    <Description>Once per session, may make Deceptive Taunt action. Make opposed Deception check. If successful, one adversary must attack the character during adversary's next turn.</Description>
+    <Description>Once per session, may make Deceptive Taunt action. Make an opposed Deception check. If successful, one adversary must attack the character during adversary's next turn.</Description>
     <Source>Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -7552,23 +7552,6 @@
     <Activation>Incidental</Activation>
   </Talent>
   <Talent>
-    <Key>JUYOSAV</Key>
-    <Name>Juyo Savagery</Name>
-    <Description>Enter description for Talent "Juyo Savagery" here.
-</Description>
-    <Source Page="31">Knights of Fate</Source>
-    <Custom>DescOnly</Custom>
-    <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <ForceTalent>true</ForceTalent>
-    <Conflict>1</Conflict>
-    <Activation>Passive</Activation>
-  </Talent>
-  <Talent>
     <Key>PWRPAIN</Key>
     <Name>Power from Pain</Name>
     <Description>Once per session as an incidental, may spend 1 Destiny Point to gain +1 Force rating for each Critical Injury character is suffering until the end of the encounter.</Description>
@@ -10122,5 +10105,52 @@
       <Type>General</Type>
     </ChooseCareerSkills>
     <Activation>Action</Activation>
+  </Talent>
+  <Talent>
+    <Key>HYPASSAULT</Key>
+    <Name>Hyperspace Assault</Name>
+    <Description>May use Astrogation or Knowledge: Warfare to determine their initiative during an encounter in which they are piloting or using a starship. When rolling [TR] from the check to choose the starting locations of all allied ships in the encounter.</Description>
+    <Sources>
+      <Source Page="39">Rise of the Separatists</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>JUYOSAV</Key>
+    <Name>Juyo Savagery</Name>
+    <Description>When the character inflicts a Critical Injury with a Lightsaber combat check, add +5 to the roll for each dark side Destiny Point in the Destiny pool. Gain 1 Conflict at the beginning of each game session.</Description>
+    <Sources>
+      <Source Page="31">Knights of Fate</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ForceTalent>true</ForceTalent>
+    <Conflict>1</Conflict>
+    <Activation>Passive</Activation>
+  </Talent>
+  <Talent>
+    <Key>SECRETLORE</Key>
+    <Name>Secret Lore</Name>
+    <Description>Remove [SE] per rank of Secret Lore from their Knowledge: Lore checks. Reduce difficulty of all Knowledge Lore checks they make by 1. (this does NOT increase with additional ranks of Secret Lore)</Description>
+    <Sources>
+      <Source Page="33">Unlimited Power</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taPassive</ActivationValue>
+    <DieModifiers>
+      <DieModifier>
+        <SkillKey>LORE</SkillKey>
+        <SetbackCount>1</SetbackCount>
+      </DieModifier>
+      <DieModifier>
+        <ApplyOnce>true</ApplyOnce>
+        <SkillKey>LORE</SkillKey>
+        <DecreaseDifficultyCount>1</DecreaseDifficultyCount>
+      </DieModifier>
+    </DieModifiers>
+    <Activation>Passive</Activation>
   </Talent>
 </Talents>

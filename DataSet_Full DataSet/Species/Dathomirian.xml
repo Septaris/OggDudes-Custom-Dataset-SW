@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Species xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Key>DATHOMIRIAN</Key>
+  <Name>Dathomirian</Name>
+  <Description>[H4]Dathomirian[h4]
+Please see page 12 of the Collapse of the Republic Sourcebook for details.</Description>
+  <Source Page="12">Collapse of the Republic</Source>
+  <Custom>AddedItem</Custom>
+  <StartingChars>
+    <Brawn>2</Brawn>
+    <Agility>2</Agility>
+    <Intellect>2</Intellect>
+    <Cunning>2</Cunning>
+    <Willpower>2</Willpower>
+    <Presence>2</Presence>
+  </StartingChars>
+  <StartingAttrs>
+    <WoundThreshold>10</WoundThreshold>
+    <StrainThreshold>11</StrainThreshold>
+    <Experience>100</Experience>
+  </StartingAttrs>
+  <SkillModifiers>
+    <SkillModifier>
+      <Key>COERC</Key>
+      <RankStart>1</RankStart>
+    </SkillModifier>
+    <SkillModifier>
+      <Key>SURV</Key>
+      <RankStart>1</RankStart>
+    </SkillModifier>
+  </SkillModifiers>
+  <TalentModifiers>
+    <TalentModifier>
+      <Key>OUTDOOR</Key>
+      <RankAdd>1</RankAdd>
+    </TalentModifier>
+  </TalentModifiers>
+</Species>
