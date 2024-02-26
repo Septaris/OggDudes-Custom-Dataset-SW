@@ -9847,8 +9847,8 @@ Though the Jedi Order was primarily known for its use of lightsabers, there have
     <Name>Guard Shoto</Name>
     <Description>
       [H3]Guard Shoto[h3]
-[P]Similar to the shoto lightsaber, the guard shoto or lightsaber tonfa, is a lightsaber with its grip set perpendicular to the blade, allowing the wielder to rapidly switch betweek attack and defense, deflecting bolts and blows one moment and lashing out with circular attacks of blinding speed the next. While these versatile weapons are extremely difficult to master, they can be startlingly effective, especially when paired with cortosis gauntlets to protect against slips of the blade.
-[P]The lightsaber is a guard shoto hilt containing an unmodded Illum lightsaber crystal (see page 197 of the Force and Destiny core rulebook). This crystal occupies two of the weapons hardpoints.
+[P]Similar to the shoto lightsaber, the guard shoto or lightsaber tonfa, is a lightsaber with its grip set perpendicular to the blade, allowing the wielder to rapidly switch between attack and defense, deflecting bolts and blows one moment and lashing out with circular attacks of blinding speed the next. While these versatile weapons are extremely difficult to master, they can be startlingly effective, especially when paired with cortosis gauntlets to protect against slips of the blade.
+[P]The lightsaber is a guard shoto hilt containing an unmodded Illum lightsaber crystal (see page 197 of the Force and Destiny core rulebook). This crystal occupies two of the weapons hardpoint's.
 [P]When installing a lightsaber crystal into a guard shoto, decrease the damage of that lightsaber crystal by 1.</Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
@@ -9894,7 +9894,7 @@ Though the Jedi Order was primarily known for its use of lightsabers, there have
     <Description>
       [H3]Guard Shoto Hilt[h3]
 [P]Similar to the shoto lightsaber, the guard shoto or lightsaber tonfa, is a lightsaber with its grip set perpendicular to the blade, allowing the wielder to rapidly switch betweek attack and defense, deflecting bolts and blows one moment and lashing out with circular attacks of blinding speed the next. While these versatile weapons are extremely difficult to master, they can be startlingly effective, especially when paired with cortosis gauntlets to protect against slips of the blade.
-[P]The lightsaber is a guard shoto hilt containing an unmodded Illum lightsaber crystal (see page 197 of the Force and Destiny core rulebook). This crystal occupies two of the weapons hardpoints.
+[P]The lightsaber is a guard shoto hilt containing an unmodded Illum lightsaber crystal (see page 197 of the Force and Destiny core rulebook). This crystal occupies two of the weapons hardpoint's.
 [P]When installing a lightsaber crystal into a guard shoto, decrease the damage of that lightsaber crystal by 1.</Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
@@ -10069,9 +10069,9 @@ Though the Jedi Order was primarily known for its use of lightsabers, there have
     <Name>Diiro</Name>
     <Description>
       [H3]Diiro[h3]
-The diiro is a common Arbooinian weapon, wailored to the needs of the Sathari. The weapon consists of a hollow but sturdy haft of wood about a meter long, tipped with a small but very sharp alloy blade. The diiro is lightweight but capable of deadly precision strikes in the hands of a skilled user. To further cut down on weight, blades of most diiros are alos hollow. In many cases, they contain a reservoir of venom extracted from a bearsloth, a zabros, or another of Arbooine's unique plants and animals. This ensures that although the cuts delivered by a diiro are seldom sever on their own, the weapon is nonetheless capable of bringing down even the largest of Arbooinian predators in short order.
+The diiro is a common Arbooinian weapon, tailored to the needs of the Sathari. The weapon consists of a hollow but sturdy haft of wood about a meter long, tipped with a small but very sharp alloy blade. The diiro is lightweight but capable of deadly precision strikes in the hands of a skilled user. To further cut down on weight, blades of most diiros are also hollow. In many cases, they contain a reservoir of venom extracted from a bearsloth, a zabros, or another of Arbooine's unique plants and animals. This ensures that although the cuts delivered by a diiro are seldom severe on their own, the weapon is nonetheless capable of bringing down even the largest of Arbooinian predators in short order.
 [P]A diiro can be loaded with up to three doses of any poison. Whenever the wielder successfully attacks a target with a diiro (whether or not damage is dealt), the target also suffers the effects of being exposed to the poison it contains.
-[P]Due to its lightweight construction, when a diiro suffers one or more levels of damage due to a [DE] result on a combat check or the effects of the Sunder quality, it recieves one additonal level of damage.
+[P]Due to its lightweight construction, when a diiro suffers one or more levels of damage due to a [DE] result on a combat check or the effects of the Sunder quality, it receives one additional level of damage.
 [P][I]Note: The diiro may only be found on Arbooine.[i]
     </Description>
     <Source>Chronicles of the Gatekeeper</Source>
@@ -10196,7 +10196,7 @@ The diiro is a common Arbooinian weapon, wailored to the needs of the Sathari. T
     <Description>
       [H3]Rivet Gun[h3]
 Most rivet guns work around the principle of a basic pneumatic hammer, and fire bolts into vehicle plating. Of course, some rivet guns are more-potent than others, based on the thickness of the plating they are intended to secure. As such, a Technician can easily adapt a more powerful rivet gunt into a serviceable slugthrower by ignoring a few of the safety operating protocols, such as "keep cartridge pressure at or beneath printed factory settings" and never point the rivet gun at living creatures or droids". While rivet guns are hardly combat weapons, and thus only function up close and with minimal accuracy, no wise sentient would completely ignore the threat presented by an irate Technician carrying one.
-[P]A rivet gun reduces the difficulty of Mechanics checks to reapair Critical Hits on vehicles and starships by 1 (to a minimum of [B]Simple (-)[b]).</Description>
+[P]A rivet gun reduces the difficulty of Mechanics checks to repair Critical Hits on vehicles and starships by 1 (to a minimum of [B]Simple (-)[b]).</Description>
     <Source Page="46">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Type>Tool</Type>
@@ -10237,9 +10237,9 @@ Most rivet guns work around the principle of a basic pneumatic hammer, and fire 
     <Name>Welding Rod</Name>
     <Description>
       [H3]Welding Rod[h3]
-Technicians need not only the ability to cut metal apart quickly, but the capacity to fuse back together. A welding rod works on a simple principle, generating a jet of focused heat that liqefies small parts of two or more pieces of metal, creating a sturdy bond between the formerly seperate pieces. The heat involved is in this process is extremely dangerous to organic creatures and can even sear clean through athe much sturdier limbs of droids. For good reason, welding rods are typically sold with instruction manuals that highlight the danger involved in their use - which some Technicians choose to actively ignore when threatened in their workshops.
-[P]A welding rod adds automatic [SU] to Mechanics checks checks to repair droids, vehicles and starships.
-[P]The GM may spend [DE] on any check made with a welding rod to inflict a Criticaly Injury (see page 216 of the [B]Edge of The Empire[b] Core Rulebook) on the user.</Description>
+Technicians need not only the ability to cut metal apart quickly, but the capacity to fuse back together. A welding rod works on a simple principle, generating a jet of focused heat that liquefies small parts of two or more pieces of metal, creating a sturdy bond between the formerly separate pieces. The heat involved in this process is extremely dangerous to organic creatures and can even sear clean through the much sturdier limbs of droids. For good reason, welding rods are typically sold with instruction manuals that highlight the danger involved in their use - which some Technicians choose to actively ignore when threatened in their workshops.
+[P]A welding rod adds automatic [SU] to Mechanics checks to repair droids, vehicles and starships.
+[P]The GM may spend [DE] on any check made with a welding rod to inflict a Critical Injury (see page 216 of the [B]Edge of The Empire[b] Core Rulebook) on the user.</Description>
     <Source Page="47">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Type>Tool</Type>
@@ -10278,7 +10278,7 @@ Technicians need not only the ability to cut metal apart quickly, but the capaci
     <Name>Hand Grinder</Name>
     <Description>
       [H3]Hand Grinder[h3]
-A hand grinder uses a rotating wheel coated with rough material to polish down spurs and marks on metal surfaces. This can be extremely helpful when trying to get mechanical components to fit perfectly, whether these are the armoured plates of a starship hull or the joints of a droid. While not as effective as a vibrosaw in terms of raw cutting power, it is perhaps even more intimidating.
+A hand grinder uses a rotating wheel coated with rough material to polish down spurs and marks on metal surfaces. This can be extremely helpful when trying to get mechanical components to fit perfectly, whether these are the armored plates of a starship hull or the joints of a droid. While not as effective as a vibrosaw in terms of raw cutting power, it is perhaps even more intimidating.
 [P]A hand grinder adds automatic [AD] to crafting checks that involve shaping large pieces of hardened material. A hand grinder requires two hands to use as a weapon.</Description>
     <Source Page="47">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -10320,9 +10320,9 @@ A hand grinder uses a rotating wheel coated with rough material to polish down s
     <Name>Multi-Goo Gun</Name>
     <Description>
       [H3]Multi-Goo Gun[h3]
-The multi-goo gun, an all-in-one spray injector, has a self-cleaning element that allows Technicians to switch out lubricant, adhesive or acid cartridges with no loss in function. The device apeals to many machinists' natural affinity for efficiency, enabling users to switch between substances quickly without stopping their work, rather than having to stop, clean their spray injectors and load them with a new substance at each step of a project.
+The multi-goo gun, an all-in-one spray injector, has a self-cleaning element that allows Technicians to switch out lubricant, adhesive or acid cartridges with no loss in function. The device appeals to many machinists' natural affinity for efficiency, enabling users to switch between substances quickly without stopping their work, rather than having to stop, clean their spray injectors and load them with a new substance at each step of a project.
 [P]A character using this tool gains automatic [AD] on Mechanics checks to repair droids, vehicles or starships.
-[P]The GM may spend [TH][TH] or [DE] on a Mechanics or combat check made using a multi-goo gun to have all of its spray cartridges run out; it cannot be used at all untill refulled. A pack that includes replacements for all three substances costs 20 credits and has a rarity of 2. Placing a refill pack in a multi-goo gun requires an action.</Description>
+[P]The GM may spend [TH][TH] or [DE] on a Mechanics or combat check made using a multi-goo gun to have all of its spray cartridges run out; it cannot be used at all until refilled. A pack that includes replacements for all three substances costs 20 credits and has a rarity of 2. Placing a refill pack in a multi-goo gun requires an action.</Description>
     <Source Page="45">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Type>Tool</Type>
@@ -10361,7 +10361,7 @@ The multi-goo gun, an all-in-one spray injector, has a self-cleaning element tha
     <Name>Repulsor Gun</Name>
     <Description>
       [H3]Repulsor Gun[h3]
-Bored Technicians sometimes take a repulsor engine, add a charge capacitor and simple trigger mechinism and use it to amuse themselves during  lean periods.  Most often used to knock over empty caf containers, the repulsor gun still packs a mean punch.
+Bored Technicians sometimes take a repulsor engine, add a charge capacitor and simple trigger mechanism and use it to amuse themselves during  lean periods.  Most often used to knock over empty caf containers, the repulsor gun still packs a mean punch.
 [P]On a [DE] result, the repulsor gun backfires; the user is knocked prone and suffers the disoriented condition for 2 rounds.</Description>
     <Source Page="46">Special Modifications</Source>
     <Custom>DescOnly</Custom>
