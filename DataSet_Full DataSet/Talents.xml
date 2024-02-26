@@ -785,7 +785,7 @@
   <Talent>
     <Key>GEARHD</Key>
     <Name>Gearhead</Name>
-    <Description>Remove [SE] per rank of Gearhead from Mechanics checks. Have the credit cost to add mods to attachments.</Description>
+    <Description>Remove [SE] per rank of Gearhead from Mechanics checks. Halve the credit cost to add mods to attachments.</Description>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
