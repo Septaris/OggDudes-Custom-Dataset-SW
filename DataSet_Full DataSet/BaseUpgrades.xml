@@ -693,7 +693,7 @@
     <Description>
       [H4]Landing Bay[h4]
 
-[B]Upgrade Description:[b] The homestead includes a landing bay able to hold starships or vehicles. This may bye an open landing bay, an enclosed hanger, or a pressured docking bay with a mag-con field for a space station. 
+[B]Upgrade Description:[b] The homestead includes a landing bay able to hold starships or vehicles. This may be an open landing bay, an enclosed hanger, or a pressured docking bay with a mag-con field for a space station. 
 
 [P]The landing bay holds a number of vehicles with a combined silhouette of 15, with no single vehicle larger than silhouette 5. 
 
@@ -1615,7 +1615,7 @@ This upgrade may be purchased three additional times, each time selecting a diff
 
 [B]Upgrade Description:[b] The size and scope of the Rebel base grows, increasing the scale of operations. If the facility is a safe house, increase the number of rooms available within the facility. If it is focused upon research or training, then increase the number of workers and available technology. A facility devoted to maintaining weapons, vehicles, or other equipment could have its capacity similarly increased. 
 
-[P]Once per month, each PC can leverage the bases new expanded resources when attempting to acquire a piece of equipment. For purposes of that check, the item's rarity is decreased by 1 for each time this upgrade has been selected. This upgrade may be taken up to four additional times.</Description>
+[P]Once per month, each PC can leverage the base's new expanded resources when attempting to acquire a piece of equipment. For purposes of that check, the item's rarity is decreased by 1 for each time this upgrade has been selected. This upgrade may be taken up to four additional times.</Description>
     <Source>Desperate Allies</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>5</PurchaseCount>
@@ -1729,7 +1729,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
     <Description>[H4]Delvin Constructs HNG F304 Modular Hanger/Motor Pool[h4]
 Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check[b] and roughly 2 hours of narrative time.
 [P]These facilities usually take the form of simple buildings with an open floor area; a large. lockable bay door wide enough for vehicles to easily move through; and two smaller entry doors. They can hold a number of vehicles with a combined silhouette of 12 and no single vehicle larger than silhouette 4. Each also includes a full set of mechanics' tools (allowing characters to perform Mechanics checks to heal droids or repair vehicles or starships without penalty), and an oil bath for droids. When used to repair starships or vehicles stored inside, the character repairs 1 additional hull trauma or 2 additional system strain on a successful check.
-[P]If purchased multiple times. they can be used as separate vehicle storage facilities. Alternatively, up to two additional units may be combined together with the original one to increase the silhouette limit by 10 per additional unit (although the maximum single vehicle size remains at Silhouette 4).</Description>
+[P]If purchased multiple times. They can be used as separate vehicle storage facilities. Alternatively, up to two additional units may be combined together with the original one to increase the silhouette limit by 10 per additional unit (although the maximum single vehicle size remains at Silhouette 4).</Description>
     <Source Page="45">Fully Operational</Source>
     <Custom>AddedItem</Custom>
     <PurchaseCount>3</PurchaseCount>
