@@ -17,7 +17,7 @@ And because I haven't mentioned him, an enormous amount of credit to Oggdude, wh
 
 Also don't forget to check out Stoo Goff's Adversaries tool: http://swa.stoogoff.com/.
 
-AvDalfsen addition:
+**AvDalfsen addition:**
 This repository aims to fix the plethora of spelling and formatting errors in the repository.
 When and where I encounter incomplete data, I will also endeavour to add it to ensure the dataset is as complete and comprehensive as possible.
 
