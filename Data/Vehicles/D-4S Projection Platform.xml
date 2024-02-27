@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Key>D45PROJPLAT</Key>
-  <Name>D-45 Projection Platform</Name>
-  <Description>[H3]D-45 Projection Platform[h3]
+  <Key>D4SPROJPLAT</Key>
+  <Name>D-4S Projection Platform</Name>
+  <Description>[H3]D-4S Projection Platform[h3]
 [P]After the success of the D-4, Icnom realized that the large generator necessary for the shield system could be used to power other devices. This craft is marketed as a way to keep building facades "intact" while under repairs, but many underworld elements quickly realized that a portable, large-scale hologram could be used to mask illicit activities.</Description>
   <Source>Keeping the Peace</Source>
   <Custom>DescOnly</Custom>
