@@ -6,7 +6,7 @@
     <Description>
     [H4]Agility[h4]
 
-[P]The Agility characteristics measures a character's manual dexterity, hand-eye coordination, and body control. Characters with a high Agility have a good sense of balance, flexibility, and deft hands. Agility is used for a number of physical skills such as Coordination, and is key to ranged combat skills such as Ranged (Light) and Ranged (Heavy). </Description>
+[P]The Agility characteristic measures a character's manual dexterity, hand-eye coordination, and body control. Characters with a high Agility have a good sense of balance, flexibility, and deft hands. Agility is used for a number of physical skills such as Coordination, and is key to ranged combat skills such as Ranged (Light) and Ranged (Heavy). </Description>
     <Custom>DescOnly</Custom>
     <Abbrev>Ag</Abbrev>
   </Characteristic>
