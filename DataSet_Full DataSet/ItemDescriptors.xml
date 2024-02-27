@@ -133,7 +133,6 @@
       <EncLimit>0</EncLimit>
     </ItemsForStorage>
   </ItemDescriptor>
-
   <ItemDescriptor>
     <Key>DFPADD</Key>
     <Name>Add Dark Force Point to Force Power Check Mod</Name>
@@ -155,9 +154,6 @@
     <ModDesc>Add One [FP] to Force Power Check</ModDesc>
     <QualDesc>Add {0} [FP] to Force Power Check</QualDesc>
   </ItemDescriptor>
-
-
-
   <ItemDescriptor>
     <Key>ADVADD</Key>
     <Name>Add Advantage to Successful Check Mod</Name>
@@ -214,8 +210,6 @@
     <ModDesc>Add One [ADVANTAGE] to Initiative Check</ModDesc>
     <QualDesc>Add {0} [ADVANTAGE] to Initiative Check</QualDesc>
   </ItemDescriptor>
-
-
   <ItemDescriptor>
     <Key>HPADD</Key>
     <Name>Add Hard Points Mod</Name>
@@ -230,7 +224,7 @@
     <Description></Description>
     <Type>Vehicle</Type>
     <ModDesc>Add 2 Hard Points to Vehicle</ModDesc>
-    <QualDesc>Add 2 Hard Point to Vehicle</QualDesc>
+    <QualDesc>Add 2 Hard Points to Vehicle</QualDesc>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>HPSUB</Key>
@@ -240,10 +234,6 @@
     <ModDesc>Remove One Hard Point from Item</ModDesc>
     <QualDesc>Remove {0} Hard Point(s) from Item</QualDesc>
   </ItemDescriptor>
-
-
-
-
   <ItemDescriptor>
     <Key>CRITSET</Key>
     <Name>Base Critical Rating Mod</Name>
@@ -470,7 +460,6 @@
     <QualDesc>Cannot deal strain damage</QualDesc>
     <IsBoolean>true</IsBoolean>
   </ItemDescriptor>
-
   <ItemDescriptor>
     <Key>HEALPLUSONE</Key>
     <Name>Successful Medicine checks heal +1 wound Mod</Name>
@@ -480,7 +469,6 @@
     <ModDesc>Successful Medicine checks heal +1 wound</ModDesc>
     <QualDesc>Successful Medicine checks heal +{0} wound</QualDesc>
   </ItemDescriptor>
-
   <ItemDescriptor>
     <Key>USERANGLT</Key>
     <Name>Weapon's skill changes to Ranged-Light Mod</Name>
@@ -501,7 +489,6 @@
     <ModDesc>Weapon's skill changes to Ranged-Heavy</ModDesc>
     <QualDesc>Weapon's skill changes to Ranged-Heavy</QualDesc>
   </ItemDescriptor>
-
   <ItemDescriptor>
     <Key>ADDCRYSTNC</Key>
     <Name>Add Additional Crystal with no HP Cost Mod</Name>
@@ -510,8 +497,6 @@
     <ModDesc>Add Additional Crystal with no HP Cost</ModDesc>
     <QualDesc>Add {0} Additional Crystal(s) with no HP Cost</QualDesc>
   </ItemDescriptor>
-
-
   <ItemDescriptor>
     <Key>PRICEHALF</Key>
     <Name>Item is Half Price Mod</Name>
@@ -530,10 +515,7 @@
     <QualDesc>Add 20,000 Credits to Price</QualDesc>
     <IsBoolean>true</IsBoolean>
   </ItemDescriptor>
-
-
   <!-- Nexus of Power -->
-  
   <ItemDescriptor>
     <Key>SEAL</Key>
     <Name>Sealable Mod</Name>
@@ -542,7 +524,6 @@
     <ModDesc>Armor is Sealable</ModDesc>
     <QualDesc>Armor is Sealable</QualDesc>
   </ItemDescriptor>
-
   <ItemDescriptor>
     <Key>SEALED</Key>
     <Name>Sealed Mod</Name>
@@ -551,8 +532,6 @@
     <ModDesc>Armor is Sealed</ModDesc>
     <QualDesc>Armor is Sealed</QualDesc>
   </ItemDescriptor>
-
-
   <!--<ItemDescriptor>
     <Key>SPEMBCHARM</Key>
     <Name>Special Embellishment (Charm) Mod</Name>
@@ -642,7 +621,6 @@
     <ModDesc>Add automatic [TH] to Vigilance checks.</ModDesc>
     <QualDesc>Add automatic [TH] to Vigilance checks.</QualDesc>
   </ItemDescriptor>-->
-
   <ItemDescriptor>
     <Key>RANGEREDMED</Key>
     <Name>Reduce Range to Medium Mod</Name>
@@ -678,7 +656,6 @@
     <ModDesc>Armor and Brawl attacks gain Cortosis quality.  Brawl attacks gain Pierce ranks equal to Force rating</ModDesc>
     <QualDesc>Armor and Brawl attacks gain Cortosis quality.  Brawl attacks gain Pierce ranks equal to Force rating</QualDesc>
   </ItemDescriptor>
-  
   <ItemDescriptor>
     <Key>FORCEADD</Key>
     <Name>Add Force Rating Mod</Name>
@@ -715,7 +692,6 @@
     <QualDesc>Does not count toward Cybernetics Cap</QualDesc>
     <IsBoolean>true</IsBoolean>
   </ItemDescriptor>
-  
   <!-- Special Modifications -->
   <ItemDescriptor>
     <Key>JURYADD</Key>
@@ -725,10 +701,7 @@
     <ModDesc>May select 1 additional Jury Rigged option</ModDesc>
     <QualDesc>May select {0} additional Jury Rigged option(s)</QualDesc>
   </ItemDescriptor>
-
-
   <!--Vehicles-->
-
   <ItemDescriptor>
     <Key>SILHADD</Key>
     <Name>Increase Silhouette Mod</Name>
@@ -1121,8 +1094,6 @@
     <ModDesc>Increase Aft Defense by 1</ModDesc>
     <QualDesc>Increase Aft Defense by {0}</QualDesc>
   </ItemDescriptor>
-
-
   <ItemDescriptor>
     <Key>SPEEDSUB</Key>
     <Name>Decrease Speed Mod</Name>
@@ -1153,7 +1124,6 @@
     <ModDesc>Increase Speed by 2</ModDesc>
     <QualDesc>Increase Speed by 2</QualDesc>
   </ItemDescriptor>
-
   <ItemDescriptor>
     <Key>SRANGEADD</Key>
     <Name>Additional Sensor Range Mod</Name>
@@ -1330,7 +1300,6 @@
     <QualDesc>Retractable Weapon System</QualDesc>
     <ChooseExistingVehicleWeapon>true</ChooseExistingVehicleWeapon>
   </ItemDescriptor>
-
   <ItemDescriptor>
     <Key>ENCCADDSIL</Key>
     <Name>Increases Encumbrance Capacity by Silhouette Mod</Name>
@@ -1339,7 +1308,6 @@
     <ModDesc>Increase Encumbrance Capacity by Silhouette</ModDesc>
     <QualDesc>Increase Encumbrance Capacity by {0} x Silhouette</QualDesc>
   </ItemDescriptor>
-
   <ItemDescriptor>
     <Key>ENCCADD</Key>
     <Name>Increases Encumbrance Capacity Mod</Name>
@@ -1381,7 +1349,6 @@
     <ModDesc>Upgrade ability of Gunnery checks by 1</ModDesc>
     <QualDesc>Upgrade ability of Gunnery checks {0}</QualDesc>
   </ItemDescriptor>
-
   <ItemDescriptor>
     <Key>VAKSAI</Key>
     <Name>Replace Light Blaster Cannons with Light Laser Cannons Mod</Name>
@@ -1405,12 +1372,8 @@
         </Properties>
       </WeaponUpgrade>
     </WeaponUpgrades>
-
   </ItemDescriptor>
-  
-  
   <!-- Qualities -->
-  
   <ItemDescriptor>
     <Key>ACCURATE</Key>
     <Name>Accurate Quality</Name>
@@ -1430,13 +1393,9 @@
     <Key>AUTOFIRE</Key>
     <Name>Auto-Fire Quality</Name>
     <Description>A weapon with Auto-fire can be set to shoot in rapid succession and potentially spray an area with bolts, flechettes, slugs, or other types of projectiles. The advantage in using Auto-fire is that it has the chance to hit multiple targets or hit a single target multiple times.
-
 [P]Attacking with a weapon on Auto-fire is generally less accurate and the attacker must increase the difficulty of the attack check by [DI]. The user may choose to not use the Auto-fire quality on a weapon; in this case, he cannot trigger the quality but also does not suffer the aforementioned penalty.
-
 [P]If the attack hits, the attacker can trigger Auto-fire by spending [AD][AD]. Auto-fire can be triggered multiple times. Each time the attacker triggers auto-fire, it deals an additional hit to the target. Each of these counts as an additional hit from that weapon, and each hit deals base damage plus the number of uncancelled [SU] on the check.
-
 [P]These additional hits can be allocated to the target, or to other targets within range of the weapon. If the attacker wishes to hit multiple targets, he must decide to do so before making the check. Furthermore, if he wishes to hit multiple targets, his initial target must always be the target with the highest difficulty and highest defense (if this is two separate targets, the GM chooses which target is his initial target). The initial hit must always be against the initial target, subsequent hits generated can be allocated to any of the other designated targets.
-
 [P]Auto-fire weapons can also activate one Critical Injury for each hit generated on the attack per the normal cost; the Critical must target the target of the specific hit.</Description>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -1451,7 +1410,6 @@
     <Name>Breach Quality</Name>
     <Type>Weapon</Type>
     <Description>Weapons with Breach burn through the toughest armor, and are often heavy weapons or starship weapons.
-
 [P]Breach weapons ignore one point of Armor for every rating of Breach (meaning they also ignore 10 points of soak for every rating of Breach).</Description>
     <Custom>DescOnly</Custom>
     <ModDesc>Breach {0}</ModDesc>
@@ -1463,7 +1421,6 @@
     <Name>Burn Quality</Name>
     <Type>Weapon</Type>
     <Description>Weapons with Burn inflict damage over time. If the attack is successful, the target continues to suffer the weapon’s base damage for a number of rounds equal to the weapon’s Burn rating. Damage is applied at the start of each of the target’s actions.
-
 [P]A victim might be able to stop the damage by rolling around on the ground and making an Agility check as an Coordination check action. This is an [B]Average ([DI][DI]) Coordination check[b] on hard surfaces such as the hall of a spaceship, or an [B]Easy ([DI]) Coordination check[b] on grass or soft ground. Jumping into a body of water stops the damage immediately. Both situations assume the flame is from actual combustion rather than a chemical reaction. With the latter, there is usually little the victim can do.</Description>
     <Custom>DescOnly</Custom>
     <ModDesc>Burn {0}</ModDesc>
@@ -1475,9 +1432,7 @@
     <Key>BLAST</Key>
     <Name>Blast Quality</Name>
     <Description>The weapon has a large spread, an explosive blast, or similar area of effect, like the detonation of a grenade or a warhead fired from a missile launcher. If the attack is successful and Blast activates, each character (friend or foe) Engaged with the original target suffers wounds equal to the weapon’s Blast rating (plus an additional wound per Success as usual).
-
 [P]In a relatively small and enclosed area, the Game Master might decide that everyone in the room suffers damage.
-
 [P]If the Blast quality doesn’t activate, the ordnance still detonates, but bad luck or poor aim on the part of the firer (or quick reactions on the part of the victims) means the explosion may not catch anyone else in its radius. However, the user may also trigger Blast if the attack misses, by spending [AD][AD][AD]. In this case, the original target and every target engaged with the original target suffers damage equal to the Blast rating of the weapon.</Description>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -1501,7 +1456,6 @@
     <Key>CORTOSIS</Key>
     <Name>Cortosis Quality</Name>
     <Description>Cortosis is an ore found primarily in the Outer Rim. It is extremely rare and valuable, and was used primarily during the Clone Wars against the Jedi knights. There are two varieties of Cortosis ore. The rarest versions can actually short out a lightsaber’s blade, causing it to fail temporarily. The far more common Cortosis ore is still a miraculous substance, because when molded into armor, it forms an interlocking molecular bond that is extremely resistant to energy weapons.
-
 [P]Weapons with the Cortosis quality are immune to the Sunder quality. Armor with the Cortosis quality makes the wearer’s soak immune to the Pierce and Breach qualities.</Description>
     <Custom>DescOnly</Custom>
     <ModDesc>Cortosis</ModDesc>
@@ -1564,9 +1518,7 @@
     <Key>GUIDED</Key>
     <Name>Guided Quality</Name>
     <Description>Certain types of projectiles may benefit from course alterations after being fired—such as guided missiles. If a character misses while firing a Guided weapon and if Guided activates, he may make an attack check at the end of the round. The difficulty of the check is calculated by comparing the weapon’s silhouette of 0 to the silhouette of the target (see page 235), and the check’s Ability dice equal the weapon’s Guided rating. If the test is successful, the weapon strikes the target and damage is dealt normally.
-
 [P]Guided requires [AD][AD][AD] to activate, unless otherwise specified in the weapon’s description. Remember, the Guided effect can activate on its subsequent attacks, representing the projectile continuing to track the target.
-
 [P]“Spoofing” is a countermeasure designed to work against the particular projectile—such as flares designed to draw off an infrared missile. Spoofing directly increases the defense of the target against attacks with the Guided quality.</Description>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -1579,7 +1531,6 @@
     <Key>KNOCKDOWN</Key>
     <Name>Knockdown Quality</Name>
     <Description>When knockdown triggers, the target is knocked prone.
-    
 [P]Unless specified otherwise, Knockdown requires [AD][AD] to trigger, plus one additional [AD] per silhouette beyond one.</Description>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -1634,7 +1585,6 @@
     <Key>LINKED</Key>
     <Name>Linked Quality</Name>
     <Description>Some weapons, like the laser cannons fitted to the Z-95 Headhunter, are designed to fire together at the same target. This increases the possibility of a hit as well as the damage dealt. When firing a linked weapon, on a successful attack, the weapon deals one hit.
-
 [P]The wielder may spend [AD][AD] to gain an additional hit, and may do so a number of times equal to the weapon’s linked rating. Additional hits from linked weapons may only be applied against the original target. Each hit deals the weapon’s base damage plus total [SU] scored on the check.</Description>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -1709,7 +1659,6 @@
     <Key>STUNSETTING</Key>
     <Name>Stun Setting Quality</Name>
     <Description>Some weapons deal Stun damage instead of regular damage. In this case, the weapon deals damage as strain instead of wounds. This damage is still reduced by a target’s soak.
-
 [P]A variant of this is a Stun setting. As a free action, the wielder can choose to switch the setting of his weapon to “Stun.” In this case, it does stun damage as described above. When weapons with a stun setting are used to deal stun damage, their range changes to short and cannot be increased.</Description>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -1722,7 +1671,6 @@
     <Key>STUNDAMAGE</Key>
     <Name>Stun Damage Quality</Name>
     <Description>Some weapons deal Stun damage instead of regular damage. In this case, the weapon deals damage as strain instead of wounds. This damage is still reduced by a target’s soak.
-
 [P]A variant of this is a Stun setting. As a free action, the wielder can choose to switch the setting of his weapon to “Stun.” In this case, it does stun damage as described above. When weapons with a stun setting are used to deal stun damage, their range changes to short and cannot be increased.</Description>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -1735,7 +1683,6 @@
     <Key>STUNDAMAGEDROID</Key>
     <Name>Stun Damage (Droid Only) Quality</Name>
     <Description>Some weapons deal Stun damage instead of regular damage. In this case, the weapon deals damage as strain instead of wounds. This damage is still reduced by a target’s soak.
-
 [P]A variant of this is a Stun setting. As a free action, the wielder can choose to switch the setting of his weapon to “Stun.” In this case, it does stun damage as described above. When weapons with a stun setting are used to deal stun damage, their range changes to short and cannot be increased.</Description>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -1748,7 +1695,6 @@
     <Key>SUNDER</Key>
     <Name>Sunder Quality</Name>
     <Description>When activated, the attacker chooses one item openly wielded by the target (such as a weapon, shield, or item on a belt). That item is damaged one step: to Minor if undamaged, from Minor to Moderate, or from Moderate to Major. If a weapon already suffering Major damage is the target of a successful Sunder, it is destroyed.
-
 [P]Sunder requires [AD] to activate. If activated multiple times in the same attack, each can be applied against the same weapon, potentially taking a weapon from undamaged to destroyed in a single attack.</Description>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -1771,7 +1717,7 @@
   <ItemDescriptor>
     <Key>TRACTOR</Key>
     <Name>Tractor Quality</Name>
-    <Description>Instead of firing searing beams of laser fire or crackling ion discharges, this weapon fires relatively harmless electromagnetic beams that ensnare ships and hold them fast in space. Tractor beams, like all weapons, are fired at their target using a the appropriate skill check (generally Gunnery) with all suitable modifiers. Once the weapon hits its target, the target may not move unless its pilot makes a successful Piloting check with a difficulty based on the tractor beam’s rating. The tractor beam’s rating is always noted in parentheses in the weapon’s stats next to the quality.</Description>
+    <Description>Instead of firing searing beams of laser fire or crackling ion discharges, this weapon fires relatively harmless electromagnetic beams that ensnare ships and hold them fast in space. Tractor beams, like all weapons, are fired at their target using an appropriate skill check (generally Gunnery) with all suitable modifiers. Once the weapon hits its target, the target may not move unless its pilot makes a successful Piloting check with a difficulty based on the tractor beam’s rating. The tractor beam’s rating is always noted in parentheses in the weapon’s stats next to the quality.</Description>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <ModDesc>Tractor {0}</ModDesc>
@@ -1808,9 +1754,7 @@
     <QualDesc>Unwieldy {0}</QualDesc>
     <IsQuality>true</IsQuality>
   </ItemDescriptor>
-  
   <!-- Quality Activators -->
-
   <ItemDescriptor>
     <Key>QUALADVSUB</Key>
     <Name>Quality Takes One Less Advantage to Activate Mod</Name>
@@ -1820,9 +1764,6 @@
     <QualDesc>{1} Takes {0} Less [AD] to Activate</QualDesc>
     <ChooseActiveQuality>true</ChooseActiveQuality>
   </ItemDescriptor>
-
-
-
   <ItemDescriptor>
     <Key>AUTOFIREADV</Key>
     <Name>Autofire Takes One Less Advantage to Activate Mod</Name>
@@ -1911,13 +1852,4 @@
     <ModDesc>Sunder Takes 1 Less [AD] to Activate</ModDesc>
     <QualDesc>Sunder Takes {0} Less [AD] to Activate</QualDesc>
   </ItemDescriptor>
-
-
-
-
-
-
-
-
 </ItemDescriptors>
-
