@@ -2076,7 +2076,7 @@ The Palandrix Personal Protection Gear company has been a leading provider of pe
     <Description>
       [H3]Glop Grenade[h3]
 
-Merr-Sonn's ingenious G-20 Glop Grenade is a reusable, less-than-lethal antipersonnel grenade used to suppress rioters and capture fugitives alive. Roughly the size of a thermal detonator, the G-20 is a small metallic sphere covered in spray nozzles. As a trigger, glop grenades are equipped with a timer that can be set to detonate on contact or set to detonate after a delay of up to fifteen seconds. Inside the sphere is a refillable reservoir that holds a semiliquid foam that instantly hardens upon contact with oxygen. When deployed, the user sets his detonation time and simply throws it at his target. When it detonates, the grenade sprays its quick-hardening foam over a broad area, trapping everything in its range in a thick, nearly unbreakable substance that is almost as strong as ferrocrete. The hardened foam is only good for around five minutes, after which it begins to break down and becomes brittle and easy to shatter.
+Merr-Sonn's ingenious G-20 Glop Grenade is a reusable, less-than-lethal anti-personnel grenade used to suppress rioters and capture fugitives alive. Roughly the size of a thermal detonator, the G-20 is a small metallic sphere covered in spray nozzles. As a trigger, glop grenades are equipped with a timer that can be set to detonate on contact or set to detonate after a delay of up to fifteen seconds. Inside the sphere is a refillable reservoir that holds a semiliquid foam that instantly hardens upon contact with oxygen. When deployed, the user sets his detonation time and simply throws it at his target. When it detonates, the grenade sprays its quick-hardening foam over a broad area, trapping everything in its range in a thick, nearly unbreakable substance that is almost as strong as ferrocrete. The hardened foam is only good for around five minutes, after which it begins to break down and becomes brittle and easy to shatter.
 
 [P]A glop grenade's Ensnare quality triggers automatically on any targets the weapon hits, with no need to spend [AD]. 
 
@@ -10644,7 +10644,7 @@ Although Auraterans have access to modern energy weapons, the simple but reliabl
         <MiscDesc>If retrieved, boomerang can be used again.</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>May spend [AD] on missed attack to have boomerange return to thrower's hand.</MiscDesc>
+        <MiscDesc>May spend [AD] on missed attack to have boomerang return to thrower's hand.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGLT</SkillKey>
@@ -10668,7 +10668,7 @@ Although Auraterans have access to modern energy weapons, the simple but reliabl
     <Name>Gungan Atlatl</Name>
     <Description>
       [H3]Gungan Atlatl[h3]
-A Gungan warrior could throw one of her signature plasma balls like a grenade (and often do), but a Gungan atlatl gives the weapon a greater range and aids in accuracy. The atlatl also protects the wielder from inadvertent discharges. These weapons are traditionally carved from nonconduc- tive hardwoods.
+A Gungan warrior could throw one of her signature plasma balls like a grenade (and often do), but a Gungan atlatl gives the weapon a greater range and aids in accuracy. The atlatl also protects the wielder from inadvertent discharges. These weapons are traditionally carved from nonconductive hardwoods.
 [P]Atlatls throw Gungan plasma balls [B](see Table 3-1: Ranged Weapons)[b], giving them greater range. An atlatl must have a supply of plasma balls for ammunition.</Description>
     <Source Page="102">Nexus of Power</Source>
     <Custom>DescOnly</Custom>
@@ -10712,7 +10712,7 @@ A Gungan warrior could throw one of her signature plasma balls like a grenade (a
     <Name>DL-19C Blaster Pistol</Name>
     <Description>
       [H3]BlasTech DL-19C Blaster Pistol[h3]
-BlasTech's venerable DL-18 is one of the more common blaster pistols across the galaxy, and has been a considerable success for BlasTech for years. The DL-19C is a mcuh more specialised weapon, targeted at a niche market of weapon hobbyists, perfectionists and others who want the ability to adjust every aspect of the weapon to their personal taste, from the sensitivity of the trigger, to the shape of the barrel, to the energy outflow from the charge pack. While these guns are produced in limited number, discerning firearms enthusiasts often recognise each other based on possession of this weapon.
+BlasTech's venerable DL-18 is one of the more common blaster pistols across the galaxy, and has been a considerable success for BlasTech for years. The DL-19C is a much more specialized weapon, targeted at a niche market of weapon hobbyists, perfectionists and others who want the ability to adjust every aspect of the weapon to their personal taste, from the sensitivity of the trigger, to the shape of the barrel, to the energy outflow from the charge pack. While these guns are produced in limited numbers, discerning firearms enthusiasts often recognise each other based on possession of this weapon.
 [P]When a character applies the Jury Rigged talent to this weapon, he may select one additional option from the talent's list and apply it to the weapon. The character cannot select the same option twice.</Description>
     <Source Page="44">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -10937,7 +10937,7 @@ In the galaxy at large, if Lothal is known at all, it is as an Imperial world ho
     <Name>Electromag-Pulse Disruptor</Name>
     <Description>
       [H3]Electromag-Pulse Disruptor[h3]
-An electromag-pulse disruptor is a device is a slim stylus used to short out electronic equipment. While some Technicians who work with droids or computer systems that might run out of control need such a device to anyone who ends up in a combat situation. In the Core Worlds, machinists rarely need to concern themselves with such risks, but in the Outer Rim, where marauders and pirates about, possession of such a device can mean the difference between life and death.
+An electromag-pulse disruptor device is a slim stylus used to short out electronic equipment. While some Technicians who work with droids or computer systems that might run out of control need such a device to anyone who ends up in a combat situation. In the Core Worlds, machinists rarely need to concern themselves with such risks, but in the Outer Rim, where there are marauders and pirates about, possession of such a device can mean the difference between life and death.
 [P]Add [BO][BO] to any check the character makes to sabotage electronics or computers. Add [SE] to a character's perception checks made to find this weapon on a person's body.</Description>
     <Source Page="44">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -10977,7 +10977,7 @@ An electromag-pulse disruptor is a device is a slim stylus used to short out ele
     <Name>DDC-MR6 Modular Rifle</Name>
     <Description>
       [H3]DDC-MR6 Modular Rifle[h3]
-A modular rifle that the Drearian Defense Conglomerate designed for the Confederacy of Independent Systems during the Clone Wars, the MR6 comes with an electromagnetic rail system that enables the user to reconfigure the weapon quickly for different situations. The "rails" (actually electromagnetic strips along the body of the rifle) allow a user to quickly swap attachments even in the heat of battle. Due to the high cost of the weapon, the Seperatists never purchased more than an experimental manufacturing run before moving on to cheaper alternatives. Nontheless, a few of these rare guns remain in circulation, in the hands of collectors or mercenaries who need a versatile weapon that fulfills a wide variety of needs.
+A modular rifle that the Drearian Defense Conglomerate designed for the Confederacy of Independent Systems during the Clone Wars, the MR6 comes with an electromagnetic rail system that enables the user to reconfigure the weapon quickly for different situations. The "rails" (actually electromagnetic strips along the body of the rifle) allow a user to quickly swap attachments even in the heat of battle. Due to the high cost of the weapon, the Seperatists never purchased more than an experimental manufacturing run before moving on to cheaper alternatives. Nonetheless, a few of these rare guns remain in circulation, in the hands of collectors or mercenaries who need a versatile weapon that fulfills a wide variety of needs.
 [P]A character may make an [B]Average ([DI][DI]) Mechanics check[b] to add or remove an attachment to a DDC-MR6 as an action rather than spending the usual time required to remove attachment (see [B]Removing Attachments[b], on page 93).
     </Description>
     <Source Page="44">Special Modifications</Source>
@@ -11123,38 +11123,10 @@ Ion thrusters are used in many different engines, from those of airspeeders to t
     <Name>1.8 FD Anti-Infantry Autoturret</Name>
     <Description>
       [H3]Atgar SpaceDefense 1.8 FD Anti-Infantry Autoturret[h3]
-Atgar SpaceDefense has been a major developer of
-weaponry for some time, but in recent years, its prominence on the battlefield has diminished. Atgar’s most
-notable contribution to military hardware, the 1.4 FD
-P-Tower anti-vehicle laser cannon, was designed to
-defend ground outposts from the advance of enemy
-repulsorcraft, light armor, and mechanized infantry.
-Its incredible range and ability to operate effectively
-in nearly any environment ensured its widespread use
-for years, but the P-Tower’s lackluster onboard targeting computer, inability to penetrate heavier armor,
-and limited protection for its operator saw it replaced
-by more capable models.
-[P]While organizations such as the Rebel Alliance have
-kept the P-Tower in service, Atgar SpaceDefense has
-sought to breathe new life into unsold inventory by reusing some of the parts from the P-Tower in a new antiinfantry weapon: the 1.8 FD Anti-Infantry Autoturret.
-[P]Ostensibly a new product, the 1.8 FD recycles a
-great deal of hardware from the P-Tower, but serves a
-very different battlefield function. While it can be used
-to engage light vehicles, its true purpose is suppressing enemy infantry without putting one’s own troops at
-risk. Thanks to its innate ability to be connected to an
-Atgar artillery remote, it lets a small group of defenders effectively engage much larger numbers of foes
-without leaving the safety of cover. Though extremely
-weighty, this emplacement is considerably lighter than
-a P-Tower, allowing squads of infantry to reposition it
-in the field with the help of a light speeder or loader
-droid. However, this comes at the cost of ammunition
-capacity, and so the 1.8 FD can only fire a few salvos
-before depleting its energy reserves.
-[P]While attached to a suitable power source (such as
-a base’s power grid or a similarly-sized generator), this
-weapon loses the Limited Ammo 8 quality. Wiring the
-weapon into a power source requires several minutes
-and an [B]Easy ([DI]) Mechanics check[b].</Description>
+Atgar SpaceDefense has been a major developer of weaponry for some time, but in recent years, its prominence on the battlefield has diminished. Atgar’s most notable contribution to military hardware, the 1.4 FD P-Tower anti-vehicle laser cannon, was designed to defend ground outposts from the advance of enemy repulsorcraft, light armor, and mechanized infantry. Its incredible range and ability to operate effectively in nearly any environment ensured its widespread use for years, but the P-Tower’s lackluster onboard targeting computer, inability to penetrate heavier armor, and limited protection for its operator saw it replaced by more capable models.
+[P]While organizations such as the Rebel Alliance have kept the P-Tower in service, Atgar SpaceDefense has sought to breathe new life into unsold inventory by reusing some of the parts from the P-Tower in a new anti-infantry weapon: the 1.8 FD Anti-Infantry Autoturret.
+[P]Ostensibly a new product, the 1.8 FD recycles a great deal of hardware from the P-Tower, but serves a very different battlefield function. While it can be used to engage light vehicles, its true purpose is suppressing enemy infantry without putting one’s own troops at risk. Thanks to its innate ability to be connected to an Atgar artillery remote, it lets a small group of defenders effectively engage much larger numbers of foes without leaving the safety of cover. Though extremely weighty, this emplacement is considerably lighter than a P-Tower, allowing squads of infantry to reposition it in the field with the help of a light speeder or loader droid. However, this comes at the cost of ammunition capacity, and so the 1.8 FD can only fire a few salvos before depleting its energy reserves.
+[P]While attached to a suitable power source (such as a base’s power grid or a similarly-sized generator), this weapon loses the Limited Ammo 8 quality. Wiring the weapon into a power source requires several minutes and an [B]Easy ([DI]) Mechanics check[b].</Description>
     <Source Page="45">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -11196,23 +11168,8 @@ and an [B]Easy ([DI]) Mechanics check[b].</Description>
     <Name>Kyuzo War Shield (Melee)</Name>
     <Description>
       [H3]Kyuzo War Shield[h3]
-Originally utilitarian in function, the Kyuzo war shield
-was designed by the inhabitants of the Kwaidan
-Peaks, as a headpiece to protect travelers from torrential rains during monsoon season in southern Phatrong. Over time, the Sulddo warriors began to fashion
-helmets in this style from stronger materials able to
-withstand the blaster bolts and vibroblade strikes of
-lawless bandits plaguing the countryside. Eventually,
-the war shield transformed into a defensive weapon,
-each fabricated by its owner to fulfill a variety of uses,
-fighting styles, and decorative tastes.
-[P]A Kyuzo war shield may be thrown as a ranged
-weapon. If used in this manner, change the skill to
-Ranged (Light) and the range of the weapon to short.
-The weapon also gains the Limited Ammo 1 quality
-(but if retrieved, it can be used again).
-[P]Additionally, the wielder of a Kyuzo war shield may
-spend [AD][AD][AD] from any combat check to throw the
-weapon to cause the shield to ricochet back to her grasp.</Description>
+Originally utilitarian in function, the Kyuzo war shield was designed by the inhabitants of the Kwaidan Peaks, as a headpiece to protect travelers from torrential rains during monsoon season in southern Phatrong. Over time, the Sulddo warriors began to fashion helmets in this style from stronger materials able to withstand the blaster bolts and vibroblade strikes of lawless bandits plaguing the countryside. Eventually, the war shield transformed into a defensive weapon, each fabricated by its owner to fulfill a variety of uses, fighting styles, and decorative tastes.
+[P]A Kyuzo war shield may be thrown as a ranged weapon. If used in this manner, change the skill to Ranged (Light) and the range of the weapon to short. The weapon also gains the Limited Ammo 1 quality (but if retrieved, it can be used again). [P]Additionally, the wielder of a Kyuzo war shield may spend [AD][AD][AD] from any combat check to throw the weapon to cause the shield to ricochet back to her grasp.</Description>
     <Source Page="48">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -11349,22 +11306,8 @@ Nearly as ubiquitous as combat knives, explorer's knives are indespensable tools
     <Name>SH-9 Slugthrower Pistol</Name>
     <Description>
       [H3]SH-9 Slugthrower Pistol[h3]
-Special forces troops understand that sometimes
-high-tech isn’t the best tech to get the jo b done. The
-designers at Czerka Arm s realize this, too, and produce a line of slugthrowers to fill a variety of niche
-roles, such as the SH-9 slugthrower pistol. Covert ops
-units favor this model, dubbed the "whisper pistol,"
-as a stealthy hold-out for silent, up-close takedowns.
-[P]The SH-9 is a compact slugthrower made from composite materials, making it easily hidden from view
-and difficult to detect on weapons scans, even by a
-skilled sensor technician. Its ammo is magazine-fed
-with a small capacity, and the pistol comes with an
-inbuilt silencer to help its user keep a low profile during commando raids and other stealth action. Unlike
-some blasters and even othe r slugthrowers, the SH-9
-functions well enough even when wet or submerged.
-For all these reasons, and the fact that its slugs can
-penetrate most light laminate armors, the SH-9 is a
-favorite boot gun among Alliance SpecOps soldiers.
+Special forces troops understand that sometimes high-tech isn’t the best tech to get the jo b done. The designers at Czerka Arm s realize this, too, and produce a line of slugthrowers to fill a variety of niche roles, such as the SH-9 slugthrower pistol. Covert ops units favor this model, dubbed the "whisper pistol," as a stealthy hold-out for silent, up-close takedowns.
+[P]The SH-9 is a compact slugthrower made from composite materials, making it easily hidden from view and difficult to detect on weapons scans, even by a skilled sensor technician. Its ammo is magazine-fed with a small capacity, and the pistol comes with an inbuilt silencer to help its user keep a low profile during commando raids and other stealth action. Unlike some blasters and even othe r slugthrowers, the SH-9 functions well enough even when wet or submerged. For all these reasons, and the fact that its slugs can penetrate most light laminate armors, the SH-9 is a favorite boot gun among Alliance SpecOps soldiers.
 [P]Add [SE] to Perception checks to find an SH-9 slugthrower pistol on a person's body. Add [SE] to Perception or Vigiliance checks made to locate a concealed shooter firing an SH-9 slugthrower pistol.</Description>
     <Source Page="46">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
@@ -11406,12 +11349,7 @@ favorite boot gun among Alliance SpecOps soldiers.
     <Key>AKRABDAG</Key>
     <Name>aKraB Clip-Point Vibrodagger</Name>
     <Description>
-      [H3]aKraB Clip-Point Vibrodagger[h3]
-Diehard survival enthusiasts from Toprawa created
-the 'aKraB clip-point vibrodagger to slip between the
-armor plates of big game, allowing for up-close precision kills. Engineered to penetrate thick, armored
-hides, the vibrodagger’s ability to penetrate laminate
-armor with ease makes it perfect for taking out stormtroopers silently.</Description>
+      [H3]aKraB Clip-Point Vibrodagger[h3] Diehard survival enthusiasts from Toprawa created the 'aKraB clip-point vibrodagger to slip between the armor plates of big game, allowing for up-close precision kills. Engineered to penetrate thick, armored hides, the vibrodagger’s ability to penetrate laminate armor with ease makes it perfect for taking out stormtroopers silently.</Description>
     <Source Page="48">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -11444,29 +11382,9 @@ armor with ease makes it perfect for taking out stormtroopers silently.</Descrip
     <Name>J-10 Dual Blaster Cannon</Name>
     <Description>
       [H3]J-10 Dual Blaster Cannon[h3]
-The Rebel Alliance obtains many of its weapons from
-battlefield salvage, military surplus, and black market
-dealers. In their search for new locations to establish
-hidden bases, Alliance scouts also discover abandoned Separatist weapons caches, where thousands
-of pristine, mass-produced weapons await distribution for their cause. Once used by the droid armies of
-the Confederacy, the J -10 dual blaster cannon is now
-common within outposts of the Rebellion.
-[P]Unfortunately, not all the weapons the Alliance
-obtains are of high quality. The J -10 dual blaster cannon is a more powerful version of the E-5 blaster carbine used by battle droid infantry. Like most Separatist equipment, the J -10 was produced on unregulated
-assembly lines run by droids inside factories where
-quantity was more important than quality. The J -10 is
-finicky at best—glitchy Calven pattern programming
-often leads to power fluctuations that overload the
-cannon, and imperfections in focusing crystals cause
-shots to drift w ithout regular maintenance. Alliance
-technicians often  opt to replace the faulty cannons
-rather than conduct repairs.
-[P]The CM may spend [DI] or [TH][TH] from any combat
-check made with this weapon to have it overheat:
-the wielder suffers 2 strain and the weapon becomes
-damaged one step; from undamaged to Minor, Minor
-to Moderate, or Moderate to Major (see page 172 of
-the [B]Age of Rebellion[b] Core Rulebook).</Description>
+The Rebel Alliance obtains many of its weapons from battlefield salvage, military surplus, and black market dealers. In their search for new locations to establish hidden bases, Alliance scouts also discover abandoned Separatist weapons caches, where thousands of pristine, mass-produced weapons await distribution for their cause. Once used by the droid armies of the Confederacy, the J-10 dual blaster cannon is now common within outposts of the Rebellion.
+[P]Unfortunately, not all the weapons the Alliance obtains are of high quality. The J -10 dual blaster cannon is a more powerful version of the E-5 blaster carbine used by battle droid infantry. Like most Separatist equipment, the J -10 was produced on unregulated assembly lines run by droids inside factories where quantity was more important than quality. The J-10 is finicky at best—glitchy Calven pattern programming often leads to power fluctuations that overload the cannon, and imperfections in focusing crystals cause shots to drift w ithout regular maintenance. Alliance technicians often  opt to replace the faulty cannons rather than conduct repairs.
+[P]The CM may spend [DI] or [TH][TH] from any combat check made with this weapon to have it overheat: the wielder suffers 2 strain and the weapon becomes damaged one step; from undamaged to Minor, Minor to Moderate, or Moderate to Major (see page 172 of the [B]Age of Rebellion[b] Core Rulebook).</Description>
     <Source Page="45">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -11598,26 +11516,10 @@ Produced by manufacturers of vibro-tools and weapons such as LaserHone and Merr-
     <Name>A280 Heavy Blaster Rifle</Name>
     <Description>
       [H3]BlasTech A280 Heavy Blaster Rifle[h3]
-For nearly a century, the A280 C heavy blaster rifle
-has been one of BlasTech Industries’ top-selling military blasters and one of the galaxy's most ubiquitous
-service rifles. Before the Clone Wars, when various
-Republic systems were responsible for defending
-their own territories, the A280 C was the defacto
-official rifle used by planetary armies and private militias. While slightly bulky, it is praised for its incredible
-accuracy, range, penetrating power, and durability.
-[P]Before the Clone Wars, most soldiers trained on
-the A280 C. It wasn’t until more modular platforms,
-such as the DC-15 blaster rifle, were adopted by the
-Republic that the A280 C’s popularity began to wane.
-[P]As the Empire absorbed or disbanded local defense
-forces, decommissioned A280 C’s found their way to
-the Rebel Alliance, where this weapon quickly became
-a favorite for standard infantry, snipers, and Special
-Forces alike. Today, these weapons are cherished by
-many of their users, who work hard to keep them in
-service even as replacements grow harder to acquire.
-[P]Reduce the difficulty of Mechanics checks to repair
-a BlasTech A280 C heavy blaster rifle by 1 (to a minimum of [B]Simple (-)[b]).</Description>
+For nearly a century, the A280 C heavy blaster rifle has been one of BlasTech Industries’ top-selling military blasters and one of the galaxy's most ubiquitous service rifles. Before the Clone Wars, when various Republic systems were responsible for defending their own territories, the A280 C was the defacto official rifle used by planetary armies and private militias. While slightly bulky, it is praised for its incredible accuracy, range, penetrating power, and durability.
+[P]Before the Clone Wars, most soldiers trained on the A280 C. It wasn’t until more modular platforms, such as the DC-15 blaster rifle, were adopted by the Republic that the A280 C’s popularity began to wane.
+[P]As the Empire absorbed or disbanded local defense forces, decommissioned A280 C’s found their way to the Rebel Alliance, where this weapon quickly became a favorite for standard infantry, snipers, and Special Forces alike. Today, these weapons are cherished by many of their users, who work hard to keep them in service even as replacements grow harder to acquire.
+[P]Reduce the difficulty of Mechanics checks to repair a BlasTech A280 C heavy blaster rifle by 1 (to a minimum of [B]Simple (-)[b]).</Description>
     <Source Page="43">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -11996,23 +11898,9 @@ Traditional, projectile-throwin bow weapons are a rarity in the galaxy. They are
     <Name>Kyuzo War Shield (Thrown)</Name>
     <Description>
       [H3]Kyuzo War Shield[h3]
-Originally utilitarian in function, the Kyuzo war shield
-was designed by the inhabitants of the Kwaidan
-Peaks, as a headpiece to protect travelers from torrential rains during monsoon season in southern Phatrong. Over time, the Sulddo warriors began to fashion
-helmets in this style from stronger materials able to
-withstand the blaster bolts and vibroblade strikes of
-lawless bandits plaguing the countryside. Eventually,
-the war shield transformed into a defensive weapon,
-each fabricated by its owner to fulfill a variety of uses,
-fighting styles, and decorative tastes.
-[P]A Kyuzo war shield may be thrown as a ranged
-weapon. If used in this manner, change the skill to
-Ranged (Light) and the range of the weapon to short.
-The weapon also gains the Limited Ammo 1 quality
-(but if retrieved, it can be used again).
-[P]Additionally, the wielder of a Kyuzo war shield may
-spend [AD][AD][AD] from any combat check to throw the
-weapon to cause the shield to ricochet back to her grasp.</Description>
+Originally utilitarian in function, the Kyuzo war shield was designed by the inhabitants of the Kwaidan Peaks, as a headpiece to protect travelers from torrential rains during monsoon season in southern Phatrong. Over time, the Sulddo warriors began to fashion helmets in this style from stronger materials able to withstand the blaster bolts and vibroblade strikes of lawless bandits plaguing the countryside. Eventually, the war shield transformed into a defensive weapon, each fabricated by its owner to fulfill a variety of uses, fighting styles, and decorative tastes.
+[P]A Kyuzo war shield may be thrown as a ranged weapon. If used in this manner, change the skill to Ranged (Light) and the range of the weapon to short. The weapon also gains the Limited Ammo 1 quality (but if retrieved, it can be used again).
+[P]Additionally, the wielder of a Kyuzo war shield may spend [AD][AD][AD] from any combat check to throw the weapon to cause the shield to ricochet back to her grasp.</Description>
     <Source Page="48">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Type>Thrown</Type>
@@ -12063,25 +11951,9 @@ weapon to cause the shield to ricochet back to her grasp.</Description>
     <Name>CSPL-12 Projectile Launcher (Frag Grenade)</Name>
     <Description>
       [H3]CSPL-12 Projectile Launcher (Frag Grenade)[h3]
-The Empire has fielded this pistol-sized projectile
-launcher for years. The launcher can fire standard-issue frag grenades, and more than one rebel tinkerer
-has been know to retrofit it to launch non-traditional
-payloads. Because of its long career and devastating effect on the surrounding area (and anyone in it, friend
-or foe), the "Caspel" launcher has gained a notorious,
-albeit somewhat warranted, reputation as an accident-prone piece of equipment.
-[P]The profile provided with this weapon is for frag grenades. Other grenades, such shaped thermal grenades
-and the various grenades found on page 173 of the
-[B]Age of Rebellion[b] Core Rulebook, can be loaded into
-the launcher. While these grenades are loaded, they
-replace the damage, critical rating, and item qualities of
-the original weapon with their own.
-[P]The GM may spend [DE] from a combat check with this
-weapon to cause it to jam. If the GM does so, the contents detonate, inflicting a hit from the loaded grenade
-on the wielder and each other character at engaged
-range. Further, the weapon becomes damaged two
-steps; from undamaged to Moderate, Minor to Major, or
-Moderate to Major (see page 172 of the [B]Age of Rebellion[b] Core Rulebook).The GM may spend additional [DE]
-to trigger one of the loaded grenade’s qualities.</Description>
+The Empire has fielded this pistol-sized projectile launcher for years. The launcher can fire standard-issue frag grenades, and more than one rebel tinkerer has been know to retrofit it to launch non-traditional payloads. Because of its long career and devastating effect on the surrounding area (and anyone in it, friend or foe), the "Caspel" launcher has gained a notorious, albeit somewhat warranted, reputation as an accident-prone piece of equipment.
+[P]The profile provided with this weapon is for frag grenades. Other grenades, such shaped thermal grenades and the various grenades found on page 173 of the [B]Age of Rebellion[b] Core Rulebook, can be loaded into the launcher. While these grenades are loaded, they replace the damage, critical rating, and item qualities of the original weapon with their own.
+[P]The GM may spend [DE] from a combat check with this weapon to cause it to jam. If the GM does so, the contents detonate, inflicting a hit from the loaded grenade on the wielder and each other character at engaged range. Further, the weapon becomes damaged two steps; from undamaged to Moderate, Minor to Major, or Moderate to Major (see page 172 of the [B]Age of Rebellion[b] Core Rulebook).The GM may spend additional [DE] to trigger one of the loaded grenade’s qualities.</Description>
     <Source Page="47">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -12192,15 +12064,7 @@ Of all standard issue Imperial blasters, few pack as much bang per credit as the
     <Name>LJ-50 Concussion Rifle</Name>
     <Description>
       [H3]LJ-50 Concussion Rifle[h3]
-Developed by Arakyd Industries, the LJ-50 concussion rifle delivers intense concussive bursts over short
-distances, smashing cover and rattling the troops
-within. The blast from a concussion rifle produces
-a shock wave capable of knocking banthas off their
-hooves, or putting entire groups of targets in a daze.
-Imperial soldiers, Alliance heavy weapons specialists,
-and hired guns of all stripes frequently use concussion
-rifles to scatter enemy formations, neutralize entire
-squads, and even punch through duracrete walls.</Description>
+Developed by Arakyd Industries, the LJ-50 concussion rifle delivers intense concussive bursts over short distances, smashing cover and rattling the troops within. The blast from a concussion rifle produces a shock wave capable of knocking banthas off their hooves, or putting entire groups of targets in a daze. Imperial soldiers, Alliance heavy weapons specialists, and hired guns of all stripes frequently use concussion rifles to scatter enemy formations, neutralize entire squads, and even punch through duracrete walls.</Description>
     <Source Page="47">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -12245,19 +12109,8 @@ squads, and even punch through duracrete walls.</Description>
     <Name>DH-17 Blaster Carbine</Name>
     <Description>
       [H3]DH-17 Blaster Carbine[h3]
-This carbine is the heavier cousin of the widely popular DH-17 blaster pistol used by the Rebellion. The
-DH-17 blaster carbine has seen heavy use by both
-the Imperial Navy and the Rebel Alliance throughout
-the Galactic Civil War, lauded for its durability and versatility. It has become a mainstay with rebel soldiers
-due to its simple design and the wide availability of
-replacement parts on the black market.
-[P]Much like the pistol variation, the DH-17 blaster carbine is powerful enough to penetrate most personal
-armor, but lacks the ability to breach bulkheads and
-starship hulls, making it ideal for shipboard skirmishes.
-Rebel marines often install a spread barrel modification to make it a deck sweeper commonly referred to
-as the DH-17 short carbine. That, combined with the
-DH-17 carbine's auto-fire capabilities, allows troopers
-to blanket an entire starship corridor with blaster fire.</Description>
+This carbine is the heavier cousin of the widely popular DH-17 blaster pistol used by the Rebellion. The DH-17 blaster carbine has seen heavy use by both the Imperial Navy and the Rebel Alliance throughout the Galactic Civil War, lauded for its durability and versatility. It has become a mainstay with rebel soldiers due to its simple design and the wide availability of replacement parts on the black market.
+[P]Much like the pistol variation, the DH-17 blaster carbine is powerful enough to penetrate most personal armor, but lacks the ability to breach bulkheads and starship hulls, making it ideal for shipboard skirmishes. Rebel marines often install a spread barrel modification to make it a deck sweeper commonly referred to as the DH-17 short carbine. That, combined with the DH-17 carbine's auto-fire capabilities, allows troopers to blanket an entire starship corridor with blaster fire.</Description>
     <Source Page="43">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -12290,15 +12143,7 @@ to blanket an entire starship corridor with blaster fire.</Description>
     <Name>Shaped Thermal Grenade</Name>
     <Description>
       [H3]Shaped Thermal Grenade[h3]
-A favorite of marines and special forces, the shaped
-thermal grenade is a shaped sequencer charge capable of vaporizing virtually any target. It uses similar
-technology to a thermal detonator, but focuses the
-blast in a single direction to maximize damage to a
-specific object. Both the Empire and Rebellion use
-the shaped thermal grenade to obliterate structures
-and punch through heavy armor. However, the sheer
-cost of these deadly explosives means that they are
-deployed sparingly, at least by supply-conscious organizations like the Alliance to Restore the Republic.</Description>
+A favorite of marines and special forces, the shaped thermal grenade is a shaped sequencer charge capable of vaporizing virtually any target. It uses similar technology to a thermal detonator, but focuses the blast in a single direction to maximize damage to a specific object. Both the Empire and Rebellion use the shaped thermal grenade to obliterate structures and punch through heavy armor. However, the sheer cost of these deadly explosives means that they are deployed sparingly, at least by supply-conscious organizations like the Alliance to Restore the Republic.</Description>
     <Source Page="47">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -12335,25 +12180,8 @@ deployed sparingly, at least by supply-conscious organizations like the Alliance
     <Name>Pulse Cannon</Name>
     <Description>
       [H3]Pulse Cannon[h3]
-After its wide-scale implementation by the Galactic
-Empire, the simplicity and versatility of BlasTech’s
-E-11 blaster rifle spawned several offshoot designs,
-the most popular of which was the so-called pulse
-cannon. The pulse cannon consists of a core frame
-similar to the E-11, but replaces the folding stock with
-a solid one for added stability, and a high-powered
-scope. It also features a long, perforated barrel with
-four focusing coils to ensure proper cooling and to
-allow maximum blaster bolt cohesion. Further adding to its lethality, a wielder can “charge’’ an individual
-shot by holding down the trigger, unleashing a devastating shot upon release that drains the weapon’s
-entire energy reserve.
-[P]As a maneuver, a character wielding a pulse cannon
-may prime the weapon to expend all of its ammunition
-in a single, devastating shot. The next time the weapon
-is fired this encounter, it counts as having the Breach
-1 and Vicious 3 qualities. After being discharged this
-way, the weapon runs out of ammunition (see page
-172 of the [B]Age of Rebellion[b] Core Rulebook).</Description>
+After its wide-scale implementation by the Galactic Empire, the simplicity and versatility of BlasTech’s E-11 blaster rifle spawned several offshoot designs, the most popular of which was the so-called pulse cannon. The pulse cannon consists of a core frame similar to the E-11, but replaces the folding stock with a solid one for added stability, and a high-powered scope. It also features a long, perforated barrel with four focusing coils to ensure proper cooling and to allow maximum blaster bolt cohesion. Further adding to its lethality, a wielder can “charge’’ an individual shot by holding down the trigger, unleashing a devastating shot upon release that drains the weapon’s entire energy reserve.
+[P]As a maneuver, a character wielding a pulse cannon may prime the weapon to expend all of its ammunition in a single, devastating shot. The next time the weapon is fired this encounter, it counts as having the Breach 1 and Vicious 3 qualities. After being discharged this way, the weapon runs out of ammunition (see page 172 of the [B]Age of Rebellion[b] Core Rulebook).</Description>
     <Source Page="43">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -12447,30 +12275,9 @@ The wilds of Uvena Prime can be harsh and unforgiving, and have claimed countles
     <Name>Reciprocating Quad Blaster Cannon</Name>
     <Description>
       [H3]Reciprocating Quad Blaster Cannon[h3]
-What is essentially a downscaled version of an anti-starfighter emplacement, the reciprocating quad blaster
-cannon is the heaviest personal weapon in Merr-Sonn
-Munitions’ entire arsenal. Developed during the Clone
-Wars, the “cip-quad” saw use by heavy weapons experts
-in elite divisions of the Grand Army of the Republic, such
-as the ARC Troopers. During the Galactic Civil War, most
-cip-quads are issued to Imperial heavy infantry supporting the Hell’s Hammers, an elite vanguard armor
-regiment. Few are acquired by the Rebellion, as they are
-nigh impossible to claim from fallen Hammers, and are
-rare and expensive on the black market.
-[P]A reciprocating quad blaster cannon assembly uses
-a special pneumatic harness to secure and steady
-the weapon in front of the wearer. Further, a wielder
-generally equips a portable fusion generator (usually worn on the back) power the cannon. Dozens of
-micro-repulsors placed along the cip-quad mitigate
-some of the immense weight of the cannon, and inertial compensators reduce the intense recoil. Despite
-the built-in support, those inexperienced in the weapon's operation can suffer grievous recoil injuries if its
-sensitive compensators are not precisely calibrated.
-[P]This weapon can only be used in Auto-fire mode.
-The GM may spend [DE] or [TH][TH][TH][TH] from a combat
-check with this weapon to have the wielder suffer a
-Critical Injury with - 5 0 to the roll, to a minimum of
-one (see [B]Table 6-1 0: Critical Injury Result[b] on page
-231 of the [B]Age of Rebellion[b] Core Rulebook).</Description>
+What is essentially a downscaled version of an anti-starfighter emplacement, the reciprocating quad blaster cannon is the heaviest personal weapon in Merr-Sonn Munitions’ entire arsenal. Developed during the Clone Wars, the “cip-quad” saw use by heavy weapons experts in elite divisions of the Grand Army of the Republic, such as the ARC Troopers. During the Galactic Civil War, most cip-quads are issued to Imperial heavy infantry supporting the Hell’s Hammers, an elite vanguard armor regiment. Few are acquired by the Rebellion, as they are nigh impossible to claim from fallen Hammers, and are rare and expensive on the black market.
+[P]A reciprocating quad blaster cannon assembly uses a special pneumatic harness to secure and steady the weapon in front of the wearer. Further, a wielder generally equips a portable fusion generator (usually worn on the back) power the cannon. Dozens of micro-repulsors placed along the cip-quad mitigate some of the immense weight of the cannon, and inertial compensators reduce the intense recoil. Despite the built-in support, those inexperienced in the weapon's operation can suffer grievous recoil injuries if its sensitive compensators are not precisely calibrated.
+[P]This weapon can only be used in Auto-fire mode. The GM may spend [DE] or [TH][TH][TH][TH] from a combat check with this weapon to have the wielder suffer a Critical Injury with - 5 0 to the roll, to a minimum of one (see [B]Table 6-1 0: Critical Injury Result[b] on page 231 of the [B]Age of Rebellion[b] Core Rulebook).</Description>
     <Source Page="45">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -13095,8 +12902,7 @@ The CR-8 is a high-performance blaster rifle designed for use by CorSec snipers 
     <Description>
       [H3]T-7 Ion Disruptor[h3]
 Originally designed as an anti-aircraft and anti-armor weapon, few arms possess the destructive power and invoke as much fear as the T-7 ion disruptor. Each round from the T-7 lets loose a burst of ionized plasma with enough energy to penetrate starship hulls and shut down airspeeders and starships, sending them into a death spiral. The T-7 makes short work of many arm ored vehicles and mechanized infantry, as it chews through everything in its path.
-[P]Despite its intended role, the T-7 disruptor obtained its notorious reputation from its use on sentient beings. A single blast from the T-7 can de-atomize entire groups of lifeforms. During the Siege of Lasan, agents from the Imperial Security Bureau equipped with T-7s slaughtered countless Lasat civilians as a show of Imperial might.  This atrocity led the Im perial Senate to ban the T-7 ion disruptor and its use, and the rifles were recalled and destroyed. However,
-copies of the T-7 schematics escaped deletion, and private weapon manufacturers still produce batches found on the black market.
+[P]Despite its intended role, the T-7 disruptor obtained its notorious reputation from its use on sentient beings. A single blast from the T-7 can de-atomize entire groups of lifeforms. During the Siege of Lasan, agents from the Imperial Security Bureau equipped with T-7s slaughtered countless Lasat civilians as a show of Imperial might.  This atrocity led the Im perial Senate to ban the T-7 ion disruptor and its use, and the rifles were recalled and destroyed. However, copies of the T-7 schematics escaped deletion, and private weapon manufacturers still produce batches found on the black market.
 [P]Like other disruptor weapons, T-7 ion disruptors may never benefit from upgrades or attachments that improve their range or grant multiple shots.
 [P]Whenever a living target is hit with a T-7 ion disruptor, any Critical Injury results in a “Crippled’' effect, unless the roll on [B]Table 6-1 0: Critical Injury[b] Result on page 231 of the [B]Age of Rebellion[b] Core Rulebook would result in a more grievous injury.
 [P]Whenever a vehicle or starship is hit with a T-7 ion disruptor, any Critical Hit results in a “Component Hit” effect, unless the roll on [B]Table 7-9: Critical Hit[b] Result on page 258 of the [B]Age of Rebellion[b] Core Rulebook would result in a more serious effect.</Description>
@@ -14565,13 +14371,9 @@ This extendable cudgel integrates a set of conductor contact vanes that can effe
     <Name>LJ-40 Concussion Carbine</Name>
     <Description>
       [H3]Arakyd LJ-40 Concussion Carbine[h3]
-Like many tools and weapons combat engineers use, the LJ-40 began life as a field-expedient modification of an existing weapon. A squad from the 92nd Coruscant Engineers received a shipment of powerful
-and deadly LJ-50 concussion rifles accidentally. The squad's armorer, seeing that with modification the weapons would be perfect for breaching walls and scattering enemy troops, cut the rifles down into makeshift carbines. The undeniable effectiveness of the carbines impressed the squad's superior officer. Word eventually reached Arakyd Industries, which immediately put the LJ-40 into production to sell alongside the already popular LJ-50.
-[P]The production-model LJ-40 has a folding skeleton stock and shortened barrel. Engineers and vehicle crews love the weapon for its light weight, ease of use, and destructive potential. As with all carbines, the LJ-40 suffers from a lack of range and poor long-range
-accuracy, but since most military engineers engage the enemy at short ranges, this does not diminish the LJ-40's effectiveness.
-[P]All [SE] added to a combat check due to the target's cover are removed when using the LJ -40. Additional ammunition costs 40 credits for magazine of 3 rounds.
-
-</Description>
+Like many tools and weapons combat engineers use, the LJ-40 began life as a field-expedient modification of an existing weapon. A squad from the 92nd Coruscant Engineers received a shipment of powerful and deadly LJ-50 concussion rifles accidentally. The squad's armorer, seeing that with modification the weapons would be perfect for breaching walls and scattering enemy troops, cut the rifles down into makeshift carbines. The undeniable effectiveness of the carbines impressed the squad's superior officer. Word eventually reached Arakyd Industries, which immediately put the LJ-40 into production to sell alongside the already popular LJ-50.
+[P]The production-model LJ-40 has a folding skeleton stock and shortened barrel. Engineers and vehicle crews love the weapon for its light weight, ease of use, and destructive potential. As with all carbines, the LJ-40 suffers from a lack of range and poor long-range accuracy, but since most military engineers engage the enemy at short ranges, this does not diminish the LJ-40's effectiveness.
+[P]All [SE] added to a combat check due to the target's cover are removed when using the LJ -40. Additional ammunition costs 40 credits for magazine of 3 rounds.</Description>
     <Source Page="38">Fully Operational</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -15840,8 +15642,7 @@ attachments, but not lightsaber attachments.</Description>
     <Name>Great Lightsaber</Name>
     <Description>[H3]Great Lightsaber[h3]
 Great lightsabers are oversized lightsabers built for use by individuals with large, powerful frames. Heavy, often awkward and difficult-to-use weapons, they feature reinforced hilts with heavy-duty power and emitter systems that produce blades in excess of two meters long. Their heavier hilts and more powerful blades, combined with the natural strength of their intended users, make these massive lightsabers even more potent and deadly than their smaller cousins. Because great Ilghtsabers are built for large and powerful beings, individuals of human size or smaller find it difficult to wield one with any kind of effectiveness.
-[P]This weapon's profile represents a great lightsaber hilt containing an unmodded Ilum crystal. This crystal occupies two of the weapon's
-hard points.
+[P]This weapon's profile represents a great lightsaber hilt containing an unmodded Ilum crystal. This crystal occupies two of the weapon's hard points.
 [P]When installing a lightsaber crystal into a great lightsaber, increase the damage of that lightsaber crystal by 1.</Description>
     <Source Page="44">Knights of Fate</Source>
     <Custom>DescOnly</Custom>
@@ -15920,8 +15721,7 @@ Great lightsabers are oversized lightsabers built for use by individuals with la
     <Name>Lightfoil</Name>
     <Description>[H3]Lightfoil[h3]
 Lightfoils are small lightsabers with hilts comparable in size to those of shotos. Lightfoils differ from shotos in that they feature slimmer, longer blades. While shotos are often used in pairs, lightfoils are designed for use alone, having a small grip that accommodates a single hand. The first lightfoils were said to have been creations of the early Sith. They likely arose alongside the Makashi form, as the weapons are perfectly suited to dueling. Among the Jedi, lightfoils largely fell out of use in favor of shotos by the time of the Clone Wars.
-[P]This weapon's profile represents a basic lightfoil hilt containing an unmodded Ilum crystal. This crystal occupies two of the weapon's
-hard points.
+[P]This weapon's profile represents a basic lightfoil hilt containing an unmodded Ilum crystal. This crystal occupies two of the weapon's hard points.
 [P]When installing a lightsaber crystal into a lightfoil, reduce the damage of that lightsaber crystal by 1.</Description>
     <Source Page="44">Knights of Fate</Source>
     <Custom>DescOnly</Custom>
@@ -16159,7 +15959,6 @@ Some Sabers were equipped with beam cannon turrets in place of the standard twin
     <Name>Mass Driver Missile Launchers</Name>
     <Description>
       [H3]Mass Driver Missile Launchers[h3]
-
 A mass driver is a type of projectile cannon. They inflict damage by hurling projectiles at high velocities, which imparts kinetic energy and force to the target upon impact. Damage is thus a result of the mass of the projectile and its velocity.</Description>
     <Source Page="54">Knights of Fate</Source>
     <Custom>DescOnly</Custom>
@@ -16893,9 +16692,7 @@ Quarrie has designed a unique fire-linking system that draws power from all weap
     <Name>Light Repeating Blaster</Name>
     <Description>
       [H3]Light Repeating Blaster[h3]
-
 Light repeaters are support weapons for military and mercenary units. They feature a high rate of fire and are designed to suppress and injure unarmored personnel. The hail of "light" produced by these rapid-firing weapons is often enough to force enemies to ground. 
-
 [BR][B]Models Include[b]: BlasTech T-21 Light Repeating Blaster. </Description>
     <Sources>
       <Source Page="53">Knights of Fate</Source>
@@ -16934,9 +16731,7 @@ Light repeaters are support weapons for military and mercenary units. They featu
     <Name>Light Repeating Blaster</Name>
     <Description>
       [H3]Light Repeating Blaster[h3]
-
 Light repeaters are support weapons for military and mercenary units. They feature a high rate of fire and are designed to suppress and injure unarmored personnel. The hail of "light" produced by these rapid-firing weapons is often enough to force enemies to ground. 
-
 [BR][B]Models Include[b]: BlasTech T-21 Light Repeating Blaster. </Description>
     <Source Page="127">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
@@ -17966,9 +17761,9 @@ RPS-6 adds C] if the user performs an aim maneuver.
     <Key>MODEL201MORTAR</Key>
     <Name>Model 201 Mortar System</Name>
     <Description>[H3]Model 201 Mortar System[h3]
-The Model 201 mortar is a portable light artillery system used by specialized clone artillery troopers. Built by Merr-Sonn, the Model 201 is a smoothbore weapon that uses an electromagnetic mass-driver system to launch large caliber shells over long distances. The shells are fired in an arc instead of a direct line, which makes the 201 the weapon of choice for striking enemies behind heavy cover. Primarily a support weapon, the GAR usually deploys the 201 behind the front lines.[P]
-The weapon consists of three parts—the launcher, a heavy bipod, and the ammunition magazine—and is operated by a specially trained mortar team. A mortar team consists of three clones: one to carry the weapon, one to carry the bipod, and one to carry the ammo. Working together, a mortar team can keep up an incredible rate of fire, and a good mortar team can be a trooper squad's best friend in the field.[P]
-The Model 201 can only be used at medium range or further due to the arc of its shells.
+The Model 201 mortar is a portable light artillery system used by specialized clone artillery troopers. Built by Merr-Sonn, the Model 201 is a smoothbore weapon that uses an electromagnetic mass-driver system to launch large caliber shells over long distances. The shells are fired in an arc instead of a direct line, which makes the 201 the weapon of choice for striking enemies behind heavy cover. Primarily a support weapon, the GAR usually deploys the 201 behind the front lines.
+[P]The weapon consists of three parts—the launcher, a heavy bipod, and the ammunition magazine—and is operated by a specially trained mortar team. A mortar team consists of three clones: one to carry the weapon, one to carry the bipod, and one to carry the ammo. Working together, a mortar team can keep up an incredible rate of fire, and a good mortar team can be a trooper squad's best friend in the field.
+[P]The Model 201 can only be used at medium range or further due to the arc of its shells.
 </Description>
     <Source Page="51">Rise of the Separatists</Source>
     <Custom>DescOnly</Custom>
@@ -18012,8 +17807,8 @@ The Model 201 can only be used at medium range or further due to the arc of its 
     <Key>BLASTRIFDC15</Key>
     <Name>DC-15 Blaster Rifle</Name>
     <Description>[H3]DC-15 Blaster Rifle[h3]
-The DC-1 5 was, before the introduction of the DC-15A carbine, the standard issue longarm of the GAR. Roughly as long as a clone is tall, these weapons are heavy, poorly balanced, and extremely difficult to use anywhere but in a wide-open battlefield. They tend to suffer beam cohesion issues after sustained fire,	which negatively affects their short- to medium-range accuracy, and they are generally unpleasant weapons to deal with on a daily basis.	[P]
-Despite these glaring flaws. the DC-15 remains surprisingly popular among the clone ranks for one simple reason: raw power The DC-15 is one of the most powerful heavy blaster rifles in current use. It can punch through laminate armor at I ,000 meters, and at closer ranges it can destroy lightly armored vehicles. It rarely overheats or needs to be reloaded.  is extremely reliable, and can be serviced with the  bare minimum of tools in the field. Many clone marksby men have adopted it as their primary weapon, fitting h- it with long-range optical systems and gyrostabilization units to increase combat effectiveness.
+The DC-1 5 was, before the introduction of the DC-15A carbine, the standard issue longarm of the GAR. Roughly as long as a clone is tall, these weapons are heavy, poorly balanced, and extremely difficult to use anywhere but in a wide-open battlefield. They tend to suffer beam cohesion issues after sustained fire,	which negatively affects their short- to medium-range accuracy, and they are generally unpleasant weapons to deal with on a daily basis.
+[P]Despite these glaring flaws. the DC-15 remains surprisingly popular among the clone ranks for one simple reason: raw power The DC-15 is one of the most powerful heavy blaster rifles in current use. It can punch through laminate armor at I ,000 meters, and at closer ranges it can destroy lightly armored vehicles. It rarely overheats or needs to be reloaded.  is extremely reliable, and can be serviced with the  bare minimum of tools in the field. Many clone marksby men have adopted it as their primary weapon, fitting h- it with long-range optical systems and gyrostabilization units to increase combat effectiveness.
 </Description>
     <Source Page="51">Rise of the Separatists</Source>
     <Custom>DescOnly</Custom>
@@ -18083,11 +17878,9 @@ Merr-Sonn’s AP-N1 armor piercing grenade is designed to give the common foot s
     <Key>BTX42FLAME</Key>
     <Name>BT X-42 Heavy Flame Projector</Name>
     <Description>[H3]BT X-42 Heavy Flame Projector[h3]
-The BT X-42 heavy flame projector, from BlasTech, is one of the most destructive and terrifying weapons in the CAR's arsenal. Carried by specially trained clone flame troopers, this weapon is used primarily against massed, unarmored opponents in an anti-personnel role It IS also well suited to clearing rooms and bunkers, denying areas, and destroying enemy material.[P]
-Like most flame projectors, the XA2 can be as dangerous to friends as to enemies and has a nasty reputation for overheating or even exploding when damaged.[P]
-Game Masters can spend [TH][TH][TH] to cause the weapon to overheat, leaving it inoperable for three turns, or to have the weapon explode. An exploding deals full damage to the user and Blast damage to anything engaged with them.
-
-</Description>
+The BT X-42 heavy flame projector, from BlasTech, is one of the most destructive and terrifying weapons in the CAR's arsenal. Carried by specially trained clone flame troopers, this weapon is used primarily against massed, unarmored opponents in an anti-personnel role It IS also well suited to clearing rooms and bunkers, denying areas, and destroying enemy material.
+[P] Like most flame projectors, the XA2 can be as dangerous to friends as to enemies and has a nasty reputation for overheating or even exploding when damaged.
+[P]Game Masters can spend [TH][TH][TH] to cause the weapon to overheat, leaving it inoperable for three turns, or to have the weapon explode. An exploding deals full damage to the user and Blast damage to anything engaged with them.</Description>
     <Source Page="51">Rise of the Separatists</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -18123,7 +17916,7 @@ Game Masters can spend [TH][TH][TH] to cause the weapon to overheat, leaving it 
     <Name>DC-17 Hand Blaster</Name>
     <Description>[H3]DC-17 Hand Blaster[h3]
 The standard-issue sidearm of the GAR. BlasTechs  DC-1 7 is one of the most rugged and reliable blaster  pistols produced. Typically issued to vehicle crews weapon teams, and officers, these heavy blaster Pistols pack incredible stopping power into a relative  small package. They are lightweight and well balanced, and they have a very respectable rate of fire. Recently, ARC troopers and other special forces teams have taken to carrying the DC- 17 as a backup weapon and for close-quarters combat 
-Game Masters may spend [TH][TH][TH] (in addition to [DE]) to make a DCA-17 run out of ammo during combat.
+[P]Game Masters may spend [TH][TH][TH] (in addition to [DE]) to make a DCA-17 run out of ammo during combat.
 </Description>
     <Sources>
       <Source Page="51">Rise of the Separatists</Source>
@@ -18330,8 +18123,7 @@ Please see page 51 of the Collapse of the Republic Sourcebook for details.</Desc
     <Name>DC-12u Beam Rifle</Name>
     <Description>[H3]DC-12U Beam Rifle[h3]
 BlacTech's DC-12U is an ucommon weapon designed for underwater operations. Built for teh GAR's clone dive troopers, teh DC-12U was developed from the C290, an older BlasTech blaster rifle built for use in wet, humid, or swampy environments. It's a heavy, two-barreled weapon equipped with a collapsing stock and in integrated under-barrel mount. It fires two low-output blaster bolts with one pull of the trigger and is devastating in the right hands. Thanks to its patricular mix of blaster gases and the special focusing elements used to optimize underwater performance, the DC-12U fires blue bolts instead of the typical red bolts fired by most weapons.
-
-The under-barrel mount typically mounts a high-powered flashlight that removes [SE] due to darkness from any combat checks made with the weapon. When outside of an aquatic environment, the DC-12U has the inaccurate 2 quality.</Description>
+[P]The under-barrel mount typically mounts a high-powered flashlight that removes [SE] due to darkness from any combat checks made with the weapon. When outside of an aquatic environment, the DC-12U has the inaccurate 2 quality.</Description>
     <Source Page="51">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
     <Type>Energy Weapon</Type>
