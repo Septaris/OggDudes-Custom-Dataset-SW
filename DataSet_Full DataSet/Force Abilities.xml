@@ -4,8 +4,7 @@
     <Key>BATMEDBASIC</Key>
     <Name>Battle Meditation Basic Power</Name>
     <Description>[P]The Force user directs allies in battle, making them more effective as a coordinated unit.
-
-[P]The use may spend [FP] to add one automatic [SU] to all checks made by a number of engaged friendly targets to up his Presence before the end of his next turn. If the user used any [DA] to generate [FP], reduce each target's Willpower by 1 (to a minimum of 1) until the end of the encounter.</Description>
+[P]The user may spend [FP] to add one automatic [SU] to all checks made by a number of engaged friendly targets to up his Presence before the end of his next turn. If the user used any [DA] to generate [FP], reduce each target's Willpower by 1 (to a minimum of 1) until the end of the encounter.</Description>
     <Source>Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
   </ForceAbility>
@@ -13,9 +12,7 @@
     <Key>SENSEBASIC</Key>
     <Name>Sense Basic Power</Name>
     <Description>[P]The Force user can sense the Force interacting with the world around him.
-
 [P]The user may spend [FP] to sense all living things within short range (including sentient and non-sentient beings).
-
 [P]The user may spend [FP] to sense the current emotional state of one living target with whom he is engaged.</Description>
     <Sources>
       <Source>Edge of the Empire Core Rulebook</Source>
@@ -224,7 +221,6 @@
     <Key>ENHANCEBASIC</Key>
     <Name>Enhance Basic Power</Name>
     <Description>When making an Athletics check, the Force user may roll an [B] Enhance power check[b] as part of the pool.
-
 [P]The user may spend [FP] to gain [SU] or [AD] (user's choice) on the check.</Description>
     <Sources>
       <Source>Age of Rebellion Core Rulebook</Source>
@@ -394,7 +390,6 @@
     <Key>FORSEEBASIC</Key>
     <Name>Foresee Basic Power</Name>
     <Description>The Force user can feel the Force flowing around everything, seeing what is and what will be.
-
 [P] The user may spend [FP] to gain vague hints of events to come, up to a day into his own, personal future.</Description>
     <Sources>
       <Source>Age of Rebellion Core Rulebook</Source>
@@ -484,9 +479,7 @@
     <Key>HEALHARMBASIC</Key>
     <Name>Heal/Harm Basic Power</Name>
     <Description>The Force user bolsters his ally with renewed vigor or saps his foe of vital energy.
-
 [P][B]Heal (light side Force user only)[b]: Spend [FP] to heal a number of wounds equal to Intellect from an engaged living creature (including user).
-
 [P][B]Harm[b]: Spend [FP] to inflict a number of wounds equal to Intellect (ignoring soak) on an engaged living target. The user gains 1 Conflict.</Description>
     <Source>Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -496,7 +489,6 @@
     <Key>HEALHARMCONTROL1</Key>
     <Name>Control: Medicine</Name>
     <Description>[B]Heal[b]: Heal additional wounds equal to ranks in Medicine.
-
 [P][B]Harm[b]: Inflict additional wounds equal to ranks in Medicine.</Description>
     <Source>Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -506,7 +498,6 @@
     <Key>HEALHARMCONTROL2</Key>
     <Name>Control: Strain</Name>
     <Description>[B]Heal[b]: If no [DA] generated [FP], target heals strain equal to wounds healed.
-
 [P][B]Harm[b]: If any [DA] were used to generated [FP], user heals strain equal to wounds inflicted.</Description>
     <Source>Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -516,8 +507,7 @@
     <Key>HEALHARMCONTROL3</Key>
     <Name>Control: Status</Name>
     <Description>[B]Heal[b]: Spend [FP] to remove one status effect from target.
-
-[P][B]Harm[b]: The user may spend [FP] to heal wounds equal to wounds inflicted on target. Healed character gains 1 Conflict.</Description>
+[P][B]Harm[b]: The user may spend [FP] to heal wounds equal to wounds inflicted on the target. Healed character gains 1 Conflict.</Description>
     <Source>Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <Power>Heal/Harm</Power>
@@ -525,8 +515,7 @@
   <ForceAbility>
     <Key>HEALHARMCONTROL4</Key>
     <Name>Control: Critical</Name>
-    <Description>[B]Heal[b]: May make a [B]Heal power check[b] combined with a [B]Hard ([DI][DI][DI]) Medicine check[b]. If the check succeeds, one target who heals wounds also heal one Critical Injury.
-
+    <Description>[B]Heal[b]: May make a [B]Heal power check[b] combined with a [B]Hard ([DI][DI][DI]) Medicine check[b]. If the check succeeds, one target who heals wounds also heals one Critical Injury.
 [P][B]Harm[b]: May make a [B]Harm power check[b] combined with a [B]opposed Medicine vs. Resilience check[b]. If check succeeds, one target who suffers wounds also suffers one Critical Injury (adding +10 to the roll per [AD][AD]).</Description>
     <Source>Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -543,8 +532,7 @@
   <ForceAbility>
     <Key>HEALHARMMASTERY</Key>
     <Name>Mastery</Name>
-    <Description>[B]Heal[b]: Once per session, spend [FP][FP][FP][FP] to restore 1 target who died after the end of user's last turn to life.
-
+    <Description>[B]Heal[b]: Once per session, spend [FP][FP][FP][FP] to restore 1 target who died after the end of the user's last turn to life.
 [P][B]Harm[b]: Once per session, when this power kills a target, may restore one engaged character who died this encounter to life. Each character gains 7 Conflict.</Description>
     <Source>Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -562,7 +550,6 @@
     <Key>HEALHARMSTRENGTH</Key>
     <Name>Strength</Name>
     <Description>[B]Heal[b]: Spend [FP] to increase wounds healed by 1 per rank of Strength upgrades purchased.
-
 [P][B]Harm[b]: Spend [FP] to increase wounds inflicted by 1 per rank of Strength upgrades purchased.</Description>
     <Source>Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -571,10 +558,8 @@
   <ForceAbility>
     <Key>INFLUENCEBASIC</Key>
     <Name>Influence Basic Power</Name>
-    <Description>The character may attempt to guide, shape, and even twist the thoughts and feelings of other.
-
+    <Description>The character may attempt to guide, shape, and even twist the thoughts and feelings of others.
 [P][B]Special Rule ([LI]/[DA] use)[b]: When guiding and shaping thoughts, only [FP] generated from [DA] may be used to generate negative emotions such as rage, fear, and hatred. Only [FP] generated from[LI] may be used to generate positive emotions such as peace, tranquility, and friendliness. Other emotions such as confusion can be created from [FP] generated from either [LI] or [DA].
-
 [P]The character may spend [FP] to stress the mind of one living target he is engaged with, inflicting 1 strain.</Description>
     <Sources>
       <Source>Edge of the Empire Core Rulebook</Source>
@@ -675,7 +660,6 @@
     <Key>MISDIRBASIC</Key>
     <Name>Misdirect Basic Power</Name>
     <Description>The Force user creates illusions to fool those around him.
-
 [P]The user may spend [FP] to make a target at up to short range unable to perceive a chosen person or object of silhouette 1 or smaller. Until the beginning of the user's next turn, the target cannot see or sense the hidden person or object.</Description>
     <Source>Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -800,10 +784,8 @@
     <Key>PROTUNLBASICPOWER</Key>
     <Name>Protect/Unleash Basic Power</Name>
     <Description>The Force user guides the flow of energy, protecting himself and others or unleashing blasts of power upon his foes.
-
-[P][B]Protect[b]: The user makes a [B]Protect power check[b] and rolls an [B]Average ([DI][DI]) Discipline check[b] as part of the pool. Spend [FP][FP] to reduce damage from an energy-based weapon that hits himself or an engaged character by amount equal to Willpower plus 1 per [SU]. Dark Side Force users may only protect themselves.
-
-[P][B]Unleash[b]: The user makes an [B]Unleash power check[b] as ranged attack and rolls an [B]Average ([DI][DI]) Discipline check[b] for difficulty. If check succeeds and spend [FP][FP], the attack hits. It has a range of short, a base damage equal to Willpower, and a critical rating of 4. The user gains 1 Conflict.</Description>
+[P][B]Protect[b]: The user makes a [B]Protect power check[b] and rolls an [B]Average ([DI][DI]) Discipline check[b] as part of the pool. Spend [FP][FP] to reduce damage from an energy-based weapon that hits himself or an engaged character by an amount equal to Willpower plus 1 per [SU]. Dark Side Force users may only protect themselves.
+[P][B]Unleash[b]: The user makes an [B]Unleash power check[b] as ranged attack and rolls an [B]Average ([DI][DI]) Discipline check[b] for difficulty. If the check succeeds and the user spends [FP][FP], the attack hits. It has a range of short, a base damage equal to Willpower, and a critical rating of 4. The user gains 1 Conflict.</Description>
     <Source>Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <Power>Protect/Unleash</Power>
@@ -812,7 +794,6 @@
     <Key>PROTUNLCONTROL1</Key>
     <Name>Control: Defense/Strain</Name>
     <Description>[B]Protect[b]: Spend [AD] to gain defense equal to [AD] spent.
-
 [P][B]Unleash[b]: Spend [AD] to inflict 1 strain on target.</Description>
     <Source>Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -822,7 +803,6 @@
     <Key>PROTUNLCONTROL2</Key>
     <Name>Control: All Attacks/Ensnare</Name>
     <Description>[B]Protect[b]: Spend [FP] to allow power to protect against all types of attack.
-
 [P][B]Unleash[b]: Spend [FP] to give the attack Ensnare 2.</Description>
     <Source>Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -832,7 +812,6 @@
     <Key>PROTUNLCONTROL3</Key>
     <Name>Control: Incidental/Maneuver</Name>
     <Description>[B]Protect[b]: Light side Force users may spend 1 Destiny Point to use Protect as an out-of-turn incidental once per session.
-
 [P][B]Unleash[b]: Dark side Force users may spend 1 Destiny Point to use Unleash as a maneuver once per session.</Description>
     <Source>Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -842,7 +821,6 @@
     <Key>PROTUNLDURATION</Key>
     <Name>Duration</Name>
     <Description>[B]Protect[b]: If no [DA] generated [FP] the power reduces damage of all attacks hitting the target.
-
 [P][B]Unleash[b]: Spend [FP] to give the attack Burn 2.</Description>
     <Source>Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -860,7 +838,6 @@
     <Key>PROTUNLMASTERY</Key>
     <Name>Mastery</Name>
     <Description>[B]Protect[b]: Light side Force users may spend [FP][FP] to reflect attacks they reduce to 0 damage, dealing damage equal to initial attack to attacker.
-
 [P][B]Unleash[b]: Dark side Force users may spend [FP] to reduce critical rating of attacks to 1.</Description>
     <Source>Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -886,9 +863,7 @@
     <Key>SEEKBASICPOWER</Key>
     <Name>Seek Basic Power</Name>
     <Description>The Force user allows the will of the Force to lead the way to something lost or forgotten.
-
 [P]The user may spend [FP][FP] to gain insight into the general location or direction of a person or object that he knows about, regardless of current distance.
-
 [P]The user may spend [FP] and succeed at an [B]Average ([DI][DI]) Vigilance check[b] (or [B]opposed Vigilance vs. Discipline check[b]) to see through illusions.</Description>
     <Source>Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -1327,7 +1302,7 @@
   <ForceAbility>
     <Key>EBBFLOWBASIC</Key>
     <Name>Ebb/Flow Basic Power</Name>
-    <Description>The Force user's action empower himself or sap strength from his foes.
+    <Description>The Force user's action empowers himself or saps strength from his foes.
 [P][B]Ebb:[b] When the Force user makes a skill check, he may roll an [B]Ebb power check[b] as part of the roll. The user may spend [FP] to suffer 1 strain, then inflict 1 strain on all other engaged characters. The Force user may not activate this multiple times.
 [P][B]Flow:[b] When the Force user makes a skill check, he may roll an [B]Flow power check[b] as part of the roll. The user may spend [FP] to heal 1 strain, then inflict 1 strain on all other engaged characters. The Force user may not activate this multiple times.</Description>
     <Source Page="39">Disciples of Harmony</Source>
@@ -1403,7 +1378,7 @@
   <ForceAbility>
     <Key>EBBFLOWCONTROL5</Key>
     <Name>Mastery</Name>
-    <Description>[B]Ebb:[b] Once per session, if  a target suffered at least 5 strain from this power, add [DE] to the target's next check.
+    <Description>[B]Ebb:[b] Once per session, if a target suffered at least 5 strain from this power, add [DE] to the target's next check.
 
 [P][B]Flow:[b] Once per session, if the user healed at least 5 strain from this power, add [TR] to user's next check.</Description>
     <Source Page="39">Disciples of Harmony</Source>
@@ -1431,7 +1406,7 @@
   <ForceAbility>
     <Key>JERINFCONTROL1</Key>
     <Name>Control: Strain</Name>
-    <Description>If target suffers strain as a result of Jerserra's Influence, the Force user recovers an equal amount of strain.
+    <Description>If the target suffers strain as a result of Jerserra's Influence, the Force user recovers an equal amount of strain.
 </Description>
     <Source Page="13">Ghosts of Dathomir</Source>
     <Custom>AddedItem</Custom>
@@ -1642,7 +1617,7 @@
   <ForceAbility>
     <Key>ALTERCONTROL6</Key>
     <Name>Control: Corrosive</Name>
-    <Description>Spend [FP][FP] to create a corrosive atmosphere in a small area within the effected area.</Description>
+    <Description>Spend [FP][FP] to create a corrosive atmosphere in a small area within the affected area.</Description>
     <Source Page="43">Unlimited Power</Source>
     <Custom>DescOnly</Custom>
     <Power>Alter</Power>
@@ -1650,7 +1625,7 @@
   <ForceAbility>
     <Key>ALTERCONTROL7</Key>
     <Name>Control: Upgrade</Name>
-    <Description>Spend [FP][FP] to upgrade to difficulty of all checks made by opponents while in the power's area of effect once.
+    <Description>Spend [FP][FP] to upgrade the difficulty of all checks made by opponents while in the power's area of effect once.
 </Description>
     <Source Page="43">Unlimited Power</Source>
     <Custom>DescOnly</Custom>
