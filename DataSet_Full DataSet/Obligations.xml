@@ -5,7 +5,7 @@
     <Name>Unfinished Business</Name>
     <Description>
       [H4]Unfinished Business[h4]
-The PC is working on a long-tem project such as a complex computer program or a light freighter refit. It may be personal or commissioned work. While long breaks may be acceptable, the Obligation cannot be totally fulfilled until the unfinished business is complete and it weighs heavily on the PC's mind whenever the character chooses to postpone working on it for any reason.
+The PC is working on a long-term project such as a complex computer program or a light freighter refit. It may be personal or commissioned work. While long breaks may be acceptable, the Obligation cannot be totally fulfilled until the unfinished business is complete and it weighs heavily on the PC's mind whenever the character chooses to postpone working on it for any reason.
     </Description>
     <Source Page="18">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -42,7 +42,7 @@ The PC has an Obligation to keep a work crew or ship's complement safe, healthy 
     <Name>Fame</Name>
     <Description>
       [H4]Fame[h4]
-The character's reputation casts a long shadow. Perhaps the PC took a famous and difficult abounty, or owns a recognizable and deadly ship, or has beaten another well-known hunter to the punch in the past. Whatever the case, it is hard for the character to move unnoticed throughout the galaxy. This makes covert operations more difficult, but also means that informants are more likely to spill what they know when he PC arrives.</Description>
+The character's reputation casts a long shadow. Perhaps the PC took a famous and difficult bounty, or owns a recognizable and deadly ship, or has beaten another well-known hunter to the punch in the past. Whatever the case, it is hard for the character to move unnoticed throughout the galaxy. This makes covert operations more difficult, but also means that informants are more likely to spill what they know when he PC arrives.</Description>
     <Source Page="19">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
@@ -69,7 +69,7 @@ Much to many other freelancers' amusement, this character has sworn to faithfull
     <Name>Thrill Seeker</Name>
     <Description>
       [H4]Thrill Seeker[h4]
-Some people are addicted to alcohol or chems, others to gambling or other seedy vices. This character, however, is a confirmed adrenaline junkie, and chooses bounties not by their challenge or price, but by how exciting or dangerous they are. Avoiding the Obligation—perhaps by being a responsible business operator and considering every job's cost benefit analysis—results in an almost immediate case of excitement withdrawal. when inactive, the character is edgy, moody, easily distracted, and generally unpleasant to be around.
+Some people are addicted to alcohol or chems, others to gambling or other seedy vices. This character, however, is a confirmed adrenaline junkie, and chooses bounties not by their challenge or price, but by how exciting or dangerous they are. Avoiding the Obligation—perhaps by being a responsible business operator and considering every job's cost benefit analysis—results in an almost immediate case of excitement withdrawal. When inactive, the character is edgy, moody, easily distracted, and generally unpleasant to be around.
     </Description>
     <Source Page="19">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
@@ -89,10 +89,7 @@ The character has seen the wheels of justice grind up the innocent and let the g
     <Name>A Score to Settle</Name>
     <Description>
       [H4]A Score to Settle[h4]
-      he character has always been rough-and-tumble, but somewhere along the way someone
-wronged him, and he never forgets a debt, real or imagined This could be as simple as someone promising him
-backup who then disappeared or someone bad-mouthing him in front of a prospective client Now, the character
-is always looking for ways to even the score.</Description>
+      he character has always been rough-and-tumble, but somewhere along the way someone wronged him, and he never forgets a debt, real or imagined This could be as simple as someone promising him backup who then disappeared or someone bad-mouthing him in front of a prospective client Now, the character is always looking for ways to even the score.</Description>
     <Source Page="17">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
@@ -102,8 +99,6 @@ is always looking for ways to even the score.</Description>
     <Description>
       [H4]Addiction[h4]
 The character has a strong addiction he must keep feeding. Whether it's a physical addiction to stims, dust, or alcohol, or a mental addiction such as gambling, law-breaking, or priceless antiques, the character devotes a lot of time, energy, and resources to pursuing or obtaining the object of his addiction. Avoiding this Obligation has an almost immediate result - withdrawal. The exact nature depends on the addiction, but the character finds it increasingly difficult to concentrate on even mundane tasks, often reflected in the GM adding anywhere from [SE] to [SE][SE][SE] to skill checks.
-
-
     </Description>
     <Source Page="39">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -113,7 +108,7 @@ The character has a strong addiction he must keep feeding. Whether it's a physic
     <Name>Adrenaline Rush</Name>
     <Description>
       [H4]Adrenaline Rush[h4]
-The character is addicted to the rush of adrenaline he gets from battle. It was this character flaw that cost hi his position at the upper levels of society. Now he must feed the addiction or the results turn ugly indeed. The character cannot back down from a fight of any kind, and often goes in search of conflict when things get too tame for his tastes. Should the character go an entire session without combat of some kind, the GM may add a penalty of [SE] to any skill checks in the next session (or until the character gets a chance to fight).
+The character is addicted to the rush of adrenaline he gets from battle. It was this character flaw that cost him his position at the upper levels of society. Now he must feed the addiction or the results turn ugly indeed. The character cannot back down from a fight of any kind, and often goes in search of conflict when things get too tame for his tastes. Should the character go an entire session without combat of some kind, the GM may add a penalty of [SE] to any skill checks in the next session (or until the character gets a chance to fight).
     </Description>
     <Source Page="17">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
@@ -168,7 +163,6 @@ This Obligation can work in one of two ways: either the character is the target 
     <Description>
       [H4]Blackmail[h4]
 Someone has discovered one of the PC's dirty secrets and is using that knowledge for some sort of gain. To make matters worse, the blackmailer possesses evidence that could possibly leak out - a holovid, bank records, a weapon used during a crime, and so on. In order to keep the secret safe, the character must do what he is told, although the blackmailer is savvy enough to keep the demand simple enough to maintain the blackmail for as long as possible, generally demanding money or favors.
-
     </Description>
     <Source Page="39">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -178,8 +172,7 @@ Someone has discovered one of the PC's dirty secrets and is using that knowledge
     <Name>Bounty</Name>
     <Description>
       [H4]Bounty[h4]
-or some reason, the character has a price on his head. This may be in the form of a legal warrant or contract by criminals, collection agencies, or even someone who felt his honor violated in some way. What he did to earn this mark is up to his background, and the severity of his actions can be based on the size of his Obligation.
-
+For some reason, the character has a price on his head. This may be in the form of a legal warrant or contract by criminals, collection agencies, or even someone who felt his honor violated in some way. What he did to earn this mark is up to his background, and the severity of his actions can be based on the size of his Obligation.
     </Description>
     <Sources>
       <Source Page="39">Edge of the Empire Core Rulebook</Source>
@@ -295,7 +288,7 @@ The character has deep ties with his family that require a great deal of time an
     <Name>Fervor</Name>
     <Description>
       [H4]Fervor[h4]
-The character is possessed of a powerful drive to act based on religious or spiritual beliefs. As an Obligation, Fervor means that he cannot resist acting in accordance with his beliefs and teachings. He may even have those who support him in some way (thus explaining the resources he potentially attains due to the Obligation), further exhorting him to follow "the Way" they all revere. Consider the Archaeologist who seeks temples dedicated to a lost god or the Big-Game Hunter who truly believes that it his divine destiny to eradicate "monsters" throughout the galaxy.
+The character is possessed of a powerful drive to act based on religious or spiritual beliefs. As an Obligation, Fervor means that he cannot resist acting in accordance with his beliefs and teachings. He may even have those who support him in some way (thus explaining the resources he potentially attains due to the Obligation), further exhorting him to follow "the Way" they all revere. Consider the Archaeologist who seeks temples dedicated to a lost god or the Big-Game Hunter who truly believes that it's his divine destiny to eradicate "monsters" throughout the galaxy.
 </Description>
     <Source Page="19">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
@@ -395,7 +388,7 @@ Although the Smuggler might act like he's his own boss, he is actually the prope
     <Name>Sponsorship</Name>
     <Description>
       [H4]Sponsorship[h4]
-  This represents a legitimate faction that has placed a great deal of resources in the hands of a character (or a team) for some established purposed. For many Explorers, it is the common Obligation they will incur. It could be a mercantile consortium that sponsors a Trader in order to open up trade with a new planet or civilization or an Imperial agency sponsoring a Scout to investigate a newly discovered star and its planets. Archaeologists are frequently sponsored by academies or other scholastically minded organizations for their expeditions, and Big-Game Hunters may well be sponsored by a conservation group to thin a particular population of beasts... or sponsored by less savory firms to completely eradicate a particular life-form.
+  This represents a legitimate faction that has placed a great deal of resources in the hands of a character (or a team) for some established purpose. For many Explorers, it is the common Obligation they will incur. It could be a mercantile consortium that sponsors a Trader in order to open up trade with a new planet or civilization or an Imperial agency sponsoring a Scout to investigate a newly discovered star and its planets. Archaeologists are frequently sponsored by academies or other scholastically minded organizations for their expeditions, and Big-Game Hunters may well be sponsored by a conservation group to thin a particular population of beasts... or sponsored by less savory firms to completely eradicate a particular life-form.
 </Description>
     <Source Page="19">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
@@ -406,7 +399,6 @@ Although the Smuggler might act like he's his own boss, he is actually the prope
     <Description>
       [H4]The Price of a Name[h4]
 The character claimed to be someone else, taking credit for his accomplishments in a past negotiation in the hopes of a higher payday. The wronged party, either the person impersonated or the hiring party, is now angry. This enemy might respond by chasing down the character, spreading news of the duplicity, or demanding restitution to his reputation or his credit account.
-
     </Description>
     <Source Page="17">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
