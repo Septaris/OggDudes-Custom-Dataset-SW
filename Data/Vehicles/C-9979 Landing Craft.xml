@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Key>C9979</Key>
+  <Name>C-9979 Landing Craft</Name>
+  <Description>[H3]C-9979 Landing Craft[h3]
+Please see page 70 of the Rise of the Separatists Sourcebook for details.</Description>
+  <Source Page="70">Rise of the Separatists</Source>
+  <Custom>AddedItem</Custom>
+  <Type>Heavy Transport</Type>
+  <Categories>
+    <Category>Starship</Category>
+    <Category>Non-Fighter Starship</Category>
+  </Categories>
+  <HP>2</HP>
+  <Price>12000000</Price>
+  <Rarity>6</Rarity>
+  <Restricted>true</Restricted>
+  <HyperdrivePrimary>2</HyperdrivePrimary>
+  <HyperdriveBackup>15</HyperdriveBackup>
+  <StarFighters>144 starfighters</StarFighters>
+  <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srNone</SensorRangeValue>
+  <Crew>88 B1-series battle droids or 143 organic officers and enlisted crew</Crew>
+  <EncumbranceCapacity>5500</EncumbranceCapacity>
+  <Passengers>2500</Passengers>
+  <Consumables>One day</Consumables>
+  <Silhouette>5</Silhouette>
+  <Speed>3</Speed>
+  <Handling>-1</Handling>
+  <DefFore>2</DefFore>
+  <DefAft>2</DefAft>
+  <DefPort>1</DefPort>
+  <DefStarboard>1</DefStarboard>
+  <Armor>5</Armor>
+  <HullTrauma>65</HullTrauma>
+  <SystemStrain>45</SystemStrain>
+  <Starship>true</Starship>
+  <VehicleWeapons>
+    <VehicleWeapon>
+      <FiringArcs>
+        <Fore>true</Fore>
+      </FiringArcs>
+      <Location>WingMounted</Location>
+      <Qualities>
+        <Quality>
+          <Key>LINKED</Key>
+          <Count>1</Count>
+        </Quality>
+      </Qualities>
+      <Key>LASERHVY</Key>
+    </VehicleWeapon>
+    <VehicleWeapon>
+      <FiringArcs>
+        <Fore>true</Fore>
+        <Aft>true</Aft>
+        <Port>true</Port>
+        <Starboard>true</Starboard>
+        <Dorsal>true</Dorsal>
+      </FiringArcs>
+      <Turret>true</Turret>
+      <Location>Dorsal</Location>
+      <Qualities>
+        <Quality>
+          <Key>LINKED</Key>
+          <Count>1</Count>
+        </Quality>
+      </Qualities>
+      <Key>TURBOLT</Key>
+    </VehicleWeapon>
+  </VehicleWeapons>
+  <SensorRange>No Sensors</SensorRange>
+</Vehicle>

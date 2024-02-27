@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Specialization>
+  <Key>FORCEOUTCAST</Key>
+  <Name>Force-Sensitive Outcast</Name>
+  <Description>[H4]Force-Sensitive Outcast[h4]
+The Jedi and the Sith are not the sole masters of the Force. The Force awakens in all manner of beings from all walks of life, and while many Force sensitives are discovered by the Jedi—or on rare occasions, by the Sith—no one can say how many go unrecorded. Some Force sensitives receive training in the ways of the Jedi or Sith only to leave in pursuit or their own agendas, whether by choice or expulsion. These are the Force-Sensitive Outcasts, the independent Force users who stay on the outskirts of the galaxy and reject the dogma of the Jedi and the Sith. With a lightsaber at their side and the power of the Force at their fingertips, a Force-Sensitive Outcast is master of their own destiny. [B]A character who purchases this specialization gains a Force rating of 1.[b] If they already had a Force rating of 1 or higher, it does not increase.
+
+[H4]A LIFE ON THE EDGE[h4]
+
+[P]Life isn't easy for a Force-Sensitive Outcast, who must contend not only with the political might of the Republic and the Separatists, but also with the reach of the Jedi and the Sith. Many characters who forge their own path do so as smugglers, bounty hunters, or criminals, using their talents to gain wealth or influence outside of the law. Yet, a Force-Sensitive Outcast is not necessarily an outlaw at heart, and their clashes with Republic authority may stem from personal conflicts with the Jedi Order.
+
+[P]The doctrine of the Jedi is not welcoming to everyone, and the restrictions on attachment often conflict with a Force-Sensitive Outcast's values. Some Padawans are naturally adept with the dark side of the Force, strongly feeling its pull no matter how hard they try to heed their masters’ teachings. In rare cases, a Force user might receive training from a Sith Lord, whether within the confines of the Rule of Two or as a secret apprentice. Other Force users might find that their desire for freedom outweighs the benefit of having a mentor leading them to choose the self-taught path. This may eventually bring them into contact with the Jedi or Sith—if that is the will of the Force.
+
+[P]The reach of the Jedi is long, but not all-encompassing. Those who have rejected the Jedi or evaded or refused recruitment are masters at survival and subterfuge, using the Force and their own self-sufficiency to help them persist in a harsh galaxy. Experience is an effective teacher, and Force-Sensitive Outcasts are uniquely situated to learn all manner of tricks and tactics. Despite having little or no proper training in the ways of the Force, such iconoclasts may have skills that rival or exceed those of Jedi in certain areas.
+
+[P]Due to the abundance of Force users during the time of the Republic, it is possible for a non-Jedi to acquire a lightsaber. The blade of a fallen Jedi has been known to appear on the black market, and those who train with the Jedi or the Sith often walk away with their own lightsaber, regardless of the circumstances of the parting. However a Force-Sensitive Outcast acquires such a weapon, it becomes a tangible symbol of their unique talents.
+
+[P]Many of a Force-Sensitive Outcast's combat skills are likely self-taught, making their battle techniques diverse and unpredictable. They often fight with a pieced-together combination of different formal lightsaber styles, remembering elements of their training (if they had any) and the maneuvers of other lightsaber-wielding combatants, and incorporating them into traditional sword-fighting techniques—with a fair amount of improvisation. A Force-Sensitive Outcast may be a less refined warrior than a Jedi or Sith, but they are no less deadly.
+</Description>
+  <Source Page="29">Rise of the Separatists</Source>
+  <Custom>DescOnly</Custom>
+  <TalentRows>
+    <TalentRow>
+      <Cost>5</Cost>
+      <Talents>
+        <Key>UNCANREAC</Key>
+        <Key>SENSDEMO</Key>
+        <Key>GRIT</Key>
+        <Key>UNCANSENS</Key>
+      </Talents>
+      <Directions>
+        <Direction>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+        </Direction>
+        <Direction />
+        <Direction>
+          <Down>true</Down>
+        </Direction>
+      </Directions>
+    </TalentRow>
+    <TalentRow>
+      <Cost>10</Cost>
+      <Talents>
+        <Key>QUICKDR</Key>
+        <Key>QUICKST</Key>
+        <Key>DISOR</Key>
+        <Key>SECRETFORCE</Key>
+      </Talents>
+      <Directions>
+        <Direction>
+          <Up>true</Up>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
+          <Right>true</Right>
+          <Up>true</Up>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
+          <Left>true</Left>
+        </Direction>
+        <Direction>
+          <Up>true</Up>
+          <Down>true</Down>
+        </Direction>
+      </Directions>
+    </TalentRow>
+    <TalentRow>
+      <Cost>15</Cost>
+      <Talents>
+        <Key>DISOR</Key>
+        <Key>PREYWEAK</Key>
+        <Key>RENFORM</Key>
+        <Key>PARRY</Key>
+      </Talents>
+      <Directions>
+        <Direction>
+          <Right>true</Right>
+          <Up>true</Up>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
+          <Left>true</Left>
+          <Up>true</Up>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
+          <Right>true</Right>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
+          <Left>true</Left>
+          <Up>true</Up>
+          <Down>true</Down>
+        </Direction>
+      </Directions>
+    </TalentRow>
+    <TalentRow>
+      <Cost>20</Cost>
+      <Talents>
+        <Key>PREYWEAK</Key>
+        <Key>SORRYMESS</Key>
+        <Key>PARRY</Key>
+        <Key>REFLECT</Key>
+      </Talents>
+      <Directions>
+        <Direction>
+          <Right>true</Right>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Left>true</Left>
+          <Up>true</Up>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Up>true</Up>
+          <Down>true</Down>
+        </Direction>
+      </Directions>
+    </TalentRow>
+    <TalentRow>
+      <Cost>25</Cost>
+      <Talents>
+        <Key>DEDI</Key>
+        <Key>RAVAGE</Key>
+        <Key>GRIT</Key>
+        <Key>FORCERAT</Key>
+      </Talents>
+      <Directions>
+        <Direction>
+          <Right>true</Right>
+        </Direction>
+        <Direction>
+          <Left>true</Left>
+          <Right>true</Right>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Left>true</Left>
+          <Right>true</Right>
+        </Direction>
+        <Direction>
+          <Left>true</Left>
+          <Up>true</Up>
+        </Direction>
+      </Directions>
+    </TalentRow>
+  </TalentRows>
+  <Universal>true</Universal>
+  <Attributes>
+    <ForceRating>1</ForceRating>
+  </Attributes>
+</Specialization>

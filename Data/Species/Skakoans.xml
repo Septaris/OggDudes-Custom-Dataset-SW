@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Species>
+  <Key>SKAKOAN</Key>
+  <Name>Skakoan</Name>
+  <Description>
+    [H4]Skakoan[h4]
+    Please see page 21 of the Fully Operational Sourcebook for details.
+  </Description>
+  <Source Page="21">Fully Operational</Source>
+  <StartingChars>
+    <Brawn>2</Brawn>
+    <Agility>2</Agility>
+    <Intellect>3</Intellect>
+    <Cunning>1</Cunning>
+    <Willpower>2</Willpower>
+    <Presence>2</Presence>
+  </StartingChars>
+  <StartingAttrs>
+    <WoundThreshold>10</WoundThreshold>
+    <StrainThreshold>8</StrainThreshold>
+    <Experience>80</Experience>
+  </StartingAttrs>
+  <SkillModifiers>
+    <SkillModifier>
+      <Key>EDU</Key>
+      <RankStart>1</RankStart>
+      <RankLimit>2</RankLimit>
+    </SkillModifier>
+    <SkillModifier>
+      <Key>MECH</Key>
+      <RankStart>1</RankStart>
+      <RankLimit>2</RankLimit>
+    </SkillModifier>
+  </SkillModifiers>
+  <TalentModifiers>
+  </TalentModifiers>
+  <OptionChoices>
+    <OptionChoice>
+      <Key>SKAKOANOC1</Key>
+      <Name>Equipment</Name>
+      <Description />
+      <Options>
+        <Option>
+          <Key>SKAKOANOC1OP1</Key>
+          <Name>Methane Breather</Name>
+          <Description>Skakoans start the game with a Skakoan Pressure Suit.</Description>
+          <DieModifiers>
+          </DieModifiers>
+        </Option>
+      </Options>
+    </OptionChoice>
+    <OptionChoice>
+      <Key>SKAKOANOC2</Key>
+      <Name>Environment</Name>
+      <Description />
+      <Options>
+        <Option>
+          <Key>SKAKOANOC2OP1</Key>
+          <Name>Methane Breather</Name>
+          <Description>Skakoans treat standard planetary air and pressure as a corrosive atmosphere with rating 6.</Description>
+        </Option>
+      </Options>
+    </OptionChoice>
+  </OptionChoices>
+</Species>

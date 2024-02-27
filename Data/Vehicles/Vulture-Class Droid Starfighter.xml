@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Key>VULTURESTAR</Key>
+  <Name>Vulture-Class Droid Starfighter</Name>
+  <Description>[H3][I]Vulture[i] - Class Droid Starfighter[h3]
+Please see page 74 of the Rise of the Separatists Sourcebook for details.</Description>
+  <Source Page="74">Rise of the Separatists</Source>
+  <Custom>AddedItem</Custom>
+  <Type>Variable Geometry Self-Propelled Battle Droid</Type>
+  <Categories>
+    <Category>Starship</Category>
+  </Categories>
+  <Price>40000</Price>
+  <Rarity>5</Rarity>
+  <BaseMods>
+    <Mod>
+      <Count>1</Count>
+      <MiscDesc>[B]Discord Missile Launcher[b]:  A discord missile launcher inflicts no damage.  Instead, a successful hit deploys one buzz droid engaged with the target per [SU] on check.</MiscDesc>
+    </Mod>
+    <Mod>
+      <Count>1</Count>
+      <MiscDesc>[B]Variable Geometry[b]:  A vulture droid can change between its starfighter and walker configurations as a maneuver.  In walker configuration, a vulture droid's speed is 2 and it can cling to starship hulls or scale sheer surfaces.</MiscDesc>
+    </Mod>
+  </BaseMods>
+  <WeaponModifiers>
+    <WeaponModifier>
+      <UnarmedName>Discord Missile Launcher</UnarmedName>
+      <SkillKey>GUNN</SkillKey>
+      <Crit>6</Crit>
+      <Scale>wsPlanetary</Scale>
+      <Qualities>
+        <Quality>
+          <Key>BLAST</Key>
+          <Count>4</Count>
+        </Quality>
+        <Quality>
+          <Key>BREACH</Key>
+          <Count>4</Count>
+        </Quality>
+        <Quality>
+          <Key>GUIDED</Key>
+          <Count>3</Count>
+        </Quality>
+        <Quality>
+          <Key>LIMITEDAMMO</Key>
+          <Count>3</Count>
+        </Quality>
+        <Quality>
+          <Key>LINKED</Key>
+          <Count>1</Count>
+        </Quality>
+        <Quality>
+          <Key>SLOWFIRING</Key>
+          <Count>1</Count>
+        </Quality>
+      </Qualities>
+      <VehicleWeaponProperties>
+        <FiringArcs>
+          <Fore>true</Fore>
+        </FiringArcs>
+      </VehicleWeaponProperties>
+      <VehicleWeaponCount>1</VehicleWeaponCount>
+      <RangeValue>wrShort</RangeValue>
+      <Range>Short</Range>
+    </WeaponModifier>
+    <WeaponModifier>
+      <UnarmedName>Walker Legs</UnarmedName>
+      <SkillKey>BRAWL</SkillKey>
+      <Damage>9</Damage>
+      <Crit>4</Crit>
+      <Scale>wsPersonal</Scale>
+      <Qualities>
+        <Quality>
+          <Key>ENSNARE</Key>
+          <Count>1</Count>
+        </Quality>
+        <Quality>
+          <Key>KNOCKDOWN</Key>
+        </Quality>
+      </Qualities>
+      <Range>Engaged</Range>
+    </WeaponModifier>
+  </WeaponModifiers>
+  <Crew>None</Crew>
+  <Silhouette>3</Silhouette>
+  <Speed>5</Speed>
+  <Handling>2</Handling>
+  <Armor>2</Armor>
+  <HullTrauma>8</HullTrauma>
+  <SystemStrain>6</SystemStrain>
+  <Starship>true</Starship>
+  <SinglePilot>true</SinglePilot>
+  <VehicleWeapons>
+    <VehicleWeapon>
+      <FiringArcs>
+        <Fore>true</Fore>
+      </FiringArcs>
+      <Location>Forward</Location>
+      <Qualities>
+        <Quality>
+          <Key>LINKED</Key>
+          <Count>1</Count>
+        </Quality>
+      </Qualities>
+      <Key>BLASTCANHVY</Key>
+    </VehicleWeapon>
+    <VehicleWeapon>
+      <FiringArcs>
+        <Fore>true</Fore>
+      </FiringArcs>
+      <Location>Forward</Location>
+      <Qualities>
+        <Quality>
+          <Key>LINKED</Key>
+          <Count>1</Count>
+        </Quality>
+        <Quality>
+          <Key>LIMITEDAMMO</Key>
+          <Count>12</Count>
+        </Quality>
+      </Qualities>
+      <Key>CML</Key>
+    </VehicleWeapon>
+  </VehicleWeapons>
+  <SensorRange>Close</SensorRange>
+</Vehicle>

@@ -1,0 +1,4039 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CraftTemplates>
+  <!-- Armor Templates -->
+  <CraftTemplate>
+    <Key>ARMORREINF</Key>
+    <Name>Reinforced Clothing</Name>
+    <Description>
+      [H3]Reinforced Clothing[h3]
+      This is an armor template.  Please enter the description of the finished armor here.
+    </Description>
+    <Source Page="90">Keeping the Peace</Source>
+    <TempType>ctArmor</TempType>
+    <MaterialCost>25</MaterialCost>
+    <MaterialRarity>0</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <TimeHours>6</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+      <Key>SURV</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <ArmorProfile>
+      <Name>Reinforced Clothing</Name>
+      <Categories>
+        <Category>Half Body</Category>
+      </Categories>
+      <Rarity>-1</Rarity>
+      <Encumbrance>1</Encumbrance>
+      <HP>0</HP>
+      <BaseMods />
+      <WeaponModifiers />
+      <Defense>0</Defense>
+      <Soak>1</Soak>
+    </ArmorProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>ARMORLT</Key>
+    <Name>Light Armor</Name>
+    <Description>
+      [H3]Light Armor[h3]
+      This is an armor template.  Please enter the description of the finished armor here.
+    </Description>
+    <Source Page="90">Keeping the Peace</Source>
+    <TempType>ctArmor</TempType>
+    <TimeHours>12</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+      <Key>SURV</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>250</MaterialCost>
+    <MaterialRarity>0</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <ArmorProfile>
+      <Categories>
+        <Category>Half Body</Category>
+      </Categories>
+      <Encumbrance>2</Encumbrance>
+      <Rarity>-1</Rarity>
+      <HP>0</HP>
+      <BaseMods />
+      <WeaponModifiers />
+      <Defense>0</Defense>
+      <Soak>2</Soak>
+    </ArmorProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>ARMORCUST</Key>
+    <Name>Customizable Armor</Name>
+    <Description>
+      [H3]Customizable Armor[h3]
+      This is an armor template.  Please enter the description of the finished armor here.
+    </Description>
+    <Source Page="90">Keeping the Peace</Source>
+    <TempType>ctArmor</TempType>
+    <TimeHours>16</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>500</MaterialCost>
+    <MaterialRarity>4</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <ArmorProfile>
+      <Categories>
+        <Category>Full Body</Category>
+      </Categories>
+      <Rarity>-1</Rarity>
+      <Encumbrance>4</Encumbrance>
+      <HP>4</HP>
+      <Defense>0</Defense>
+      <Soak>1</Soak>
+    </ArmorProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>ARMORDEFL</Key>
+    <Name>Deflective Armor</Name>
+    <Description>
+      [H3]Deflective Armor[h3]
+      This is an armor template.  Please enter the description of the finished armor here.
+    </Description>
+    <Source Page="90">Keeping the Peace</Source>
+    <TempType>ctArmor</TempType>
+    <TimeHours>24</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>500</MaterialCost>
+    <MaterialRarity>5</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <ArmorProfile>
+      <Categories>
+        <Category>Half Body</Category>
+        <Category>Resistant</Category>
+      </Categories>
+      <Rarity>-1</Rarity>
+      <Encumbrance>2</Encumbrance>
+      <HP>1</HP>
+      <Defense>1</Defense>
+      <Soak>1</Soak>
+    </ArmorProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>ARMORCOMBAT</Key>
+    <Name>Combat Armor</Name>
+    <Description>
+      [H3]Combat Armor[h3]
+      This is an armor template.  Please enter the description of the finished armor here.
+    </Description>
+    <Source Page="90">Keeping the Peace</Source>
+    <TempType>ctArmor</TempType>
+    <TimeHours>48</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>1250</MaterialCost>
+    <MaterialRarity>4</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <ArmorProfile>
+      <Categories>
+        <!--<Category>Sealable</Category>-->
+        <Category>Full Body</Category>
+        <Category>Hard Full Body</Category>
+        <Category>Hard</Category>
+        <Category>Heavy</Category>
+        <Category>Resistant</Category>
+      </Categories>
+      <Rarity>-1</Rarity>
+      <Encumbrance>4</Encumbrance>
+      <HP>3</HP>
+      <Defense>0</Defense>
+      <Soak>2</Soak>
+    </ArmorProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>ARMORSEG</Key>
+    <Name>Segmented Armor</Name>
+    <Description>
+      [H3]Segmented Armor[h3]
+      This is an armor template.  Please enter the description of the finished armor here.
+    </Description>
+    <Source Page="90">Keeping the Peace</Source>
+    <TempType>ctArmor</TempType>
+    <TimeHours>72</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>4</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>2500</MaterialCost>
+    <MaterialRarity>6</MaterialRarity>
+    <MaterialRestricted>true</MaterialRestricted>
+    <ArmorProfile>
+      <Categories>
+        <Category>Full Body</Category>
+        <Category>Hard Full Body</Category>
+        <Category>Hard</Category>
+        <Category>Heavy</Category>
+        <Category>Resistant</Category>
+      </Categories>
+      <Rarity>-1</Rarity>
+      <Encumbrance>6</Encumbrance>
+      <HP>4</HP>
+      <BaseMods />
+      <WeaponModifiers />
+      <Defense>1</Defense>
+      <Soak>2</Soak>
+    </ArmorProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>ARMORAUG</Key>
+    <Name>Augmentative Armor</Name>
+    <Description>
+      [H3]Augmentative Armor[h3]
+      This is an armor template.  Please enter the description of the finished armor here.
+    </Description>
+    <Source Page="90">Keeping the Peace</Source>
+    <TempType>ctArmor</TempType>
+    <TimeHours>120</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>5</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>4500</MaterialCost>
+    <MaterialRarity>6</MaterialRarity>
+    <MaterialRestricted>true</MaterialRestricted>
+    <ArmorProfile>
+      <Categories>
+        <Category>Full Body</Category>
+        <Category>Hard Full Body</Category>
+        <Category>Hard</Category>
+        <Category>Heavy</Category>
+        <Category>Resistant</Category>
+      </Categories>
+      <Rarity>-1</Rarity>
+      <Encumbrance>6</Encumbrance>
+      <HP>6</HP>
+      <BaseMods />
+      <WeaponModifiers />
+      <Defense>2</Defense>
+      <Soak>2</Soak>
+    </ArmorProfile>
+  </CraftTemplate>
+
+  <!-- Brawl and Melee -->
+  
+  <CraftTemplate>
+    <Key>BRAWLFIST</Key>
+    <Name>Fist Weapon</Name>
+    <Description>
+      [H3]Fist Weapon[h3]
+      This is a brawl weapon template.  Examples include brass knuckles and punch daggers.  Please enter the description of the finished weapon here.
+    </Description>
+    <Source Page="76">Special Modifications</Source>
+    <TempType>ctMeleeBrawl</TempType>
+    <TimeHours>4</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+      <Key>SURV</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>10</MaterialCost>
+    <MaterialRarity>0</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <WeaponProfile>
+      <SkillKey>BRAWL</SkillKey>
+      <DamageAdd>1</DamageAdd>
+      <Crit>4</Crit>
+      <RangeValue>wrEngaged</RangeValue>
+      <Encumbrance>1</Encumbrance>
+      <HP>0</HP>
+      <Rarity>-1</Rarity>
+      <Type>Brawling</Type>
+      <Hands>whOneHanded</Hands>
+      <Categories>
+        <Category>Bludgeoning Brawl</Category>
+      </Categories>
+      <Qualities>
+        <Quality>
+          <Key>DISORIENT</Key>
+          <Count>3</Count>
+        </Quality>
+      </Qualities>
+    </WeaponProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>BRAWLBLUNT</Key>
+    <Name>Blunt Weapon</Name>
+    <Description>
+      [H3]Blunt Weapon[h3]
+      This is a brawl weapon template.  Examples include clubs and staves.  Please enter the description of the finished weapon here.
+    </Description>
+    <Source Page="76">Special Modifications</Source>
+    <TempType>ctMeleeBrawl</TempType>
+    <TimeHours>6</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+      <Key>SURV</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>1</Difficulty>
+      <Difficulty>1</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>5</MaterialCost>
+    <MaterialRarity>0</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <WeaponProfile>
+      <SkillKey>MELEE</SkillKey>
+      <DamageAdd>2</DamageAdd>
+      <Crit>5</Crit>
+      <RangeValue>wrEngaged</RangeValue>
+      <Encumbrance>3</Encumbrance>
+      <HP>1</HP>
+      <Rarity>-1</Rarity>
+      <Type>Melee</Type>
+      <Hands>whOneHanded</Hands>
+      <Categories>
+        <Category>Bludgeoning Melee</Category>
+      </Categories>
+      <Qualities>
+        <Quality>
+          <Key>DISORIENT</Key>
+          <Count>2</Count>
+        </Quality>
+      </Qualities>
+    </WeaponProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>MELEESHIELD</Key>
+    <Name>Shield</Name>
+    <Description>
+      [H3]Shield[h3]
+      This is a shield template.  Examples include bucklers and riot shields.  Please enter the description of the finished shield here.
+    </Description>
+    <Source Page="76">Special Modifications</Source>
+    <TempType>ctMeleeBrawl</TempType>
+    <TimeHours>8</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+      <Key>SURV</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>10</MaterialCost>
+    <MaterialRarity>0</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <WeaponProfile>
+      <SkillKey>MELEE</SkillKey>
+      <DamageAdd>0</DamageAdd>
+      <Crit>5</Crit>
+      <RangeValue>wrEngaged</RangeValue>
+      <Encumbrance>1</Encumbrance>
+      <HP>4</HP>
+      <Rarity>-1</Rarity>
+      <Type>Melee</Type>
+      <Hands>whOneHanded</Hands>
+      <Categories>
+        <Category>Shield</Category>
+        <Category>Bludgeoning Melee</Category>
+      </Categories>
+      <Qualities>
+        <Quality>
+          <Key>DEFENSIVE</Key>
+          <Count>1</Count>
+        </Quality>
+      </Qualities>
+    </WeaponProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>MELEEBLADED</Key>
+    <Name>Bladed Weapon</Name>
+    <Description>
+      [H3]Bladed Weapon[h3]
+      This is a melee weapon template.  Examples include axes, knives, and swords.  Please enter the description of the finished weapon here.
+    </Description>
+    <Source Page="76">Special Modifications</Source>
+    <TempType>ctMeleeBrawl</TempType>
+    <TimeHours>16</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+      <Key>SURV</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>10</MaterialCost>
+    <MaterialRarity>0</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <WeaponProfile>
+      <SkillKey>MELEE</SkillKey>
+      <DamageAdd>1</DamageAdd>
+      <Crit>3</Crit>
+      <RangeValue>wrEngaged</RangeValue>
+      <Encumbrance>2</Encumbrance>
+      <HP>1</HP>
+      <Rarity>-1</Rarity>
+      <Type>Melee</Type>
+      <Hands>whOneHanded</Hands>
+      <Categories>
+        <Category>Cutting Edge Melee</Category>
+      </Categories>
+      <Qualities>
+      </Qualities>
+    </WeaponProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>MELEEVIBRO</Key>
+    <Name>Vibro-weapon</Name>
+    <Description>
+      [H3]Vibro-weapon[h3]
+      This is a melee weapon template.  Examples include vibro-axes, vibroknives, and vibroswords.  Please enter the description of the finished weapon here.
+    </Description>
+    <Source Page="76">Special Modifications</Source>
+    <TempType>ctMeleeBrawl</TempType>
+    <TimeHours>24</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>200</MaterialCost>
+    <MaterialRarity>3</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <WeaponProfile>
+      <SkillKey>MELEE</SkillKey>
+      <DamageAdd>1</DamageAdd>
+      <Crit>2</Crit>
+      <RangeValue>wrEngaged</RangeValue>
+      <Encumbrance>2</Encumbrance>
+      <HP>3</HP>
+      <Rarity>-1</Rarity>
+      <Type>Melee</Type>
+      <Hands>whOneHanded</Hands>
+      <Categories>
+        <Category>Cutting Edge Melee</Category>
+        <Category>Powered Melee</Category>
+      </Categories>
+      <Qualities>
+        <Quality>
+          <Key>PIERCE</Key>
+          <Count>2</Count>
+        </Quality>
+        <Quality>
+          <Key>VICIOUS</Key>
+          <Count>1</Count>
+        </Quality>
+      </Qualities>
+    </WeaponProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>MELEEPOW</Key>
+    <Name>Powered Melee Weapon</Name>
+    <Description>
+      [H3]Powered Melee Weapon[h3]
+      This is a melee weapon template.  Examples include electrostaves and force pikes.  Please enter the description of the finished weapon here.
+    </Description>
+    <Source Page="76">Special Modifications</Source>
+    <TempType>ctMeleeBrawl</TempType>
+    <TimeHours>48</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>4</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>400</MaterialCost>
+    <MaterialRarity>4</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <WeaponProfile>
+      <SkillKey>MELEE</SkillKey>
+      <DamageAdd>2</DamageAdd>
+      <Crit>3</Crit>
+      <RangeValue>wrEngaged</RangeValue>
+      <Encumbrance>3</Encumbrance>
+      <HP>5</HP>
+      <Rarity>-1</Rarity>
+      <Hands>whOneHanded</Hands>
+      <Type>Melee</Type>
+      <Categories>
+        <Category>Powered Melee</Category>
+      </Categories>
+      <Qualities>
+        <Quality>
+          <Key>STUN</Key>
+          <Count>3</Count>
+        </Quality>
+      </Qualities>
+    </WeaponProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>MELEEPOWCUT</Key>
+    <Name>Powered Melee Weapon (Cutting Edge)</Name>
+    <Description>
+      [H3]Powered Melee Weapon (Cutting Edge)[h3]
+      This is a melee weapon template.  Examples include force pikes.  Please enter the description of the finished weapon here.
+    </Description>
+    <Source Page="76">Special Modifications</Source>
+    <TempType>ctMeleeBrawl</TempType>
+    <TimeHours>48</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>4</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>400</MaterialCost>
+    <MaterialRarity>4</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <WeaponProfile>
+      <SkillKey>MELEE</SkillKey>
+      <DamageAdd>2</DamageAdd>
+      <Crit>3</Crit>
+      <RangeValue>wrEngaged</RangeValue>
+      <Encumbrance>3</Encumbrance>
+      <HP>5</HP>
+      <Rarity>-1</Rarity>
+      <Hands>whOneHanded</Hands>
+      <Type>Melee</Type>
+      <Categories>
+        <Category>Powered Melee</Category>
+        <Category>Cutting Edge Melee</Category>
+      </Categories>
+      <Qualities>
+        <Quality>
+          <Key>STUN</Key>
+          <Count>3</Count>
+        </Quality>
+      </Qualities>
+    </WeaponProfile>
+  </CraftTemplate>
+
+  <CraftTemplate>
+    <Key>MELEEPOWBLUD</Key>
+    <Name>Powered Melee Weapon (Bludgeoning)</Name>
+    <Description>
+      [H3]Powered Melee Weapon (Bludgeoning)[h3]
+      This is a melee weapon template.  Examples include electrostaves.  Please enter the description of the finished weapon here.
+    </Description>
+    <Source Page="76">Special Modifications</Source>
+    <TempType>ctMeleeBrawl</TempType>
+    <TimeHours>48</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>4</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>400</MaterialCost>
+    <MaterialRarity>4</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <WeaponProfile>
+      <SkillKey>MELEE</SkillKey>
+      <DamageAdd>2</DamageAdd>
+      <Crit>3</Crit>
+      <RangeValue>wrEngaged</RangeValue>
+      <Encumbrance>3</Encumbrance>
+      <HP>5</HP>
+      <Rarity>-1</Rarity>
+      <Hands>whOneHanded</Hands>
+      <Type>Melee</Type>
+      <Categories>
+        <Category>Powered Melee</Category>
+        <Category>Bludgeoning Melee</Category>
+      </Categories>
+      <Qualities>
+        <Quality>
+          <Key>STUN</Key>
+          <Count>3</Count>
+        </Quality>
+      </Qualities>
+    </WeaponProfile>
+  </CraftTemplate>
+
+  <!-- Ranged Weapons -->
+
+  <CraftTemplate>
+    <Key>RANGEDPROJ</Key>
+    <Name>Simple Projectile Weapon</Name>
+    <Description>
+      [H3]Simple Projectile Weapon[h3]
+      This is a ranged weapon template.  Examples include bows, slings, and javelins.  Please enter the description of the finished weapon here.
+    </Description>
+    <Source Page="78">Special Modifications</Source>
+    <TempType>ctRanged</TempType>
+    <TimeHours>4</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+      <Key>SURV</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>10</MaterialCost>
+    <MaterialRarity>0</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <WeaponProfile>
+      <Categories>
+        <Category>Ranged</Category>
+      </Categories>
+      <SkillKey>RANGLT</SkillKey>
+      <Damage>4</Damage>
+      <Crit>5</Crit>
+      <RangeValue>wrShort</RangeValue>
+      <Encumbrance>3</Encumbrance>
+      <HP>0</HP>
+      <Rarity>-1</Rarity>
+      <Type>Explosives/Other</Type>
+      <Qualities>
+        <Quality>
+          <Key>LIMITEDAMMO</Key>
+          <Count>1</Count>
+        </Quality>
+      </Qualities>
+    </WeaponProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>RANGEDSOLIDPIST</Key>
+    <Name>Solid Projectile Pistol</Name>
+    <Description>
+      [H3]Solid Projectile Pistol[h3]
+      This is a ranged weapon template.  Examples include slugthrower pistols and flechette pistols.  Please enter the description of the finished weapon here.
+    </Description>
+    <Source Page="78">Special Modifications</Source>
+    <TempType>ctRanged</TempType>
+    <TimeHours>8</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>50</MaterialCost>
+    <MaterialRarity>2</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <WeaponProfile>
+      <SkillKey>RANGLT</SkillKey>
+      <Damage>4</Damage>
+      <Crit>5</Crit>
+      <RangeValue>wrShort</RangeValue>
+      <Encumbrance>1</Encumbrance>
+      <HP>0</HP>
+      <Price>100</Price>
+      <Rarity>-1</Rarity>
+      <Type>Slugthrower</Type>
+      <Categories>
+        <Category>Pistol</Category>
+        <Category>Ranged</Category>
+      </Categories>
+    </WeaponProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>RANGEDSOLIDRIF</Key>
+    <Name>Solid Projectile Rifle</Name>
+    <Description>
+      [H3]Solid Projectile Rifle[h3]
+      This is a ranged weapon template.  Examples include slugthrower rifles and rail guns.  Please enter the description of the finished weapon here.
+    </Description>
+    <Source Page="78">Special Modifications</Source>
+    <TempType>ctRanged</TempType>
+    <TimeHours>8</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>125</MaterialCost>
+    <MaterialRarity>2</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <WeaponProfile>
+      <SkillKey>RANGHVY</SkillKey>
+      <Damage>7</Damage>
+      <Crit>5</Crit>
+      <RangeValue>wrMedium</RangeValue>
+      <Encumbrance>5</Encumbrance>
+      <HP>1</HP>
+      <Rarity>-1</Rarity>
+      <Type>Slugthrower</Type>
+      <Categories>
+        <Category>Rifle</Category>
+        <Category>Ranged</Category>
+      </Categories>
+      <Qualities>
+        <Quality>
+          <Key>CUMBERSOME</Key>
+          <Count>2</Count>
+        </Quality>
+      </Qualities>
+    </WeaponProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>RANGEDENERPIST</Key>
+    <Name>Energy Pistol</Name>
+    <Description>
+      [H3]Energy Pistol[h3]
+      This is a ranged weapon template.  Examples include blaster pistols.  Please enter the description of the finished weapon here.
+    </Description>
+    <Source Page="78">Special Modifications</Source>
+    <TempType>ctRanged</TempType>
+    <TimeHours>12</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>200</MaterialCost>
+    <MaterialRarity>3</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <WeaponProfile>
+      <SkillKey>RANGLT</SkillKey>
+      <Damage>6</Damage>
+      <Crit>3</Crit>
+      <RangeValue>wrMedium</RangeValue>
+      <Encumbrance>1</Encumbrance>
+      <HP>3</HP>
+      <Rarity>-1</Rarity>
+      <Type>Energy Weapon</Type>
+      <Categories>
+        <Category>Blaster Pistol</Category>
+        <Category>Blaster</Category>
+        <Category>Pistol</Category>
+        <Category>Ranged</Category>
+      </Categories>
+    </WeaponProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>RANGEDENERRIF</Key>
+    <Name>Energy Rifle</Name>
+    <Description>
+      [H3]Energy Rifle[h3]
+      This is a ranged weapon template.  Examples include blaster rifles.  Please enter the description of the finished weapon here.
+    </Description>
+    <Source Page="78">Special Modifications</Source>
+    <TempType>ctRanged</TempType>
+    <TimeHours>16</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>450</MaterialCost>
+    <MaterialRarity>4</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <WeaponProfile>
+      <SkillKey>RANGHVY</SkillKey>
+      <Damage>9</Damage>
+      <Crit>3</Crit>
+      <RangeValue>wrLong</RangeValue>
+      <Encumbrance>4</Encumbrance>
+      <HP>4</HP>
+      <Rarity>-1</Rarity>
+      <Type>Energy Weapon</Type>
+      <Categories>
+        <Category>Rifle</Category>
+        <Category>Blaster Rifle</Category>
+        <Category>Blaster</Category>
+        <Category>Ranged</Category>
+      </Categories>
+    </WeaponProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>RANGEDENERRIFHVY</Key>
+    <Name>Heavy Energy Rifle</Name>
+    <Description>
+      [H3]Heavy Energy Rifle[h3]
+      This is a ranged weapon template.  Examples include heavy blaster rifles and disruptor rifles.  Please enter the description of the finished weapon here.
+    </Description>
+    <Source Page="78">Special Modifications</Source>
+    <TempType>ctRanged</TempType>
+    <TimeHours>24</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>4</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>1000</MaterialCost>
+    <MaterialRarity>6</MaterialRarity>
+    <MaterialRestricted>true</MaterialRestricted>
+    <WeaponProfile>
+      <SkillKey>GUNN</SkillKey>
+      <Damage>10</Damage>
+      <Crit>3</Crit>
+      <RangeValue>wrLong</RangeValue>
+      <Encumbrance>6</Encumbrance>
+      <HP>4</HP>
+      <Rarity>-1</Rarity>
+      <Type>Energy Weapon</Type>
+      <Categories>
+        <Category>Heavy Rifle</Category>
+        <Category>Blaster</Category>
+        <Category>Heavy Blaster Rifle</Category>
+        <Category>Ranged</Category>
+      </Categories>
+      <Qualities>
+        <Quality>
+          <Key>CUMBERSOME</Key>
+          <Count>3</Count>
+        </Quality>
+      </Qualities>
+    </WeaponProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>RANGEDMISSLAUNCH</Key>
+    <Name>Missile Launcher</Name>
+    <Description>
+      [H3]Missile Launcher[h3]
+      This is a ranged weapon template.  Examples include missile and torpedo launchers.  Please enter the description of the finished weapon here.
+    </Description>
+    <Source Page="78">Special Modifications</Source>
+    <TempType>ctRanged</TempType>
+    <TimeHours>16</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>4</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>4000</MaterialCost>
+    <MaterialRarity>7</MaterialRarity>
+    <MaterialRestricted>true</MaterialRestricted>
+    <WeaponProfile>
+      <SkillKey>GUNN</SkillKey>
+      <Damage>0</Damage>
+      <Crit>0</Crit>
+      <RangeValue>wrNoRange</RangeValue>
+      <Encumbrance>0</Encumbrance>
+      <HP>0</HP>
+      <Rarity>-1</Rarity>
+      <Type>Explosives/Other</Type>
+      <Categories>
+        <Category>Ranged</Category>
+      </Categories>
+    </WeaponProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>RANGEDMISS</Key>
+    <Name>Missile</Name>
+    <Description>
+      [H3]Missile[h3]
+      This is a ranged weapon template.  Examples include missiles and micro torpedoes.  Please enter the description of the finished weapon here.
+    </Description>
+    <Source Page="78">Special Modifications</Source>
+    <TempType>ctRanged</TempType>
+    <TimeHours>4</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>100</MaterialCost>
+    <MaterialRarity>3</MaterialRarity>
+    <MaterialRestricted>true</MaterialRestricted>
+    <WeaponProfile>
+      <SkillKey>GUNN</SkillKey>
+      <Damage>20</Damage>
+      <Crit>2</Crit>
+      <RangeValue>wrExtreme</RangeValue>
+      <Encumbrance>7</Encumbrance>
+      <HP>4</HP>
+      <Rarity>-1</Rarity>
+      <Type>Explosives/Other</Type>
+      <Categories>
+        <Category>Ranged</Category>
+      </Categories>
+      <Qualities>
+        <Quality>
+          <Key>BLAST</Key>
+          <Count>10</Count>
+        </Quality>
+        <Quality>
+          <Key>BREACH</Key>
+          <Count>1</Count>
+        </Quality>
+        <Quality>
+          <Key>CUMBERSOME</Key>
+          <Count>3</Count>
+        </Quality>
+        <Quality>
+          <Key>GUIDED</Key>
+          <Count>3</Count>
+        </Quality>
+        <Quality>
+          <Key>PREPARE</Key>
+          <Count>1</Count>
+        </Quality>
+        <Quality>
+          <Key>LIMITEDAMMO</Key>
+          <Count>1</Count>
+        </Quality>
+      </Qualities>
+    </WeaponProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>RANGEDGRENADE</Key>
+    <Name>Grenade</Name>
+    <Description>
+      [H3]Grenade[h3]
+      This is a ranged weapon template.  Examples include frag grenades and stun grenades.  Please enter the description of the finished weapon here.
+    </Description>
+    <Source Page="78">Special Modifications</Source>
+    <TempType>ctRanged</TempType>
+    <TimeHours>2</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>35</MaterialCost>
+    <MaterialRarity>4</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <WeaponProfile>
+      <SkillKey>RANGLT</SkillKey>
+      <Damage>8</Damage>
+      <Crit>4</Crit>
+      <RangeValue>wrShort</RangeValue>
+      <Encumbrance>1</Encumbrance>
+      <HP>0</HP>
+      <Rarity>-1</Rarity>
+      <Type>Explosives/Other</Type>
+      <Categories>
+        <Category>Ranged</Category>
+      </Categories>
+      <Qualities>
+        <Quality>
+          <Key>BLAST</Key>
+          <Count>6</Count>
+        </Quality>
+        <Quality>
+          <Key>LIMITEDAMMO</Key>
+          <Count>1</Count>
+        </Quality>
+      </Qualities>
+    </WeaponProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>RANGEDMINE</Key>
+    <Name>Mine</Name>
+    <Description>
+      [H3]Mine[h3]
+      This is a weapon template.  Examples include anti-personnel mines and ion mines.  Please enter the description of the finished weapon here.
+    </Description>
+    <Source Page="78">Special Modifications</Source>
+    <TempType>ctRanged</TempType>
+    <TimeHours>4</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>425</MaterialCost>
+    <MaterialRarity>5</MaterialRarity>
+    <MaterialRestricted>true</MaterialRestricted>
+    <WeaponProfile>
+      <SkillKey>MECH</SkillKey>
+      <Damage>12</Damage>
+      <Crit>3</Crit>
+      <RangeValue>wrEngaged</RangeValue>
+      <Encumbrance>3</Encumbrance>
+      <HP>0</HP>
+      <Rarity>-1</Rarity>
+      <Type>Explosives/Other</Type>
+      <Categories>
+        <Category>Mine</Category>
+      </Categories>
+      <Qualities>
+        <Quality>
+          <Key>BLAST</Key>
+          <Count>4</Count>
+        </Quality>
+        <Quality>
+          <Key>LIMITEDAMMO</Key>
+          <Count>1</Count>
+        </Quality>
+      </Qualities>
+    </WeaponProfile>
+  </CraftTemplate>
+
+  <!-- Lightsaber Hilts -->
+  <CraftTemplate>
+    <Key>LTSABERSTD</Key>
+    <Name>Standard Lightsaber</Name>
+    <Description>
+      [H3]Standard Lightsaber[h3]
+      This is a lightsaber hilt template.  Please enter the description of the finished lightsaber here.
+    </Description>
+    <Source Page="85">Endless Vigil</Source>
+    <TempType>ctLightsaber</TempType>
+    <TimeHours>6</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>100</MaterialCost>
+    <MaterialRarity>4</MaterialRarity>
+    <WeaponProfile>
+      <SkillKey>LTSABER</SkillKey>
+      <Damage>6</Damage>
+      <Crit>2</Crit>
+      <RangeValue>wrEngaged</RangeValue>
+      <Encumbrance>1</Encumbrance>
+      <HP>5</HP>
+      <Rarity>-1</Rarity>
+      <Type>Lightsaber</Type>
+      <Hands>whOneHanded</Hands>
+      <Categories>
+        <Category>Lightsaber</Category>
+      </Categories>
+      <Qualities>
+        <Quality>
+          <Key>BREACH</Key>
+          <Count>1</Count>
+        </Quality>
+        <Quality>
+          <Key>SUNDER</Key>
+        </Quality>
+      </Qualities>
+    </WeaponProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>LTSABERSTDH</Key>
+    <Name>Standard Lightsaber Hilt</Name>
+    <Description>
+      [H3]Standard Lightsaber Hilt[h3]
+      This is a lightsaber hilt template.  Please enter the description of the finished lightsaber here.
+    </Description>
+    <Source Page="85">Endless Vigil</Source>
+    <TempType>ctLightsaber</TempType>
+    <TimeHours>6</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>100</MaterialCost>
+    <MaterialRarity>4</MaterialRarity>
+    <WeaponProfile>
+      <SkillKey>LTSABER</SkillKey>
+      <Damage>0</Damage>
+      <Crit>0</Crit>
+      <RangeValue>wrEngaged</RangeValue>
+      <Encumbrance>1</Encumbrance>
+      <HP>5</HP>
+      <Rarity>-1</Rarity>
+      <Type>Lightsaber</Type>
+      <Hands>whOneHanded</Hands>
+      <Categories>
+        <Category>Lightsaber</Category>
+        <Category>Lightsaber Hilt</Category>
+      </Categories>
+      <NoMelee>true</NoMelee>
+    </WeaponProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>LTSABERPRES</Key>
+    <Name>Precision Lightsaber</Name>
+    <Description>
+      [H3]Precision Lightsaber[h3]
+      This is a lightsaber hilt template.  Examples include shoto, dagger lightsaber, and lightfoil.  Please enter the description of the finished lightsaber here.
+    </Description>
+    <Source Page="85">Endless Vigil</Source>
+    <TempType>ctLightsaber</TempType>
+    <TimeHours>12</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>150</MaterialCost>
+    <MaterialRarity>5</MaterialRarity>
+    <WeaponProfile>
+      <SkillKey>LTSABER</SkillKey>
+      <Damage>5</Damage>
+      <Crit>2</Crit>
+      <RangeValue>wrEngaged</RangeValue>
+      <Encumbrance>1</Encumbrance>
+      <HP>3</HP>
+      <Rarity>-1</Rarity>
+      <Type>Lightsaber</Type>
+      <Hands>whOneHanded</Hands>
+      <Categories>
+        <Category>Lightsaber</Category>
+      </Categories>
+      <Qualities>
+        <Quality>
+          <Key>ACCURATE</Key>
+          <Count>1</Count>
+        </Quality>
+        <Quality>
+          <Key>BREACH</Key>
+          <Count>1</Count>
+        </Quality>
+        <Quality>
+          <Key>SUNDER</Key>
+        </Quality>
+      </Qualities>
+      <BaseMods>
+        <Mod>
+          <Key>DAMSUB</Key>
+          <Count>1</Count>
+        </Mod>
+      </BaseMods>
+    </WeaponProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>LTSABERPRESH</Key>
+    <Name>Precision Lightsaber Hilt</Name>
+    <Description>
+      [H3]Precision Lightsaber Hilt[h3]
+      This is a lightsaber hilt template.  Examples include shoto, dagger lightsaber, and lightfoil.  Please enter the description of the finished lightsaber here.
+    </Description>
+    <Source Page="85">Endless Vigil</Source>
+    <TempType>ctLightsaber</TempType>
+    <TimeHours>12</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>150</MaterialCost>
+    <MaterialRarity>5</MaterialRarity>
+    <WeaponProfile>
+      <SkillKey>LTSABER</SkillKey>
+      <Damage>0</Damage>
+      <Crit>0</Crit>
+      <RangeValue>wrEngaged</RangeValue>
+      <Encumbrance>1</Encumbrance>
+      <HP>3</HP>
+      <Rarity>-1</Rarity>
+      <Type>Lightsaber</Type>
+      <Hands>whOneHanded</Hands>
+      <Categories>
+        <Category>Lightsaber</Category>
+        <Category>Lightsaber Hilt</Category>
+      </Categories>
+      <Qualities>
+        <Quality>
+          <Key>ACCURATE</Key>
+          <Count>1</Count>
+        </Quality>
+      </Qualities>
+      <BaseMods>
+        <Mod>
+          <Key>DAMSUB</Key>
+          <Count>1</Count>
+        </Mod>
+      </BaseMods>
+      <NoMelee>true</NoMelee>
+    </WeaponProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>LTSABERDEF</Key>
+    <Name>Defensive Lightsaber</Name>
+    <Description>
+      [H3]Defensive Lightsaber[h3]
+      This is a lightsaber hilt template.  Examples include the guard shoto.  Please enter the description of the finished lightsaber here.
+    </Description>
+    <Source Page="85">Endless Vigil</Source>
+    <TempType>ctLightsaber</TempType>
+    <TimeHours>12</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>300</MaterialCost>
+    <MaterialRarity>6</MaterialRarity>
+    <WeaponProfile>
+      <SkillKey>LTSABER</SkillKey>
+      <Damage>5</Damage>
+      <Crit>2</Crit>
+      <RangeValue>wrEngaged</RangeValue>
+      <Encumbrance>1</Encumbrance>
+      <HP>3</HP>
+      <Rarity>-1</Rarity>
+      <Type>Lightsaber</Type>
+      <Hands>whOneHanded</Hands>
+      <Categories>
+        <Category>Lightsaber</Category>
+      </Categories>
+      <Qualities>
+        <Quality>
+          <Key>BREACH</Key>
+          <Count>1</Count>
+        </Quality>
+        <Quality>
+          <Key>DEFENSIVE</Key>
+          <Count>1</Count>
+        </Quality>
+        <Quality>
+          <Key>SUNDER</Key>
+        </Quality>
+      </Qualities>
+      <BaseMods>
+        <Mod>
+          <Key>DAMSUB</Key>
+          <Count>1</Count>
+        </Mod>
+      </BaseMods>
+    </WeaponProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>LTSABERDEFH</Key>
+    <Name>Defensive Lightsaber Hilt</Name>
+    <Description>
+      [H3]Defensive Lightsaber Hilt[h3]
+      This is a lightsaber hilt template.  Examples include the guard shoto.  Please enter the description of the finished lightsaber here.
+    </Description>
+    <Source Page="85">Endless Vigil</Source>
+    <TempType>ctLightsaber</TempType>
+    <TimeHours>12</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>300</MaterialCost>
+    <MaterialRarity>6</MaterialRarity>
+    <WeaponProfile>
+      <SkillKey>LTSABER</SkillKey>
+      <Damage>0</Damage>
+      <Crit>0</Crit>
+      <RangeValue>wrEngaged</RangeValue>
+      <Encumbrance>1</Encumbrance>
+      <HP>3</HP>
+      <Rarity>-1</Rarity>
+      <Type>Lightsaber</Type>
+      <Hands>whOneHanded</Hands>
+      <Categories>
+        <Category>Lightsaber</Category>
+        <Category>Lightsaber Hilt</Category>
+      </Categories>
+      <Qualities>
+        <Quality>
+          <Key>DEFENSIVE</Key>
+          <Count>1</Count>
+        </Quality>
+      </Qualities>
+      <BaseMods>
+        <Mod>
+          <Key>DAMSUB</Key>
+          <Count>1</Count>
+        </Mod>
+      </BaseMods>
+      <NoMelee>true</NoMelee>
+    </WeaponProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>LTSABERDOUBLE</Key>
+    <Name>Double-Bladed Lightsaber</Name>
+    <Description>
+      [H3]Double-Bladed Lightsaber[h3]
+      This is a lightsaber template.  Examples include the double-bladed lightsaber and Temple Guard lightsaber pike.  Please enter the description of the finished lightsaber here.
+    </Description>
+    <Source Page="85">Endless Vigil</Source>
+    <TempType>ctLightsaber</TempType>
+    <TimeHours>12</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>300</MaterialCost>
+    <MaterialRarity>5</MaterialRarity>
+    <WeaponProfile>
+      <SkillKey>LTSABER</SkillKey>
+      <Damage>5</Damage>
+      <Crit>2</Crit>
+      <RangeValue>wrEngaged</RangeValue>
+      <Encumbrance>2</Encumbrance>
+      <HP>4</HP>
+      <Rarity>-1</Rarity>
+      <Type>Lightsaber</Type>
+      <Hands>whTwoHanded</Hands>
+      <AttachCostMult>2</AttachCostMult>
+      <Categories>
+        <Category>Lightsaber</Category>
+      </Categories>
+      <Qualities>
+        <Quality>
+          <Key>BREACH</Key>
+          <Count>1</Count>
+        </Quality>
+        <Quality>
+          <Key>LINKED</Key>
+          <Count>1</Count>
+        </Quality>
+        <Quality>
+          <Key>SUNDER</Key>
+        </Quality>
+        <Quality>
+          <Key>UNWIELDY</Key>
+          <Count>3</Count>
+        </Quality>
+      </Qualities>
+    </WeaponProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>LTSABERDOUBLEH</Key>
+    <Name>Double-Bladed Lightsaber Hilt</Name>
+    <Description>
+      [H3]Double-Bladed Lightsaber Hilt[h3]
+      This is a lightsaber hilt template.  Examples include the double-bladed lightsaber and Temple Guard lightsaber pike.  Please enter the description of the finished lightsaber here.
+    </Description>
+    <Source Page="85">Endless Vigil</Source>
+    <TempType>ctLightsaber</TempType>
+    <TimeHours>12</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>300</MaterialCost>
+    <MaterialRarity>5</MaterialRarity>
+    <WeaponProfile>
+      <SkillKey>LTSABER</SkillKey>
+      <Damage>0</Damage>
+      <Crit>0</Crit>
+      <RangeValue>wrEngaged</RangeValue>
+      <Encumbrance>2</Encumbrance>
+      <HP>4</HP>
+      <Rarity>-1</Rarity>
+      <Type>Lightsaber</Type>
+      <Hands>whTwoHanded</Hands>
+      <AttachCostMult>2</AttachCostMult>
+      <Categories>
+        <Category>Lightsaber</Category>
+        <Category>Lightsaber Hilt</Category>
+      </Categories>
+      <Qualities>
+        <Quality>
+          <Key>LINKED</Key>
+          <Count>1</Count>
+        </Quality>
+        <Quality>
+          <Key>UNWIELDY</Key>
+          <Count>3</Count>
+        </Quality>
+      </Qualities>
+      <NoMelee>true</NoMelee>
+    </WeaponProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>LTSABERPOLE</Key>
+    <Name>Pole Lightsaber</Name>
+    <Description>
+      [H3]Pole Lightsaber[h3]
+      This is a lightsaber template.  Examples include the lightsaber pike and long-handle lightsaber.  Please enter the description of the finished lightsaber here.
+    </Description>
+    <Source Page="85">Endless Vigil</Source>
+    <TempType>ctLightsaber</TempType>
+    <TimeHours>12</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>150</MaterialCost>
+    <MaterialRarity>5</MaterialRarity>
+    <WeaponProfile>
+      <SkillKey>LTSABER</SkillKey>
+      <Damage>6</Damage>
+      <Crit>2</Crit>
+      <RangeValue>wrEngaged</RangeValue>
+      <Encumbrance>2</Encumbrance>
+      <HP>4</HP>
+      <Rarity>-1</Rarity>
+      <Type>Lightsaber</Type>
+      <Hands>whTwoHanded</Hands>
+      <Categories>
+        <Category>Lightsaber</Category>
+      </Categories>
+      <Qualities>
+        <Quality>
+          <Key>BREACH</Key>
+          <Count>1</Count>
+        </Quality>
+        <Quality>
+          <Key>CUMBERSOME</Key>
+          <Count>3</Count>
+        </Quality>
+        <Quality>
+          <Key>DEFENSIVE</Key>
+          <Count>1</Count>
+        </Quality>
+        <Quality>
+          <Key>SUNDER</Key>
+        </Quality>
+      </Qualities>
+    </WeaponProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>LTSABERPOLEH</Key>
+    <Name>Pole Lightsaber Hilt</Name>
+    <Description>
+      [H3]Pole Lightsaber Hilt[h3]
+      This is a lightsaber template.  Examples include the lightsaber pike and long-handle lightsaber.  Please enter the description of the finished lightsaber here.
+    </Description>
+    <Source Page="85">Endless Vigil</Source>
+    <TempType>ctLightsaber</TempType>
+    <TimeHours>12</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>150</MaterialCost>
+    <MaterialRarity>5</MaterialRarity>
+    <WeaponProfile>
+      <SkillKey>LTSABER</SkillKey>
+      <Damage>0</Damage>
+      <Crit>0</Crit>
+      <RangeValue>wrEngaged</RangeValue>
+      <Encumbrance>2</Encumbrance>
+      <HP>4</HP>
+      <Rarity>-1</Rarity>
+      <Type>Lightsaber</Type>
+      <Hands>whTwoHanded</Hands>
+      <Categories>
+        <Category>Lightsaber</Category>
+        <Category>Lightsaber Hilt</Category>
+      </Categories>
+      <Qualities>
+        <Quality>
+          <Key>CUMBERSOME</Key>
+          <Count>3</Count>
+        </Quality>
+        <Quality>
+          <Key>DEFENSIVE</Key>
+          <Count>1</Count>
+        </Quality>
+      </Qualities>
+      <NoMelee>true</NoMelee>
+    </WeaponProfile>
+  </CraftTemplate>
+  
+  <!-- Gadgets -->
+
+  <CraftTemplate>
+    <Key>GADGETTOOLSIMP</Key>
+    <Name>Simple Tool</Name>
+    <Description>
+      [H3]Simple Tool[h3]
+      This is a gadget template.  Examples include climbing gear, datapads, handscanners, medpacks, toolkits, and slicer gear.  Please enter the description of the finished gadget here.
+    </Description>
+    <Source Page="84">Special Modifications</Source>
+    <TempType>ctGadget</TempType>
+    <TimeHours>2</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>1</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>50</MaterialCost>
+    <MaterialRarity>1</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <TemplateSkill>
+      <TypeValue>stGeneral</TypeValue>
+      <SkillCount>1</SkillCount>
+    </TemplateSkill>
+    <TemplateSkillRightTool>true</TemplateSkillRightTool>
+    <GearProfile>
+      <Encumbrance>4</Encumbrance>
+      <HP>0</HP>
+      <Type>Tools/Electronics</Type>
+      <Rarity>-1</Rarity>
+      <BaseMods>
+        <Mod>
+          <MiscDesc>This tool is the right tool for the job when making {0} checks.</MiscDesc>
+        </Mod>
+      </BaseMods>
+    </GearProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>GADGETTOOLSPEC</Key>
+    <Name>Specialist Tool</Name>
+    <Description>
+      [H3]Specialist Tool[h3]
+      This is a gadget template.  Examples include bacta tanks, scanner dishes, table saws, and welding gear.  Please enter the description of the finished gadget here.
+    </Description>
+    <Source Page="84">Special Modifications</Source>
+    <TempType>ctGadget</TempType>
+    <TimeHours>10</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>400</MaterialCost>
+    <MaterialRarity>4</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <TemplateSkill>
+      <TypeValue>stGeneral</TypeValue> 
+      <SkillCount>1</SkillCount>
+    </TemplateSkill>
+    <TemplateSkillSuccess>1</TemplateSkillSuccess>
+    <GearProfile>
+      <Encumbrance>8</Encumbrance>
+      <HP>0</HP>
+      <Rarity>-1</Rarity>
+      <Type>Tools/Electronics</Type>
+      <BaseMods>
+        <Mod>
+          <MiscDesc>Add automatic [SU] to {0} checks when using this item.</MiscDesc>
+        </Mod>
+      </BaseMods>
+    </GearProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>GADGETPREC</Key>
+    <Name>Precision Instrument</Name>
+    <Description>
+      [H3]Precision Instrument[h3]
+      This is a gadget template.  Examples include microscopes, thermal cloaks, and scanner goggles.  Please enter the description of the finished gadget here.
+    </Description>
+    <Source Page="84">Special Modifications</Source>
+    <TempType>ctGadget</TempType>
+    <TimeHours>16</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>150</MaterialCost>
+    <MaterialRarity>3</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <TemplateSkill>
+      <TypeValue>stGeneral</TypeValue>
+      <SkillCount>1</SkillCount>
+    </TemplateSkill>
+    <TemplateSkillRemSetback>2</TemplateSkillRemSetback>
+    <GearProfile>
+      <Encumbrance>5</Encumbrance>
+      <HP>0</HP>
+      <Rarity>-1</Rarity>
+      <Type>Tools/Electronics</Type>
+      <BaseMods>
+        <Mod>
+          <MiscDesc>Remove [SE][SE] from all {0} checks when using this item.</MiscDesc>
+        </Mod>
+      </BaseMods>
+    </GearProfile>
+  </CraftTemplate>
+
+  <!-- Cybernetics -->
+
+  <CraftTemplate>
+    <Key>CYBERPROS</Key>
+    <Name>Prosthetic Replacement</Name>
+    <Description>
+      [H3]Prosthetic Replacement[h3]
+      This is a cybernetic template.  Examples include prosthetic limbs or organs.  Please enter the description of the finished cybernetic here.
+    </Description>
+    <Source Page="85">Special Modifications</Source>
+    <TempType>ctCyber</TempType>
+    <TimeHours>12</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>1000</MaterialCost>
+    <MaterialRarity>3</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <GearProfile>
+      <Encumbrance>0</Encumbrance>
+      <HP>0</HP>
+      <Rarity>-1</Rarity>
+      <Type>Cybernetics</Type>
+    </GearProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>CYBERAPPBR</Key>
+    <Name>Cybernetic Appendage (Brawn)</Name>
+    <Description>
+      [H3]Cybernetic Appendage (Brawn)[h3]
+      This is a cybernetic template.  Examples include enhanced arms and legs.  Please enter the description of the finished cybernetic here.
+    </Description>
+    <Source Page="85">Special Modifications</Source>
+    <TempType>ctCyber</TempType>
+    <TimeHours>48</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>4</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>5000</MaterialCost>
+    <MaterialRarity>5</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <GearProfile>
+      <Encumbrance>0</Encumbrance>
+      <HP>0</HP>
+      <Rarity>-1</Rarity>
+      <Type>Cybernetics</Type>
+      <BaseMods>
+        <Mod>
+          <Key>BR</Key>
+          <Count>1</Count>
+        </Mod>
+      </BaseMods>
+    </GearProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>CYBERAPPAG</Key>
+    <Name>Cybernetic Appendage (Agility)</Name>
+    <Description>
+      [H3]Cybernetic Appendage (Agility)[h3]
+      This is a cybernetic template.  Examples include enhanced arms and legs.  Please enter the description of the finished cybernetic here.
+    </Description>
+    <Source Page="85">Special Modifications</Source>
+    <TempType>ctCyber</TempType>
+    <TimeHours>48</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>4</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>5000</MaterialCost>
+    <MaterialRarity>5</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <GearProfile>
+      <Encumbrance>0</Encumbrance>
+      <HP>0</HP>
+      <Rarity>-1</Rarity>
+      <Type>Cybernetics</Type>
+      <BaseMods>
+        <Mod>
+          <Key>AG</Key>
+          <Count>1</Count>
+        </Mod>
+      </BaseMods>
+    </GearProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>CYBERIMP</Key>
+    <Name>Cybernetic Implant</Name>
+    <Description>
+      [H3]Cybernetic Implant[h3]
+      This is a cybernetic template.  Examples include brain implants and enhanced senses.  Please enter the description of the finished cybernetic here.
+    </Description>
+    <Source Page="85">Special Modifications</Source>
+    <TempType>ctCyber</TempType>
+    <TimeHours>48</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>4</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>1500</MaterialCost>
+    <MaterialRarity>6</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <TemplateSkill>
+      <TypeValue>stGeneral</TypeValue>
+      <SkillCount>1</SkillCount>
+    </TemplateSkill>
+    <TemplateSkillRank>1</TemplateSkillRank>
+    <GearProfile>
+      <Encumbrance>0</Encumbrance>
+      <HP>0</HP>
+      <Rarity>-1</Rarity>
+      <Type>Cybernetics</Type>
+    </GearProfile>
+  </CraftTemplate>
+
+  <!-- Fortification Templates -->
+
+  <CraftTemplate>
+    <Key>FORTTRENCH</Key>
+    <Name>Trench</Name>
+    <Description>
+      [H3]Trench[h3]
+      This is a trench fortification template.  Please enter the description of the finished fortification here.
+    </Description>
+    <Source Page="85">Forged in Battle</Source>
+    <TempType>ctFortification</TempType>
+    <TimeHours>6</TimeHours>
+    <CheckSkills>
+      <Key>ATHL</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>0</MaterialCost>
+    <MaterialRarity>0</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <VehicleProfile>
+      <Name>Trench</Name>
+      <Silhouette>2</Silhouette>
+      <VehicleType>vtStructure</VehicleType>
+      <DefRanged>3</DefRanged>
+      <Passengers>6</Passengers>
+      <SensorRangeValue>srNone</SensorRangeValue>
+      <Categories>
+        <Category>Fortification</Category>
+      </Categories>
+      <Type>Trench</Type>
+      <Fortification>true</Fortification>
+    </VehicleProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>FORTBUNKER</Key>
+    <Name>Bunker</Name>
+    <Description>
+      [H3]Bunker[h3]
+      This is a bunker fortification template.  Please enter the description of the finished fortification here.
+    </Description>
+    <Source Page="86">Forged in Battle</Source>
+    <TempType>ctFortification</TempType>
+    <TimeHours>36</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>0</MaterialCost>
+    <MaterialRarity>0</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <VehicleProfile>
+      <Name>Bunker</Name>
+      <Silhouette>3</Silhouette>
+      <VehicleType>vtStructure</VehicleType>
+      <Armor>2</Armor>
+      <HullTrauma>8</HullTrauma>
+      <Passengers>4</Passengers>
+      <SensorRangeValue>srNone</SensorRangeValue>
+      <Categories>
+        <Category>Fortification</Category>
+      </Categories>
+      <Type>Bunker</Type>
+    </VehicleProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>FORTBLIND</Key>
+    <Name>Blind</Name>
+    <Description>
+      [H3]Blind[h3]
+      This is a blind fortification template.  Please enter the description of the finished fortification here.
+    </Description>
+    <Source Page="86">Forged in Battle</Source>
+    <TempType>ctFortification</TempType>
+    <TimeHours>4</TimeHours>
+    <CheckSkills>
+      <Key>SURV</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>0</MaterialCost>
+    <MaterialRarity>0</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <VehicleProfile>
+      <Name>Blind</Name>
+      <Silhouette>2</Silhouette>
+      <VehicleType>vtStructure</VehicleType>
+      <Armor>0</Armor>
+      <Passengers>2</Passengers>
+      <SensorRangeValue>srNone</SensorRangeValue>
+      <Categories>
+        <Category>Fortification</Category>
+      </Categories>
+      <Type>Blind</Type>
+      <BaseMods>
+        <Mod>
+          <MiscDesc>Provides concealment equivalent to dense underbrush (Adds [SE][SE][SE] to any Ranged Light, Ranged Heavy, Gunnery, and Perception checks against concealed targets.  Adds [BO][BO][BO] to any Stealth checks made by concealed characters).</MiscDesc>
+        </Mod>
+      </BaseMods>
+    </VehicleProfile>
+  </CraftTemplate>
+
+  <!-- Vehicle Frames -->
+
+  <CraftTemplate>
+    <Key>VEHFRSPEEDERBIKE</Key>
+    <Name>Speeder Bike</Name>
+    <Description>
+      [H3]Speeder Bike[h3]
+      This is a speeder bike vehicle template.  Please enter the description of the finished vehicle here.
+    </Description>
+    <Source Page="78">Fully Operational</Source>
+    <TempType>ctVehicleFrame</TempType>
+    <TimeHours>12</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>250</MaterialCost>
+    <MaterialRarity>1</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <VehicleProfile>
+      <Name>Speeder Bike</Name>
+      <VehicleType>vtVehicle</VehicleType>
+      <Type>Speeder Bike</Type>
+      <Silhouette>2</Silhouette>
+      <HullTrauma>3</HullTrauma>
+      <MaxAltitude>15 meters</MaxAltitude>
+      <SensorRangeValue>srClose</SensorRangeValue>
+      <Crew>One pilot</Crew>
+      <EncumbranceCapacity>1</EncumbranceCapacity>
+      <Passengers>0</Passengers>
+      <HP>6</HP>
+      <SinglePilot>true</SinglePilot>
+      <Categories>
+        <Category>Land Vehicle</Category>
+        <Category>Crafted Vehicle</Category>
+      </Categories>
+      <BaseMods>
+      </BaseMods>
+    </VehicleProfile>
+  </CraftTemplate>
+
+  <CraftTemplate>
+    <Key>VEHFRLANDSPEEDER</Key>
+    <Name>Landspeeder</Name>
+    <Description>
+      [H3]Landspeeder[h3]
+      This is a Landspeeder vehicle template.  Please enter the description of the finished vehicle here.
+    </Description>
+    <Source Page="78">Fully Operational</Source>
+    <TempType>ctVehicleFrame</TempType>
+    <TimeHours>24</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>500</MaterialCost>
+    <MaterialRarity>2</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <VehicleProfile>
+      <Name>Landspeeder</Name>
+      <VehicleType>vtVehicle</VehicleType>
+      <Type>Landspeeder</Type>
+      <Silhouette>2</Silhouette>
+      <HullTrauma>6</HullTrauma>
+      <MaxAltitude>20 meters</MaxAltitude>
+      <SensorRangeValue>srClose</SensorRangeValue>
+      <Crew>One pilot</Crew>
+      <EncumbranceCapacity>5</EncumbranceCapacity>
+      <Passengers>2</Passengers>
+      <HP>8</HP>
+      <SinglePilot>true</SinglePilot>
+      <Categories>
+        <Category>Land Vehicle</Category>
+        <Category>Crafted Vehicle</Category>
+      </Categories>
+      <BaseMods>
+      </BaseMods>
+    </VehicleProfile>
+  </CraftTemplate>
+
+  <CraftTemplate>
+    <Key>VEHFRAIRSPEEDER</Key>
+    <Name>Airspeeder</Name>
+    <Description>
+      [H3]Airspeeder[h3]
+      This is a Airspeeder vehicle template.  Please enter the description of the finished vehicle here.
+    </Description>
+    <Source Page="79">Fully Operational</Source>
+    <TempType>ctVehicleFrame</TempType>
+    <TimeHours>24</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>1000</MaterialCost>
+    <MaterialRarity>2</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <VehicleProfile>
+      <Name>Airspeeder</Name>
+      <VehicleType>vtVehicle</VehicleType>
+      <Type>Airspeeder</Type>
+      <Silhouette>2</Silhouette>
+      <HullTrauma>5</HullTrauma>
+      <MaxAltitude>100 kilometers</MaxAltitude>
+      <SensorRangeValue>srClose</SensorRangeValue>
+      <Crew>One pilot</Crew>
+      <EncumbranceCapacity>5</EncumbranceCapacity>
+      <Passengers>2</Passengers>
+      <HP>8</HP>
+      <SinglePilot>true</SinglePilot>
+      <Categories>
+        <Category>Air Vehicle</Category>
+        <Category>Crafted Vehicle</Category>
+      </Categories>
+      <BaseMods>
+      </BaseMods>
+    </VehicleProfile>
+  </CraftTemplate>
+
+  <CraftTemplate>
+    <Key>VEHFRWALKER</Key>
+    <Name>Walker</Name>
+    <Description>
+      [H3]Walker[h3]
+      This is a Walker vehicle template.  Please enter the description of the finished vehicle here.
+    </Description>
+    <Source Page="79">Fully Operational</Source>
+    <TempType>ctVehicleFrame</TempType>
+    <TimeHours>72</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>5000</MaterialCost>
+    <MaterialRarity>3</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <VehicleProfile>
+      <Name>Walker</Name>
+      <VehicleType>vtVehicle</VehicleType>
+      <Type>Walker</Type>
+      <Silhouette>3</Silhouette>
+      <HullTrauma>15</HullTrauma>
+      <SensorRangeValue>srClose</SensorRangeValue>
+      <Crew>One pilot</Crew>
+      <EncumbranceCapacity>2</EncumbranceCapacity>
+      <Passengers>0</Passengers>
+      <HP>9</HP>
+      <SinglePilot>true</SinglePilot>
+      <Categories>
+        <Category>Walker</Category>
+        <Category>Crafted Vehicle</Category>
+      </Categories>
+      <BaseMods>
+      </BaseMods>
+    </VehicleProfile>
+  </CraftTemplate>
+
+  <CraftTemplate>
+    <Key>VEHFRSTARFIGHTER</Key>
+    <Name>Starfighter</Name>
+    <Description>
+      [H3]Starfighter[h3]
+      This is a Starfighter vehicle template.  Please enter the description of the finished vehicle here.
+    </Description>
+    <Source Page="79">Fully Operational</Source>
+    <TempType>ctVehicleFrame</TempType>
+    <TimeHours>72</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>10000</MaterialCost>
+    <MaterialRarity>4</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <VehicleProfile>
+      <Name>Starfighter</Name>
+      <VehicleType>vtVehicle</VehicleType>
+      <Type>Starfighter</Type>
+      <Silhouette>3</Silhouette>
+      <HullTrauma>8</HullTrauma>
+      <SensorRangeValue>srClose</SensorRangeValue>
+      <Crew>One pilot</Crew>
+      <EncumbranceCapacity>2</EncumbranceCapacity>
+      <Passengers>0</Passengers>
+      <HP>7</HP>
+      <SinglePilot>true</SinglePilot>
+      <Starship>true</Starship>
+      <Categories>
+        <Category>Starship</Category>
+        <Category>Crafted Vehicle</Category>
+      </Categories>
+      <BaseMods>
+      </BaseMods>
+    </VehicleProfile>
+  </CraftTemplate>
+
+  <CraftTemplate>
+    <Key>VEHFRFREIGHTER</Key>
+    <Name>Freighter</Name>
+    <Description>
+      [H3]Freighter[h3]
+      This is a Freighter vehicle template.  Please enter the description of the finished vehicle here.
+    </Description>
+    <Source Page="79">Fully Operational</Source>
+    <TempType>ctVehicleFrame</TempType>
+    <TimeHours>240</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>50000</MaterialCost>
+    <MaterialRarity>3</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <VehicleProfile>
+      <Name>Freighter</Name>
+      <VehicleType>vtVehicle</VehicleType>
+      <Type>Freighter</Type>
+      <Silhouette>4</Silhouette>
+      <HullTrauma>35</HullTrauma>
+      <SensorRangeValue>srClose</SensorRangeValue>
+      <Crew>One pilot, one co-pilot</Crew>
+      <EncumbranceCapacity>100</EncumbranceCapacity>
+      <Passengers>4</Passengers>
+      <HP>10</HP>
+      <Starship>true</Starship>
+      <Categories>
+        <Category>Starship</Category>
+        <Category>Non-Fighter Starship</Category>
+        <Category>Crafted Vehicle</Category>
+      </Categories>
+      <BaseMods>
+      </BaseMods>
+    </VehicleProfile>
+  </CraftTemplate>
+
+  <CraftTemplate>
+    <Key>VEHFRSHUTTLE</Key>
+    <Name>Shuttle</Name>
+    <Description>
+      [H3]Shuttle[h3]
+      This is a Shuttle vehicle template.  Please enter the description of the finished vehicle here.
+    </Description>
+    <Source Page="79">Fully Operational</Source>
+    <TempType>ctVehicleFrame</TempType>
+    <TimeHours>240</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>75000</MaterialCost>
+    <MaterialRarity>3</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <VehicleProfile>
+      <Name>Shuttle</Name>
+      <VehicleType>vtVehicle</VehicleType>
+      <Type>Shuttle</Type>
+      <Silhouette>4</Silhouette>
+      <HullTrauma>25</HullTrauma>
+      <SensorRangeValue>srShort</SensorRangeValue>
+      <Crew>One pilot, one co-pilot</Crew>
+      <EncumbranceCapacity>50</EncumbranceCapacity>
+      <Passengers>10</Passengers>
+      <HP>10</HP>
+      <Starship>true</Starship>
+      <Categories>
+        <Category>Starship</Category>
+        <Category>Non-Fighter Starship</Category>
+        <Category>Crafted Vehicle</Category>
+      </Categories>
+      <BaseMods>
+      </BaseMods>
+    </VehicleProfile>
+  </CraftTemplate>
+
+  <CraftTemplate>
+    <Key>VEHFRCORVETTE</Key>
+    <Name>Corvette</Name>
+    <Description>
+      [H3]Corvette[h3]
+      This is a Corvette vehicle template.  Please enter the description of the finished vehicle here.
+    </Description>
+    <Source Page="80">Fully Operational</Source>
+    <TempType>ctVehicleFrame</TempType>
+    <TimeHours>480</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>4</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>500000</MaterialCost>
+    <MaterialRarity>4</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <VehicleProfile>
+      <Name>Corvette</Name>
+      <VehicleType>vtVehicle</VehicleType>
+      <Type>Corvette</Type>
+      <Silhouette>5</Silhouette>
+      <HullTrauma>45</HullTrauma>
+      <SensorRangeValue>srMedium</SensorRangeValue>
+      <Crew>100 officers, pilots, and crew</Crew>
+      <EncumbranceCapacity>500</EncumbranceCapacity>
+      <Passengers>200</Passengers>
+      <HP>12</HP>
+      <Starship>true</Starship>
+      <Categories>
+        <Category>Starship</Category>
+        <Category>Non-Fighter Starship</Category>
+        <Category>Capital Ship</Category>
+        <Category>Crafted Vehicle</Category>
+      </Categories>
+      <BaseMods>
+      </BaseMods>
+    </VehicleProfile>
+  </CraftTemplate>
+
+  <CraftTemplate>
+    <Key>VEHFRFRIGATE</Key>
+    <Name>Frigate</Name>
+    <Description>
+      [H3]Frigate[h3]
+      This is a Frigate vehicle template.  Please enter the description of the finished vehicle here.
+    </Description>
+    <Source Page="80">Fully Operational</Source>
+    <TempType>ctVehicleFrame</TempType>
+    <TimeHours>480</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>4</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>1000000</MaterialCost>
+    <MaterialRarity>4</MaterialRarity>
+    <MaterialRestricted>true</MaterialRestricted>
+    <VehicleProfile>
+      <Name>Frigate</Name>
+      <VehicleType>vtVehicle</VehicleType>
+      <Type>Frigate</Type>
+      <Silhouette>6</Silhouette>
+      <HullTrauma>80</HullTrauma>
+      <SensorRangeValue>srLong</SensorRangeValue>
+      <Crew>500 officers, pilots, and crew</Crew>
+      <EncumbranceCapacity>1000</EncumbranceCapacity>
+      <Passengers>250</Passengers>
+      <HP>15</HP>
+      <Starship>true</Starship>
+      <Categories>
+        <Category>Starship</Category>
+        <Category>Non-Fighter Starship</Category>
+        <Category>Capital Ship</Category>
+        <Category>Crafted Vehicle</Category>
+      </Categories>
+      <BaseMods>
+      </BaseMods>
+    </VehicleProfile>
+  </CraftTemplate>
+
+  <CraftTemplate>
+    <Key>VEHFRHVYCRUISER</Key>
+    <Name>Heavy Cruiser</Name>
+    <Description>
+      [H3]Heavy Cruiser[h3]
+      This is a Heavy Cruiser vehicle template.  Please enter the description of the finished vehicle here.
+    </Description>
+    <Source Page="80">Fully Operational</Source>
+    <TempType>ctVehicleFrame</TempType>
+    <TimeHours>1200</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>4</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>2500000</MaterialCost>
+    <MaterialRarity>5</MaterialRarity>
+    <MaterialRestricted>true</MaterialRestricted>
+    <VehicleProfile>
+      <Name>Heavy Cruiser</Name>
+      <VehicleType>vtVehicle</VehicleType>
+      <Type>Heavy Cruiser</Type>
+      <Silhouette>7</Silhouette>
+      <HullTrauma>95</HullTrauma>
+      <SensorRangeValue>srLong</SensorRangeValue>
+      <Crew>2,000 officers, pilots, and crew</Crew>
+      <EncumbranceCapacity>5000</EncumbranceCapacity>
+      <Passengers>200</Passengers>
+      <HP>16</HP>
+      <Starship>true</Starship>
+      <Categories>
+        <Category>Starship</Category>
+        <Category>Non-Fighter Starship</Category>
+        <Category>Capital Ship</Category>
+        <Category>Crafted Vehicle</Category>
+      </Categories>
+      <BaseMods>
+      </BaseMods>
+    </VehicleProfile>
+  </CraftTemplate>
+
+  <CraftTemplate>
+    <Key>VEHFRDESTROYER</Key>
+    <Name>Destroyer</Name>
+    <Description>
+      [H3]Destroyer[h3]
+      This is a Destroyer vehicle template.  Please enter the description of the finished vehicle here.
+    </Description>
+    <Source Page="80">Fully Operational</Source>
+    <TempType>ctVehicleFrame</TempType>
+    <TimeHours>1200</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>5</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>10000000</MaterialCost>
+    <MaterialRarity>6</MaterialRarity>
+    <MaterialRestricted>true</MaterialRestricted>
+    <VehicleProfile>
+      <Name>Destroyer</Name>
+      <VehicleType>vtVehicle</VehicleType>
+      <Type>Destroyer</Type>
+      <Silhouette>8</Silhouette>
+      <HullTrauma>125</HullTrauma>
+      <SensorRangeValue>srLong</SensorRangeValue>
+      <Crew>30,000 officers, pilots, and crew</Crew>
+      <EncumbranceCapacity>10000</EncumbranceCapacity>
+      <Passengers>5000</Passengers>
+      <HP>17</HP>
+      <Starship>true</Starship>
+      <Categories>
+        <Category>Starship</Category>
+        <Category>Non-Fighter Starship</Category>
+        <Category>Capital Ship</Category>
+        <Category>Crafted Vehicle</Category>
+      </Categories>
+      <BaseMods>
+      </BaseMods>
+    </VehicleProfile>
+  </CraftTemplate>
+
+  <CraftTemplate>
+    <Key>VEHFRSTATION</Key>
+    <Name>Space Station</Name>
+    <Description>
+      [H3]Space Station[h3]
+      This is a Space Station vehicle template.  Please enter the description of the finished vehicle here.
+    </Description>
+    <Source Page="81">Fully Operational</Source>
+    <TempType>ctVehicleFrame</TempType>
+    <TimeHours>2400</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>5</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>50000000</MaterialCost>
+    <MaterialRarity>5</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <VehicleProfile>
+      <Name>Space Station</Name>
+      <VehicleType>vtVehicle</VehicleType>
+      <Type>Space Station</Type>
+      <Silhouette>8</Silhouette>
+      <HullTrauma>150</HullTrauma>
+      <SensorRangeValue>srLong</SensorRangeValue>
+      <Crew>60,000 or more administrators, technicians, and laborers</Crew>
+      <EncumbranceCapacity>100000</EncumbranceCapacity>
+      <Passengers>40000</Passengers>
+      <HP>50</HP>
+      <Starship>true</Starship>
+      <Stationary>true</Stationary>
+      <Categories>
+        <Category>Starship</Category>
+        <Category>Non-Fighter Starship</Category>
+        <Category>Capital Ship</Category>
+        <Category>Crafted Vehicle</Category>
+      </Categories>
+      <BaseMods>
+        <Mod>
+          <Key>SETSPEED</Key>
+          <Count>0</Count>
+        </Mod>
+      </BaseMods>
+    </VehicleProfile>
+  </CraftTemplate>
+
+  <CraftTemplate>
+    <Key>VEHFRCUSTOM</Key>
+    <Name>Custom Vehicle</Name>
+    <Description>
+      [H3]Custom Vehicle[h3]
+      This is a custom vehicle template.  This will create a vehicle from the frame of an existing vehicle.  Please enter the description of the finished vehicle here.
+    </Description>
+    <Source Page="79">Fully Operational</Source>
+    <TempType>ctVehicleFrame</TempType>
+    <TimeHours>0</TimeHours>
+    <CheckSkills>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>5</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>0</MaterialCost>
+    <MaterialRarity>0</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <IsCustomVehicle>true</IsCustomVehicle>
+  </CraftTemplate>
+
+
+  <!-- Vehicle Engines-->
+  
+  <CraftTemplate>
+    <Key>VEHENGSINGION</Key>
+    <Name>Single Ion Coil</Name>
+    <Description>
+      [H3]Single Ion Coil[h3]
+      This is a Single Ion Coil vehicle engine template.
+    </Description>
+    <Source Page="81">Fully Operational</Source>
+    <TempType>ctVehicleEngine</TempType>
+    <TimeHours>24</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>1</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>500</MaterialCost>
+    <MaterialRarity>2</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <AttachmentKey>CRAFTENGINESINGION</AttachmentKey>
+  </CraftTemplate>
+
+  <CraftTemplate>
+    <Key>VEHENGELECTBAFF</Key>
+    <Name>Electron Baffled Engine</Name>
+    <Description>
+      [H3]Electron Baffled Engine[h3]
+      This is an Electron Baffled Engine vehicle engine template.
+    </Description>
+    <Source Page="81">Fully Operational</Source>
+    <TempType>ctVehicleEngine</TempType>
+    <TimeHours>48</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>1000</MaterialCost>
+    <MaterialRarity>3</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <AttachmentKey>CRAFTENGINEELECBAFF</AttachmentKey>
+  </CraftTemplate>
+  
+  <CraftTemplate>
+    <Key>VEHENGIONTURBINE</Key>
+    <Name>Ion Turbine Engine</Name>
+    <Description>
+      [H3]Ion Turbine Engine[h3]
+      This is an Ion Turbine Engine vehicle engine template.
+    </Description>
+    <Source Page="82">Fully Operational</Source>
+    <TempType>ctVehicleEngine</TempType>
+    <TimeHours>48</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>2000</MaterialCost>
+    <MaterialRarity>2</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <AttachmentKey>CRAFTENGINEIONTURBINE</AttachmentKey>
+  </CraftTemplate>
+
+  <CraftTemplate>
+    <Key>VEHENGFUSIALTHRUST</Key>
+    <Name>Fusial Thrust Engine</Name>
+    <Description>
+      [H3]Fusial Thrust Engine[h3]
+      This is a Fusial Thrust Engine vehicle engine template.
+    </Description>
+    <Source Page="82">Fully Operational</Source>
+    <TempType>ctVehicleEngine</TempType>
+    <TimeHours>60</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>2500</MaterialCost>
+    <MaterialRarity>4</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <AttachmentKey>CRAFTENGINEFUSIALTHRUST</AttachmentKey>
+  </CraftTemplate>
+
+  <CraftTemplate>
+    <Key>VEHENGREPCLUSTER</Key>
+    <Name>High-Performance Repulsor Cluster</Name>
+    <Description>
+      [H3]High-Performance Repulsor Cluster[h3]
+      This is a High-Performance Repulsor Cluster vehicle engine template.
+    </Description>
+    <Source Page="82">Fully Operational</Source>
+    <TempType>ctVehicleEngine</TempType>
+    <TimeHours>120</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>3000</MaterialCost>
+    <MaterialRarity>4</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <AttachmentKey>CRAFTENGINEREPCLUSTER</AttachmentKey>    
+  </CraftTemplate>
+
+  <CraftTemplate>
+    <Key>VEHENGIONDRIVEARRAY</Key>
+    <Name>Ion Drive Array</Name>
+    <Description>
+      [H3]Ion Drive Array[h3]
+      This is an Ion Drive Array vehicle engine template.
+    </Description>
+    <Source Page="82">Fully Operational</Source>
+    <TempType>ctVehicleEngine</TempType>
+    <TimeHours>120</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>4</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>5250</MaterialCost>
+    <MaterialRarity>5</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <AttachmentKey>CRAFTENGINEIONDRIVEARRAY</AttachmentKey>
+  </CraftTemplate>
+
+  <!-- Vehicle Hulls -->
+  <CraftTemplate>
+    <Key>VEHHULLSLEEK</Key>
+    <Name>Sleek Carapace</Name>
+    <Description>
+      [H3]Sleek Carapace[h3]
+      This is a Sleek Carapace vehicle hull template.
+    </Description>
+    <Source Page="82">Fully Operational</Source>
+    <TempType>ctVehicleHull</TempType>
+    <TimeHours>24</TimeHours>
+    <TimePerSilhouette>true</TimePerSilhouette>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>450</MaterialCost>
+    <MaterialRarity>3</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <AttachmentKey>CRAFTHULLSLEEK</AttachmentKey>
+  </CraftTemplate>
+
+  <CraftTemplate>
+    <Key>VEHHULLEXPCAP</Key>
+    <Name>Expanded-Capacity Holds</Name>
+    <Description>
+      [H3]Expanded-Capacity Holds[h3]
+      This is an Expanded-Capacity Holds vehicle hull template.
+    </Description>
+    <Source Page="83">Fully Operational</Source>
+    <TempType>ctVehicleHull</TempType>
+    <TimeHours>24</TimeHours>
+    <TimePerSilhouette>true</TimePerSilhouette>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>500</MaterialCost>
+    <MaterialRarity>3</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <AttachmentKey>CRAFTHULLEXPCAP</AttachmentKey>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>VEHHULLLTARMOR</Key>
+    <Name>Lightly Armored Hull</Name>
+    <Description>
+      [H3]Lightly Armored Hull[h3]
+      This is a Lightly Armored Hull vehicle hull template.
+    </Description>
+    <Source Page="83">Fully Operational</Source>
+    <TempType>ctVehicleHull</TempType>
+    <TimeHours>48</TimeHours>
+    <TimePerSilhouette>true</TimePerSilhouette>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>500</MaterialCost>
+    <MaterialRarity>4</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <AttachmentKey>CRAFTHULLLTARMOR</AttachmentKey>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>VEHHULLLDEFPLATE</Key>
+    <Name>Deflective Plating</Name>
+    <Description>
+      [H3]Deflective Plating[h3]
+      This is a Deflective Plating Hull vehicle hull template.
+    </Description>
+    <Source Page="83">Fully Operational</Source>
+    <TempType>ctVehicleHull</TempType>
+    <TimeHours>72</TimeHours>
+    <TimePerSilhouette>true</TimePerSilhouette>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>700</MaterialCost>
+    <MaterialRarity>5</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <AttachmentKey>CRAFTHULLDEFPLATE</AttachmentKey>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>VEHHULLLCOMBATPLATE</Key>
+    <Name>Combat Plating</Name>
+    <Description>
+      [H3]Combat Plating[h3]
+      This is a Combat Plating Hull vehicle hull template.
+    </Description>
+    <Source Page="83">Fully Operational</Source>
+    <TempType>ctVehicleHull</TempType>
+    <TimeHours>96</TimeHours>
+    <TimePerSilhouette>true</TimePerSilhouette>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>1500</MaterialCost>
+    <MaterialRarity>7</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <AttachmentKey>CRAFTHULLCOMBATPLATE</AttachmentKey>
+  </CraftTemplate>
+  
+  <!-- Vehicle Assembly Templates -->
+  <CraftTemplate>
+    <Key>VEHASSEMBLY01</Key>
+    <Name>Vehicle Assembly - Silh. 0 or 1</Name>
+    <Description>
+      [H3]Vehicle Assembly[h3]
+      Obtain the results of the final assembly for silhouettes 0 or 1 vehicles.
+    </Description>
+    <Source Page="85">Fully Operational</Source>
+    <TempType>ctVehicleAssembly</TempType>
+    <TimeHours>24</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>0</MaterialCost>
+    <MaterialRarity>0</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <SilhouetteLow>0</SilhouetteLow>
+    <SilhouetteHigh>1</SilhouetteHigh>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>VEHASSEMBLY2</Key>
+    <Name>Vehicle Assembly - Silh. 2</Name>
+    <Description>
+      [H3]Vehicle Assembly[h3]
+      Obtain the results of the final assembly for silhouette 2 vehicles.[P]
+      [B]Additional Resources Needed:[b] 1,000 credits for additional supplies
+    </Description>
+    <Source Page="85">Fully Operational</Source>
+    <TempType>ctVehicleAssembly</TempType>
+    <TimeHours>48</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>1000</MaterialCost>
+    <MaterialRarity>0</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <SilhouetteLow>2</SilhouetteLow>
+    <SilhouetteHigh>2</SilhouetteHigh>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>VEHASSEMBLY3</Key>
+    <Name>Vehicle Assembly - Silh. 3</Name>
+    <Description>
+      [H3]Vehicle Assembly[h3]
+      Obtain the results of the final assembly for silhouette 3 vehicles.[P]
+      [B]Additional Resources Needed:[b] 10,000 credits for additional supplies
+    </Description>
+    <Source Page="85">Fully Operational</Source>
+    <TempType>ctVehicleAssembly</TempType>
+    <TimeHours>120</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>10000</MaterialCost>
+    <MaterialRarity>0</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <SilhouetteLow>3</SilhouetteLow>
+    <SilhouetteHigh>3</SilhouetteHigh>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>VEHASSEMBLY4</Key>
+    <Name>Vehicle Assembly - Silh. 4</Name>
+    <Description>
+      [H3]Vehicle Assembly[h3]
+      Obtain the results of the final assembly for silhouette 4 vehicles.[P]
+      [B]Additional Resources Needed:[b] A team of 5 or more, 25,000 credits for additional supplies
+    </Description>
+    <Source Page="85">Fully Operational</Source>
+    <TempType>ctVehicleAssembly</TempType>
+    <TimeHours>240</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>4</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>25000</MaterialCost>
+    <MaterialRarity>0</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <SilhouetteLow>4</SilhouetteLow>
+    <SilhouetteHigh>4</SilhouetteHigh>
+    <AdditionalResources>A team of 5 or more</AdditionalResources>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>VEHASSEMBLY56</Key>
+    <Name>Vehicle Assembly - Silh. 5 or 6</Name>
+    <Description>
+      [H3]Vehicle Assembly[h3]
+      Obtain the results of the final assembly for silhouette 5 or 6 vehicles.[P]
+      [B]Additional Resources Needed:[b] A team of 100 or more, 100,000 credits for additional supplies
+    </Description>
+    <Source Page="85">Fully Operational</Source>
+    <TempType>ctVehicleAssembly</TempType>
+    <TimeHours>1200</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>4</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>100000</MaterialCost>
+    <MaterialRarity>0</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <SilhouetteLow>5</SilhouetteLow>
+    <SilhouetteHigh>6</SilhouetteHigh>
+    <AdditionalResources>A team of 100 or more</AdditionalResources>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>VEHASSEMBLY79</Key>
+    <Name>Vehicle Assembly - Silh. 7 to 9</Name>
+    <Description>
+      [H3]Vehicle Assembly[h3]
+      Obtain the results of the final assembly for silhouette 7 to 9 vehicles.[P]
+      [B]Additional Resources Needed:[b] A team of 5,000 or more, 2,000,000 credits for additional supplies
+    </Description>
+    <Source Page="85">Fully Operational</Source>
+    <TempType>ctVehicleAssembly</TempType>
+    <TimeHours>2400</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>5</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>2000000</MaterialCost>
+    <MaterialRarity>0</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <SilhouetteLow>7</SilhouetteLow>
+    <SilhouetteHigh>9</SilhouetteHigh>
+    <AdditionalResources>A team of 5,000 or more</AdditionalResources>
+  </CraftTemplate>
+
+  <!-- Droid Templates -->
+
+  <CraftTemplate>
+    <Key>DROIDMONO</Key>
+    <Name>Monotask Chassis</Name>
+    <Description>
+      This is a droid chassis.  Please enter the description of the finished droid here.
+    </Description>
+    <Source Page="80">Special Modifications</Source>
+    <TempType>ctDroid</TempType>
+    <TimeHours>24</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>600</MaterialCost>
+    <MaterialRarity>2</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <Droid>
+      <Category>Crafted Droid</Category>
+      <Type>Minion</Type>
+      <Silhouette>0</Silhouette>
+      <Characteristics>
+        <CharCharacteristic>
+          <Key>BR</Key>
+          <Rank>
+            <StartingRanks>1</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+        <CharCharacteristic>
+          <Key>AG</Key>
+          <Rank>
+            <StartingRanks>1</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+        <CharCharacteristic>
+          <Key>INT</Key>
+          <Rank>
+            <StartingRanks>1</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+        <CharCharacteristic>
+          <Key>CUN</Key>
+          <Rank>
+            <StartingRanks>1</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+        <CharCharacteristic>
+          <Key>WIL</Key>
+          <Name>Willpower</Name>
+          <Rank>
+            <StartingRanks>1</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+        <CharCharacteristic>
+          <Key>PR</Key>
+          <Rank>
+            <StartingRanks>1</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+      </Characteristics>
+      <Attributes>
+        <SoakValue>
+          <PurchasedRanks>1</PurchasedRanks>
+        </SoakValue>
+        <WoundThreshold>
+          <PurchasedRanks>0</PurchasedRanks>
+        </WoundThreshold>
+        <StrainThreshold>
+        </StrainThreshold>
+        <DefenseRanged>
+        </DefenseRanged>
+        <DefenseMelee>
+        </DefenseMelee>
+        <ForceRating>
+        </ForceRating>
+      </Attributes>
+      <Weapons />
+      <Armor />
+      <Abilities>
+        <AvAbility>
+          <Name>Droid</Name>
+          <Description>
+            Does not need to breathe, eat, or drink, and can survive in vacuum or underwater.  Immune to poisons and toxins.
+          </Description>
+        </AvAbility>
+      </Abilities>
+    </Droid>
+  </CraftTemplate>
+
+  <CraftTemplate>
+    <Key>DROIDLABOR</Key>
+    <Name>Labor Chassis</Name>
+    <Description>
+      This is a droid chassis.  Please enter the description of the finished droid here.
+    </Description>
+    <Source Page="80">Special Modifications</Source>
+    <TempType>ctDroid</TempType>
+    <TimeHours>48</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>3500</MaterialCost>
+    <MaterialRarity>3</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <Droid>
+      <Category>Crafted Droid</Category>
+      <Type>Minion</Type>
+      <Characteristics>
+        <CharCharacteristic>
+          <Key>BR</Key>
+          <Rank>
+            <StartingRanks>3</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+        <CharCharacteristic>
+          <Key>AG</Key>
+          <Rank>
+            <StartingRanks>1</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+        <CharCharacteristic>
+          <Key>INT</Key>
+          <Rank>
+            <StartingRanks>2</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+        <CharCharacteristic>
+          <Key>CUN</Key>
+          <Rank>
+            <StartingRanks>1</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+        <CharCharacteristic>
+          <Key>WIL</Key>
+          <Name>Willpower</Name>
+          <Rank>
+            <StartingRanks>1</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+        <CharCharacteristic>
+          <Key>PR</Key>
+          <Rank>
+            <StartingRanks>1</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+      </Characteristics>
+      <Attributes>
+        <SoakValue>
+          <PurchasedRanks>1</PurchasedRanks>
+        </SoakValue>
+        <WoundThreshold>
+          <PurchasedRanks>2</PurchasedRanks>
+        </WoundThreshold>
+        <StrainThreshold>
+        </StrainThreshold>
+        <DefenseRanged>
+        </DefenseRanged>
+        <DefenseMelee>
+        </DefenseMelee>
+        <ForceRating>
+        </ForceRating>
+      </Attributes>
+      <Weapons />
+      <Armor />
+      <Abilities>
+        <AvAbility>
+          <Name>Droid</Name>
+          <Description>
+            Does not need to breathe, eat, or drink, and can survive in vacuum or underwater.  Immune to poisons and toxins.
+          </Description>
+        </AvAbility>
+      </Abilities>
+    </Droid>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>DROIDCOMBAT</Key>
+    <Name>Combat Chassis</Name>
+    <Description>
+      This is a droid chassis.  Please enter the description of the finished droid here.
+    </Description>
+    <Source Page="80">Special Modifications</Source>
+    <TempType>ctDroid</TempType>
+    <TimeHours>48</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>3250</MaterialCost>
+    <MaterialRarity>4</MaterialRarity>
+    <MaterialRestricted>true</MaterialRestricted>
+    <Droid>
+      <Category>Crafted Droid</Category>
+      <Type>Minion</Type>
+      <Characteristics>
+        <CharCharacteristic>
+          <Key>BR</Key>
+          <Rank>
+            <StartingRanks>2</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+        <CharCharacteristic>
+          <Key>AG</Key>
+          <Rank>
+            <StartingRanks>2</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+        <CharCharacteristic>
+          <Key>INT</Key>
+          <Rank>
+            <StartingRanks>1</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+        <CharCharacteristic>
+          <Key>CUN</Key>
+          <Rank>
+            <StartingRanks>1</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+        <CharCharacteristic>
+          <Key>WIL</Key>
+          <Name>Willpower</Name>
+          <Rank>
+            <StartingRanks>1</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+        <CharCharacteristic>
+          <Key>PR</Key>
+          <Rank>
+            <StartingRanks>1</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+      </Characteristics>
+      <Attributes>
+        <SoakValue>
+          <PurchasedRanks>2</PurchasedRanks>
+        </SoakValue>
+        <WoundThreshold>
+          <PurchasedRanks>0</PurchasedRanks>
+        </WoundThreshold>
+        <StrainThreshold>
+        </StrainThreshold>
+        <DefenseRanged>
+        </DefenseRanged>
+        <DefenseMelee>
+        </DefenseMelee>
+        <ForceRating>
+        </ForceRating>
+      </Attributes>
+      <Weapons />
+      <Armor />
+      <Abilities>
+        <AvAbility>
+          <Name>Droid</Name>
+          <Description>
+            Does not need to breathe, eat, or drink, and can survive in vacuum or underwater.  Immune to poisons and toxins.
+          </Description>
+        </AvAbility>
+      </Abilities>
+    </Droid>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>DROIDSPECIAL</Key>
+    <Name>Specialist Chassis</Name>
+    <Description>
+      This is a droid chassis.  Please enter the description of the finished droid here.
+    </Description>
+    <Source Page="80">Special Modifications</Source>
+    <TempType>ctDroid</TempType>
+    <TimeHours>56</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>4</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>4500</MaterialCost>
+    <MaterialRarity>3</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <Droid>
+      <Category>Crafted Droid</Category>
+      <Type>Rival</Type>
+      <Characteristics>
+        <CharCharacteristic>
+          <Key>BR</Key>
+          <Rank>
+            <StartingRanks>1</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+        <CharCharacteristic>
+          <Key>AG</Key>
+          <Rank>
+            <StartingRanks>1</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+        <CharCharacteristic>
+          <Key>INT</Key>
+          <Rank>
+            <StartingRanks>2</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+        <CharCharacteristic>
+          <Key>CUN</Key>
+          <Rank>
+            <StartingRanks>2</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+        <CharCharacteristic>
+          <Key>WIL</Key>
+          <Rank>
+            <StartingRanks>2</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+        <CharCharacteristic>
+          <Key>PR</Key>
+          <Rank>
+            <StartingRanks>2</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+      </Characteristics>
+      <Attributes>
+        <SoakValue>
+          <PurchasedRanks>2</PurchasedRanks>
+        </SoakValue>
+        <WoundThreshold>
+          <PurchasedRanks>0</PurchasedRanks>
+        </WoundThreshold>
+        <StrainThreshold>
+        </StrainThreshold>
+        <DefenseRanged>
+        </DefenseRanged>
+        <DefenseMelee>
+        </DefenseMelee>
+        <ForceRating>
+        </ForceRating>
+      </Attributes>
+      <Weapons />
+      <Armor />
+      <Abilities>
+        <AvAbility>
+          <Name>Droid</Name>
+          <Description>
+            Does not need to breathe, eat, or drink, and can survive in vacuum or underwater.  Immune to poisons and toxins.
+          </Description>
+        </AvAbility>
+      </Abilities>
+    </Droid>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>DROIDADVCOM</Key>
+    <Name>Advanced Combat Chassis</Name>
+    <Description>
+      This is a droid chassis.  Please enter the description of the finished droid here.
+    </Description>
+    <Source Page="80">Special Modifications</Source>
+    <TempType>ctDroid</TempType>
+    <TimeHours>240</TimeHours>
+    <CheckSkills>
+      <Key>MECH</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>5</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>32500</MaterialCost>
+    <MaterialRarity>7</MaterialRarity>
+    <MaterialRestricted>true</MaterialRestricted>
+    <Droid>
+      <Category>Crafted Droid</Category>
+      <Type>Nemesis</Type>
+      <Characteristics>
+        <CharCharacteristic>
+          <Key>BR</Key>
+          <Rank>
+            <StartingRanks>4</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+        <CharCharacteristic>
+          <Key>AG</Key>
+          <Rank>
+            <StartingRanks>3</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+        <CharCharacteristic>
+          <Key>INT</Key>
+          <Rank>
+            <StartingRanks>3</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+        <CharCharacteristic>
+          <Key>CUN</Key>
+          <Rank>
+            <StartingRanks>3</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+        <CharCharacteristic>
+          <Key>WIL</Key>
+          <Rank>
+            <StartingRanks>1</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+        <CharCharacteristic>
+          <Key>PR</Key>
+          <Rank>
+            <StartingRanks>1</StartingRanks>
+          </Rank>
+        </CharCharacteristic>
+      </Characteristics>
+      <Attributes>
+        <SoakValue>
+          <PurchasedRanks>3</PurchasedRanks>
+        </SoakValue>
+        <WoundThreshold>
+          <PurchasedRanks>3</PurchasedRanks>
+        </WoundThreshold>
+        <StrainThreshold>
+        </StrainThreshold>
+        <DefenseRanged>
+        </DefenseRanged>
+        <DefenseMelee>
+        </DefenseMelee>
+        <ForceRating>
+        </ForceRating>
+      </Attributes>
+      <Weapons />
+      <Armor />
+      <Abilities>
+        <AvAbility>
+          <Name>Droid</Name>
+          <Description>
+            Does not need to breathe, eat, or drink, and can survive in vacuum or underwater.  Immune to poisons and toxins.
+          </Description>
+        </AvAbility>
+      </Abilities>
+    </Droid>
+  </CraftTemplate>
+  
+  <!-- Droid Directives -->
+  
+  <CraftTemplate>
+    <Key>DROIDDIRLABOR</Key>
+    <Name>Labor Directives</Name>
+    <Description>
+      [H3]Labor Directives[h3]
+      Droids with these directives are typically obsessed with their single area of expertise.
+    </Description>
+    <Source Page="82">Special Modifications</Source>
+    <TempType>ctDroidDirect</TempType>
+    <TimeHours>8</TimeHours>
+    <CheckSkills>
+      <Key>COMP</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>1</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>0</MaterialCost>
+    <MaterialRarity>0</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <DroidDirect>
+      <SkillChoices>
+        <SkillCount>1</SkillCount>
+        <TypeValue>stGeneral</TypeValue>
+      </SkillChoices>
+      <SkillChoiceRanks>2</SkillChoiceRanks>
+    </DroidDirect>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>DROIDDIRCOMBAT</Key>
+    <Name>Combat Directives</Name>
+    <Description>
+      [H3]Combat Directives[h3]
+      Droids with these directives are typically used for security purposes.
+    </Description>
+    <Source Page="82">Special Modifications</Source>
+    <TempType>ctDroidDirect</TempType>
+    <TimeHours>16</TimeHours>
+    <CheckSkills>
+      <Key>COMP</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>0</MaterialCost>
+    <MaterialRarity>0</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <DroidDirect>
+      <SkillChoices>
+        <SkillCount>3</SkillCount>
+        <TypeValue>stCombat</TypeValue>
+      </SkillChoices>
+      <SkillChoiceRanks>1</SkillChoiceRanks>
+      <Talents>
+        <CharTalent>
+          <Key>BOD</Key>
+          <Ranks>1</Ranks>
+        </CharTalent>
+      </Talents>
+    </DroidDirect>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>DROIDDIRTRANS</Key>
+    <Name>Translation Directives</Name>
+    <Description>
+      [H3]Translation Directives[h3]
+      Droids with these directives are typically used for etiquette and protocol.
+    </Description>
+    <Source Page="82">Special Modifications</Source>
+    <TempType>ctDroidDirect</TempType>
+    <TimeHours>24</TimeHours>
+    <CheckSkills>
+      <Key>COMP</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>0</MaterialCost>
+    <MaterialRarity>0</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <DroidDirect>
+      <SkillChoices>
+        <SkillCount>3</SkillCount>
+        <TypeValue>stKnowledge</TypeValue>
+      </SkillChoices>
+      <SkillChoiceRanks>1</SkillChoiceRanks>
+      <Talents>
+        <CharTalent>
+          <Key>CONV</Key>
+          <Ranks>1</Ranks>
+        </CharTalent>
+        <CharTalent>
+          <Key>KILL</Key>
+          <Ranks>1</Ranks>
+        </CharTalent>
+      </Talents>
+    </DroidDirect>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>DROIDDIRREPAIR</Key>
+    <Name>Repair Directives</Name>
+    <Description>
+      [H3]Repair Directives[h3]
+      Droids with these directives are typically used to repair machines.
+    </Description>
+    <Source Page="82">Special Modifications</Source>
+    <TempType>ctDroidDirect</TempType>
+    <TimeHours>24</TimeHours>
+    <CheckSkills>
+      <Key>COMP</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>0</MaterialCost>
+    <MaterialRarity>0</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <DroidDirect>
+      <Skills>
+        <CharSkill>
+          <Key>COMP</Key>
+          <Rank>
+            <PurchasedRanks>1</PurchasedRanks>
+          </Rank>
+        </CharSkill>
+        <CharSkill>
+          <Key>MECH</Key>
+          <Rank>
+            <PurchasedRanks>2</PurchasedRanks>
+          </Rank>
+        </CharSkill>
+      </Skills>
+      <Talents>
+        <CharTalent>
+          <Key>GEARHD</Key>
+          <Ranks>1</Ranks>
+        </CharTalent>
+        <CharTalent>
+          <Key>SOLREP</Key>
+          <Ranks>1</Ranks>
+        </CharTalent>
+      </Talents>
+    </DroidDirect>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>DROIDDIRNAV</Key>
+    <Name>Navigation Directives</Name>
+    <Description>
+      [H3]Navigation Directives[h3]
+      Droids with these directives are typically used for astronavigation purposes.
+    </Description>
+    <Source Page="82">Special Modifications</Source>
+    <TempType>ctDroidDirect</TempType>
+    <TimeHours>72</TimeHours>
+    <CheckSkills>
+      <Key>COMP</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>0</MaterialCost>
+    <MaterialRarity>0</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <DroidDirect>
+      <Skills>
+        <CharSkill>
+          <Key>ASTRO</Key>
+          <Rank>
+            <PurchasedRanks>2</PurchasedRanks>
+          </Rank>
+        </CharSkill>
+        <CharSkill>
+          <Key>COMP</Key>
+          <Rank>
+            <PurchasedRanks>1</PurchasedRanks>
+          </Rank>
+        </CharSkill>
+        <CharSkill>
+          <Key>PILOTSP</Key>
+          <Rank>
+            <PurchasedRanks>1</PurchasedRanks>
+          </Rank>
+        </CharSkill>
+      </Skills>
+      <Talents>
+        <CharTalent>
+          <Key>GALMAP</Key>
+          <Ranks>1</Ranks>
+        </CharTalent>
+        <CharTalent>
+          <Key>TECHAPT</Key>
+          <Ranks>1</Ranks>
+        </CharTalent>
+      </Talents>
+    </DroidDirect>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>DROIDDIRHEAL</Key>
+    <Name>Healing Directives</Name>
+    <Description>
+      [H3]Healing Directives[h3]
+      Droids with these directives are typically used for medical purposes.
+    </Description>
+    <Source Page="82">Special Modifications</Source>
+    <TempType>ctDroidDirect</TempType>
+    <TimeHours>72</TimeHours>
+    <CheckSkills>
+      <Key>COMP</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>4</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>0</MaterialCost>
+    <MaterialRarity>0</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <DroidDirect>
+      <Skills>
+        <CharSkill>
+          <Key>XEN</Key>
+          <Rank>
+            <PurchasedRanks>1</PurchasedRanks>
+          </Rank>
+        </CharSkill>
+        <CharSkill>
+          <Key>MED</Key>
+          <Rank>
+            <PurchasedRanks>2</PurchasedRanks>
+          </Rank>
+        </CharSkill>
+      </Skills>
+      <Talents>
+        <CharTalent>
+          <Key>BACT</Key>
+          <Ranks>1</Ranks>
+        </CharTalent>
+        <CharTalent>
+          <Key>SURG</Key>
+          <Ranks>1</Ranks>
+        </CharTalent>
+      </Talents>
+    </DroidDirect>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>DROIDDIRELIM</Key>
+    <Name>Elimination Directives</Name>
+    <Description>
+      [H3]Elimination Directives[h3]
+      Droids with these directives are typically used for assassination.
+    </Description>
+    <Source Page="82">Special Modifications</Source>
+    <TempType>ctDroidDirect</TempType>
+    <TimeHours>168</TimeHours>
+    <CheckSkills>
+      <Key>COMP</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>5</Difficulty>
+    </CheckDifficulty>
+    <MaterialCost>0</MaterialCost>
+    <MaterialRarity>0</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <DroidDirect>
+      <SkillChoices>
+        <SkillCount>3</SkillCount>
+        <TypeValue>stCombat</TypeValue>
+      </SkillChoices>
+      <SkillChoiceRanks>4</SkillChoiceRanks>
+      <Skills>
+        <CharSkill>
+          <Key>COOL</Key>
+          <Rank>
+            <PurchasedRanks>2</PurchasedRanks>
+          </Rank>
+        </CharSkill>
+        <CharSkill>
+          <Key>XEN</Key>
+          <Rank>
+            <PurchasedRanks>1</PurchasedRanks>
+          </Rank>
+        </CharSkill>
+        <CharSkill>
+          <Key>MECH</Key>
+          <Rank>
+            <PurchasedRanks>2</PurchasedRanks>
+          </Rank>
+        </CharSkill>
+        <CharSkill>
+          <Key>STEAL</Key>
+          <Rank>
+            <PurchasedRanks>2</PurchasedRanks>
+          </Rank>
+        </CharSkill>
+      </Skills>
+      <Talents>
+        <CharTalent>
+          <Key>ADV</Key>
+          <Ranks>2</Ranks>
+        </CharTalent>
+        <CharTalent>
+          <Key>LETHALBL</Key>
+          <Ranks>3</Ranks>
+        </CharTalent>
+      </Talents>
+      <MakeNemesis>true</MakeNemesis>
+    </DroidDirect>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>ALCHPOACID</Key>
+    <Name>Acid</Name>
+    <Description>
+      [H3]Acid[h3]
+      This is an alchemical potion template.  Please enter the description of the finished potion here.
+    </Description>
+    <Source Page="81">Unlimited Power</Source>
+    <TempType>ctAlchemyPotion</TempType>
+    <MaterialCost>600</MaterialCost>
+    <MaterialRarity>6</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <TimeHours>2</TimeHours>
+    <CheckSkills>
+      <Key>DISC</Key>
+      <Key>LORE</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <GearProfile>
+      <Encumbrance>0</Encumbrance>
+      <HP>0</HP>
+      <Type>Alchemical Potion</Type>
+      <Rarity>-1</Rarity>
+      <BaseMods>
+        <Mod>
+          <MiscDesc>Target must make [B]Hard ([DI][DI][DI]) Resilience check[b]. If failed, takes 2 wound at start of turn for 3 rounds, plus 1 round per [TH] rolled.</MiscDesc>
+        </Mod>
+      </BaseMods>
+    </GearProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>ALCHPOFIRE</Key>
+    <Name>Draught of Fire</Name>
+    <Description>
+      [H3]Draught of Fire[h3]
+      This is an alchemical potion template.  Please enter the description of the finished potion here.
+    </Description>
+    <Source Page="81">Unlimited Power</Source>
+    <TempType>ctAlchemyPotion</TempType>
+    <MaterialCost>400</MaterialCost>
+    <MaterialRarity>5</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <TimeHours>3</TimeHours>
+    <CheckSkills>
+      <Key>DISC</Key>
+      <Key>LORE</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <GearProfile>
+      <Encumbrance>0</Encumbrance>
+      <HP>0</HP>
+      <Type>Alchemical Potion</Type>
+      <Rarity>-1</Rarity>
+      <BaseMods>
+        <Mod>
+          <MiscDesc>For the next round (or 30 minutes), user's unarmed attacks gain Burn 4, or add +1 if Burn is already possessed.</MiscDesc>
+        </Mod>
+      </BaseMods>
+    </GearProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>ALCHPOVIGOR</Key>
+    <Name>Elixir of Vigor</Name>
+    <Description>
+      [H3]Elixir of Vigor[h3]
+      This is an alchemical potion template.  Please enter the description of the finished potion here.
+    </Description>
+    <Source Page="81">Unlimited Power</Source>
+    <TempType>ctAlchemyPotion</TempType>
+    <MaterialCost>600</MaterialCost>
+    <MaterialRarity>6</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <TimeHours>4</TimeHours>
+    <CheckSkills>
+      <Key>DISC</Key>
+      <Key>LORE</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <GearProfile>
+      <Encumbrance>0</Encumbrance>
+      <HP>0</HP>
+      <Type>Alchemical Potion</Type>
+      <Rarity>-1</Rarity>
+      <BaseMods>
+        <Mod>
+          <MiscDesc>When consumed, Brawn is increased by 1 and Willpower is decreased by 1.  This effect lasts until the end of the following round.</MiscDesc>
+        </Mod>
+      </BaseMods>
+    </GearProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>ALCHPOHEAL</Key>
+    <Name>Healing Potion</Name>
+    <Description>
+      [H3]Healing Potion[h3]
+      This is an alchemical potion template.  Please enter the description of the finished potion here.
+    </Description>
+    <Source Page="81">Unlimited Power</Source>
+    <TempType>ctAlchemyPotion</TempType>
+    <MaterialCost>1000</MaterialCost>
+    <MaterialRarity>5</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <TimeHours>2</TimeHours>
+    <CheckSkills>
+      <Key>DISC</Key>
+      <Key>LORE</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <GearProfile>
+      <Encumbrance>0</Encumbrance>
+      <HP>0</HP>
+      <Type>Alchemical Potion</Type>
+      <Rarity>-1</Rarity>
+      <BaseMods>
+        <Mod>
+          <MiscDesc>When consumed, one Critical Injury of severity [B]Hard ([DI][DI][DI])[b] or less is healed.</MiscDesc>
+        </Mod>
+      </BaseMods>
+    </GearProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>ALCHPOPOI</Key>
+    <Name>Poison</Name>
+    <Description>
+      [H3]Poison[h3]
+      This is an alchemical potion template.  Please enter the description of the finished potion here.
+    </Description>
+    <Source Page="81">Unlimited Power</Source>
+    <TempType>ctAlchemyPotion</TempType>
+    <MaterialCost>500</MaterialCost>
+    <MaterialRarity>4</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <TimeHours>2</TimeHours>
+    <CheckSkills>
+      <Key>DISC</Key>
+      <Key>LORE</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>1</Difficulty>
+      <Difficulty>1</Difficulty>
+    </CheckDifficulty>
+    <GearProfile>
+      <Encumbrance>0</Encumbrance>
+      <HP>0</HP>
+      <Type>Alchemical Potion</Type>
+      <Rarity>-1</Rarity>
+      <BaseMods>
+        <Mod>
+          <MiscDesc>Target must immediately make an [B]Average ([DI][DI]) Resilience check[b].  If failed, suffer 5 wounds plus 1 strain per [TH].</MiscDesc>
+        </Mod>
+      </BaseMods>
+    </GearProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>ALCHPOWILL</Key>
+    <Name>Potion of Wills</Name>
+    <Description>
+      [H3]Potion of Wills[h3]
+      This is an alchemical potion template.  Please enter the description of the finished potion here.
+    </Description>
+    <Source Page="81">Unlimited Power</Source>
+    <TempType>ctAlchemyPotion</TempType>
+    <MaterialCost>1000</MaterialCost>
+    <MaterialRarity>8</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <TimeHours>6</TimeHours>
+    <CheckSkills>
+      <Key>DISC</Key>
+      <Key>LORE</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>4</Difficulty>
+      <Difficulty>4</Difficulty>
+    </CheckDifficulty>
+    <GearProfile>
+      <Encumbrance>0</Encumbrance>
+      <HP>0</HP>
+      <Type>Alchemical Potion</Type>
+      <Rarity>-1</Rarity>
+      <BaseMods>
+        <Mod>
+          <MiscDesc>Target must make an [B]Average ([DI][DI]) Discipline check[b].  If failed, Willpower is counted as 0 for remainder of encounter or 1 hour, increased once per [TH] rolled.</MiscDesc>
+        </Mod>
+        <Mod>
+          <MiscDesc>Cannot be applied to a weapon.  Potion must be ingested</MiscDesc>
+        </Mod>
+      </BaseMods>
+    </GearProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>ALCHPOSTIM</Key>
+    <Name>Stimulant</Name>
+    <Description>
+      [H3]Stimulant[h3]
+      This is an alchemical potion template.  Please enter the description of the finished potion here.
+    </Description>
+    <Source Page="81">Unlimited Power</Source>
+    <TempType>ctAlchemyPotion</TempType>
+    <MaterialCost>400</MaterialCost>
+    <MaterialRarity>4</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <TimeHours>2</TimeHours>
+    <CheckSkills>
+      <Key>DISC</Key>
+      <Key>LORE</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <GearProfile>
+      <Encumbrance>0</Encumbrance>
+      <HP>0</HP>
+      <Type>Alchemical Potion</Type>
+      <Rarity>-1</Rarity>
+      <BaseMods>
+        <Mod>
+          <MiscDesc>When consumed, target increases strain threshold by 5 for remainder of encounter (or one hour).</MiscDesc>
+        </Mod>
+      </BaseMods>
+    </GearProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>ALCHPOWAT</Key>
+    <Name>Water of Life</Name>
+    <Description>
+      [H3]Water of Life[h3]
+      This is an alchemical potion template.  Please enter the description of the finished potion here.
+    </Description>
+    <Source Page="81">Unlimited Power</Source>
+    <TempType>ctAlchemyPotion</TempType>
+    <MaterialCost>1000</MaterialCost>
+    <MaterialRarity>10</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <TimeHours>8</TimeHours>
+    <CheckSkills>
+      <Key>DISC</Key>
+      <Key>LORE</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>5</Difficulty>
+      <Difficulty>5</Difficulty>
+    </CheckDifficulty>
+    <GearProfile>
+      <Encumbrance>0</Encumbrance>
+      <HP>0</HP>
+      <Type>Alchemical Potion</Type>
+      <Rarity>-1</Rarity>
+      <BaseMods>
+        <Mod>
+          <MiscDesc>When consumed, target heals all wounds and strain they are currently suffering.</MiscDesc>
+        </Mod>
+        <Mod>
+          <MiscDesc>If target died during the current encounter, target makes a [B]Daunting ([DI][DI][DI][DI]) Discipline[b] or [B]Resilience check[b]. If successful, they come back to life and heal one Critical Injury.</MiscDesc>
+        </Mod>
+        <Mod>
+          <MiscDesc>If consumed while making a Force power check, suffer 1 Conflict and gain [LI][DA].  If making a Conjure check, add [LI][LI][DA][DA] instead.</MiscDesc>
+        </Mod>
+      </BaseMods>
+    </GearProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>ALCHPOWEAK</Key>
+    <Name>Weakening Potion</Name>
+    <Description>
+      [H3]Weakening Potion[h3]
+      This is an alchemical potion template.  Please enter the description of the finished potion here.
+    </Description>
+    <Source Page="81">Unlimited Power</Source>
+    <TempType>ctAlchemyPotion</TempType>
+    <MaterialCost>1000</MaterialCost>
+    <MaterialRarity>6</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <TimeHours>4</TimeHours>
+    <CheckSkills>
+      <Key>DISC</Key>
+      <Key>LORE</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <GearProfile>
+      <Encumbrance>0</Encumbrance>
+      <HP>0</HP>
+      <Type>Alchemical Potion</Type>
+      <Rarity>-1</Rarity>
+      <BaseMods>
+        <Mod>
+          <MiscDesc>Target must immediately make an [B]Average ([DI][DI]) Resilience check[b].  If failed, wound and strain threshold is reduced by half (rounding up) for remainder of encounter (or one hour), increased once per [TH] rolled.</MiscDesc>
+        </Mod>
+      </BaseMods>
+    </GearProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>ALCHTALPOWER</Key>
+    <Name>Amulet of Power</Name>
+    <Description>
+      [H3]Amulet of Power[h3]
+      This is an alchemical talisman template.  Please enter the description of the finished talisman here.
+    </Description>
+    <Source Page="84">Unlimited Power</Source>
+    <TempType>ctAlchemyTalisman</TempType>
+    <MaterialCost>500</MaterialCost>
+    <MaterialRarity>6</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <TimeHours>4</TimeHours>
+    <CheckSkills>
+      <Key>DISC</Key>
+      <Key>LORE</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <GearProfile>
+      <Encumbrance>0</Encumbrance>
+      <HP>0</HP>
+      <Type>Alchemical Talisman</Type>
+      <Rarity>-1</Rarity>
+      <BaseMods>
+        <Mod>
+          <MiscDesc>User may employ talisman to roll 1 additional [FO] when making a Force power check or a skill check.  The talisman then crumbles to dust.</MiscDesc>
+        </Mod>
+      </BaseMods>
+    </GearProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>ALCHTALFEAR</Key>
+    <Name>Fetish of Fear</Name>
+    <Description>
+      [H3]Fetish of Fear[h3]
+      This is an alchemical talisman template.  Please enter the description of the finished talisman here.
+    </Description>
+    <Source Page="84">Unlimited Power</Source>
+    <TempType>ctAlchemyTalisman</TempType>
+    <MaterialCost>300</MaterialCost>
+    <MaterialRarity>4</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <TimeHours>2</TimeHours>
+    <CheckSkills>
+      <Key>DISC</Key>
+      <Key>LORE</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>2</Difficulty>
+      <Difficulty>2</Difficulty>
+    </CheckDifficulty>
+    <GearProfile>
+      <Encumbrance>0</Encumbrance>
+      <HP>0</HP>
+      <Type>Alchemical Talisman</Type>
+      <Rarity>-1</Rarity>
+      <BaseMods>
+        <Mod>
+          <MiscDesc>Target an enemy attempting to move within engaged range to make an [B]Average ([DI][DI]) Fear check[b] as an out-of-turn incidental.  If failed, target cannot perform the move maneuver.</MiscDesc>
+        </Mod>
+      </BaseMods>
+    </GearProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>ALCHTALNEURAL</Key>
+    <Name>Neural Charm</Name>
+    <Description>
+      [H3]Neural Charm[h3]
+      This is an alchemical talisman template.  Please enter the description of the finished talisman here.
+    </Description>
+    <Source Page="84">Unlimited Power</Source>
+    <TempType>ctAlchemyTalisman</TempType>
+    <MaterialCost>1200</MaterialCost>
+    <MaterialRarity>7</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <TimeHours>6</TimeHours>
+    <CheckSkills>
+      <Key>DISC</Key>
+      <Key>LORE</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>4</Difficulty>
+      <Difficulty>4</Difficulty>
+    </CheckDifficulty>
+    <GearProfile>
+      <Encumbrance>0</Encumbrance>
+      <HP>0</HP>
+      <Type>Alchemical Talisman</Type>
+      <Rarity>-1</Rarity>
+      <BaseMods>
+        <Mod>
+          <MiscDesc>When user makes a Knowledge check, may suffer strain up to Intellect to add that many [BO] to check.</MiscDesc>
+        </Mod>
+      </BaseMods>
+    </GearProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>ALCHTALPROT</Key>
+    <Name>Protective Amulet</Name>
+    <Description>
+      [H3]Protective Amulet[h3]
+      This is an alchemical talisman template.  Please enter the description of the finished talisman here.
+    </Description>
+    <Source Page="84">Unlimited Power</Source>
+    <TempType>ctAlchemyTalisman</TempType>
+    <MaterialCost>300</MaterialCost>
+    <MaterialRarity>4</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <TimeHours>3</TimeHours>
+    <CheckSkills>
+      <Key>DISC</Key>
+      <Key>LORE</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>1</Difficulty>
+      <Difficulty>1</Difficulty>
+    </CheckDifficulty>
+    <GearProfile>
+      <Encumbrance>0</Encumbrance>
+      <HP>0</HP>
+      <Type>Alchemical Talisman</Type>
+      <Rarity>-1</Rarity>
+      <BaseMods>
+        <Mod>
+          <MiscDesc>User may ignore environmental affects such as fire, acid, and corrosive atmosphere.  They act as if in a standard gravity field, may breathe underwater and in a vacuum, and may ignore the Burn quality when hit by an attack.</MiscDesc>
+        </Mod>
+      </BaseMods>
+    </GearProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>ALCHTALHEAL</Key>
+    <Name>Healing Accelerant</Name>
+    <Description>
+      [H3]Healing Accelerant[h3]
+      This is an alchemical talisman template.  Please enter the description of the finished talisman here.
+    </Description>
+    <Source Page="84">Unlimited Power</Source>
+    <TempType>ctAlchemyTalisman</TempType>
+    <MaterialCost>600</MaterialCost>
+    <MaterialRarity>5</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <TimeHours>8</TimeHours>
+    <CheckSkills>
+      <Key>DISC</Key>
+      <Key>LORE</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>4</Difficulty>
+      <Difficulty>4</Difficulty>
+    </CheckDifficulty>
+    <GearProfile>
+      <Encumbrance>0</Encumbrance>
+      <HP>0</HP>
+      <Type>Alchemical Talisman</Type>
+      <Rarity>-1</Rarity>
+      <BaseMods>
+        <Mod>
+          <MiscDesc>When recovering strain or wounds, may recover that amount plus 1 instead.</MiscDesc>
+        </Mod>
+      </BaseMods>
+    </GearProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>ALCHTALSHIELD</Key>
+    <Name>Shield Amulet</Name>
+    <Description>
+      [H3]Shield Amulet[h3]
+      This is an alchemical talisman template.  Please enter the description of the finished talisman here.
+    </Description>
+    <Source Page="84">Unlimited Power</Source>
+    <TempType>ctAlchemyTalisman</TempType>
+    <MaterialCost>1000</MaterialCost>
+    <MaterialRarity>8</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <TimeHours>5</TimeHours>
+    <CheckSkills>
+      <Key>DISC</Key>
+      <Key>LORE</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>4</Difficulty>
+      <Difficulty>4</Difficulty>
+    </CheckDifficulty>
+    <GearProfile>
+      <Encumbrance>0</Encumbrance>
+      <HP>0</HP>
+      <Type>Alchemical Talisman</Type>
+      <Rarity>-1</Rarity>
+      <BaseMods>
+        <Mod>
+          <MiscDesc>When taking damage involving a Force power in some way, may choose to reduce damage taken by half (rounding up).</MiscDesc>
+        </Mod>
+      </BaseMods>
+      <Mod>
+        <MiscDesc>May only be used once per session.</MiscDesc>
+      </Mod>
+    </GearProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>ALCHTALFATE</Key>
+    <Name>Talisman of Fate</Name>
+    <Description>
+      [H3]Talisman of Fate[h3]
+      This is an alchemical talisman template.  Please enter the description of the finished talisman here.
+    </Description>
+    <Source Page="84">Unlimited Power</Source>
+    <TempType>ctAlchemyTalisman</TempType>
+    <MaterialCost>4000</MaterialCost>
+    <MaterialRarity>6</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <TimeHours>10</TimeHours>
+    <CheckSkills>
+      <Key>DISC</Key>
+      <Key>LORE</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>3</Difficulty>
+      <Difficulty>3</Difficulty>
+    </CheckDifficulty>
+    <GearProfile>
+      <Encumbrance>0</Encumbrance>
+      <HP>0</HP>
+      <Type>Alchemical Talisman</Type>
+      <Rarity>-1</Rarity>
+      <BaseMods>
+        <Mod>
+          <MiscDesc>When the GM flips a Destiny Point to upgrade the ability or difficulty of a skill check involving the user, the user may downgrade the difficulty of the check.</MiscDesc>
+        </Mod>
+      </BaseMods>
+      <Mod>
+        <MiscDesc>Talisman dissolves after a single use.</MiscDesc>
+      </Mod>
+    </GearProfile>
+  </CraftTemplate>
+  <CraftTemplate>
+    <Key>ALCHTALRESIST</Key>
+    <Name>Token of Resistance</Name>
+    <Description>
+      [H3]Token of Resistance[h3]
+      This is an alchemical talisman template.  Please enter the description of the finished talisman here.
+    </Description>
+    <Source Page="84">Unlimited Power</Source>
+    <TempType>ctAlchemyTalisman</TempType>
+    <MaterialCost>1800</MaterialCost>
+    <MaterialRarity>9</MaterialRarity>
+    <MaterialRestricted>false</MaterialRestricted>
+    <TimeHours>8</TimeHours>
+    <CheckSkills>
+      <Key>DISC</Key>
+      <Key>LORE</Key>
+    </CheckSkills>
+    <CheckDifficulty>
+      <Difficulty>5</Difficulty>
+      <Difficulty>5</Difficulty>
+    </CheckDifficulty>
+    <GearProfile>
+      <Encumbrance>0</Encumbrance>
+      <HP>0</HP>
+      <Type>Alchemical Talisman</Type>
+      <Rarity>-1</Rarity>
+      <BaseMods>
+        <Mod>
+          <MiscDesc>When user is targeted by an opposed social skill check where a Force power is involved, the opposing character rolls one fewer [FO].</MiscDesc>
+        </Mod>
+      </BaseMods>
+    </GearProfile>
+  </CraftTemplate>
+</CraftTemplates>
