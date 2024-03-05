@@ -9,8 +9,8 @@ Force users often have precognitive flashes, experiencing waking dreams or visio
 
 [P]The power of foresight has been used in countless different ways by countless different Force users throughout history. Some use it to gain vague images far into the future, while others use it to predict the movements of their foes or see an unexpected event soon to happen.</Description>
   <Sources>
-    <Source>Age of Rebellion Core Rulebook</Source>
-    <Source>Force and Destiny Core Rulebook</Source>
+    <Source Page="300">Age of Rebellion Core Rulebook</Source>
+    <Source Page="290">Force and Destiny Core Rulebook</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <AbilityRows>
