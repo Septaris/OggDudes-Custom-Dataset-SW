@@ -2,8 +2,7 @@
 This repository aims to fix the plethora of spelling and formatting errors in the original repository.
 When and where I encounter incomplete data, I will also endeavour to add it to ensure the dataset is as complete and comprehensive as possible.
 
-When done, I'll create a pull request to the dataset that I used (X0-11/swDataset), which they'll hopefull merge, if they're still around.
-
+While initially intended to become a pull request, due to the number of issues resolved and amount of effort put in, this will be its own dataset.
 
 # dataset
 Dataset for OggDude's character generator 2.3.4.0.
