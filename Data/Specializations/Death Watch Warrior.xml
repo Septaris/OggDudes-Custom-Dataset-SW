@@ -115,9 +115,11 @@ The Death Watch are either fanatics or patriots, depending which side of their b
         <Direction>
           <Left>true</Left>
           <Up>true</Up>
+          <Down>true</Down>
         </Direction>
         <Direction>
           <Up>true</Up>
+          <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
@@ -137,8 +139,12 @@ The Death Watch are either fanatics or patriots, depending which side of their b
           <Left>true</Left>
           <Up>true</Up>
         </Direction>
-        <Direction />
-        <Direction />
+        <Direction>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Up>true</Up>
+        </Direction>
       </Directions>
     </TalentRow>
   </TalentRows>
