@@ -11,7 +11,7 @@
 [P]This upgrade may be taken up to four additional times, each time increasing the profits received by 100 credits.
 
 [P][B]Upgrade Cost:[b] 2500 credits or +2 Obligation</Description>
-    <Source>Far Horizons</Source>
+    <Source Page="83">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>5</PurchaseCount>
     <MonthlyProfit>100</MonthlyProfit>
@@ -40,7 +40,7 @@
 [P]This upgrade may be purchased two additional times, each time selecting a different option.
 
 [P][B]Upgrade Cost:[b] 10,000 credits or +2 Obligation</Description>
-    <Source>Far Horizons</Source>
+    <Source Page="83">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>3</PurchaseCount>
     <Cost>
@@ -66,9 +66,6 @@
         <PurchaseCount>1</PurchaseCount>
         <NPCs>
           <Adversary>
-            <LastChanged>0001-01-01T00:00:00</LastChanged>
-            <NotPersisted>false</NotPersisted>
-            <FileName>Adver0.xml</FileName>
             <Name>Security Droid</Name>
             <Key>84a95648-9fb5-4306-b124-d98259709240</Key>
             <Characteristics>
@@ -132,10 +129,7 @@
                 </Rank>
               </CharSkill>
             </Skills>
-            <Experience>
-              <ExperienceRanks />
-              <UsedExperience>0</UsedExperience>
-            </Experience>
+            <Experience />
             <Attributes>
               <SoakValue>
                 <CharRanks>2</CharRanks>
@@ -172,7 +166,7 @@
                 <Key>0</Key>
                 <Name>Snare Launcher</Name>
                 <SkillKey>RANGLT</SkillKey>
-                <Crit>5</Crit>
+                <Crit>0</Crit>
                 <Descriptors>
                   <Descriptor>
                     <Key>ENSNARE</Key>
@@ -232,7 +226,7 @@
 
 [P][B]Upgrade Cost:[b] 2,000 credits or + 1 Obligation 
 </Description>
-    <Source>Far Horizons</Source>
+    <Source Page="83">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>4</PurchaseCount>
     <Cost>
@@ -250,9 +244,6 @@
         <PurchaseCount>1</PurchaseCount>
         <NPCs>
           <Adversary>
-            <LastChanged>0001-01-01T00:00:00</LastChanged>
-            <NotPersisted>false</NotPersisted>
-            <FileName>Adver0.xml</FileName>
             <Name>NPC Merchant</Name>
             <Key>b0e83b0d-fa09-4ad8-8847-3ff204f74df0</Key>
             <Characteristics>
@@ -319,10 +310,7 @@
                 </Rank>
               </CharSkill>
             </Skills>
-            <Experience>
-              <ExperienceRanks />
-              <UsedExperience>0</UsedExperience>
-            </Experience>
+            <Experience />
             <Attributes>
               <SoakValue />
               <WoundThreshold>
@@ -333,6 +321,7 @@
               <DefenseMelee />
               <ForceRating />
             </Attributes>
+            <AutoRecalc>true</AutoRecalc>
             <Type>Rival</Type>
           </Adversary>
         </NPCs>
@@ -347,9 +336,6 @@
         <PurchaseCount>1</PurchaseCount>
         <NPCs>
           <Adversary>
-            <LastChanged>0001-01-01T00:00:00</LastChanged>
-            <NotPersisted>false</NotPersisted>
-            <FileName>Adver0.xml</FileName>
             <Name>NPC Doctor</Name>
             <Key>7f627ac2-b808-4c5b-beb2-423f6c3bbc2d</Key>
             <Characteristics>
@@ -410,10 +396,7 @@
                 </Rank>
               </CharSkill>
             </Skills>
-            <Experience>
-              <ExperienceRanks />
-              <UsedExperience>0</UsedExperience>
-            </Experience>
+            <Experience />
             <Attributes>
               <SoakValue />
               <WoundThreshold>
@@ -433,6 +416,7 @@
                 <Count>1</Count>
               </CharGear>
             </Gear>
+            <AutoRecalc>true</AutoRecalc>
             <Type>Rival</Type>
           </Adversary>
         </NPCs>
@@ -447,9 +431,6 @@
         <PurchaseCount>1</PurchaseCount>
         <NPCs>
           <Adversary>
-            <LastChanged>0001-01-01T00:00:00</LastChanged>
-            <NotPersisted>false</NotPersisted>
-            <FileName>Adver0.xml</FileName>
             <Name>NPC Mechanic</Name>
             <Key>894dc101-2e47-437e-b207-851ebca31d8a</Key>
             <Characteristics>
@@ -1749,5 +1730,124 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
     <Cost>
       <Credits>2100</Credits>
     </Cost>
+  </BaseUpgrade>
+  <BaseUpgrade>
+    <Key>CIVREFITHANG</Key>
+    <Name>Civilian Refit:  Hidden Hanger</Name>
+    <Description>[H4]Civilian Refit:  Hidden Hanger[h4]
+The facility includes a large, reinforced room along with a wide passageway so that small vehicles can be stored inside and kept out of sight from Imperial eyes.[BR]
+This upgrade allows four vehicles of silhouette 2 or smaller to be secured inside the base.[BR]
+This upgrade may be purchased one additional time. </Description>
+    <Source Page="75">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+    <PurchaseCount>2</PurchaseCount>
+    <MonthlyProfit>0</MonthlyProfit>
+    <ProfitPerPC>false</ProfitPerPC>
+    <CivilianRefit>true</CivilianRefit>
+    <Cost>
+      <Credits>600</Credits>
+      <Obligation>0</Obligation>
+    </Cost>
+    <Options />
+  </BaseUpgrade>
+  <BaseUpgrade>
+    <Key>CIVREFITINFIRM</Key>
+    <Name>Civilian Refit:  Infirmary</Name>
+    <Description>[H4]Civilian Refit:  Infirmary[h4]
+The facility includes a basic infirmary stocked to handle basic medical crises. The infirmary has cots and treatment space tor three patients, medical supplies (allowing characters to perform Medicine checks without penalty), and one bacta tank with supplies of bacta. [BR]
+This upgrade may be taken up to two additional times, increasing the number of patients it can accommodate by three and the number of bacta tanks by one each time.     </Description>
+    <Source Page="75">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+    <PurchaseCount>3</PurchaseCount>
+    <MonthlyProfit>0</MonthlyProfit>
+    <ProfitPerPC>false</ProfitPerPC>
+    <CivilianRefit>true</CivilianRefit>
+    <Cost>
+      <Credits>2400</Credits>
+      <Obligation>0</Obligation>
+    </Cost>
+    <Options />
+  </BaseUpgrade>
+  <BaseUpgrade>
+    <Key>CIVREFITREPAIR</Key>
+    <Name>Civilian Refit:  Repair Room</Name>
+    <Description>[H4]Civilian Refit:  Repair Room[h4]
+The facility has a tool room filled with spare parts and salvaged components gathered from junk yards and firefights. This allows characters to perform Mechanics checks to repair and modify weapons and armor without penalty. [AD][AD] can be spent as [SU] on such checks here, but the GM can spend [DE] to exhaust its contents and the characters must spend 100 credits to restock the room before using it again.[P] 
+This upgrade can only be taken once. </Description>
+    <Source Page="75">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+    <PurchaseCount>1</PurchaseCount>
+    <MonthlyProfit>0</MonthlyProfit>
+    <ProfitPerPC>false</ProfitPerPC>
+    <CivilianRefit>true</CivilianRefit>
+    <Cost>
+      <Credits>350</Credits>
+      <Obligation>0</Obligation>
+    </Cost>
+    <Options />
+  </BaseUpgrade>
+  <BaseUpgrade>
+    <Key>CIVREFITSEC</Key>
+    <Name>Civilian Refit:  Security Upgrades</Name>
+    <Description>[H4]Civilian Refit:  Security Upgrades[h4]
+The once-civilian facility's security improves somewhat, better protecting the Rebels within. When this upgrade is purchased, select one of the following: [BR]
+• The exterior doors of the building gain better locks that can only be opened with a special electronic key, an [B]Average ([DI][DI]) Computers check[b], or a [B]Hard ([DI][DI][DI]) Skulduggery check[b].[BR] • The structure of the facility is reinforced, giving it an armor value of I (weapons unable to inflict more than 1 planetary scale damage cannot damage the facility). 
+[BR]• The building's walls are fitted with scanner baffles and sound deadening insulation, which increase the difficulty of checks to detect life signs, movement, sounds, and other signs of activity within once. 
+[BR]• The facility gains security cameras that can be monitored on terminals throughout the facility. 
+[BR]• The facility has a disguised entrance set along a rubble-strewn wall or seemingly solid window paneling, detectable only though a [B]Hard ([DI][DI][DI]) Perception check[b]. [P]This upgrade may be purchased four additional times, each time with a different option selected.    </Description>
+    <Source Page="75">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+    <PurchaseCount>5</PurchaseCount>
+    <MonthlyProfit>0</MonthlyProfit>
+    <ProfitPerPC>false</ProfitPerPC>
+    <CivilianRefit>true</CivilianRefit>
+    <Cost>
+      <Credits>2250</Credits>
+      <Obligation>0</Obligation>
+    </Cost>
+    <Options>
+      <Option>
+        <Key>CIVREFITSEC1</Key>
+        <Name>Better Locks</Name>
+        <Description>
+          Exterior doors gain better locks that can only
+          be opened with an electronic key, an [B]Average ([DI][DI]) Computers check[b], or a [B]Hard ([DI][DI][DI]) Skulduggery check[b].
+        </Description>
+        <PurchaseCount>1</PurchaseCount>
+      </Option>
+      <Option>
+        <Key>CIVREFITSEC2</Key>
+        <Name>Reinforced Structure</Name>
+        <Description>
+          Structure of the facility is reinforced, giving it armor value of 1.
+        </Description>
+        <PurchaseCount>1</PurchaseCount>
+      </Option>
+      <Option>
+        <Key>CIVREFITSEC3</Key>
+        <Name>Baffled Walls</Name>
+        <Description>
+          Facility's walls are fitted with scanner baffles and sound deadening insulation.  All checks to detect
+          life signs, movement, sounds, and other activity are increased once.
+        </Description>
+        <PurchaseCount>1</PurchaseCount>
+      </Option>
+      <Option>
+        <Key>CIVREFITSEC4</Key>
+        <Name>Security Cameras</Name>
+        <Description>
+          Facility gains security cameras that can be monitored throughout the facility.
+        </Description>
+        <PurchaseCount>1</PurchaseCount>
+      </Option>
+      <Option>
+        <Key>CIVREFITSEC5</Key>
+        <Name>Disguised Entrance</Name>
+        <Description>
+          Facility's entrance is only detectable with a [B]Hard ([DI][DI][DI]) Perception check[b].
+        </Description>
+        <PurchaseCount>1</PurchaseCount>
+      </Option>
+    </Options>
   </BaseUpgrade>
 </BaseUpgrades>
