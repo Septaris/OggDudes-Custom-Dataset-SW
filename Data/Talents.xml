@@ -7695,5 +7695,31 @@
     <Source Page="43">Collapse of the Republic</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taAction</ActivationValue>
+  </Talent>  
+  <!-- Dawn of Rebellion --> 
+  <Talent>
+    <Key>ASFORCEWILLS</Key>
+    <Name>As the Force Wills It</Name>
+    <Description>The character may make an [B]Easy ([DI]) Knowledge (Lore) check[b] (instead of Discipline or Cool) to heal strain at the end of an encounter. [TR] can be spent to heal all strain.</Description>
+    <Source Page="111">Dawn of Rebellion</Source>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+  </Talent>  
+  <Talent>
+    <Key>PREPBOARD</Key>
+    <Name>Prepare to be Boarded!</Name>
+    <Description>Once per encounter the character may take the Prepare to be Boarded! action by making an [B]opposed Coercion vs. Discipline check[b] targeting an enemy ship captain (this can be via electronic means). If successful, the enemy suffers one strain per uncanceled [SU]. The character may also spend [TR] or [AD][AD][AD][AD] to inflict additional strain equal to his rank in Coercion. Should the enemy exceed his strain threshold as a result of resolving this check, the enemy surrenders his ship to the character.</Description>
+    <Source Page="115">Dawn of Rebellion</Source>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taAction</ActivationValue>
+  </Talent>  
+  <Talent>
+    <Key>TRUSTCAP</Key>
+    <Name>Trust the Captain</Name>
+    <Description>The character may take the Trust the Captain action by making a [B]Hard ([DI][DI][DI]) Leadership check[b]. If successful, for the remainder of the encounter all allies within short range increase their ranks in Discipline by an amount equal to the character's ranks in Trust the Captain.</Description>
+    <Source Page="116">Dawn of Rebellion</Source>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <Ranked>true</Ranked>
   </Talent>
 </Talents>
