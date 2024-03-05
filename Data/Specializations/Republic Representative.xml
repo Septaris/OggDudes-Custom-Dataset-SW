@@ -144,4 +144,10 @@ Resolving the conflicts of thousands of civilizations across the galaxy is a col
     </TalentRow>
   </TalentRows>
   <Universal>true</Universal>
+  <AddlCareerSkills>
+    <SkillCount>1</SkillCount>
+    <ChooseByType>true</ChooseByType>
+    <TypeValue>stKnowledge</TypeValue>
+    <SkillCount>1</SkillCount>
+  </AddlCareerSkills>
 </Specialization>
