@@ -3,69 +3,11 @@
   <Key>FIGUREHEAD</Key>
   <Name>Figurehead</Name>
   <Description>[H4]Figurehead - Charismatic Leaders[h4]
-
-Figureheads generally come from civilian backgrounds
-and aren’t necessarily a part of the Alliance
-Military’s chain of command. They rely on their reputations,
-political connections, and charisma to accomplish
-their goals. Though their aims might not align
-perfectly with those of the other Commander careers,
-the respect they command due to their political legacies
-ensures that they continue
-to be a motivating factor in both
-political and military circles within
-the Rebel Alliance. Examples of
-Figureheads in the Rebel Alliance
-include Mon Mothma and
-the late Bail Organa, as well
-as his adopted daughter,
-Princess Leia
-Organa.
-[P]Figureheads receive [B]Cool, Leadership, Negotiation,[b]
-and [B]Knowledge (Core Worlds)[b] as additional career
-skills. If this is the character’s starting specialization,
-the player may choose two of these skills and gain
-one free rank in each without spending experience.
-Many Commanders focus their social aptitudes on
-skills that help them get people to do what they want,
-such as Coercion. Figureheads, on the other hand, get
-what they want through subtle manipulations, preferring
-to persuade those under their command to do
-what must be done.
-[P]Much of a Figurehead’s repertoire consists of personal
-fortitude, as bearing the hopes and fears of
-their people is a Figurehead’s primary focus. Cool
-is especially important, for it allows a Figurehead
-to gain the trust and admiration of subordinates.
-Figureheads’ demeanor must inspire those who
-admire them, allowing their followers to overcome
-their personal qualms—including fear—in order to
-strike a blow against the Galactic Empire. Whether
-this inspiring quality applies to a Figurehead’s physical
-appearance depends on the character’s personal
-style; many Figureheads have turned their scars and
-the wounds they’ve suffered into inspirational messages
-all their own.
-[P]Figureheads who take a more active role in resisting
-the Empire's oppression often do so through
-leadership and inspiration. The confidence and
-know-how of a trained leader is much more convincing
-under fire than good looks and a pithy slogan.
-Seeing action in combat also serves to bolster a Figurehead’s
-reputation within the military, as Figureheads
-not only know how to “talk the talk,” but to
-“walk the walk” as well.
-[P]As many Figureheads got their start in the political
-arenas of the Core Worlds, it’s no surprise that most of
-them know a thing or two about where they’ve come
-from. Not only do they have extensive knowledge of
-Core World political systems—including those of the
-now-defunct Republic—but they also have information
-about which Core Worlds systems are more or less
-opposed to the Empire. Such information can be valuable
-when deciding which systems to approach for help
-or determining where a group of Rebels in a pinch might
-be able to seek refuge.</Description>
+Figureheads generally come from civilian backgrounds and aren’t necessarily a part of the Alliance Military’s chain of command. They rely on their reputations, political connections, and charisma to accomplish their goals. Though their aims might not align perfectly with those of the other Commander careers, the respect they command due to their political legacies ensures that they continue to be a motivating factor in both political and military circles within the Rebel Alliance. Examples of Figureheads in the Rebel Alliance include Mon Mothma and the late Bail Organa, as well as his adopted daughter, Princess Leia Organa.
+[P]Figureheads receive [B]Cool, Leadership, Negotiation,[b] and [B]Knowledge (Core Worlds)[b] as additional career skills. If this is the character’s starting specialization, the player may choose two of these skills and gain one free rank in each without spending experience. Many Commanders focus their social aptitudes on skills that help them get people to do what they want, such as Coercion. Figureheads, on the other hand, get what they want through subtle manipulations, preferring to persuade those under their command to do what must be done.
+[P]Much of a Figurehead’s repertoire consists of personal fortitude, as bearing the hopes and fears of their people is a Figurehead’s primary focus. Cool is especially important, for it allows a Figurehead to gain the trust and admiration of subordinates. Figureheads’ demeanor must inspire those who admire them, allowing their followers to overcome their personal qualms—including fear—in order to strike a blow against the Galactic Empire. Whether this inspiring quality applies to a Figurehead’s physical appearance depends on the character’s personal style; many Figureheads have turned their scars and the wounds they’ve suffered into inspirational messages all their own.
+[P]Figureheads who take a more active role in resisting the Empire's oppression often do so through leadership and inspiration. The confidence and know-how of a trained leader is much more convincing under fire than good looks and a pithy slogan. Seeing action in combat also serves to bolster a Figurehead’s reputation within the military, as Figureheads not only know how to “talk the talk,” but to “walk the walk” as well.
+[P]As many Figureheads got their start in the political arenas of the Core Worlds, it’s no surprise that most of them know a thing or two about where they’ve come from. Not only do they have extensive knowledge of Core World political systems—including those of the now-defunct Republic—but they also have information about which Core Worlds systems are more or less opposed to the Empire. Such information can be valuable when deciding which systems to approach for help or determining where a group of Rebels in a pinch might be able to seek refuge.</Description>
   <Source Page="28">Lead by Example</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>

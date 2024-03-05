@@ -4,13 +4,9 @@
   <Name>Commando</Name>
   <Description>
     [H4]Commando - Strike the Target[h4]
-
 Commandos are specialists trained to strike the enemy from unexpected directions to do the most damage in the most vulnerable locations. Commando teams are often used like surgical instruments by the commanders who have access to them. A Commando knows how to find a target, attack it, disable it, survive the aftermath, and find his way home.
-
 [P]Commandos gain [B]Brawl, Melee, Resilience,[b] and [B]Survival[b] as additional career skills. If Commando is the character's first specialization, two of these new career skills gain a free rank each. Commandos are masters of close combat and surviving in all conditions. They are usually good at sneaking past enemy guards and listening posts as well.
-
 [P]For any team, a Commando is a fine general-purpose combat specialist to have around. He handles fights well (especially hand-to-hand situations), and can manage in almost any high-stress situation. More often than not, he's also effective as backup during covert operations. Matters of overall philosophy or strategy rarely concern a Commando; he's almost always focused on the mission at hand or training to ensure he and his companions survive the next one.
-
 [P]As stand-up confrontations are normally a losing proposition for the Alliance, the Commandos are some of the most important and effective soldiers fighting for the Rebellion. Their capacity to surgically strike at Imperial targets, as well as their value as guards and support personnel for other specialists operating on behalf of the Alliance, makes any single one of them worth more than a platoon of stormtroopers.</Description>
   <Source Page="91">Age of Rebellion Core Rulebook</Source>
   <Custom>DescOnly</Custom>

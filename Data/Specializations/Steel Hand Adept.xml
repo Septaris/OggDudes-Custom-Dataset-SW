@@ -3,7 +3,6 @@
   <Key>STEELHAND</Key>
   <Name>Steel Hand Adept</Name>
   <Description>[H4]Steel Hand Adept - Unarmed and Dangerous[h4]
-
 The Jedi were known for, and even symbolized by, their distinctive use of lightsabers. For those who also know of the Sith and their own use of lightsabers, it would seem that these weapons are a universal feature of Force users. This was never truly the case, especially not in this age of the Empire, when most Force sensitives must do without formal training in any Force tradition. Through necessity or choice, Force users do battle with a variety of weapons, from vibro-axes to repeating blasters. And some fight with no weapons at all.
 [P]Steel Hand Adepts gain [B]Brawl, Coordination, Discipline,[b] and [B]Vigilance[b] as additional career skills. If this is the character's starting specialization, the player chooses two of these skills and gains one free rank in each, without spending starting experience. These skills allow Adepts to fight with, their mind and body in perfect harmony, and with mastery over both.
 [P]Countless martial arts disciplines have focused on unarmed combat through the millennia, from Ter&amp;auml;s K&amp;auml;si to Zavat.
@@ -44,7 +43,7 @@ The Jedi were known for, and even symbolized by, their distinctive use of lights
       <Cost>10</Cost>
       <Talents>
         <Key>MARTIALGRACE</Key>
-        <Key>ACKLAY</Key>
+        <Key>ACKLAYSCST</Key>
         <Key>UNARMPARRY</Key>
         <Key>PRECSTR</Key>
       </Talents>
@@ -101,7 +100,7 @@ The Jedi were known for, and even symbolized by, their distinctive use of lights
     <TalentRow>
       <Cost>20</Cost>
       <Talents>
-        <Key>IMPDODGE</Key>
+        <Key>DODGEIMP</Key>
         <Key>TOUGH</Key>
         <Key>GRIT</Key>
         <Key>SAPITHSUND</Key>
