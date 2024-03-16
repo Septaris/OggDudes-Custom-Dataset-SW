@@ -854,7 +854,7 @@
   <Talent>
     <Key>GEARHD</Key>
     <Name>Gearhead</Name>
-    <Description>Remove [SE] per rank of Gearhead from Mechanics checks. Have the credit cost to add mods to attachments.</Description>
+    <Description>Remove [SE] per rank of Gearhead from Mechanics checks. Halve the credit cost to add mods to attachments.</Description>
     <Sources>
       <Source Page="136">Edge of the Empire Core Rulebook</Source>
       <Source Page="148">Age of Rebellion Core Rulebook</Source>
@@ -1809,7 +1809,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <LessStrain>1</LessStrain>
   </Talent>
   <Talent>
     <Key>RESPSCHOL</Key>
@@ -3990,7 +3989,7 @@
       <SilhouetteBase>3</SilhouetteBase>
       <BaseMods>
         <Mod>
-          <MiscDesc>Upgrade the ability of all Mechanics checks made to work on this vehicle once.</MiscDesc>
+          <Key>SIGVEHMOD</Key>
           <Count>1</Count>
         </Mod>
       </BaseMods>
@@ -4577,7 +4576,7 @@
   <Talent>
     <Key>CYBERNETICIST</Key>
     <Name>Cyberneticist</Name>
-    <Description>Remove [SE] per rank of Cyberneticist from checks to build, repair, and install cybernetic implants . Cybernetics cost 50% less.</Description>
+    <Description>Remove [SE] per rank of Cyberneticist from checks to build, repair, and install cybernetic implants. Cybernetics cost 50% less.</Description>
     <Source Page="34">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
@@ -5560,7 +5559,7 @@
   <Talent>
     <Key>SECRETLORE</Key>
     <Name>Secret Lore</Name>
-    <Description>Remove [SE] per rank or Secret Lore from all Knowledge (Lore) checks. Reduce the difficulty of all Knowledge (Lore) checks by 1.</Description>
+    <Description>Remove [SE] per rank of Secret Lore from all Knowledge (Lore) checks. Reduce the difficulty of all Knowledge (Lore) checks by 1.</Description>
     <Sources>
       <Source Page="33">Unlimited Power</Source>
     </Sources>
@@ -5589,17 +5588,6 @@
     <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
-    <DieModifiers>
-      <DieModifier>
-        <SkillKey>LORE</SkillKey>
-        <SetbackCount>1</SetbackCount>
-      </DieModifier>
-      <DieModifier>
-        <SkillKey>LORE</SkillKey>
-        <DecreaseDifficulty>1</DecreaseDifficulty>
-        <ApplyOnce>true</ApplyOnce>
-      </DieModifier>
-    </DieModifiers>
   </Talent>
   <Talent>
     <Key>ACKLAYSCST</Key>
@@ -6312,7 +6300,7 @@
       <Source Page="42">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <ActivationValue>taIncidental</ActivationValue>
+    <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <Conflict>1</Conflict>
     <SkillChars>
@@ -6470,15 +6458,6 @@
     <Source>User Data</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <SkillChars>
       <SkillChar>
         <SkillKey>COOL</SkillKey>
@@ -6493,15 +6472,6 @@
     <Source>User Data</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <SkillChars>
       <SkillChar>
         <SkillKey>MELEE</SkillKey>

@@ -11307,4 +11307,22 @@ Some physical alterations, no matter how extensive, can't fool the piercing eyes
       </Mod>
     </BaseMods>
   </ItemAttachment>
+    <ItemAttachment>
+    <Key>SIGVEHMOD</Key>
+    <Name>Signature Vehicle</Name>
+    <Description>[H3]Signature Vehicle[h3]
+Choose one starship or vehicle as Signature Vehicle Upgrade all Mechanics checks made on that vehicle once.</Description>
+    <Sources>
+      <Source Page="33">Stay on Target</Source>
+      <Source Page="35">Special Modifications</Source>
+    </Sources>
+    <Custom>AddedItem</Custom>
+    <Type>Vehicle</Type>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Upgrade the ability of all Mechanics checks made to work on this vehicle once.</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </ItemAttachment>
 </ItemAttachments>
