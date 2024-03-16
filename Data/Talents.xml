@@ -126,7 +126,6 @@
     <Source Page="143">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <JuryRigged>false</JuryRigged>
     <ChooseCareerSkills>
       <SkillCount>0</SkillCount>
       <NewSkills>
@@ -3664,7 +3663,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>BIGGESTFAN</Key>
@@ -3673,7 +3671,6 @@
     <Source Page="32">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taAction</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>CONGENIAL</Key>
@@ -3708,7 +3705,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>DISBEHIMP</Key>
@@ -3717,7 +3713,6 @@
     <Source Page="33">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>DECEPTAUNT</Key>
@@ -3726,7 +3721,6 @@
     <Source Page="32">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taAction</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>GOODCOP</Key>
@@ -3740,7 +3734,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>NATATHL</Key>
@@ -3752,7 +3745,6 @@
     </Sources>
     <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>NATMERCH</Key>
@@ -3761,7 +3753,6 @@
     <Source Page="33">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>THROWCRED</Key>
@@ -3770,7 +3761,6 @@
     <Source Page="33">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>UNRELSKEP</Key>
@@ -3790,7 +3780,6 @@
     <Source Page="33">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>BEASTWRANG</Key>
@@ -3800,7 +3789,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>BOLSTARMOR</Key>
