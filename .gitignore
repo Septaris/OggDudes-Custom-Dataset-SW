@@ -1255,3 +1255,6 @@ x86/sqlceme40.dll
 x86/sqlceqp40.dll
 x86/sqlcese40.dll
 Data/Talents.xml.bak
+
+# IDE
+.vscode
