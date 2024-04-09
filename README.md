@@ -12,7 +12,7 @@ Run the Character Generator launcher `SWCharGenLauncher.exe` and set the `Data P
 
 ## Usage
 
-The dataset is ready to use. You can create characters, vehicles, starships, etc. as you would with the default dataset.
+The dataset is ready to use. Start the Character Generator and create a new character. You will see the full description of the species, careers, specializations, etc. in the appropriate tabs.
 
 ## Contributing
 
