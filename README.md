@@ -1,36 +1,25 @@
+Dataset for OggDude's character generator 2.3.4.0.
+
 ## Installation
 
 Create a folder where you will store the Character Generator and the dataset. Create two subfolders, one called `character_generator` and the other called `custom_dataset`.
 
-
 Download the [OggDude's Character Generator](https://www.swrpgcommunity.com/gm-resources/apps-dice-utilities/oggdudes-generator) zip file and unzip it inside the `character_generator` folder. Executables and other files should be unzipped right into the `character_generator` folder, not into a subfolder.
 
+Download the latest dataset from this repository and move the `DataCustom` folder into the `custom_dataset` folder. (You can delete the rest of the files and folders from the zip file.)
 
-Download the latest dataset from the [releases page]() and unzip it to a folder.
+Run the Character Generator launcher `SWCharGenLauncher.exe` and set the `Data Path` to the `custom_dataset` folder. If you prefer, you can use relative path but you will have to check the `Make path relative to install directory` checkbox.
 
-Run the Character Generator launcher `SWCharGenLauncher.exe`
+## Usage
 
-**AvDalfsen addition:**
-This repository aims to fix the plethora of spelling and formatting errors in the original repository.
-When and where I encounter incomplete data, I will also endeavour to add it to ensure the dataset is as complete and comprehensive as possible.
+The dataset is ready to use. You can create characters, vehicles, starships, etc. as you would with the default dataset.
 
-While initially intended to become a pull request, due to the number of issues resolved and amount of effort put in, this will be its own dataset.
+## Contributing
 
-# dataset
-Dataset for OggDude's character generator 2.3.4.0.
+If you want to contribute to the dataset, you can do so by forking the repository, making changes and creating a pull request. Please make sure to follow the [contribution guidelines](CONTRIBUTING.md).
 
-Master has a stable version. The Develop branch is where I push out fixes.
+## Acknowledgements
 
-If the file is downloaded using the "Clone or download" button, and in a zip file, the name will be dataset-master.zip. Github zips up the file using "Repository - Branch" format. 
+The dataset's quality is almost entirely because of the hard work of @nlx3647 and @AvDalfsen. Thank you both for your dedication and effort. And thanks to all the contributors who have helped (and will help) improve the dataset
 
-I recommend unzipping the file, where you'll find a folder called dataset-master. In that folder you'll find the DataSet_Full DataSet folder that you need.
-
-There are 2 ways to get the data into the tool. One is to zip up the DataSet_Full DataSet folder calling it Whatever-you-likeSWDataset.zip, which can be imported through the Data Editor. The tool defaults to wanting SWDataset.zip as file extension, if you will. Yes, I know .zip is the file extenstion, but "don't get technical with me".
-
-The other option is close the tool, open the folder Characters, then drill down to DataCustom, and that's where you drop the extracted "DataSet_Full DataSet" folder into. The launcher can also tell if you did it right: clicking Data Info will tell you have adversaries, characters or DataCustom in there. Open up the GM tool to cache the objects (of course clearing your previous cache first), and you should be good to go.
-
-Mind you, this is how I do it, and this might not work for everyone. My character generator also runs in Portable mode, since mine is in Dropbox, and the paths to the datasets might not be the same on the computers that I sync to.
-
-And because I haven't mentioned him, an enormous amount of credit to Oggdude, who personally has made it a ton of fun just to create characters, and more characters, and moved mountains, and still does, for us to be able to do so.
-
-Also don't forget to check out Stoo Goff's Adversaries tool: http://swa.stoogoff.com/.
+And of course, thanks to OggDude for creating the Character Generator and making it available to the community.
