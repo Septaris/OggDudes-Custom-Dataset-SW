@@ -16,7 +16,7 @@ The dataset is ready to use. You can create characters, vehicles, starships, etc
 
 ## Contributing
 
-If you want to contribute to the dataset, you can do so by forking the repository, making changes and creating a pull request. Please make sure to follow the [contribution guidelines](CONTRIBUTING.md).
+If you want to contribute to the dataset, you can do so by forking the repository, making changes and creating a pull request.
 
 ## Acknowledgements
 
