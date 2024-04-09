@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Key>SHEATHIPEDESPY</Key>
+  <Name>Sheathipede-Class Spy Shuttle</Name>
+  <Description>[H3][I]Sheathipede[i] - Class Spy Shuttle[h3]
+Please see sidebar on page 74 of the Rise of the Separatists Sourcebook for details.</Description>
+  <Sources>
+    <Source Page="74">Rise of the Separatists</Source>
+  </Sources>
+  <Custom>AddedItem</Custom>
+  <BuiltInAttachments>
+    <Key>SPYBRAIN</Key>
+  </BuiltInAttachments>
+  <Type>Shuttle</Type>
+  <Categories>
+    <Category>Starship</Category>
+    <Category>Non-Fighter Starship</Category>
+  </Categories>
+  <HP>2</HP>
+  <Price>120000</Price>
+  <Rarity>6</Rarity>
+  <BaseMods>
+    <Mod>
+      <Count>1</Count>
+      <MiscDesc>[B]Sensor Package[b]:  Grants [AD] on any rolls made to intercept communications.</MiscDesc>
+    </Mod>
+    <Mod>
+      <Count>1</Count>
+      <MiscDesc>[B]Self-Destruct[b]:  In case of imminent capture, the ship can be set to self-destruct.</MiscDesc>
+    </Mod>
+  </BaseMods>
+  <HyperdrivePrimary>1</HyperdrivePrimary>
+  <HyperdriveBackup>10</HyperdriveBackup>
+  <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srLong</SensorRangeValue>
+  <Crew>One pilot, one co-pilot, one comms operator, one engineer</Crew>
+  <EncumbranceCapacity>150</EncumbranceCapacity>
+  <Consumables>Two months</Consumables>
+  <Silhouette>4</Silhouette>
+  <Speed>3</Speed>
+  <Handling>1</Handling>
+  <DefFore>1</DefFore>
+  <DefAft>1</DefAft>
+  <Armor>4</Armor>
+  <HullTrauma>25</HullTrauma>
+  <SystemStrain>15</SystemStrain>
+  <Starship>true</Starship>
+  <SensorRange>Long</SensorRange>
+</Vehicle>

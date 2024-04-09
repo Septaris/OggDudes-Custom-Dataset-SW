@@ -1,0 +1,4250 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CraftImprovements>
+  
+  <!-- Armor - Positive -->
+  <CraftImprovement>
+    <TempType>ctArmor</TempType>
+    <Key>IMPARMPRAC</Key>
+    <Source Page="91">Keeping the Peace</Source>
+    <Name>Practice Makes Perfect</Name>
+    <Description>
+      Character learns something valuable and gains [BO] on next check with same skill.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctArmor</TempType>
+    <Key>IMPARMLIGHT</Key>
+    <Source Page="91">Keeping the Peace</Source>
+    <Name>Lightweight</Name>
+    <Description>
+      Reduce encumbrance by 1.
+    </Description>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <EncumbranceChange>-1</EncumbranceChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctArmor</TempType>
+    <Key>IMPARMSEAL</Key>
+    <Source Page="91">Keeping the Peace</Source>
+    <Name>Sealable</Name>
+    <Description>
+      Armor can take the Vacuum Sealed attachment.
+    </Description>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <AddedCategories>
+      <Category>Sealable</Category>
+      <Category>Full Body</Category>
+    </AddedCategories>
+    <RemovedCategories>
+      <Category>Half Body</Category>
+    </RemovedCategories>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctArmor</TempType>
+    <Key>IMPARMLESSON</Key>
+    <Source Page="91">Keeping the Peace</Source>
+    <Name>Lessons Learned</Name>
+    <Description>
+      Reduce difficulty of next crafting check by 1.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctArmor</TempType>
+    <Key>IMPARMMDEF</Key>
+    <Source Page="91">Keeping the Peace</Source>
+    <Name>Extra Melee Defense</Name>
+    <Description>
+      Add +1 melee defense to armor.
+    </Description>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <Key>MELEEDEFADD</Key>
+        <Count>1</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctArmor</TempType>
+    <Key>IMPARMSPECEMB</Key>
+    <Source Page="91">Keeping the Peace</Source>
+    <Name>Special Embellishment</Name>
+    <Description>
+      Add automatic [AD] to a chosen skill.
+    </Description>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <SpecialEmb>
+      <TypeValue>stNone</TypeValue>
+      <SkillList>
+        <Key>CHARM</Key>
+        <Key>COERC</Key>
+        <Key>NEG</Key>
+        <Key>LEAD</Key>
+        <Key>RESIL</Key>
+        <Key>STEAL</Key>
+      </SkillList>
+      <SkillCount>1</SkillCount>
+    </SpecialEmb>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctArmor</TempType>
+    <Key>IMPARMEFFCONST</Key>
+    <Source Page="91">Keeping the Peace</Source>
+    <Name>Efficient Construction</Name>
+    <Description>
+      Retain supplies worth 50% of the Material Price.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <MaterialCostDiscount>50</MaterialCostDiscount>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctArmor</TempType>
+    <Key>IMPARMRDEF</Key>
+    <Source Page="91">Keeping the Peace</Source>
+    <Name>Extra Ranged Defense</Name>
+    <Description>
+      Add +1 ranged defense to armor.
+    </Description>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <Key>RANGEDEFADD</Key>
+        <Count>1</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctArmor</TempType>
+    <Key>IMPARMHP</Key>
+    <Source Page="91">Keeping the Peace</Source>
+    <Name>Extra Hard Point</Name>
+    <Description>
+      Add 1 hard point to armor.
+    </Description>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>2</SelectCount>
+    <HPChange>1</HPChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctArmor</TempType>
+    <Key>IMPARMSOAK</Key>
+    <Source Page="91">Keeping the Peace</Source>
+    <Name>Extra Soak</Name>
+    <Description>Add +1 soak to armor.</Description>
+    <CostAdvThr>4</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <SoakChange>1</SoakChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctArmor</TempType>
+    <Key>IMPARMDUP</Key>
+    <Source Page="91">Keeping the Peace</Source>
+    <Name>Duplicate</Name>
+    <Description>
+      Create one additional, identical set of armor at no cost.</Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>4</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <DuplicateItem>1</DuplicateItem>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctArmor</TempType>
+    <Key>IMPARMSCHEM</Key>
+    <Source Page="91">Keeping the Peace</Source>
+    <Name>Armor Schematic</Name>
+    <Description>
+      Permanently reduce difficulty of checks to create armor using this template by {0} (to a minimum of [B]Simple [-][b]).
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>4</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Schematic>true</Schematic>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctArmor</TempType>
+    <Key>IMPARMATT</Key>
+    <Source Page="91">Keeping the Peace</Source>
+    <Name>Integral Attachment</Name>
+    <Description>
+      Add +1 hard point to armor, then install one applicable armor attachment that requires 1 hard point.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>2</CostTriDes>
+    <IntegralAttachment>true</IntegralAttachment>
+  </CraftImprovement>
+  
+  <!-- Armor - Negative -->
+
+  <CraftImprovement>
+    <TempType>ctArmor</TempType>
+    <Key>IMPARMEXH</Key>
+    <Source Page="91">Keeping the Peace</Source>
+    <Name>Exhausting Effort</Name>
+    <Description>
+      Suffer 3 strain when finished with construction.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>-1</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctArmor</TempType>
+    <Key>IMPARMHVY</Key>
+    <Source Page="91">Keeping the Peace</Source>
+    <Name>Heavy</Name>
+    <Description>
+      Increase encumbrance by 1.
+    </Description>
+    <CostAdvThr>-1</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <EncumbranceChange>1</EncumbranceChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctArmor</TempType>
+    <Key>IMPARMFIT</Key>
+    <Source Page="91">Keeping the Peace</Source>
+    <Name>Poor Fit</Name>
+    <Description>
+      Donning and doffing this armor requires one additional action.
+    </Description>
+    <CostAdvThr>-1</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Poor Fit[b]: Donning and doffing this armor requires one additional action</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctArmor</TempType>
+    <Key>IMPARMCOMPLEX</Key>
+    <Source Page="91">Keeping the Peace</Source>
+    <Name>Complex</Name>
+    <Description>
+      The armor is difficult to repair.  Increase difficulty of checks to repair armor by {0}.</Description>
+    <CostAdvThr>-2</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Complex[b]: Increase difficulty of checks to repair this armor by {0}</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctArmor</TempType>
+    <Key>IMPARMDIFCUST</Key>
+    <Source Page="91">Keeping the Peace</Source>
+    <Name>Difficult to Customize</Name>
+    <Description>
+      Increase the difficulty of checks to modify attachments on this armor by {0}.
+    </Description>
+    <CostAdvThr>-2</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Difficult to Customize[b]: Increase the difficulty of checks to modify attachments on this armor by {0}</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctArmor</TempType>
+    <Key>IMPARMRESTR</Key>
+    <Source Page="91">Keeping the Peace</Source>
+    <Name>Restrictive</Name>
+    <Description>
+      Wearer adds automatic [TH] to checks with selected skill.</Description>
+    <CostAdvThr>-2</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Restrictive>
+      <TypeValue>stNone</TypeValue>
+      <SkillList>
+        <Key>ATHL</Key>
+        <Key>COORD</Key>
+        <Key>PERC</Key>
+        <Key>SKUL</Key>
+        <Key>VIGIL</Key>
+      </SkillList>
+      <SkillCount>1</SkillCount>
+    </Restrictive>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctArmor</TempType>
+    <Key>IMPARMWEARTEAR</Key>
+    <Source Page="91">Keeping the Peace</Source>
+    <Name>Wear and Tear</Name>
+    <Description>
+      The tools used to make this armor are damaged {0} step(s).
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>-3</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>3</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctArmor</TempType>
+    <Key>IMPARMFRAG</Key>
+    <Source Page="91">Keeping the Peace</Source>
+    <Name>Fragile</Name>
+    <Description>
+      Whenever armor becomes damaged, the damage always counts as moderate unless it would be worse.
+    </Description>
+    <CostAdvThr>-3</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Fragile[b]: Whenever armor becomes damaged, the damage always counts as moderate unless it would be worse</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctArmor</TempType>
+    <Key>IMPARMEXPENSIVE</Key>
+    <Source Page="91">Keeping the Peace</Source>
+    <Name>Expensive</Name>
+    <Description>
+      Whenever armor becomes damaged, the cost to repair is doubled.
+    </Description>
+    <CostAdvThr>-4</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Expensive[b]: Whenever armor becomes damaged, the cost to repair is doubled</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctArmor</TempType>
+    <Key>IMPARMSHORTAGE</Key>
+    <Source Page="91">Keeping the Peace</Source>
+    <Name>Supply Shortage</Name>
+    <Description>
+      Cannot finish until more supplies are acquired costing 25% of Material Price.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <MaterialCostDiscount>-25</MaterialCostDiscount>
+    <CostAdvThr>-4</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctArmor</TempType>
+    <Key>IMPARMFLAW</Key>
+    <Source Page="91">Keeping the Peace</Source>
+    <Name>Unexpected Flaw</Name>
+    <Description>
+      GM may spend 1 Destiny point to cause armor to fail and suffer major damage.  This can be exploited only once.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>-2</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Unexpected Flaw[b]: GM may spend 1 Destiny point to cause armor to fail and suffer major damage.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  
+  <!-- Brawl/Melee Weapon - Positive-->
+
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEEPRAC</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Practice Makes Perfect</Name>
+    <Description>
+      Character learns something valuable and gains [BO] on next check with same skill.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEE2H</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Two-Handed</Name>
+    <Description>
+      The weapon becomes two-handed, increasing damage and encumbrance.
+    </Description>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <TwoHands>true</TwoHands>
+    <EncumbranceChange>2</EncumbranceChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEELIGHT</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Lightweight</Name>
+    <Description>
+      Reduce encumbrance by 1.
+    </Description>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <EncumbranceChange>-1</EncumbranceChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEEKNOCK</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Knockdown Quality</Name>
+    <Description>
+      This weapon gains the Knockdown quality.
+    </Description>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <Key>KNOCKDOWN</Key>
+        <Count>1</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEELESSON</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Lessons Learned</Name>
+    <Description>
+      Reduce difficulty of next crafting check by 1.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEEDEFQ</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Defensive Quality</Name>
+    <Description>
+      This weapon gains the Defensive 1 quality, or increases Defensive quality by 1 (to a maximum of 3).
+    </Description>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Mods>
+      <Mod>
+        <Key>DEFENSIVE</Key>
+        <Count>1</Count>
+        <Index>3</Index>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEECUST</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Customizable</Name>
+    <Description>
+      Increase the weapon's hard points by 1.
+    </Description>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <HPChange>1</HPChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEEPIERCEQ</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Pierce Quality</Name>
+    <Description>
+      This weapon gains the Pierce 1 quality, or increases Pierce quality by 1.
+    </Description>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Mods>
+      <Mod>
+        <Key>PIERCE</Key>
+        <Count>1</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEEVICQ</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Vicious Quality</Name>
+    <Description>
+      This weapon gains the Vicious 1 quality, or increases Vicious quality by 1 (to a maximum of 5).
+    </Description>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Mods>
+      <Mod>
+        <Key>VICIOUS</Key>
+        <Count>1</Count>
+        <Index>5</Index>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEESTUNQ</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Stun Quality</Name>
+    <Description>
+      This weapon gains the Stun 1 quality, or increases Stun quality by 1.
+    </Description>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Mods>
+      <Mod>
+        <Key>STUN</Key>
+        <Count>1</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEEEFFCONST</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Efficient Construction</Name>
+    <Description>
+      Retain supplies worth 50% of the Material Price.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <MaterialCostDiscount>50</MaterialCostDiscount>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEEENSQ</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Ensnare Quality</Name>
+    <Description>
+      This weapon gains the Ensnare 1 quality, or increases Ensnare quality by 1.
+    </Description>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Mods>
+      <Mod>
+        <Key>ENSNARE</Key>
+        <Count>1</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEEDEFLQ</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Deflection Quality</Name>
+    <Description>
+      This weapon gains the Deflection 1 quality, or increases Deflection quality by 1 (to a maximum of 3).
+    </Description>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Mods>
+      <Mod>
+        <Key>DEFLECTION</Key>
+        <Count>1</Count>
+        <Index>3</Index>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEEDESTR</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Destructive</Name>
+    <Description>
+      Increases weapon's damage by 1.
+    </Description>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <DamAddChange>1</DamAddChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEEACCQ</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Accurate Quality</Name>
+    <Description>
+      This weapon gains the Accurate 1 quality, or increases Accurate quality by 1 (to a maximum of 3).
+    </Description>
+    <CostAdvThr>4</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Mods>
+      <Mod>
+        <Key>ACCURATE</Key>
+        <Count>1</Count>
+        <Index>3</Index>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEELETHAL</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Lethal</Name>
+    <Description>
+      Decreases weapon's critical rating by 1.
+    </Description>
+    <CostAdvThr>4</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <CritChange>-1</CritChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEESUNDQ</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Sunder Quality</Name>
+    <Description>
+      This weapon gains the Sunder quality.
+    </Description>
+    <CostAdvThr>4</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <Key>SUNDER</Key>
+        <Count>1</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEESCHEM</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Schematic</Name>
+    <Description>
+      Permanently reduce difficulty of checks to create weapons using this template by {0} (to a minimum of [B]Simple [-][b]).
+    </Description>
+    <CostAdvThr>4</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Schematic>true</Schematic>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEECONCQ</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Concussive Quality</Name>
+    <Description>
+      This weapon gains the Concussive 1 quality.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>2</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <Key>CONCUSSIVE</Key>
+        <Count>1</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEEATT</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Integral Attachment</Name>
+    <Description>
+      Add +1 hard point to weapon, then install one applicable weapon attachment that requires 1 hard point.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>2</CostTriDes>
+    <IntegralAttachment>true</IntegralAttachment>
+  </CraftImprovement>
+  
+  <!-- Brawl/Melee Weapon - Negative-->
+
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEEEXH</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Exhausting Effort</Name>
+    <Description>
+      Suffer 3 strain when finished with construction.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>-1</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEEHVY</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Heavy</Name>
+    <Description>
+      Increase encumbrance by 1.
+    </Description>
+    <CostAdvThr>-1</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <EncumbranceChange>1</EncumbranceChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEECUMBQ</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Cumbersome Quality</Name>
+    <Description>
+      This weapon gains the Cumbersome 1 quality, or increases Cumbersome quality by 1.
+    </Description>
+    <CostAdvThr>-2</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+      <Mod>
+        <Key>CUMBERSOME</Key>
+        <Count>1</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEEHARDMOD</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Hard to Modify</Name>
+    <Description>
+      Increase the difficulty of checks to modify attachments on this weapon by 1.
+    </Description>
+    <CostAdvThr>-2</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Hard to Modify[b]: Increase the difficulty of checks to modify attachments on this weapon by {0}</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEEWEARTEAR</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Wear and Tear</Name>
+    <Description>
+      The tools used to make this armor are damaged {0} step(s).
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>-3</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>3</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEEDIFFREP</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Difficult to Repair</Name>
+    <Description>
+      The weapon is difficult to repair.  Increase difficulty of checks to repair weapon by 1.</Description>
+    <CostAdvThr>-3</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Difficult to Repair[b]: Increase difficulty of checks to repair this weapon by {0}</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEEINACCQ</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Inaccurate Quality</Name>
+    <Description>
+      This weapon gains the Inaccurate 1 quality, or increases Inaccurate quality by 1.
+    </Description>
+    <CostAdvThr>-3</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+      <Mod>
+        <Key>INACCURATE</Key>
+        <Count>1</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEEBRITT</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Brittle</Name>
+    <Description>
+      On a [DE] result from a combat check, weapon becomes damaged one level.</Description>
+    <CostAdvThr>-4</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Brittle[b]: On a [DE] result from a combat check, weapon becomes damaged {0} level(s)</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctMeleeBrawl</TempType>
+    <Key>IMPMELEEFLAW</Key>
+    <Source Page="77">Special Modifications</Source>
+    <Name>Hidden Flaw</Name>
+    <Description>
+      GM may spend 1 Destiny point to cause weapon to fracture or break, suffering major damage.  This can be exploited only once.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>-2</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Hidden Flaw[b]: GM may spend 1 Destiny point to cause weapon to fracture or break, suffering major damage.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+
+  <!-- Ranged Weapon - Positive -->
+
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDPRAC</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Practice Makes Perfect</Name>
+    <Description>
+      Character learns something valuable and gains [BO] on next check with same skill.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDIONQ</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Ion Quality</Name>
+    <Description>
+      This weapon gains the Ion quality.
+    </Description>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <Key>ION</Key>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDLIGHT</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Lightweight</Name>
+    <Description>
+      Reduce encumbrance by 1.
+    </Description>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <EncumbranceChange>-1</EncumbranceChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDDISORQ</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Disorient Quality</Name>
+    <Description>
+      This weapon gains the Disorient 1 quality, or increases Disorient quality by 1.
+    </Description>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Mods>
+      <Mod>
+        <Key>DISORIENT</Key>
+        <Count>1</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDEXMAG</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Expanded Magazine</Name>
+    <Description>
+      If weapon has Limited Ammo, increase by {0}.
+    </Description>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <LimitedAmmoGood>true</LimitedAmmoGood>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDLESSON</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Lessons Learned</Name>
+    <Description>
+      Reduce difficulty of next crafting check by 1.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDCUST</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Customizable</Name>
+    <Description>
+      Increase the weapon's hard points by 1.
+    </Description>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <HPChange>1</HPChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDINCRANGE</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Increase Range</Name>
+    <Description>
+      Increase the weapon's range by {0} range band.
+    </Description>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <RangeChange>1</RangeChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDKNOCKQ</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Knockdown Quality</Name>
+    <Description>
+      This weapon gains the Knockdown quality.
+    </Description>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <Key>KNOCKDOWN</Key>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDVICQ</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Vicious Quality</Name>
+    <Description>
+      This weapon gains the Vicious 1 quality, or increases Vicious quality by 1 (to a maximum of 5).
+    </Description>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Mods>
+      <Mod>
+        <Key>VICIOUS</Key>
+        <Count>1</Count>
+        <Index>5</Index>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDSTUNSETQ</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Stun Setting Quality</Name>
+    <Description>
+      This weapon gains the Stun Setting quality.
+    </Description>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <Key>STUNSETTING</Key>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDEFFCONST</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Efficient Construction</Name>
+    <Description>
+      Retain supplies worth 50% of the Material Price.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <MaterialCostDiscount>50</MaterialCostDiscount>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDDESTR</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Destructive</Name>
+    <Description>
+      Increases weapon's damage by 1.
+    </Description>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <DamChange>1</DamChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDENSQ</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Ensnare Quality</Name>
+    <Description>
+      This weapon gains the Ensnare 1 quality, or increases Ensnare quality by 1.
+    </Description>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Mods>
+      <Mod>
+        <Key>ENSNARE</Key>
+        <Count>1</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDSTUNQ</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Stun Quality</Name>
+    <Description>
+      This weapon gains the Stun 3 quality, or increases Stun quality by 1.
+    </Description>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Mods>
+      <Mod>
+        <Key>STUN</Key>
+        <Count>3</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDPIERCEQ</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Pierce Quality</Name>
+    <Description>
+      This weapon gains the Pierce 1 quality, or increases Pierce quality by 1.
+    </Description>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Mods>
+      <Mod>
+        <Key>PIERCE</Key>
+        <Count>1</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDAUTOFQ</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Auto-Fire Quality</Name>
+    <Description>
+      This weapon gains the Auto-Fire quality.
+    </Description>
+    <CostAdvThr>4</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <Key>AUTOFIRE</Key>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDBURNQ</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Burn Quality</Name>
+    <Description>
+      This weapon gains the Burn 1 quality, or increases Burn quality by 1.
+    </Description>
+    <CostAdvThr>4</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Mods>
+      <Mod>
+        <Key>BURN</Key>
+        <Count>1</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDLETHAL</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Lethal</Name>
+    <Description>
+      Reduce weapon's critical rating by 1.
+    </Description>
+    <CostAdvThr>4</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <CritChange>-1</CritChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDACCQ</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Accurate Quality</Name>
+    <Description>
+      This weapon gains the Accurate 1 quality, or increases Accurate quality by 1 (to a maximum of 3).
+    </Description>
+    <CostAdvThr>4</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Mods>
+      <Mod>
+        <Key>ACCURATE</Key>
+        <Count>1</Count>
+        <Index>3</Index>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDSCHEM</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Schematic</Name>
+    <Description>
+      Permanently reduce difficulty of checks to create weapon using this template by {0} (to a minimum of [B]Simple [-][b]).
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>4</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Schematic>true</Schematic>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDBLASTQ</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Blast Quality</Name>
+    <Description>
+      This weapon gains the Blast 5 quality, or increases Blast quality by 2.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>2</CostTriDes>
+    <Mods>
+      <Mod>
+        <Key>BLAST</Key>
+        <Count>5</Count>
+        <CraftIncrement>2</CraftIncrement>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDCONCQ</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Concussive Quality</Name>
+    <Description>
+      This weapon gains the Concussive 1 quality.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>2</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <Key>CONCUSSIVE</Key>
+        <Count>1</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDATT</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Integral Attachment</Name>
+    <Description>
+      Add +1 hard point to weapon, then install one applicable weapon attachment that requires 1 hard point.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>2</CostTriDes>
+    <IntegralAttachment>true</IntegralAttachment>
+  </CraftImprovement>
+  
+<!-- Ranged Weapons - Negative -->
+
+    <CraftImprovement>
+    <TempType>ctRanged</TempType>
+      <Key>IMPRANGEDEXH</Key>
+      <Source Page="79">Special Modifications</Source>
+      <Name>Exhausting Effort</Name>
+    <Description>
+      Suffer 3 strain when finished with construction.
+    </Description>
+      <AffectsCost>false</AffectsCost>
+      <CostAdvThr>-1</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDHVY</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Heavy</Name>
+    <Description>
+      Increase encumbrance by 1.
+    </Description>
+    <CostAdvThr>-1</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <EncumbranceChange>1</EncumbranceChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDCUMBQ</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Cumbersome Quality</Name>
+    <Description>
+      This weapon gains the Cumbersome 1 quality, or increases Cumbersome quality by 1.
+    </Description>
+    <CostAdvThr>-1</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+      <Mod>
+        <Key>CUMBERSOME</Key>
+        <Count>1</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDEXPENSIVE</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Expensive</Name>
+    <Description>
+      Whenever weapon becomes damaged, the cost to repair is doubled.
+    </Description>
+    <CostAdvThr>-2 </CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Expensive[b]: Whenever weapon becomes damaged, the cost to repair is doubled</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDHARDMOD</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Hard to Modify</Name>
+    <Description>
+      Increase the difficulty of checks to modify attachments on this weapon by 1.
+    </Description>
+    <CostAdvThr>-2</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Hard to Modify[b]: Increase the difficulty of checks to modify attachments on this weapon by {0}</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDDIFFREP</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Difficult to Repair</Name>
+    <Description>
+      The weapon is difficult to repair.  Increase difficulty of checks to repair weapon by 1.</Description>
+    <CostAdvThr>-2</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Difficult to Repair[b]: Increase difficulty of checks to repair this weapon by {0}</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDWEARTEAR</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Wear and Tear</Name>
+    <Description>
+      The tools used to make this armor are damaged {0} step(s).
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>-3</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>3</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDPREPQ</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Prepare Quality</Name>
+    <Description>
+      This weapon gains the Prepare 1 quality, or increases Prepare quality by 1.
+    </Description>
+    <CostAdvThr>-3</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+      <Mod>
+        <Key>PREPARE</Key>
+        <Count>1</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDAMMOINEFF</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Ammunition-Inefficient</Name>
+    <Description>
+      [TH][TH][TH] may cause weapon to run out of ammunition.
+    </Description>
+    <CostAdvThr>-3</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Ammunition-Inefficient[b]: In addition to a [DE], [TH][TH][TH] may also cause weapon to run out of ammunition</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDINACCQ</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Inaccurate Quality</Name>
+    <Description>
+      This weapon gains the Inaccurate 1 quality, or increases Inaccurate quality by 1.
+    </Description>
+    <CostAdvThr>-3</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+      <Mod>
+        <Key>INACCURATE</Key>
+        <Count>1</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDLIMAMMOQ</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Limited Ammo Quality</Name>
+    <Description>
+      If weapon has Limited Ammo, decrease by {0}.  If not, gains Limited Ammo 3.
+    </Description>
+    <CostAdvThr>-4</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <LimitedAmmoBad>true</LimitedAmmoBad>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDSLOWQ</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Slow-Firing Quality</Name>
+    <Description>
+      This weapon gains the Slow-Firing 1 quality, or increases Slow-Firing quality by 1.
+    </Description>
+    <CostAdvThr>-4</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+      <Mod>
+        <Key>SLOWFIRING</Key>
+        <Count>1</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctRanged</TempType>
+    <Key>IMPRANGEDVOLA</Key>
+    <Source Page="79">Special Modifications</Source>
+    <Name>Dangerously Volatile</Name>
+    <Description>
+      GM may spend [DE] from any combat check to have this weapon explode.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>-2</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Dangerously Volatile[b]: GM may spend [DE] from any combat check to have this weapon explode.  Weapon is destroyed and wielder and all engaged characters suffer 10 damage</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  
+<!-- Lightsaber - Positive -->
+  
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABERLIGHT</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Lightweight</Name>
+    <Description>
+      Reduce encumbrance by 1.
+    </Description>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <EncumbranceChange>-1</EncumbranceChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABER2H</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Two-Handed</Name>
+    <Description>
+      The lightsaber becomes two-handed, increasing damage and encumbrance.
+    </Description>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <TwoHands>true</TwoHands>
+    <EncumbranceChange>2</EncumbranceChange>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <Key>DAMADD</Key>
+        <Count>1</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABERDISG</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Disguised</Name>
+    <Description>
+      Add [SE] to checks to identify the lightsaber.
+    </Description>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Disguised[b]: Add {1} to checks to identify the lightsaber as such when it is not ignited.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABERCW</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Counterweight</Name>
+    <Description>
+      Increases encumbrance, gains Cumbersome instead of Unwieldy.
+    </Description>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Counterweight>true</Counterweight>
+    <SelectCount>1</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABERCG</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Crossguard</Name>
+    <Description>
+      Lightsaber gains a crossguard.
+    </Description>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Crossguard>true</Crossguard>
+    <SelectCount>1</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABERCUST</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Customizable</Name>
+    <Description>
+      Increase the lightsaber's hard points by 1.
+    </Description>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <HPChange>1</HPChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABERDB</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Delicate Balance</Name>
+    <Description>
+      Gains Unwieldy instead of Cumbersome.
+    </Description>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <DelicateBalance>true</DelicateBalance>
+    <SelectCount>1</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABERPD</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Personalized Design</Name>
+    <Description>
+      Crafter adds automatic [SU] on successful checks.  Others add [TH].
+    </Description>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Personalized Design[b]: When the lightsaber's creator makes a successful Lightsaber check, an automatic [SU] is added.  All others add automatic [TH].</MiscDesc>
+      </Mod>
+    </Mods>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABERINBUILT</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Inbuilt</Name>
+    <Description>
+      Choose an item of encumbrance 1 or more that the character possesses.  This lightsaber will be built into that item.
+    </Description>
+    <CostAdvThr>4</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <InbuiltItem>true</InbuiltItem>
+    <SelectCount>1</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABERENBLEED</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Energy Bleed</Name>
+    <Description>
+      Lightsaber gains the Stun 2 quality, or increases the Stun quality by 2.
+    </Description>
+    <Mods>
+      <Mod>
+        <Key>STUN</Key>
+        <Count>2</Count>
+      </Mod>
+    </Mods>
+    <CostAdvThr>4</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABERFTE</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Fine-Tuned Emitter</Name>
+    <Description>
+      Add automatic [AD] to combat checks.
+    </Description>
+    <Mods>
+      <Mod>
+        <Key>ADVADDCOM</Key>
+        <Count>1</Count>
+      </Mod>
+    </Mods>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABERPERS</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Personalized Inlay</Name>
+    <Description>
+      Reduce difficulty of checks to modify installed crystals  by 1.
+    </Description>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Personalized Inlay[b]: Reduce the difficulty of checks to modify any crystal installed in this lightsaber by 1.</MiscDesc>
+      </Mod>
+    </Mods>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABERATT</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Integral Attachment</Name>
+    <Description>
+      Add +1 hard point to lightsaber, then install one applicable attachment that requires 1 hard point.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>2</CostTriDes>
+    <IntegralAttachment>true</IntegralAttachment>
+  </CraftImprovement>
+
+  <!-- Lightsaber - Negative -->
+
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABERHVY</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Heavy</Name>
+    <Description>
+      Increase encumbrance by 1.
+    </Description>
+    <CostAdvThr>-1</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <EncumbranceChange>1</EncumbranceChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABEREXH</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Exhausting Effort</Name>
+    <Description>
+      Suffer 3 strain when finished with construction.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>-1</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABERODD</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Oddly Weighted</Name>
+    <Description>
+      Lightsaber gains the Cumbersome 2 quality, or increases the Cumbersome quality by 1.
+    </Description>
+    <Mods>
+      <Mod>
+        <Key>CUMBERSOME</Key>
+        <Count>2</Count>
+        <CraftIncrement>1</CraftIncrement>
+      </Mod>
+    </Mods>
+    <CostAdvThr>-2</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABERFRAG</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Fragile Casing</Name>
+    <Description>
+      Increase difficulty of checks to repair lightsaber by 1.
+    </Description>
+    <CostAdvThr>-2</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Fragile Casing[b]: Increase difficulty of checks to repair this lightsaber by {0}</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABERAWK</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Awkward Grip</Name>
+    <Description>
+      Lightsaber gains the Unwieldy 2 quality, or increases the Unwieldy quality by 1.
+    </Description>
+    <Mods>
+      <Mod>
+        <Key>UNWIELDY</Key>
+        <Count>2</Count>
+      </Mod>
+    </Mods>
+    <CostAdvThr>-3</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABERME</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Misaligned Emitter</Name>
+    <Description>
+      Lightsaber requires a maneuver to ignite.
+    </Description>
+    <CostAdvThr>-3</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Misaligned Emitter[b]: Lightsaber requires a maneuver to ignite.  It can still be powered down as an incidental.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABERERRATIC</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Erratic</Name>
+    <Description>
+      GM may spend [DE] to damage hilt and wielder.
+    </Description>
+    <CostAdvThr>-4</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Erratic[b]: GM may spend [DE] to damage lightsaber one step and inflict 3 strain on wielder.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABERPF</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Poor Focusing Lens</Name>
+    <Description>
+      Lightsaber gains Inaccurate quality, or decreases its Accurate quality.
+    </Description>
+    <CostAdvThr>-4</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <PoorFocusing>true</PoorFocusing>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABERFAULT</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Faulty Inlay</Name>
+    <Description>
+      Increase difficulty of modifying lightsaber crystals
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Faulty Inlay[b]: Increase difficulty of modifying lightsaber crystals installed in this lightsaber by {0}.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABERACCI</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Tragic Accident</Name>
+    <Description>
+      Character suffers a Critical Injury upon completing the construction of the lightsaber.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABERUNST</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Unstable</Name>
+    <Description>
+      GM may spend [DE] from combat checks to short out lightsaber.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>-2</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Unstable[b]: GM may spend [DE] from combat checks with this lightsaber to have it short out.  It remains inoperable until repaired with a [B]Average ([DI][DI]) Mechanics check[b].</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABERLEARN</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Learning Experience</Name>
+    <Description>
+      (On a failed check) Crafter learns valuable techniques and gains [BO] on the next attempt to craft the hilt.  Does not need to purchase new materials.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctLightsaber</TempType>
+    <Key>IMPLTSABERHORR</Key>
+    <Source Page="87">Endless Vigil</Source>
+    <Name>Horrible Accident</Name>
+    <Description>
+      (On a failed check) Hilt explodes, causing Critical Injury at +20 and destroying all materials.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>-2</CostTriDes>
+    <SelectCount>1</SelectCount>
+  </CraftImprovement>
+
+
+  <!-- Gadgets - Positive -->
+
+  <CraftImprovement>
+    <TempType>ctGadget</TempType>
+    <Key>IMPGADGLIGHT</Key>
+    <Source Page="84">Special Modifications</Source>
+    <Name>Lightweight</Name>
+    <Description>
+      Reduce encumbrance by 1.
+    </Description>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <EncumbranceChange>-1</EncumbranceChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctGadget</TempType>
+    <Key>IMPGADGPRAC</Key>
+    <Source Page="84">Special Modifications</Source>
+    <Name>Practice Makes Perfect</Name>
+    <Description>
+      Character learns something valuable and gains [BO] on next check with same skill.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctGadget</TempType>
+    <Key>IMPGADGCOMP</Key>
+    <Source Page="84">Special Modifications</Source>
+    <Name>Compact</Name>
+    <Description>
+      Gadget with encumbrance of 3 or less adds [SE] to checks for others to find this item on the wearer's person (max of [SE][SE][SE]).
+    </Description>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>3</SelectCount>
+    <Compact>true</Compact>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctGadget</TempType>
+    <Key>IMPGADGLESSON</Key>
+    <Source Page="84">Special Modifications</Source>
+    <Name>Lessons Learned</Name>
+    <Description>
+      Reduce difficulty of next crafting check by 1.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctGadget</TempType>
+    <Key>IMPGADGEFFCONST</Key>
+    <Source Page="84">Special Modifications</Source>
+    <Name>Efficient Construction</Name>
+    <Description>
+      Retain supplies worth 50% of the Material Price.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <MaterialCostDiscount>50</MaterialCostDiscount>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctGadget</TempType>
+    <Key>IMPGADGSAFETY</Key>
+    <Source Page="84">Special Modifications</Source>
+    <Name>Safety Features</Name>
+    <Description>
+      Add automatic [AD] to checks made with chosen skill.
+    </Description>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <SelectCount>1</SelectCount>
+    <Safety>true</Safety>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctGadget</TempType>
+    <Key>IMPGADGINWEAP</Key>
+    <Source Page="84">Special Modifications</Source>
+    <Name>Inbuilt Weapon</Name>
+    <Description>
+      Choose a weapon encumbrance 2 or less that the character possesses.  This weapon will be built into the item.
+    </Description>
+    <CostAdvThr>4</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <SelectCount>1</SelectCount>
+    <InbuiltWeapon>true</InbuiltWeapon>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctGadget</TempType>
+    <Key>IMPGADGCRAFT</Key>
+    <Source Page="84">Special Modifications</Source>
+    <Name>Supreme Craftsmanship</Name>
+    <Description>
+      Choose a General skill.  Upgrade checks with that skill made with this tool once.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>2</CostTriDes>
+    <Craftsmanship>
+      <TypeValue>stGeneral</TypeValue>
+      <SkillCount>1</SkillCount>
+    </Craftsmanship>
+  </CraftImprovement>
+  
+<!-- Gadgets - Negative -->
+
+  <CraftImprovement>
+    <TempType>ctGadget</TempType>
+    <Key>IMPGADGEXH</Key>
+    <Source Page="84">Special Modifications</Source>
+    <Name>Exhausting Effort</Name>
+    <Description>
+      Suffer 3 strain when finished with construction.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>-1</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctGadget</TempType>
+    <Key>IMPGADGHVY</Key>
+    <Source Page="84">Special Modifications</Source>
+    <Name>Heavy</Name>
+    <Description>
+      Increase encumbrance by 1.
+    </Description>
+    <CostAdvThr>-1</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <EncumbranceChange>1</EncumbranceChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctGadget</TempType>
+    <Key>IMPGADGDIFFREP</Key>
+    <Source Page="84">Special Modifications</Source>
+    <Name>Difficult to Repair</Name>
+    <Description>
+      Increase difficulty of checks to repair gadget by 1.</Description>
+    <CostAdvThr>-2</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Difficult to Repair[b]: Increase difficulty of checks to repair this gadget by {0}</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctGadget</TempType>
+    <Key>IMPGADGDELICATE</Key>
+    <Source Page="84">Special Modifications</Source>
+    <Name>Delicate</Name>
+    <Description>
+      A [TH][TH] or [DE] result on any check may cause gadget to be damaged one level.</Description>
+    <CostAdvThr>-2</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Delicate[b]: A [TH][TH] or [DE] result on any check may cause gadget to be damaged {0} level(s)</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctGadget</TempType>
+    <Key>IMPGADGUNPRES</Key>
+    <Source Page="84">Special Modifications</Source>
+    <Name>Unpresentable</Name>
+    <Description>
+      Decrease base price of this item by 50%.</Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>-3</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <PriceChangePercent>-50</PriceChangePercent>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctGadget</TempType>
+    <Key>IMPGADGFRAGILE</Key>
+    <Source Page="84">Special Modifications</Source>
+    <Name>Fragile</Name>
+    <Description>
+      Whenever gadget becomes damaged one step, it becomes damaged two steps instead.
+    </Description>
+    <CostAdvThr>-4</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Fragile[b]: Whenever gadget becomes damaged one step, it becomes damaged two steps instead</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctGadget</TempType>
+    <Key>IMPGADGFAULT</Key>
+    <Source Page="84">Special Modifications</Source>
+    <Name>Faulty</Name>
+    <Description>
+      Upgrade difficulty of checks made using this gadget once.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>-2</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Faulty[b]: When using this tool for a skill check, upgrade difficulty of check once</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+
+<!-- Cybernetics - Positive -->
+
+  <CraftImprovement>
+    <TempType>ctCyber</TempType>
+    <Key>IMPCYBERPRAC</Key>
+    <Source Page="85">Special Modifications</Source>
+    <Name>Practice Makes Perfect</Name>
+    <Description>
+      Character learns something valuable and gains [BO] on next check with same skill.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctCyber</TempType>
+    <Key>IMPCYBERINTTOOL</Key>
+    <Source Page="85">Special Modifications</Source>
+    <Name>Integrated Tool</Name>
+    <Description>
+      Allows character to make checks with a chosen skill.  It can also count as the right tool for the job.
+    </Description>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Tool>
+      <TypeValue>stGeneral</TypeValue>
+      <SkillCount>1</SkillCount>
+    </Tool>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctCyber</TempType>
+    <Key>IMPCYBERUNOB</Key>
+    <Source Page="85">Special Modifications</Source>
+    <Name>Unobtrusive</Name>
+    <Description>
+      Add [SE] to checks to determine that the character has the cybernetic installed.
+    </Description>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Unobtrusive[b]: Add {1} to checks to determine that the character has the cybernetic installed</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctCyber</TempType>
+    <Key>IMPCYBERTAIL</Key>
+    <Source Page="85">Special Modifications</Source>
+    <Name>Tailored</Name>
+    <Description>
+      If built for a specific being, this cybernetic does not require a check to be installed in that being.
+    </Description>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctCyber</TempType>
+    <Key>IMPCYBERINWEAP</Key>
+    <Source Page="85">Special Modifications</Source>
+    <Name>Inbuilt Weapon</Name>
+    <Description>
+      Choose a weapon encumbrance 2 or less that the character possesses.  This weapon will be built into the cybernetic.
+    </Description>
+    <CostAdvThr>4</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <SelectCount>1</SelectCount>
+    <InbuiltWeapon>true</InbuiltWeapon>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctCyber</TempType>
+    <Key>IMPCYBERION</Key>
+    <Source Page="85">Special Modifications</Source>
+    <Name>Ion-Shielded</Name>
+    <Description>
+      This cybernetic does not shut down as normal when affected by weapons with the Ion quality.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>2</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Ion-Shielded[b]: This cybernetic does not shut down as normal when affected by weapons with the Ion quality</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  
+    <!-- Cybernetics - Negative -->
+  
+  <CraftImprovement>
+    <TempType>ctCyber</TempType>
+    <Key>IMPCYBEREXH</Key>
+    <Source Page="85">Special Modifications</Source>
+    <Name>Exhausting Effort</Name>
+    <Description>
+      Suffer 3 strain when finished with construction.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>-1</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctCyber</TempType>
+    <Key>IMPCYBERDIFFINS</Key>
+    <Source Page="85">Special Modifications</Source>
+    <Name>Difficult to Install</Name>
+    <Description>
+      Increase difficulty of checks to install this cybernetic by {0}.</Description>
+    <CostAdvThr>-2</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Difficult to Install[b]: Increase difficulty of checks to install this cybernetic by {0}</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctCyber</TempType>
+    <Key>IMPCYBERWEARTEAR</Key>
+    <Source Page="85">Special Modifications</Source>
+    <Name>Wear and Tear</Name>
+    <Description>
+      The tools used to craft this cybernetic are damaged {0} step(s).
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>-3</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>3</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctCyber</TempType>
+    <Key>IMPCYBERSEVFEED</Key>
+    <Source Page="85">Special Modifications</Source>
+    <Name>Severe Feedback</Name>
+    <Description>
+      When making checks using this cybernetic, character implanted with it suffers 1 strain.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>-2</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Severe Feedback[b]: When making checks using this cybernetic, character implanted with it suffers {0} strain</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  
+<!-- Droid - Positive -->
+
+  <CraftImprovement>
+    <TempType>ctDroid</TempType>
+    <Key>IMPDROIDPRAC</Key>
+    <Source Page="81">Special Modifications</Source>
+    <Name>Practice Makes Perfect</Name>
+    <Description>
+      Character learns something valuable and gains [BO] on next check with same skill.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroid</TempType>
+    <Key>IMPDROIDREINFCHAS</Key>
+    <Source Page="81">Special Modifications</Source>
+    <Name>Reinforced Chassis</Name>
+    <Description>
+      Increase droid's wound threshold by {0}.
+    </Description>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <WoundChange>1</WoundChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroid</TempType>
+    <Key>IMPDROIDUNOB</Key>
+    <Source Page="81">Special Modifications</Source>
+    <Name>Unobtrusive</Name>
+    <Description>
+      Droid gains {0} rank of the Indistinguishable talent.
+    </Description>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Unobtrusive>true</Unobtrusive>
+    <SelectCount>1</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroid</TempType>
+    <Key>IMPDROIDLESSON</Key>
+    <Source Page="81">Special Modifications</Source>
+    <Name>Lessons Learned</Name>
+    <Description>
+      Reduce difficulty of next crafting check by 1.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroid</TempType>
+    <Key>IMPDROIDDEFLCARAP</Key>
+    <Source Page="81">Special Modifications</Source>
+    <Name>Deflective Carapace</Name>
+    <Description>
+      Increase droid's melee defense by {0}.
+    </Description>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>2</SelectCount>
+    <MDefChange>1</MDefChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroid</TempType>
+    <Key>IMPDROIDNARRPROF</Key>
+    <Source Page="81">Special Modifications</Source>
+    <Name>Narrow Profile</Name>
+    <Description>
+      Increase droid's ranged defense by {0}.
+    </Description>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>2</SelectCount>
+    <RDefChange>1</RDefChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroid</TempType>
+    <Key>IMPDROIDARMORPL</Key>
+    <Source Page="81">Special Modifications</Source>
+    <Name>Armor Plating</Name>
+    <Description>Increase droid's soak by 1.</Description>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <SoakChange>1</SoakChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroid</TempType>
+    <Key>IMPDROIDSIZE</Key>
+    <Source Page="81">Special Modifications</Source>
+    <Name>Unusual Size (Larger)</Name>
+    <Description>Increase droid's silhouette by 1.</Description>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <SilhouetteChange>1</SilhouetteChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroid</TempType>
+    <Key>IMPDROIDSIZED</Key>
+    <Source Page="81">Special Modifications</Source>
+    <Name>Unusual Size (Smaller)</Name>
+    <Description>Decrease droid's silhouette by 1.</Description>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <SilhouetteChange>-1</SilhouetteChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroid</TempType>
+    <Key>IMPDROIDMODHARD</Key>
+    <Source Page="81">Special Modifications</Source>
+    <Name>Modular Hardware</Name>
+    <Description>Choose one cybernetic implant. The droid is already installed with this implant.</Description>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <InbuiltCybernetic>1</InbuiltCybernetic>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroid</TempType>
+    <Key>IMPDROIDSCHEM</Key>
+    <Source Page="81">Special Modifications</Source>
+    <Name>Chassis Schematic</Name>
+    <Description>
+      Permanently reduce difficulty of checks to create droid using this template by {0} (to a minimum of [B]Simple [-][b]).
+    </Description>
+    <CostAdvThr>4</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Schematic>true</Schematic>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroid</TempType>
+    <Key>IMPDROIDSUPHARD</Key>
+    <Source Page="81">Special Modifications</Source>
+    <Name>Superior Hardware</Name>
+    <Description>Increase any 1 of the droid's characteristics by 1.</Description>
+    <CostAdvThr>4</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <IncreaseCharacteristic>1</IncreaseCharacteristic>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroid</TempType>
+    <Key>IMPDROIDDOPP</Key>
+    <Source Page="81">Special Modifications</Source>
+    <Name>Doppelganger</Name>
+    <Description>Create 1 additional identical droid as part of the construction process.</Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>2</CostTriDes>
+    <DuplicateItem>1</DuplicateItem>
+  </CraftImprovement>
+
+  <!-- Droid - Negative -->
+  <CraftImprovement>
+    <TempType>ctDroid</TempType>
+    <Key>IMPDROIDEXH</Key>
+    <Source Page="81">Special Modifications</Source>
+    <Name>Exhausting Effort</Name>
+    <Description>
+      Suffer 3 strain when finished with construction.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>-1</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroid</TempType>
+    <Key>IMPDROIDSPECHARD</Key>
+    <Source Page="81">Special Modifications</Source>
+    <Name>Specialized Hardware</Name>
+    <Description>
+      Droid suffers [SE] on skill checks for skills without a rank.
+    </Description>
+    <CostAdvThr>-1</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Abilities>
+      <Ability>
+        <Name>Specialized Hardware</Name>
+        <Description>Droid suffers {1} on skill checks for skills without a rank.</Description>
+      </Ability>
+    </Abilities>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroid</TempType>
+    <Key>IMPDROIDDIFFCUST</Key>
+    <Source Page="81">Special Modifications</Source>
+    <Name>Difficult to Customize</Name>
+    <Description>
+      Increase difficulty of checks to install cybernetics on this droid by {0}.
+    </Description>
+    <CostAdvThr>-2</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Abilities>
+      <Ability>
+        <Name>Difficult to Customize</Name>
+        <Description>Increase difficulty of checks to install cybernetics on this droid by {0}.</Description>
+      </Ability>
+    </Abilities>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroid</TempType>
+    <Key>IMPDROIDWEARTEAR</Key>
+    <Source Page="81">Special Modifications</Source>
+    <Name>Wear and Tear</Name>
+    <Description>
+      The tools used to make this armor are damaged {0} step(s).
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>-3</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>3</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroid</TempType>
+    <Key>IMPDROIDDELMECH</Key>
+    <Source Page="81">Special Modifications</Source>
+    <Name>Delicate Mechanisms</Name>
+    <Description>
+      Increase difficulty of checks to repair this droid by {0}.
+    </Description>
+    <CostAdvThr>-4</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Abilities>
+      <Ability>
+        <Name>Delicate Mechanisms</Name>
+        <Description>Increase difficulty of checks to repair this droid by {0}.</Description>
+      </Ability>
+    </Abilities>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroid</TempType>
+    <Key>IMPDROIDERATCORE</Key>
+    <Source Page="81">Special Modifications</Source>
+    <Name>Erratic Power Core</Name>
+    <Description>
+      May spend [DE] to have droid shut down until end of encounter.
+    </Description>
+    <CostAdvThr>-4</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Abilities>
+      <Ability>
+        <Name>Erratic Power Core</Name>
+        <Description>GM may spend [DE] from any check made by the droid to have it shut down until the end of the encounter.</Description>
+      </Ability>
+    </Abilities>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroid</TempType>
+    <Key>IMPDROIDVOLACORE</Key>
+    <Source Page="81">Special Modifications</Source>
+    <Name>Volatile Power Core</Name>
+    <Description>
+      When a Critical Injury kills the droid, it explodes.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>-2</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Abilities>
+      <Ability>
+        <Name>Volatile Power Core</Name>
+        <Description>When droid suffers Critical Injury, add +50 to result.  If the result kills the droid, it explodes.  Each engaged character suffers 10 damage.</Description>
+      </Ability>
+    </Abilities>
+  </CraftImprovement>
+  
+  <!-- Droid Directives - Positive -->
+
+  <CraftImprovement>
+    <TempType>ctDroidDirect</TempType>
+    <Key>IMPDROIDDIRRPQUIRK</Key>
+    <Source Page="83">Special Modifications</Source>
+    <Name>Random Positive Quirk</Name>
+    <Description>
+      Droid gets one random positive personality trait.
+    </Description>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <RandomPositiveQuirk>true</RandomPositiveQuirk>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroidDirect</TempType>
+    <Key>IMPDROIDDIRARCHFUNC</Key>
+    <Source Page="83">Special Modifications</Source>
+    <Name>Archival Functions</Name>
+    <Description>
+      Add one new Knowledge skill.
+    </Description>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <AddSkill>
+      <TypeValue>stKnowledge</TypeValue>
+      <SkillCount>1</SkillCount>
+    </AddSkill>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroidDirect</TempType>
+    <Key>IMPDROIDDIRADAPPROG</Key>
+    <Source Page="83">Special Modifications</Source>
+    <Name>Adaptive Programming</Name>
+      <Description>
+        Add 1 rank to a skill the droid already possesses.
+      </Description>
+      <CostAdvThr>2</CostAdvThr>
+      <CostTriDes>1</CostTriDes>
+    <AddToSkill>true</AddToSkill>
+    <NoMinion>true</NoMinion>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroidDirect</TempType>
+    <Key>IMPDROIDDIRBROADUTIL</Key>
+    <Source Page="83">Special Modifications</Source>
+    <Name>Broad Utility</Name>
+    <Description>
+      Add one new General skill.
+    </Description>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <AddSkill>
+      <TypeValue>stGeneral</TypeValue>
+      <SkillCount>1</SkillCount>
+    </AddSkill>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroidDirect</TempType>
+    <Key>IMPDROIDDIRPQUIRK</Key>
+    <Source Page="83">Special Modifications</Source>
+    <Name>Positive Quirk</Name>
+    <Description>
+      Droid gets one positive personality quirk.
+    </Description>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <PositiveQuirk>true</PositiveQuirk>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroidDirect</TempType>
+    <Key>IMPDROIDDIRDEFPROG</Key>
+    <Source Page="83">Special Modifications</Source>
+    <Name>Defensive Programming</Name>
+    <Description>
+      Add one new Combat skill.
+    </Description>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <AddSkill>
+      <TypeValue>stCombat</TypeValue>
+      <SkillCount>1</SkillCount>
+    </AddSkill>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroidDirect</TempType>
+    <Key>IMPDROIDDIRBEHOPT</Key>
+    <Source Page="83">Special Modifications</Source>
+    <Name>Behavioral Optimization</Name>
+    <Description>
+      Add 1 rank to a ranked talent the droid already possesses.
+    </Description>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <AddToTalent>true</AddToTalent>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroidDirect</TempType>
+    <Key>IMPDROIDDIRSCHEM</Key>
+    <Source Page="83">Special Modifications</Source>
+    <Name>Program Pattern</Name>
+    <Description>
+      Permanently reduce difficulty of checks to program directive using this template by {0} (to a minimum of [B]Simple [-][b]).
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>2</CostTriDes>
+    <Schematic>true</Schematic>
+  </CraftImprovement>
+
+
+  <!-- Droid Directives - Negative -->
+
+  <CraftImprovement>
+    <TempType>ctDroidDirect</TempType>
+    <Key>IMPDROIDDIRECCEN</Key>
+    <Source Page="83">Special Modifications</Source>
+    <Name>Eccentric</Name>
+    <Description>
+      Add one random negative personality quirk.
+    </Description>
+    <CostAdvThr>-1</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <RandomNegativeQuirk>true</RandomNegativeQuirk>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroidDirect</TempType>
+    <Key>IMPDROIDDIRPOORLIST</Key>
+    <Source Page="83">Special Modifications</Source>
+    <Name>Poor Listening Skills</Name>
+    <Description>
+      Add [SE][SE] to checks to give this droid orders.
+    </Description>
+    <CostAdvThr>-2</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Abilities>
+      <Ability>
+        <Name>Poor Listening Skills</Name>
+        <Description>Add [SE][SE] to checks to give this droid orders.</Description>
+      </Ability>
+    </Abilities>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroidDirect</TempType>
+    <Key>IMPDROIDDIRNQUIRK</Key>
+    <Source Page="83">Special Modifications</Source>
+    <Name>Negative Quirk</Name>
+    <Description>
+      Add one negative personality quirk.
+    </Description>
+    <CostAdvThr>-3</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <NegativeQuirk>true</NegativeQuirk>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroidDirect</TempType>
+    <Key>IMPDROIDDIRLIMPROG</Key>
+    <Source Page="83">Special Modifications</Source>
+    <Name>Limited Programming</Name>
+    <Description>
+      Upgrade the difficulty of skill checks droid has no ranks in by 1.
+    </Description>
+    <CostAdvThr>-3</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Abilities>
+      <Ability>
+        <Name>Limited Programming</Name>
+        <Description>Upgrade the difficulty of skill checks droid has no ranks in by {0}.</Description>
+      </Ability>
+    </Abilities>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctDroidDirect</TempType>
+    <Key>IMPDROIDDIRUNKFLAW</Key>
+    <Source Page="83">Special Modifications</Source>
+    <Name>Unknown Flaw</Name>
+    <Description>
+      GM secretly adds {0} negative personality trait.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>-2</CostTriDes>
+  </CraftImprovement>
+  
+  <!-- Fortifications - Positive -->
+  <CraftImprovement>
+    <TempType>ctFortification</TempType>
+    <Key>IMPFORTCAP</Key>
+    <Source Page="85">Forged in Battle</Source>
+    <Name>Expanded Capacity</Name>
+    <Description>
+      Increases the fortification's occupancy by 1.
+    </Description>
+    <PassengerChange>1</PassengerChange>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1 </CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctFortification</TempType>
+    <Key>IMPFORTCOVER</Key>
+    <Source Page="85">Forged in Battle</Source>
+    <Name>Additional Cover</Name>
+    <Description>
+      Increases the ranged defense of the fortification by 1.
+    </Description>
+    <RDefChange>1</RDefChange>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1 </CostTriDes>
+    <SelectCount>1</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctFortification</TempType>
+    <Key>IMPFORTADDL</Key>
+    <Source Page="85">Forged in Battle</Source>
+    <Name>Additional Feature - Miscellaneous</Name>
+    <Description>
+      Add a useful feature to the fortification (add feature to description of fortification).
+    </Description>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1 </CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctFortification</TempType>
+    <Key>IMPFORTADDLWEAP</Key>
+    <Source Page="85">Forged in Battle</Source>
+    <Name>Additional Feature - Standard Weapon Turret</Name>
+    <Description>
+      Add a standard weapon to fortification.
+    </Description>
+    <AddVehicleWeapon>true</AddVehicleWeapon>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1 </CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctFortification</TempType>
+    <Key>IMPFORTADDLWEAPM</Key>
+    <Source Page="85">Forged in Battle</Source>
+    <Name>Additional Feature - Custom Weapon Turret</Name>
+    <Description>
+      Add a custom weapon to fortification.
+    </Description>
+    <AddWeaponModifier>true</AddWeaponModifier>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1 </CostTriDes>
+  </CraftImprovement>
+  <!--<CraftImprovement>
+    <TempType>ctFortification</TempType>
+    <Key>IMPFORTADDLATTACH</Key>
+    <Source Page="85">Forged in Battle</Source>
+    <Name>Additional Feature - Attachment</Name>
+    <Description>
+      Add an attachment to fortification.
+    </Description>
+    <IntegralAttachment>true</IntegralAttachment>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1 </CostTriDes>
+  </CraftImprovement>-->
+  <CraftImprovement>
+    <TempType>ctFortification</TempType>
+    <Key>IMPFORTARMOR</Key>
+    <Source Page="85">Forged in Battle</Source>
+    <Name>Reinforced Armor</Name>
+    <Description>
+      Increase the fortification's armor by 1.
+    </Description>
+    <ArmorChange>1</ArmorChange>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>1 </CostTriDes>
+    <SelectCount>1</SelectCount>
+  </CraftImprovement>
+
+  <!-- Fortifications - Negative-->
+  
+  <CraftImprovement>
+    <TempType>ctFortification</TempType>
+    <Key>IMPFORTEXHAUST</Key>
+    <Source Page="85">Forged in Battle</Source>
+    <Name>Exhausting Effort</Name>
+    <Description>
+      Suffer 3 strain when finished with construction.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>-1</CostAdvThr>
+    <CostTriDes>-1 </CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctFortification</TempType>
+    <Key>IMPFORTINFPROT</Key>
+    <Source Page="85">Forged in Battle</Source>
+    <Name>Inferior Protection</Name>
+    <Description>
+      Decreases the ranged defense of the fortification by 1.
+    </Description>
+    <RDefChange>-1</RDefChange>
+    <CostAdvThr>-2</CostAdvThr>
+    <CostTriDes>-1 </CostTriDes>
+    <SelectCount>1</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctFortification</TempType>
+    <Key>IMPFORTVULN</Key>
+    <Source Page="85">Forged in Battle</Source>
+    <Name>Vulnerability</Name>
+    <Description>
+      Fortification includes a critical flaw that an enemy can use to easily neutralize it.
+    </Description>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Vulnerability[b] - Includes {0} critical flaw(s) that an enemy can use to easily neutralize this fortification.</MiscDesc>
+      </Mod>
+    </Mods>
+    <CostAdvThr>-3</CostAdvThr>
+    <CostTriDes>-1 </CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctFortification</TempType>
+    <Key>IMPFORTLIFE</Key>
+    <Source Page="85">Forged in Battle</Source>
+    <Name>Limited Lifespan</Name>
+    <Description>
+      This fortification can protect for a limited number of attacks before it is rendered useless (GM's discretion).
+    </Description>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Limited Lifespan[b] - This fortification can protect for a limited number of attacks before it is rendered useless (GM's discretion).</MiscDesc>
+        <Count>1</Count>
+      </Mod>
+    </Mods>
+    <SelectCount>1</SelectCount>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>-1 </CostTriDes>
+  </CraftImprovement>
+  
+  <!-- Vehicle Frames - Positive-->
+
+  <CraftImprovement>
+    <TempType>ctVehicleFrame</TempType>
+    <Key>IMPVEHFRLESSON</Key>
+    <Source Page="81">Fully Operational</Source>
+    <Name>Lessons Learned</Name>
+    <Description>
+      Gain [BO] on the next check made with the same skill during this session.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleFrame</TempType>
+    <Key>IMPVEHFRSCOPE</Key>
+    <Source Page="81">Fully Operational</Source>
+    <Name>Larger Scope</Name>
+    <Description>
+      Increases the craft's silhouette by 1.
+    </Description>
+    <SilhouetteChange>1</SilhouetteChange>
+    <SelectCount>1</SelectCount>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleFrame</TempType>
+    <Key>IMPVEHFRHP</Key>
+    <Source Page="81">Fully Operational</Source>
+    <Name>Extra Hard Point</Name>
+    <Description>
+      Add 1 customization hard point to the craft.
+    </Description>
+    <HPChange>1</HPChange>
+    <SelectCount>1</SelectCount>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleFrame</TempType>
+    <Key>IMPVEHFINTIMP</Key>
+    <Source Page="81">Fully Operational</Source>
+    <Name>Integrated Improvement</Name>
+    <Description>
+      Increase or decrease passenger or crew capacity by one half.
+    </Description>
+    <IntegratedImprovement>true</IntegratedImprovement>
+    <SelectCount>1</SelectCount>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleFrame</TempType>
+    <Key>IMPVEHFRREINFCONST</Key>
+    <Source Page="81">Fully Operational</Source>
+    <Name>Reinforced Construction</Name>
+    <Description>
+      Increase the craft's hull trauma threshold by one.
+    </Description>
+    <HullTraumaChange>1</HullTraumaChange>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleFrame</TempType>
+    <Key>IMPVEHFRHARDWORK</Key>
+    <Source Page="81">Fully Operational</Source>
+    <Name>Hard Work Recognized</Name>
+    <Description>
+      Increase crafter's Duty by two.
+    </Description>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleFrame</TempType>
+    <Key>IMPVEHFREFFCONST</Key>
+    <Source Page="81">Fully Operational</Source>
+    <Name>Efficient Construction</Name>
+    <Description>
+      Retain supplies worth 50% of the Material Price.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <MaterialCostDiscount>50</MaterialCostDiscount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleFrame</TempType>
+    <Key>IMPVEHFRELEGANT</Key>
+    <Source Page="81">Fully Operational</Source>
+    <Name>Elegant Design</Name>
+    <Description>
+      Decrease the craft's silhouette by {0}.
+    </Description>
+    <SilhouetteChange>-1</SilhouetteChange>
+    <SelectCount>1</SelectCount>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleFrame</TempType>
+    <Key>IMPVEHFRTOOBIG</Key>
+    <Source Page="81">Fully Operational</Source>
+    <Name>Too Big to Hurt</Name>
+    <Description>
+      Add Massive 1 to the craft, or increase Massive rating by one.
+    </Description>
+    <MassiveChange>1</MassiveChange>
+    <SelectCount>1</SelectCount>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleFrame</TempType>
+    <Key>IMPVEHFRSCHEM</Key>
+    <Source Page="81">Fully Operational</Source>
+    <Name>Schematic</Name>
+    <Description>
+      Permanently reduce difficulty of checks to create a frame using this template by {0} (to a minimum of [B]Simple [-][b]).
+    </Description>
+    <Schematic>true</Schematic>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleFrame</TempType>
+    <Key>IMPVEHFRMODIF</Key>
+    <Source Page="81">Fully Operational</Source>
+    <Name>Modifiable</Name>
+    <Description>
+      Reduce the difficulty of checks to modify attachments on this vehicle by {0} (to a minimum of [B]Easy ([DI])[b]).
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Modifiable[b] - Reduce the difficulty of checks to modify attachments on this vehicle by {0} (to a minimum of [B]Easy ([DI])[b]).</MiscDesc>
+        <Count>0</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+
+  <!-- Vehicle Frames - Negative-->
+  <CraftImprovement>
+    <TempType>ctVehicleFrame</TempType>
+    <Key>IMPVEHFRTOUGHONE</Key>
+    <Source Page="81">Fully Operational</Source>
+    <Name>This is a Tough One</Name>
+    <Description>
+      Upon completing the [B]Assembly[b] step, character suffers 5 strain.
+    </Description>
+    <CostAdvThr>-1</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleFrame</TempType>
+    <Key>IMPVEHFRDIFFINT</Key>
+    <Source Page="81">Fully Operational</Source>
+    <Name>Difficult to Integrate</Name>
+    <Description>
+      When a character attempts the [B]Assembly[b] step, upgrade the Mechanics check by one.
+    </Description>
+    <CostAdvThr>-2</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleFrame</TempType>
+    <Key>IMPVEHFRDIFFREP</Key>
+    <Source Page="81">Fully Operational</Source>
+    <Name>Difficult to Repair</Name>
+    <Description>
+      When a character attempts the [B]Assembly[b] step, upgrade the Mechanics check by {0}.
+    </Description>
+    <CostAdvThr>-3</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Difficult to Repair[b] - Increase the difficulty of checks to repair this vehicle by {0}.</MiscDesc>
+        <Count>0</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleFrame</TempType>
+    <Key>IMPVEHFRFAULTY</Key>
+    <Source Page="81">Fully Operational</Source>
+    <Name>Faulty Wiring</Name>
+    <Description>
+      The GM may spend [TH][TH][TH] or [DE] that a character generates on a Piloting check with this craft to have it suffer the "Major System Failure" Critical Hit result.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Faulty Wiring[b] - The GM may spend [TH][TH][TH] or [DE] that a character generates on a Piloting check with this craft to have it suffer the "Major System Failure" Critical Hit result.</MiscDesc>
+        <Count>0</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+
+  <!-- Vehicle Engines - Positive-->
+
+  <CraftImprovement>
+    <TempType>ctVehicleEngine</TempType>
+    <Key>IMPVEHENGLESSON</Key>
+    <Source Page="83">Fully Operational</Source>
+    <Name>Lessons Learned</Name>
+    <Description>
+      Gain [BO] on the next check made with the same skill duing this session.
+    </Description>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleEngine</TempType>
+    <Key>IMPVEHENGENHOUT</Key>
+    <Source Page="83">Fully Operational</Source>
+    <Name>Enhanced Output</Name>
+    <Description>
+      Increases the craft's speed by 1.
+    </Description>
+    <SpeedChange>1</SpeedChange>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleEngine</TempType>
+    <Key>IMPVEHENGFINETUNE</Key>
+    <Source Page="83">Fully Operational</Source>
+    <Name>Fine-Tuned Circuits</Name>
+    <Description>
+      Increases the craft's system strain by 1.
+    </Description>
+    <SystemStrainChange>1</SystemStrainChange>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleEngine</TempType>
+    <Key>IMPVEHENGEFFCONST</Key>
+    <Source Page="83">Fully Operational</Source>
+    <Name>Efficient Construction</Name>
+    <Description>
+      Retain supplies worth 50% of the Material Price.
+    </Description>
+    <MaterialCostDiscount>50</MaterialCostDiscount>
+    <AffectsCost>false</AffectsCost>
+    <SelectCount>1</SelectCount>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleEngine</TempType>
+    <Key>IMPVEHENGENHPOWERREFLZONE</Key>
+    <Source Page="83">Fully Operational</Source>
+    <Name>Enhanced Power to Deflectors</Name>
+    <Description>
+      Increase each vehicle defense zone by one, or one zone by two.
+    </Description>
+    <EnhancedDeflector>true</EnhancedDeflector>
+    <SelectCount>1</SelectCount>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleEngine</TempType>
+    <Key>IMPVEHENGEASYREPAIR</Key>
+    <Source Page="83">Fully Operational</Source>
+    <Name>Easy to Repair</Name>
+    <Description>
+      Reduce difficulty of checks to repair Critical Hits on this vehicle by {0}.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Easy To Repair[b]: Reduce difficulty of checks to repair Critical Hits on this vehicle by {0} (to a minimum of [B]Simple (--)[b])</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleEngine</TempType>
+    <Key>IMPVEHENGFINETUNED</Key>
+    <Source Page="83">Fully Operational</Source>
+    <Name>Fine-Tuned</Name>
+    <Description>
+      Remove [SE] from Piloting checks caused by navigation hazards and difficult terrain.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Fine-Tuned[b]: Remove {1} from Piloting checks caused by navigation hazards and difficult terrain.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleEngine</TempType>
+    <Key>IMPVEHENGSCHEM</Key>
+    <Source Page="83">Fully Operational</Source>
+    <Name>Schematic</Name>
+    <Description>
+      Permanently reduce difficulty of checks to create an engine using this template by {0} (to a minimum of [B]Simple [-][b]).
+    </Description>
+    <Schematic>true</Schematic>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+
+  <!-- Vehicle Engines - Negative-->
+  <CraftImprovement>
+    <TempType>ctVehicleEngine</TempType>
+    <Key>IMPVEHENGTOUGHONE</Key>
+    <Source Page="83">Fully Operational</Source>
+    <Name>This is a Tough One</Name>
+    <Description>
+      Upon completing the [B]Assembly[b] step, character suffers 5 strain.
+    </Description>
+    <CostAdvThr>-1</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleEngine</TempType>
+    <Key>IMPVEHENGTREAREP</Key>
+    <Source Page="83">Fully Operational</Source>
+    <Name>Treacherous to Repair</Name>
+    <Description>
+      Upgrade the difficulty of repair checks for Critical Hits.
+    </Description>
+    <SelectCount>1</SelectCount>
+    <CostAdvThr>-2</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Treacherous to Repair[b]: Upgrade the difficulty of checks to repair Critical Hits suffered by this craft once.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleEngine</TempType>
+    <Key>IMPVEHENGUNRELOUT</Key>
+    <Source Page="83">Fully Operational</Source>
+    <Name>Unreliable Output</Name>
+    <Description>
+      The GM may spend [TH][TH][TH] or [DE] that a character generates on a Piloting check with this craft to have it suffer the "Power Fluctuations" Critical Hit result.
+    </Description>
+    <SelectCount>1</SelectCount>
+    <CostAdvThr>-3</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Unreliable Output[b] - The GM may spend [TH][TH][TH] or [DE] that a character generates on a Piloting check with this craft to have it suffer the "Power Fluctuations" Critical Hit result.</MiscDesc>
+        <Count>0</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleEngine</TempType>
+    <Key>IMPVEHENGPRONEFAIL</Key>
+    <Source Page="83">Fully Operational</Source>
+    <Name>Prone to Failure</Name>
+    <Description>
+      The GM may spend [DE] that a character generates on a Piloting check with this craft to have it suffer the "Engines Down" Critical Hit result.
+    </Description>
+    <SelectCount>1</SelectCount>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Prone to Failure[b] - The GM may spend [DE] that a character generates on a Piloting check with this craft to have it suffer the "Engines Down" Critical Hit result.</MiscDesc>
+        <Count>0</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleEngine</TempType>
+    <Key>IMPVEHENGFUELHOG</Key>
+    <Source Page="83">Fully Operational</Source>
+    <Name>Fuel Hog</Name>
+    <Description>
+      When this craft suffers 1 or more system strain, it suffers that amount +{0}.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Fuel Hog[b] - When this craft suffers 1 or more system strain, it suffers that amount +{0}.</MiscDesc>
+        <Count>0</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+
+  <!-- Vehicle Hulls - Positive-->
+
+  <CraftImprovement>
+    <TempType>ctVehicleHull</TempType>
+    <Key>IMPVEHHULLLESSON</Key>
+    <Source Page="84">Fully Operational</Source>
+    <Name>Lessons Learned</Name>
+    <Description>
+      Gain [BO] on the next check made with the same skill duing this session.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleHull</TempType>
+    <Key>IMPVEHHULLCARGOPOD</Key>
+    <Source Page="84">Fully Operational</Source>
+    <Name>Cargo Pods</Name>
+    <Description>
+      Increase the craft's encumbrance capacity by its silhouette.  This is doubled if the craft is a freighter.
+    </Description>
+    <CargoPods>true</CargoPods>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>0</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleHull</TempType>
+    <Key>IMPVEHHULLHP</Key>
+    <Source Page="84">Fully Operational</Source>
+    <Name>Extra Hard Point</Name>
+    <Description>
+      Add 1 customization hard point to the craft.
+    </Description>
+    <HPChange>1</HPChange>
+    <SelectCount>1</SelectCount>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleHull</TempType>
+    <Key>IMPVEHHULLLAYERED</Key>
+    <Source Page="84">Fully Operational</Source>
+    <Name>Layered Plating</Name>
+    <Description>
+      Increase the craft's armor by {0}.
+    </Description>
+    <ArmorChange>1</ArmorChange>
+    <SelectCountSil>true</SelectCountSil>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleHull</TempType>
+    <Key>IMPVEHHULLEFFCONST</Key>
+    <Source Page="84">Fully Operational</Source>
+    <Name>Efficient Construction</Name>
+    <Description>
+      Retain supplies worth 50% of the Material Price.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <MaterialCostDiscount>50</MaterialCostDiscount>
+    <SelectCount>1</SelectCount>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleHull</TempType>
+    <Key>IMPVEHHULLFINS</Key>
+    <Source Page="84">Fully Operational</Source>
+    <Name>Maneuvering Fins</Name>
+    <Description>
+      Increase the craft's handling by {0} to a maximum of +3.
+    </Description>
+    <HandlingChange>1</HandlingChange>
+    <HandlingMax>3</HandlingMax>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleHull</TempType>
+    <Key>IMPVEHHULLCARGOPOD2</Key>
+    <Source Page="84">Fully Operational</Source>
+    <Name>Cargo Pods x2</Name>
+    <Description>
+      Increase the craft's encumbrance capacity its silhouette.  This is increased to 4x silhouette if the craft is a freighter.
+    </Description>
+    <CargoPodsDouble>true</CargoPodsDouble>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleHull</TempType>
+    <Key>IMPVEHHULLINTSYSTEM</Key>
+    <Source Page="84">Fully Operational</Source>
+    <Name>Integrated System</Name>
+    <Description>
+      Add +1 hard point to craft, then install one applicable vehicle attachment that requires 1 hard point.
+    </Description>
+    <IntegralAttachment>true</IntegralAttachment>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleHull</TempType>
+    <Key>IMPVEHHULLSCHEM</Key>
+    <Source Page="84">Fully Operational</Source>
+    <Name>Schematic</Name>
+    <Description>
+      Permanently reduce difficulty of checks to create a hull using this template by {0} (to a minimum of [B]Simple [-][b]).
+    </Description>
+    <Schematic>true</Schematic>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleHull</TempType>
+    <Key>IMPVEHHULLTOOTOUGH</Key>
+    <Source Page="84">Fully Operational</Source>
+    <Name>Too Tough to Hurt</Name>
+    <Description>
+      Add Massive 1 to the craft, or increase Massive rating by one.
+    </Description>
+    <MassiveChange>1</MassiveChange>
+    <SelectCount>1</SelectCount>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+
+  <!-- Vehicle Hulls - Negative-->
+  <CraftImprovement>
+    <TempType>ctVehicleHull</TempType>
+    <Key>IMPVEHHULLTOUGHONE</Key>
+    <Source Page="84">Fully Operational</Source>
+    <Name>This is a Tough One</Name>
+    <Description>
+      Upon completing the [B]Assembly[b] step, character suffers 5 strain.
+    </Description>
+    <CostAdvThr>-1</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleHull</TempType>
+    <Key>IMPVEHHULLDIFFINT</Key>
+    <Source Page="84">Fully Operational</Source>
+    <Name>Difficult to Integrate</Name>
+    <Description>
+      When a character attempts the [B]Assembly[b] step, upgrade the Mechanics check by {0}.
+    </Description>
+    <CostAdvThr>-2</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleHull</TempType>
+    <Key>IMPVEHHULLTIGHT</Key>
+    <Source Page="84">Fully Operational</Source>
+    <Name>Tight Quarters</Name>
+    <Description>
+      Add [SE] to checks made on board this craft.
+    </Description>
+    <SelectCount>1</SelectCount>
+    <CostAdvThr>-2</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Tight Quarters[b] - Add [SE] to all checks except Piloting and Gunnery while on board this craft.</MiscDesc>
+        <Count>0</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleHull</TempType>
+    <Key>IMPVEHHULLPLATE</Key>
+    <Source Page="83">Fully Operational</Source>
+    <Name>Loose Plating</Name>
+    <Description>
+      The GM may spend [DE][DE] that a character generates on a Piloting check with this craft to have it suffer the "Destabilized" Critical Hit result.
+    </Description>
+    <SelectCount>1</SelectCount>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Loose Plating[b] - The GM may spend [DE][DE] that a character generates on a Piloting check with this craft to have it suffer the "Destabilized" Critical Hit result.</MiscDesc>
+        <Count>0</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+
+<!-- Vehicle Assembly - Positive -->
+  <CraftImprovement>
+    <TempType>ctVehicleAssembly</TempType>
+    <Key>IMPVEHASLESSON</Key>
+    <Source Page="85">Fully Operational</Source>
+    <Name>Lessons Learned</Name>
+    <Description>
+      Gain [BO] on the next check made with the same skill duing this session.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleAssembly</TempType>
+    <Key>IMPVEHASIMPSAFE</Key>
+    <Source Page="85">Fully Operational</Source>
+    <Name>Improved Safety Features</Name>
+    <Description>
+      Characters in vehicle suffer less wound and strain.
+    </Description>
+    <SelectCount>1</SelectCount>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Improved Safety Features[b] - Whenever a character in this vehicle would suffer wounds or strain from a Critical Hit the vehicle suffers, as a result of working on the vehicle, or other similar occurrences, the character suffers two fewer wound or strain, to a minimum of 1.</MiscDesc>
+        <Count>0</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleAssembly</TempType>
+    <Key>IMPVEHASIMPCUSTCONT</Key>
+    <Source Page="85">Fully Operational</Source>
+    <Name>Customized Controls</Name>
+    <Description>
+      Choose a pilot.  That pilot gains [BO] to Piloting checks made with this craft. 
+    </Description>
+    <SelectCount>1</SelectCount>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <ChoosePilot>true</ChoosePilot>
+    <Mods>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleAssembly</TempType>
+    <Key>IMPVEHASIMPUNDERBUDG</Key>
+    <Source Page="85">Fully Operational</Source>
+    <Name>Under Budget</Name>
+    <Description>
+      Retain supplies worth 25% of the Material Price.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <MaterialCostDiscount>25</MaterialCostDiscount>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <SelectCount>2</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleAssembly</TempType>
+    <Key>IMPVEHASDISTSTYLE</Key>
+    <Source Page="85">Fully Operational</Source>
+    <Name>Distinctive Style</Name>
+    <Description>
+      Crew of this craft add [BO] to Charm, Coercion, and Negotiations checks made in the presence of the vessel.
+    </Description>
+    <SelectCount>1</SelectCount>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Distinctive Style[b] - Crew of this craft add [BO] to Charm, Coercion, and Negotiations checks made in the presence of the vessel.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleAssembly</TempType>
+    <Key>IMPVEHASAHEAD</Key>
+    <Source Page="85">Fully Operational</Source>
+    <Name>Ahead of Schedule</Name>
+    <Description>
+      Reduce the time required for assembly by 25% (to a minimum of one hour)
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <TimeDiscount>25</TimeDiscount>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Mods>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleAssembly</TempType>
+    <Key>IMPVEHASMASTCONST</Key>
+    <Source Page="85">Fully Operational</Source>
+    <Name>Masterful Construction</Name>
+    <Description>
+      If this craft ever suffers the "Vaporized" Critical Hit result, or otherwise be instantaneously destroyed, it instead suffers the "Breaking Up" Critical Hit.
+    </Description>
+    <SelectCount>1</SelectCount>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Masterful Construction[b] - If this craft ever suffers the "Vaporized" Critical Hit result, or otherwise be instantaneously destroyed, it instead suffers the "Breaking Up" Critical Hit.</MiscDesc>
+        <Count>0</Count>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleAssembly</TempType>
+    <Key>IMPVEHASPLANS</Key>
+    <Source Page="85">Fully Operational</Source>
+    <Name>Assembly Plans</Name>
+    <Description>
+      Permanently reduce difficulty of checks to assemble starships and vehicles of this silhouette by {0} (to a minimum of [B]Simple [-][b]).
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <Schematic>true</Schematic>
+  </CraftImprovement>
+
+  <!-- Vehicle Assembly - Negative -->
+  <CraftImprovement>
+    <TempType>ctVehicleAssembly</TempType>
+    <Key>IMPVEHASTOUGHONE</Key>
+    <Source Page="85">Fully Operational</Source>
+    <Name>This is a Tough One</Name>
+    <Description>
+      Upon completing the [B]Assembly[b] step, character suffers 5 strain.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>-1</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleAssembly</TempType>
+    <Key>IMPVEHASFINICKY</Key>
+    <Source Page="85">Fully Operational</Source>
+    <Name>Finicky Interface</Name>
+    <Description>
+      Increase the difficulty of checks to modify attachments to this craft by {0}.
+    </Description>
+    <CostAdvThr>-2</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Finicky Interface[b]: Increase the difficulty of checks to modify attachments to this craft by {0}</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleAssembly</TempType>
+    <Key>IMPVEHASLOOKMUCH</Key>
+    <Source Page="85">Fully Operational</Source>
+    <Name>Doesn't Look Like Much</Name>
+    <Description>
+      Decrease price that buyer is willing to pay for this craft by 50%.</Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>-2</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <PriceChangePercent>-50</PriceChangePercent>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleAssembly</TempType>
+    <Key>IMPVEHASCOMPLEX</Key>
+    <Source Page="85">Fully Operational</Source>
+    <Name>Complex Construction</Name>
+    <Description>
+      Increase the difficulty of checks to repair this craft once.
+    </Description>
+    <CostAdvThr>-3</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Complex Construction[b]: Increase the difficulty of checks to repair this craft once</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleAssembly</TempType>
+    <Key>IMPVEHASSPECIAL</Key>
+    <Source Page="85">Fully Operational</Source>
+    <Name>Specialized</Name>
+    <Description>
+      Choose an environment.  Outside this environment, pilot adds [SE] to Piloting checks made with this craft.
+    </Description>
+    <ChooseEnvironment>true</ChooseEnvironment>
+    <CostAdvThr>-3</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctVehicleAssembly</TempType>
+    <Key>IMPVEHASDEFSEALS</Key>
+    <Source Page="85">Fully Operational</Source>
+    <Name>Defective Seals</Name>
+    <Description>
+      GM may spend [DE][DE] generated by a Piloting check with this craft to have it suffer the "Major Hull Breach" Critical Hit.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Defective Seals[b]: GM may spend [DE][DE] generated by a Piloting check with this craft to have it suffer the "Major Hull Breach" Critical Hit.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+
+<!-- Alchemical Potion Positive -->
+  <CraftImprovement>
+    <TempType>ctAlchemyPotion</TempType>
+    <Key>IMPALCHPOTFORT</Key>
+    <Source Page="82">Unlimited Power</Source>
+    <Name>Fortifying</Name>
+    <Description>
+      Target heals {0} wound when consumed.
+    </Description>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <CostLightDark>1</CostLightDark>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Fortifying[b]: Target heals {0} wound when consumed.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyPotion</TempType>
+    <Key>IMPALCHPOTREV</Key>
+    <Source Page="82">Unlimited Power</Source>
+    <Name>Reviving</Name>
+    <Description>
+      Target heals {0} strain when consumed.
+    </Description>
+    <DisplayCountMult>2</DisplayCountMult>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <CostLightDark>1</CostLightDark>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Reviving[b]: Target heals {0} strain when consumed.</MiscDesc>
+        <CraftMultiplier>2</CraftMultiplier>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyPotion</TempType>3
+    <Key>IMPALCHPOTDRAIN</Key>
+    <Source Page="82">Unlimited Power</Source>
+    <Name>Draining</Name>
+    <Description>
+      Target suffers {0} strain when consumed.
+    </Description>
+    <DisplayCountMult>2</DisplayCountMult>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <CostLightDark>1</CostLightDark>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Draining[b]: Target suffers {0} strain when consumed.</MiscDesc>
+        <CraftMultiplier>2</CraftMultiplier>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyPotion</TempType>3
+    <Key>IMPALCHPOTLONG</Key>
+    <Source Page="82">Unlimited Power</Source>
+    <Name>Long-Lasting</Name>
+    <Description>
+      Increase duration by {0} hour (or round)
+    </Description>
+    <DisplayCountMult>2</DisplayCountMult>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <CostLightDark>2</CostLightDark>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Long-Lasting[b]: Increase duration by {0} hour (or round).</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyPotion</TempType>3
+    <Key>IMPALCHPOTCOST</Key>
+    <Source Page="82">Unlimited Power</Source>
+    <Name>Careful Measuring</Name>
+    <Description>
+      Retain supplies worth 50% of the Material Price.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <MaterialCostDiscount>50</MaterialCostDiscount>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <CostLightDark>2</CostLightDark>
+    <SelectCount>1</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyPotion</TempType>3
+    <Key>IMPALCHPOTDUP</Key>
+    <Source Page="82">Unlimited Power</Source>
+    <Name>Large Batch</Name>
+    <Description>
+      Brew up an additional dose of the potion
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <DuplicateItem>1</DuplicateItem>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <CostLightDark>3</CostLightDark>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyPotion</TempType>3
+    <Key>IMPALCHPOTPOTENT</Key>
+    <Source Page="82">Unlimited Power</Source>
+    <Name>Extra Potency</Name>
+    <Description>
+      Increase difficulty to resist potion by {0}.
+    </Description>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <CostLightDark>3</CostLightDark>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Extra Potency[b]: Increase difficulty to resist potion by {0}, to a maximum of [B]Formidable ([DI][DI][DI][DI][DI])[b].</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyPotion</TempType>
+    <Key>IMPALCHPOTSCHEM</Key>
+    <Source Page="82">Unlimited Power</Source>
+    <Name>Recipe</Name>
+    <Description>
+      Permanently reduce difficulty of checks to create potion using this template by {0} (to a minimum of [B]Simple [-][b]).
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>4</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <CostLightDark>4</CostLightDark>
+    <Schematic>true</Schematic>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyPotion</TempType>3
+    <Key>IMPALCHPOTVIR</Key>
+    <Source Page="82">Unlimited Power</Source>
+    <Name>Virulent</Name>
+    <Description>
+      Upgrade difficulty of resistance checks by {0}.
+    </Description>
+    <CostAdvThr>4</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <CostLightDark>4</CostLightDark>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Virulent[b]: Upgrade difficulty of resistance checks by {0}.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyPotion</TempType>3
+    <Key>IMPALCHPOTEMP</Key>
+    <Source Page="82">Unlimited Power</Source>
+    <Name>Empowered</Name>
+    <Description>
+      Potion has the same effect for an additional {0} round(s).
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>2</CostTriDes>
+    <CostLightDark>5</CostLightDark>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Empowered[b]: Potion has the same effect for an additional {0} round(s).</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+
+  <!-- Alchemical Potion Negative -->
+  <CraftImprovement>
+    <TempType>ctAlchemyPotion</TempType>
+    <Key>IMPALCHPOTFOUL</Key>
+    <Source Page="82">Unlimited Power</Source>
+    <Name>Foul Taste</Name>
+    <Description>
+      User suffers {0} strain after benefiting from effects.
+    </Description>
+    <DisplayCountMult>2</DisplayCountMult>
+    <CostAdvThr>-1</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <CostLightDark>-1</CostLightDark>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Foul Taste[b]: User suffers {0} strain after benefiting from effects.</MiscDesc>
+        <CraftMultiplier>2</CraftMultiplier>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyPotion</TempType>
+    <Key>IMPALCHPOTVILE</Key>
+    <Source Page="82">Unlimited Power</Source>
+    <Name>Vile Smell</Name>
+    <Description>
+      Characters add {2} to detect use of the potion.
+    </Description>
+    <CostAdvThr>-1</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <CostLightDark>-1</CostLightDark>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Vile Smell[b]: Characters add {2} to detect use of the potion.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyPotion</TempType>
+    <Key>IMPALCHPOTBRIEF</Key>
+    <Source Page="82">Unlimited Power</Source>
+    <Name>Brief Effect</Name>
+    <Description>
+      Decrease duration by {0} hour (or round).
+    </Description>
+    <CostAdvThr>-2</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <CostLightDark>-2</CostLightDark>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Brief Effect[b]: Decrease duration by {0} hour (or round), to a minimum of 1.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyPotion</TempType>
+    <Key>IMPALCHPOTSLOP</Key>
+    <Source Page="82">Unlimited Power</Source>
+    <Name>Sloppy Brewing</Name>
+    <Description>
+      Cannot finish until more supplies are acquired costing {0}% of Material Price
+    </Description>
+    <DisplayCountMult>25</DisplayCountMult>
+    <CostAdvThr>-2</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <CostLightDark>-2</CostLightDark>
+    <MaterialCostDiscount>-25</MaterialCostDiscount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyPotion</TempType>3
+    <Key>IMPALCHPOTDIL</Key>
+    <Source Page="82">Unlimited Power</Source>
+    <Name>Diluted Strength</Name>
+    <Description>
+      Reduce difficulty of resistance checks by {0}.
+    </Description>
+    <CostAdvThr>-3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <CostLightDark>-3</CostLightDark>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Diluted Strength[b]: Reduce difficulty of resistance checks by {0}, to a minimum of [B]Simple(-)[b].</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyPotion</TempType>3
+    <Key>IMPALCHPOTEVIL</Key>
+    <Source Page="82">Unlimited Power</Source>
+    <Name>Empowered by Evil</Name>
+    <Description>
+      After consuming, user suffers {0} Conflict.
+    </Description>
+    <DisplayCountMult>2</DisplayCountMult>
+    <CostAdvThr>-3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <CostLightDark>-3</CostLightDark>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Empowered by Evil[b]: After consuming, user suffers {0} Conflict.</MiscDesc>
+        <CraftMultiplier>2</CraftMultiplier>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyPotion</TempType>3
+    <Key>IMPALCHPOTSIDE</Key>
+    <Source Page="82">Unlimited Power</Source>
+    <Name>Unexpected Side Effects</Name>
+    <Description>
+      GM may select effects of another potion and apply them to the target.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>2</CostTriDes>
+    <CostLightDark>-4</CostLightDark>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Unexpected Side Effects[b]: GM may select effects of another potion and apply them to the target.  Harmful potions get beneficial effects and vice versa.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+
+  <!-- Alchemical Talisman Positive -->
+  <CraftImprovement>
+    <TempType>ctAlchemyTalisman</TempType>3
+    <Key>IMPALCHTALDRAIN</Key>
+    <Source Page="85">Unlimited Power</Source>
+    <Name>Draining</Name>
+    <Description>
+      Character suffers {0} strain after resolving effects of talisman.
+    </Description>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <CostLightDark>1</CostLightDark>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Draining[b]: Character suffers {0} strain after resolving effects of talisman.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyTalisman</TempType>3
+    <Key>IMPALCHTALHID</Key>
+    <Source Page="85">Unlimited Power</Source>
+    <Name>Hidden Purpose</Name>
+    <Description>
+      Add {1} to any checks made to determine talisman's true purpose.
+    </Description>
+    <CostAdvThr>1</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <CostLightDark>1</CostLightDark>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Hidden Purpose[b]: Add {1} to any checks made to determine talisman's true purpose.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyTalisman</TempType>3
+    <Key>IMPALCHTALPOW</Key>
+    <Source Page="85">Unlimited Power</Source>
+    <Name>Growing Power</Name>
+    <Description>
+      Any enemy skill check required by this talisman has its difficulty increased by {0}.
+    </Description>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <CostLightDark>2</CostLightDark>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Growing Power[b]: Any enemy skill check required by this talisman has its difficulty increased by {0}.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyTalisman</TempType>3
+    <Key>IMPALCHTALINVIG</Key>
+    <Source Page="85">Unlimited Power</Source>
+    <Name>Invigorating</Name>
+    <Description>
+      User recovers {0} strain after using talisman.
+    </Description>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <CostLightDark>2</CostLightDark>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Invigorating[b]: User recovers {0} strain after using talisman.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyTalisman</TempType>3
+    <Key>IMPALCHTALMAT</Key>
+    <Source Page="85">Unlimited Power</Source>
+    <Name>Careful Measuring</Name>
+    <Description>
+      Retain supplies worth 50% of the Material Price.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <MaterialCostDiscount>50</MaterialCostDiscount>
+    <CostAdvThr>2</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <CostLightDark>2</CostLightDark>
+    <SelectCount>1</SelectCount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyTalisman</TempType>3
+    <Key>IMPALCHTALADDL1</Key>
+    <Source Page="85">Unlimited Power</Source>
+    <Name>Additional Power - Inflicted</Name>
+    <Description>
+      Amount of inflicted damage is increased by {0}.
+    </Description>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <CostLightDark>3</CostLightDark>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Additional Power[b]: Amount of inflicted damage is increased by {0}.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyTalisman</TempType>3
+    <Key>IMPALCHTALADDL2</Key>
+    <Source Page="85">Unlimited Power</Source>
+    <Name>Additional Power - Reduced</Name>
+    <Description>
+      Amount of reduced damage is increased by {0}.
+    </Description>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <CostLightDark>3</CostLightDark>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Additional Power[b]: Amount of reduced damage is increased by {0}.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyTalisman</TempType>3
+    <Key>IMPALCHTALDUP</Key>
+    <Source Page="85">Unlimited Power</Source>
+    <Name>Clever Construction</Name>
+    <Description>
+      Construct an additional talisman using same materials.
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <DuplicateItem>1</DuplicateItem>
+    <CostAdvThr>3</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <CostLightDark>3</CostLightDark>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyTalisman</TempType>3
+    <Key>IMPALCHTALDUP</Key>
+    <Source Page="85">Unlimited Power</Source>
+    <Name>Clever Construction</Name>
+    <Description>
+      Permanently reduce difficulty of checks to create talisman using this template by {0} (to a minimum of [B]Simple [-][b]).
+    </Description>
+    <AffectsCost>false</AffectsCost>
+    <CostAdvThr>4</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <CostLightDark>4</CostLightDark>
+    <Schematic>true</Schematic>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyTalisman</TempType>3
+    <Key>IMPALCHTALREDIR</Key>
+    <Source Page="85">Unlimited Power</Source>
+    <Name>Redirect Energy</Name>
+    <Description>
+      User may make a single maneuver as an out-of-turn incidental when talisman's effects are resolved.
+    </Description>
+    <CostAdvThr>4</CostAdvThr>
+    <CostTriDes>1</CostTriDes>
+    <CostLightDark>4</CostLightDark>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Redirect Energy[b]: User may make a single maneuver as an out-of-turn incidental when talisman's effects are resolved.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyTalisman</TempType>3
+    <Key>IMPALCHTALEMPOW1</Key>
+    <Source Page="85">Unlimited Power</Source>
+    <Name>Empowered - Single Use</Name>
+    <Description>
+      If talisman is one-use, can be used an additional {0} time(s) before being consumed.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>2</CostTriDes>
+    <CostLightDark>5</CostLightDark>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Empowered[b]: Talisman can be used 1 additional time before being consumed.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyTalisman</TempType>3
+    <Key>IMPALCHTALEMPOW2</Key>
+    <Source Page="85">Unlimited Power</Source>
+    <Name>Empowered - Once per Session</Name>
+    <Description>
+      If talisman can be used only once per session, can be used an additional time per session.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>2</CostTriDes>
+    <CostLightDark>5</CostLightDark>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Empowered[b]: Talisman can be used 1 additional time per session.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyTalisman</TempType>3
+    <Key>IMPALCHTALMIGHTY1</Key>
+    <Source Page="85">Unlimited Power</Source>
+    <Name>Mighty - Remove Setback</Name>
+    <Description>
+      If talisman has an effect that removes [SE], it removes {0} additional [SE].
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>2</CostTriDes>
+    <CostLightDark>5</CostLightDark>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Mighty[b]: Talisman removes an additional {1} from the check.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyTalisman</TempType>3
+    <Key>IMPALCHTALMIGHTY2</Key>
+    <Source Page="85">Unlimited Power</Source>
+    <Name>Mighty - Add Setback</Name>
+    <Description>
+      If talisman has an effect that adds [SE], it adds {0} additional [SE].
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>2</CostTriDes>
+    <CostLightDark>5</CostLightDark>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Mighty[b]: Talisman adds an additional {1} to the check.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyTalisman</TempType>3
+    <Key>IMPALCHTALMIGHTY3</Key>
+    <Source Page="85">Unlimited Power</Source>
+    <Name>Mighty - Add Boost</Name>
+    <Description>
+      If talisman has an effect that adds [BO], it adds {0} additional [BO].
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>2</CostTriDes>
+    <CostLightDark>5</CostLightDark>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Mighty[b]: Talisman adds an additional {2} to the check.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  
+  <!-- Alchemical Talisman - Negative-->
+
+  <CraftImprovement>
+    <TempType>ctAlchemyTalisman</TempType>3
+    <Key>IMPALCHTALNOTICE</Key>
+    <Source Page="85">Unlimited Power</Source>
+    <Name>Noticeable</Name>
+    <Description>
+      Force users add {2} to checks to determine that talisman is a crafted item and not just decorative jewelry or an ornamental keepsake.
+    </Description>
+    <CostAdvThr>-1</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <CostLightDark>-1</CostLightDark>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Noticeable[b]: Force users add {2} to checks to determine that talisman is a crafted item and not just decorative jewelry or an ornamental keepsake.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyTalisman</TempType>3
+    <Key>IMPALCHTALCUMB</Key>
+    <Source Page="85">Unlimited Power</Source>
+    <Name>Cumbersome</Name>
+    <Description>
+      Talisman increases encumbrance by {0}.
+    </Description>
+    <CostAdvThr>-1</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <CostLightDark>-1</CostLightDark>
+    <EncumbranceChange>1</EncumbranceChange>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyTalisman</TempType>3
+    <Key>IMPALCHTALBAD</Key>
+    <Source Page="85">Unlimited Power</Source>
+    <Name>Bad Feeling</Name>
+    <Description>
+      User suffers {0} Conflict after using talisman.
+    </Description>
+    <CostAdvThr>-2</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <CostLightDark>-2</CostLightDark>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Bad Feeling[b]: User suffers {0} Conflict after using talisman.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyTalisman</TempType>3
+    <Key>IMPALCHTALSLOP</Key>
+    <Source Page="85">Unlimited Power</Source>
+    <Name>Sloppy Integration</Name>
+    <Description>
+      Cannot finish until more supplies are acquired costing {0}% of Material Price
+    </Description>
+    <DisplayCountMult>25</DisplayCountMult>
+    <CostAdvThr>-2</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <CostLightDark>-2</CostLightDark>
+    <MaterialCostDiscount>-25</MaterialCostDiscount>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyTalisman</TempType>3
+    <Key>IMPALCHTALHARD</Key>
+    <Source Page="85">Unlimited Power</Source>
+    <Name>Hard to Control</Name>
+    <Description>
+      User must make a [B]Hard ([DI][DI][DI]) Discipline check[b] as an out-of-turn incidental in order for the talisman to activate
+    </Description>
+    <CostAdvThr>-3</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <CostLightDark>-3</CostLightDark>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Hard to Control[b]: User must make a [B]Hard ([DI][DI][DI]) Discipline check[b] as an out-of-turn incidentalin order for the talisman to activate</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyTalisman</TempType>3
+    <Key>IMPALCHTALEVIL</Key>
+    <Source Page="85">Unlimited Power</Source>
+    <Name>Empowered by Evil</Name>
+    <Description>
+      User suffers 2 Conflict after using talisman.
+    </Description>
+    <CostAdvThr>-3</CostAdvThr>
+    <CostTriDes>-1</CostTriDes>
+    <CostLightDark>-3</CostLightDark>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Empowered by Evil[b]: User suffers 2 Conflict after using talisman.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyTalisman</TempType>3
+    <Key>IMPALCHTALTWIST</Key>
+    <Source Page="85">Unlimited Power</Source>
+    <Name>Twisted Fates</Name>
+    <Description>
+      User must spend a Destiny Point to use talisman.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>-2</CostTriDes>
+    <CostLightDark>-4</CostLightDark>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Twisted Fates[b]: User must spend a Destiny Point to use talisman.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+  <CraftImprovement>
+    <TempType>ctAlchemyTalisman</TempType>3
+    <Key>IMPALCHTALFAIL</Key>
+    <Source Page="85">Unlimited Power</Source>
+    <Name>Failure to Activate</Name>
+    <Description>
+      GM can spend 2 Destiny Points to have the talisman fail to work.
+    </Description>
+    <CostAdvThr>0</CostAdvThr>
+    <CostTriDes>-2</CostTriDes>
+    <CostLightDark>-4</CostLightDark>
+    <SelectCount>1</SelectCount>
+    <Mods>
+      <Mod>
+        <MiscDesc>[B]Failure to Activate[b]: GM can spend 2 Destiny Points to have the talisman fail to work.</MiscDesc>
+      </Mod>
+    </Mods>
+  </CraftImprovement>
+
+
+</CraftImprovements>
+
+

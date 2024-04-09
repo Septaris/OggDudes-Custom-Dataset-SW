@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Key>SHEATHIPEDE</Key>
+  <Name>Sheathipede-Class Transport Shuttle</Name>
+  <Description>[H3][I]Sheathipede[i] - Class Transport Shuttle[h3]
+The Sheathipede-class transport shuttle, also known as the Sheathipede-class shuttles and as the Neimoidian escort shuttle, was a short-range transport used by the Trade Federation and the Confederacy of Independent Systems.[P]
+A product of Haor Chall Engineering, the Sheathipede-class was a transport shuttle with a curved hull and pincer-like landing gears, which lowered from the ship's rounded belly. At a length of fourteen-point-four meters, the shuttle was powered by two engines and featured an egress hatchway at the rear. Some models replaced the cockpit with an expanded passenger cabin, and were flown by automatic pilots. Although most were unarmed, some were fitted with a trio of laser cannons.</Description>
+  <Source Page="63">Unlimited Power</Source>
+  <Custom>DescOnly</Custom>
+  <Type>Shuttle</Type>
+  <Categories>
+    <Category>Starship</Category>
+    <Category>Non-Fighter Starship</Category>
+  </Categories>
+  <HP>2</HP>
+  <Price>120000</Price>
+  <Rarity>6</Rarity>
+  <HyperdrivePrimary>1</HyperdrivePrimary>
+  <HyperdriveBackup>10</HyperdriveBackup>
+  <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
+  <Crew>One pilot, one co-pilot, one comms operator, one engineer</Crew>
+  <EncumbranceCapacity>150</EncumbranceCapacity>
+  <Passengers>8</Passengers>
+  <Consumables>Two months</Consumables>
+  <Silhouette>4</Silhouette>
+  <Speed>3</Speed>
+  <Handling>1</Handling>
+  <DefFore>1</DefFore>
+  <DefAft>1</DefAft>
+  <Armor>4</Armor>
+  <HullTrauma>25</HullTrauma>
+  <SystemStrain>15</SystemStrain>
+  <Starship>true</Starship>
+  <SensorRange>Short</SensorRange>
+</Vehicle>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Career xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Key>JEDI</Key>
+  <Name>Jedi</Name>
+  <Description>[H4]Jedi[h4]
+The Jedi's six career skills are [B]Athletics, Cool, Discipline, Knowledge (Lore), Lightsaber,[b] and [B]Piloting (Space).[b] Characters with this career automatically gain a rank in three of these skills without spending experience and gain a discount when increasing them with future experience points. [B]Jedi begin the game with a Force rating of 1.[b]
+
+[P][B]Note:[b] In order to be able to select the Knight, General, or Master specializations, your character must have a Force rating of 2, 2, and 3 respectively. Until that requirement is met, those specializations will be hidden.
+
+[H4]A WARRIOR FOR PEACE[h4]
+
+The Jedi of today have different roles than those described in myths, legends, and folk tales. These stories describe strange mystics, tyrant-toppling heroes, and shadowy figures manipulating minds. While such tales have some basis in fact, the Jedi now serve as generals, soldiers, emergency response specialists, and-in some cases-enforcers of the Galactic Republic's will.
+[P]Since the outbreak of the Clone Wars, Jedi have found themselves exploring the more esoteric aspects of the Force only rarely. Rather than philosophizing, they spend much of their time engaged in such activities as fighting battle droids, uncovering Separatist agents, and helping civilians survive the effects of the war with only limited support from the Republic government.
+[P]Jedi begin as Initiates or younglings, become Padawans for one-on-one training, progress to Knights when ready for independent responsibility, and may ultimately become Masters, who may adopt a monastic, scholarly, or administrative life. The urgency of the Clone Wars favors this structured approach, as these titles also help dictate wartime responsibilities. Masters advise the Jedi Order and the Republic from Coruscant. Knights take to the field of battle as commanders, and Padawans stand by their Masters' sides as subcommanders and aides.
+</Description>
+  <Sources>
+    <Source Page="24">Collapse of the Republic</Source>
+    <Source Page="24">Rise of the Separatists</Source>
+  </Sources>
+  <Custom>AddedItem</Custom>
+  <CareerSkills>
+    <Key>ATHL</Key>
+    <Key>COOL</Key>
+    <Key>DISC</Key>
+    <Key>LTSABER</Key>
+    <Key>LORE</Key>
+    <Key>PILOTSP</Key>
+  </CareerSkills>
+  <Specializations>
+    <Key>JEDIGEN</Key>
+    <Key>JEDIKNIGHT</Key>
+    <Key>JEDIMASTER</Key>
+    <Key>PADAWAN</Key>
+  </Specializations>
+  <Attributes>
+    <ForceRating>1</ForceRating>
+  </Attributes>
+  <FreeRanks>3</FreeRanks>
+</Career>

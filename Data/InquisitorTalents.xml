@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<InquisitorTalents>
+  <InquisitorTalent>
+    <TalentKey>CRIPV</TalentKey>
+    <Rank>0</Rank>
+  </InquisitorTalent>
+  <InquisitorTalent>
+    <TalentKey>DRIVEBACK</TalentKey>
+    <Rank>0</Rank>
+  </InquisitorTalent>
+  <InquisitorTalent>
+    <TalentKey>PARRYIMP</TalentKey>
+    <Rank>0</Rank>
+  </InquisitorTalent>
+  <InquisitorTalent>
+    <TalentKey>INTENSFOC</TalentKey>
+    <Rank>0</Rank>
+  </InquisitorTalent>
+  <InquisitorTalent>
+    <TalentKey>LETHALBL</TalentKey>
+    <Rank>2</Rank>
+  </InquisitorTalent>
+  <InquisitorTalent>
+    <TalentKey>PARRY</TalentKey>
+    <Rank>4</Rank>
+  </InquisitorTalent>
+  <InquisitorTalent>
+    <TalentKey>PRESPNT</TalentKey>
+    <Rank>0</Rank>
+  </InquisitorTalent>
+  <InquisitorTalent>
+    <TalentKey>REFLECT</TalentKey>
+    <Rank>4</Rank>
+  </InquisitorTalent>
+  <InquisitorTalent>
+    <TalentKey>SCATHIMP</TalentKey>
+    <Rank>0</Rank>
+  </InquisitorTalent>
+</InquisitorTalents>
