@@ -1,3 +1,15 @@
+## Installation
+
+Create a folder where you will store the Character Generator and the dataset. Create two subfolders, one called `character_generator` and the other called `custom_dataset`.
+
+
+Download the [OggDude's Character Generator](https://www.swrpgcommunity.com/gm-resources/apps-dice-utilities/oggdudes-generator) zip file and unzip it inside the `character_generator` folder. Executables and other files should be unzipped right into the `character_generator` folder, not into a subfolder.
+
+
+Download the latest dataset from the [releases page]() and unzip it to a folder.
+
+Run the Character Generator launcher `SWCharGenLauncher.exe`
+
 **AvDalfsen addition:**
 This repository aims to fix the plethora of spelling and formatting errors in the original repository.
 When and where I encounter incomplete data, I will also endeavour to add it to ensure the dataset is as complete and comprehensive as possible.
