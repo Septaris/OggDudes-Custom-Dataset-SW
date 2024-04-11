@@ -1258,3 +1258,6 @@ Data/Talents.xml.bak
 
 # IDE
 .vscode
+node_modules
+yarn.lock
+
