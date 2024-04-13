@@ -70,7 +70,7 @@ def process_xml_file(file_path, logger):
 
         # Save modified XML file
         sorted_tree = ET.ElementTree(root)
-        sorted_tree.write(file_path, encoding='utf-8')
+        sorted_tree.write(file_path, encoding='utf-8', xml_declaration=True)
         logger.info(f"Processed file: '{file_path}'")
 
 
