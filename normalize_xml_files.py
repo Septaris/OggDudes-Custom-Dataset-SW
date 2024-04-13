@@ -6,6 +6,9 @@ from pathlib import Path
 import sys
 import logging
 
+class MissingKeyError(Exception):
+    pass
+
 def setup_logger():
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -18,7 +21,7 @@ def sort_by_key(element):
     if element.find('Key') is not None:
         return element.find('Key').text
     else:
-        raise ValueError("Element does not contain a 'Key' child.")
+        raise MissingKeyError("Element does not contain a 'Key' child.")
 
 def process_xml_file(file_path, logger):
     try:
@@ -30,8 +33,13 @@ def process_xml_file(file_path, logger):
         elements = root.findall('./*')
 
         # Sort elements by key child
-        elements.sort(key=sort_by_key)
+        is_sorted = False
 
+        try:
+            elements.sort(key=sort_by_key)
+            is_sorted = True
+        except MissingKeyError as err:
+            logger.warning(f"Skipping sorting of file '{file_path}': {err}")
 
         # Standardize formatting
         for element in elements:
@@ -43,16 +51,22 @@ def process_xml_file(file_path, logger):
             # Sort attributes alphabetically within each element
             element.attrib = dict(sorted(element.attrib.items()))
 
-        # create a copy of the elements list
-        elements_copy = elements.copy()
+            # sort child elements alphabetically
+            if len(element) > 0:
+                element[:] = sorted(element, key=lambda x: x.tag)
 
-        # remove all elements from the root
-        for element in elements:
-            root.remove(element)
 
-        # Add sorted elements back to the root to ensure they are in the correct order
-        for element in elements_copy:
-            root.append(element)
+        if is_sorted:
+            # create a copy of the elements list
+            elements_copy = elements.copy()
+
+            # remove all elements from the root
+            for element in elements:
+                root.remove(element)
+
+            # Add sorted elements back to the root to ensure they are in the correct order
+            for element in elements_copy:
+                root.append(element)
 
         # Save modified XML file
         sorted_tree = ET.ElementTree(root)
