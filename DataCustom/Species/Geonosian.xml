@@ -4,7 +4,7 @@
   <Name>Geonosian</Name>
   <Description>[H4]Geonosian[h4]
 No species has changed the face of the galaxy and the Galactic Republic as much as the Geonosians while receiving so little recognition. Without the oppressed labor of the Geonosian worker caste, the Confederacy of Independent Systems wouldn’t have their massive droid army Yet for all their efforts, the Geonosians, aristocratic and worker caste alike, face occupation and loss of sovereignty under the Republic flag.
-[P][B]Physiology:[b] A winged, insectoid species, Geonosians have a slim, humanoid build. Their chitinous skin ranges from red or orange to green or blue in hue, and their limbs have additional joints compared to most humanoids. Depending on a Geonosian’s caste, their wings may be vestigial or fully functional. Beyond this general form, the height, look, and structure of individual Geonosians varies. Compared to most sentients, Geonosians don't live long-with an average lifespan of sixty-five years-and they mature quickly.
+[P][B]Physiology:[b] A winged, insectoid species, Geonosians have a slim, humanoid build. Their chidnous skin ranges from red or orange to green or blue in hue, and their limbs have additional joints compared to most humanoids. Depending on a Geonosian’s caste, their wings may be vestigial or fully functional. Beyond this general form, the height, look, and structure of individual Geonosians varies. Compared to most sentients, Geonosians don't live long-with an average lifespan of sixty-five years-and they mature quickly.
 [P]Geonosian hives welcome physiological differences insofar as they might benefit the hive. By modifying genetics, either through intentional engineering or selective breeding, hives produce a wide variety of near-subspecies among their worker and warrior castes. These modification experiments, however, remain haphazard and prone to the whims of the aristocratic caste. [P][B]Society:[b] Geonosian society centers around their queens, their hives, and the castes within those hives. Offworlders generally don't realize that Geonosians have a queen, and even fewer realize that they have multiple queens, sometimes many within a single hive. In some hives, the queen simply produces offspring, and the aristocratic caste rules. In other hives, the queen acts behind the scenes, manipulating the squabbling aristocrats' desire for power. In still other  hives, the queen rules directly.
 [P]Historically, the hives of Geonosis have fought each other for resources, territory, sport, and political power. When me Geonosians began trading with offworlders, this competition was channeled into economic and industrial—and sometimes open—warfare. The warrior caste bears the brunt of the fighting, though the survivors receive promises of promotion. Often, warriors also serve as police, protecting, but more often suppressing, their own hive.
 [P]With a worker caste whose members function as slaves, Geonosians hives can produce an incredible quantity of industrial goods, even changing their production focus within days. This dependence on an oppressed caste, along with the planet's remote location in the Outer Rim, has kept Geonosis from receiving official representation in the Galactic Republic. Many citizens of the Republic have no idea that their droids and other goods were built via Geonosian worker caste labor.
@@ -33,6 +33,10 @@ No species has changed the face of the galaxy and the Galactic Republic as much 
     <StrainThreshold>9</StrainThreshold>
     <Experience>140</Experience>
   </StartingAttrs>
+  <SkillModifiers>
+  </SkillModifiers>
+  <TalentModifiers>
+  </TalentModifiers>
   <OptionChoices>
     <OptionChoice>
       <Key>GEONOSIANOC1</Key>

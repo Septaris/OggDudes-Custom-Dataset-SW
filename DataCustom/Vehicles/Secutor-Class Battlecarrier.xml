@@ -4,10 +4,10 @@
   <Name>Secutor-Class Battlecarrier</Name>
   <Description>[H3]Secutor-Class Battlecarrier[h3]
 
-Perhaps the largest dedicated starfighter carrier a: the Imperial arsenal, the massive Secutor-class battlecarrier is an old design from the earliest days of the Imperial Navy. Ostensibly one of the many types of Star Destroyer, these multi-kilometer long vessels share more in common with the earlier Venator-class carriers of the Galactic Republic Navy than anything designed by Imperial Era KDY. Like all Star Destroyers, the Secutor-class has the instantly recognizable arrowhead-shaped hull with two gaping ventral hangar bays. Unique to this ship class is the command superstructure mounted amidships (rather than aft over the ion drives as it is on modern Star Destroyers), a feature that makes these big vessels stand out in ways beyond their size.
+Perhaps the largest dedicated starhghter carrier a: the Imperial arsenal, the massive Secutor-class battlecarrier is an old design from the earliest days of the Imperial Navy. Ostensibly one of the many types of Star Destroyer, these multi-kilometer long vessels share more in common with the earlier Venator-class carriers of the Galactic Republic Navy than anything designed by Imperial Era KDY. Like all Star Destroyers, the Secutor-class has the instantly recognizable arrowhead-shaped hull with two gaping ventral hangar bays. Unique to this ship class is the command superstructure mounted amidships (rather than aft over the ion drives as it is on modern Star Destroyers), a feature that makes these big vessels stand out in ways beyond their size.
 
-[P]Derived from an earlier battlecruiser-class vessel, Secutor-class carriers are armed to the teeth with a wide variety of turbolasers, heavy ion cannons, ordnance launchers, and tractor beams. They are extremely heavily-armored and their shields can absorb a whole battlegroup's worth of damage with little effort. Within their cavernous hangars are two full wings of starfighters, 144 TIE-series fighters, and numerous shuttles and utility craft. In addition, Secutors carry the usual complement of Imperial Army walkers, troopers, armored fighting vehicles, and assorted materiel: enough to easily lay siege to a planet. While they are relatively rare in the modern Imperial Navy, Secutor-class carriers and their attendant battlegroups still have a distressing tendency to appear when least expected to lay waste to a Rebel stronghold or to provide support to a beleaguered Imperial Navy battlegroup.</Description>
-  <Source>Stay on Target</Source>
+[P]Derived from an earlier battlecruiser-class vessel, Secutor-class carriers are armed to the teeth with a wide variety of turbolasers, heavy ion cannons, ordnance launchers, and tractor beams. They are extremely heavily-armored and their shields can absorb a whole battlegroup's worth of damage with little effort. Within their cavernous hangars are two full wings of starfighters, 144 TIE-series fighters, and numerous shuttles and utility craft. In addition, Secutors carry the usual complement of Imperial Army walkers, troopers, armored fighting vehicles, and assorted materiel: enough to easily lay siege to eplanet. While they are relatively rare in the modern Imperial Navy, Secutor-class carriers and their attendant battlegroups still have a distressing tendency to appear when least expected to lay waste to a Rebel stronghold or to provide support to a beleaguered Imperial Navy battlegroup.</Description>
+  <Source Page="62">Stay on Target</Source>
   <Custom>DescOnly</Custom>
   <Type>Battlecruiser</Type>
   <Categories>
@@ -15,14 +15,18 @@ Perhaps the largest dedicated starfighter carrier a: the Imperial arsenal, the m
     <Category>Non-Fighter Starship</Category>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>2</HP>
   <Price>200000000</Price>
   <Rarity>7</Rarity>
   <Restricted>true</Restricted>
+  <BaseMods />
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
   <HyperdriveBackup>14</HyperdriveBackup>
   <StarFighters>144 starfighters</StarFighters>
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srLong</SensorRangeValue>
   <Crew>40,000 officers, pilots, and enlisted</Crew>
   <EncumbranceCapacity>28000</EncumbranceCapacity>
   <Passengers>140000</Passengers>
@@ -39,17 +43,33 @@ Perhaps the largest dedicated starfighter carrier a: the Imperial arsenal, the m
   <SystemStrain>55</SystemStrain>
   <Starship>true</Starship>
   <Massive>2</Massive>
+  <SinglePilot>false</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
       </Qualities>
       <Key>TURBOHVY</Key>
@@ -58,13 +78,28 @@ Perhaps the largest dedicated starfighter carrier a: the Imperial arsenal, the m
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
       </Qualities>
       <Key>TURBOHVY</Key>
@@ -73,14 +108,28 @@ Perhaps the largest dedicated starfighter carrier a: the Imperial arsenal, the m
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
       </Qualities>
       <Key>TURBOHVY</Key>
@@ -89,70 +138,128 @@ Perhaps the largest dedicated starfighter carrier a: the Imperial arsenal, the m
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>TURBOLT</Key>
       <Count>5</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>TURBOLT</Key>
       <Count>5</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>TURBOLT</Key>
       <Count>5</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>IONBATT</Key>
       <Count>5</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>IONBATT</Key>
       <Count>5</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Ventral</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>AFCML</Key>
       <Count>5</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>IONMED</Key>
       <Count>8</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>IONMED</Key>
       <Count>8</Count>
     </VehicleWeapon>
@@ -162,11 +269,15 @@ Perhaps the largest dedicated starfighter carrier a: the Imperial arsenal, the m
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Hull</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>TRACTHVY</Key>
       <Count>12</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

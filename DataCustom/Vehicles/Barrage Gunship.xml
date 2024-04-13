@@ -3,25 +3,43 @@
   <Key>BARRGUN</Key>
   <Name>Barrage Gunship</Name>
   <Description>[H3]Barrage Gunship[h3]
-[P]The [I]Barrage[i]-class gunship was designed to provide long-distance, overwhelming missile barrages against key enemy starships. While its design maximizes full broadside potential, this comes at the cost of a relatively fragile frame. Thus, this gunshop must be closely protected by more durable craft. Certain tacticians have learned that a carefully placed [I]Barrage[i] gunship can utterly incapacitate a key enemy vessel before the foe realizes that the first volley is away. Many buyers shy away from the vessel due to the high maintenance costs (and the high costs of ammunition). However, owners of [I]Barrage[i] gunships always speak highly of these vessels, and perhaps more tellingly, so do those who have faced them.</Description>
-  <Source>Keeping the Peace</Source>
+[P]The [I]Barrage[i]-class gunship was designed to provide long-distance, overwhelming missile barrages against key enemy starships. While its design maximizes full broadside potential, this comes at the cost of a relatively fragile frame. Thus, this gunshop must be closely protected by more durable craft. Certain tacticians have learned that a carefully placed [I]Barrage[i] gunship can utterly incapacitate a key enemy vessel before the foe realizes that the first volley is away. Many buyers shy away from the vessel due to the high maintenence costs (and the high costs of ammunition). However, owners of [I]Barrage[i] gunships always speak highly of these vessels, and perhaps more tellingly, so do those who have faced them.</Description>
+  <Source Page="62">Keeping the Peace</Source>
   <Custom>DescOnly</Custom>
   <Type>Gunship</Type>
   <Categories>
     <Category>Non-Fighter Starship</Category>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>3</HP>
   <Price>145000</Price>
   <Rarity>8</Rarity>
+  <Restricted>false</Restricted>
   <BaseMods>
     <Mod>
+      <Key />
       <Count>1</Count>
-      <MiscDesc>[B]Interior Ordnance[b]: Unlike most ship-mounted weapons, a [I]Barrage[i]'s torpedo tubes can be manually reloaded from internal reserves.  As an action, anyone onboard may make an [B]Average ([DI][DI]) Athletics check[b] to reload one proton torpedo launcher.</MiscDesc>
+      <Index>0</Index>
+      <MiscDesc>[B]Interior Ordnance[b]: Unlike most ship-mounted weapons, a [I]Barrage[i]'s torpedo tubes can be manually reloaded from internal reserves.  As an action, anyone onboard may make an [B]Average ([DI][DI]) Athletices check[b] to reload one proton torpedo launcher.</MiscDesc>
+      <DefZoneValue>None</DefZoneValue>
+      <QualReplace>false</QualReplace>
+      <SkillIsCareer>false</SkillIsCareer>
+      <SkillIsRanked>false</SkillIsRanked>
+      <VehicleWeaponUpgrades />
+      <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+      <DieModifiers />
+      <InnateSkills />
+      <ActiveQualityKey />
+      <Failed>false</Failed>
+      <DefZone />
     </Mod>
   </BaseMods>
+  <WeaponModifiers />
+  <MaxAltitude />
   <HyperdrivePrimary>3</HyperdrivePrimary>
   <HyperdriveBackup>12</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
   <SensorRangeValue>srLong</SensorRangeValue>
   <Crew>One pilot, one co-pilot, one mechanic, four gunners</Crew>
@@ -39,24 +57,54 @@
   <HullTrauma>18</HullTrauma>
   <SystemStrain>25</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>CML</Key>
       <Count>2</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZoneValue>None</DefZoneValue>
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
+          <InnateSkills />
+          <ActiveQualityKey />
+          <Failed>false</Failed>
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>PTL</Key>
@@ -64,18 +112,39 @@
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZoneValue>None</DefZoneValue>
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
+          <InnateSkills />
+          <ActiveQualityKey />
+          <Failed>false</Failed>
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>PTL</Key>
       <Count>2</Count>
     </VehicleWeapon>
   </VehicleWeapons>
+  <BuiltInAttachments />
   <SensorRange>Long</SensorRange>
 </Vehicle>

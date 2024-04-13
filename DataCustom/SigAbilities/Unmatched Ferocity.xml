@@ -8,10 +8,10 @@
   <AbilityRows>
     <AbilityRow>
       <Abilities>
-        <Key>UNMATCHEDFERBASE</Key>
-        <Key>UNMATCHEDFERBRAWL</Key>
-        <Key>UNMATCHEDFERBRAWL</Key>
-        <Key>UNMATCHEDFERBRAWL</Key>
+        <Key>UNMATCHEDFEROCITYBASE</Key>
+        <Key>UNMATCHEDFEROCITYBASE</Key>
+        <Key>UNMATCHEDFEROCITYBASE</Key>
+        <Key>UNMATCHEDFEROCITYBASE</Key>
       </Abilities>
       <Directions>
         <Direction>
@@ -62,10 +62,10 @@
     </AbilityRow>
     <AbilityRow>
       <Abilities>
-        <Key>UNMATCHEDFERSTRAIN</Key>
-        <Key>UNMATCHEDFERBRAWL</Key>
-        <Key>UNMATCHEDFERLIGHTSABER</Key>
-        <Key>UNMATCHEDFERSTRAIN</Key>
+        <Key>UNMATCHEDFEROCITYREDUCESTRAIN</Key>
+        <Key>UNMATCHEDFEROCITYSKILL1</Key>
+        <Key>UNMATCHEDFEROCITYSKILL2</Key>
+        <Key>UNMATCHEDFEROCITYREDUCESTRAIN</Key>
       </Abilities>
       <Directions>
         <Direction>
@@ -100,10 +100,10 @@
     </AbilityRow>
     <AbilityRow>
       <Abilities>
-        <Key>UNMATCHEDFERDESTINY</Key>
-        <Key>UNMATCHEDFERTARGET</Key>
-        <Key>UNMATCHEDFERCONFLICT</Key>
-        <Key>UNMATCHEDFERSTRAIN</Key>
+        <Key>UNMATCHEDFEROCITYDESTINY</Key>
+        <Key>UNMATCHEDFEROCITYCHANGETARGET</Key>
+        <Key>UNMATCHEDFEROCITYREDUCECONFLICT</Key>
+        <Key>UNMATCHEDFEROCITYREDUCESTRAIN</Key>
       </Abilities>
       <Directions>
         <Direction>

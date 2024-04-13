@@ -6,52 +6,95 @@
     [H3]All Terrain Scout Transport[h3]
 
 The Imperial Army's AT-ST is a medium-sized bipedal walker designed as a fast force reconnaissance vehicle. Unlike their larger, heavier AT-AT siblings, AT-STs are quite fast and agile. Deployed either in tandem for long range reconnaissance or in squadrons when supporting troops or armor, the AT-ST consists of a lightly armored, slab-sided command pod set atop a pair of thin reverse-articulated legs. The command pod can rotate through 180 degrees, allowing the walker to bring its weapons quickly to bear without having to change the position of its legs, an extremely useful feature when fighting in rough or broken terrain. They are armed with a versatile mix of blasters and ordnance, and can fill both antipersonnel and light anti-armor roles with ease. While certainly capable, AT-STs have a reputation as relatively fragile, high-maintenance vehicles. Their drive systems are especially finicky, requiring many, many hours of maintenance, and an inattentive pilot can easily become entangled in obstacles or heavy ground cover.</Description>
-  <Source>Age of Rebellion Core Rulebook</Source>
+  <Source Page="265">Age of Rebellion Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <Type>Walker</Type>
   <Categories>
     <Category>Walker</Category>
     <Category>Land Vehicle</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>1</HP>
   <Price>75000</Price>
   <Rarity>5</Rarity>
   <Restricted>true</Restricted>
+  <MaxAltitude />
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot, one gunner</Crew>
   <EncumbranceCapacity>18</EncumbranceCapacity>
+  <Passengers>0</Passengers>
+  <Consumables />
   <Silhouette>3</Silhouette>
   <Speed>2</Speed>
+  <Handling>0</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>3</Armor>
   <HullTrauma>15</HullTrauma>
   <SystemStrain>12</SystemStrain>
+  <Starship>false</Starship>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>BLASTCANLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>CONGRENLAUNCH</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Chin</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>BLASTCANHVY</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

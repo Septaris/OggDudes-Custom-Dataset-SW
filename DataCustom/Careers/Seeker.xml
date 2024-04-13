@@ -15,7 +15,7 @@ from the heart of galactic civilization. A Force adept who is willing and able t
 
 [P]This flexibility is vital for a Seeker. Some of these characters travel at the direction of the Force, allowing fortune and chance to select their destinations and their traveling companions. Others work within the confines of larger groups. They may be troubleshooters. bounty hunters, envoys, or even traveling merchants. The variety of work means the Seeker must be prepared to quickly adapt to these changing situations and to make the most effective use possible of the tools that are at hand.</Description>
   <Source Page="84">Force and Destiny Core Rulebook</Source>
-  <Custom>DescOnly</Custom>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>PILOTPL</Key>
     <Key>PILOTSP</Key>
@@ -27,13 +27,32 @@ from the heart of galactic civilization. A Force adept who is willing and able t
   <Specializations>
     <Key>ATARU</Key>
     <Key>EXECUTIONER</Key>
+    <Key>FORCEADHERENT</Key>
     <Key>HERMIT</Key>
     <Key>HUNTER</Key>
+    <Key>IMPERIALACADEMYCADET</Key>
     <Key>NAVIGATOR</Key>
+    <Key>PADAWANSURVIVOR</Key>
     <Key>PATH</Key>
+    <Key>PIRATE</Key>
+    <Key>RETIREDCLONETROOPER</Key>
+    <Key>SHIPCAPTAIN</Key>
   </Specializations>
   <Attributes>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
+    <Experience>0</Experience>
     <ForceRating>1</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+    </Requirement>
   </Attributes>
   <FreeRanks>3</FreeRanks>
 </Career>

@@ -14,6 +14,11 @@ Humans are the most populous and gregarious of the galaxy's sapient species. The
 [P][B]Homeworld:[b] Humans are thought to have arisen somewhere in the Core Worlds, perhaps on Coruscant itself. However, humans took to the stars so long ago (perhaps even before the invention of faster-than-light travel) that now, humans claim countless planets as their homes.
 
 [P][B]Language:[b] The main language that connects "baseline" humans is Basic, though each society has its own dialect and sometimes even sub-language.</Description>
+  <Sources>
+    <Source Page="48">Edge of the Empire Core Rulebook</Source>
+    <Source Page="57">Age of Rebellion Core Rulebook</Source>
+    <Source Page="55">Force and Destiny Core Rulebook</Source>
+  </Sources>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>

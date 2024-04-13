@@ -9,8 +9,8 @@ First designed decades before the Battle of Naboo, these tough little freighters
 
 [P]The Hawk-290 is a light, fast, agile craft designed for speed and comfort rather than heavy lifting. They are handsome vessels with lean, angular hulls and narrow, deeply tinted viewports that make them look fast and aggressive, even when parked in a hangar. While they were never designed to carry much cargo, the HWK-series still has a respectable lift capacity for vessels of their size, and are well suited for courier work and the transportation of small, highly valuable cargoes. They have light armor and were originally designed with no weapon systems, relying instead on raw speed and maneuverability for protection. Of course, being CEC products, they are incredibly versatile and modular, and most Hawks still plying the spacelanes are so heavily modified as to be nearly unrecognizable. </Description>
   <Sources>
-    <Source>Force and Destiny Core Rulebook</Source>
-    <Source>Far Horizons</Source>
+    <Source Page="56">Far Horizons</Source>
+    <Source Page="263">Force and Destiny Core Rulebook</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <Type>Light Freighter</Type>
@@ -21,8 +21,14 @@ First designed decades before the Battle of Naboo, these tough little freighters
   <HP>5</HP>
   <Price>70000</Price>
   <Rarity>7</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot, one co-pilot</Crew>
   <EncumbranceCapacity>75</EncumbranceCapacity>
   <Passengers>2</Passengers>
@@ -32,9 +38,13 @@ First designed decades before the Battle of Naboo, these tough little freighters
   <Handling>1</Handling>
   <DefFore>1</DefFore>
   <DefAft>1</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>2</Armor>
   <HullTrauma>18</HullTrauma>
   <SystemStrain>18</SystemStrain>
   <Starship>true</Starship>
-  <SensorRange>Close</SensorRange>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
+  <VehicleWeapons />
 </Vehicle>

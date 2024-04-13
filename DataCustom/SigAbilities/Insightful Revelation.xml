@@ -3,10 +3,11 @@
   <Key>INSIGHTREVEL</Key>
   <Name>Insightful Revelation</Name>
   <Description>Many fringers may scoff at the highly educated individual, mocking him as an ivory tower academic with no experience in the real world. What most people don't realize is just how effective the academic can be when he applies his formidable intellect and lengthy education to the task at hand. When confronted with an impossible quandary, the Colonist can use his vast store of knowledge to analyze the problem and arrive at a solution nobody else could have even begun to figure out.</Description>
-  <Source>Far Horizons</Source>
+  <Source Page="36">Far Horizons</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>INSIGHTFULBASIC</Key>
         <Key>INSIGHTFULBASIC</Key>
@@ -14,14 +15,30 @@
         <Key>INSIGHTFULBASIC</Key>
       </Abilities>
       <Directions>
-        <Direction />
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
-        <Direction />
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
       </Directions>
       <AbilitySpan>
         <Span>4</Span>
@@ -61,6 +78,7 @@
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>INSIGHTFULSETBACK</Key>
         <Key>INSIGHTFULDESTINY</Key>
@@ -69,7 +87,9 @@
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
@@ -82,9 +102,12 @@
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
@@ -102,6 +125,7 @@
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>INSIGHTFULADDBOOST</Key>
         <Key>INSIGHTFULSETBACK</Key>
@@ -110,21 +134,28 @@
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
       <AbilitySpan>

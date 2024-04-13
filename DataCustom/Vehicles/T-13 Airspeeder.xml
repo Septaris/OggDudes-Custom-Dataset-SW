@@ -17,7 +17,7 @@ The T-13 is an older model airspeeder designed by the Incom Corporation. The spe
   <BaseMods>
     <Mod>
       <Count>1</Count>
-      <MiscDesc>[B]Back Seat Piloting:[b] When the T-13 is piloted from the rear position, the rudimentary controls reduce the Handling score from + 1 to -1.</MiscDesc>
+      <MiscDesc>[B]Back Seat Piloting[b]: When piloted from the rear position, reduce Handling from +1 to -1.</MiscDesc>
     </Mod>
   </BaseMods>
   <MaxAltitude>200 kilometers</MaxAltitude>
@@ -30,6 +30,7 @@ The T-13 is an older model airspeeder designed by the Incom Corporation. The spe
   <Armor>2</Armor>
   <HullTrauma>5</HullTrauma>
   <SystemStrain>6</SystemStrain>
+  <SinglePilot>true</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>

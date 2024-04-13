@@ -3,11 +3,17 @@
   <Key>ARCHEOLOGIST</Key>
   <Name>Archaeologist</Name>
   <Description>[H4]Archaeologist - The Thirst For Discovery[h4]
+
 [P]Most Explorers are searching for the new—new opportunities, new planets, new civilizations, new marketplaces, etc. Archaeologists, on the other hand, are firmly entrenched in the old. The galaxy is impossibly old, and nigh-infinite millennia have witnessed the rise and fall of countless civilizations. The Archaeologist endeavors to find these lost cultures and unlock the secrets of their history, art, science, and everything else about them.
+
 [P]Though Archaeologists have a strong focus on their scholastic pursuits and understanding of history, they tend to have a rough-and-tumble approach to dealing with the, inevitable challenges they are likely to face in the field.
+
 [P]An Archaeologist's list of bonus career skills is a clear indication of his particular areas of focus: [B]Athletics, Discipline, Knowledge (Education),[b] and [B]Knowledge (Lore)[b]. If this is the character's starting specialization, he may choose two of these skills and gain one free rank in each without spending additional starting experience.
+
 [P]Most Archaeologists believe very passionately that what they do is noble and important to the people of the galaxy. They tend to be less concerned with who is currently in charge, except for how the prevailing policies of the current government impact their studies and digs. Unfortunately for the current state of the field, the Empire tends to take a very heavy hand in matters of "revisionist history," preferring to alter findings to best fit its agendas. As such, most Archaeologists either work outside of Imperial channels or wish they did.
+
 [P]Player Character Archaeologists can easily be the centerpiece of a new campaign, building a team of other specialists to help in a recently embarked-upon expedition. Otherwise, such a character may be between digs and looking either for an expedition to,join or "filler work" until he can make the right kinds of contacts.
+
 [P]Perhaps an archeology-oriented Explorer joins a group that's journeying to an area for completely different reasons; he trades his skills and knowledge for the chance to investigate rumors of a potentially valuable find once he gets to where they are going.</Description>
   <Source Page="25">Enter the Unknown</Source>
   <Custom>DescOnly</Custom>
@@ -19,6 +25,7 @@
   </CareerSkills>
   <TalentRows>
     <TalentRow>
+      <Index>0</Index>
       <Cost>5</Cost>
       <Talents>
         <Key>WELLROUND</Key>
@@ -27,19 +34,34 @@
         <Key>GRIT</Key>
       </Talents>
       <Directions>
-        <Direction />
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>10</Cost>
       <Talents>
         <Key>DURA</Key>
@@ -49,27 +71,33 @@
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>15</Cost>
       <Talents>
         <Key>STUNBL</Key>
@@ -79,23 +107,33 @@
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>20</Cost>
       <Talents>
         <Key>HARDHD</Key>
@@ -105,6 +143,7 @@
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
@@ -112,6 +151,7 @@
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
@@ -122,12 +162,14 @@
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>25</Cost>
       <Talents>
         <Key>PIN</Key>
@@ -137,24 +179,31 @@
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
     </TalentRow>
   </TalentRows>
+  <Universal>false</Universal>
 </Specialization>

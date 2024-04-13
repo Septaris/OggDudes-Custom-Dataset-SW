@@ -11,9 +11,6 @@ The standard Dustcrawler features three connected cars, but Dustcrawlers are des
 [P]Dustcrawlers of four or more cars are often found in use as mass transit vehicles in airless environments. For example, Polis Massa Base uses 5-car Dustcrawlers to ferry workers between the living quarters and the mining operation, carrying an entire shift of workers at a time.</Description>
   <Source Page="60">Unlimited Power</Source>
   <Custom>DescOnly</Custom>
-  <BuiltInAttachments>
-    <Key>DUSTCRAWLER</Key>
-  </BuiltInAttachments>
   <Type>Groundcar</Type>
   <Categories>
     <Category>Wheeled Vehicle</Category>
@@ -32,4 +29,7 @@ The standard Dustcrawler features three connected cars, but Dustcrawlers are des
   <SystemStrain>30</SystemStrain>
   <SinglePilot>true</SinglePilot>
   <SensorRange>Close</SensorRange>
+  <BuiltInAttachments>
+    <Key>DUSTCRAWLER</Key>
+  </BuiltInAttachments>
 </Vehicle>

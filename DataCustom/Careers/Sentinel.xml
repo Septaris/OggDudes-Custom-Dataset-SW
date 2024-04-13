@@ -21,7 +21,7 @@ The Sentinel's six career skills are [B]Computers, Deception, Knowledge (Core Wo
 
 [P]Characters with a strong moral imperative may see these crusading skills as a means of Investigating powerful individuals. If they find powerful villains who are above the law, then employing less ethical approaches might be the only means to bring these rogues to justice. Under these circumstances, a Sentinel could readily justify deception and even minor crimes if they were undertaken to assure that a tyrant's excesses could be curbed.</Description>
   <Source Page="90">Force and Destiny Core Rulebook</Source>
-  <Custom>DescOnly</Custom>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>COMP</Key>
     <Key>CORE</Key>
@@ -32,14 +32,33 @@ The Sentinel's six career skills are [B]Computers, Deception, Knowledge (Core Wo
   </CareerSkills>
   <Specializations>
     <Key>ARTISAN</Key>
+    <Key>FORCEADHERENT</Key>
+    <Key>IMPERIALACADEMYCADET</Key>
     <Key>INVESTIGATOR</Key>
+    <Key>PADAWANSURVIVOR</Key>
+    <Key>PIRATE</Key>
     <Key>RACER</Key>
+    <Key>RETIREDCLONETROOPER</Key>
     <Key>SENTRY</Key>
     <Key>SHADOW</Key>
     <Key>SHIEN</Key>
+    <Key>SHIPCAPTAIN</Key>
   </Specializations>
   <Attributes>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
+    <Experience>0</Experience>
     <ForceRating>1</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+    </Requirement>
   </Attributes>
   <FreeRanks>3</FreeRanks>
 </Career>

@@ -16,7 +16,7 @@ A mysterious species of mercenaries in the employ of the Hutts, the Ganks are am
 [P][B]Homeworld:[b] The homeworld of the Ganks is unknown. Many suspect that they originally hail from a planet somewhere within the Bootana Hutta itself, or possibly from a world hidden within the dense, radioactive clouds of the Oktos Nebula. Whatever the case may be, most Ganks can be found working for the Hutts within the vertical cities of Nar Shaddaa.
 
 [P][B]Language:[b] While Casks have their own language, it is completely unknown to non-Ganks, as it is almost never spoken out loud. Ganks prefer to communicate silently among themselves via their cybernetic comlinks. Most Ganks also speak at least some Basic and are generally fluent in Huttese.</Description>
-  <Source>Lords of Nal Hutta</Source>
+  <Source Page="95">Lords of Nal Hutta</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>

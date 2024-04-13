@@ -8,7 +8,7 @@
 Based on the highly successful CR90 corvette, the CR92a Assassin-class corvette is a more heavily armed and armored variant designed with naval and long-range patrol duties in mind. A sleek, purpose-built capital ship, the Assassin-class has been readily adopted by the Imperial Navy and Corellian defense fleet. These vessels fulfill several roles, serving as pickets and starfighter screens for larger ships, escorting convoys, or patrolling space lanes. Like most CEC-built vessels, the CR92a is fast and agile for a ship of its size, allowing it to rapidly react to threats or chase down pirates.
 
 [P]The corvettes boast six Taim &amp; Bak dual turbolasers, two quad laser cannons for point defense, and a proton torpedo launcher. While the heavy armament of the CR92a allows it to outgun most ships of comparable size and even be a threat to frigates and light cruisers, starfighters can still pose a problem for these vessels. To contend with this shortcoming, Corellian doctrine typically pairs a CR92a with a DP20 gunship for long-range patrols. Such a patrol can readily deal with any threat it is likely to encounter.</Description>
-  <Source>Suns of Fortune</Source>
+  <Source Page="113">Suns of Fortune</Source>
   <Custom>DescOnly</Custom>
   <Type>Corvette</Type>
   <Categories>
@@ -16,13 +16,17 @@ Based on the highly successful CR90 corvette, the CR92a Assassin-class corvette 
     <Category>Non-Fighter Starship</Category>
     <Category>Capital Ship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>2</HP>
   <Price>2500000</Price>
   <Rarity>6</Rarity>
   <Restricted>true</Restricted>
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
   <HyperdriveBackup>16</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srLong</SensorRangeValue>
   <Crew>60-150</Crew>
   <EncumbranceCapacity>1000</EncumbranceCapacity>
   <Passengers>60</Passengers>
@@ -38,19 +42,27 @@ Based on the highly successful CR90 corvette, the CR92a Assassin-class corvette 
   <HullTrauma>55</HullTrauma>
   <SystemStrain>25</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
         <Aft>true</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOMED</Key>
@@ -60,14 +72,21 @@ Based on the highly successful CR90 corvette, the CR92a Assassin-class corvette 
       <FiringArcs>
         <Fore>true</Fore>
         <Aft>true</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOMED</Key>
@@ -79,10 +98,15 @@ Based on the highly successful CR90 corvette, the CR92a Assassin-class corvette 
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERQUAD</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
@@ -90,25 +114,47 @@ Based on the highly successful CR90 corvette, the CR92a Assassin-class corvette 
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Ventral</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERQUAD</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>PTL</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>TRACTMED</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

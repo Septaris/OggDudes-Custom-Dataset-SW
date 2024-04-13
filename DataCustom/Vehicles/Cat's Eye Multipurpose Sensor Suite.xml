@@ -54,22 +54,45 @@ by land units approaching the device and operator.
   <Custom>DescOnly</Custom>
   <Type>Field Equipment</Type>
   <Categories />
+  <Encumbrance>0</Encumbrance>
+  <HP>0</HP>
   <Price>2750</Price>
   <Rarity>5</Rarity>
   <Restricted>true</Restricted>
   <BaseMods>
     <Mod>
       <Count>1</Count>
-      <MiscDesc>Adds [BO][BO] to any Perception, Computers, or Vigilance checks to detect incoming orbital air traffic within long range (planetary).</MiscDesc>
+      <MiscDesc>Adds [BO][BO] to any Perception, Computers, or Vigilance checks to detect incoming orbital air trafic within long range (planetary).</MiscDesc>
     </Mod>
     <Mod>
       <Count>1</Count>
       <MiscDesc>Adds [SE][SE] to Stealth checks made by land units approaching the device within long range (planetary).</MiscDesc>
     </Mod>
   </BaseMods>
+  <WeaponModifiers />
+  <MaxAltitude />
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
   <SensorRangeValue>srLong</SensorRangeValue>
+  <Crew />
+  <EncumbranceCapacity>0</EncumbranceCapacity>
+  <Passengers>0</Passengers>
+  <Consumables />
   <Silhouette>1</Silhouette>
+  <Speed>0</Speed>
+  <Handling>0</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
+  <Armor>0</Armor>
   <HullTrauma>2</HullTrauma>
   <SystemStrain>3</SystemStrain>
-  <SensorRange>Long</SensorRange>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
+  <VehicleWeapons />
+  <BuiltInAttachments />
 </Vehicle>

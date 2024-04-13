@@ -8,10 +8,10 @@
   <AbilityRows>
     <AbilityRow>
       <Abilities>
-        <Key>COUNTERESPIONAGEBASE</Key>
-        <Key>COUNTERESPIONAGEBOOST</Key>
-        <Key>COUNTERESPIONAGEBOOST</Key>
-        <Key>COUNTERESPIONAGEBOOST</Key>
+        <Key>COUNTERESPBASE</Key>
+        <Key>COUNTERESPBASE</Key>
+        <Key>COUNTERESPBASE</Key>
+        <Key>COUNTERESPBASE</Key>
       </Abilities>
       <Directions>
         <Direction>
@@ -66,10 +66,10 @@
     </AbilityRow>
     <AbilityRow>
       <Abilities>
-        <Key>COUNTERESPIONAGEBOOST</Key>
-        <Key>COUNTERESPIONAGECHARM</Key>
-        <Key>COUNTERESPIONAGESETBACK</Key>
-        <Key>COUNTERESPIONAGENEGOTIATION</Key>
+        <Key>COUNTERESPBOOST</Key>
+        <Key>COUNTERESPSKILL1</Key>
+        <Key>COUNTERESPREDUCESETBACK</Key>
+        <Key>COUNTERESPSKILL2</Key>
       </Abilities>
       <Directions>
         <Direction>
@@ -102,10 +102,10 @@
     </AbilityRow>
     <AbilityRow>
       <Abilities>
-        <Key>COUNTERESPIONAGEDESTINY</Key>
-        <Key>COUNTERESPIONAGESETBACK</Key>
-        <Key>COUNTERESPIONAGEBOOST</Key>
-        <Key>COUNTERESPIONAGETURN</Key>
+        <Key>COUNTERESPDESTINY</Key>
+        <Key>COUNTERESPREDUCESETBACK</Key>
+        <Key>COUNTERESPBOOST</Key>
+        <Key>COUNTERESPTURNAGENT</Key>
       </Abilities>
       <Directions>
         <Direction>

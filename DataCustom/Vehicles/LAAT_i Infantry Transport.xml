@@ -4,7 +4,10 @@
   <Name>LAAT/i Infantry Transport</Name>
   <Description>[H3]LAAT/i Infantry Transport[h3]
 The LAAT/i (infantry) is a variant o f the Low Altitude Assault Transport designed to carry ground troops (originally, Clone Troopers) into battle. Besides delivering the troops to the field, the LAAT/i serves several support roles including air superiority and air-to-ground artillery bombardment.</Description>
-  <Source Page="61">Forged in Battle</Source>
+  <Sources>
+    <Source Page="61">Forged in Battle</Source>
+    <Source Page="67">Rise of the Separatists</Source>
+  </Sources>
   <Custom>DescOnly</Custom>
   <Type>Heavy Assault Airspeeder</Type>
   <Categories>
@@ -94,5 +97,4 @@ The LAAT/i (infantry) is a variant o f the Low Altitude Assault Transport design
       <Key>ANTIPERSLASER</Key>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Medium</SensorRange>
 </Vehicle>

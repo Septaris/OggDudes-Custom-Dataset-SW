@@ -49,8 +49,10 @@ To most inhabitants of the galaxy, members of the enigmatic Ubese, or Ubesian, s
             <SkillModifier>
               <Key>PERC</Key>
               <RankStart>1</RankStart>
+              <RankLimit>2</RankLimit>
             </SkillModifier>
           </SkillModifiers>
+          <TalentModifiers />
         </Option>
         <Option>
           <Key>UBESECH1OP2</Key>
@@ -60,8 +62,10 @@ To most inhabitants of the galaxy, members of the enigmatic Ubese, or Ubesian, s
             <SkillModifier>
               <Key>SURV</Key>
               <RankStart>1</RankStart>
+              <RankLimit>2</RankLimit>
             </SkillModifier>
           </SkillModifiers>
+          <TalentModifiers />
         </Option>
       </Options>
     </OptionChoice>

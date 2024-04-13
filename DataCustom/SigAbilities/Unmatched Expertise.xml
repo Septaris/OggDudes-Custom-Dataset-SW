@@ -3,10 +3,11 @@
   <Key>UNMATCHEXPERT</Key>
   <Name>Unmatched Expertise</Name>
   <Description>A combination of education and hard-earned life experiences can make Colonists far more capable individuals than they appear. When the time is right, they can put their vast experience to good use, making challenging tasks look easy, and the impossible merely difficult. </Description>
-  <Source>Far Horizons</Source>
+  <Source Page="37">Far Horizons</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>UNMATCHEXPERT</Key>
         <Key>UNMATCHEXPERT</Key>
@@ -15,13 +16,27 @@
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
-        <Direction />
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
@@ -63,6 +78,7 @@
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>UNMATCHEXPERTREDSETBK</Key>
         <Key>UNMATCHEXPERTACT</Key>
@@ -71,18 +87,26 @@
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
@@ -101,6 +125,7 @@
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>UNMATCHEXPERTREDDIFF</Key>
         <Key>UNMATCHEXPERTSUPRED</Key>
@@ -109,17 +134,28 @@
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
       <AbilitySpan>

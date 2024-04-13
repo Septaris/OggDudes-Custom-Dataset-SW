@@ -3,18 +3,26 @@
   <Key>BLADE32</Key>
   <Name>Blade-32 Superiority Fighter</Name>
   <Description>[H3]Blade-32 Superiority Fighter[h3]
-[P]The latest version of the most common starfighter produced on the little-known planet of Adumar, the Blade-32 is known to a few pilots in the Outer Rim as one of the most demanding machines in production. Featuring an impressively large missile capacity for its size and an unusual configuration of two laser cannons fore and aft, this craft often carries a dedicated aft gunner to take full advantage of its armaments. While the local version lacks a hyperdrive and functions best in an atmosphere, models sold offworld always contain this feature. Some have suggested using the base model as a starting point for a mass-production fighter-bomber, but no major corporations have made serious efforts in this regard.</Description>
-  <Source>Keeping the Peace</Source>
+[P]The latest version of the most common starfighter producted on the little-known planet of Adumar, the Blade-32 is known to a few pilots in the Outer Rim as one of the most demanding machines in production. Featuring an impressively large missile capacity for its size and an unusual configuration of two laser cannons fore and aft, this craft often carries a dedicated aft gunner to take full advantage of its armaments. While the local version lacks a hyperdrive and functions best in an atmosphere, models sold offworld always contain this feature. Some have suggested using the base model as a startin gpoint for a mass-production fighter-bomber, but no major corporations have made serious efforts in this regard.</Description>
+  <Source Page="60">Keeping the Peace</Source>
   <Custom>DescOnly</Custom>
   <Type>Starfighter</Type>
   <Categories>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>1</HP>
   <Price>60000</Price>
   <Rarity>7</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <WeaponModifiers />
+  <MaxAltitude />
   <HyperdrivePrimary>3</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srClose</SensorRangeValue>
   <Crew>One pilot, one aft gunner</Crew>
   <EncumbranceCapacity>10</EncumbranceCapacity>
   <Passengers>1</Passengers>
@@ -22,50 +30,120 @@
   <Silhouette>3</Silhouette>
   <Speed>4</Speed>
   <Handling>-2</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>4</Armor>
   <HullTrauma>12</HullTrauma>
   <SystemStrain>8</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZoneValue>None</DefZoneValue>
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
+          <InnateSkills />
+          <ActiveQualityKey />
+          <Failed>false</Failed>
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
         <Aft>true</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Aft</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZoneValue>None</DefZoneValue>
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
+          <InnateSkills />
+          <ActiveQualityKey />
+          <Failed>false</Failed>
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZoneValue>None</DefZoneValue>
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
+          <InnateSkills />
+          <ActiveQualityKey />
+          <Failed>false</Failed>
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>CML</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
+  <BuiltInAttachments />
   <SensorRange>Close</SensorRange>
 </Vehicle>

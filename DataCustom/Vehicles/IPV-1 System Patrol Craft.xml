@@ -6,16 +6,23 @@
     [H3]IPV-1 System Patrol Craft[h3]
 
 Systems Patrol Craft are defined as capital ships without hyperdrives, measuring between 100 and 250 meters in length and with a crew of between four and twenty: a typical example is the IPV-1 produced by Sienar Fleet Systems. Fast and maneuverable, these ships are designed primarily to catch and overpower fleeing ships—especially smugglers—before they can make the jump to lightspeed, but their impressive sublight speed also enables them to intercept attacking forces as they arrive in the star system they are guarding. In such situations, they are capable of skirmishing with small capital ships up to the size of frigates and corvettes, although they are not agile enough to dogfight with starfighters, or powerful enough to take on cruisers. </Description>
-  <Source>Beyond the Rim</Source>
+  <Source Page="93">Beyond the Rim</Source>
   <Custom>DescOnly</Custom>
   <Type>Frigate</Type>
   <Categories>
     <Category>Non-Fighter Starship</Category>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>2</HP>
   <Price>4000000</Price>
   <Rarity>5</Rarity>
+  <MaxAltitude />
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srLong</SensorRangeValue>
   <Crew>Twelve</Crew>
   <EncumbranceCapacity>20</EncumbranceCapacity>
   <Passengers>10</Passengers>
@@ -38,16 +45,23 @@ Systems Patrol Craft are defined as capital ships without hyperdrives, measuring
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERPTDEF</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
@@ -55,16 +69,23 @@ Systems Patrol Craft are defined as capital ships without hyperdrives, measuring
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Ventral</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERPTDEF</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
@@ -72,16 +93,23 @@ Systems Patrol Craft are defined as capital ships without hyperdrives, measuring
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERPTDEF</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
@@ -89,24 +117,39 @@ Systems Patrol Craft are defined as capital ships without hyperdrives, measuring
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERPTDEF</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>CML</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

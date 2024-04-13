@@ -5,20 +5,43 @@
   <Description>[H3]Enormous Space Slug[h3]
 [P]Space slugs, also known as exogorths, are one of the largest silicon-based life forms in the galaxy. Space slugs dwell in asteroid fields and radiation zones, living on a steady diet of rocks, stellar radiation, mynocks, and the occasional starship. These snakelike creatures are truly enormous. They hide in chewed-out burrows, waiting for unsuspecting prey to fly into their wide-open mouths before swallowing them whole.
 [P]The enormous space slug is presented as a starship profile, but is an independent creature. When rolling for initiative or attacking with its insatiable maw, it rolls a Coordination skill check, counting as having Coordination 3 and Agility 1.</Description>
-  <Source>Strongholds of Resistance</Source>
+  <Source Page="51">Strongholds of Resistance</Source>
   <Custom>DescOnly</Custom>
-  <BuiltInAttachments>
-    <Key>SPACESLUGRULES</Key>
-  </BuiltInAttachments>
   <Type>Space-dwelling Creature</Type>
   <Categories />
+  <Encumbrance>0</Encumbrance>
+  <HP>0</HP>
+  <Price>0</Price>
+  <Rarity>0</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <WeaponModifiers />
+  <MaxAltitude />
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
   <SensorRangeValue>srNone</SensorRangeValue>
+  <Crew />
   <EncumbranceCapacity>50000</EncumbranceCapacity>
+  <Passengers>0</Passengers>
+  <Consumables />
   <Silhouette>7</Silhouette>
+  <Speed>0</Speed>
   <Handling>-6</Handling>
+  <DefFore>0</DefFore>
   <DefAft>4</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>10</Armor>
   <HullTrauma>70</HullTrauma>
   <SystemStrain>35</SystemStrain>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
+  <VehicleWeapons />
+  <BuiltInAttachments>
+    <Key>SPACESLUGRULES</Key>
+  </BuiltInAttachments>
   <SensorRange>No Sensors</SensorRange>
 </Vehicle>

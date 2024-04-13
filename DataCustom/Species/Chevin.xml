@@ -22,11 +22,10 @@ The Chevin are solidly built and hard to overlook, being taller than humans and 
 
 [P]It is telling of Chevin society that the more aggressive of them tend to rise higher and do better, becoming the leaders in politics and business. However, a Chevin would counter that this tends to be true wherever he finds himself. The galaxy is a dangerous and unforgiving place, and so the Chevin must be strong and ruthless to survive. This grim outlook is a typical Chevin trait, and means that the majority of their relationships with other species are business relationships.
 
-[P][B]Homeworld:[b] The Chevin homeworld of Vinsoth is in the Outer Rim. The terrain varies widely across the planet, from ice caps at the poles to deserts, mountains, and prairies. Though the Chevin can live almost anywhere thanks to their strong constitution, on Vinsoth they tend to roam on the vast grassy plains.
+[P][B]Homeworld:[b] The Chevin homeworld of Vinsoth is in the Outer Rim. The terrain varies widely across the planet, from ice caps at the poles to deserts, mountains, and prairies. Though the Chevin can live almost anywhere thanks to their strdng constitution, on Vinsoth they tend to roam on the vast grassy plains.
 
 [P][B]Language:[b] The official language of Vinsoth is Chevin. Most Chevin also learn to speak Basic for the benefit of trade and travel. They also ensure that their slaves speak both Chevin and Basic.</Description>
-  <Source>Far Horizons</Source>
-  <Custom>DescOnly</Custom>
+  <Source Page="21">Far Horizons</Source>
   <StartingChars>
     <Brawn>3</Brawn>
     <Agility>1</Agility>
@@ -38,7 +37,11 @@ The Chevin are solidly built and hard to overlook, being taller than humans and 
   <StartingAttrs>
     <WoundThreshold>11</WoundThreshold>
     <StrainThreshold>11</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
     <Experience>80</Experience>
+    <ForceRating>0</ForceRating>
   </StartingAttrs>
   <SkillModifiers>
     <SkillModifier>
@@ -63,8 +66,12 @@ The Chevin are solidly built and hard to overlook, being taller than humans and 
           <Description>
             Chevin add [BOOST] to Perception checks involving the sense of smell.
           </Description>
+          <DieModifiers>
+          </DieModifiers>
         </Option>
       </Options>
     </OptionChoice>
   </OptionChoices>
+  <WeaponModifiers />
+  <NoForceAbilities>false</NoForceAbilities>
 </Species>

@@ -3,12 +3,18 @@
   <Key>PROPAGANDIST</Key>
   <Name>Propagandist</Name>
   <Description>[H4]Propagandist - From a Certain Point of View[h4]
+
 Truth is often a matter of perspective, and Propagandists serve the Rebel Alliance by skewing this perspective in favor of their cause. To the Propagandist, truth is just as much worth pursuing as it is worth manipulating. Whether simply leaking the right facts to shift public opinion or creating outright fabrications to demoralize the enemy, a Propagandist understands the power of perception.
+
 [P]Propagandists gain [B]Charm, Deception, Knowledge (Warfare),[b] and [B]Perception[b] as additional career skills. If this is the character's starting specialization, he may choose two of these skills, gaining one free rank in each without spending starting experience. Propagandists leverage Perception to uncover the truth and use Charm or Deception to spin it to benefit the Rebel Alliance. Some Propagandists focus more on either weaving compelling rhetoric or telling believable lies, while others prefer to gain ranks in Charm and Deception equally, giving them maximum flexibility.
+
 [P]Propagandists play an important role in the Galactic Civil War. Even as the battles rage on and above many oppressed worlds, the Rebel Alliance wages an equally important struggle for the support of the galactic citizenry. While the Empire's evil is obvious to most, few possess the courage to stand against such a brutal enemy. Propagandists must sway these people, distributing persuasive information as far and wide as possible, inspiring heroism in everyday citizens.
+
 [P]Ideally, a Propagandist reveals truths that the Empire would conceal: galactic atrocities, corruption, and the terrible cost of its policies. However, few Propagandists deal strictly in truth as such, more likely distributing misinformation to enrage the oppressed. Criticizing the ethics of such tactics is difficult when they serve the cause so effectively. Propagandists might argue that small lies expose much greater truths that the Empire tries to conceal. For some, news is as much a business as a political pursuit, while for others, propaganda is of paramount importance.
+
 [P]In a group of Player Characters, a Propagandist can act as a master of information collection, interviewing civilians and even military personnel for rumors and secrets. Perhaps even more importantly, by planting information in the right ears, a skilled Propagandist can demoralize enemies, manipulating them into believing untruths. For this, a Propagandist is well served by a high Cunning and a high Presence. </Description>
   <Source Page="30">Desperate Allies</Source>
+  <Sources />
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>CHARM</Key>
@@ -18,6 +24,7 @@ Truth is often a matter of perspective, and Propagandists serve the Rebel Allian
   </CareerSkills>
   <TalentRows>
     <TalentRow>
+      <Index>0</Index>
       <Cost>5</Cost>
       <Talents>
         <Key>GRIT</Key>
@@ -27,20 +34,33 @@ Truth is often a matter of perspective, and Propagandists serve the Rebel Allian
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>10</Cost>
       <Talents>
         <Key>INKNOW</Key>
@@ -50,23 +70,33 @@ Truth is often a matter of perspective, and Propagandists serve the Rebel Allian
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>15</Cost>
       <Talents>
         <Key>BADPRESS</Key>
@@ -76,6 +106,7 @@ Truth is often a matter of perspective, and Propagandists serve the Rebel Allian
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
@@ -84,6 +115,7 @@ Truth is often a matter of perspective, and Propagandists serve the Rebel Allian
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
@@ -93,11 +125,14 @@ Truth is often a matter of perspective, and Propagandists serve the Rebel Allian
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>20</Cost>
       <Talents>
         <Key>TOUGH</Key>
@@ -107,6 +142,7 @@ Truth is often a matter of perspective, and Propagandists serve the Rebel Allian
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
@@ -114,21 +150,25 @@ Truth is often a matter of perspective, and Propagandists serve the Rebel Allian
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>25</Cost>
       <Talents>
         <Key>POSSPIN</Key>
@@ -138,21 +178,69 @@ Truth is often a matter of perspective, and Propagandists serve the Rebel Allian
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
     </TalentRow>
   </TalentRows>
+  <Universal>false</Universal>
+  <Attributes>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
+    <Experience>0</Experience>
+    <ForceRating>0</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+      <WieldingMelee>false</WieldingMelee>
+      <WieldingBrawl>false</WieldingBrawl>
+      <WieldingLightsaber>false</WieldingLightsaber>
+    </Requirement>
+  </Attributes>
+  <Requirements>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
+    <Experience>0</Experience>
+    <ForceRating>0</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+      <WieldingMelee>false</WieldingMelee>
+      <WieldingBrawl>false</WieldingBrawl>
+      <WieldingLightsaber>false</WieldingLightsaber>
+    </Requirement>
+  </Requirements>
 </Specialization>

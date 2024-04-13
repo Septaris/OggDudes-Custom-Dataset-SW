@@ -17,7 +17,8 @@ The Arkanian Offshoots are a sub-species of the Arkanian race, genetically engin
 
 [P][B]Homeworld:[b] Arkania is the adopted homeworld of the Arkanian species. It is covered with tundra and rich in diamonds and other precious minerals, which the Arkanians mine to further their offworld connections and master their technology. Arkanian cities are designed to keep the cold out, and are mostly completely enclosed. Off-world visitors rarely have to deal with the frigid conditions of the planet.
 
-[P][B]Language:[b] The language of the Arkanian people was developed on their homeworld, Arkania before they made contact with the civilized galaxy and the Galactic Republic. When contact with the greater galaxy was established, young Arkanians were taught Arkanian and Basic, so the majority of the population is bilingual. Among the Arkanian Offshoots, a slightly different dialect gradually emerged, emphasizing words of submission and forgetting those of victory or the desire to challenge.</Description>
+[P][B]Language:[b] The language of the Arkanian people was developed on their homeworld, Arkania before they made contact with the civilized galaxy and the Galactic Republic. When contact with the greater galaxy was established, young Arkanians were taught Arkanian and Basic, so the majority of the population is bilingual. Among the Arkanian Offshoots, a slightly different dialect gradually emerged, emphasizing words of submission and forgetting those of victory or the desire to challenge.
+  </Description>
   <Source>Unofficial Species Menagerie</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
@@ -33,6 +34,8 @@ The Arkanian Offshoots are a sub-species of the Arkanian race, genetically engin
     <StrainThreshold>10</StrainThreshold>
     <Experience>110</Experience>
   </StartingAttrs>
+  <SkillModifiers>
+  </SkillModifiers>
   <OptionChoices>
     <OptionChoice>
       <Key>ARKANOFFAB1</Key>

@@ -24,6 +24,7 @@
   </CareerSkills>
   <TalentRows>
     <TalentRow>
+      <Index>0</Index>
       <Cost>5</Cost>
       <Talents>
         <Key>COD</Key>
@@ -35,9 +36,12 @@
         <Direction>
           <Down>true</Down>
         </Direction>
-        <Direction />
-        <Direction />
-        <Direction />
+        <Direction>
+        </Direction>
+        <Direction>
+        </Direction>
+        <Direction>
+        </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
@@ -51,21 +55,21 @@
       </Talents>
       <Directions>
         <Direction>
+          <Down>true</Down>
           <Up>true</Up>
-          <Down>true</Down>
         </Direction>
         <Direction>
+          <Down>true</Down>
           <Right>true</Right>
-          <Down>true</Down>
         </Direction>
         <Direction>
+          <Down>true</Down>
           <Left>true</Left>
           <Right>true</Right>
-          <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>true</Left>
           <Down>true</Down>
+          <Left>true</Left>
         </Direction>
       </Directions>
     </TalentRow>
@@ -80,24 +84,24 @@
       </Talents>
       <Directions>
         <Direction>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
         </Direction>
         <Direction>
+          <Up>true</Up>
+          <Down>true</Down>
           <Right>true</Right>
-          <Up>true</Up>
-          <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>true</Left>
+          <Up>true</Up>
+          <Down>true</Down>
           <Right>true</Right>
-          <Up>true</Up>
-          <Down>true</Down>
+          <Left>true</Left>
         </Direction>
         <Direction>
-          <Left>true</Left>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
+          <Left>true</Left>
         </Direction>
       </Directions>
     </TalentRow>
@@ -112,26 +116,26 @@
       </Talents>
       <Directions>
         <Direction>
-          <Right>true</Right>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
+          <Right>true</Right>
         </Direction>
         <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
           <Left>true</Left>
           <Right>true</Right>
-          <Up>true</Up>
-          <Down>true</Down>
         </Direction>
         <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
           <Left>true</Left>
           <Right>true</Right>
-          <Up>true</Up>
-          <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>true</Left>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
+          <Left>true</Left>
         </Direction>
       </Directions>
     </TalentRow>
@@ -146,22 +150,22 @@
       </Talents>
       <Directions>
         <Direction>
-          <Right>true</Right>
           <Up>true</Up>
+          <Right>true</Right>
         </Direction>
         <Direction>
-          <Left>true</Left>
-          <Right>true</Right>
           <Up>true</Up>
+          <Right>true</Right>
+          <Left>true</Left>
         </Direction>
         <Direction>
-          <Left>true</Left>
-          <Right>true</Right>
           <Up>true</Up>
+          <Right>true</Right>
+          <Left>true</Left>
         </Direction>
         <Direction>
-          <Left>true</Left>
           <Up>true</Up>
+          <Left>true</Left>
         </Direction>
       </Directions>
     </TalentRow>

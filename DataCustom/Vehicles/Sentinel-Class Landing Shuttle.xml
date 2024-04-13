@@ -6,19 +6,24 @@
     [H3]Sentinel-Class Landing Shuttle[h3]
 
 A product of the same SFS/Cygnus Spaceworks collaboration that produced the T-4a Lambda-class shuttle, the Sentinel-class is the Imperial Navy's primary assault ship and landing craft. Similar to the Lambda-class in form and function, these ships are heavily armored and shielded and mount powerful engines that make the ship surprisingly fast and agile for a vessel of its size and mass. Sentinels can carry up to six squads of stormtroopers, along with all of their equipment, or an equivalent amount of cargo including small vehicles such as speederbikes and even AT-ST walkers.</Description>
-  <Source>Age of Rebellion Core Rulebook</Source>
+  <Source Page="273">Age of Rebellion Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <Type>Shuttle</Type>
   <Categories>
     <Category>Non-Fighter Starship</Category>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
+  <HP>0</HP>
   <Price>240000</Price>
   <Rarity>7</Rarity>
   <Restricted>true</Restricted>
+  <MaxAltitude />
   <HyperdrivePrimary>1</HyperdrivePrimary>
   <HyperdriveBackup>10</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srClose</SensorRangeValue>
   <Crew>One pilot, one co-pilot, three gunners</Crew>
   <EncumbranceCapacity>500</EncumbranceCapacity>
   <Passengers>54</Passengers>
@@ -28,6 +33,8 @@ A product of the same SFS/Cygnus Spaceworks collaboration that produced the T-4a
   <Handling>-1</Handling>
   <DefFore>2</DefFore>
   <DefAft>2</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>5</Armor>
   <HullTrauma>25</HullTrauma>
   <SystemStrain>15</SystemStrain>
@@ -36,16 +43,26 @@ A product of the same SFS/Cygnus Spaceworks collaboration that produced the T-4a
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
       <Retractable>true</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>3</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERMED</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
@@ -54,17 +71,22 @@ A product of the same SFS/Cygnus Spaceworks collaboration that produced the T-4a
         <Port>true</Port>
         <Starboard>true</Starboard>
         <Dorsal>true</Dorsal>
-        <Ventral>true</Ventral>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>true</Turret>
       <Location>Dorsal</Location>
       <Retractable>true</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>IONLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
@@ -72,30 +94,46 @@ A product of the same SFS/Cygnus Spaceworks collaboration that produced the T-4a
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
-        <Dorsal>true</Dorsal>
+        <Dorsal>false</Dorsal>
         <Ventral>true</Ventral>
       </FiringArcs>
+      <Turret>true</Turret>
       <Location>Ventral</Location>
       <Retractable>true</Retractable>
+      <Qualities />
       <Key>BLASTHVYREP</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LIMITEDAMMO</Key>
           <Count>8</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>CML</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

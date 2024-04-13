@@ -46,4 +46,6 @@ The Herglics, alternatively known as Koodans, are a race native to the planet Gi
       <RankStart>1</RankStart>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers />
+  <OptionChoices />
 </Species>

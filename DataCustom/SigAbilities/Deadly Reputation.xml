@@ -10,10 +10,10 @@
   <AbilityRows>
     <AbilityRow>
       <Abilities>
-        <Key>DEADREPBASE</Key>
-        <Key>DEADREPBASE</Key>
-        <Key>DEADREPBASE</Key>
-        <Key>DEADREPBASE</Key>
+        <Key>DEADLYREPBASE</Key>
+        <Key>DEADLYREPBASE</Key>
+        <Key>DEADLYREPBASE</Key>
+        <Key>DEADLYREPBASE</Key>
       </Abilities>
       <Directions>
         <Direction />
@@ -64,10 +64,10 @@
     </AbilityRow>
     <AbilityRow>
       <Abilities>
-        <Key>DEADREPDURATION</Key>
-        <Key>DEADREPASSOCIATION</Key>
-        <Key>DEADREPSETBACK</Key>
-        <Key>DEADREPDURATION</Key>
+        <Key>DEADLYREPDURATION</Key>
+        <Key>DEADLYREPASSOCIATION</Key>
+        <Key>DEADLYREPADDSETBACK</Key>
+        <Key>DEADLYREPDURATION</Key>
       </Abilities>
       <Directions>
         <Direction>
@@ -102,10 +102,10 @@
     </AbilityRow>
     <AbilityRow>
       <Abilities>
-        <Key>DEADREPEFFECT</Key>
-        <Key>DEADREPSETBACK</Key>
-        <Key>DEADREPDESTINY</Key>
-        <Key>DEADREPDURATION</Key>
+        <Key>DEADLYREPINCREASEEFFECT</Key>
+        <Key>DEADLYREPADDSETBACK</Key>
+        <Key>DEADLYREPDESTINY</Key>
+        <Key>DEADLYREPDURATION</Key>
       </Abilities>
       <Directions>
         <Direction>

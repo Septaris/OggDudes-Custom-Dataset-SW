@@ -14,7 +14,7 @@ An Ace's eight career skills are [B]Astrogation, Cool, Gunnery, Mechanics, Perce
 
 [P]The Ace isn't just a master of piloting and driving, but often has a gift for using vehicular weapons to deadly effect. He understands that shooting is about more than merely looking through a scope and pulling a trigger—leading the target, compensating for the complexities of moving bodies in space, and aiming for vulnerable systems make the Ace a force to be reckoned with in any dogfight or speeder chase.</Description>
   <Source Page="64">Age of Rebellion Core Rulebook</Source>
-  <Custom>DescOnly</Custom>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>ASTRO</Key>
     <Key>COOL</Key>
@@ -28,11 +28,15 @@ An Ace's eight career skills are [B]Astrogation, Cool, Gunnery, Mechanics, Perce
   <Specializations>
     <Key>BEASTRIDER</Key>
     <Key>DRIVER</Key>
+    <Key>FORCEADHERENT</Key>
     <Key>GUNNER</Key>
     <Key>HOTSHOT</Key>
+    <Key>IMPERIALACADEMYCADET</Key>
+    <Key>PADAWANSURVIVOR</Key>
     <Key>PILOT</Key>
+    <Key>PIRATE</Key>
+    <Key>RETIREDCLONETROOPER</Key>
     <Key>RIGGER</Key>
+    <Key>SHIPCAPTAIN</Key>
   </Specializations>
-  <Attributes />
-  <FreeRanks>4</FreeRanks>
 </Career>

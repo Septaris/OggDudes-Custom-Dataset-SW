@@ -7,22 +7,40 @@
 The sleek and angular V-35 Courier is one of SoroSuub's more popular landspeeders. This small, coupe-styled speeder seats three in relative comfort in a sealed, well-appointed cockpit. The forward hull is a sharply tapering, wedge-shaped compartment dominated by a seven section, auto-tinting transparisteel canopy that offers outstanding visibility for both driver and passengers. The rear of the vehicle houses one of SoroSuub's SS80 Dynamo power generators driving a MagLift repulsorlift engine. Forward thrust is provided by three Mk.4 LoFlow cluster turbines mounted in dorsal nacelles at the very rear.
 
 [P]Despite its aggressive styling, which takes its cues both from starfighter design and the design of SoroSuub's racing landspeeders, the Courier is not a high-performance vehicle. In fact, underneath all of the knife-edge body panels and glossy paint is a staid, reliable vehicle with respectable but not outstanding performance that is perfect for a small family or business.</Description>
-  <Source>Far Horizons</Source>
+  <Source Page="52">Far Horizons</Source>
   <Custom>DescOnly</Custom>
   <Type>Landspeeder</Type>
   <Categories>
     <Category>Land Vehicle</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>3</HP>
   <Price>7500</Price>
   <Rarity>3</Rarity>
-  <MaxAltitude>1 meter</MaxAltitude>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <MaxAltitude>1 metter</MaxAltitude>
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srClose</SensorRangeValue>
   <Crew>One pilot</Crew>
   <EncumbranceCapacity>20</EncumbranceCapacity>
   <Passengers>3</Passengers>
+  <Consumables />
   <Silhouette>2</Silhouette>
   <Speed>3</Speed>
+  <Handling>0</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
+  <Armor>0</Armor>
   <HullTrauma>5</HullTrauma>
   <SystemStrain>4</SystemStrain>
-  <SensorRange>Close</SensorRange>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
+  <VehicleWeapons />
 </Vehicle>

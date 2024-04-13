@@ -34,6 +34,8 @@ Core Rulebook.
   <Custom>DescOnly</Custom>
   <Type>Field Equipment</Type>
   <Categories />
+  <Encumbrance>0</Encumbrance>
+  <HP>0</HP>
   <Price>460000</Price>
   <Rarity>4</Rarity>
   <Restricted>true</Restricted>
@@ -43,11 +45,20 @@ Core Rulebook.
       <MiscDesc>Provides Ranged Defense of 2 to each quadrant (north, south, east, and west) of a base and can be reassigned similar to the Angle Deflector Shield maneuver.</MiscDesc>
     </Mod>
   </BaseMods>
+  <WeaponModifiers />
+  <MaxAltitude />
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
   <SensorRangeValue>srNone</SensorRangeValue>
   <Crew>18 technicians and engineers</Crew>
   <EncumbranceCapacity>10</EncumbranceCapacity>
+  <Passengers>0</Passengers>
   <Consumables>One week</Consumables>
   <Silhouette>5</Silhouette>
+  <Speed>0</Speed>
+  <Handling>0</Handling>
   <DefFore>2</DefFore>
   <DefAft>2</DefAft>
   <DefPort>2</DefPort>
@@ -55,5 +66,9 @@ Core Rulebook.
   <Armor>1</Armor>
   <HullTrauma>16</HullTrauma>
   <SystemStrain>18</SystemStrain>
-  <SensorRange>No Sensors</SensorRange>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
+  <VehicleWeapons />
+  <BuiltInAttachments />
 </Vehicle>

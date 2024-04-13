@@ -15,7 +15,7 @@ A Commander's eight career skills are [B]Coercion, Cool, Discipline, Knowledge (
 
 [P]Whether on the bridge of a capital ship, flying in formation with a squad of starfighters, or standing on a hill shouting encouragement to his troops, the Commander is the true heart and soul of the Alliance military. In his hands lies the key to victory or defeat.</Description>
   <Source Page="70">Age of Rebellion Core Rulebook</Source>
-  <Custom>DescOnly</Custom>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>COERC</Key>
     <Key>COOL</Key>
@@ -29,11 +29,15 @@ A Commander's eight career skills are [B]Coercion, Cool, Discipline, Knowledge (
   <Specializations>
     <Key>COMMODORE</Key>
     <Key>FIGUREHEAD</Key>
+    <Key>FORCEADHERENT</Key>
+    <Key>IMPERIALACADEMYCADET</Key>
     <Key>INSTRUCTOR</Key>
+    <Key>PADAWANSURVIVOR</Key>
+    <Key>PIRATE</Key>
+    <Key>RETIREDCLONETROOPER</Key>
+    <Key>SHIPCAPTAIN</Key>
     <Key>SQUADLEADER</Key>
     <Key>STRATEGIST</Key>
     <Key>TACTICIAN</Key>
   </Specializations>
-  <Attributes />
-  <FreeRanks>4</FreeRanks>
 </Career>

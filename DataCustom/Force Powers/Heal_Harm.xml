@@ -6,10 +6,11 @@
     [H4]Force Power: Heal/Harm[h4]
 
 This power reflects a Force user's capacity to manipulate the living energy in things around him. It is the individual's choice, however, whether to use this gift to help others flourish, binding their injuries and making them whole, or to steal their vital essence, ripping the life from them to watch as they wither and die.</Description>
-  <Source>Force and Destiny Core Rulebook</Source>
+  <Source Page="292">Force and Destiny Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>HEALHARMBASIC</Key>
         <Key>HEALHARMBASIC</Key>
@@ -18,15 +19,27 @@ This power reflects a Force user's capacity to manipulate the living energy in t
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
@@ -44,6 +57,7 @@ This power reflects a Force user's capacity to manipulate the living energy in t
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>HEALHARMRANGE</Key>
         <Key>HEALHARMMAGNITUDE</Key>
@@ -52,18 +66,26 @@ This power reflects a Force user's capacity to manipulate the living energy in t
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
@@ -82,6 +104,7 @@ This power reflects a Force user's capacity to manipulate the living energy in t
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>HEALHARMRANGE</Key>
         <Key>HEALHARMMAGNITUDE</Key>
@@ -90,6 +113,7 @@ This power reflects a Force user's capacity to manipulate the living energy in t
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
@@ -103,10 +127,12 @@ This power reflects a Force user's capacity to manipulate the living energy in t
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
@@ -125,6 +151,7 @@ This power reflects a Force user's capacity to manipulate the living energy in t
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>HEALHARMCONTROL1</Key>
         <Key>HEALHARMCONTROL4</Key>
@@ -133,18 +160,28 @@ This power reflects a Force user's capacity to manipulate the living energy in t
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
       <AbilitySpan>
@@ -160,5 +197,7 @@ This power reflects a Force user's capacity to manipulate the living energy in t
         <Cost>15</Cost>
       </Costs>
     </AbilityRow>
+
   </AbilityRows>
+  <MinForceRating>1</MinForceRating>
 </ForcePower>

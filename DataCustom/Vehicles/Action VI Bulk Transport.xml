@@ -8,18 +8,12 @@
 The latest in the popular Action series of bulk transports, Corellian Engineering Corporation's Action VI is a prime example of what makes a transport. Heavy, slow, and ponderous, the hundred-meter-long Action VI class has an angular, lightly armored hull with a tall, narrow cross-section. They have two main cargo holds, one forward and one aft, equipped with sophisticated cargo handling and security systems that can be configured to carry anything from massive sealed shipping containers and palletized cargo to livestock. The crew live and work in a heavily reinforced, cylindrical hull pylon that spans the ship's dorsal ridge between the fore and aft cargo holds.
 
 [P]Stock Action VI transports carry no weapons, little armor, and only rudimentary shields. However, like most of CEC's ships, these transports are highly customizable and can be easily fitted with weapons, armor, and more powerful shield generators. </Description>
-  <Source>Edge of the Empire Core Rulebook</Source>
+  <Source Page="260">Edge of the Empire Core Rulebook</Source>
   <Custom>DescOnly</Custom>
-  <Type>Transport</Type>
-  <Categories>
-    <Category>Non-Fighter Starship</Category>
-  </Categories>
-  <HP>4</HP>
-  <Price>200000</Price>
-  <Rarity>5</Rarity>
   <HyperdrivePrimary>3</HyperdrivePrimary>
   <HyperdriveBackup>20</HyperdriveBackup>
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srMedium</SensorRangeValue>
   <Crew>Twenty Crew</Crew>
   <EncumbranceCapacity>10000</EncumbranceCapacity>
   <Passengers>5</Passengers>
@@ -34,6 +28,13 @@ The latest in the popular Action series of bulk transports, Corellian Engineerin
   <Armor>2</Armor>
   <HullTrauma>40</HullTrauma>
   <SystemStrain>20</SystemStrain>
+  <HP>4</HP>
+  <Price>200000</Price>
+  <Rarity>5</Rarity>
+  <Categories>
+    <Category>Non-Fighter Starship</Category>
+    <Category>Bulk Transport</Category>
+  </Categories>
+  <Type>Transport</Type>
   <Starship>true</Starship>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

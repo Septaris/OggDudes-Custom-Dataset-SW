@@ -8,10 +8,10 @@
   <AbilityRows>
     <AbilityRow>
       <Abilities>
-        <Key>UNMATCHEDTRADBASE</Key>
-        <Key>UNMATCHEDTRADBASE</Key>
-        <Key>UNMATCHEDTRADBASE</Key>
-        <Key>UNMATCHEDTRADBASE</Key>
+        <Key>UNMATCHEDTRADEBASE</Key>
+        <Key>UNMATCHEDTRADEBASE</Key>
+        <Key>UNMATCHEDTRADEBASE</Key>
+        <Key>UNMATCHEDTRADEBASE</Key>
       </Abilities>
       <Directions>
         <Direction>
@@ -64,10 +64,10 @@
     </AbilityRow>
     <AbilityRow>
       <Abilities>
-        <Key>UNMATCHEDTRADSETBACK</Key>
-        <Key>UNMATCHEDTRADNUMBER</Key>
-        <Key>UNMATCHEDTRADSTEALTH</Key>
-        <Key>UNMATCHEDTRADSKULDUGGERY</Key>
+        <Key>UNMATCHEDTRADEINCREASEEFFECT1</Key>
+        <Key>UNMATCHEDTRADEINCREASENUMBER</Key>
+        <Key>UNMATCHEDTRADESKILL1</Key>
+        <Key>UNMATCHEDTRADESKILL2</Key>
       </Abilities>
       <Directions>
         <Direction>
@@ -102,10 +102,10 @@
     </AbilityRow>
     <AbilityRow>
       <Abilities>
-        <Key>UNMATCHEDTRADCHALLENGE</Key>
-        <Key>UNMATCHEDTRADDESTINY</Key>
-        <Key>UNMATCHEDTRADFREQ</Key>
-        <Key>UNMATCHEDTRADNUMBER</Key>
+        <Key>UNMATCHEDTRADEINCREASEEFFECT2</Key>
+        <Key>UNMATCHEDTRADEDESTINY</Key>
+        <Key>FREQUENCY</Key>
+        <Key>UNMATCHEDTRADEINCREASENUMBER</Key>
       </Abilities>
       <Directions>
         <Direction>

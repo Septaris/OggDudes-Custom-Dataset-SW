@@ -9,26 +9,35 @@ Incom's T-65B X-wing is the Rebel Alliance's primary force projection starfighte
 
 [P]X-wings are a true multi-role fighter, extremely effective in numerous missions from reconnaissance to attack to ship-to-ship dogfighting. With its four powerful Incom 4L4 engines and advanced avionics, the X-wing is more than a match for the Imperial TIE fighters, and its loadout of four linked T&amp;B laser cannons and proton torpedo launchers makes it a serious threat to gunboats and small capital ships, especially when X-wings are deployed in large groups. In large battles, the X-wing acts as an escort fighter, keeping enemy fighters away from slower-moving attack fighters and bombers and protecting the precious Alliance capital ships. Thus far, the X-wing has proven to be an incredible asset to the Alliance. Some Rebel tacticians suggest that it is the game changer the Alliance needs to succeed against the Empire. Thanks to its numerous high-profile victories in its short service and to the daring way in which it was acquired, the X-wing has quickly become a symbol of Rebel ingenuity, resilience, and fighting spirit.</Description>
   <Sources>
-    <Source>Age of Rebellion Core Rulebook</Source>
-    <Source>Force and Destiny Core Rulebook</Source>
+    <Source Page="267">Age of Rebellion Core Rulebook</Source>
+    <Source Page="261">Force and Destiny Core Rulebook</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <Type>Starfighter</Type>
   <Categories>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>1</HP>
   <Price>120000</Price>
   <Rarity>5</Rarity>
+  <MaxAltitude />
   <HyperdrivePrimary>1</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srClose</SensorRangeValue>
   <Crew>One pilot, one astromech droid</Crew>
   <EncumbranceCapacity>10</EncumbranceCapacity>
+  <Passengers>0</Passengers>
   <Consumables>One week</Consumables>
   <Silhouette>3</Silhouette>
   <Speed>5</Speed>
   <Handling>1</Handling>
   <DefFore>1</DefFore>
   <DefAft>1</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>3</Armor>
   <HullTrauma>10</HullTrauma>
   <SystemStrain>10</SystemStrain>
@@ -38,33 +47,57 @@ Incom's T-65B X-wing is the Rebel Alliance's primary force projection starfighte
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>SFoil</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>3</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERMED</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LIMITEDAMMO</Key>
           <Count>6</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>PTL</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

@@ -3,8 +3,11 @@
   <Key>HUNTER</Key>
   <Name>Hunter</Name>
   <Description>[H4]Hunter[h4]
+
 Far from the civilized parts of the galaxy, there are many predators that can endanger sentient life. Some of these are animals that prey upon anything digestible. Others are malicious and twisted individuals who enjoy a savage and bloodthirsty existence. Hunters are Force adepts who are uniquely capable of tracking, confronting, and slaying these creatures, particularly those who hide in the wilds, far from civilization.
+
 [P]Hunters acquire [B]Coordination, Ranged (Heavy), Stealth,[b] and [B]Vigilance[b] as additional career skills. If this is the PC's starting specialization, he chooses two of these skills and gains one free rank in each. These ranks do not cost experience. Hunters need to be able to sneak up on their targets, move through difficult terrain, and be constantly alert to their surroundings. Many hunters train with ranged weapons so that they can strike their targets from far away.
+
 [P]Most Hunters initially embark upon their careers focused on animal prey. Few, however, engage in this practice out of a desire to prove their mettle or a thirst for blood. Rather, their connection to the Force often lets them differentiate between predators that hunt out of necessity from those that are actively malicious. A Hunter does not normally interfere in the natural cycle of life, but he's more than willing to restore balance by eliminating a predator that kills needlessly and destroys natural habitats. Sadly, these foul and twisted animalistic intelligences also have their parallels within sentient beings. All too often, a Hunter finds himself hunting intelligent quarry; this can prove to be the most dangerous game of all.</Description>
   <Source Page="88">Force and Destiny Core Rulebook</Source>
   <Custom>DescOnly</Custom>
@@ -16,6 +19,7 @@ Far from the civilized parts of the galaxy, there are many predators that can en
   </CareerSkills>
   <TalentRows>
     <TalentRow>
+      <Index>0</Index>
       <Cost>5</Cost>
       <Talents>
         <Key>RAPREC</Key>
@@ -25,18 +29,33 @@ Far from the civilized parts of the galaxy, there are many predators that can en
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
-        <Direction />
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>10</Cost>
       <Talents>
         <Key>TOUGH</Key>
@@ -46,25 +65,33 @@ Far from the civilized parts of the galaxy, there are many predators that can en
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>15</Cost>
       <Talents>
         <Key>SIDESTEP</Key>
@@ -74,9 +101,13 @@ Far from the civilized parts of the galaxy, there are many predators that can en
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
@@ -85,14 +116,18 @@ Far from the civilized parts of the galaxy, there are many predators that can en
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>20</Cost>
       <Talents>
         <Key>RAPREC</Key>
@@ -102,27 +137,33 @@ Far from the civilized parts of the galaxy, there are many predators that can en
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>25</Cost>
       <Talents>
         <Key>SIDESTEP</Key>
@@ -132,22 +173,63 @@ Far from the civilized parts of the galaxy, there are many predators that can en
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
     </TalentRow>
   </TalentRows>
+  <Universal>false</Universal>
+  <Attributes>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
+    <Experience>0</Experience>
+    <ForceRating>0</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+    </Requirement>
+  </Attributes>
+  <Requirements>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
+    <Experience>0</Experience>
+    <ForceRating>0</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+    </Requirement>
+  </Requirements>
 </Specialization>

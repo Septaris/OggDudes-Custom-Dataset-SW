@@ -6,10 +6,11 @@
     [H4]Force Power: Misdirect[h4]
 
 Trickery is an important part of many Force users' arsenals, letting them tip the scales of battle in their favor or even avoid some conflicts entirely. Force users versed in shrouding techniques often walk unseen amidst their foes-a particularly useful ability for any Force-sensitive hiding from the Empire. Especially skilled crafters of illusions can even project visions onto those around them, baffling pursuers or terrifying enemies with horrific phantasms.</Description>
-  <Source>Force and Destiny Core Rulebook</Source>
+  <Source Page="296">Force and Destiny Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>MISDIRBASIC</Key>
         <Key>MISDIRBASIC</Key>
@@ -18,11 +19,27 @@ Trickery is an important part of many Force users' arsenals, letting them tip th
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
-        <Direction />
-        <Direction />
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
@@ -40,6 +57,7 @@ Trickery is an important part of many Force users' arsenals, letting them tip th
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>MISDIRRANGE</Key>
         <Key>MISDIRDURATION</Key>
@@ -48,6 +66,7 @@ Trickery is an important part of many Force users' arsenals, letting them tip th
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
@@ -55,13 +74,18 @@ Trickery is an important part of many Force users' arsenals, letting them tip th
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
@@ -80,6 +104,7 @@ Trickery is an important part of many Force users' arsenals, letting them tip th
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>MISDIRMAGNITUDE</Key>
         <Key>MISDIRMAGNITUDE</Key>
@@ -88,21 +113,28 @@ Trickery is an important part of many Force users' arsenals, letting them tip th
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
       <AbilitySpan>
@@ -119,6 +151,7 @@ Trickery is an important part of many Force users' arsenals, letting them tip th
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>MISDIRRANGE</Key>
         <Key>MISDIRCONTROL3</Key>
@@ -127,21 +160,28 @@ Trickery is an important part of many Force users' arsenals, letting them tip th
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
       <AbilitySpan>
@@ -158,6 +198,7 @@ Trickery is an important part of many Force users' arsenals, letting them tip th
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>MISDIRRANGE</Key>
         <Key>MISDIRRANGE</Key>
@@ -166,13 +207,29 @@ Trickery is an important part of many Force users' arsenals, letting them tip th
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
-        <Direction />
         <Direction>
-          <Up>true</Up>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
-        <Direction />
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>true</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
       </Directions>
       <AbilitySpan>
         <Span>2</Span>
@@ -188,4 +245,5 @@ Trickery is an important part of many Force users' arsenals, letting them tip th
       </Costs>
     </AbilityRow>
   </AbilityRows>
+  <MinForceRating>1</MinForceRating>
 </ForcePower>

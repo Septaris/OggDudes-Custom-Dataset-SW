@@ -7,27 +7,39 @@
 
 A peculiar vessel, CEC's Pocket Patrol Boat is really an oversized starfighter designed for long-range, intersystem patrol duty. Used primarily by the Corellian Defense Force, the PPB can be found throughout the Corellian Sector, patrolling and policing the space lanes. Equipped with sophisticated sensors, the fast and relatively maneuverable PPB can overtake most free traders and blockade runners. The PPB's speed comes at the cost of armor, leaving it vulnerable to starfighters and well-armed attack craft.
 
-[P]Mounted in a turret atop the small PPB is a Taim Bak heavy laser cannon, which gives the patrol boat a powerful punch for a ship of its size. Unfortunately, the power requirements of this weapon on a starfighter's power plant means it has a hefty recharge time. While useful against light and medium freighters, this high-powered, slow-firing armament is far less effective against starfighters. This limitation hates one quite a bit to establish the PPB as a "second-rate" starfighter when compared to other vessels.</Description>
-  <Source>Suns of Fortune</Source>
+[P]Mounted in a turret atop the small PPB is a Taim Bak heavy laser cannon, which gives the patrol boat a powerful punch for a ship of its size. Unfortunately, the power requirements of this weapon on a starfighter's power plant means it has a hefty recharge time. While useful against light and medium freighters, this high-powered, slow-firing armament is far less effective against starhghters. This limitation hates one quite a bit to establish the PPB as a "second-rate" starfighter when compared to other vessels.</Description>
+  <Source Page="109">Suns of Fortune</Source>
   <Custom>DescOnly</Custom>
   <Type>Patrol Boat</Type>
   <Categories>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>2</HP>
   <Price>70000</Price>
   <Rarity>5</Rarity>
+  <MaxAltitude />
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srLong</SensorRangeValue>
   <Crew>Onen pilot, one sensor officer/gunner</Crew>
   <EncumbranceCapacity>12</EncumbranceCapacity>
+  <Passengers>0</Passengers>
   <Consumables>Two weeks</Consumables>
   <Silhouette>3</Silhouette>
   <Speed>4</Speed>
+  <Handling>0</Handling>
   <DefFore>1</DefFore>
   <DefAft>1</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>2</Armor>
   <HullTrauma>10</HullTrauma>
   <SystemStrain>7</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
@@ -35,10 +47,15 @@ A peculiar vessel, CEC's Pocket Patrol Boat is really an oversized starfighter d
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERHVY</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

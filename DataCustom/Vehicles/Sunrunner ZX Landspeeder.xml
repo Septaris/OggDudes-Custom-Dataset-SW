@@ -5,23 +5,41 @@
   <Description>[H3]Sunrunner ZX Landspeeder[h3]
 
 An armored variant of the civilian Sunrunner landspeeder produced by Ikas-Adno, the Sunrunner zX has seen limited success among militias and planetary security forces in the Mid and Outer Rim Territories. Compact and maneuverable, the Sunrunner zX works well as an urban combat vehicle. However, it lacks the heavy armor and armament needed to fulfill any role on the battlefield besides reconnaissance, resulting in very few examples in military service. While shunned by the Imperial armed forces, the low price tag of the speeder makes it popular among small police forces, as well as smugglers and other criminals looking for extra firepower.</Description>
-  <Source>Fly Casual</Source>
+  <Source Page="53">Fly Casual</Source>
   <Custom>DescOnly</Custom>
   <Type>Landspeeder</Type>
   <Categories>
     <Category>Land Vehicle</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>3</HP>
   <Price>8500</Price>
   <Rarity>5</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <MaxAltitude />
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srClose</SensorRangeValue>
   <Crew>One pilot, one gunner</Crew>
   <EncumbranceCapacity>12</EncumbranceCapacity>
   <Passengers>1</Passengers>
+  <Consumables />
   <Silhouette>2</Silhouette>
   <Speed>2</Speed>
+  <Handling>0</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>2</Armor>
   <HullTrauma>5</HullTrauma>
   <SystemStrain>5</SystemStrain>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
@@ -29,10 +47,15 @@ An armored variant of the civilian Sunrunner landspeeder produced by Ikas-Adno, 
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
+      <Location>Unspecified</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>BLASTCANLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

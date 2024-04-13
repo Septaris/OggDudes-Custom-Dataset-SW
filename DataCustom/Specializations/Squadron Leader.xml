@@ -4,9 +4,13 @@
   <Name>Squadron Leader</Name>
   <Description>
     [H4]Squadron Leader - Ship-to-Ship[h4]
+
 Though perhaps the most important engagements involve capital ships, the daily struggle for survival and victory happens at a much smaller scale. Snubfighters, small gunships, combat airspeeders, and hovertanks go hammer-and-tongs against the massive Imperial war machine, and it's only the tactical genius and daring of those who lead these units keeping them alive. The best Squadron Leaders even manage to pull out more than their fair share of victories.
+
 [P]Squadron Leaders have access to [B]Gunnery, Mechanics, Piloting (Planetary),[b] and [B]Piloting (Space)[b] as their additional career skills. As the first specialization choices, two of these skills can begin with a free rank. Squadron Leaders tend to know their machines very well, and of course they need to be able to operate the same types of vehicles they are commanding.
+
 [P]Squadron Leaders rarely lead from the rear. More often than not, theirs are the first ships or vehicles to engage the enemy, and they're the last ones out of a combat zone Of they get out at all). Leading by example is a way of life for a Squadron Leader, and he won't ask anyone to do what he's not ready to do himself. He rides his team to keep their machines in top shape, and he trains them constantly. He wants both crew and machines back in the hangar when the mission is over, and he does whatever it takes to make it happen.
+
 [P]Alliance High Command knows every single battle is important, and most of them are won at the front line, by mechanized detachments and starfighter squadrons under the command of Squadron Leaders. The upper echelons are constantly on the lookout for anyone with the right qualities to inspire and lead pilots and vehicle crews into the worst kinds of hell and back again.</Description>
   <Source Page="74">Age of Rebellion Core Rulebook</Source>
   <Custom>DescOnly</Custom>
@@ -18,6 +22,7 @@ Though perhaps the most important engagements involve capital ships, the daily s
   </CareerSkills>
   <TalentRows>
     <TalentRow>
+      <Index>0</Index>
       <Cost>5</Cost>
       <Talents>
         <Key>GRIT</Key>
@@ -29,8 +34,10 @@ Though perhaps the most important engagements involve capital ships, the daily s
         <Direction>
           <Down>true</Down>
         </Direction>
-        <Direction />
-        <Direction />
+        <Direction>
+        </Direction>
+        <Direction>
+        </Direction>
         <Direction>
           <Down>true</Down>
         </Direction>
@@ -47,21 +54,21 @@ Though perhaps the most important engagements involve capital ships, the daily s
       </Talents>
       <Directions>
         <Direction>
-          <Right>true</Right>
+          <Down>true</Down>
           <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Left>true</Left>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
           <Right>true</Right>
-          <Down>true</Down>
         </Direction>
         <Direction>
+          <Down>true</Down>
           <Left>true</Left>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+          <Right>true</Right>
+        </Direction>
+        <Direction>
           <Up>true</Up>
+          <Left>true</Left>
         </Direction>
       </Directions>
     </TalentRow>
@@ -106,20 +113,20 @@ Though perhaps the most important engagements involve capital ships, the daily s
           <Up>true</Up>
         </Direction>
         <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
           <Right>true</Right>
+        </Direction>
+        <Direction>
+          <Right>true</Right>
+          <Left>true</Left>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>true</Left>
-          <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
-        </Direction>
-        <Direction>
           <Left>true</Left>
-          <Up>true</Up>
-          <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>

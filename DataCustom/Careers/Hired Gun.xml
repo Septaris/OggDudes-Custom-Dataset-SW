@@ -17,7 +17,7 @@
 
 [P]Independent Hired Guns enjoy the greatest freedom, yet they also spend a lot of time just trying to find a good job, and preferably one that doesn't give them a life expectancy measured in days. Reputation can mean everything for such professionals, yet a simple test of skills and competency may often result in a better arrangement if the right employer is impressed.</Description>
   <Source Page="74">Edge of the Empire Core Rulebook</Source>
-  <Custom>DescOnly</Custom>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>ATHL</Key>
     <Key>BRAWL</Key>
@@ -32,10 +32,14 @@
     <Key>BODYGUARD</Key>
     <Key>DEMOLITIONIST</Key>
     <Key>ENFORCER</Key>
+    <Key>FORCEADHERENT</Key>
     <Key>HEAVY</Key>
+    <Key>IMPERIALACADEMYCADET</Key>
     <Key>MARAUDER</Key>
     <Key>MERCENARY</Key>
+    <Key>PADAWANSURVIVOR</Key>
+    <Key>PIRATE</Key>
+    <Key>RETIREDCLONETROOPER</Key>
+    <Key>SHIPCAPTAIN</Key>
   </Specializations>
-  <Attributes />
-  <FreeRanks>4</FreeRanks>
 </Career>

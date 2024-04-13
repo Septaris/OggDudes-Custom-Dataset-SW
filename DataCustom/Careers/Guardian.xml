@@ -18,7 +18,7 @@ The Guardian's six career skills are [B]Brawl, Cool, Discipline, Melee, Resilien
 [P]In many cases, a Guardian becomes established within a particular geographic region. This might be as large as a group of planets within a sector or as small as a neighborhood in a large city. A Guardian who focuses on a region in this way can choose to take stewardship of it. Notably, such stewardship comes out of a sense of responsibility and duty rather than any actual authority. Guardians seldom assume political power. Instead, they act in accordance with their internal moral compass, as guided by the Force, to ensure that everyone under their protection receives the justice they deserve.
 [P]Other Guardians follow the calling of the Force to travel and aid beings in need wherever they might find them. Many such Guardians wander in a seemingly aimless fashion, apparently letting random chance direct them where they might need to go. Almost invariably. their voyages soon lead them to people who desperately need help. </Description>
   <Source Page="72">Force and Destiny Core Rulebook</Source>
-  <Custom>DescOnly</Custom>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>BRAWL</Key>
     <Key>COOL</Key>
@@ -29,8 +29,14 @@ The Guardian's six career skills are [B]Brawl, Cool, Discipline, Melee, Resilien
   </CareerSkills>
   <Specializations>
     <Key>ARMORER</Key>
+    <Key>FORCEADHERENT</Key>
+    <Key>IMPERIALACADEMYCADET</Key>
+    <Key>PADAWANSURVIVOR</Key>
     <Key>PEACE</Key>
+    <Key>PIRATE</Key>
     <Key>PROTECT</Key>
+    <Key>RETIREDCLONETROOPER</Key>
+    <Key>SHIPCAPTAIN</Key>
     <Key>SORESU</Key>
     <Key>WARDEN</Key>
     <Key>WARLEADER</Key>

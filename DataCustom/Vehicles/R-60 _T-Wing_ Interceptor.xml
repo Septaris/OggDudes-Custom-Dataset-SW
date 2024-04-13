@@ -8,56 +8,101 @@ The fast, lightweight R-60 T-wing is the latest starfighter offering from Hoersc
 
 [P]While the T-wing isn't actually dangerous to fly, it suffers from the use of cheap, poor quality components and is plagued with a variety of small but infuriating problems. The fighter's shields are too light for its intended role, and have a worrying tendency to fail under moderate enemy fire. While the T-wing is equipped with a hyperdrive, the T-60's navicomputer software is obsolete and full of coding errors that make navigation more an act of faith than anything else.
 [P]Despite these shortcomings, H-K hasn't slowed production and continues to search for a market for their bargain-basement interceptor. While the leadership of the Rebel Alliance refused to even consider the R-60 for service, a handful of third party operatives in the Outer Rim territories have shown interest in the T-wing, mostly due to its low cost and favorable parts and service packages offered by H-K salesmen.</Description>
-  <Source>Stay on Target</Source>
+  <Source Page="56">Stay on Target</Source>
   <Custom>DescOnly</Custom>
   <Type>Starfighter</Type>
   <Categories>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>1</HP>
   <Price>95000</Price>
   <Rarity>7</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <MaxAltitude />
   <HyperdrivePrimary>3</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srClose</SensorRangeValue>
   <Crew>One pilot</Crew>
   <EncumbranceCapacity>5</EncumbranceCapacity>
+  <Passengers>0</Passengers>
   <Consumables>Two days</Consumables>
   <Silhouette>3</Silhouette>
   <Speed>6</Speed>
   <Handling>-1</Handling>
   <DefFore>1</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>2</Armor>
   <HullTrauma>8</HullTrauma>
   <SystemStrain>7</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
   <SinglePilot>true</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
       </Qualities>
       <Key>LASERLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LIMITEDAMMO</Key>
           <Count>2</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
       </Qualities>
       <Key>PTL</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

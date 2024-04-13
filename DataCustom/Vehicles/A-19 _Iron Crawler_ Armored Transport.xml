@@ -8,24 +8,39 @@
 Following the loss of several mining facilities and digger crawlers in the Outer Rim Territories, the need to provide adequate defense for its valuable assets on uncivilized, frontier worlds of the galaxy led the Corellia Mining Corporation to manufacture a new armored transport with enough firepower to deter marauders and large, aggressive predators. Since repulsorcraft were unsuited for certain environments and walkers proved too expensive to deploy and maintain, the A-19 "Iron Crawler" was developed to fill this role.
 
 [P]A rugged, heavily armed and armored tracked vehicle, the A-19 is powered by a scaled-down version of the nuclear fission reactor found in the digger crawler. Dependable and easily maintained and repaired, the Iron Crawler can operate for extended periods in the harshest climes. Armed with a heavy blaster cannon, auto-blaster, and concussion grenade launcher, the A-19 can deal with virtually any ground-based threat it is likely to encounter on the fringe.</Description>
-  <Source>Suns of Fortune</Source>
+  <Source Page="106">Suns of Fortune</Source>
   <Custom>DescOnly</Custom>
   <Type>Armored Personnel Carrier</Type>
   <Categories>
     <Category>Land Vehicle</Category>
     <Category>Tracked Vehicle</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>4</HP>
   <Price>12500</Price>
   <Rarity>6</Rarity>
+  <MaxAltitude />
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot, one co-pilot/engineer, two gunners</Crew>
+  <EncumbranceCapacity>0</EncumbranceCapacity>
   <Passengers>8</Passengers>
+  <Consumables />
   <Silhouette>5</Silhouette>
   <Speed>1</Speed>
   <Handling>-3</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>4</Armor>
   <HullTrauma>20</HullTrauma>
   <SystemStrain>15</SystemStrain>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
@@ -33,10 +48,15 @@ Following the loss of several mining facilities and digger crawlers in the Outer
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>BLASTCANHVY</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
@@ -44,10 +64,15 @@ Following the loss of several mining facilities and digger crawlers in the Outer
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Top</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>CONGRENLAUNCH</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

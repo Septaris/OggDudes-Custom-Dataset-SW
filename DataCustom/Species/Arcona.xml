@@ -25,7 +25,7 @@ The Arcona are slim-framed reptilian humanoids with clawed hands and feet. They 
 [P]Cona is also rich in minerals and metals, which has been a mixed blessing for its inhabitants. These resources attracted prospectors and traders who originally exchanged water for mining rights, but then discovered the Arconan susceptibility to sodium chloride addiction. This compound acts as a hallucinogen to the Arcona, and addiction is ultimately fatal. Unfortunately, traders found it easier and cheaper to transport than water, so they imported it, putting the whole of Arconan society at risk. Swift intervention by the Republic and the Arconan government became necessary to prevent a complete breakdown of society.
 
 [P][B]Language:[b] The Arcona are more practical than proud. OffworId, many teach their children Basic first, even before their own language of Arconese. While most adult Arcona speak both fluently, their snake-like tongues add a hissing resonance to their speech. They also struggle sometimes with personal pronouns, using "we" rather than "1." This reflects their community-based outlook, rather than grammatical inaccuracy. </Description>
-  <Source>Far Horizons</Source>
+  <Source Page="19">Far Horizons</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>1</Brawn>
@@ -38,7 +38,11 @@ The Arcona are slim-framed reptilian humanoids with clawed hands and feet. They 
   <StartingAttrs>
     <WoundThreshold>10</WoundThreshold>
     <StrainThreshold>10</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
     <Experience>100</Experience>
+    <ForceRating>0</ForceRating>
   </StartingAttrs>
   <SkillModifiers>
     <SkillModifier>
@@ -47,6 +51,7 @@ The Arcona are slim-framed reptilian humanoids with clawed hands and feet. They 
       <RankLimit>2</RankLimit>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers />
   <OptionChoices>
     <OptionChoice>
       <Key>ARCONAOC1</Key>
@@ -83,4 +88,7 @@ The Arcona are slim-framed reptilian humanoids with clawed hands and feet. They 
       </Options>
     </OptionChoice>
   </OptionChoices>
+  <WeaponModifiers>
+  </WeaponModifiers>
+  <NoForceAbilities>false</NoForceAbilities>
 </Species>

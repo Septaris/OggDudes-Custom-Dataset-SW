@@ -23,7 +23,7 @@ The 600-meter Star Destroyer packs incredible firepower, and it is equally comfo
   <StarFighters>24 starfighters, numerous shuttles, landing craft, and utility vehicles</StarFighters>
   <NaviComputer>true</NaviComputer>
   <SensorRangeValue>srLong</SensorRangeValue>
-  <Crew>1,255 officers, pilots and enlisted crew</Crew>
+  <Crew>1,255 officers, pilots and enlised crew</Crew>
   <EncumbranceCapacity>5000</EncumbranceCapacity>
   <Passengers>1200</Passengers>
   <Consumables>Two years</Consumables>

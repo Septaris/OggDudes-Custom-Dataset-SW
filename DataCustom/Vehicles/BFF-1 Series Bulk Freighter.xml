@@ -6,19 +6,12 @@
       [H3]BFF-1 Series Bulk Freighter[h3]
 
 At 120 meters in length, this craft was a standard medium-sized freighter that was common throughout the entire galaxy. It was low-cost, partly due to its lack of defensive armament, effective and capable of extremely long range bulk transport duties. The BFF-1 was designed to haul four Xizor Transport Systems Class-A Cargo Containers, attached in arrays of two on either side of the vessel's main hull, and modified into cheap yet capacious storage holds. </Description>
-  <Source>Beyond the Rim</Source>
+  <Source Page="96">Beyond the Rim</Source>
   <Custom>DescOnly</Custom>
-  <Type>Freighter</Type>
-  <Categories>
-    <Category>Starship</Category>
-    <Category>Non-Fighter Starship</Category>
-  </Categories>
-  <HP>5</HP>
-  <Price>150000</Price>
-  <Rarity>4</Rarity>
   <HyperdrivePrimary>3</HyperdrivePrimary>
   <HyperdriveBackup>12</HyperdriveBackup>
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srMedium</SensorRangeValue>
   <Crew>Fifteen crew.</Crew>
   <EncumbranceCapacity>1000</EncumbranceCapacity>
   <Passengers>25</Passengers>
@@ -33,6 +26,14 @@ At 120 meters in length, this craft was a standard medium-sized freighter that w
   <Armor>2</Armor>
   <HullTrauma>40</HullTrauma>
   <SystemStrain>25</SystemStrain>
+  <HP>5</HP>
+  <Price>150000</Price>
+  <Rarity>4</Rarity>
+  <Categories>
+    <Category>Starship</Category>
+    <Category>Non-Fighter Starship</Category>
+  </Categories>
+  <Type>Freighter</Type>
   <Starship>true</Starship>
   <VehicleWeapons>
     <VehicleWeapon>
@@ -41,16 +42,24 @@ At 120 meters in length, this craft was a standard medium-sized freighter that w
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <DieModifiers />
         </Quality>
       </Qualities>
       <Key>LASERMED</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
@@ -58,16 +67,24 @@ At 120 meters in length, this craft was a standard medium-sized freighter that w
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Ventral</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <DieModifiers />
         </Quality>
       </Qualities>
       <Key>LASERMED</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
@@ -75,16 +92,24 @@ At 120 meters in length, this craft was a standard medium-sized freighter that w
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <DieModifiers />
         </Quality>
       </Qualities>
       <Key>LASERMED</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
@@ -92,17 +117,24 @@ At 120 meters in length, this craft was a standard medium-sized freighter that w
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <DieModifiers />
         </Quality>
       </Qualities>
       <Key>LASERMED</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

@@ -3,10 +3,12 @@
   <Key>THISONEISMINE</Key>
   <Name>This One is Mine</Name>
   <Description>Amidst the pandemonium of battles involving hundreds of starships and vehicles, pilots must ignore the chaos around them and focus on individual enemy targets to prioritize. Ace characters have become masters of this. When they focus on a target, all else seems to disappear around them as they stalk their prey. And in turn, as an Ace begins the attack, his target is forced to focus all its attention on staying alive. As the two combatants fight, they weave through the ongoing battle, ignored by all others as they duel for their lives.</Description>
-  <Source>Stay on Target</Source>
+  <Source Page="36">Stay on Target</Source>
+  <Sources />
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>THISONEISMINEBASE</Key>
         <Key>SUDDISCBASIC</Key>
@@ -15,13 +17,27 @@
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
-        <Direction />
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
@@ -63,6 +79,7 @@
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>THISONEISMINESIL</Key>
         <Key>THISONEISMINEDUR</Key>
@@ -71,18 +88,26 @@
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
@@ -101,6 +126,7 @@
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>THISONEISMINESIL</Key>
         <Key>THISONEISMINEFREQ</Key>
@@ -109,21 +135,28 @@
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
       <AbilitySpan>

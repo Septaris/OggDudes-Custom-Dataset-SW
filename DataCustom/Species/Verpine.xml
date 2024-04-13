@@ -29,57 +29,55 @@ Verpine are an insectoid sentient species from the Roche asteroids. Best known f
 [P]Although Verpine language is usually spoken, Verpine can also use radio waves to communicate with other Verpine in their language.
 
 [P]Most Verpine are fluent in both Verpine language and Basic, although they are only literate in their own language.</Description>
-  <Source>Unofficial Species Menagerie</Source>
+  <Source Page="102">Strongholds of Resistance</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
-    <Brawn>1</Brawn>
-    <Agility>2</Agility>
+    <Brawn>2</Brawn>
+    <Agility>3</Agility>
     <Intellect>3</Intellect>
-    <Cunning>2</Cunning>
+    <Cunning>1</Cunning>
     <Willpower>2</Willpower>
-    <Presence>2</Presence>
+    <Presence>1</Presence>
   </StartingChars>
   <StartingAttrs>
-    <WoundThreshold>10</WoundThreshold>
-    <StrainThreshold>10</StrainThreshold>
-    <DefenseRanged>1</DefenseRanged>
-    <DefenseMelee>1</DefenseMelee>
-    <Experience>100</Experience>
+    <WoundThreshold>9</WoundThreshold>
+    <StrainThreshold>12</StrainThreshold>
+    <Experience>80</Experience>
   </StartingAttrs>
   <SkillModifiers>
     <SkillModifier>
       <Key>MECH</Key>
       <RankStart>1</RankStart>
+      <RankAdd>0</RankAdd>
+      <RankLimit>0</RankLimit>
+      <isCareer>false</isCareer>
     </SkillModifier>
   </SkillModifiers>
   <OptionChoices>
     <OptionChoice>
       <Key>VERPINECH1</Key>
       <Name>Perception</Name>
+      <Description />
       <Options>
         <Option>
           <Key>VERPINECH1OP1</Key>
-          <Name>Microscopic Sight</Name>
-          <Description>Verpine add [ADVANTAGE] to all Perception checks.</Description>
-          <DieModifiers>
-            <DieModifier>
-              <SkillKey>PERC</SkillKey>
-              <AdvantageCount>1</AdvantageCount>
-            </DieModifier>
-          </DieModifiers>
+          <Name>Microvision</Name>
+          <Description>When closely examining an object, Verpine add [BO] to their Perception checks.</Description>
         </Option>
       </Options>
     </OptionChoice>
     <OptionChoice>
       <Key>VERPINECH2</Key>
-      <Name>Defense</Name>
+      <Name>Communication</Name>
+      <Description />
       <Options>
         <Option>
           <Key>VERPINECH2OP1</Key>
-          <Name>Chitin Plating</Name>
-          <Description>Verpine have a natural defense of 1.</Description>
+          <Name>Radio-wave Communication</Name>
+          <Description>Verpine can produce and hear radio waves, which allows them to silently communicate with other Verpine and specially-tuned comlinks within a 100-kilometer range.</Description>
         </Option>
       </Options>
     </OptionChoice>
   </OptionChoices>
+  <WeaponModifiers />
 </Species>

@@ -6,7 +6,7 @@
 
 The Sluissi are the indigenous sentient species of the planet Sluis Van, located in the Outer Rim Territories. While their bodies above the waist are humanoid, their lower halves are serpentine, long and heavily muscled. Sluissi are noted for their calm temperament, aversion to rushing and impatience, compliance to protocol, no matter how trivial, and their technical aptitude. Like most reptiles, Sluissi can use their forked tongues to sense heat.
 
-[P][B]Physiology:[b] Sluissi's upper torsos are similar to a human's, with two arms, each with four-fingered hands. Their fourth finger is an opposable digit. Their arms have almost winglike extensions of skin, which aid their movement while they are flat on the ground. The bottom half of their body is similar to a snake's, with a long, heavily muscled, singular tail. Their bodies are covered in fine scales which range in color from light brown to dark green. Other colored scales on Sluissi are not unheard of, however they are quite rare. Sluissi have round black eyes and a swooping, hoodlike fold of tough skin at the back of their heads. They have forked tongues that aid their sense of smell. The average member of the species weighs 60 kilograms.
+[P][B]Physiology:[b] Sluissi's upper torsos are similar to a human's, with two arms, each with four-fingered hands. Their fourth finger is an opposable digit. Their arms have almost winglike extensions of skin, which aid their movement while they aree flat on the ground. The bottom half of their body is similar to a snake's, with a long, heavily muscled, singular tail. Their bodies are covered in fine scales which range in color from light brown to dark green. Other colored scales on Sluissi are not unheard of, however they are quite rare. Sluissi have round black eyes and a swooping, hoodlike fold of tough skin at the back of their heads. They have forked tongues that aid their sense of smell. The average member of the species weighs 60 kilograms.
 
 [P][B]Society:[b] Sluissi are patient, sociable, relaxed, easy-going beings, famous for remaining calm under pressure. Their patient, calm nature—combined with their seeming inability to have become genuinely upset or angry—often baffles, and sometimes even infuriates other species. Extremely industrious, Sluissi love to tinker with technology and mechanical objects, and Sluissi technicians are able to improve the engine efficiency, power output and system response in even archaic, worn out ships.
 
@@ -34,12 +34,17 @@ The Sluissi are the indigenous sentient species of the planet Sluis Van, located
     <SkillModifier>
       <Key>MECH</Key>
       <RankStart>1</RankStart>
+      <RankAdd>0</RankAdd>
+      <RankLimit>0</RankLimit>
+      <isCareer>false</isCareer>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers />
   <OptionChoices>
     <OptionChoice>
       <Key>SLUISSICH1</Key>
       <Name>Talents</Name>
+      <Description />
       <Options>
         <Option>
           <Key>SLUISSICH1OP1</Key>
@@ -48,7 +53,9 @@ The Sluissi are the indigenous sentient species of the planet Sluis Van, located
           <TalentModifiers>
             <TalentModifier>
               <Key>GEARHD</Key>
+              <RankStart>0</RankStart>
               <RankAdd>1</RankAdd>
+              <RankLimit>0</RankLimit>
             </TalentModifier>
           </TalentModifiers>
         </Option>
@@ -59,7 +66,9 @@ The Sluissi are the indigenous sentient species of the planet Sluis Van, located
           <TalentModifiers>
             <TalentModifier>
               <Key>SOLREP</Key>
+              <RankStart>0</RankStart>
               <RankAdd>1</RankAdd>
+              <RankLimit>0</RankLimit>
             </TalentModifier>
           </TalentModifiers>
         </Option>
@@ -68,6 +77,7 @@ The Sluissi are the indigenous sentient species of the planet Sluis Van, located
     <OptionChoice>
       <Key>SLUISSICH2</Key>
       <Name>Mechanics</Name>
+      <Description />
       <Options>
         <Option>
           <Key>SLUISSICH2OP1</Key>
@@ -77,4 +87,5 @@ The Sluissi are the indigenous sentient species of the planet Sluis Van, located
       </Options>
     </OptionChoice>
   </OptionChoices>
+  <WeaponModifiers />
 </Species>

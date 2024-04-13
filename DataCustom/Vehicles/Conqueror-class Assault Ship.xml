@@ -8,59 +8,89 @@
 The Surronian Conqueror-class assault ship is exceedingly rare in the galaxy. Manufactured for the Surronian's own defense forces, the ship is not typically sold to outsiders. Anyone flying the ship in the galaxy received a rare gift from the Surronians, was fortunate enough to repurchase such a ship, or managed to steal one. Among the few known ships is the Stinger, known to be associated with the Black Sun crime syndicate. In fact, it is piloted by Prince Xizor's assistant, Guri, carrying out Black Sun business.
 
 [P]For those who obtain such a ship, it is a powerful and versatile vessel that can be run by a single pilot, if needed. In its stock configuration, its amenities are scarce, even missing crew quarters. While this is in keeping with the short-duration planetary defense duties of the original design, most owners soon modify the ship to improve the living conditions. Hired Guns and Bounty Hunters find the ship well-suited to their roles. It has powerful weapons able to destroy or disable enemy craft, and excellent maneuverability for a ship of this size.</Description>
-  <Source>Dangerous Covenants</Source>
+  <Source Page="67">Dangerous Covenants</Source>
   <Custom>DescOnly</Custom>
   <Type>Light Assault Transport</Type>
   <Categories>
     <Category>Non-Fighter Starship</Category>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>4</HP>
   <Price>100500</Price>
   <Rarity>9</Rarity>
+  <Restricted>false</Restricted>
+  <MaxAltitude />
   <HyperdrivePrimary>1</HyperdrivePrimary>
   <HyperdriveBackup>10</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srMedium</SensorRangeValue>
   <Crew>One pilot, one gunner, one engineer</Crew>
   <EncumbranceCapacity>80</EncumbranceCapacity>
   <Passengers>1</Passengers>
   <Consumables>One month</Consumables>
   <Silhouette>4</Silhouette>
   <Speed>3</Speed>
+  <Handling>0</Handling>
   <DefFore>2</DefFore>
   <DefAft>2</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>4</Armor>
   <HullTrauma>20</HullTrauma>
   <SystemStrain>14</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
         <Dorsal>true</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERHVY</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>IONLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

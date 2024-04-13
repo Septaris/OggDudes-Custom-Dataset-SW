@@ -10,18 +10,23 @@ The Nubia Star Drives S-type Racing Sloop is one of the latest racing vessels cr
 [P]These ships feature long, narrow, and blocky hulls that sweep backwards into large engines built into the hull above and below the inset cockpit. The cockpit holds a pilot, navigator, and can also carry two passengers in foldable jump-seats (although this space is often used by experienced racers to store food or supplies). The entire living space is horribly cramped, and traveling long distances quickly becomes an ordeal.
 
 [P]In tandem, the engines can accelerate the vessel to incredible speeds. However, this stretches the Racing Sloop's power plant to the maximum. Little remains for shields, and none for weapons.</Description>
-  <Source>Suns of Fortune</Source>
+  <Source Page="111">Suns of Fortune</Source>
   <Custom>DescOnly</Custom>
   <Type>Racing Vessel</Type>
   <Categories>
     <Category>Starship</Category>
     <Category>Non-Fighter Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
+  <HP>0</HP>
   <Price>160000</Price>
   <Rarity>7</Rarity>
+  <MaxAltitude />
   <HyperdrivePrimary>0.8</HyperdrivePrimary>
   <HyperdriveBackup>18</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot, one navigator</Crew>
   <EncumbranceCapacity>20</EncumbranceCapacity>
   <Passengers>2</Passengers>
@@ -30,10 +35,14 @@ The Nubia Star Drives S-type Racing Sloop is one of the latest racing vessels cr
   <Speed>6</Speed>
   <Handling>1</Handling>
   <DefFore>1</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>1</Armor>
   <HullTrauma>11</HullTrauma>
   <SystemStrain>15</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
   <SinglePilot>true</SinglePilot>
-  <SensorRange>Close</SensorRange>
+  <VehicleWeapons />
 </Vehicle>

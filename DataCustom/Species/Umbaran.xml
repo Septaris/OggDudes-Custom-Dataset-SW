@@ -38,6 +38,8 @@ The Umbaran people have had a contentious history with the Galactic Republic. Me
       <RankLimit>2</RankLimit>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers>
+  </TalentModifiers>
   <OptionChoices>
     <OptionChoice>
       <Key>UMBARANAB1</Key>

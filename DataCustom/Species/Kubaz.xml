@@ -28,15 +28,19 @@ Distinguished by their long snout and green-black skin as well as the whirling t
     <StrainThreshold>10</StrainThreshold>
     <Experience>100</Experience>
   </StartingAttrs>
+  <SkillModifiers>
+  </SkillModifiers>
+  <TalentModifiers>
+  </TalentModifiers>
   <OptionChoices>
     <OptionChoice>
-      <Key>KUBAZCAMCH1</Key>
-      <Name>Special Abilities</Name>
+      <Key>KUBAZCH1</Key>
+      <Name>Skills</Name>
       <Options>
         <Option>
-          <Key>KUBAZCAMCH1OP1</Key>
+          <Key>KUBAZCH1OP1</Key>
           <Name>Stealth</Name>
-          <Description>Kubaz may begin the game with one free rank in Stealth.</Description>
+          <Description>Kubaz may begin the game with one rank in Stealth.</Description>
           <SkillModifiers>
             <SkillModifier>
               <Key>STEAL</Key>
@@ -45,9 +49,9 @@ Distinguished by their long snout and green-black skin as well as the whirling t
           </SkillModifiers>
         </Option>
         <Option>
-          <Key>KUBAZCAMCH1OP2</Key>
+          <Key>KUBAZCH1OP2</Key>
           <Name>Survival</Name>
-          <Description>Kubaz may begin the game with one free rank in Survival.</Description>
+          <Description>Kubaz may begin the game with one rank in Survival.</Description>
           <SkillModifiers>
             <SkillModifier>
               <Key>SURV</Key>
@@ -58,13 +62,13 @@ Distinguished by their long snout and green-black skin as well as the whirling t
       </Options>
     </OptionChoice>
     <OptionChoice>
-      <Key>KUBAZCAMCH2</Key>
-      <Name>Physiology</Name>
+      <Key>KUBAZCH2</Key>
+      <Name>Environmental</Name>
       <Options>
         <Option>
-          <Key>KUBAZCAMCH2OP1</Key>
+          <Key>KUBAZCH2OP1</Key>
           <Name>Enhanced Vision</Name>
-          <Description>When making Ranged combat or Perception checks, Kubaz may remove up to [SE][SE] imposed due to concealment or applicable environmental factors (but not defense).</Description>
+          <Description>When making Ranged combat or Perception checks, Kubaz may remove up to [SE][SE] due to concealment or environmental factors (but not defense).</Description>
         </Option>
       </Options>
     </OptionChoice>

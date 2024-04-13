@@ -19,7 +19,10 @@ In Basic, Ithorians are called Hammerheads (though the nickname is not to their 
 [P][B]Homeworld:[b] Ithor is considered one of the most beautiful and life-filled worlds in the galaxy. It is covered in crystal blue oceans and emerald rainforests. All traces of civilization have been systematically removed from the planet's surface by the Ithorians, who live above it in their city-sized herdships. Individuals who choose to go to the surface are expected to reside there forever after, heeding the call of "Mother Jungle."
 
 [P][B]Language:[b] Considered one of the most complex and beautiful languages in the galaxy, Ithorese is a stereophonic melange of sounds that is a wonder to hear. Mastery of it by non-Ithorians is considered an incredible talent, as it is exceptionally difficult to manage without the unique qualities of Ithorian biology.</Description>
-  <Source>Age of Rebellion Core Rulebook</Source>
+  <Sources>
+    <Source Page="58">Age of Rebellion Core Rulebook</Source>
+    <Source Page="20">Savage Spirits</Source>
+  </Sources>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
@@ -38,6 +41,9 @@ In Basic, Ithorians are called Hammerheads (though the nickname is not to their 
     <SkillModifier>
       <Key>SURV</Key>
       <RankStart>1</RankStart>
+      <RankAdd>0</RankAdd>
+      <RankLimit>0</RankLimit>
+      <isCareer>false</isCareer>
     </SkillModifier>
   </SkillModifiers>
   <OptionChoices>
@@ -55,29 +61,46 @@ In Basic, Ithorians are called Hammerheads (though the nickname is not to their 
   </OptionChoices>
   <WeaponModifiers>
     <WeaponModifier>
+      <Unarmed>false</Unarmed>
       <UnarmedName>Bellow</UnarmedName>
       <SkillKey>RESIL</SkillKey>
+      <AllSkillKey />
       <Damage>6</Damage>
+      <DamageAdd>0</DamageAdd>
       <Crit>4</Crit>
+      <CritSub>0</CritSub>
+      <RangeValue>wrShort</RangeValue>
       <Qualities>
         <Quality>
           <Key>BLAST</Key>
           <Count>3</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
         <Quality>
           <Key>CONCUSSIVE</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
         <Quality>
           <Key>SLOWFIRING</Key>
           <Count>2</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
         <Quality>
           <Key>STUNDAMAGE</Key>
+          <Count>0</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
-      <RangeValue>wrShort</RangeValue>
-      <Range>Short</Range>
     </WeaponModifier>
   </WeaponModifiers>
+  <NoForceAbilities>false</NoForceAbilities>
 </Species>

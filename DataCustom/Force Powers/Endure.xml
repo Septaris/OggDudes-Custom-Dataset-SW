@@ -37,7 +37,7 @@ Those strong in the Force, and who learn to control that gift, can achieve great
     </AbilityRow>
     <AbilityRow>
       <Abilities>
-        <Key>ENDURESTRENGTH</Key>
+        <Key>ENDURESTRENGTH1</Key>
         <Key>ENDURECONTROL</Key>
         <Key>ENDUREDURATION</Key>
         <Key>ENDUREDURATION</Key>
@@ -73,7 +73,7 @@ Those strong in the Force, and who learn to control that gift, can achieve great
     <AbilityRow>
       <Abilities>
         <Key>ENDURECONTROL</Key>
-        <Key>ENDURESTRENGTH</Key>
+        <Key>ENDURESTRENGTH1</Key>
         <Key>ENDUREMAGNITUDE</Key>
         <Key>ENDUREMAGNITUDE</Key>
       </Abilities>
@@ -109,9 +109,9 @@ Those strong in the Force, and who learn to control that gift, can achieve great
     </AbilityRow>
     <AbilityRow>
       <Abilities>
-        <Key>ENDURESTRENGTH</Key>
+        <Key>ENDURESTRENGTH1</Key>
         <Key>ENDURECONTROL</Key>
-        <Key>ENDUREDEATH</Key>
+        <Key>ENDURESTRENGTH2</Key>
         <Key>ENDURERANGE</Key>
       </Abilities>
       <Directions>
@@ -160,14 +160,14 @@ Those strong in the Force, and who learn to control that gift, can achieve great
         <Direction />
       </Directions>
       <AbilitySpan>
-        <Span>4</Span>
         <Span>0</Span>
+        <Span>2</Span>
         <Span>0</Span>
         <Span>0</Span>
       </AbilitySpan>
       <Costs>
-        <Cost>20</Cost>
         <Cost>0</Cost>
+        <Cost>20</Cost>
         <Cost>0</Cost>
         <Cost>0</Cost>
       </Costs>

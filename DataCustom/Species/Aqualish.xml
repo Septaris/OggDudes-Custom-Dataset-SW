@@ -35,7 +35,7 @@ The Aqualish are a triad of semi-aquatic sub-species evolved from aquatic mammal
 [P][B]Language:[b] All three Aqualish sub-species speak similar dialects of the language that scholars know simply as Aqualish. However, it is nearly impossible for other sentients to speak this language due to the Aqua lish's massive tusks, and thus most off-world Aqualish are fluent in Galactic Basic as well.
 
 [P]Due to the construction of Aqualish vocal cords and the limitations imposed by their over-hanging tusks. it is impossible for Aqualish to speak in Basic without it sounding abrasive and harsh. This only serves to further the perception of the Aqualish as brutish louts.</Description>
-  <Source>Dangerous Covenants</Source>
+  <Source Page="19">Dangerous Covenants</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>3</Brawn>
@@ -54,47 +54,19 @@ The Aqualish are a triad of semi-aquatic sub-species evolved from aquatic mammal
     <SkillModifier>
       <Key>BRAWL</Key>
       <RankStart>1</RankStart>
+      <RankLimit>2</RankLimit>
     </SkillModifier>
   </SkillModifiers>
-  <OptionChoices>
-    <OptionChoice>
-      <Key>AQUASWIM</Key>
-      <Name>Aquatic</Name>
-      <Options>
-        <Option>
-          <Key>AQUASWIMOP</Key>
-          <Name>Underwater Breathing</Name>
-          <Description>All Aqualish are capable of breathing underwater.</Description>
-        </Option>
-      </Options>
-    </OptionChoice>
-  </OptionChoices>
   <SubSpeciesList>
     <SubSpecies>
       <Key>AQUASUB1</Key>
       <Name>Aquala</Name>
       <Description>Aquala begin the game with one rank in Resilience. Furthermore, Aquala may remove [SE] imposed due to any cold or wet conditions</Description>
-      <StartingChars>
-        <Brawn>-1</Brawn>
-        <Agility>-1</Agility>
-        <Intellect>-1</Intellect>
-        <Cunning>-1</Cunning>
-        <Willpower>-1</Willpower>
-        <Presence>-1</Presence>
-      </StartingChars>
-      <StartingAttrs>
-        <WoundThreshold>-1</WoundThreshold>
-        <StrainThreshold>-1</StrainThreshold>
-        <DefenseRanged>-1</DefenseRanged>
-        <DefenseMelee>-1</DefenseMelee>
-        <SoakValue>-1</SoakValue>
-        <Experience>-1</Experience>
-        <ForceRating>-1</ForceRating>
-      </StartingAttrs>
       <SkillModifiers>
         <SkillModifier>
           <Key>RESIL</Key>
           <RankStart>1</RankStart>
+          <RankLimit>2</RankLimit>
         </SkillModifier>
       </SkillModifiers>
       <OptionChoices>
@@ -110,29 +82,11 @@ The Aqualish are a triad of semi-aquatic sub-species evolved from aquatic mammal
           </Options>
         </OptionChoice>
       </OptionChoices>
-      <CyberneticsAdjust>-100</CyberneticsAdjust>
     </SubSpecies>
     <SubSpecies>
       <Key>AQUASUB2</Key>
       <Name>Ualaq</Name>
       <Description>Ualaq begin the game with one rank in Survival or one rank in Perception. Furthermore, Ualaq may remove [SE] imposed due to dark conditions, but suffer [SE] to Perception checks in brightly lit environments.</Description>
-      <StartingChars>
-        <Brawn>-1</Brawn>
-        <Agility>-1</Agility>
-        <Intellect>-1</Intellect>
-        <Cunning>-1</Cunning>
-        <Willpower>-1</Willpower>
-        <Presence>-1</Presence>
-      </StartingChars>
-      <StartingAttrs>
-        <WoundThreshold>-1</WoundThreshold>
-        <StrainThreshold>-1</StrainThreshold>
-        <DefenseRanged>-1</DefenseRanged>
-        <DefenseMelee>-1</DefenseMelee>
-        <SoakValue>-1</SoakValue>
-        <Experience>-1</Experience>
-        <ForceRating>-1</ForceRating>
-      </StartingAttrs>
       <OptionChoices>
         <OptionChoice>
           <Key>AQUASUB1OC1</Key>
@@ -175,29 +129,11 @@ The Aqualish are a triad of semi-aquatic sub-species evolved from aquatic mammal
           </Options>
         </OptionChoice>
       </OptionChoices>
-      <CyberneticsAdjust>-100</CyberneticsAdjust>
     </SubSpecies>
     <SubSpecies>
       <Key>AQUASUB3</Key>
       <Name>Quara</Name>
       <Description>Quara begin the game with one rank in Athletics or one rank in Coercion. Furthermore, Quara may remove [SE] when attempting to track anything through a natural environment. </Description>
-      <StartingChars>
-        <Brawn>-1</Brawn>
-        <Agility>-1</Agility>
-        <Intellect>-1</Intellect>
-        <Cunning>-1</Cunning>
-        <Willpower>-1</Willpower>
-        <Presence>-1</Presence>
-      </StartingChars>
-      <StartingAttrs>
-        <WoundThreshold>-1</WoundThreshold>
-        <StrainThreshold>-1</StrainThreshold>
-        <DefenseRanged>-1</DefenseRanged>
-        <DefenseMelee>-1</DefenseMelee>
-        <SoakValue>-1</SoakValue>
-        <Experience>-1</Experience>
-        <ForceRating>-1</ForceRating>
-      </StartingAttrs>
       <OptionChoices>
         <OptionChoice>
           <Key>AQUASUB3OC1</Key>
@@ -241,7 +177,19 @@ The Aqualish are a triad of semi-aquatic sub-species evolved from aquatic mammal
           </Options>
         </OptionChoice>
       </OptionChoices>
-      <CyberneticsAdjust>-100</CyberneticsAdjust>
     </SubSpecies>
   </SubSpeciesList>
+  <OptionChoices>
+    <OptionChoice>
+      <Key>AQUASWIM</Key>
+      <Name>Aquatic</Name>
+      <Options>
+        <Option>
+          <Key>AQUASWIMOP</Key>
+          <Name>Underwater Breathing</Name>
+          <Description>All Aqualish are capable of breathing underwater.</Description>
+        </Option>
+      </Options>
+    </OptionChoice>
+  </OptionChoices>
 </Species>

@@ -13,9 +13,9 @@ A transport intended to convey valuable items or important individuals, the SCS-
   <HP>2</HP>
   <Price>60000</Price>
   <Rarity>6</Rarity>
-  <MaxAltitude>20 meters.</MaxAltitude>
+  <MaxAltitude>20 meters</MaxAltitude>
   <SensorRangeValue>srShort</SensorRangeValue>
-  <Crew>One pilot.</Crew>
+  <Crew>One pilot</Crew>
   <EncumbranceCapacity>15</EncumbranceCapacity>
   <Passengers>4</Passengers>
   <Silhouette>3</Silhouette>
@@ -24,6 +24,7 @@ A transport intended to convey valuable items or important individuals, the SCS-
   <Armor>3</Armor>
   <HullTrauma>8</HullTrauma>
   <SystemStrain>8</SystemStrain>
+  <SinglePilot>true</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>

@@ -29,6 +29,8 @@ The Farghul were felinoid sapients indigenous to Farrfin. They had claws, incred
     <StrainThreshold>10</StrainThreshold>
     <Experience>100</Experience>
   </StartingAttrs>
+  <SkillModifiers>
+  </SkillModifiers>
   <TalentModifiers>
     <TalentModifier>
       <Key>CONV</Key>

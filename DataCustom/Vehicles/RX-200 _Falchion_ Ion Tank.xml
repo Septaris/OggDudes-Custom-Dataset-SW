@@ -16,9 +16,9 @@ The RX-200 "Falchion" is a heavy anti-aircraft tank introduced by Rothana Heavy 
   <Price>75000</Price>
   <Rarity>6</Rarity>
   <Restricted>true</Restricted>
-  <MaxAltitude>25 meters.</MaxAltitude>
+  <MaxAltitude>25 meters</MaxAltitude>
   <SensorRangeValue>srLong</SensorRangeValue>
-  <Crew>One pilot, one gunner, one vehicle commander.</Crew>
+  <Crew>One pilot, one gunner, one vehicle commander</Crew>
   <EncumbranceCapacity>25</EncumbranceCapacity>
   <Passengers>2</Passengers>
   <Silhouette>3</Silhouette>
@@ -35,8 +35,6 @@ The RX-200 "Falchion" is a heavy anti-aircraft tank introduced by Rothana Heavy 
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
-        <Dorsal>true</Dorsal>
-        <Ventral>true</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Key>IONHVY</Key>

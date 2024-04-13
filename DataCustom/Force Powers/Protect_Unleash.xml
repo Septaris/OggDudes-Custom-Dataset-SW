@@ -7,10 +7,11 @@
 
 Force users can harness the innate abilities of the Force to protect themselves and others from harm. However, that same power can be turned to terrible ends when the user infuses himself with the dark side. Dark siders can shoot lightning from their fingertips
 or envelop their targets in withering, murderous cold.</Description>
-  <Source>Force and Destiny Core Rulebook</Source>
+  <Source Page="300">Force and Destiny Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>PROTUNLBASICPOWER</Key>
         <Key>PROTUNLBASICPOWER</Key>
@@ -19,13 +20,27 @@ or envelop their targets in withering, murderous cold.</Description>
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
-        <Direction />
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
@@ -43,6 +58,7 @@ or envelop their targets in withering, murderous cold.</Description>
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>PROTUNLRANGE</Key>
         <Key>PROTUNLSTRENGTH</Key>
@@ -51,10 +67,13 @@ or envelop their targets in withering, murderous cold.</Description>
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
@@ -62,10 +81,12 @@ or envelop their targets in withering, murderous cold.</Description>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
@@ -84,6 +105,7 @@ or envelop their targets in withering, murderous cold.</Description>
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>PROTUNLRANGE</Key>
         <Key>PROTUNLMAGNITUDE</Key>
@@ -92,6 +114,7 @@ or envelop their targets in withering, murderous cold.</Description>
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
@@ -106,9 +129,11 @@ or envelop their targets in withering, murderous cold.</Description>
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
@@ -127,6 +152,7 @@ or envelop their targets in withering, murderous cold.</Description>
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>PROTUNLMAGNITUDE</Key>
         <Key>PROTUNLSTRENGTH</Key>
@@ -135,18 +161,26 @@ or envelop their targets in withering, murderous cold.</Description>
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
@@ -165,6 +199,7 @@ or envelop their targets in withering, murderous cold.</Description>
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>PROTUNLCONTROL3</Key>
         <Key>PROTUNLCONTROL3</Key>
@@ -173,12 +208,28 @@ or envelop their targets in withering, murderous cold.</Description>
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
-        <Direction />
-        <Direction />
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
       <AbilitySpan>

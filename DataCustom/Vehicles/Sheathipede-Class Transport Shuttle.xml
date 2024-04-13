@@ -3,10 +3,12 @@
   <Key>SHEATHIPEDE</Key>
   <Name>Sheathipede-Class Transport Shuttle</Name>
   <Description>[H3][I]Sheathipede[i] - Class Transport Shuttle[h3]
-The Sheathipede-class transport shuttle, also known as the Sheathipede-class shuttles and as the Neimoidian escort shuttle, was a short-range transport used by the Trade Federation and the Confederacy of Independent Systems.[P]
-A product of Haor Chall Engineering, the Sheathipede-class was a transport shuttle with a curved hull and pincer-like landing gears, which lowered from the ship's rounded belly. At a length of fourteen-point-four meters, the shuttle was powered by two engines and featured an egress hatchway at the rear. Some models replaced the cockpit with an expanded passenger cabin, and were flown by automatic pilots. Although most were unarmed, some were fitted with a trio of laser cannons.</Description>
-  <Source Page="63">Unlimited Power</Source>
-  <Custom>DescOnly</Custom>
+Please see page 63 of the Unlimited Power Sourcebook, or page 73 of the Rise of the Separatists Sourcebook, for details.</Description>
+  <Sources>
+    <Source Page="63">Unlimited Power</Source>
+    <Source Page="73">Rise of the Separatists</Source>
+  </Sources>
+  <Custom>AddedItem</Custom>
   <Type>Shuttle</Type>
   <Categories>
     <Category>Starship</Category>

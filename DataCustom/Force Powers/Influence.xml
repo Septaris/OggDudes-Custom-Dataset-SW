@@ -9,32 +9,20 @@ The ability to influence the minds of others is not something to be taken lightl
 
 [P]However, Influence is not inherently evil. Many Force users have used Influence to protect the helpless or to deal with a threat in a way that avoids violence. It is much better to convince a guard to return to his post than to have to kill him.</Description>
   <Sources>
-    <Source>Edge of the Empire Core Rulebook</Source>
-    <Source>Force and Destiny Core Rulebook</Source>
+    <Source Page="281">Edge of the Empire Core Rulebook</Source>
+    <Source Page="294">Force and Destiny Core Rulebook</Source>
   </Sources>
   <Custom>DescOnly</Custom>
+  <MinForceRating>1</MinForceRating>
   <AbilityRows>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>INFLUENCEBASIC</Key>
         <Key>INFLUENCEBASIC</Key>
         <Key>INFLUENCEBASIC</Key>
         <Key>INFLUENCEBASIC</Key>
       </Abilities>
-      <Directions>
-        <Direction>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Down>true</Down>
-        </Direction>
-      </Directions>
       <AbilitySpan>
         <Span>4</Span>
         <Span>0</Span>
@@ -47,6 +35,20 @@ The ability to influence the minds of others is not something to be taken lightl
         <Cost>0</Cost>
         <Cost>0</Cost>
       </Costs>
+      <Directions>
+        <Direction>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+        </Direction>
+      </Directions>
     </AbilityRow>
     <AbilityRow>
       <Index>1</Index>
@@ -56,23 +58,6 @@ The ability to influence the minds of others is not something to be taken lightl
         <Key>INFLUENCECONTROL1</Key>
         <Key>INFLUENCECONTROL1</Key>
       </Abilities>
-      <Directions>
-        <Direction>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Up>true</Up>
-        </Direction>
-        <Direction>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-      </Directions>
       <AbilitySpan>
         <Span>1</Span>
         <Span>1</Span>
@@ -85,6 +70,23 @@ The ability to influence the minds of others is not something to be taken lightl
         <Cost>10</Cost>
         <Cost>0</Cost>
       </Costs>
+      <Directions>
+        <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
+        </Direction>
+      </Directions>
     </AbilityRow>
     <AbilityRow>
       <Index>2</Index>
@@ -94,21 +96,6 @@ The ability to influence the minds of others is not something to be taken lightl
         <Key>INFLUENCECONTROL2</Key>
         <Key>INFLUENCESTRENGTH</Key>
       </Abilities>
-      <Directions>
-        <Direction>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-        <Direction />
-        <Direction>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-      </Directions>
       <AbilitySpan>
         <Span>3</Span>
         <Span>0</Span>
@@ -121,6 +108,22 @@ The ability to influence the minds of others is not something to be taken lightl
         <Cost>0</Cost>
         <Cost>10</Cost>
       </Costs>
+      <Directions>
+        <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
+        </Direction>
+      </Directions>
     </AbilityRow>
     <AbilityRow>
       <Index>3</Index>
@@ -130,25 +133,6 @@ The ability to influence the minds of others is not something to be taken lightl
         <Key>INFLUENCEDURATION</Key>
         <Key>INFLUENCEDURATION</Key>
       </Abilities>
-      <Directions>
-        <Direction>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Right>true</Right>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Left>true</Left>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-      </Directions>
       <AbilitySpan>
         <Span>1</Span>
         <Span>1</Span>
@@ -161,6 +145,25 @@ The ability to influence the minds of others is not something to be taken lightl
         <Cost>5</Cost>
         <Cost>5</Cost>
       </Costs>
+      <Directions>
+        <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+          <Right>true</Right>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
+          <Left>true</Left>
+        </Direction>
+      </Directions>
     </AbilityRow>
     <AbilityRow>
       <Index>4</Index>
@@ -170,22 +173,6 @@ The ability to influence the minds of others is not something to be taken lightl
         <Key>INFLUENCEDURATION</Key>
         <Key>INFLUENCEDURATION</Key>
       </Abilities>
-      <Directions>
-        <Direction>
-          <Up>true</Up>
-        </Direction>
-        <Direction>
-          <Up>true</Up>
-        </Direction>
-        <Direction>
-          <Right>true</Right>
-          <Up>true</Up>
-        </Direction>
-        <Direction>
-          <Left>true</Left>
-          <Up>true</Up>
-        </Direction>
-      </Directions>
       <AbilitySpan>
         <Span>1</Span>
         <Span>1</Span>
@@ -198,6 +185,22 @@ The ability to influence the minds of others is not something to be taken lightl
         <Cost>5</Cost>
         <Cost>5</Cost>
       </Costs>
+      <Directions>
+        <Direction>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Up>true</Up>
+          <Right>true</Right>
+        </Direction>
+        <Direction>
+          <Up>true</Up>
+          <Left>true</Left>
+        </Direction>
+      </Directions>
     </AbilityRow>
   </AbilityRows>
 </ForcePower>

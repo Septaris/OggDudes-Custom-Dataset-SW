@@ -7,7 +7,7 @@ Orbital maintenance depots are an important part of any space-going navy's logis
 [P]Core Worlds Engineering's Mk IXs are among the largest and most well-equipped maintenance depots currently in use. They are massive cylindrical stations festooned with docking arms, dry dock facilities, and boarding airlocks and studded with countless sensor and communications arrays. These floating shipyards can service nearly any ship currently in service, up to and including gigantic vessels like the Imperial Navy's [I]Executor[i]- and [I]Praetor II[i]-class ships. Most of the Mk IX series' production and fabrication facilities are automated to improve speed and efficiency, but the stations still have a large crew of technically trained personnel and other personnel who maintain the station and service incoming ships. The depot's guest facilities are comfortable but far from luxurious; crews tend not to linger, as they resemble military barracks and facilities rather than resorts.
 [P]These stations are impressively armored and shielded, and are also equipped with a respectable weapons load-out to defend against hostile ships. They also have hangar facilities and are commonly assigned a squadron of gunboats for patrol and anti-fighter duties. These stations are rarely attacked, however, since they are often surrounded by powerful warships waiting to dock or fresh off a refit, and these can provide all the defensive firepower that a station's crew could hope for. Both the Alliance and the Imperial Navy have a handful of these giant stations in service, and they are all priority targets for destruction.</Description>
   <Source Page="60">Fully Operational</Source>
-  <Custom>CustomItem</Custom>
+  <Custom>DescOnly</Custom>
   <Type>Space Station</Type>
   <Categories>
     <Category>Capital Ship</Category>
@@ -21,14 +21,12 @@ Orbital maintenance depots are an important part of any space-going navy's logis
   <BaseMods>
     <Mod>
       <Count>1</Count>
-      <MiscDesc>[B]Depot Resources:[b] Reduce difficulty of repair and construction checks performed using this station by one.</MiscDesc>
+      <MiscDesc>[B]Depot Resources:[b] Reduce difficulty of repair and construction checks perfomed using this station by one.</MiscDesc>
     </Mod>
   </BaseMods>
   <StarFighters>Six gunboats, six shuttles, numerous runabouts.</StarFighters>
   <SensorRangeValue>srLong</SensorRangeValue>
   <Crew>20,000 officers, enlisted crew, and technicians</Crew>
-  <EncumbranceCapacity>35000</EncumbranceCapacity>
-  <Passengers>22000</Passengers>
   <Consumables>Two years</Consumables>
   <Silhouette>8</Silhouette>
   <Handling>-4</Handling>

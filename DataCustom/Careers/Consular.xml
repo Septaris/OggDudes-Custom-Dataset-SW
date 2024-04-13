@@ -21,7 +21,7 @@ The Consular's six career skills are [B]Cool, Discipline, Knowledge (Education),
 
 Beginning characters—particularly those who are cognizant of their Force abilities—are most likely to have learned their techniques from relatively obscure traditions. Alternatively, characters who do not recognize their abilities could be extremely competent negotiators, such as accomplished political, religious. and business leaders. Any of these Individuals might unwittingly tap into their Force abilities during the course of their work. This could provide the basis for a character who denies any knowledge of Force techniques while simultaneously depending on them.</Description>
   <Source Page="66">Force and Destiny Core Rulebook</Source>
-  <Custom>DescOnly</Custom>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>COOL</Key>
     <Key>DISC</Key>
@@ -33,13 +33,32 @@ Beginning characters—particularly those who are cognizant of their Force abili
   <Specializations>
     <Key>ARBITER</Key>
     <Key>ASCETIC</Key>
+    <Key>FORCEADHERENT</Key>
     <Key>HEALER</Key>
+    <Key>IMPERIALACADEMYCADET</Key>
     <Key>NIMAN</Key>
+    <Key>PADAWANSURVIVOR</Key>
+    <Key>PIRATE</Key>
+    <Key>RETIREDCLONETROOPER</Key>
     <Key>SAGE</Key>
+    <Key>SHIPCAPTAIN</Key>
     <Key>TEACHER</Key>
   </Specializations>
   <Attributes>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
+    <Experience>0</Experience>
     <ForceRating>1</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+    </Requirement>
   </Attributes>
   <FreeRanks>3</FreeRanks>
 </Career>

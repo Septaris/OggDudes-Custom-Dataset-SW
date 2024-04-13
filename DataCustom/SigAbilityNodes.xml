@@ -4,22 +4,24 @@
     <Key>ACTIVATIONDS</Key>
     <Name>Activation</Name>
     <Description>May activate Diplomatic Solution at the start of any combat turn instead of only at the start of combat.</Description>
-    <Source>Desperate Allies</Source>
+    <Source Page="38">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Diplomatic Solution</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>ADDBOOSTNE</Key>
     <Name>Add Boost</Name>
     <Description>Add [BO] to the skill check to activate Narrow Escape.</Description>
-    <Source>Fly Casual</Source>
+    <Source Page="38">Fly Casual</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Narrow Escape</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>ALWAYSGETMYMARKBASIC</Key>
     <Name>Always Get My Mark Base Ability</Name>
-    <Description>Once per game session, the character may choose a known minion NPC on the same planet to be her mark, spend 2 Destiny Points, and make a [B]Hard ([DI][DI][DI]) Streetwise check[b]. If she succeeds, the character tracks down the chosen mark; a new encounter begins as the character reaches the mark's location. The exact nature of the encounter, as well as the circumstances under which it takes place, must be approved by the GM (see [B]Narrative Abilities[b] on page 40).</Description>
+    <Description>Once per game session, the character may choose a known minion NPC on the same planet to be her mark, spend 2 Destiny Points, and make a [B]Hard ([DI][DI][DI]) Streetwise check[b]. If she succeeds, the character tracks down the chosen mark; a new encounter begins as the character reaches the mark's location. The exact nature of the encounter, as well as the circumstances under which it takes place, must be approved by the GM (see [B]Narrative Abilites[b] on page 40).</Description>
     <Source Page="39">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Always Get My Mark</SigAbility>
@@ -115,7 +117,7 @@
   <SigAbilityNode>
     <Key>BIGGERTHEYAREDURATION</Key>
     <Name>Duration</Name>
-    <Description>The Bigger They Are lasts for 2 additional rounds.</Description>
+    <Description>The Bigger They Are lasts for 2 additonal rounds.</Description>
     <Source Page="38">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>The Bigger They Are...</SigAbility>
@@ -139,7 +141,7 @@
   <SigAbilityNode>
     <Key>BIGGERTHEYARESKILL1</Key>
     <Name>Change Skill (Survival)</Name>
-    <Description>May use Survival instead of Knowledge (Warfare) to activate The Bigger They Are.</Description>
+    <Description>May use Survival instead of Knowledge (Warfare) to acivate The Bigger They Are.</Description>
     <Source Page="38">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>The Bigger They Are...</SigAbility>
@@ -156,41 +158,46 @@
     <Key>BOOSTALLIESDS</Key>
     <Name>Boost Allies</Name>
     <Description>Other friendly characters gain [BO] on social checks until the end of the encounter per Boost Allies Upgrade.</Description>
-    <Source>Desperate Allies</Source>
+    <Source Page="38">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Diplomatic Solution</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>CHANGESCALENE</Key>
     <Name>Change Scale</Name>
     <Description>Narrow Escape can be activated in a vehicle with the Piloting (Planetary) or Piloting (Space) skill.</Description>
-    <Source>Fly Casual</Source>
+    <Source Page="38">Fly Casual</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Narrow Escape</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>CHANGESKILL1DS</Key>
     <Name>Change Skill (Coercion)</Name>
     <Description>May make a Coercion check instead of a Charm check to activate Diplomatic Solution.</Description>
-    <Source>Desperate Allies</Source>
+    <Source Page="38">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Diplomatic Solution</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>CHANGESKILL2DS</Key>
     <Name>Change Skill (Leadership)</Name>
     <Description>May make a Leadership check instead of a Charm check to activate Diplomatic Solution.</Description>
-    <Source>Desperate Allies</Source>
+    <Source Page="38">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Diplomatic Solution</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>CHANGESKILLNE</Key>
     <Name>Change Skill</Name>
     <Description>Narrow Escape can be activated during social encounters with the Deception skill.</Description>
-    <Source>Fly Casual</Source>
+    <Source Page="38">Fly Casual</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Narrow Escape</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>COUNTERESPBASE</Key>
@@ -219,7 +226,7 @@
   <SigAbilityNode>
     <Key>COUNTERESPREDUCESETBACK</Key>
     <Name>Reduce Setback</Name>
-    <Description>Remove [SE] from the character’s skill check as part of using Counterespionage.</Description>
+    <Description>The skill check the character makes as part of using Counterespionage can be made using Negotiation instead of Knowledge (Warfare).</Description>
     <Source Page="34">Cyphers and Masks</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Counterespionage</SigAbility>
@@ -235,7 +242,7 @@
   <SigAbilityNode>
     <Key>COUNTERESPSKILL2</Key>
     <Name>Change Skill (Negotiation)</Name>
-    <Description>The skill check the character makes as part of using Counterespionage can be made using Negotiation instead of Knowledge (Warfare).</Description>
+    <Description>Remove [SE] from the character’s skill check as part of using Counterespionage.</Description>
     <Source Page="34">Cyphers and Masks</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Counterespionage</SigAbility>
@@ -254,15 +261,15 @@
     <Description>Add [SE] to checks affected by Deadly Reputation.</Description>
     <Source Page="34">Knights of Fate</Source>
     <Custom>DescOnly</Custom>
-    <SigAbility>Deadly Reputation</SigAbility>
+    <SigAbility>Deady Reputation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>DEADLYREPASSOCIATION</Key>
-    <Name>Deadly by Association</Name>
+    <Name>Deadly By Association</Name>
     <Description>Deadly Reputation also affect checks targeting the character's allies.</Description>
     <Source Page="34">Knights of Fate</Source>
     <Custom>DescOnly</Custom>
-    <SigAbility>Deadly Reputation</SigAbility>
+    <SigAbility>Deady Reputation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>DEADLYREPBASE</Key>
@@ -270,7 +277,7 @@
     <Description>Once per session as an incidental, the character may spend 2 Destiny Points to activate Deadly Reputation. Until the end of the character's next turn, increase the difficulty of all skill checks targeting the character by one.</Description>
     <Source Page="34">Knights of Fate</Source>
     <Custom>DescOnly</Custom>
-    <SigAbility>Deadly Reputation</SigAbility>
+    <SigAbility>Deady Reputation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>DEADLYREPDESTINY</Key>
@@ -278,15 +285,15 @@
     <Description>Deadly Reputation costs 1 fewer Destiny Point to activate.</Description>
     <Source Page="34">Knights of Fate</Source>
     <Custom>DescOnly</Custom>
-    <SigAbility>Deadly Reputation</SigAbility>
+    <SigAbility>Deady Reputation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>DEADLYREPDURATION</Key>
-    <Name>Duration</Name>
+    <Name>Increase Duration</Name>
     <Description>Deadly Reputation lasts for one additional turn.</Description>
     <Source Page="34">Knights of Fate</Source>
     <Custom>DescOnly</Custom>
-    <SigAbility>Deadly Reputation</SigAbility>
+    <SigAbility>Deady Reputation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>DEADLYREPINCREASEEFFECT</Key>
@@ -294,69 +301,75 @@
     <Description>Upgrade the difficulty of checks affected by Deadly Reputation.</Description>
     <Source Page="34">Knights of Fate</Source>
     <Custom>DescOnly</Custom>
-    <SigAbility>Deadly Reputation</SigAbility>
+    <SigAbility>Deady Reputation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>DESTINYDS</Key>
     <Name>Destiny</Name>
     <Description>Diplomatic Solution costs 1 Destiny Point instead of 2.</Description>
-    <Source>Desperate Allies</Source>
+    <Source Page="38">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Diplomatic Solution</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>DESTINYNE</Key>
     <Name>Destiny</Name>
     <Description>Narrow Escape costs 1 Destiny Point instead of 2.</Description>
-    <Source>Fly Casual</Source>
+    <Source Page="38">Fly Casual</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Narrow Escape</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>DESTINYUF</Key>
     <Name>Destiny</Name>
     <Description>Unmatched Fortune costs 1 Destiny Point instead of 2.</Description>
-    <Source>Fly Casual</Source>
+    <Source Page="39">Fly Casual</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Fortune</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>DESTINYUI</Key>
     <Name>Destiny</Name>
     <Description>Unmatched Insight costs 1 Destiny Point instead of 2.</Description>
-    <Source>Desperate Allies</Source>
+    <Source Page="40">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Insight</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>DIPLOMATICSOLUTIONBASE</Key>
     <Name>Diplomatic Solution Base Ability</Name>
     <Description>Once per game session, when a combat encounter against one or more sentient creatures is about to begin, the character may spend 2 Destiny Points and make a [B]Daunting ([DI][DI][DI][DI]) Charm check[b] to turn the encounter into a social encounter instead.</Description>
-    <Source>Desperate Allies</Source>
+    <Source Page="38">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Diplomatic Solution</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>DISCERNMOTIVESUI</Key>
     <Name>Discern Motives</Name>
     <Description>The character realizes the motivations of each other participant in the scene.</Description>
-    <Source>Desperate Allies</Source>
+    <Source Page="40">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Insight</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>FATDUELBALANCE</Key>
     <Name>Cosmic Balance</Name>
     <Description>Whenever the character suffers a Critical Injury while Fated Duel is active, flip one Dark Side destiny point to a Light Side destiny point.</Description>
-    <Source>Keeping the Peace</Source>
+    <Source Page="35">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Fated Duel</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>FATDUELBASIC</Key>
-    <Name>Fated Duel Basic Ability</Name>
+    <Name>Fated Duel Base Ability</Name>
     <Description>Once per game session, during a combat encounter, the character may spend 2 Destiny Points and make a [B]Hard ([DI][DI][DI]) Discipline check[b] to challenge another character. If he succeeds, the two characters are locked in a duel for 3 rounds. For the duration of the duel, the two dueling characters can only make attacks targeting each other and n other characters can target the dueling characters with attacks (or otherwise intervene).</Description>
-    <Source>Keeping the Peace</Source>
+    <Source Page="35">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Fated Duel</SigAbility>
   </SigAbilityNode>
@@ -365,7 +378,7 @@
     <Name>Duration</Name>
     <Description>Fated Duel lasts for 1 additional round.
 </Description>
-    <Source>Keeping the Peace</Source>
+    <Source Page="35">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Fated Duel</SigAbility>
   </SigAbilityNode>
@@ -374,7 +387,7 @@
     <Name>Inspiration</Name>
     <Description>Add [BO] to checks made by allies while Fated Duel is active.
 </Description>
-    <Source>Keeping the Peace</Source>
+    <Source Page="35">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Fated Duel</SigAbility>
   </SigAbilityNode>
@@ -382,7 +395,7 @@
     <Key>FATDUELREDUCEDIFF</Key>
     <Name>Reduce Difficulty</Name>
     <Description>Reduce the difficulty of the skill check to activate Fated Duel to [B]Average ([DI][DI])[b]</Description>
-    <Source>Keeping the Peace</Source>
+    <Source Page="35">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Fated Duel</SigAbility>
   </SigAbilityNode>
@@ -391,7 +404,7 @@
     <Name>Stand Firm</Name>
     <Description>Increase wound threshold by +4 while Fated Duel is active.
 </Description>
-    <Source>Keeping the Peace</Source>
+    <Source Page="35">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Fated Duel</SigAbility>
   </SigAbilityNode>
@@ -403,21 +416,23 @@
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Tradecraft</SigAbility>
   </SigAbilityNode>
-<SigAbilityNode>
+  <SigAbilityNode>
     <Key>FREQUENCYUF</Key>
     <Name>Frequency</Name>
     <Description>Unmatched Fortune can be used one additional time each game session per Frequency upgrade purchased.</Description>
-    <Source>Fly Casual</Source>
+    <Source Page="39">Fly Casual</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Fortune</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>FREQUENCYUI</Key>
     <Name>Frequency</Name>
     <Description>Unmatched Insight may be used twice per game session.</Description>
-    <Source>Desperate Allies</Source>
+    <Source Page="40">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Insight</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>HARDERTHEYFALINCNUMBERL</Key>
@@ -430,7 +445,7 @@
   <SigAbilityNode>
     <Key>HARDERTHEYFALLBASE</Key>
     <Name>The Harder They Fall Base Ability</Name>
-    <Description>Once per game session as an incidental, the character may spend 2 Destiny Points and make a [B]Hard ([DI][DI][DI]) Mechanics check[b]. If successful, for the remainder of the encounter, combat checks the character makes against vehicles, structures, or droids that inflict wounds or hull trauma automatically inflict a Critical injury or Critical Hit (depending on the target). [AD] or [TR] can be spent to trigger the attack's critical rating additional times, adding + 10 to the critical roll as usual.</Description>
+    <Description>Once per game session as an incidental, the character may spend 2 Destiny Points and make a [B]Hard ([DI][DI][DI]) Mechanics check[b]. If successful, for the remainder of the encounter, combat checks the character makes against vehicles, structures, or droids that inflict wounds or hull trauma automatically inflict a Critical lnjury or Critical Hit (depending on the target). [AD] or [TR] can be spent to trigger the attack's critical rating additional times, adding + 10 to the critical roll as usual.</Description>
     <Source Page="34">Fully Operational</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>The Harder They Fall</SigAbility>
@@ -479,110 +494,123 @@
     <Key>INCREASEEFFECTUF</Key>
     <Name>Increase Effect</Name>
     <Description>Unmatched Fortune can also be used on negative dice.</Description>
-    <Source>Fly Casual</Source>
+    <Source Page="39">Fly Casual</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Fortune</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>INCREASEEFFNE</Key>
     <Name>Increase Effect</Name>
     <Description>Affect an additional number of allied characters equal to Cunning per Increase Effect upgrade purchased.</Description>
-    <Source>Fly Casual</Source>
+    <Source Page="38">Fly Casual</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Narrow Escape</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>INCREASENUMBERUF</Key>
     <Name>Increase Number</Name>
     <Description>Unmatched Fortune affects one additional die per Increase Number upgrade purchased. </Description>
-    <Source>Fly Casual</Source>
+    <Source Page="39">Fly Casual</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Fortune</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>INCREASENUMBERUI</Key>
     <Name>Increase Number</Name>
     <Description>Increase the number of participants affected by 2 per Increase Number upgrade.</Description>
-    <Source>Desperate Allies</Source>
+    <Source Page="40">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Insight</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>INCREASERANGEUF</Key>
     <Name>Increase Range</Name>
     <Description>Increases the maximum range at which Unmatched Fortune can affect willing allies by 1 per Increase Range upgrade purchased.</Description>
-    <Source>Fly Casual</Source>
+    <Source Page="39">Fly Casual</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Fortune</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>INSIGHTFULADDBOOST</Key>
     <Name>Add Boost</Name>
     <Description>Add [BO] to skill check to activate Insightful Revelation. </Description>
-    <Source>Far Horizons</Source>
+    <Source Page="36">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Insightful Revelation</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>INSIGHTFULADDSKILL</Key>
     <Name>Additional Skills</Name>
     <Description>When making the Insightful Revelation action, the character may replace Knowledge (Education) with any other Knowledge skill.</Description>
-    <Source>Far Horizons</Source>
+    <Source Page="36">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Insightful Revelations</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>INSIGHTFULBASIC</Key>
-    <Name>Insightful Revelation Basic Ability</Name>
+    <Name>Insightful Revelation Base Ability</Name>
     <Description>Once per game session, the character may perform an Insightful Revelation action and spend 2 Destiny points to make a [B]Hard ([DI][DI][DI]) Knowledge (Education) check[b]. If he succeeds, he learns some valuable information that he did not previously possess pertaining to his current situation. What he learns is up to the GM. but it must be valuable to the player overcoming his immediate encounter or situation, and the information cannot be obtainable by any other immediately available means. </Description>
-    <Source>Far Horizons</Source>
+    <Source Page="36">Far Horizons</Source>
     <Custom>DescOnly</Custom>
-    <SigAbility>Insightful Revelation</SigAbility>
+    <SigAbility>Insighful Revelation</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>INSIGHTFULDESTINY</Key>
     <Name>Destiny</Name>
     <Description>Insightful Revelation costs 1 Destiny Point instead of 2.</Description>
-    <Source>Far Horizons</Source>
+    <Source Page="36">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Insightful Revelation</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>INSIGHTFULDURATION</Key>
     <Name>Duration</Name>
     <Description>The character may perform the Insightful Revelation action one additional time per game session.</Description>
-    <Source>Far Horizons</Source>
+    <Source Page="36">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Insightful Revelation</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>INSIGHTFULINCEFF</Key>
     <Name>Increase Effect</Name>
     <Description>If the check is successful, the character may spend [TR] to gain one additional piece of equally useful information. </Description>
-    <Source>Far Horizons</Source>
+    <Source Page="36">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Insightful Revelation</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>INSIGHTFULREDDIFF</Key>
     <Name>Reduce Difficulty</Name>
     <Description>Reduce the difficulty of the skill check to activate Insightful Revelation to [B]Average ([DI][DI])[b].</Description>
-    <Source>Far Horizons</Source>
+    <Source Page="36">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Insightful Revelation</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>INSIGHTFULSETBACK</Key>
     <Name>Reduce Setback</Name>
     <Description>Remove [SE] from skill check to activate Insightful Revelation.</Description>
-    <Source>Far Horizons</Source>
+    <Source Page="36">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Insightful Revelation</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>INVENTIVECREATIONBASIC</Key>
     <Name>Inventive Creation Base Ability</Name>
-    <Description>Once per game session, as an action, the character may spend 2 Destiny Points and make a [B]Daunting ([DI][DI][DI][DI]) Mechanics check[b]. If he succeeds, the character immediately uses available parts to build a device that functions as an item of his choice with a rarity of 5 or lower. The item is functional until the end of the encounter, at which point it falls apart, shorts out, or otherwise ceases to function permanently. The exact nature of the device the character its trying to construct as well as the end results, must be approved by the GM (see [B]Narrative Abilities[b] on page 38).</Description>
+    <Description>Oncer per game session, as an action, the character may spend 2 Destiny Points and make a [B]Daunting ([DI][DI][DI][DI]) Mechanics check[b]. If he succeeds, the character immediately uses available parts to build a device that functions as an item of his choice with a rarity of 5 or lower. The item is functional until the end of the encounter, at which point it falls apart, shorts out, or otherwise ceases to function permanently. The exact nature of the device the character its trying to construct as well as the end results, must be apporved by the GM (see [B]Narrative Abilities[b] on page 38).</Description>
     <Source Page="39">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Inventive Creation</SigAbility>
@@ -631,23 +659,24 @@
     <Key>LEVERAGEUI</Key>
     <Name>Leverage</Name>
     <Description>Choose 1 character. Upgrade the ability of all social checks once per Leverage Upgrade against that character until the end of the encounter.</Description>
-    <Source>Desperate Allies</Source>
+    <Source Page="40">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Insight</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>LOSADDBOOST</Key>
     <Name>Add Boost</Name>
-    <Description>Add [BO]to skill check to activate Last One Standing.</Description>
-    <Source>Dangerous Covenants</Source>
+    <Description>Add [BO] to skill check to activate Last One Standing.</Description>
+    <Source Page="36">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Last One Standing</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>LOSBASIC</Key>
-    <Name>Last One Standing Basic Ability</Name>
+    <Name>Last One Standing Base Ability</Name>
     <Description>Once per game session during a combat encounter, the character may spend 2 Destiny Points to make a [B]Hard ([DI][DI][DI]) Resilience check[b]. If he succeeds, he skips his next turn and eliminates all enemy minions in the encounter. (The minions are all eliminated immediately, so will not get to participate further in the combat, but for the sake of the narrative, the PC can spend the next round of combat incapacitating them). The narrative means by which he accomplishes this is up to the player character, but should be suitably exciting, and must also be approved by the GM.</Description>
-    <Source>Dangerous Covenants</Source>
+    <Source Page="36">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Last One Standing</SigAbility>
   </SigAbilityNode>
@@ -655,7 +684,7 @@
     <Key>LOSDEST</Key>
     <Name>Destiny</Name>
     <Description>Last One Standing costs 1 Destiny Point instead of 2.</Description>
-    <Source>Dangerous Covenants</Source>
+    <Source Page="36">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Last One Standing</SigAbility>
   </SigAbilityNode>
@@ -663,7 +692,7 @@
     <Key>LOSINCREASEEFFECT</Key>
     <Name>Increase Effect</Name>
     <Description>When triggering Last One Standing, eliminate one rival per increase effect upgrade in addition to the minions.</Description>
-    <Source>Dangerous Covenants</Source>
+    <Source Page="36">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Last One Standing</SigAbility>
   </SigAbilityNode>
@@ -671,7 +700,7 @@
     <Key>LOSREDUCEDIFF</Key>
     <Name>Reduce Difficulty</Name>
     <Description>Reduce the difficulty of the skill check to activate Last One Standing to [B]Average ([DI][DI])[b].</Description>
-    <Source>Dangerous Covenants</Source>
+    <Source Page="36">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Last One Standing</SigAbility>
   </SigAbilityNode>
@@ -679,14 +708,14 @@
     <Key>LOSREDUCESETBACK</Key>
     <Name>Reduce Setback</Name>
     <Description>Remove [SE] from skill check to activate Last One Standing.</Description>
-    <Source>Dangerous Covenants</Source>
+    <Source Page="36">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Last One Standing</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>MUCHTOLEARNBASIC</Key>
     <Name>Much to Learn Base Ability</Name>
-    <Description>Once per game session, the character may spend 2 Destiny Points and make a [B]Hard ([DI] [DI] [DI]) Knowledge (Education) check[b], then choose one talent that the character possesses. For the remainder of the current encounter, one character within medium range counts as having that talent. If that talent is ranked, the allied character counts as having as may ranks in the talent as the character with this signature ability does.</Description>
+    <Description>Once per game session, the character may spend 2 Destiny Points and make a [B]Hard ([DI][DI][DI]) Knowledge (Education) check[b], then choose one talent that the character possesses. For the remainder of the current encounter, one character within medium range counts as having that talent. If that talent is ranked, the allied character counts as having as may ranks in the talent as the character with this signature ability does.</Description>
     <Source Page="34">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Much to Learn</SigAbility>
@@ -734,7 +763,7 @@
   <SigAbilityNode>
     <Key>MUCHTOLEARNREDUCEDIFFICULTY</Key>
     <Name>Reduce Difficulty</Name>
-    <Description>Reduce the difficulty of the skill check to activate Much to learn to [B]Average ([DI] [DI])[b].</Description>
+    <Description>Reduce the difficulty of the skill check to activate Much to learn to [B]Average ([DI][DI])[b].</Description>
     <Source Page="34">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Much to Learn</SigAbility>
@@ -823,9 +852,11 @@
     <Key>NARROWESCAPEBASE</Key>
     <Name>Narrow Escape Base Ability</Name>
     <Description>Once per game session, the character may spend two Destiny Points to make a [B]Hard ([DI][DI][DI]) Streetwise check[b]. If successful, the character is immediately able to flee from the current personal-scale combat encounter unscathed. The challenge is not overcome or defeated, but the character is able to evade the hazard or threat for the time being. The exact nature of what the character is trying to accomplish, as well as the end results, must be approved by the GM (see [B]Narrative Abilities[b] on page 38), but should be suitably creative or daring.</Description>
-    <Source>Fly Casual</Source>
+    <Source Page="37">Fly Casual</Source>
+    <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>Narrow Escape</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>PROPHECYBASE</Key>
@@ -838,7 +869,7 @@
   <SigAbilityNode>
     <Key>PROPHECYDESTINY</Key>
     <Name>Destiny</Name>
-    <Description>Prophecy costs 1 fewer Destiny Points to activate, it still requires a Destiny Point to trigger the occurrence of the prophesied event.</Description>
+    <Description>Prophecy costs 1 fewer Destiny Points to activate, it still requires a Destiny Point to trigger the occurrence of the prophesised event.</Description>
     <Source Page="37">Unlimited Power</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Prophecy</SigAbility>
@@ -895,38 +926,42 @@
     <Key>REDUCEDIFFICULTYDS</Key>
     <Name>Reduce Difficulty</Name>
     <Description>Reduce the difficulty of the skill check to activate Diplomatic Solution to [B]Hard ([DI][DI][DI])[b].</Description>
-    <Source>Desperate Allies</Source>
+    <Source Page="38">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Diplomatic Solution</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>REDUCEDIFFNE</Key>
     <Name>Reduce Difficulty</Name>
     <Description>Reduce the difficulty of the skill check to activate Narrow Escape to [B]Average ([DI][DI])[b].</Description>
-    <Source>Fly Casual</Source>
+    <Source Page="38">Fly Casual</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Narrow Escape</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>REDUCESBNE</Key>
     <Name>Reduce Setback</Name>
     <Description>Remove [SE] from the Skill check to activate Narrow Escape. </Description>
-    <Source>Fly Casual</Source>
+    <Source Page="38">Fly Casual</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Narrow Escape</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>REDUCESETBACKDS</Key>
     <Name>Reduce Setback</Name>
     <Description>Remove [SE] from skill check to activate Diplomatic Solution.</Description>
-    <Source>Desperate Allies</Source>
+    <Source Page="38">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Diplomatic Solution</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>ROUSORBASIC</Key>
-    <Name>Rousing Oratory Basic Ability</Name>
-    <Description>Once per game session, the character may perform a Rousing Oratory action, spend 2 Destiny Points, and make a [B]Hard ([DI][DI][DI]) Leadership check to inspire a group to take action in a military situation about which  members were previously hesitant.</Description>
+    <Name>Rousing Oratory Base Ability</Name>
+    <Description>Once per game session, the character may perform a Rousing Oratory action, spend 2 Destiny Poins, and make a [B]Hard ([DI][DI][DI]) Leadership check to inspire a group to take action in a military situation about which  members were previously hesitant.</Description>
     <Source Page="38">Lead by Example</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Rousing Oratory</SigAbility>
@@ -1022,31 +1057,33 @@ part in one.</Description>
     <Key>SECRETUI</Key>
     <Name>Secret</Name>
     <Description>Notice one important detail that a chosen character would prefer to conceal.</Description>
-    <Source>Desperate Allies</Source>
+    <Source Page="40">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Insight</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>SHAREDLUCKUF</Key>
     <Name>Shared Luck</Name>
     <Description>Unmatched Fortune can also be used on the dice pool of a willing ally within short range.</Description>
-    <Source>Fly Casual</Source>
+    <Source Page="39">Fly Casual</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Fortune</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>SUDDISCADDBOOST</Key>
     <Name>Add Boost</Name>
     <Description>Add [BO] to skill check to activate Sudden Discovery. </Description>
-    <Source>Enter the Unknown</Source>
+    <Source Page="34">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Sudden Discovery</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>SUDDISCBASIC</Key>
-    <Name>Sudden Discovery Basic Ability</Name>
+    <Name>Sudden Discovery Base Ability</Name>
     <Description>Once per game session, the character may spend 2 Destiny Points to make a [B]Hard ([DI][DI][DI]) Knowledge (Outer Rim) or Knowledge (Core Worlds) check[b]. If he succeeds, the character can pinpoint his exact location without a map or other guide, discover a lost or hidden item or location, or identify a safe and fast path through any terrain. The exact nature of what the character is trying to accomplish, as well as the end results, must be approved by the GM. </Description>
-    <Source>Enter the Unknown</Source>
+    <Source Page="34">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Sudden Discovery</SigAbility>
   </SigAbilityNode>
@@ -1054,7 +1091,7 @@ part in one.</Description>
     <Key>SUDDISCCHANGESKILL</Key>
     <Name>Change Skill</Name>
     <Description>Sudden Discovery can be activated with the Astrogation or Survival skills.</Description>
-    <Source>Enter the Unknown</Source>
+    <Source Page="34">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Sudden Discovery</SigAbility>
   </SigAbilityNode>
@@ -1062,7 +1099,7 @@ part in one.</Description>
     <Key>SUDDISCDEST</Key>
     <Name>Destiny</Name>
     <Description>Sudden Discovery costs 1 Destiny Point instead of 2.</Description>
-    <Source>Enter the Unknown</Source>
+    <Source Page="34">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Sudden Discovery</SigAbility>
   </SigAbilityNode>
@@ -1070,7 +1107,7 @@ part in one.</Description>
     <Key>SUDDISCFREQ</Key>
     <Name>Frequency</Name>
     <Description>Sudden Discovery may be used twice per game session.</Description>
-    <Source>Enter the Unknown</Source>
+    <Source Page="34">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Sudden Discovery</SigAbility>
   </SigAbilityNode>
@@ -1078,7 +1115,7 @@ part in one.</Description>
     <Key>SUDDISCREDUCEDIFF</Key>
     <Name>Reduce Difficulty</Name>
     <Description>Reduce the difficulty of the skill check to activate Sudden Discovery to [B]Average ([DI][DI])[b].</Description>
-    <Source>Enter the Unknown</Source>
+    <Source Page="34">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Sudden Discovery</SigAbility>
   </SigAbilityNode>
@@ -1086,7 +1123,7 @@ part in one.</Description>
     <Key>SUDDISCREDUCESETBACK</Key>
     <Name>Reduce Setback</Name>
     <Description>Remove [SE] from skill check to activate Sudden Discovery </Description>
-    <Source>Enter the Unknown</Source>
+    <Source Page="34">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Sudden Discovery</SigAbility>
   </SigAbilityNode>
@@ -1094,49 +1131,61 @@ part in one.</Description>
     <Key>THISONEISMINEBASE</Key>
     <Name>This One is Mine Base Ability</Name>
     <Description>Once per game session, when piloting a starship or vehicle, the character may spend 2 Destiny Points to challenge another starship or vehicle in the battle with equal silhouette. For 2 rounds, the two ships are locked in a duel. For the duration of the duel, the two dueling ships can only make attacks targeting each other, and no other starships or characters can target the dueling ships with attacks.</Description>
-    <Source>Stay on Target</Source>
+    <Source Page="36">Stay on Target</Source>
+    <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>This One is Mine</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>THISONEISMINEDEST</Key>
     <Name>Destiny</Name>
     <Description>This One is Mine costs 1 Destiny Point instead of 2.</Description>
-    <Source>Stay on Target</Source>
+    <Source Page="36">Stay on Target</Source>
+    <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>This One is Mine</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>THISONEISMINEDUR</Key>
     <Name>Duration</Name>
     <Description>This One is Mine lasts for 1 additional round.</Description>
-    <Source>Stay on Target</Source>
+    <Source Page="36">Stay on Target</Source>
+    <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>This One is Mine</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>THISONEISMINEEVA</Key>
     <Name>Evasion</Name>
     <Description>Upgrade the difficulty of all incoming attacks once while This One is Mine is active.</Description>
-    <Source>Stay on Target</Source>
+    <Source Page="36">Stay on Target</Source>
+    <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>This One is Mine</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>THISONEISMINEFREQ</Key>
     <Name>Frequency</Name>
     <Description>This One is Mine may be used twice per game session.</Description>
-    <Source>Stay on Target</Source>
+    <Source Page="36">Stay on Target</Source>
+    <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>This One is Mine</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>THISONEISMINESIL</Key>
     <Name>Change Silhouette</Name>
     <Description>This One is Mine can target ships or vehicle with a silhouette 1 higher or lower.</Description>
-    <Source>Stay on Target</Source>
+    <Source Page="36">Stay on Target</Source>
+    <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>This One is Mine</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNEXPECTEDDEMISEBASIC</Key>
@@ -1181,14 +1230,14 @@ part in one.</Description>
   <SigAbilityNode>
     <Key>UNEXPECTEDDEMISESKILL</Key>
     <Name>Change Skill</Name>
-    <Description>To activate Unexpected Demise, the character can use Discipline.</Description>
+    <Description>To acivate Unexpected Demise, the character can use Discipline.</Description>
     <Source Page="34">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unexpected Demise</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHAUTHBASIC</Key>
-    <Name>Unmatched Authority Basic Ability</Name>
+    <Name>Unmatched Authority Base Ability</Name>
     <Description>Once per game session, as an action during an encounter in structured time, the character may spend 2 Destiny Points to gain the following ability for the remainder of the current round and two additional rounds. As an out of turn incidental, the character may suffer 2 strain to downgrade the difficulty of an ally's skill check once.</Description>
     <Source Page="40">Lead by Example</Source>
     <Custom>DescOnly</Custom>
@@ -1367,7 +1416,7 @@ one additional round.</Description>
   <SigAbilityNode>
     <Key>UNMATCHEDCOURAGETOUGH</Key>
     <Name>Too Tough To Die</Name>
-    <Description>When Unmatched Courage ends, make a [B]Hard ([DI][DI][DI]) Resilience check[b] to remove one Critical Injury.</Description>
+    <Description>When Unmatched Courage ends, make a [B]Hard ([DI][DI][DI]) Resillience check[b] to remove one Critical Injury.</Description>
     <Source Page="39">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Courage</SigAbility>
@@ -1476,54 +1525,6 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <SigAbility>Unmatched Devastation</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
-    <Key>UNMATCHEDDEVISTATIONBASIC</Key>
-    <Name>Unmatched Devastation Base Ability</Name>
-    <Description>Once per game session as an incidental, after performing a combat check, the character may spend 2 Destiny Points to perform an additional combat check against the same target with the difficulty increased by 1 for each successful combat check the character has performed this turn. This combat check must be made using a non-starship vehicle weapon that the character has not already used this turn.</Description>
-    <Source Page="41">No Disintegrations</Source>
-    <Custom>DescOnly</Custom>
-    <SigAbility>Unmatched Devastation</SigAbility>
-  </SigAbilityNode>
-  <SigAbilityNode>
-    <Key>UNMATCHEDDEVISTATIONDRAWANDFIRE</Key>
-    <Name>Draw and Fire</Name>
-    <Description>Before performing each combat check with Unmatched Devastation, the character may holster and draw a weapon.</Description>
-    <Source Page="41">No Disintegrations</Source>
-    <Custom>DescOnly</Custom>
-    <SigAbility>Unmatched Devastation</SigAbility>
-  </SigAbilityNode>
-  <SigAbilityNode>
-    <Key>UNMATCHEDDEVISTATIONIMPROVEMOBILITY</Key>
-    <Name>Improve Mobility</Name>
-    <Description>Before performing a combat check as part of Unmatched Devastation, suffer 2 strain  to perform the Move maneuver as an incidental.</Description>
-    <Source Page="41">No Disintegrations</Source>
-    <Custom>DescOnly</Custom>
-    <SigAbility>Unmatched Devastation</SigAbility>
-  </SigAbilityNode>
-  <SigAbilityNode>
-    <Key>UNMATCHEDDEVISTATIONINCREASENUMBER</Key>
-    <Name>Increase Number</Name>
-    <Description>Perform additional combat checks equal to ranks in Increase Number upgrade.</Description>
-    <Source Page="41">No Disintegrations</Source>
-    <Custom>DescOnly</Custom>
-    <SigAbility>Unmatched Devastation</SigAbility>
-  </SigAbilityNode>
-  <SigAbilityNode>
-    <Key>UNMATCHEDDEVISTATIONREMOVESETBACK</Key>
-    <Name>Remove Setback</Name>
-    <Description>When making a combat check part of Unmatched Devastation, remove [SE] equal to ranks in Remove Setback upgrade.</Description>
-    <Source Page="41">No Disintegrations</Source>
-    <Custom>DescOnly</Custom>
-    <SigAbility>Unmatched Devastation</SigAbility>
-  </SigAbilityNode>
-  <SigAbilityNode>
-    <Key>UNMATCHEDDEVISTATIONTARGETPRIORITY</Key>
-    <Name>Target Priority</Name>
-    <Description>The character may choose a new legal target for each combat check made as part of Unmatched Devastation.</Description>
-    <Source Page="41">No Disintegrations</Source>
-    <Custom>DescOnly</Custom>
-    <SigAbility>Unmatched Devastation</SigAbility>
-  </SigAbilityNode>
-  <SigAbilityNode>
     <Key>UNMATCHEDFEROCITYBASE</Key>
     <Name>Unmatched Ferocity Base Ability</Name>
     <Description>Once per session after resolving a successful Melee combat check against a target engaged with the character, the character may spend 2 Destiny Points. The character then suffers 4 strain and 1 Conflict to immediately make a Melee attack as an incidental against the same target, increasing the difficulty of tile check by one, to a maximum difficulty of [B]Formidable ([DI][DI][DI][DI][DI])[b]. If successful, the character may repeat the process (suffering further strain and Conflict).</Description>
@@ -1565,7 +1566,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEDFEROCITYSKILL1</Key>
-    <Name>Change Skill (Brawl)</Name>
+    <Name>Change Skill - Brawl</Name>
     <Description>The character may activate Unmatched Ferocity after a successful Brawl check.</Description>
     <Source Page="35">Knights of Fate</Source>
     <Custom>DescOnly</Custom>
@@ -1573,7 +1574,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEDFEROCITYSKILL2</Key>
-    <Name>Change Skill (Lightsaber)</Name>
+    <Name>Change Skill - Lightsaber</Name>
     <Description>The character may activate Unmatched Ferocity after a successful Lightsaber check.
 </Description>
     <Source Page="35">Knights of Fate</Source>
@@ -1614,7 +1615,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEDINGENQUALITY</Key>
-    <Name>Quality: Breach</Name>
+    <Name>Quality (Breach)</Name>
     <Description>The character may also apply the Breach item quality to the weapon or item.</Description>
     <Source Page="35">Fully Operational</Source>
     <Custom>DescOnly</Custom>
@@ -1622,7 +1623,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEDINGENQUALITY2</Key>
-    <Name>Quality: Concussive</Name>
+    <Name>Quality (Concussive)</Name>
     <Description>The character may also apply the Concussive item quality to the weapon or item.</Description>
     <Source Page="35">Fully Operational</Source>
     <Custom>DescOnly</Custom>
@@ -1640,9 +1641,10 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <Key>UNMATCHEDINSIGHTBASE</Key>
     <Name>Unmatched Insight Base Ability</Name>
     <Description>Once per game session, during an encounter or scene involving one or more other sentient creatures, the character may spend 2 Destiny Points. The character immediately becomes aware of the emotional states and basic histories of up to 3 chosen participants in the scene.</Description>
-    <Source>Desperate Allies</Source>
+    <Source Page="40">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Insight</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEDNEGOTIATIONADDTRIUMPH</Key>
@@ -1711,7 +1713,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
   <SigAbilityNode>
     <Key>UNMATCHEDPURSUITDESTINY</Key>
     <Name>Destiny</Name>
-    <Description>To activate Unmatched Pursuit, the character only needs to spend 1 Destiny Point, instead of the Normal 2 Destiny Points.</Description>
+    <Description>To activate Unmatched Pursuit, the character only needs to spend 1 Destiny Point, instead of the Nomral 2 Destiny Points.</Description>
     <Source Page="35">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Pursuit</SigAbility>
@@ -1727,7 +1729,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
   <SigAbilityNode>
     <Key>UNMATCHEDPURSUITENDURANCE</Key>
     <Name>Endurance</Name>
-    <Description>Reduce the strain cost to keep up with the target by 1 to a minimum of 0, per endurance upgrade.</Description>
+    <Description>Reduce the strain cost to keep up with the target by 1to a minimumof 0, per endurance upgrade.</Description>
     <Source Page="35">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Pursuit</SigAbility>
@@ -1760,57 +1762,71 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <Key>UNMATCHEDSURVBASE</Key>
     <Name>Unmatched Survivability Base Ability</Name>
     <Description>Once per game session, when piloting a starship or vehicle with a silhouette of 3 or less that is crippled (has hull trauma in excess of its hull trauma threshold), the character may spend 2 Destiny Points as an incidental. The starship or vehicle operates as if it is not crippled for the next 3 rounds, acting as if its hull trauma is equal to its hull trauma threshold.</Description>
-    <Source>Stay on Target</Source>
+    <Source Page="37">Stay on Target</Source>
+    <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Survivability</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEDSURVDEST</Key>
     <Name>Destiny</Name>
     <Description>Unmatched Survivability costs 1 Destiny Point instead of 2.</Description>
-    <Source>Stay on Target</Source>
+    <Source Page="37">Stay on Target</Source>
+    <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Survivability</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEDSURVDUR</Key>
     <Name>Durability</Name>
     <Description>Reduce Critical Hits suffered by the ship or vehicle by 10 while Unmatched Survivability is active.</Description>
-    <Source>Stay on Target</Source>
+    <Source Page="37">Stay on Target</Source>
+    <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Survivability</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEDSURVDURA</Key>
     <Name>Duration</Name>
     <Description>Unmatched Survivability lasts until the end of the encounter.</Description>
-    <Source>Stay on Target</Source>
+    <Source Page="37">Stay on Target</Source>
+    <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Survivability</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEDSURVFREQ</Key>
     <Name>Frequency</Name>
     <Description>Unmatched Survivability may be used twice per game session.</Description>
-    <Source>Stay on Target</Source>
+    <Source Page="37">Stay on Target</Source>
+    <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Survivability</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEDSURVREINF</Key>
     <Name>Reinforcement</Name>
     <Description>The Critical rating of all weapons targeting the ship or vehicle counts as 1 higher while Unmatched Survivability is active.</Description>
-    <Source>Stay on Target</Source>
+    <Source Page="37">Stay on Target</Source>
+    <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Survivability</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEDSURVSIL</Key>
     <Name>Change Silhouette</Name>
     <Description>Unmatched Survivability affects ships or vehicles with 1 greater silhouette.</Description>
-    <Source>Stay on Target</Source>
+    <Source Page="37">Stay on Target</Source>
+    <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Survivability</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEDTRADEBASE</Key>
@@ -1879,7 +1895,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
   <SigAbilityNode>
     <Key>UNMATCHEDVIGILANCEBASIC</Key>
     <Name>Unmatched Vigilance Base Ability</Name>
-    <Description>Once per game session at the beginning of a structured encounter, the character may spend 2 Destiny Points. If he does so, he determines the Initiative order of the first round of the encounter. Characters still make checks to determine Initiative, but these results will only apply after Unmatched Vigilance's effects end.</Description>
+    <Description>Once per game session at the beginning of a structured encounter, the character may spend 2 Destiny Points. If he does so, he determines the Initiative order of the first round of the enounter. Characters still make checks to determine Initiative, but these results will only apply after Unmatched Vigilance's effects end.</Description>
     <Source Page="35">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Vigilance</SigAbility>
@@ -1936,80 +1952,89 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <Key>UNMATCHEXPDESTINY</Key>
     <Name>Destiny</Name>
     <Description>Unmatched Expertise costs 1 Destiny Point to activate instead of 2.</Description>
-    <Source>Far Horizons</Source>
+    <Source Page="37">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Expertise</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEXPERT</Key>
-    <Name>Unmatched Expertise Basic Ability</Name>
+    <Name>Unmatched Expertise Base Ability</Name>
     <Description>Once per game session as an action, the character may spend two Destiny Points to reduce the difficulty of all career skill checks he makes by one to a minimum of Easy for the remainder of the encounter.</Description>
-    <Source>Far Horizons</Source>
+    <Source Page="37">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Expertise</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEXPERTACT</Key>
     <Name>Activation</Name>
     <Description>Activate Unmatched Expertise as a maneuver instead of as an action.</Description>
-    <Source>Far Horizons</Source>
+    <Source Page="37">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Expertise</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEXPERTACT2</Key>
     <Name>Activation</Name>
     <Description>Activate Unmatched Expertise as an incidental that may be triggered out of turn instead of as an action.</Description>
-    <Source>Far Horizons</Source>
+    <Source Page="37">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Expertise</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEXPERTREDDIFF</Key>
     <Name>Reduce Difficulty</Name>
     <Description>Reduce the difficulty of career skill checks by 2 instead of 1.</Description>
-    <Source>Far Horizons</Source>
+    <Source Page="37">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Expertise</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEXPERTREDDIFF2</Key>
     <Name>Reduce Difficulty</Name>
     <Description>The difficulty of all career skill checks is reduced to a minimum of Simple instead of Easy.</Description>
-    <Source>Far Horizons</Source>
+    <Source Page="37">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Expertise</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEXPERTREDSETBK</Key>
     <Name>Reduce Setback</Name>
     <Description>Remove [SE] from career skill checks made while Unmatched Expertise is activated. </Description>
-    <Source>Far Horizons</Source>
+    <Source Page="37">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Expertise</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHEXPERTSUPRED</Key>
     <Name>Superior Reduction</Name>
     <Description>Once per session while Unmatched Expertise is activated, may reduce the difficulty of one non-career skill.</Description>
-    <Source>Far Horizons</Source>
+    <Source Page="37">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Expertise</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHFORTUNEBASE</Key>
     <Name>Unmatched Fortune Base Ability</Name>
     <Description>Once per game session as an incidental, the character may spend 2 Destiny Points to change the face of one positive die in the character's dice pool to another face adjacent to it. An "adjacent" face is any die face sharing an edge—not a point—with the rolled face. Unmatched Fortune cannot be used on a [FO].</Description>
-    <Source>Fly Casual</Source>
+    <Source Page="39">Fly Casual</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Fortune</SigAbility>
+    <DieModifiers />
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMATCHHEROBASIC</Key>
-    <Name>Unmatched Heroism Basic Ability</Name>
+    <Name>Unmatched Heroism Base Ability</Name>
     <Description>[P]Once per game session, as an out of turn incidental, the character may spend 2 Destiny Points. For the next 2 rounds, whenever an ally within short range is targeted by a successful combat check, the character may suffer 2 strain to move to engaged range of that ally and become the target of that combat check instead.
 </Description>
-    <Source>Keeping the Peace</Source>
+    <Source Page="37">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Heroism</SigAbility>
   </SigAbilityNode>
@@ -2018,7 +2043,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <Name>Destiny</Name>
     <Description>[P]Unmatched Heroism costs 1 Destiny Point instead of 2.
 </Description>
-    <Source>Keeping the Peace</Source>
+    <Source Page="37">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Heroism</SigAbility>
   </SigAbilityNode>
@@ -2027,7 +2052,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <Name>Duration</Name>
     <Description>Unmatched Heroism lasts for 1 additional round.
 </Description>
-    <Source>Keeping the Peace</Source>
+    <Source Page="37">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Heroism</SigAbility>
   </SigAbilityNode>
@@ -2036,7 +2061,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <Name>Endurance</Name>
     <Description>[P]Reduce the strain cost to become the target of an attack with Unmatched Heroism by 1.
 </Description>
-    <Source>Keeping the Peace</Source>
+    <Source Page="37">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Heroism</SigAbility>
   </SigAbilityNode>
@@ -2045,7 +2070,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <Name>Frequency</Name>
     <Description>Unmatched Heroism may be used twice per game session.
 </Description>
-    <Source>Keeping the Peace</Source>
+    <Source Page="37">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Heroism</SigAbility>
   </SigAbilityNode>
@@ -2054,15 +2079,15 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <Name>Increase Range</Name>
     <Description>Increase the range at which Unmatched Heroism can affect allies to medium range.
 </Description>
-    <Source>Keeping the Peace</Source>
+    <Source Page="37">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Heroism</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNMOBBASIC</Key>
-    <Name>Unmatched Mobility Basic Ability</Name>
+    <Name>Unmatched Mobility Base Ability</Name>
     <Description>Once per game session as an incidental, the character may spend 2 Destiny Points to increase the number of maneuvers he is allowed to perform in a turn to three for the next true rounds. This third maneuver may be gained through any of the means a second maneuver is normally gained. </Description>
-    <Source>Enter the Unknown</Source>
+    <Source Page="35">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Mobility</SigAbility>
   </SigAbilityNode>
@@ -2070,7 +2095,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <Key>UNMOBDEST</Key>
     <Name>Destiny</Name>
     <Description>Unmatched Mobility costs 1 Destiny Point instead of 2.</Description>
-    <Source>Enter the Unknown</Source>
+    <Source Page="35">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Mobility</SigAbility>
   </SigAbilityNode>
@@ -2078,7 +2103,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <Key>UNMOBDUR</Key>
     <Name>Duration</Name>
     <Description>Unmatched Mobility lasts for one additional round.</Description>
-    <Source>Enter the Unknown</Source>
+    <Source Page="35">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Mobility</SigAbility>
   </SigAbilityNode>
@@ -2086,7 +2111,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <Key>UNMOBFREEMAN</Key>
     <Name>Free Maneuver</Name>
     <Description>Gain one additional free maneuver while base ability is active. This does not increase per-turn maneuvers. </Description>
-    <Source>Enter the Unknown</Source>
+    <Source Page="35">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Mobility</SigAbility>
   </SigAbilityNode>
@@ -2094,7 +2119,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <Key>UNMOBMDEF</Key>
     <Name>Melee Defense</Name>
     <Description>Gain +1 melee defense while Unmatched Mobility is active.</Description>
-    <Source>Enter the Unknown</Source>
+    <Source Page="35">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Mobility</SigAbility>
   </SigAbilityNode>
@@ -2102,7 +2127,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <Key>UNMOBRDEF</Key>
     <Name>Ranged Defense</Name>
     <Description>Gain +1 ranged defense while Unmatched Mobility is active. </Description>
-    <Source>Enter the Unknown</Source>
+    <Source Page="35">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Mobility</SigAbility>
   </SigAbilityNode>
@@ -2110,7 +2135,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <Key>UNPROTADDRED</Key>
     <Name>Additional Reduction</Name>
     <Description>May reduce the damage of 1 additional hit suffered each round. </Description>
-    <Source>Dangerous Covenants</Source>
+    <Source Page="37">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Protection</SigAbility>
   </SigAbilityNode>
@@ -2118,15 +2143,15 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <Key>UNPROTALLY</Key>
     <Name>Protect Ally</Name>
     <Description>Once per session while Unmatched Protection is active, when an engaged ally is hit by an attack, may choose to be hit by that attack instead.</Description>
-    <Source>Dangerous Covenants</Source>
+    <Source Page="37">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Protection</SigAbility>
   </SigAbilityNode>
   <SigAbilityNode>
     <Key>UNPROTBASIC</Key>
-    <Name>Unmatched Protection Basic Ability</Name>
+    <Name>Unmatched Protection Base Ability</Name>
     <Description>Once per game session as an incidental, the character may spend 2 Destiny Points to gain the following ability: once per round, after suffering a hit and determining damage, the character may halve the damage (rounded up) dealt before it is applied to his soak. This ability is active for the remainder of the current round and two additional rounds. </Description>
-    <Source>Dangerous Covenants</Source>
+    <Source Page="37">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Protection</SigAbility>
   </SigAbilityNode>
@@ -2134,7 +2159,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <Key>UNPROTDEST</Key>
     <Name>Destiny</Name>
     <Description>Unmatched Protection costs 1 Destiny Point instead of 2. </Description>
-    <Source>Dangerous Covenants</Source>
+    <Source Page="37">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Protection</SigAbility>
   </SigAbilityNode>
@@ -2142,7 +2167,7 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <Key>UNPROTDURATION</Key>
     <Name>Duration</Name>
     <Description>Unmatched Protection lasts for one additional round.</Description>
-    <Source>Dangerous Covenants</Source>
+    <Source Page="37">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Protection</SigAbility>
   </SigAbilityNode>
@@ -2150,8 +2175,8 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <Key>UNPROTSOAK</Key>
     <Name>Soak</Name>
     <Description>Gain +1 soak while Unmatched Protection is active.</Description>
-    <Source>Dangerous Covenants</Source>
+    <Source Page="37">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Protection</SigAbility>
   </SigAbilityNode>
-  </SigAbilityNodes>
+</SigAbilityNodes>

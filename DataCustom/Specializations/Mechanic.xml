@@ -5,7 +5,9 @@
   <Description>[H4]Mechanic - Making Stuff Work[h4]
 Depending on who is asked, Mechanics are either the glue that holds everything together or the grease that makes it all go. Most Mechanics would tell you they do both, and then get back to work.
 [P]The additional career skills of a Mechanic indicate his practical versatility: [B]Brawl, Mechanics[b] (of course, and this gives him the opportunity to have two starting ranks in the skill), [B]Piloting (Space),[b] and [B]Skulduggery[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. Pragmatic and tough are two key traits that come out of a Mechanic's talent tree, as are the many ways he is capable of fixing what's broken and being prepared for any mechanical contingencies that arise.
+
 [P]While it is relatively easy to find a Mechanic almost anywhere in the galaxy, it's considerably more difficult to find a good one, and even harder to find one that can be trusted. Ship captains will literally travel across systems to get to a Mechanic they can trust to do a good job for them, which is why Mechanics tend to be in high demand.
+
 [P]A Mechanic that's hooked up with the typical Player Character group has likely decided he doesn't want to spend all of his time in a work pit or engineering hangar. He probably wants to see a bit of the galaxy and get some flight time in. Fortunately, Mechanics tend to pick up a few things about how to take care of themselves in tough situations, and given a few minutes and some random devices, they may well cobble together a rather explosive means of dealing with real problems.</Description>
   <Sources>
     <Source Page="89">Edge of the Empire Core Rulebook</Source>
@@ -20,6 +22,7 @@ Depending on who is asked, Mechanics are either the glue that holds everything t
   </CareerSkills>
   <TalentRows>
     <TalentRow>
+      <Index>0</Index>
       <Cost>5</Cost>
       <Talents>
         <Key>GEARHD</Key>
@@ -53,26 +56,26 @@ Depending on who is asked, Mechanics are either the glue that holds everything t
       </Talents>
       <Directions>
         <Direction>
-          <Right>true</Right>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
+          <Right>true</Right>
         </Direction>
         <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
           <Left>true</Left>
           <Right>true</Right>
-          <Up>true</Up>
-          <Down>true</Down>
         </Direction>
         <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
           <Left>true</Left>
           <Right>true</Right>
-          <Up>true</Up>
-          <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>true</Left>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
+          <Left>true</Left>
         </Direction>
       </Directions>
     </TalentRow>
@@ -87,26 +90,26 @@ Depending on who is asked, Mechanics are either the glue that holds everything t
       </Talents>
       <Directions>
         <Direction>
-          <Right>true</Right>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
+          <Right>true</Right>
         </Direction>
         <Direction>
+          <Up>true</Up>
+          <Down>true</Down>
           <Left>true</Left>
           <Right>true</Right>
-          <Up>true</Up>
-          <Down>true</Down>
         </Direction>
         <Direction>
+          <Up>true</Up>
+          <Down>true</Down>
           <Left>true</Left>
           <Right>true</Right>
-          <Up>true</Up>
-          <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>true</Left>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
+          <Left>true</Left>
         </Direction>
       </Directions>
     </TalentRow>
@@ -121,24 +124,24 @@ Depending on who is asked, Mechanics are either the glue that holds everything t
       </Talents>
       <Directions>
         <Direction>
-          <Right>true</Right>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
+          <Right>true</Right>
         </Direction>
         <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
           <Left>true</Left>
           <Right>true</Right>
-          <Up>true</Up>
-          <Down>true</Down>
         </Direction>
         <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
           <Left>true</Left>
-          <Up>true</Up>
-          <Down>true</Down>
         </Direction>
         <Direction>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
         </Direction>
       </Directions>
     </TalentRow>

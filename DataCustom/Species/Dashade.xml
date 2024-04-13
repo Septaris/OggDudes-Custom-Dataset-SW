@@ -29,6 +29,8 @@ The Dashade are tall, reptilian humanoids notable for their resistance to the po
     <StrainThreshold>10</StrainThreshold>
     <Experience>90</Experience>
   </StartingAttrs>
+  <SkillModifiers>
+  </SkillModifiers>
   <TalentModifiers>
     <TalentModifier>
       <Key>OUTDOOR</Key>

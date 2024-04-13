@@ -7,8 +7,8 @@
 
 Perhaps nothing in the galaxy inspires more dread in a smuggler than the sight of an Interdictor-class cruiser. Based on the Vindicator-class heavy cruiser, these large, wedge-shaped cruisers superficially resemble mighty Imperial Star Destroyers, though they perform a very specific role. By projecting a gravity shadow, known as a gravity well or interdiction field, across local space, Interdictor cruisers simulate the presence of a massive celestial body, keeping ships within the field from entering hyperspace and pulling ships in hyperspace back into realspace. Though an Imperial Naval asset, Interdictor-class cruisers frequently patrol trade routes, thwarting smugglers inclined to try outrunning Imperial authorities.</Description>
   <Sources>
-    <Source>Age of Rebellion Core Rulebook</Source>
-    <Source>Fly Casual</Source>
+    <Source Page="60">Fly Casual</Source>
+    <Source Page="280">Age of Rebellion Core Rulebook</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <Type>Heavy Cruiser</Type>
@@ -17,13 +17,18 @@ Perhaps nothing in the galaxy inspires more dread in a smuggler than the sight o
     <Category>Starship</Category>
     <Category>Capital Ship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
+  <HP>0</HP>
   <Price>15400000</Price>
   <Rarity>8</Rarity>
   <Restricted>true</Restricted>
+  <BaseMods />
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
   <HyperdriveBackup>12</HyperdriveBackup>
   <StarFighters>24 starfighters</StarFighters>
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srLong</SensorRangeValue>
   <Crew>2,807 officers, pilots, and enlisted</Crew>
   <EncumbranceCapacity>6500</EncumbranceCapacity>
   <Passengers>80</Passengers>
@@ -40,53 +45,87 @@ Perhaps nothing in the galaxy inspires more dread in a smuggler than the sight o
   <SystemStrain>65</SystemStrain>
   <Starship>true</Starship>
   <Massive>1</Massive>
+  <SinglePilot>false</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERQUAD</Key>
       <Count>5</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Ventral</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERQUAD</Key>
       <Count>5</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERQUAD</Key>
       <Count>4</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERQUAD</Key>
       <Count>4</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
         <Aft>true</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Aft</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERQUAD</Key>
       <Count>2</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

@@ -162,8 +162,6 @@ Some of the more esoteric uses of the Force can seem like magic to the ignorant 
       <Abilities>
         <Key>CONJUREMASTERY</Key>
         <Key>CONJUREMASTERY</Key>
-        <Key>CONJUREMASTERY</Key>
-        <Key>CONJUREMASTERY</Key>
       </Abilities>
       <Directions>
         <Direction>
@@ -174,7 +172,7 @@ Some of the more esoteric uses of the Force can seem like magic to the ignorant 
         <Direction />
       </Directions>
       <AbilitySpan>
-        <Span>4</Span>
+        <Span>2</Span>
         <Span>0</Span>
         <Span>0</Span>
         <Span>0</Span>

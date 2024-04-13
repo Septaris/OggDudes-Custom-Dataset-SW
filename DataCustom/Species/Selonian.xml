@@ -12,12 +12,12 @@ For Selonians, nothing is more important than the protection and preservation of
 
 [P]Pragmatic, industrious, and sober, Selonians put the necessities and security of their den and their race in general above all else. Individual needs and desires are almost always subsumed to those of the den. Since the actions of an individual can affect the whole den, Selonians put a high value on honesty and fidelity. Duplicity among the members of a den is taboo in the extreme; lying is a crime on a par with murder. While Selonians are aware that most alien species are not as scrupulously honest in their dealings, they have difficulty comprehending deception and they are virtually incapable of outright deceit.
 
-[P]Some Selonians are trained to deal with outsiders, being schooled in language, culture, and expressions intended to put humans and other aliens at ease. To those unfamiliar with Selonian ways, they may appear outgoing and friendly, though most have no interests outside those of their den. Occasionally, a Selonian thus trained may become enamored of alien cultures and decide to travel beyond the Corellian System. These individuals are called Dravas ("Wanderers" in the Selonian tongue) and are generally viewed by most Selonians with a mixture of pity and disgust. Yet even these Wanderers put their den and race above all else, and most eventually return home to Selonia.
+[P]Some Selonians are trained to deal with outsiders, being schooled in language, culture, and expressions intended to put humans and other aliens at ease. To those unfamiliar with Selonian ways, they may appear outgoing and friendly, though most have no interests outside those of their den. Occasionally, a Selonian thus trained may become enamored of alien cultures and decide to travel beyond the Corellian System. These individuals are called Dravas (°Wanderers" in the Selonian tongue) and are generally viewed by most Selonians with a mixture of pity and disgust. Yet even these Wanderers put their den and race above all else, and most eventually return home to Selonia.
 
 [P][B]Homeworld:[b] Selonians are native to the fifth planet of the Corellian System. Selonia is a temperate world abundant in water, with vast oceans covering most of its surface. The myriad small islands and archipelagos that make up the planet's landmass are connected by a sprawling and complex network of tunnels exca-vated by the Selonians beneath their world's oceans, allowing the natives to journey across Selonia without ever setting foot on a vessel.
 
 [P][B]Language:[b] The Selonian language, Mandaba, is difficult for non-Selonians to speak, and virtually impossible for them to speak well. While several models of protocol droids are able to communicate fluently in Mandaba, even they cannot precisely convey every nuance of the language. The Selonian language is almost never heard outside of the Corellian System, but most Selonians who deal with outsiders are at least conversant in Basic.</Description>
-  <Source>Suns of Fortune</Source>
+  <Source Page="91">Suns of Fortune</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
@@ -36,6 +36,7 @@ For Selonians, nothing is more important than the protection and preservation of
     <SkillModifier>
       <Key>COORD</Key>
       <RankStart>1</RankStart>
+      <RankLimit>2</RankLimit>
     </SkillModifier>
   </SkillModifiers>
   <OptionChoices>
@@ -57,6 +58,7 @@ For Selonians, nothing is more important than the protection and preservation of
       <SkillKey>BRAWL</SkillKey>
       <DamageAdd>1</DamageAdd>
       <Crit>5</Crit>
+      <RangeValue>wrEngaged</RangeValue>
       <Qualities>
         <Quality>
           <Key>DISORIENT</Key>
@@ -66,7 +68,6 @@ For Selonians, nothing is more important than the protection and preservation of
           <Key>KNOCKDOWN</Key>
         </Quality>
       </Qualities>
-      <Range>Engaged</Range>
     </WeaponModifier>
   </WeaponModifiers>
 </Species>

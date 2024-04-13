@@ -67,5 +67,4 @@ Transport is to the ground: a simple tool that powers the logistical might of th
       <Key>BLASTCANLT</Key>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Short</SensorRange>
 </Vehicle>

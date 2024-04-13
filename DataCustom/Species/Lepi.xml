@@ -53,8 +53,10 @@ The Lepus carnivorus, more commonly known as Lepi, are a species of sentient rab
             <SkillModifier>
               <Key>ATHL</Key>
               <RankStart>1</RankStart>
+              <RankLimit>2</RankLimit>
             </SkillModifier>
           </SkillModifiers>
+          <TalentModifiers />
         </Option>
         <Option>
           <Key>LEPICH1OP2</Key>
@@ -64,6 +66,7 @@ The Lepus carnivorus, more commonly known as Lepi, are a species of sentient rab
             <SkillModifier>
               <Key>PERC</Key>
               <RankStart>1</RankStart>
+              <RankLimit>2</RankLimit>
             </SkillModifier>
           </SkillModifiers>
         </Option>

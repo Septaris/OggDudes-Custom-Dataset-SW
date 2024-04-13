@@ -34,6 +34,7 @@ Snivvians are a mammalian humanoid species native to the world of Cadomai Prime.
     <OptionChoice>
       <Key>SNIVVIANCH1</Key>
       <Name>Skills</Name>
+      <Description />
       <Options>
         <Option>
           <Key>SNIVVIANCH1OP1</Key>
@@ -43,8 +44,12 @@ Snivvians are a mammalian humanoid species native to the world of Cadomai Prime.
             <SkillModifier>
               <Key>CHARM</Key>
               <RankStart>1</RankStart>
+              <RankAdd>0</RankAdd>
+              <RankLimit>0</RankLimit>
+              <isCareer>false</isCareer>
             </SkillModifier>
           </SkillModifiers>
+          <TalentModifiers />
         </Option>
         <Option>
           <Key>SNIVVIANCH1OP2</Key>
@@ -54,14 +59,19 @@ Snivvians are a mammalian humanoid species native to the world of Cadomai Prime.
             <SkillModifier>
               <Key>PERC</Key>
               <RankStart>1</RankStart>
+              <RankAdd>0</RankAdd>
+              <RankLimit>0</RankLimit>
+              <isCareer>false</isCareer>
             </SkillModifier>
           </SkillModifiers>
+          <TalentModifiers />
         </Option>
       </Options>
     </OptionChoice>
     <OptionChoice>
       <Key>SNIVVIANCH2</Key>
       <Name>Resist</Name>
+      <Description />
       <Options>
         <Option>
           <Key>SNIVVIANCH2OP1</Key>
@@ -75,6 +85,7 @@ imposed due to cold environmental conditions.</Description>
     <OptionChoice>
       <Key>SNIVVIANCH3</Key>
       <Name>Size</Name>
+      <Description />
       <Options>
         <Option>
           <Key>SNIVVIANCH3OP1</Key>
@@ -84,4 +95,5 @@ imposed due to cold environmental conditions.</Description>
       </Options>
     </OptionChoice>
   </OptionChoices>
+  <WeaponModifiers />
 </Species>

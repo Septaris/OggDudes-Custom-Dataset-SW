@@ -7,19 +7,27 @@
 Barely a blip on the sensor screens of the Corellian Engineering and Kuat Drive Yards companies, Suwantek Systems has managed to achieve some success with its TL-series transports. The TL-1200 is a reliable medium-sized freighter with decent cargo capacity. While the ship comes equipped with a pair of laser cannons mounted on other side of the bow, many owners add additional weaponry to deal with pirates and other threats.
 
 [P]Though not exceptional, the TL-1200 is a solidly built and dependable vessel, and thus it is a relatively common sight throughout Hutt Space and the Outer Rim. In fact, some traders and smugglers have been said to seek it out for this very reason, for it tends to go unnoticed where flashier vessels might attract the unwanted attentions of pirates, thieves, creditors, or criminal syndicates.</Description>
-  <Source>Lords of Nal Hutta</Source>
+  <Source Page="115">Lords of Nal Hutta</Source>
+  <Sources />
   <Custom>DescOnly</Custom>
   <Type>Freighter</Type>
   <Categories>
     <Category>Starship</Category>
     <Category>Non-Fighter Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>4</HP>
   <Price>170000</Price>
   <Rarity>6</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <WeaponModifiers />
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
   <HyperdriveBackup>12</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot, one co-pilot, one engineer, three crew</Crew>
   <EncumbranceCapacity>600</EncumbranceCapacity>
   <Passengers>1200</Passengers>
@@ -35,27 +43,40 @@ Barely a blip on the sensor screens of the Corellian Engineering and Kuat Drive 
   <HullTrauma>26</HullTrauma>
   <SystemStrain>15</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
         <Aft>true</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERMED</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
         <Aft>true</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERMED</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

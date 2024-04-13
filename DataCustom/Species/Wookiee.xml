@@ -18,7 +18,7 @@ Strong, intelligent, and fierce in battle, Wookiees make the best of friends for
 [P][B]Homeworld:[b] Wookiees hail from the forest world of Kashyyyk. This world is dominated by immense old-growth forests, including the kilometers-tall wroshyr trees. These trees form a layered ecology on Kashyyyk, with the uppermost levels being the safest. The deeper one travels into the Kashyyyk forests, the more dangerous flora and fauna one finds. At the lowest depths, even a Wookiee cannot survive for long.
 
 [P][B]Language:[b] Shyriiwook, the Wookiee tongue, continues to amaze scholars with the incredible nuances of grunts and growls that form the language. Few non-Wookiees can speak it or its dialects, like Xaczik, spoken by the Wookiees of the Wartaki Islands. Conversely, Wookiee physiology prevents them from speaking the languages of other species, including Basic, though most Wookiees have no problem comprehending them.</Description>
-  <Source>Edge of the Empire Core Rulebook</Source>
+  <Source Page="52">Edge of the Empire Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>3</Brawn>

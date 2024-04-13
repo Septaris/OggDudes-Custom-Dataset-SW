@@ -3,7 +3,7 @@
   <Key>ARMDROPSUIT</Key>
   <Name>Armored Drop Suit</Name>
   <Description>[H3]Armored Drop Suit[h3]
-Mobility is often a decisive element in any engagement. Combatants from common killers-for-hire to Imperial stormtroopers know that taking a good position and controlling the flow of combat can be better protection than a durasteel blast door. Most armor designs factor this in to some degree, foregoing absolutely maximized plating or coverage to allow normal mobility, but a few suits go above and beyond the concept of allowing “normal mobility.”
+Mobility is often a decisive element in any engagement. Combatants from common killers-for-hire to Imperial storrmroopers know that taking a good position and controlling the flow of combat can be better protection than a durasteel blast door. Most armor designs factor this in to some degree, foregoing absolutely maximized plating or coverage to allow normal mobility, but a few suits go above and beyond the concept of allowing “normal mobility.”
 [P]Armored drop suits are a type of light laminate body armor constructed around a powerful repulsorift unit,
 allowing the wearer to fly between firing positions or
 spots of cover, or to rain down attacks from above.
@@ -33,7 +33,7 @@ does not suffer damage from falling.
   <MaxAltitude>From orbit</MaxAltitude>
   <SensorRangeValue>srNone</SensorRangeValue>
   <Crew>Armor's wearer</Crew>
-  <Silhouette>2</Silhouette>
+  <Silhouette>1</Silhouette>
   <Speed>2</Speed>
   <Handling>2</Handling>
   <SystemStrain>3</SystemStrain>

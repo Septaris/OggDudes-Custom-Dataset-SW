@@ -8,16 +8,61 @@ The RTT-04, commonly known as the Republic troop transport, is a lightly armored
 [P]Thousands of RTT-04s were produced during the Clone Wars, but precious few survived into the Imperial era. The Imperial Army  declined to include them in their order of battle and those that  survived the Clone Wars were stripped of their weapon systems and sold as military surplus to industrial and resource-exploration concerns.</Description>
   <Source Page="55">Knights of Fate</Source>
   <Custom>DescOnly</Custom>
-  <Type>Armored Transport</Type>
+  <Type>Landspeeder</Type>
   <Categories>
     <Category>Land Vehicle</Category>
   </Categories>
   <HP>2</HP>
   <Price>42000</Price>
   <Rarity>5</Rarity>
-  <MaxAltitude>3 meters.</MaxAltitude>
+  <WeaponModifiers>
+    <WeaponModifier>
+      <UnarmedName>Mass-Driver Missile Launcher</UnarmedName>
+      <SkillKey>GUNN</SkillKey>
+      <Damage>6</Damage>
+      <Crit>3</Crit>
+      <Scale>wsPlanetary</Scale>
+      <Qualities>
+        <Quality>
+          <Key>BLAST</Key>
+          <Count>4</Count>
+        </Quality>
+        <Quality>
+          <Key>BREACH</Key>
+          <Count>2</Count>
+        </Quality>
+        <Quality>
+          <Key>GUIDED</Key>
+          <Count>3</Count>
+        </Quality>
+        <Quality>
+          <Key>LIMITEDAMMO</Key>
+          <Count>4</Count>
+        </Quality>
+        <Quality>
+          <Key>LINKED</Key>
+          <Count>1</Count>
+        </Quality>
+        <Quality>
+          <Key>SLOWFIRING</Key>
+          <Count>1</Count>
+        </Quality>
+      </Qualities>
+      <VehicleWeaponProperties>
+        <Location>Dorsal</Location>
+        <Turret>true</Turret>
+        <FiringArcs>
+          <Fore>true</Fore>
+        </FiringArcs>
+      </VehicleWeaponProperties>
+      <VehicleWeaponCount>1</VehicleWeaponCount>
+      <RangeValue>wrShort</RangeValue>
+      <Range>Short</Range>
+    </WeaponModifier>
+  </WeaponModifiers>
+  <MaxAltitude>3 meters</MaxAltitude>
   <SensorRangeValue>srShort</SensorRangeValue>
-  <Crew>One pilot, one co-pilot/gunner.</Crew>
+  <Crew>One pilot, one co-pilot/gunner</Crew>
   <EncumbranceCapacity>85</EncumbranceCapacity>
   <Passengers>12</Passengers>
   <Silhouette>3</Silhouette>
@@ -38,18 +83,6 @@ The RTT-04, commonly known as the Republic troop transport, is a lightly armored
         </Quality>
       </Qualities>
       <Key>LASERLT</Key>
-    </VehicleWeapon>
-    <VehicleWeapon>
-      <FiringArcs />
-      <Turret>true</Turret>
-      <Location>Dorsal</Location>
-      <Qualities>
-        <Quality>
-          <Key>LINKED</Key>
-          <Count>1</Count>
-        </Quality>
-      </Qualities>
-      <Key>MASSMISSILESMALL</Key>
     </VehicleWeapon>
   </VehicleWeapons>
   <SensorRange>Short</SensorRange>

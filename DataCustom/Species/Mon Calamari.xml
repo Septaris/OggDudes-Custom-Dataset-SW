@@ -21,7 +21,7 @@ Artisans, dreamers, and devoted allies when they choose a cause, the Mon Calamar
 [P][B]Homeworld:[b] Dac (also referred to as Mon Cala, mostly by offworlders) is primarily an aquatic world, covered by one massive ocean. There are a few small islands and reefs upon which the Mon Calamari have built surface structures, but most of their cities float upon the ocean's surface. They share the planet with the Quarren, with whom they have often warred, and with other sentient races such as the Moappa and the Whaladons (all of whom keep mostly to themselves under the water). In orbit around the planet are the famed Mon Calamari Shipyards.
 
 [P][B]Language:[b] Both the Mon Cal and the Quarren speak Mon Calamarian as the native tongue of their world, though their long history with the Galactic Republic established Basic as a widespread language on the planet of Dac as well. Mon Calamari tend to speak Basic with a gurgling undertone, but they are still easily understood by most.</Description>
-  <Source>Age of Rebellion Core Rulebook</Source>
+  <Source Page="59">Age of Rebellion Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
@@ -40,12 +40,16 @@ Artisans, dreamers, and devoted allies when they choose a cause, the Mon Calamar
     <SkillModifier>
       <Key>EDU</Key>
       <RankStart>1</RankStart>
+      <RankAdd>0</RankAdd>
+      <RankLimit>0</RankLimit>
+      <isCareer>false</isCareer>
     </SkillModifier>
   </SkillModifiers>
   <OptionChoices>
     <OptionChoice>
       <Key>MONCALCH1</Key>
       <Name>Water</Name>
+      <Description />
       <Options>
         <Option>
           <Key>MONCALCH1OP1</Key>
@@ -58,4 +62,5 @@ water.</Description>
       </Options>
     </OptionChoice>
   </OptionChoices>
+  <NoForceAbilities>false</NoForceAbilities>
 </Species>

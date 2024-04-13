@@ -5,7 +5,7 @@
   <Description>[H4]Gand[h4]
 Gands are a mysterious insectoid species whose "findsmen" treat tracking quarry as a religious duty. They are exceptionally good at divining the location of individuals through ritualistic methods that off-worlders might consider backward and barbaric.
 
-[P][B]Physiology:[b] Though prevalent in the fringes of the Outer Rim, Gands remain a puzzle to xenobiologists. Over a dozen distinct subspecies of the Gands have been reported. All are covered in a dense chitinous exoskeleton and reach a height at adulthood of about 1.6 meters. They have three fingers on each hand, which are as dexterous as those of other humanoids, allowing them to manipulate equipment designed for five-fingered individuals.
+[P][B]Physiology:[b] Though prevalent in the fringes of the Outer Rim, Gands remain a puzzle to xenobiologists. Over a dozen distinct subspecies of the Gands have been reported. All are covered in a dense chitinous exoskeleton and reach a height at adulthood of about 1.6 meters. They have three fingers on each hand, which are as dextrous as those of other humanoids, allowing them to manipulate equipment designed for five-fingered individuals.
 
 [P]Where Gands subspecies differ from one another is in their respiratory biology. Most Gands who travel the spacelanes do not seem to need to breathe at all. The digestion of food in their stomachs produces the ammo-nia necessary for their biochemistry. Wasteful byproducts and extraneous ammonia are expelled through their exo-skeletons. These Gands often emanate an unpleasant methane musk. Other Gand subspecies possess actual lungs and cannot produce ammonia through digestion, instead requiring a special breathing apparatus.
 
@@ -18,7 +18,10 @@ Gands are a mysterious insectoid species whose "findsmen" treat tracking quarry 
 [P][B]Language:[b] Droids fare much better than well-trained humanoid linguists in reproducing the clicks and chirrups of the Gand spoken language. Without the need to intake breathable gases, most Gand lack the vocal cords to make the sounds of Basic and other languages. They must use droids or translation devices to converse in groups that do not understand their language.
 
 [P]The grammar that Gand use reflects their place in society. Before a Gand earns his identity and is accepted among his peers, he refers to himself in the third person, calling himself "Gand." Once he has done a deed of distinction, a Gand may take his family name. Gand cannot use their first names until they have become "persons of greatness"—janwuine in their own tongue—and received commendations from their peers. This causes many off-worlders to view the Gand as a people of extreme humility. </Description>
-  <Source>Edge of the Empire Core Rulebook</Source>
+  <Sources>
+    <Source Page="47">Edge of the Empire Core Rulebook</Source>
+    <Source Page="18">Endless Vigil</Source>
+  </Sources>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>

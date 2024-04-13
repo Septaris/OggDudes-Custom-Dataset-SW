@@ -19,8 +19,8 @@ The species most often celebrated as granting the gift of hyperspace travel to t
 
 [P][B]Language:[b] Using a syllable-driven written component, Durese (also called Durosian) is a well-known and widely spoken language throughout the Corellian Sector and many other Core Worlds. It is one of the foundation languages for the construction of Basic.</Description>
   <Sources>
-    <Source>Age of Rebellion Core Rulebook</Source>
-    <Source>Enter the Unknown</Source>
+    <Source Page="55">Age of Rebellion Core Rulebook</Source>
+    <Source Page="21">Enter the Unknown</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <StartingChars>
@@ -40,12 +40,17 @@ The species most often celebrated as granting the gift of hyperspace travel to t
     <SkillModifier>
       <Key>PILOTSP</Key>
       <RankStart>1</RankStart>
+      <RankAdd>0</RankAdd>
+      <RankLimit>0</RankLimit>
+      <isCareer>false</isCareer>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers />
   <OptionChoices>
     <OptionChoice>
       <Key>DUROSCH1</Key>
       <Name>Navigator</Name>
+      <Description />
       <Options>
         <Option>
           <Key>DUROSCH1OP1</Key>
@@ -61,4 +66,6 @@ The species most often celebrated as granting the gift of hyperspace travel to t
       </Options>
     </OptionChoice>
   </OptionChoices>
+  <WeaponModifiers />
+  <NoForceAbilities>false</NoForceAbilities>
 </Species>

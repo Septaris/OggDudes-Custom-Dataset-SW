@@ -109,6 +109,7 @@ kind, they focus these feelings on their associates.</Description>
       <RankLimit>2</RankLimit>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers />
   <OptionChoices>
     <OptionChoice>
       <Key>ISHITIBCH1</Key>

@@ -10,67 +10,94 @@ Koensayr's Y-wing is a dedicated heavy attack and bomber starfighter. Known affe
 [P]In keeping with their role as ship killers, Y-wings have thick armor and heavy shields to protect them while they close with targets. With their slim cross-section, sturdy protection, and powerful weapons, they are well suited to a role that requires them to fight their way to a target, deliver their ordnance, and fight their way back. Despite their reputation for reliability, Y-wings possess some quirks that make them relatively high maintenance. This has led to frustrated crews and technicians permanently removing the largely cosmetic hull plating for ease of constant access to the fighter's internal systems; it's a rare Y-wing that flies with its hull plates intact.
 
 [P]The BTL-A4 Y-wing is a single-seat variant, While the BTL-S3 has a second seat for a sensor officer/gunner behind the pilot. In the BTL-S3, the gunner fires the ion cannon turrets, while in the BTL-A4, they are fixed forward and controlled by the pilot. This profile covers both variants, as them are almost no additional differences.</Description>
+  <Sources>
+    <Source Page="257">Edge of the Empire Core Rulebook</Source>
+    <Source Page="268">Age of Rebellion Core Rulebook</Source>
+    <Source Page="257">Force and Destiny Core Rulebook</Source>
+  </Sources>
   <Custom>DescOnly</Custom>
-  <Type>Starfighter</Type>
-  <Categories>
-    <Category>Starship</Category>
-  </Categories>
-  <HP>1</HP>
-  <Price>80000</Price>
-  <Rarity>4</Rarity>
   <HyperdrivePrimary>1</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srClose</SensorRangeValue>
   <Crew>One Pilot</Crew>
   <EncumbranceCapacity>10</EncumbranceCapacity>
+  <Passengers>0</Passengers>
   <Consumables>One Week</Consumables>
   <Silhouette>3</Silhouette>
   <Speed>4</Speed>
+  <Handling>0</Handling>
   <DefFore>1</DefFore>
   <DefAft>1</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>3</Armor>
   <HullTrauma>12</HullTrauma>
   <SystemStrain>10</SystemStrain>
+  <HP>1</HP>
+  <Price>80000</Price>
+  <Rarity>4</Rarity>
+  <Categories>
+    <Category>Starship</Category>
+  </Categories>
+  <Type>Starfighter</Type>
   <Starship>true</Starship>
   <SinglePilot>true</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
-      <FiringArcs>
-        <Fore>true</Fore>
-      </FiringArcs>
-      <Location>Forward</Location>
-      <Qualities>
-        <Quality>
-          <Key>LINKED</Key>
-          <Count>1</Count>
-        </Quality>
-      </Qualities>
       <Key>IONLT</Key>
-    </VehicleWeapon>
-    <VehicleWeapon>
+      <Location>Forward</Location>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
-      <Location>Forward</Location>
+      <Turret>false</Turret>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
         </Quality>
       </Qualities>
+    </VehicleWeapon>
+    <VehicleWeapon>
       <Key>LASERMED</Key>
-    </VehicleWeapon>
-    <VehicleWeapon>
+      <Location>Forward</Location>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
-      <Location>Forward</Location>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
         </Quality>
       </Qualities>
+    </VehicleWeapon>
+    <VehicleWeapon>
       <Key>PTL</Key>
+      <Location>Forward</Location>
+      <FiringArcs>
+        <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
+      </FiringArcs>
+      <Qualities>
+        <Quality>
+          <Key>LINKED</Key>
+          <Count>1</Count>
+        </Quality>
+      </Qualities>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

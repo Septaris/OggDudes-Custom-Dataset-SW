@@ -2,7 +2,7 @@
 <Specialization>
   <Key>SLEEPERAGENT</Key>
   <Name>Sleeper Agent</Name>
-  <Description>[H4] Sleeper Agent – Ensuring Trust[h4]
+  <Description>[H4] Sleeper Agent - Ensuring Trust[h4]
 Spies must be able to tell convincing lies. Often, a lie only needs to hold up for a few seconds—just long enough for the agent to complete a crime. In some cases, the lie must be more convincing and survive much more detailed scrutiny. Sleeper Agents must be able to operate in isolation from their support network for months or even years at a time. During such missions, operatives should blend seamlessly into their host environments, never arousing even the slightest suspicion. Sustaining believable lies for this much time requires dedication so that no hint of their real identity ever emerges. For some Sleeper Agents, their artificial guises are so ingrained that it takes effort to emerge from them once a lengthy mission is finally over.
 [P]Sleeper Agents acquire [B]Charm, Cool, Discipline,[b] and [B]Knowledge (Education)[b] as additional career skills. If this is the character's starting specialization, the player may choose two of these skills and gain one free rank in each without spending starting experience.
 [P]On a mission, the vast majority of Sleeper Agents' time involves working a mundane job that may seem unrelated to their objective. In a few cases, the job is a military one, but those assignments require extensive security checks. More often, the Sleeper Agent works a civilian job that may have military connections. The agent may even serve as a member of a criminal organization. Whichever is the case, the Sleeper Agent's duties offer peripheral access to a resource that is of great interest to the Rebellion. It is vitally important that agents remain constantly discreet about their true intentions.
@@ -52,11 +52,9 @@ Spies must be able to tell convincing lies. Often, a lie only needs to hold up f
         </Direction>
         <Direction>
           <Left>true</Left>
-          <Right>true</Right>
           <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>true</Left>
           <Right>true</Right>
           <Down>true</Down>
         </Direction>
@@ -133,7 +131,7 @@ Spies must be able to tell convincing lies. Often, a lie only needs to hold up f
         <Key>DEDI</Key>
         <Key>INSIDEPERSON</Key>
         <Key>NATCHARM</Key>
-        <Key>INKNOW</Key>
+        <Key>INSIDEKNOW</Key>
       </Talents>
       <Directions>
         <Direction>

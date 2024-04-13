@@ -35,28 +35,31 @@ This reptilian race has extended their nomadic tradition to the galaxy. Galactic
     <SkillModifier>
       <Key>NEG</Key>
       <RankStart>1</RankStart>
+      <RankLimit>2</RankLimit>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers>
+  </TalentModifiers>
   <OptionChoices>
     <OptionChoice>
-      <Key>VURKCH1</Key>
-      <Name>Environment</Name>
+      <Key>VURKAB1</Key>
+      <Name>Environmental</Name>
       <Options>
         <Option>
-          <Key>VURKCH1OP1</Key>
+          <Key>VURKAB1OP1</Key>
           <Name>Amphibious</Name>
-          <Description>Vurks can breathe underwater without penalty and never suffer movement penalties when traveling through water.</Description>
+          <Description>Vurk can breathe and move underwater without penalty.</Description>
         </Option>
       </Options>
     </OptionChoice>
     <OptionChoice>
-      <Key>VURKCH2</Key>
-      <Name>Physiology</Name>
+      <Key>VURKAB2</Key>
+      <Name>Environmental</Name>
       <Options>
         <Option>
-          <Key>VURKCH2OP1</Key>
+          <Key>VURKAB2OP1</Key>
           <Name>Cold Blooded</Name>
-          <Description>Vurks add [SE] to all checks they make while in cold environments (in addition to any other penalties).</Description>
+          <Description>Vurk take an additional [SE] in cold environments.</Description>
         </Option>
       </Options>
     </OptionChoice>

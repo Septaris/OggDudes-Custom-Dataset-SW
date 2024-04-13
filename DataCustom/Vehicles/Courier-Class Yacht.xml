@@ -6,18 +6,24 @@
     [H3]Courier-Class Yacht[h3]
 
 Courier ships can range in size from small, one- or two-man ships like, all the way up to larger ships like the YKL-37R Nova and BR-23 that could transport troops and bulk cargo. In addition, courier ships were often well-armed to provide security for their important shipments.</Description>
-  <Source>Jewel of Yavin</Source>
+  <Source Page="91">Jewel of Yavin</Source>
   <Custom>DescOnly</Custom>
   <Type>Yacht</Type>
   <Categories>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>3</HP>
   <Price>185000</Price>
   <Rarity>5</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
   <HyperdriveBackup>14</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srMedium</SensorRangeValue>
   <Crew>19 crew</Crew>
   <EncumbranceCapacity>50</EncumbranceCapacity>
   <Passengers>25</Passengers>
@@ -26,50 +32,96 @@ Courier ships can range in size from small, one- or two-man ships like, all the 
   <Speed>3</Speed>
   <Handling>2</Handling>
   <DefFore>1</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>3</Armor>
   <HullTrauma>20</HullTrauma>
   <SystemStrain>20</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
       </Qualities>
       <Key>BLASTCANLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
       </Qualities>
       <Key>BLASTCANLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
       </Qualities>
       <Key>BLASTCANLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

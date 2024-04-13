@@ -5,7 +5,7 @@
   <Description>
     [H4]Gotal[h4]
 
-The shaggy-haired Gotals are an empathetic race of many talents and a benevolent nature. They possess the extraordinary ability to detect and interpret almost every manner of energy field, which allows them to sense the moods and well-being of nearby living beings.
+The shaggy-haired Gotals are an empathic race of many talents and a benevolent nature. They possess the extraordinary ability to detect and interpret almost every manner of energy field, which allows them to sense the moods and well-being of nearby living beings.
 
 [P][B]Physiology:[b] Gotals are tall, burly humanoids that evolved as hunter-gatherer tribes on the harsh plains of Antar 4. A coarse, dense layer of fur covers these rugged bipeds in shades ranging from sandy brown to smoky gray. Tiny vestigial nostrils, a pair of beady red eyes, and a wide grimace adorn their gristly, elongated faces. From their heavily knobbed brow sprouts a pair of conical bovid horns packed with millions of nerve clusters sensitive to electromagnetic fields, radio waves, and numerous other forms of energy. Gotals use their energy-detecting horns as their primary sensory organs, since the peculiar conditions of their moon make it difficult to function by sight alone.
 
@@ -27,7 +27,7 @@ discreet in their social interactions, avoiding expressing negative opinions to 
 [P][B]Language:[b] Antarian primarily relies upon the reading of brain waves and electromagnetic auras to decipher emotions and basic concepts, and supplements this with speech used to convey abstract or complex ideas. To other species, the vocalization of Antarian sounds like a gurgled monotone, but to Gotals it has breadth and inflection thanks to the ever-shifting modulation created by the moods and thoughts of those around them. Due to their ability to detect these emotions with their horns, the Gotal language has no words to express concepts like happiness or sadness. The extra sense Gotals use to communicate makes it impossible for other living beings to speak Antarian fluently.
 
 [P]Gotals speak Basic to interact with other species, but using vocalized speech to express emotion is a concept too foreign for most Gotals to grasp. Therefore, when Gotals use Basic, they speak in neutral terms devoid of any emotion or emphasis. This dull monotone often brings the sincerity of Gotals into question. Superstition that Gotals can read minds also leaves non-Gotals unsettled, widening the rift between species.</Description>
-  <Source>Fly Casual</Source>
+  <Source Page="21">Fly Casual</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
@@ -46,9 +46,13 @@ discreet in their social interactions, avoiding expressing negative opinions to 
     <SkillModifier>
       <Key>PERC</Key>
       <RankStart>1</RankStart>
+      <RankAdd>0</RankAdd>
       <RankLimit>2</RankLimit>
+      <isCareer>false</isCareer>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers>
+  </TalentModifiers>
   <OptionChoices>
     <OptionChoice>
       <Key>GOTALOC1</Key>

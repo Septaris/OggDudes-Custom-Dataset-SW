@@ -3,9 +3,11 @@
   <Key>PATH</Key>
   <Name>Pathfinder</Name>
   <Description>[H4]Pathfinder[h4]
+
 Few are as capable of exploring a planet and discovering its secrets as a Pathfinder. The combination of Pathfinders' Force talents and their training enables them to quickly and precisely complete a search, even under the most adverse conditions. A Pathfinder can survive in a hostile wilderness for weeks or months, living off the land with minimal supplies and possibly a faithful companion animal. In fact, some Pathfinders are said to be able to bond with their companions through the Force, communicating with them mentally, seeing through their senses, and even directing their actions.
 [P]Pathfinders acquire [B]Medicine, Ranged (Light), Resilience,[b] and [B]Survival[b] as additional career skills. If this is the character's starting specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. These skills are focused on complementing the Seeker's career skills, so that the character becomes even more capable of operating independently. The addition of Medicine is primarily for personal benefit but can also be useful in aiding the character's companions.
 [P]Some Pathfinders follow this career because they discover they have a knack for independent survival. This is most commonly true for Force-sensitive Individuals who matured on primitive and uncivilized planets. If his small community was surrounded by hostile wilderness, a character is certain to have spent his youth exploring that environment—likely making friends with many of the wild animals present there. Pathfinders' natural abilities likely led them to a position of some responsibility within their tribe. Their roles might have included securing the safety of the surrounding wilderness and maintaining any trails leading to agricultural resources or other necessities needed by the community's residents.
+
 [P]Others who follow the Pathfinder career do so out of a preference for the company of animals over that of sentient beings. Through their Force abilities, some learn to establish effective communications with the relatively primitive minds. In these interactions, they find that they enjoy the sincerity and straightforward nature of wild creatures.</Description>
   <Source Page="89">Force and Destiny Core Rulebook</Source>
   <Custom>DescOnly</Custom>
@@ -17,6 +19,7 @@ Few are as capable of exploring a planet and discovering its secrets as a Pathfi
   </CareerSkills>
   <TalentRows>
     <TalentRow>
+      <Index>0</Index>
       <Cost>5</Cost>
       <Talents>
         <Key>GRIT</Key>
@@ -26,20 +29,33 @@ Few are as capable of exploring a planet and discovering its secrets as a Pathfi
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>10</Cost>
       <Talents>
         <Key>KEENEYED</Key>
@@ -49,6 +65,7 @@ Few are as capable of exploring a planet and discovering its secrets as a Pathfi
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
@@ -57,6 +74,7 @@ Few are as capable of exploring a planet and discovering its secrets as a Pathfi
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
@@ -66,11 +84,14 @@ Few are as capable of exploring a planet and discovering its secrets as a Pathfi
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>15</Cost>
       <Talents>
         <Key>ANIMALEMP</Key>
@@ -80,25 +101,33 @@ Few are as capable of exploring a planet and discovering its secrets as a Pathfi
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>20</Cost>
       <Talents>
         <Key>MENTBOND</Key>
@@ -108,25 +137,33 @@ Few are as capable of exploring a planet and discovering its secrets as a Pathfi
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>25</Cost>
       <Talents>
         <Key>SHAREPAIN</Key>
@@ -136,20 +173,63 @@ Few are as capable of exploring a planet and discovering its secrets as a Pathfi
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
     </TalentRow>
   </TalentRows>
+  <Universal>false</Universal>
+  <Attributes>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
+    <Experience>0</Experience>
+    <ForceRating>0</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+    </Requirement>
+  </Attributes>
+  <Requirements>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
+    <Experience>0</Experience>
+    <ForceRating>0</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+    </Requirement>
+  </Requirements>
 </Specialization>

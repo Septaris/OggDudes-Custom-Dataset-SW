@@ -20,9 +20,10 @@ Botajef Shipyards is a small shipbuilding concern located on the Outer Rim world
   <HyperdriveBackup>12</HyperdriveBackup>
   <NaviComputer>true</NaviComputer>
   <SensorRangeValue>srShort</SensorRangeValue>
-  <Crew>One pilot, one co-pilot.</Crew>
+  <Crew>One pilot, one co-pilot</Crew>
   <EncumbranceCapacity>30</EncumbranceCapacity>
   <Passengers>10</Passengers>
+  <Consumables>Two weeks</Consumables>
   <Silhouette>3</Silhouette>
   <Speed>3</Speed>
   <Handling>1</Handling>
@@ -48,6 +49,7 @@ Botajef Shipyards is a small shipbuilding concern located on the Outer Rim world
     <VehicleWeapon>
       <FiringArcs>
         <Aft>true</Aft>
+        <Dorsal>true</Dorsal>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Dorsal</Location>

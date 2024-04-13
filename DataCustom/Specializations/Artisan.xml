@@ -3,8 +3,11 @@
   <Key>ARTISAN</Key>
   <Name>Artisan</Name>
   <Description>[H4]Artisan[h4]
+
 Some Force users have an innate skill with tools and machines. These skilled artificers can use their skill with the Force to enhance their abilities, and even intuitively understand a machine's form and function. After all, while tools and machines may not be alive, the Force envelopes everything in the galaxy. Artisans feel the Force that surrounds their tools and the items they work on, using this connection to build creations of wondrous beauty and precision. An Artisan does not create scores of the same item for sale Of distribution. Instead, each of his creations is individual and iconic, a true work of art.
+
 [P]Artisans acquire [B]Astrogation, Computers, Knowledge (Education),[b] and [B]Mechanics[b] as additional career skills. If this is the character's starting specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. In order to fully integrate their Force abilities with the devices they manipulate, Artisans must first have a solid understanding of how those tools work. This requires a fundamental educational grounding in the principles of technology.
+
 [P]Within urban environments, individuals who never learn to recognize their Force talents are prone to follow the Artisan's path. This is because they are surrounded by technology, and if these individuals take an interest in how things work and how to repair them, their Force abilities may naturally develop in concert. When faced with a broken machine, they can often identify the problem in an intuitive way—some even claim that the machines "speak" to them. Some Artisans live up to the stereotype of the messy inventor, while others remain meticulously neat or even take pains to disguise their craftsmanship from casual observers.</Description>
   <Source Page="93">Force and Destiny Core Rulebook</Source>
   <Custom>DescOnly</Custom>
@@ -16,6 +19,7 @@ Some Force users have an innate skill with tools and machines. These skilled art
   </CareerSkills>
   <TalentRows>
     <TalentRow>
+      <Index>0</Index>
       <Cost>5</Cost>
       <Talents>
         <Key>SOLREP</Key>
@@ -25,20 +29,33 @@ Some Force users have an innate skill with tools and machines. These skilled art
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>10</Cost>
       <Talents>
         <Key>GRIT</Key>
@@ -48,6 +65,7 @@ Some Force users have an innate skill with tools and machines. These skilled art
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
@@ -62,15 +80,18 @@ Some Force users have an innate skill with tools and machines. These skilled art
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>15</Cost>
       <Talents>
         <Key>INVENT</Key>
@@ -80,6 +101,7 @@ Some Force users have an innate skill with tools and machines. These skilled art
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
@@ -88,19 +110,24 @@ Some Force users have an innate skill with tools and machines. These skilled art
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>20</Cost>
       <Talents>
         <Key>SOLREP</Key>
@@ -110,26 +137,33 @@ Some Force users have an innate skill with tools and machines. These skilled art
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>25</Cost>
       <Talents>
         <Key>MASTART</Key>
@@ -139,22 +173,63 @@ Some Force users have an innate skill with tools and machines. These skilled art
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
     </TalentRow>
   </TalentRows>
+  <Universal>false</Universal>
+  <Attributes>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
+    <Experience>0</Experience>
+    <ForceRating>0</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+    </Requirement>
+  </Attributes>
+  <Requirements>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
+    <Experience>0</Experience>
+    <ForceRating>0</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+    </Requirement>
+  </Requirements>
 </Specialization>

@@ -34,12 +34,17 @@ The Togorian people are a feline warrior species native to the planet Togoria. T
     <SkillModifier>
       <Key>COERC</Key>
       <RankStart>1</RankStart>
+      <RankAdd>0</RankAdd>
+      <RankLimit>0</RankLimit>
+      <isCareer>false</isCareer>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers />
   <OptionChoices>
     <OptionChoice>
       <Key>TOGORIANCH1</Key>
       <Name>Claws</Name>
+      <Description />
       <Options>
         <Option>
           <Key>TOGORIANCH1OP1</Key>
@@ -54,10 +59,16 @@ of 3.</Description>
   </OptionChoices>
   <WeaponModifiers>
     <WeaponModifier>
+      <Unarmed>false</Unarmed>
+      <UnarmedName />
+      <SkillKey />
       <AllSkillKey>BRAWL</AllSkillKey>
+      <Damage>0</Damage>
       <DamageAdd>1</DamageAdd>
       <Crit>3</Crit>
-      <Range>Engaged</Range>
+      <CritSub>0</CritSub>
+      <Range />
+      <Qualities />
     </WeaponModifier>
   </WeaponModifiers>
 </Species>

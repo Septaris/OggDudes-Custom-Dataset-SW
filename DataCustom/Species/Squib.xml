@@ -8,7 +8,7 @@ Squibs are a sentient species from Skor II known for collecting, trading, and ha
 
 [P][B]Physiology:[b] Squibs are small, sentient, humanoid mammals with both rodent and canine characteristics. They range from 0.8 to 1.2 meters in height[11] and weigh twenty-two kilograms on average. Their pink skin is covered in fur that range from white, gray, black, and brown to blue, violet, and red. The coat offers some protection from cold weather, but, more importantly, it serve as an olfactory organ, able to pick up scents at a distance and ascertain intrinsic details—such as penetrating through a disguise or identifying a forgery—when rubbed against. The species has both male and female sexes, although non-Squibs often have difficulty determining the sex of a Squib based on his or her appearance alone.
 
-[P]Squib eyes are large in relation to the skull and located on the sides of the head. They come in shades of blue, yellow, red, and brown. Their large ears often sport tufts of fur whose color can differ from that of the main coat; the ears point upward and can pivot to zero in on specific sounds. The short Squib muzzle tapers to a bewhiskered black nose. Their mouths are full of forbidding, sharp, white teeth, and their flexible cheeks are capable of storing items. The species has nimble, five-fingered hands and five toes on each foot. Non-Squibs often consider the small beings humorous or cute in appearance.
+[P]Squib eyes are large in relation to the skull and located on the sides of the head. They come in shades of blue, yellow, red, and brown. Their large ears often sport tufts of fur whose color can differ from that of the main coat; the ears point upward and can pivot to zero in on specific sounds. The short Squib muzzle tapersd to a bewhiskered black nose. Their mouths are full of forbidding, sharp, white teeth, and their flexible cheeks are capable of storing items. The species has nimble, five-fingered hands and five toes on each foot. Non-Squibs often consider the small beings humorous or cute in appearance.
 
 [P]The Squibs have quick metabolisms and relatively short life spans. A Squib is considered a child—referred to as a fuzzling—until nine standard years of age. As he or she matures, the fur changes color, a phenomenon that causes a dappled appearance on the back; similarly, the eyes and ears grow more quickly than the rest of the body, causing the latter to flop until the rest of the fuzzling's body grows enough to catch up. Sexual maturity occurs at thirteen standard years. Beginning at around thirty-nine years, a Squib enters middle age, when the fur grays and the face wrinkles. Squib life expectancy is about sixty-five standard years.
 
@@ -40,12 +40,17 @@ Squibs are a sentient species from Skor II known for collecting, trading, and ha
     <SkillModifier>
       <Key>NEG</Key>
       <RankStart>1</RankStart>
+      <RankAdd>0</RankAdd>
+      <RankLimit>0</RankLimit>
+      <isCareer>false</isCareer>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers />
   <OptionChoices>
     <OptionChoice>
       <Key>SQUIBCH1</Key>
       <Name>Skill</Name>
+      <Description />
       <Options>
         <Option>
           <Key>SQUIBCH1OP1</Key>
@@ -56,15 +61,20 @@ career.</Description>
           <SkillModifiers>
             <SkillModifier>
               <Key>MECH</Key>
+              <RankStart>0</RankStart>
+              <RankAdd>0</RankAdd>
+              <RankLimit>0</RankLimit>
               <isCareer>true</isCareer>
             </SkillModifier>
           </SkillModifiers>
+          <TalentModifiers />
         </Option>
       </Options>
     </OptionChoice>
     <OptionChoice>
       <Key>SQUIBCH2</Key>
       <Name>Size</Name>
+      <Description />
       <Options>
         <Option>
           <Key>SQUIBCH2OP1</Key>
@@ -74,4 +84,5 @@ career.</Description>
       </Options>
     </OptionChoice>
   </OptionChoices>
+  <WeaponModifiers />
 </Species>

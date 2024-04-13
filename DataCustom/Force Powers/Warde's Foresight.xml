@@ -6,10 +6,11 @@
 Warde’s Foresight differs from many other prophetic abilities in that it focuses very narrowly on a specific person. At the most basic level, it observes not the future of the cosmos but the fate of a particular individual. However, even these hints that Warde’s power of prophecy grants are only likelihoods. The future is volatile, shifting with the choices of individuals. Even the decision whether or not to act on these visions of possible futures can alter results they foreshadowed.
 [P]The basic power has one way to spend Force points: the user may spend [FP] to gain hints about what an individual within short range is likely to do in the near future. In structured gameplay, this knowledge does not typically extend beyond the end of the current encounter.
 </Description>
-  <Source>Chronicles of the Gatekeeper</Source>
+  <Source Page="10">Chronicles of the Gatekeeper</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>WARFORBASIC</Key>
         <Key>WARFORBASIC</Key>
@@ -18,13 +19,29 @@ Warde’s Foresight differs from many other prophetic abilities in that it focus
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
-        <Direction />
-        <Direction />
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
       </Directions>
       <AbilitySpan>
         <Span>3</Span>
@@ -40,6 +57,7 @@ Warde’s Foresight differs from many other prophetic abilities in that it focus
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>WARFORRANGE</Key>
         <Key>WARFORCONTROL1</Key>
@@ -48,16 +66,27 @@ Warde’s Foresight differs from many other prophetic abilities in that it focus
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
@@ -75,6 +104,7 @@ Warde’s Foresight differs from many other prophetic abilities in that it focus
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>WARFORSTRENGTH</Key>
         <Key>WARFORCONTROL2</Key>
@@ -83,19 +113,28 @@ Warde’s Foresight differs from many other prophetic abilities in that it focus
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
       <AbilitySpan>
@@ -112,6 +151,7 @@ Warde’s Foresight differs from many other prophetic abilities in that it focus
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>WARFORRANGE</Key>
         <Key>WARFORDURATION</Key>
@@ -120,19 +160,27 @@ Warde’s Foresight differs from many other prophetic abilities in that it focus
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
@@ -150,6 +198,7 @@ Warde’s Foresight differs from many other prophetic abilities in that it focus
       </Costs>
     </AbilityRow>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>WARFORSTRENGTH</Key>
         <Key>WARFORCONTROL4</Key>
@@ -158,12 +207,28 @@ Warde’s Foresight differs from many other prophetic abilities in that it focus
       </Abilities>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
-        <Direction />
-        <Direction />
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
       <AbilitySpan>
@@ -180,4 +245,5 @@ Warde’s Foresight differs from many other prophetic abilities in that it focus
       </Costs>
     </AbilityRow>
   </AbilityRows>
+  <MinForceRating>1</MinForceRating>
 </ForcePower>

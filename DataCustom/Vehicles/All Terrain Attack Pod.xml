@@ -17,8 +17,36 @@ Initially produced during the height of the Clone Wars, the AT-AP self-propelled
   <Price>100000</Price>
   <Rarity>6</Rarity>
   <Restricted>true</Restricted>
+  <WeaponModifiers>
+    <WeaponModifier>
+      <UnarmedName>Heavy Mass Driver</UnarmedName>
+      <SkillKey>GUNN</SkillKey>
+      <Damage>8</Damage>
+      <Crit>3</Crit>
+      <Scale>wsPlanetary</Scale>
+      <Qualities>
+        <Quality>
+          <Key>BREACH</Key>
+          <Count>4</Count>
+        </Quality>
+        <Quality>
+          <Key>SLOWFIRING</Key>
+          <Count>1</Count>
+        </Quality>
+      </Qualities>
+      <VehicleWeaponProperties>
+        <Location>Forward</Location>
+        <FiringArcs>
+          <Fore>true</Fore>
+        </FiringArcs>
+      </VehicleWeaponProperties>
+      <VehicleWeaponCount>1</VehicleWeaponCount>
+      <RangeValue>wrExtreme</RangeValue>
+      <Range>Extreme</Range>
+    </WeaponModifier>
+  </WeaponModifiers>
   <SensorRangeValue>srMedium</SensorRangeValue>
-  <Crew>One pilot, two gunners.</Crew>
+  <Crew>One pilot, two gunners</Crew>
   <EncumbranceCapacity>12</EncumbranceCapacity>
   <Silhouette>3</Silhouette>
   <Speed>2</Speed>
@@ -29,18 +57,10 @@ Initially produced during the height of the Clone Wars, the AT-AP self-propelled
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
-      </FiringArcs>
-      <Location>Forward</Location>
-      <Key>HEAVYMASSDRIVER</Key>
-    </VehicleWeapon>
-    <VehicleWeapon>
-      <FiringArcs>
-        <Fore>true</Fore>
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
         <Dorsal>true</Dorsal>
-        <Ventral>true</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Dorsal</Location>

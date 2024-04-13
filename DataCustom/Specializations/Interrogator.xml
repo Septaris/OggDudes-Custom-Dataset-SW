@@ -2,7 +2,7 @@
 <Specialization>
   <Key>INTERROGATOR</Key>
   <Name>Interrogator</Name>
-  <Description>[H4] Interrogator – Ensuring Answers[h4]
+  <Description>[H4] Interrogator - Ensuring Answers[h4]
 A portion of the most critical military intelligence is never officially documented. Some parts might not even seem like valuable information at first. A Slicer may never uncover a minister's esoteric hobbies that could be used for blackmail. An Infiltrator might not recognize that an old plaque conceals a datachip loaded with secrets. Skilled Interrogators, however, can uncover secrets that their subjects might not even recognize they possess. Often, this requires that the subject be captured first, but some operatives are so skilled and subtle that they can extract secrets from targets through casual conversation without letting the targets realize what has happened. These specialists grant the Rebellion unexpected and unorthodox advantages that it needs to succeed against enormous odds.
 [P]Interrogators acquire [B]Charm, Coercion, Medicine,[b] and [B]Perception[b] as additional career skills. If this is the character's starting specialization, the player may choose two of these skills and gain one free rank in each without spending starting experience.
 [P]In order to successfully question a target, an Interrogator needs to have some background info about the subject, possibly including personality traits, loved ones, and interests, in addition to knowing what type of information to seek. Personal history is critical to gaining leverage over a target. Interrogators must be versed in a range of information extraction techniques so that they can determine the best method for a particular foe. Physical coercion can work effectively against some enemies, but for others, psychological attacks are far more efficient. Recognizing the best technique and having the appropriate tools readily available makes each interrogation faster and the results more reliable.
@@ -96,7 +96,7 @@ A portion of the most critical military intelligence is never officially documen
     <TalentRow>
       <Cost>20</Cost>
       <Talents>
-        <Key>RESISTQUEST</Key>
+        <Key>RESISTQUESTIMP</Key>
         <Key>INTIM</Key>
         <Key>KNOWWEAK</Key>
         <Key>KNOWWEAKIMP</Key>

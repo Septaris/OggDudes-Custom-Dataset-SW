@@ -35,17 +35,20 @@ Mikkians are a diverse species characterized by a variety of bright skin tones a
     <SkillModifier>
       <Key>DISC</Key>
       <RankStart>1</RankStart>
+      <RankLimit>2</RankLimit>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers>
+  </TalentModifiers>
   <OptionChoices>
     <OptionChoice>
-      <Key>MIKKIANCH1</Key>
-      <Name>Physiology</Name>
+      <Key>MIKKIANAB1</Key>
+      <Name>Senses</Name>
       <Options>
         <Option>
-          <Key>MIKKIANCH1OP1</Key>
+          <Key>MIKKIANAB1OP1</Key>
           <Name>Sensory Tendrils</Name>
-          <Description>Mikkians add [BO] to all Perception checks they make.</Description>
+          <Description>Mikkians add [BO] to all Perception checks.</Description>
           <DieModifiers>
             <DieModifier>
               <SkillKey>PERC</SkillKey>

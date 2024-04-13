@@ -17,7 +17,7 @@ Zabrak resemble humans in skin tone and physique. but they are easily distinguis
 [P][B]Homeworld:[b] Zabrak are native to Iridonia, a world located in the Mid Rim. Because its environment is so hostile to life—conditions include brutal weather. acidic seas, and a host of predatory wildlife—many Zabrak were quick to embrace spacefaring and migrate to other worlds. Consequently, many Zabrak identify themselves with their colony world rather than the homeworld of their species. Zabrak colonies can now be found spread across the galaxy. from established colonies on major metropolitan worlds to enclaves in entirely unexpected locations, such as the mountain colonies found on Dathomir. The Dathomirian Zabrak emphasize their culture's warlike tendencies to the exclusion of all else, and tend to be even more violent and dangerous than their off-world kin.
 
 [P][B]Language:[b] The native language of Zabrak from Iridonia is Zabraki. However, because of their long association with broader galactic civilization, almost all Zabrak also speak Basic.</Description>
-  <Source>Force and Destiny Core Rulebook</Source>
+  <Source Page="62">Force and Destiny Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
@@ -38,10 +38,13 @@ Zabrak resemble humans in skin tone and physique. but they are easily distinguis
       <RankStart>1</RankStart>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers>
+  </TalentModifiers>
   <OptionChoices>
     <OptionChoice>
       <Key>ZABRAKOC1</Key>
       <Name>Fear</Name>
+      <Description />
       <Options>
         <Option>
           <Key>ZABRAKOC1OP1</Key>
@@ -56,8 +59,10 @@ Zabrak resemble humans in skin tone and physique. but they are easily distinguis
               <AdvantageCount>1</AdvantageCount>
             </DieModifier>
           </DieModifiers>
+          <TalentModifiers />
         </Option>
       </Options>
     </OptionChoice>
   </OptionChoices>
+  <WeaponModifiers />
 </Species>

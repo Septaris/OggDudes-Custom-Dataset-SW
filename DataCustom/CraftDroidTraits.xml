@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <CraftDroidTraits>
+
+
+
   <CraftDroidTrait>
     <Key>NEG1</Key>
     <Name>Cowardly</Name>
@@ -81,6 +84,7 @@
     <Custom>DescOnly</Custom>
     <IsNegative>true</IsNegative>
   </CraftDroidTrait>
+
 <CraftDroidTrait>
     <Key>POS1</Key>
     <Name>Loyal</Name>
@@ -153,4 +157,7 @@
     <Source Page="83">Special Modifications</Source>
     <Custom>DescOnly</Custom>
   </CraftDroidTrait>
+
+
+
   </CraftDroidTraits>

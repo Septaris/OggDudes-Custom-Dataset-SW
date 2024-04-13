@@ -11,29 +11,35 @@ The spiritual successor to CEC's ancient YG series, the new YV-560 series is a m
 
 [P]The vessels themselves have all the hallmarks of CEC's ship-architecture philosophy. Similar in size and shape to the venerable YT-1000, the YV-560 series has the iconic saucer-shaped hull possessed by most of CEC's light freighters. While they are lightly armed and armored, they have sturdy hulls and can withstand a surprising amount of punishment. The two-position command pod is centrally mounted on the dorsal side of the vessel, and two powerful sensor booms extend forward from the hull, for an appearance slightly reminiscent of the YT-1300's loading mandibles. The interior of the ship is laid out in a similar fashion to other CEC-series ships, with good accommodations for passengers and crew and comfortable, if perhaps a touch limited, common areas, galleys, and heads.
 
-[P]Along with its common monitoring systems, the ship contains a powerful scientific computer designed to aid explorers in scientific pursuits, with a main terminal in the common area and smaller remote terminals in each passenger berth. Along with its regular navigation sensors, the YV-560 is also equipped with a powerful, high-definition, precision planetary-scanning array that allows it to survey a new planet from orbit. While they have only been on the market for a few years, the YV-560s have lived up to their advertising and more than one scientific expedition is based out of these new ships.</Description>
-  <Source>Enter the Unknown</Source>
+[P]Along with its common monitoring systems, the ship contains a powerful scientific computer designed to aid explorers in scientific pursuits, with a main terminal in the common area and smaller remote terminals in each passenger berth. Along with its regular navigation sensors, the YV-560 is also equipped with a powerful, high-definition, precision planetary-scanning array that allows it to survey a new planet from orbit. While they have only been on the market for a few years, the YV-560s have lived up to their advertis-ing and more than one scientific expedition is based out of these new ships.</Description>
+  <Source Page="66">Enter the Unknown</Source>
   <Custom>DescOnly</Custom>
   <Type>Freighter</Type>
   <Categories>
     <Category>Non-Fighter Starship</Category>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>4</HP>
   <Price>120000</Price>
   <Rarity>7</Rarity>
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
   <HyperdriveBackup>15</HyperdriveBackup>
   <StarFighters>None</StarFighters>
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srLong</SensorRangeValue>
   <Crew>One pilot, one copilot/engineer</Crew>
   <EncumbranceCapacity>80</EncumbranceCapacity>
   <Passengers>5</Passengers>
   <Consumables>Eight months</Consumables>
   <Silhouette>4</Silhouette>
   <Speed>3</Speed>
+  <Handling>0</Handling>
   <DefFore>1</DefFore>
   <DefAft>1</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>3</Armor>
   <HullTrauma>20</HullTrauma>
   <SystemStrain>20</SystemStrain>
@@ -45,17 +51,23 @@ The spiritual successor to CEC's ancient YG series, the new YV-560 series is a m
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERMED</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

@@ -25,7 +25,8 @@ The Xexto are a wiry, six-limbed species of humanoids with tiny heads atop long 
 [P]The forests of Troiken house two-thirds of the world's Xexto. Historically, the Xexto's earliest cities were primitive tree houses connected by cables near mountains. Early Xexto had to contend with dozens of forest predators, and while most predators still exist on Troiken today, they are predominantly in zoological exhibits and preserves. Of course, this only rarely stops Xexto from hopping a fence to slap a horn-faced surtops in the flank.
 
 [P][B]Language:[b] The Xexto have developed the Xextese language, which consists of rapid nasal jabbering. Xextese also has a written component, but few non-Xexto bother to learn to speak or read Xextese. Most Xexto have learned to speak at least a broken version of Basic or Huttese, which sounds like a reedy and nasal jabbering in their long throats.</Description>
-  <Source>Stay on Target</Source>
+  <Source Page="24">Stay on Target</Source>
+  <Sources />
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>1</Brawn>
@@ -34,22 +35,55 @@ The Xexto are a wiry, six-limbed species of humanoids with tiny heads atop long 
     <Cunning>2</Cunning>
     <Willpower>1</Willpower>
     <Presence>2</Presence>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+    </Requirement>
   </StartingChars>
   <StartingAttrs>
     <WoundThreshold>9</WoundThreshold>
     <StrainThreshold>9</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
     <Experience>85</Experience>
+    <ForceRating>0</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+    </Requirement>
   </StartingAttrs>
+  <SkillModifiers />
   <TalentModifiers>
     <TalentModifier>
       <Key>CONF</Key>
+      <SubSpeciesKey />
+      <RankStart>0</RankStart>
       <RankAdd>1</RankAdd>
+      <RankLimit>0</RankLimit>
+      <Requirement>
+        <WearingArmor>false</WearingArmor>
+        <Career>false</Career>
+        <Specialization>false</Specialization>
+        <NonCareer>false</NonCareer>
+        <SoakAtLeast>0</SoakAtLeast>
+      </Requirement>
     </TalentModifier>
   </TalentModifiers>
   <OptionChoices>
     <OptionChoice>
       <Key>XEXTOCH1</Key>
       <Name>Limbs</Name>
+      <Description />
+      <Source />
+      <Sources />
+      <Custom>Base</Custom>
       <Options>
         <Option>
           <Key>XEXTOCH1OP1</Key>
@@ -59,4 +93,5 @@ The Xexto are a wiry, six-limbed species of humanoids with tiny heads atop long 
       </Options>
     </OptionChoice>
   </OptionChoices>
+  <NoForceAbilities>false</NoForceAbilities>
 </Species>

@@ -3,28 +3,26 @@
   <Key>UNMOB</Key>
   <Name>Unmatched Mobility</Name>
   <Description>Agile and talented, Explorer characters often survive and thrive among the dangers of the galaxy through the use of speed and mobility. A seasoned Explorer can focus under pressure, using adrenaline and training to move around and complete tasks faster than those around him. Some use this ability to evade danger, keeping themselves out of harm's way. Others use it to gain an edge against their foes, outmaneuvering them in battle.</Description>
-  <Source>Enter the Unknown</Source>
+  <Source Page="35">Enter the Unknown</Source>
   <Custom>DescOnly</Custom>
+  <Careers>
+    <Key>EXPLORER</Key>
+  </Careers>
+  <MatchingNodes>
+    <Node>true</Node>
+    <Node>false</Node>
+    <Node>false</Node>
+    <Node>true</Node>
+  </MatchingNodes>
   <AbilityRows>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>UNMOBBASIC</Key>
         <Key>UNMOBBASIC</Key>
         <Key>UNMOBBASIC</Key>
         <Key>UNMOBBASIC</Key>
       </Abilities>
-      <Directions>
-        <Direction>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Down>true</Down>
-        </Direction>
-        <Direction />
-        <Direction>
-          <Down>true</Down>
-        </Direction>
-      </Directions>
       <AbilitySpan>
         <Span>4</Span>
         <Span>0</Span>
@@ -37,6 +35,20 @@
         <Cost>0</Cost>
         <Cost>0</Cost>
       </Costs>
+      <Directions>
+        <Direction>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+        </Direction>
+      </Directions>
     </AbilityRow>
     <AbilityRow>
       <Index>1</Index>
@@ -46,24 +58,6 @@
         <Key>UNMOBFREEMAN</Key>
         <Key>UNMOBMDEF</Key>
       </Abilities>
-      <Directions>
-        <Direction>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Right>true</Right>
-          <Up>true</Up>
-        </Direction>
-        <Direction>
-          <Left>true</Left>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-      </Directions>
       <AbilitySpan>
         <Span>1</Span>
         <Span>1</Span>
@@ -76,6 +70,24 @@
         <Cost>10</Cost>
         <Cost>10</Cost>
       </Costs>
+      <Directions>
+        <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Up>true</Up>
+          <Right>true</Right>
+        </Direction>
+        <Direction>
+          <Left>true</Left>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
+        </Direction>
+      </Directions>
     </AbilityRow>
     <AbilityRow>
       <Index>2</Index>
@@ -85,6 +97,18 @@
         <Key>UNMOBDEST</Key>
         <Key>UNMOBRDEF</Key>
       </Abilities>
+      <AbilitySpan>
+        <Span>1</Span>
+        <Span>1</Span>
+        <Span>1</Span>
+        <Span>1</Span>
+      </AbilitySpan>
+      <Costs>
+        <Cost>15</Cost>
+        <Cost>15</Cost>
+        <Cost>15</Cost>
+        <Cost>15</Cost>
+      </Costs>
       <Directions>
         <Direction>
           <Right>true</Right>
@@ -104,27 +128,6 @@
           <Up>true</Up>
         </Direction>
       </Directions>
-      <AbilitySpan>
-        <Span>1</Span>
-        <Span>1</Span>
-        <Span>1</Span>
-        <Span>1</Span>
-      </AbilitySpan>
-      <Costs>
-        <Cost>15</Cost>
-        <Cost>15</Cost>
-        <Cost>15</Cost>
-        <Cost>15</Cost>
-      </Costs>
     </AbilityRow>
   </AbilityRows>
-  <Careers>
-    <Key>EXPLORER</Key>
-  </Careers>
-  <MatchingNodes>
-    <Node>true</Node>
-    <Node>false</Node>
-    <Node>false</Node>
-    <Node>true</Node>
-  </MatchingNodes>
 </SigAbility>

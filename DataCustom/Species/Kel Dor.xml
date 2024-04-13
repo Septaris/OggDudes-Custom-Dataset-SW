@@ -20,7 +20,7 @@ Best known as a kindly and soft-spoken species, Kel Dors are most easily identif
 [P][B]Homeworld:[b] Dorin is located in the Expansion Region. Due to its location between two black holes, it remained isolated from the rest of the galaxy until only a few centuries before the start of the Galactic Civil War. Dorin's atmosphere is composed largely of helium and a second unidentifiable gas that is unique to the system. Dorin's oxygen levels are low enough that most non-natives require technological assistance to venture there.
 
 [P][B]Language:[b] Kel Dors learn both Kel Dorian and Basic from childhood. They speak Basic as well as any native speaker and seldom speak Kel Dorian off-world. Their native language is easier to speak and understand when they are breathing Dorin's native atmosphere.</Description>
-  <Source>Force and Destiny Core Rulebook</Source>
+  <Source Page="57">Force and Destiny Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>1</Brawn>
@@ -42,6 +42,8 @@ Best known as a kindly and soft-spoken species, Kel Dors are most easily identif
       <RankLimit>2</RankLimit>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers>
+  </TalentModifiers>
   <OptionChoices>
     <OptionChoice>
       <Key>KELDOROC1</Key>
@@ -64,7 +66,7 @@ Best known as a kindly and soft-spoken species, Kel Dors are most easily identif
           <Key>KELDOROC2OP1</Key>
           <Name>Atmospheric Requirement</Name>
           <Description>
-            Kel Dors must wear a specialized mask to breath and see outside of their native atmosphere.  However, Kel Dor may survive in vacuum for up to five minuets before suffering its effects.
+            Kel Dors must wear a specialized mask to breath and see outside of their native atmosphere.  However, Kel Dor may survive in vacuum for up to five minues before suffering its effects.
           </Description>
         </Option>
       </Options>

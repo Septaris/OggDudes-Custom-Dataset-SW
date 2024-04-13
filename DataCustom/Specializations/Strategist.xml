@@ -3,10 +3,15 @@
   <Key>STRATEGIST</Key>
   <Name>Strategist</Name>
   <Description>[H4]Strategist - In For The Long Haul[h4]
+
 Strategists are responsible for forming the core directives used in the war against the Empire. Rather than focusing on individual battles, they analyze the big picture—both what has happened and what is bound to happen should their plans bear fruit. They also monitor the effectiveness of logistics to ensure that military units aren’t too thinly spread or sparsely supplied to be effective. Anything that might change the tide of battle concerns them, and they must possess sharp minds and keen wits to keep all the variables under control.
+
 [P]Strategists receive [B]Computers, Cool, Vigilance,[b] and [B]Knowledge (Warfare)[b] as additional career skills. If this is the character’s starting specialization, the player may choose two of these skills and gain one free rank in each without spending experience. Though they rarely possess direct command of armies or units, Strategists are expected to arrange the highlevel details of the operations and battles the Rebel military must participate in. A Strategist must also be incredibly detail-oriented, as forgetting a minor item when planning a planetary strike could lead to the deaths of thousands of Alliance troops.
+
 [P]Strategists must be able to keep their cool. Viewing the Galactic Civil War from such a lofty vantage point can cause even the most tranquil individuals to break under pressure. In fact, the conflict at hand is so vast and complex that it can be difficult to digest it all, even in multiple sittings. Keeping a cool head also allows the Strategist an opportunity to examine an enemy’s movements in order to discern whether or not it is attempting a feint or a full-fledged assault. Imperial commanders are cunning tacticians, and their ruses can be disastrous if they aren’t seen for what they are before it’s too late.
+
 [P]Obviously, successful Strategists must know the ins and outs of warfare. Being aware of their enemies’ capabilities, as well as those of their own troops, is vital to planning a successful campaign. In addition, possessing intimate knowledge of wars both past and present allows Strategists to learn from the lessons of their predecessors, or to call up a little-used tactic to catch the Empire off guard.
+
 [P]Though a Strategist may seem like an odd choice for the typical Alliance cell, the knowledge and keen insight such a character brings to a party are well worth having. With a little combat training, a Strategist can act as a secondary combatant while watching the battlefield for signs of opportunity or disaster. Given their potential training in both Cool and Vigilance, it’s unlikely that a Strategist will be caught unawares when things turn ugly.</Description>
   <Source Page="32">Lead by Example</Source>
   <Custom>DescOnly</Custom>
@@ -18,6 +23,7 @@ Strategists are responsible for forming the core directives used in the war agai
   </CareerSkills>
   <TalentRows>
     <TalentRow>
+      <Index>0</Index>
       <Cost>5</Cost>
       <Talents>
         <Key>RESEARCH</Key>
@@ -27,18 +33,33 @@ Strategists are responsible for forming the core directives used in the war agai
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
-        <Direction />
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
+          <Down>false</Down>
+        </Direction>
+        <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>10</Cost>
       <Talents>
         <Key>GRIT</Key>
@@ -48,6 +69,7 @@ Strategists are responsible for forming the core directives used in the war agai
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
@@ -55,6 +77,7 @@ Strategists are responsible for forming the core directives used in the war agai
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
@@ -65,11 +88,14 @@ Strategists are responsible for forming the core directives used in the war agai
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>15</Cost>
       <Talents>
         <Key>KNOWSPEC</Key>
@@ -79,27 +105,33 @@ Strategists are responsible for forming the core directives used in the war agai
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>20</Cost>
       <Talents>
         <Key>RESEARCHIMP</Key>
@@ -109,10 +141,13 @@ Strategists are responsible for forming the core directives used in the war agai
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
@@ -125,12 +160,14 @@ Strategists are responsible for forming the core directives used in the war agai
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>25</Cost>
       <Talents>
         <Key>THORASS</Key>
@@ -140,24 +177,31 @@ Strategists are responsible for forming the core directives used in the war agai
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
     </TalentRow>
   </TalentRows>
+  <Universal>false</Universal>
 </Specialization>

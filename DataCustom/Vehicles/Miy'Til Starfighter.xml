@@ -4,51 +4,94 @@
   <Name>Miy'Til Starfighter</Name>
   <Description>[H3]Miy'Til Starfighter[h3]
 The Miy'Til serves as the primary multi-role starfighter in the Hapes Consortium. Its relatively smaller size necessitates many miniaturized components but the the craft nonetheless boasts firepower and maneuverability comparable to its Rebel Alliance and Imperial counterparts. A more advanced "command" version of the fighter has been seen occasionally, but its increased firepower came at a proportionally steeper cost. Usually employed only in light border skirmishes, several more intense engagements have shown the ship can withstand longer deployments if possible.</Description>
-  <Source>Keeping the Peace</Source>
+  <Source Page="61">Keeping the Peace</Source>
   <Custom>DescOnly</Custom>
   <Type>Starfighter</Type>
   <Categories>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>1</HP>
   <Price>210000</Price>
   <Rarity>8</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <WeaponModifiers />
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
   <HyperdriveBackup>12</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srClose</SensorRangeValue>
   <Crew>One pilot</Crew>
   <EncumbranceCapacity>5</EncumbranceCapacity>
+  <Passengers>0</Passengers>
   <Consumables>One day</Consumables>
   <Silhouette>2</Silhouette>
   <Speed>4</Speed>
   <Handling>1</Handling>
   <DefFore>1</DefFore>
   <DefAft>1</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>2</Armor>
   <HullTrauma>7</HullTrauma>
   <SystemStrain>7</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
   <SinglePilot>true</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZoneValue>None</DefZoneValue>
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
+          <InnateSkills />
+          <ActiveQualityKey />
+          <Failed>false</Failed>
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERMED</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>CML</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
+  <BuiltInAttachments />
   <SensorRange>Close</SensorRange>
 </Vehicle>

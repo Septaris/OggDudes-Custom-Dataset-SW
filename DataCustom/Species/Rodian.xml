@@ -18,7 +18,7 @@ Rodians are born to hunt, coming from a hostile world that breeds killer instinc
 [P][B]Homeworld:[b] The world of Rodia in the Mid Rim is the Rodians' planet of origin. It merges urban and industrial development with tracts of untouched rainforest, providing brave Rodian youths with environments in which to test their hunting skills.
 
 [P][B]Language:[b] Because of the structure of their mouths, Rodians have a difficult time speaking Basic and some choose not to even try, relying exclusively on their native tongue, Rodese.</Description>
-  <Source>Edge of the Empire Core Rulebook</Source>
+  <Source Page="49">Edge of the Empire Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>

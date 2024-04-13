@@ -36,17 +36,31 @@ Thisspiasians are a people with great passions tempered by measured calm and dis
     <SkillModifier>
       <Key>DISC</Key>
       <RankStart>1</RankStart>
+      <RankLimit>2</RankLimit>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers>
+  </TalentModifiers>
   <OptionChoices>
     <OptionChoice>
-      <Key>THISSPIASIANCH1</Key>
-      <Name>Physiology</Name>
+      <Key>THISSPIASIANAB1</Key>
+      <Name>Healing</Name>
       <Options>
         <Option>
-          <Key>THISSPIASIANCH1OP1</Key>
-          <Name>Rest and Meditation</Name>
-          <Description>Thisspiasians need very little sleep to function. They only need to sleep for two hours to heal all strain they are suffering from, instead of for a full night (they cannot sleep multiple times in a day, however!). In addition, once per session Thisspiasians may spend ten minutes meditating, if they do so, they heal strain equal to twice their ranks in Discipline.</Description>
+          <Key>THISSPIASIANAB1OP1</Key>
+          <Name>Rest</Name>
+          <Description>Thisspiasians only need two hours sleep to heal all strain.</Description>
+        </Option>
+      </Options>
+    </OptionChoice>
+    <OptionChoice>
+      <Key>THISSPIASIANAB2</Key>
+      <Name>Healing</Name>
+      <Options>
+        <Option>
+          <Key>THISSPIASIANAB2OP1</Key>
+          <Name>Meditation</Name>
+          <Description>Once per session, Thisspiasians may spend ten minutes meditating to heal strain equal to twice their ranks in Discipline.</Description>
         </Option>
       </Options>
     </OptionChoice>

@@ -4,15 +4,24 @@
   <Name>VCX-100 Light Freighter</Name>
   <Description>[H3]VCX-100 Light Freighter[h3]
 [P]Corellian Engineering Corporation boasts a wide array of freighters that have proven tremendously popular, and the VCX-100 is yet another solid entry into the line. Even more so than the majority of Corellian freighters, the ship is easily and extensively modifiable, and can easily be configured to any individual crew's needs, whether it be combat, mass transport or even sneaking past Imperial sensors. It is quite rare to see a stock VCX-100, and certain crews are identified merely by the changes made to the base model - frequently the addition of more firepower. While the ship is not as common as some of the more widespread freighter models, such as the YT-1300, many spaceports often have at least one VCX-100 among their more regular visitors.</Description>
-  <Source>Keeping the Peace</Source>
+  <Source Page="63">Keeping the Peace</Source>
   <Custom>DescOnly</Custom>
   <Type>Light Freighter</Type>
-  <Categories />
+  <Categories>
+    <Category>Starship</Category>
+    <Category>Non-Fighter Starship</Category>
+  </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>5</HP>
   <Price>155000</Price>
   <Rarity>8</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <WeaponModifiers />
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
   <HyperdriveBackup>14</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
   <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot, one co-pilot/engineer, two gunners, two crew</Crew>
@@ -30,6 +39,8 @@
   <HullTrauma>32</HullTrauma>
   <SystemStrain>28</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
@@ -37,42 +48,103 @@
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
+      <Location>Unspecified</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZoneValue>None</DefZoneValue>
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
+          <InnateSkills />
+          <ActiveQualityKey />
+          <Failed>false</Failed>
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
         <Aft>true</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Aft</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZoneValue>None</DefZoneValue>
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
+          <InnateSkills />
+          <ActiveQualityKey />
+          <Failed>false</Failed>
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZoneValue>None</DefZoneValue>
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
+          <InnateSkills />
+          <ActiveQualityKey />
+          <Failed>false</Failed>
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERMED</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
+  <BuiltInAttachments />
   <SensorRange>Short</SensorRange>
 </Vehicle>

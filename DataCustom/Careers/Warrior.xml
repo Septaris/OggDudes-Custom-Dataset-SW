@@ -18,7 +18,7 @@ The Warriors six career skills are [B]Athletics, Brawl, Cool, Melee, Perception,
 [P]The Warrior's greatest strength, however, can also be his most dangerous weakness. Endless aggression can be a path toward the dark side. A wise individual must recognize that violence has its place but is not the only possible answer. A Warrior can inflict substantial and precise damage. However, even carefully applied attacks can still have far-reaching consequences. Because of this, it can be every bit as important for a Warrior to recognize when it is more appropriate not to attack. Some individuals who follow this career consider this sense of judgment to be the most important aspect of their training.
 [P]Warriors can come from a broad range of different cultures and environments. Physical conflict is every bit as common within the civilized and technologically advanced worlds of the Core as it Is within the less structured societies of the Outer Rim. Combat styles and the tools employed within conflicts may change. but the motivations and final outcomes are often similar. Ultimately, Warriors must be willing to risk their own lives so that they can overcome threats to themselves and to those they hold most dear.</Description>
   <Source Page="96">Force and Destiny Core Rulebook</Source>
-  <Custom>DescOnly</Custom>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>ATHL</Key>
     <Key>BRAWL</Key>
@@ -30,13 +30,32 @@ The Warriors six career skills are [B]Athletics, Brawl, Cool, Melee, Perception,
   <Specializations>
     <Key>AGGRES</Key>
     <Key>COLOSSUS</Key>
+    <Key>FORCEADHERENT</Key>
+    <Key>IMPERIALACADEMYCADET</Key>
     <Key>JUYO</Key>
+    <Key>PADAWANSURVIVOR</Key>
+    <Key>PIRATE</Key>
+    <Key>RETIREDCLONETROOPER</Key>
     <Key>SHIICHO</Key>
+    <Key>SHIPCAPTAIN</Key>
     <Key>STARACE</Key>
     <Key>STEELHAND</Key>
   </Specializations>
   <Attributes>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
+    <Experience>0</Experience>
     <ForceRating>1</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+    </Requirement>
   </Attributes>
   <FreeRanks>3</FreeRanks>
 </Career>

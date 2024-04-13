@@ -17,8 +17,8 @@ The Twi'leks are among the most prominent non-human species in the galaxy. They 
 
 [P][B]Language:[b] Ryl is the native tongue of Ryloth, yet there are few Twi'leks who cannot speak Basic fluently. What separates Twi'leks from other species is their second, nonverbal language called Lekku, or "Twi'leki." In everyday conversation, Twi'leks add texture and emphasis to their speech by moving and twitching their head-tails. If privacy is necessary, Twi'leks can converse in complete silence, using only the gestures of their head-tails to pass on complicated information. </Description>
   <Sources>
-    <Source>Edge of the Empire Core Rulebook</Source>
-    <Source>Force and Destiny Core Rulebook</Source>
+    <Source Page="51">Edge of the Empire Core Rulebook</Source>
+    <Source Page="61">Force and Destiny Core Rulebook</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <StartingChars>

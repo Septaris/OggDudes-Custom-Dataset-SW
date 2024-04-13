@@ -27,13 +27,13 @@ These refits also brought a certain amount of commonality
 to each vessel, allowing them to be grouped into a
 single type with Home One as its lead vessel.
 [P]Similar in size, strength, and role to the Imperial
-Navy’s Imperial //-class Star Destroyers, the Home
+Navy’s Imperial II-class Star Destroyers, the Home
 One type is quite an imposing vessel. While ships
 of this type still vary slightly in size and shape, they
 do share many common design cues and possess
 the same quasi-organic look as other Mon Calamari-
 built ships. Each vessel in the class has a long,
-cylindrical hull tapering to a point at the bow and flaring into a flat fantail at the stern. Weapon batteries and sensor arrays are placed around the hull at strategic points, protected by long, armored blisters. Two massive hanger bays are mounted amidships, and thrust is provided by four massive m8.0-StarDrive and six M4.5-StarDrive ion drives mounted astern below the fantail. While the addition of the heavier hill plates and improved armor does not spoil the ships' graceful lines completely, it does give them a bulky, almost humpbacked appearance.
+cylindrical hull tapering to a point at the bow and flaring into a flat fantail at the stern. Weapon batteries and sensor arrays are placed around the hull at strategic points, protected by long, armored blisters. Two massive hanger bays are mounted amidships, and thrust is provided by four massive m8.0-StarDrive and six M4.5-StarDrive ion drives mouned astern below the fantail. While the addition of the heavier hill plates and improved armor does not spoil the ships' graceful lines completely, it does give them a bulky, almost humpbacked appearance.
 [P]Precious few of these ships are currently in service with the Alliance Navy, and High command jealously guards those that are. They are rarely deployed without a heavy escort of smaller cruisers and carriers, and orders are typically given that they are to stay at the rear of an engagement, protected from enemy fire. These orders don't stop bold commanders like Ackbar from running their ships directly into Imperial Navy formations, however. Their powerful weapons and large fighter wings can quickly turn the tide of a battle and their mere presence serves to inspire Alliance personnel, thanks to the grit and bravery of their Mon Calamari crew.</Description>
   <Source Page="53">Lead by Example</Source>
   <Custom>DescOnly</Custom>
@@ -43,15 +43,20 @@ cylindrical hull tapering to a point at the bow and flaring into a flat fantail 
     <Category>Non-Fighter Starship</Category>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>4</HP>
   <Price>112000000</Price>
   <Rarity>8</Rarity>
+  <Restricted>false</Restricted>
   <BaseMods>
     <Mod>
+      <Key />
       <Count>1</Count>
       <MiscDesc>[B]Inspiring Presence 3[b]: When this starship is engaged with the enemy, all allies gain [BO][BO][BO] to any Cool or Discipline checks to resist fear caused by combat.</MiscDesc>
     </Mod>
   </BaseMods>
+  <WeaponModifiers />
+  <MaxAltitude />
   <HyperdrivePrimary>1</HyperdrivePrimary>
   <HyperdriveBackup>9</HyperdriveBackup>
   <StarFighters>120 starfighters, numerous shuttles, landing craft, gunboats, assault craft, vehicles, and landing barges</StarFighters>
@@ -73,12 +78,20 @@ cylindrical hull tapering to a point at the bow and flaring into a flat fantail 
   <SystemStrain>90</SystemStrain>
   <Starship>true</Starship>
   <Massive>3</Massive>
+  <SinglePilot>false</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
@@ -90,9 +103,16 @@ cylindrical hull tapering to a point at the bow and flaring into a flat fantail 
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
@@ -104,9 +124,16 @@ cylindrical hull tapering to a point at the bow and flaring into a flat fantail 
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
@@ -118,9 +145,16 @@ cylindrical hull tapering to a point at the bow and flaring into a flat fantail 
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
         <Aft>true</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Aft</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
@@ -133,48 +167,96 @@ cylindrical hull tapering to a point at the bow and flaring into a flat fantail 
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>IONBATT</Key>
       <Count>12</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>IONBATT</Key>
       <Count>12</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>IONBATT</Key>
       <Count>12</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERQUAD</Key>
       <Count>20</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERQUAD</Key>
       <Count>30</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERQUAD</Key>
       <Count>30</Count>
     </VehicleWeapon>
@@ -184,11 +266,16 @@ cylindrical hull tapering to a point at the bow and flaring into a flat fantail 
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Hull</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>TRACTHVY</Key>
       <Count>6</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Long</SensorRange>
+  <BuiltInAttachments />
 </Vehicle>

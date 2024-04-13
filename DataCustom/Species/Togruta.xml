@@ -19,7 +19,7 @@ A carnivorous humanoid species from the planet Shill, Togrutas are easily recogn
 [P]However, many Togrutas have traveled off-world to establish colonies in the years since they became aware of wider galactic society. Freed from some of the traditions of their homeworld, these Togruta colonies have developed wildly different cultural paths. The artisan colony of Kiros, for example, focuses on nurturing creative expression and peaceful coexistence, along with a higher level of individuality among its citizens. Colonial Togrutas can thus differ greatly in outlook and attitudes from their cousins on Shili.
 
 [P][B]Language:[b] The Togrutas were members of the Old Republic for thousands of years. While all speak the native tongue of Togruti, most also speak Basic. Togruti incorporates trills, which have varied meanings depending upon tremors from a speakers head-tails.</Description>
-  <Source>Force and Destiny Core Rulebook</Source>
+  <Source Page="60">Force and Destiny Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>1</Brawn>
@@ -33,6 +33,7 @@ A carnivorous humanoid species from the planet Shill, Togrutas are easily recogn
     <WoundThreshold>10</WoundThreshold>
     <StrainThreshold>10</StrainThreshold>
     <Experience>100</Experience>
+    <ForceRating>0</ForceRating>
   </StartingAttrs>
   <SkillModifiers>
     <SkillModifier>
@@ -40,10 +41,12 @@ A carnivorous humanoid species from the planet Shill, Togrutas are easily recogn
       <RankStart>1</RankStart>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers />
   <OptionChoices>
     <OptionChoice>
       <Key>TOGRUTAOC1</Key>
       <Name>Combat</Name>
+      <Description />
       <Options>
         <Option>
           <Key>TOGRUTAOC1OP1</Key>
@@ -55,4 +58,5 @@ A carnivorous humanoid species from the planet Shill, Togrutas are easily recogn
       </Options>
     </OptionChoice>
   </OptionChoices>
+  <WeaponModifiers />
 </Species>

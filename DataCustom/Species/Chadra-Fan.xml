@@ -27,7 +27,7 @@ There are few species in the galaxy as gregarious or as overwhelmingly cheerful 
 [P]Chadra-Fan farm wander-kelp and slugs in paddies, most of which are exported as feed for herd animals, though the wander-kelp also has medicinal properties with applications across the galaxy. The bravest Chadra-Fan and human colonists live in large ocean platforms or mobile arks, where they live as ranchers, raising the massive, corvette-sized bildogs and docile sea cows. Most of these ranches have a remote-controlled buoy system that emits a shock if a branded creature swims too close. Ranchers often tend their herd from the back of a cy'een, tsaelke, or methnap, three very similar, long-necked amphibians known for their grace in the water and melodic calls.
 
 [P][B]Language:[b] The Chadra-Fan have a native language of high-pitched chitters and squeaks that reach into the ultra-sonic range. Due to the limits of most humanoid hearing and vocal chords, Chadra-Fan not fluent in Basic often need an interpreter or protocol droid. However, most Chadra-Fan speak Basic, thanks to dozens of human colony arks floating on Chad's oceans. The Chadra-Fan language does not use a pause or silence to separate words or thoughts, and as a result, they tend to speak Basic very quickly, endlessly stringing words and sentences together without pause. Their Basic comes out high-pitched and squeaky, and can quickly grate on those with a preference for peace and quiet.</Description>
-  <Source>Stay on Target</Source>
+  <Source Page="20">Stay on Target</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>1</Brawn>
@@ -49,6 +49,8 @@ There are few species in the galaxy as gregarious or as overwhelmingly cheerful 
       <RankLimit>2</RankLimit>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers>
+  </TalentModifiers>
   <OptionChoices>
     <OptionChoice>
       <Key>CHADAB1</Key>
@@ -75,7 +77,7 @@ There are few species in the galaxy as gregarious or as overwhelmingly cheerful 
       <Options>
         <Option>
           <Key>CHADAB1SIZ</Key>
-          <Name>Reduced Silhouette</Name>
+          <Name>Reduced Silouette</Name>
           <Description>
             Chadra-Fan have a Silhouette of 0.
           </Description>

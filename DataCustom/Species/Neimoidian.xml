@@ -17,7 +17,7 @@ The Neimoidian species is an offshoot of the Duros, diverging physiologically an
 [P][B]Homeworld:[b] The ancient Duros colony world of Neimoidia is far from an ideal habitat. It has a dim sun and high gravity, as well as dismal fogs throughout most of the year. Despite these disadvantages, the colonists eventually developed it into a thriving center of industry and expanded outward to a number of nearby worlds. These secondary colonies—known as the Neimoidian purse worlds—hold as much cultural significance for the species as Neimoidia itself. The most prominent purse worlds are Cato Neimoidia, Deko Neimoidia, and Koru Neimoidia, all of which were eventually developed to the point of becoming more desirable and hospitable destinations than the Neimoidian homeworld.
 
 [P][B]Language:[b] The Neimoidian language—known as Pak Pak—is commonly used among Neimoidians, but species who lack the throat structure of its native speakers cannot easily replicate the distinctive sharp croaks. Therefore, Neimoidians who spend time among other species learn to speak Basic. Neimoidians have little difficulty with Basic, though like many species with unique vocal structures, some speak it with a thick accent.</Description>
-  <Source>Desperate Allies</Source>
+  <Source Page="20">Desperate Allies</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>1</Brawn>
@@ -32,10 +32,14 @@ The Neimoidian species is an offshoot of the Duros, diverging physiologically an
     <StrainThreshold>9</StrainThreshold>
     <Experience>90</Experience>
   </StartingAttrs>
+  <SkillModifiers />
+  <TalentModifiers>
+  </TalentModifiers>
   <OptionChoices>
     <OptionChoice>
       <Key>NEIMCH1</Key>
       <Name>Skills</Name>
+      <Description />
       <Options>
         <Option>
           <Key>NEIMCH1OP1</Key>

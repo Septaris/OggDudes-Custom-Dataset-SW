@@ -18,7 +18,7 @@
 
 [P]Player Characters are almost certainly going to be either Guild or Independent Hunters. However, regardless of what type of Bounty Hunter is played, the character will need to have a current and legitimate Imperial Peace-Keeping Certificate (IPKC). This is the specific license that all Bounty Hunters are required to have on file with the Empire in order to operate as professionals. Without such documentation and status, a Bounty Hunter is little more than a kidnapper and, possibly, a murderer. Any character with the Bounty Hunter career automatically gains an IPKC—unless the player would prefer his character not start with one. Although this may seem like an odd choice, it could make for a particularly compelling story or character background.</Description>
   <Source Page="56">Edge of the Empire Core Rulebook</Source>
-  <Custom>DescOnly</Custom>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>ATHL</Key>
     <Key>BRAWL</Key>
@@ -31,12 +31,16 @@
   </CareerSkills>
   <Specializations>
     <Key>ASSAS</Key>
+    <Key>FORCEADHERENT</Key>
     <Key>GADG</Key>
+    <Key>IMPERIALACADEMYCADET</Key>
     <Key>MARTIALARTIST</Key>
     <Key>OPERATOR</Key>
+    <Key>PADAWANSURVIVOR</Key>
+    <Key>PIRATE</Key>
+    <Key>RETIREDCLONETROOPER</Key>
+    <Key>SHIPCAPTAIN</Key>
     <Key>SKIPTRACER</Key>
     <Key>SURV</Key>
   </Specializations>
-  <Attributes />
-  <FreeRanks>4</FreeRanks>
 </Career>

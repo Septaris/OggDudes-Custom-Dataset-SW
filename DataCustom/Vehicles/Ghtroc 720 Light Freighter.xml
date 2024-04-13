@@ -8,20 +8,23 @@
 An ambitious but ultimately failed attempt to compete with CEC's YT-series light freighters, the 720 class was produced by the now defunct Ghtroc Industries. Ghtroc was well respected as a builder of high-quality freighters. The 720 class was seen by Ghtroc's designers as a way to corner the light freighter market in the Outer Rim and unseat the more successful offerings from its competitors. The ship carries a crew of two with accommodations for ten passengers. Two secure cargo holds take up the majority of the port and starboard midships space, with crew and passenger berthing forward abaft the extended bridge and command deck. The ship's reactor and engineering spaces are located amidships beneath a panoramic observation dome, a strange luxury in a freighter. The matched banks of GI/80.b Overthruster ion engines are housed in heavily armored nacelles in the bows of the ship, flanking the bridge as opposed to being mounted in the ship's stern. Combined with the angled aft escape-pod launchers, the freighter has a rather testudine appearance.
 
 [P]Although heavily armored, the 720 class is lightly armed. Equipped with a single turret-mounted twin light laser cannon, the weak armament is considered the most glaring deficiency in an otherwise well-constructed ship. Like most light freighters, the 720 class was designed with modification in mind. Indeed, most in operation today bear little resemblance to the ships that came off the assembly line at the Ghtroc shipyards. Although never as popular as their parent company had hoped, these ships have a small but passionate following among free traders and smugglers in the Outer Rim. </Description>
-  <Source>Enter the Unknown</Source>
+  <Source Page="62">Enter the Unknown</Source>
   <Custom>DescOnly</Custom>
   <Type>Freighter</Type>
   <Categories>
     <Category>Non-Fighter Starship</Category>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>4</HP>
   <Price>112000</Price>
   <Rarity>8</Rarity>
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
   <HyperdriveBackup>15</HyperdriveBackup>
   <StarFighters>None</StarFighters>
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srMedium</SensorRangeValue>
   <Crew>One pilot, one copilot</Crew>
   <EncumbranceCapacity>200</EncumbranceCapacity>
   <Passengers>10</Passengers>
@@ -31,6 +34,8 @@ An ambitious but ultimately failed attempt to compete with CEC's YT-series light
   <Handling>-2</Handling>
   <DefFore>1</DefFore>
   <DefAft>1</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>5</Armor>
   <HullTrauma>28</HullTrauma>
   <SystemStrain>15</SystemStrain>
@@ -43,17 +48,22 @@ An ambitious but ultimately failed attempt to compete with CEC's YT-series light
         <Port>true</Port>
         <Starboard>true</Starboard>
         <Dorsal>true</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

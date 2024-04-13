@@ -4,11 +4,11 @@
   <Name>Ortolan</Name>
   <Description>[H4]Ortolan[h4]
 
-The Ortolans, elephantine bipeds, have a distinctive appearance, reinforced by their habit of dying their short, thick velvet fur that is generally white or grey into various bright colors. The color of the fur denotes the Ortolan's role in society: orange is a political career, green is a military career, red is a domestic job such as a doctor or a keeper of the peace, and blue is an entertainer, such as a musician or an actor.  They are short in stature with big black eyes, a characteristic descended from their nocturnal ancestors that allows them to see well in dim light but can hinder or potentially even hurt them in bright light.
+The Ortolans, elephantine bipeds, have a distinctive appearance, reinforced by their habit of dying their short, thick velvet fur that is generally white or grey into various bright colours. The color of the fur denotes the Ortolan's role in society: orange is a political career, green is a military career, red is a domestic job such as a doctor or a keeper of the peace, and blue is an entertainer, such as a musician or an actor.  They are short in stature with big black eyes, a characteristic descended from their nocturnal ancestors that allows them to see well in dim light but can hinder or potentially even hurt them in bright light.
 
 [P][B]Physiology:[b] Known for their excellent sense of smell, Ortolans can detect food from great distances. Because food is scarce on their planet they are obsessed with it, which has led them to become renowned chefs and food connoisseurs. They use their fingertips to absorb their food, and also to use various fingered instruments to produce the fine tunes for which Ortolan musicians have become famous. This attribute is complemented by their trunk-like noses, which contain a tympanic organ that also contributes to their hearing.
 
-[P]Their outstanding hearing aids them in their musical endeavors, covering the entire sound range from subsonic to ultrasonic. To outside observers Ortolans may seem mute, but they communicate in the aforementioned extreme ranges of sound frequencies, using their noses and the small mouth located underneath. However, they are also able to communicate in the normal auditory range that can be heard by the majority of sentients.
+[P]Their outstanding hearing aids them in their musical endeavours, covering the entire sound range from subsonic to ultrasonic. To outside observers Ortolans may seem mute, but they communicate in the aforementioned extreme ranges of sound frequencies, using their noses and the small mouth located underneath. However, they are also able to communicate in the normal auditory range that can be heard by the majority of sentients.
 
 [P]Ortolans have adapted to the harsh conditions of their homeworld, Orto, with a layer of blubber beneath the surface of their skin, which insulates them against the ice-cold temperatures. This provides energy reserves in time of need and also results in their obese build.
 
@@ -40,6 +40,7 @@ The Ortolans, elephantine bipeds, have a distinctive appearance, reinforced by t
   <StartingAttrs>
     <WoundThreshold>10</WoundThreshold>
     <StrainThreshold>10</StrainThreshold>
+    <SoakValue>0</SoakValue>
     <Experience>100</Experience>
   </StartingAttrs>
   <SkillModifiers>
@@ -48,10 +49,12 @@ The Ortolans, elephantine bipeds, have a distinctive appearance, reinforced by t
       <RankStart>1</RankStart>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers />
   <OptionChoices>
     <OptionChoice>
       <Key>ORTOLANCH1</Key>
       <Name>Resilience</Name>
+      <Description />
       <Options>
         <Option>
           <Key>ORTOLANCH1OP1</Key>
@@ -65,6 +68,7 @@ the effects of any poison by one.</Description>
     <OptionChoice>
       <Key>ORTOLANCH2</Key>
       <Name>Perception</Name>
+      <Description />
       <Options>
         <Option>
           <Key>ORTOLANCH2OP1</Key>
@@ -83,6 +87,7 @@ on Perception checks.</Description>
     <OptionChoice>
       <Key>USERSPECIES4CH3</Key>
       <Name>Size</Name>
+      <Description />
       <Options>
         <Option>
           <Key>UORTOLANCH3OP1</Key>

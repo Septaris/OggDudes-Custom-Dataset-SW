@@ -14,8 +14,11 @@ The secretive and isolationist Kaminoans saw the end of an ice age flood their p
 [P][B]Homeworld:[b] The thawing at the end of its last ice age dramatically changed Kamino. The world, now covered in a global ocean, suffers from constant storms and massive winds. Cities provide shelter from the wind, rain, and water, rising high above the ocean surface on stilted anchors. The cities harness electricity from the storms, while the warm ocean provides plenty of rich nutrients and biodiversity. Kaminoan trade in genetic samples means that several offworld creatures, such as the aiwha, now also live there.
 [P]Of particular note is that many stellar databases don't contain Kamino's location, beyond the Outer Rim near the Rishi Maze. When they developed the cloning program for the Republic, the Kaminoans asked to have the location of their planet redacted to protect their privacy. Since the Clone Wars ended, that information has trickled back sporadically.
 [P][B]Language:[b] While Kaminoans speak their native language, those who choose to deal with outsiders learn Basic. Conversely, very few outsiders speak Kaminoan, and those who do are reluctant to teach others. Kaminoans guard their written language carefully, relying on written Basic in their communications with other species.
-[P][B]Life in the Alliance:[b] Kaminoans have a difficult relationship with the Rebel Alliance. Their species not only developed and supplied the clone army for the Republic, but also joined the Galactic Senate to fight against the Separatists. Some have joined the Alliance as engineers, biogeneticists, and physicians. Their amorality In medical matters and others' general distrust of them due to their role in the Empire's ascendancy puts these Kaminoans under scrutiny.</Description>
-  <Source Page="20">Fully Operational</Source>
+[P][B]Life in the Alliance:[b] Kaminoans have a difficult relationship with the Rebel Alliance. Their species not only developed and supplied the clone army for the Republic, but also joined the Galactic Senate to fight against the Separatists. Some have joined the Alliance as engineers, biogeneticists, and physicians. Their amorality In medical matters and others' general distrust of them due to their role in the Empire's ascendency puts these Kaminoans under scrutiny.</Description>
+  <Sources>
+    <Source Page="20">Fully Operational</Source>
+    <Source Page="14">Rise of the Separatists</Source>
+  </Sources>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>1</Brawn>
@@ -47,6 +50,7 @@ The secretive and isolationist Kaminoans saw the end of an ice age flood their p
     <OptionChoice>
       <Key>KAMINOANOC1</Key>
       <Name>Skills</Name>
+      <Description />
       <Options>
         <Option>
           <Key>KAMINOANOC1OP1</Key>
@@ -64,6 +68,7 @@ The secretive and isolationist Kaminoans saw the end of an ice age flood their p
     <OptionChoice>
       <Key>KAMINOANOC2</Key>
       <Name>Opposing Skills</Name>
+      <Description />
       <Options>
         <Option>
           <Key>KAMINOANOC2OP1</Key>

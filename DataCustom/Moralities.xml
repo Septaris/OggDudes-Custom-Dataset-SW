@@ -15,6 +15,7 @@ With too many people and too many problems, the character gets overwhelmed and w
     <Name>Ambition</Name>
     <Description>
       [H4]Ambition (Strength)[h4]
+
 An ambitious character sets a lofty goal for himself and then strives to accomplish it. The harder the task, the more willing the character is to take it on, and the greater the triumph when he finally succeeds.</Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -52,6 +53,7 @@ An ambitious character sets a lofty goal for himself and then strives to accompl
     <Name>Anger</Name>
     <Description>
       [H4]Anger (Weakness)[h4]
+
 Hot blood, however, can easily lead to hot tempers. The character is quick to anger, and what he cannot deal with face-to-face can often frustrate him to the point of rage.</Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -71,6 +73,7 @@ Unlike Coldness, this Mystic still has emotional engagements, but simply doesn't
     <Name>Weakness</Name>
     <Description>
       [H4]Weakness (Weakness)[h4]
+
 There is a fine line between showing mercy to one's foes and letting evil fester because one does not want to engage with it. The character may let bad things happen simply because it is too hard to deal with them.</Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -91,7 +94,8 @@ The character's skills at detached observation can often lead to cold pragmatism
     <Name>Arrogance</Name>
     <Description>
       [H4]Arrogance (Weakness)[h4]
-Pride, among all emotions, is perhaps the easiest to fall to a darker form. Arrogance mirrors pride, but satisfaction in one's accomplishments is replaced with contempt for others' failings. It is not enough to succeed: the character also expects all others to fail.</Description>
+
+Pride, among all emotions, is perhaps the easiest to fall to a darker form. Arrogance mirrors pride, but satisfaction in one's accomplishments is replaced with contempt for others failings. It is not enough to succeed: the character also expects all others to fail.</Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
@@ -137,7 +141,8 @@ In all things, the character is quite determined and steadfast. No matter the si
     <Name>Bravery</Name>
     <Description>
       [H4]Bravery (Strength)[h4]
-The character's bravery is quite remarkable. Whether facing down a charging rancor or racing into a burning building to save innocents, he is always willing to take risks to help others.</Description>
+
+The characters bravery is quite remarkable. Whether facing down a charging rancor or racing into a burning building to save innocents, he is always willing to take risks to help others.</Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <Type>Strength</Type>
@@ -202,6 +207,7 @@ The character works well as part of a team whether leading or following, remaini
     <Name>Caution</Name>
     <Description>
       [H4]Caution (Strength)[h4]
+
 The character possesses commendable prudence, willing to always look before he leaps into a new situation. His forward-thinking ways may have saved his fellows from dangerous situations on numerous occasions.</Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -381,6 +387,7 @@ The drive needed to reach these goals can make the character set aside any conce
     <Name>Coldness</Name>
     <Description>
       [H4]Coldness (Weakness)[h4]
+
 Self-reliance can slip into isolation if one is not careful. A cold character doesn't just desire to rely only on himself, but has nothing but disinterest for anyone else If they can't help themselves, why should he aid them?</Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -391,6 +398,7 @@ Self-reliance can slip into isolation if one is not careful. A cold character do
     <Name>Compassion</Name>
     <Description>
       [H4]Compassion (Strength)[h4]
+
 The character cares about the tribulations others face, and wants to help those he comes across. His compassion may lead to self-sacrifice in order to aid those who need it.</Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -567,6 +575,7 @@ The character makes quick decisions and sees them through without hesitating. Be
     <Name>Cruelty</Name>
     <Description>
       [H4]Cruelty (Weakness)[h4]
+
 All too often, the cruel use justice to excuse their actions. If one stops himself from tempering justice with empathy and understanding, he can inflict great harm on others and feel justified doing it. Eventually, he can grow to revel in the suffering of others, even as he deludes himself Into thinking he makes the "just" choice.</Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -577,6 +586,7 @@ All too often, the cruel use justice to excuse their actions. If one stops himse
     <Name>Curiosity</Name>
     <Description>
       [H4]Curiosity (Strength)[h4]
+
 The character is driven to learn new things, to seek out and discover new information, and to expand his knowledge and understanding of those things that interest him.</Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -674,6 +684,7 @@ In a rush of enthusiastic energy, there is little attempt to truly appreciate or
     <Name>Discipline</Name>
     <Description>
       [H4]Discipline (Strength)[h4]
+
 Rigorous mental and physical discipline comes naturally to the character. He does not make choices rashly, and every action is precise and selected. Those who think they can goad the character into making foolish choices are sorely mistaken.</Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -774,6 +785,7 @@ The character easily understands and even feels the emotions of those nearby, ev
     <Name>Enthusiasm</Name>
     <Description>
       [H4]Enthusiasm (Strength)[h4]
+
 The character is always ready to try something new, and he approaches all of his tasks, even mundane ones, with excitement. He's not one to overthink a situation, lest he miss a great new opportunity.</Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -812,6 +824,7 @@ The character is always ready to try something new, and he approaches all of his
     <Name>Fear</Name>
     <Description>
       [H4]Fear (Weakness)[h4]
+
 The line between caution and fear is a thin one. Sometimes the character spends too much time concerned about the potential problems of a situation to act in that situation at all. At other times, his caution causes him to flee when danger presents itself, through bolder action might reap real rewards.</Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -887,6 +900,7 @@ There is strength in living a simple life, not just in eschewing possessions but
     <Name>Greed</Name>
     <Description>
       [H4]Greed (Weakness)[h4]
+
 An ambitious character is only as selfless as his goals. Those who strive For worldly pleasures, whether power, wealth, or personal comforts, can quickly find their ambition turning to simple greed.</Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -907,7 +921,8 @@ The character has been betrayed one too many times and refuses to allow it to ha
     <Name>Hatred</Name>
     <Description>
       [H4]Hatred (Weakness)[h4]
-The galaxy can be a cruel and heartless place, compassion can quickly turn to hatred of the individuals or situations that cause others to suffer. When a character's mind rolls with simmering hatred, that hatred may be all too slow to fade.</Description>
+
+The galaxy can be a cruel and heartless place, compassion can quickly turn to hatred of the individuals or situations that, cause others to suffer. When a character's mind rolls with simmering hatred, that hatred may be all too slow to fade.</Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
@@ -1034,6 +1049,7 @@ The character believes the galaxy is fundamentally good, and fights to keep it s
     <Name>Independence</Name>
     <Description>
       [H4]Independence (Strength)[h4]
+
 The character believes in relying on himself. He does not count on others to perform tasks for him, instead, he ensures he can handle any situation he encounters. He refuses to be a burden on others.</Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -1067,7 +1083,7 @@ The character believes in relying on himself. He does not count on others to per
     <Name>Intolerance</Name>
     <Description>
       [H4]Intolerance (Weakness)[h4]
-[P]A strict adherence to the rules means that the character is unwilling to adapt even when extenuating circumstances should provide an exception. His code keeps him from pursuing his own desires, and perhaps even what he believes is just.</Description>
+[P]A strict adherence to the rules means that the character is unwilling to adapt even when extenuating circumstances should provide an exception. His code keeps him from pursuing his own desires, and perhaps even what he belies is just. </Description>
     <Source Page="17">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
@@ -1077,6 +1093,7 @@ The character believes in relying on himself. He does not count on others to per
     <Name>Jealousy</Name>
     <Description>
       [H4]Jealousy (Weakness)[h4]
+
 Love, if not given selflessly, can quickly turn to jealousy. The character's personality Lends toward envy if his love is not reciprocated, or sometimes he simply envies others' accomplishments or possessions.</Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -1118,7 +1135,7 @@ Despite, or because of, Mystics' ability to see into the past and the future, so
     <Key>JUDGING</Key>
     <Name>Judging</Name>
     <Description>[H4]Judging (Weakness)[h4]
-Believing they have a right to pass judgment on others, this character expects their personal morals and rules to apply wherever they go. Refusing to show mercy to those who have not shown mercy to others, whatever the circumstances, the character makes them pay.</Description>
+Believing they have a right to pass judgement on others, this character expects their personal morals and rules to apply wherever they go. Refusing to show mercy to those who have not shown mercy to others, whatever the circumstances, the character makes them pay.</Description>
     <Source Page="16">Knights of Fate</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
@@ -1128,6 +1145,7 @@ Believing they have a right to pass judgment on others, this character expects t
     <Name>Justice</Name>
     <Description>
       [H4]Justice (Strength)[h4]
+
 The character strives for just and deliberate actions in his life, and in his interactions with others. He attempts to make the objectively right choice every time, knowing that justice is more likely to guarantee positive outcomes than sympathy or other emotional displays.</Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -1157,6 +1175,7 @@ The character strives for just and deliberate actions in his life, and in his in
     <Name>Love</Name>
     <Description>
       [H4]Love (Strength)[h4]
+
 The character has an open heart. While he may hold a special place in his heart for his companions or a significant other, he tends to genuinely like most individuals he meets. His love for others can make him charming and affable, and exceedingly tolerant.</Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -1235,6 +1254,7 @@ The quest for justice can turn the character away from concepts of pity or remor
     <Name>Mercy</Name>
     <Description>
       [H4]Mercy (Strength)[h4]
+
 The character shows mercy toward his foes, dealing with them fairly and honorably. He can spare the defenseless, will help a helpless enemy, and generally does not abuse a position of strength.</Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -1320,6 +1340,7 @@ The character has a vision of what the galaxy and its inhabitants should be like
     <Name>Obsession</Name>
     <Description>
       [H4]Obsession (Weakness)[h4]
+
 Sometimes, interest in something can turn to obsession if not tempered with reason. The character can slip into an obsessive state about his need to discover information, accomplish a goal, or even defeat a rival, and he may ignore all else until success is his.</Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -1337,9 +1358,10 @@ Firm convictions can mask an excessively stubborn nature that pushes aside any h
   </Morality>
   <Morality>
     <Key>OBSTINATENESS</Key>
-    <Name>Obstinance</Name>
+    <Name>Obstinence</Name>
     <Description>
-      [H4]Obstinance (Weakness)[h4]
+      [H4]Obstinence (Weakness)[h4]
+
 Disciplined characters may fall into the trap of simple stubbornness if they are not careful. An obstinate character often refuses to consider any course of action other than the one he chooses, unwilling to accept that someone else may have conceived of a better option.</Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -1438,6 +1460,7 @@ The character is able to look at situations objectively, and observe the natural
     <Name>Recklessness</Name>
     <Description>
       [H4]Recklessness (Weakness)[h4]
+
 Of course, a little thought can go a long way towards saving someone from a major mistake, which this character may find out to his sorrow on more than one occasion. Reckless behavior can leave him in dangerous situations or at the mercy of more calculating individuals.</Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>

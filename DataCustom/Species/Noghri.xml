@@ -20,7 +20,7 @@ The only remaining sentients native to the planet Honoghr in the Outer Rim, the 
 
 [P][B]Homeworld:[b] For generations Noghri have been struggling to survive on the infertile surface of Honoghr, which was scarred and polluted by the poisonous fallout of a battle in orbit. During that conflict, a Lucrehulk-class Core ship, carrying the Trihexalophine1138 toxin on board, crashed into the planet's southern pole. The toxin killed most of the planet's flora, as well as millions of Noghri. To make matters worse, the surface was bombarded countless times by ordinary ship fire and the wildfires they sparked continued to burn off the poisoned plant life for months.
 
-[P]As a direct result of these events Honoghr attained a green-brownish color when viewed from space -- reflecting its dead terrain. In the southern hemisphere there remains a green region known as the "clean land". It became a home for the surviving Noghri following the catastrophe as they settled along the region's borders and cultivated its interior. Before the ecological disaster the Clean Land had been a neutral location for the various Noghri clans where they could discuss matters without worrying about inter-clan rivalries.
+[P]As a direct result of these events Honoghr attained a green-brownish color when viewed from space - reflecting its dead terrain. In the southern hemisphere there remains a green region known as the "clean land". It became a home for the surviving Noghri following the catastrophe as they settled along the region's borders and cultivated its interior. Before the ecological disaster the Clean Land had been a neutral location for the various Noghri clans where they could discuss matters without worrying about inter-clan rivalries.
 
 [P]In the subsequent decades, natural processes and the efforts of the natives have worked to restore much of the Honoghr's surface. The gradual regrowth has resulted in juvenile forests, swamps and jungles appearing in areas which were once completely inhospitable. The majority of these have taken root near the large ocean which crosses the equator while the planet's capital, open to foreign visitors, lies in its cold and arid north.
 
@@ -44,18 +44,30 @@ The only remaining sentients native to the planet Honoghr in the Outer Rim, the 
     <SkillModifier>
       <Key>BRAWL</Key>
       <RankStart>1</RankStart>
+      <RankAdd>0</RankAdd>
+      <RankLimit>0</RankLimit>
     </SkillModifier>
   </SkillModifiers>
   <TalentModifiers>
     <TalentModifier>
       <Key>STALK</Key>
+      <RankStart>0</RankStart>
       <RankAdd>1</RankAdd>
+      <RankLimit>0</RankLimit>
     </TalentModifier>
   </TalentModifiers>
+  <WeaponModifiers>
+    <WeaponModifier>
+      <AllSkillKey>BRAWL</AllSkillKey>
+      <DamageAdd>1</DamageAdd>
+      <Crit>3</Crit>
+    </WeaponModifier>
+  </WeaponModifiers>
   <OptionChoices>
     <OptionChoice>
       <Key>NOGCH1</Key>
       <Name>Scent</Name>
+      <Description />
       <Options>
         <Option>
           <Key>NOGCH1OP1</Key>
@@ -81,12 +93,4 @@ The only remaining sentients native to the planet Honoghr in the Outer Rim, the 
       </Options>
     </OptionChoice>
   </OptionChoices>
-  <WeaponModifiers>
-    <WeaponModifier>
-      <AllSkillKey>BRAWL</AllSkillKey>
-      <DamageAdd>1</DamageAdd>
-      <Crit>3</Crit>
-      <Range>Engaged</Range>
-    </WeaponModifier>
-  </WeaponModifiers>
 </Species>

@@ -6,61 +6,94 @@
     [H3]HLAF-500 Starfighter[h3]
 
 A modified and upgraded version of the LAF-250 starfighter, the Heavy/Light Attack Fighter 500 boasts a number of significant improvements over its predecessor. Built on the same frame as the LAF-250, the HLAF-500 has powerful SoroSuub 9X2 fusial thrust engines that give the craft better performance, acceleration, and handling. To increase the starfighter's offensive capabilities, additional weapons hardpoints were added, allowing the HLAF-500 to be equipped with proton torpedo launchers.</Description>
-  <Source>Suns of Fortune</Source>
+  <Source Page="108">Suns of Fortune</Source>
   <Custom>DescOnly</Custom>
   <Type>Starfighter</Type>
   <Categories>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>1</HP>
   <Price>70000</Price>
   <Rarity>5</Rarity>
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot</Crew>
   <EncumbranceCapacity>6</EncumbranceCapacity>
+  <Passengers>0</Passengers>
   <Consumables>Two days</Consumables>
   <Silhouette>3</Silhouette>
   <Speed>4</Speed>
   <Handling>1</Handling>
   <DefFore>1</DefFore>
   <DefAft>1</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>2</Armor>
   <HullTrauma>8</HullTrauma>
   <SystemStrain>8</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
   <SinglePilot>true</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LIMITEDAMMO</Key>
           <Count>4</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>PTL</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

@@ -6,7 +6,7 @@
     [H3]Vindicator-Class Heavy Cruiser[h3]
 
 The Vindicator-class heavy cruisers were designed by Sienar Fleet Systems to take the place of the elderly Dreadnought-class heavy cruisers as the standard, multi-role fleet cruiser for the Imperial Navy. Described as "A Star Destroyer that's been shrunk in the wash" by Alliance commanders, the Vindicator has the same thin, menacing, arrowhead-shaped hull as its larger Victory-class and Imperial-class siblings. With a thickly armored hull, heavy shields, and a broad and versatile array of offensive and defensive weaponry, Vindicators are assigned both as escorts and light battleships as well as solitary cruisers sent to hunt Alliance ships and maintain order in distant regions of the Empire. Many dashing young Imperial officers prefer the command of a Vindicator over that of a larger line of battle ship like the Imperial-II, as they often have more exciting missions and their common status as lone cruisers offer a much greater chance of personal glory and promotion for an enterprising and ambitious commander.</Description>
-  <Source>Age of Rebellion Core Rulebook</Source>
+  <Source Page="280">Age of Rebellion Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <Type>Heavy Cruiser</Type>
   <Categories>
@@ -14,13 +14,17 @@ The Vindicator-class heavy cruisers were designed by Sienar Fleet Systems to tak
     <Category>Starship</Category>
     <Category>Capital Ship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
+  <HP>0</HP>
   <Price>10400000</Price>
   <Rarity>8</Rarity>
   <Restricted>true</Restricted>
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
   <HyperdriveBackup>12</HyperdriveBackup>
   <StarFighters>24 starfighters</StarFighters>
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srLong</SensorRangeValue>
   <Crew>2551 officers, pilots, and enlisted</Crew>
   <EncumbranceCapacity>7500</EncumbranceCapacity>
   <Passengers>400</Passengers>
@@ -41,41 +45,70 @@ The Vindicator-class heavy cruisers were designed by Sienar Fleet Systems to tak
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>true</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>TURBOMED</Key>
       <Count>5</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>TURBOMED</Key>
       <Count>5</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>TURBOMED</Key>
       <Count>5</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>3</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOLT</Key>
@@ -84,13 +117,22 @@ The Vindicator-class heavy cruisers were designed by Sienar Fleet Systems to tak
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>3</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOLT</Key>
@@ -99,35 +141,114 @@ The Vindicator-class heavy cruisers were designed by Sienar Fleet Systems to tak
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERPTDEF</Key>
       <Count>6</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERPTDEF</Key>
       <Count>8</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERPTDEF</Key>
       <Count>8</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
         <Aft>true</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Aft</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERPTDEF</Key>
       <Count>8</Count>
+    </VehicleWeapon>
+    <VehicleWeapon>
+      <FiringArcs>
+        <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
+      </FiringArcs>
+      <Turret>false</Turret>
+      <Location>Forward</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
+      <Key>TRACTHVY</Key>
+      <Count>1</Count>
+    </VehicleWeapon>
+    <VehicleWeapon>
+      <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
+      </FiringArcs>
+      <Turret>false</Turret>
+      <Location>Port</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
+      <Key>TRACTHVY</Key>
+      <Count>1</Count>
+    </VehicleWeapon>
+    <VehicleWeapon>
+      <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
+      </FiringArcs>
+      <Turret>false</Turret>
+      <Location>Starboard</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
+      <Key>TRACTHVY</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

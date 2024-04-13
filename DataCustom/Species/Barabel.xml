@@ -5,7 +5,7 @@
   <Description>
     [H4]Barabel[h4]
 
-Barabel are a species of sentient cold-blooded reptilians native to the dark, murky world Barab I. A highly aggressive and territorial species, Barabel who traveled off their homeworld find work as fringers or hired guns.
+Barabel are a species of sentient cold-blooded reptilians native to the dark, murky world Barab I. A highly aggressive and territorial species, Barabel who traveled off their homeworld dind work as fringers or hired guns.
 
 [P][B]Physiology:[b] Barabel are a bipedal race of reptilians who are covered in very tough dark colored scales. Evolved from nocturnal lizards, the Barabel adapted a thick layer of fat which allowed them to remain active and not sluggish when temperatures dropped. A blaster set on stun would not damage them at all or slow them down, as it would merely bounce off their scales. Barabel are able to shed their tails if necessary, an ability that proved the undoing of many a startled foe. They also possess heavy retractable claws along with needle sharp teeth which could grow to be 5 centimeters in length. A carnivorous species, Barabel possess two stomachs in order to process the mass amount of food they required to survive.
 
@@ -42,6 +42,13 @@ Barabel are a species of sentient cold-blooded reptilians native to the dark, mu
       <RankLimit>2</RankLimit>
     </SkillModifier>
   </SkillModifiers>
+  <WeaponModifiers>
+    <WeaponModifier>
+      <AllSkillKey>BRAWL</AllSkillKey>
+      <DamageAdd>1</DamageAdd>
+      <Crit>3</Crit>
+    </WeaponModifier>
+  </WeaponModifiers>
   <OptionChoices>
     <OptionChoice>
       <Key>BARABAB1</Key>
@@ -89,12 +96,4 @@ Barabel are a species of sentient cold-blooded reptilians native to the dark, mu
       </Options>
     </OptionChoice>
   </OptionChoices>
-  <WeaponModifiers>
-    <WeaponModifier>
-      <AllSkillKey>BRAWL</AllSkillKey>
-      <DamageAdd>1</DamageAdd>
-      <Crit>3</Crit>
-      <Range>Engaged</Range>
-    </WeaponModifier>
-  </WeaponModifiers>
 </Species>

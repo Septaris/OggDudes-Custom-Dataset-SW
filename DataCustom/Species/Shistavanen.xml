@@ -17,55 +17,64 @@ The Shistavanens, colloquially nicknamed wolfmen for their lupine appearance, ar
 [P][B]Language:[b] Shistavanen is the native language of the Shistavanen species from Uvena Prime. This language is mainly formed by growls and barks.
 
 [P]Since the time of the Galactic Empire, most Shistavanen have been fluent in both Shistavanen and Basic, although they are only literate in their own language.</Description>
-  <Source>Unofficial Species Menagerie</Source>
+  <Source Page="24">Forged in Battle</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
-    <Brawn>1</Brawn>
-    <Agility>2</Agility>
-    <Intellect>2</Intellect>
-    <Cunning>3</Cunning>
-    <Willpower>2</Willpower>
-    <Presence>2</Presence>
+    <Brawn>2</Brawn>
+    <Agility>3</Agility>
+    <Intellect>3</Intellect>
+    <Cunning>2</Cunning>
+    <Willpower>1</Willpower>
+    <Presence>1</Presence>
   </StartingChars>
   <StartingAttrs>
-    <WoundThreshold>10</WoundThreshold>
+    <WoundThreshold>12</WoundThreshold>
     <StrainThreshold>10</StrainThreshold>
-    <Experience>100</Experience>
+    <Experience>80</Experience>
   </StartingAttrs>
-  <SkillModifiers>
-    <SkillModifier>
-      <Key>VIGIL</Key>
-      <RankStart>1</RankStart>
-    </SkillModifier>
-  </SkillModifiers>
+  <SkillModifiers />
+  <TalentModifiers />
   <OptionChoices>
     <OptionChoice>
       <Key>SHISTCH1</Key>
-      <Name>Vision</Name>
+      <Name>Initiative</Name>
+      <Description />
       <Options>
         <Option>
           <Key>SHISTCH1OP1</Key>
-          <Name>Night Vision</Name>
-          <Description>Shistavanens may remove a [SETBACK] imposed by concealment that is caused by darkness.</Description>
+          <Name>Hunter's Instincts</Name>
+          <Description>When making an Initiative check, a Shistavanens may use Survival instead of Vigilance or Cool.</Description>
         </Option>
       </Options>
     </OptionChoice>
     <OptionChoice>
       <Key>SHISTCH2</Key>
-      <Name>Skill</Name>
+      <Name>Skills</Name>
       <Options>
         <Option>
           <Key>SHISTCH2OP1</Key>
-          <Name>Uncanny Tracker</Name>
-          <Description>Shistavanens always treat Survival as being a career skill, regardless of their starting career.</Description>
+          <Name>Brawl</Name>
+          <Description>Shistavanens may begin the game with one rank in Brawl.</Description>
+          <SkillModifiers>
+            <SkillModifier>
+              <Key>BRAWL</Key>
+              <RankStart>1</RankStart>
+            </SkillModifier>
+          </SkillModifiers>
+        </Option>
+        <Option>
+          <Key>SHISTCH2OP2</Key>
+          <Name>Survival</Name>
+          <Description>Shistavanens may begin the game with one rank in Survival.</Description>
           <SkillModifiers>
             <SkillModifier>
               <Key>SURV</Key>
-              <isCareer>true</isCareer>
+              <RankStart>1</RankStart>
             </SkillModifier>
           </SkillModifiers>
         </Option>
       </Options>
     </OptionChoice>
   </OptionChoices>
+  <WeaponModifiers />
 </Species>

@@ -1,39 +1,74 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Vehicle>
   <Key>NE4CLOUDCAR</Key>
-  <Name>Ne-4 Cloud Car Interceptor</Name>
+  <Name>Needle Ne-4 Cloud Car Interceptor</Name>
   <Description>
     [H3]Ne-4 Cloud Car Interceptor[h3]
 
 The Needle is a surprisingly speedy, high-altitude patrol ship designed to arrive on target absolutely as fast as possible. True to its name, it has a narrow, tapered profile and a low bubble canopy. Its powerful engines are notoriously temperamental. The ship trades speed for maneuverability and armor, and takes catastrophic damage at a much higher rate as a result.
 
 [P]Bespin and high-altitude stations and cities deploy the Needle as a counter to smugglers and criminals flying vessels faster than the average cloud car or patrol ship. However, the criminals and smugglers themselves have taken a liking to the ship's speed, and are known to fly a few of their own. An illegal racing circuit has also sprung up, with contestants racing around and through massive cloud structures and storms on gas giants.</Description>
-  <Source>Dangerous Covenants</Source>
+  <Source Page="64">Dangerous Covenants</Source>
   <Custom>DescOnly</Custom>
   <Type>Cloud Car</Type>
   <Categories>
     <Category>Air Vehicle</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>2</HP>
   <Price>28000</Price>
   <Rarity>4</Rarity>
+  <Restricted>false</Restricted>
   <MaxAltitude>120 km</MaxAltitude>
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot</Crew>
   <EncumbranceCapacity>3</EncumbranceCapacity>
+  <Passengers>0</Passengers>
+  <Consumables />
   <Silhouette>2</Silhouette>
   <Speed>5</Speed>
   <Handling>1</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
+  <Armor>0</Armor>
   <HullTrauma>6</HullTrauma>
   <SystemStrain>5</SystemStrain>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
   <SinglePilot>true</SinglePilot>
+  <BaseMods>
+    <Mod>
+      <Count>1</Count>
+      <MiscDesc>
+        [B]Fragile Frame[b]: The frame and construction of the
+        Needle makes it particularly susceptible to critical
+        damage. Whenever this vehicle suffers a Critical Hit,
+        add + 10 to the result.
+      </MiscDesc>
+    </Mod>
+  </BaseMods>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>BLASTCANLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

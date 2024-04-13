@@ -7,13 +7,13 @@
 
 The Arkanians are a near-Human species which reside primarily on the frozen planet of Arkania in the Perave system of the Colonies region of the galaxy.
 
-[P][B]Physiology:[b] Arkanians consider themselves the pinnacle of evolution, and as such many are distinctly arrogant. Arkanian scientists have been experts in genetic manipulation for millennia, and by the time of the Mandalorian Wars the species had been split into many sub-species, making it hard to determine exactly what a baseline Arkanian is. Most could pass for Human, though the most pure of blood had pure white eyes and four clawed digits on each hand.
+[P][B]Physiology:[b] Arkanians considere themselves the pinnacle of evolution, and as such many are distinctly arrogant. Arkanian scientists have been experts in genetic manipulation for millennia, and by the time of the Mandalorian Wars the species had been split into many sub-species, making it hard to determine exactly what a baseline Arkanian is. Most could pass for Human, though the most pure of blood had pure white eyes and four clawed digits on each hand.
 
 [P]Arkanians are capable of seeing into the infrared spectrum, and their eyes are sensitive to sources of extreme heat. This is helpful on their dark and frigid homeworld, but when traveling offworld, many are forced to wear blinders on planets with hotter, younger suns. It is also not unusual for an Arkanian to enhance themselves with internal and/or external cybernetics. It is also standard practice for Arkanians to undergo genetic manipulation of their own bodies, enhancing themselves so as to be better than lesser species.
 
 [P][B]Society:[b] The most defining trait of the Arkanian species is their arrogance which stemmed from their belief that they were the pinnacle of evolution. This leads to them often appearing arrogant and aloof to others as they see themselves as being superior to all other species. Even those with a more moderate viewpoint tended to see themselves as being amongst the most intelligent beings in the galaxy. As such, they are highly confident of their abilities.
 
-[P]Visitors to their homeworld often face unpleasant and arrogant Arkanians—despite this, Arkanians are deeply offended by impoliteness and when this occurs, the offending individual needs to make amends quickly or risk being ostracized. When offended, an Arkanian typically speaks badly of the other party once they are gone and when no apology is given—the Arkanians are known to lock up the person or detain their starship from leaving the planet with overt threats. Even at this point, however, it is possible to redeem themselves in the eyes of an Arkanian though failure means that they became even more offended and storm away. But, if successful, the individual needs to also offer a gift to the offended Arkanian as a sign of their sincerity.
+[P]Visitors to their homeworld often face unpleasant and arrogant Arkanians—despite this, Arkanians are deeply offended by impoliteness and when this occurrs, the offending individual needs to make amends quickly or risk being ostracized. When offended, an Arkanian typically speaks badly of the other party once they are gone and when no apology is given—the Arkanians are known to lock up the person or detain their starship from leaving the planet with overt threats. Even at this point, however, it is possible to redeem themselves in the eyes of an Arkanian though failure means that they became even more offended and storm away. But, if successful, the individual needs to also offer a gift to the offended Arkanian as a sign of their sincerity.
 
 [P]Knowledge and research are highly prized within Arkanian society which means that many of the species are highly skilled scientists as well as academics. Their near boundless arrogance and great wealth as well as dedication is unmatched by others within their scientific community creating research projects that easily match those of the Galactic Empire. Imperial researchers often struggle to match the dedication of the Arkanians as their projects often took generations to unfold. In addition, they are not above using their intelligence and research to gain profit with their corporations massing great wealth due to medical treatments entering the market at opportune moments. Arkanian scientists are well known explorers and they are also famous for their skills in genetic manipulation which results from their fascination in the genetic make-up of other races. This has led to frequent experimentation on alien species, much to the subjects' detriment as a result of Arkanian involvement.
 
@@ -24,7 +24,7 @@ The Arkanians are a near-Human species which reside primarily on the frozen plan
 [P][B]Homeworld:[b] Arkania is the adopted homeworld of the Arkanian species. It is covered with tundra and rich in diamonds and other precious minerals, which the Arkanians mine to further their offworld connections and master their technology. Arkanian cities are designed to keep the cold out, and are mostly completely enclosed. Off-world visitors rarely have to deal with the frigid conditions of the planet.
 
 [P][B]Language:[b] The language of the Arkanian people was developed on their homeworld, Arkania before they made contact with the civilized galaxy and the Galactic Republic. When contact  with the greater galaxy was established, young Arkanians were taught Arkanian and Basic, so the majority of the population is bilingual. Among the Arkanian Offshoots, a slightly different dialect gradually emerged, emphasizing words of submission and forgetting those of victory or the desire to challenge.</Description>
-  <Source>Unofficial Species Menagerie</Source>
+  <Source Page="16">Disciples of Harmony</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
@@ -41,7 +41,7 @@ The Arkanians are a near-Human species which reside primarily on the frozen plan
   </StartingAttrs>
   <SkillModifiers>
     <SkillModifier>
-      <Key>COERC</Key>
+      <Key>MED</Key>
       <RankStart>1</RankStart>
       <RankLimit>2</RankLimit>
     </SkillModifier>
@@ -49,19 +49,12 @@ The Arkanians are a near-Human species which reside primarily on the frozen plan
   <OptionChoices>
     <OptionChoice>
       <Key>ARKANOC</Key>
-      <Name>Knowledge</Name>
+      <Name>Environmental</Name>
       <Options>
         <Option>
           <Key>ARKANOC1</Key>
-          <Name>Intellectual</Name>
-          <Description>Arkanians receive a [BOOST]
-          when making all knowledge skill checks.</Description>
-          <DieModifiers>
-            <DieModifier>
-              <SkillType>Knowledge</SkillType>
-              <BoostCount>1</BoostCount>
-            </DieModifier>
-          </DieModifiers>
+          <Name>Dark Vision</Name>
+          <Description>Arkanians remove up to [SE][SE] due to darkness when making skill checks.</Description>
         </Option>
       </Options>
     </OptionChoice>

@@ -7,24 +7,16 @@
 
 Kuat Drive Yards' Nebulon-B frigates were designated escort frigates by the Imperial Navy, and typically assigned to roles such as convoy escort, scouting, and picket duties. Long and deceptively fragile-looking, these vessels consist of a multi-deck forward section mated to a bulky aft engineering section by a single thin spar, and carry a surprising amount of weaponry for their size including a dozen turbolasers, numerous light laser cannons, and even a trio of tractor beams. Along with the energy weapons, those frigates in Imperial service carry two squadrons of twelve TIE fighters. Along with their heavy armor and sturdy shields, this makes Nebulon-B frigates formidable opponents.</Description>
   <Sources>
-    <Source>Age of Rebellion Core Rulebook</Source>
-    <Source>Edge of the Empire Core Rulebook</Source>
+    <Source Page="268">Edge of the Empire Core Rulebook</Source>
+    <Source Page="278">Age of Rebellion Core Rulebook</Source>
   </Sources>
   <Custom>DescOnly</Custom>
-  <Type>Frigate</Type>
-  <Categories>
-    <Category>Capital Ship</Category>
-    <Category>Starship</Category>
-    <Category>Non-Fighter Starship</Category>
-  </Categories>
-  <HP>2</HP>
-  <Price>8500000</Price>
-  <Rarity>7</Rarity>
-  <Restricted>true</Restricted>
   <HyperdrivePrimary>2</HyperdrivePrimary>
   <HyperdriveBackup>12</HyperdriveBackup>
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srLong</SensorRangeValue>
   <Crew>920 Officers, Pilots, and Enlisted Crew</Crew>
+  <Starfighters>Twenty-Four Starfighters</Starfighters>
   <EncumbranceCapacity>4000</EncumbranceCapacity>
   <Passengers>75</Passengers>
   <Consumables>Two Years</Consumables>
@@ -38,80 +30,120 @@ Kuat Drive Yards' Nebulon-B frigates were designated escort frigates by the Impe
   <Armor>6</Armor>
   <HullTrauma>71</HullTrauma>
   <SystemStrain>40</SystemStrain>
+  <HP>2</HP>
+  <Price>8500000</Price>
+  <Rarity>7</Rarity>
+  <Restricted>true</Restricted>
+  <Categories>
+    <Category>Capital Ship</Category>
+    <Category>Starship</Category>
+    <Category>Non-Fighter Starship</Category>
+  </Categories>
+  <Type>Frigate</Type>
   <Starship>true</Starship>
   <VehicleWeapons>
     <VehicleWeapon>
+      <Key>TURBOMED</Key>
+      <Count>6</Count>
+      <Turret>true</Turret>
+      <Retractable>true</Retractable>
+      <Location>Port</Location>
       <FiringArcs>
         <Fore>true</Fore>
         <Aft>true</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
-      <Turret>true</Turret>
-      <Location>Port</Location>
-      <Retractable>true</Retractable>
-      <Key>TURBOMED</Key>
-      <Count>6</Count>
     </VehicleWeapon>
     <VehicleWeapon>
+      <Key>TURBOMED</Key>
+      <Count>6</Count>
+      <Turret>true</Turret>
+      <Retractable>true</Retractable>
+      <Location>Starboard</Location>
       <FiringArcs>
         <Fore>true</Fore>
         <Aft>true</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
-      <Turret>true</Turret>
-      <Location>Starboard</Location>
-      <Retractable>true</Retractable>
-      <Key>TURBOMED</Key>
-      <Count>6</Count>
     </VehicleWeapon>
     <VehicleWeapon>
-      <FiringArcs>
-        <Port>true</Port>
-      </FiringArcs>
+      <Key>LASERLT</Key>
+      <Count>3</Count>
       <Turret>true</Turret>
+      <Retractable>true</Retractable>
       <Location>Port</Location>
-      <Retractable>true</Retractable>
-      <Key>LASERLT</Key>
-      <Count>3</Count>
+      <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
+      </FiringArcs>
     </VehicleWeapon>
     <VehicleWeapon>
-      <FiringArcs>
-        <Starboard>true</Starboard>
-      </FiringArcs>
+      <Key>LASERLT</Key>
+      <Count>3</Count>
       <Turret>true</Turret>
+      <Retractable>true</Retractable>
       <Location>Starboard</Location>
-      <Retractable>true</Retractable>
-      <Key>LASERLT</Key>
-      <Count>3</Count>
+      <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
+      </FiringArcs>
     </VehicleWeapon>
     <VehicleWeapon>
-      <FiringArcs>
-        <Fore>true</Fore>
-      </FiringArcs>
+      <Key>LASERLT</Key>
+      <Count>3</Count>
       <Turret>true</Turret>
+      <Retractable>true</Retractable>
       <Location>Forward</Location>
-      <Retractable>true</Retractable>
-      <Key>LASERLT</Key>
-      <Count>3</Count>
+      <FiringArcs>
+        <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
+      </FiringArcs>
     </VehicleWeapon>
     <VehicleWeapon>
-      <FiringArcs>
-        <Aft>true</Aft>
-      </FiringArcs>
+      <Key>LASERLT</Key>
+      <Count>3</Count>
       <Turret>true</Turret>
+      <Retractable>true</Retractable>
       <Location>Aft</Location>
-      <Retractable>true</Retractable>
-      <Key>LASERLT</Key>
-      <Count>3</Count>
+      <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>true</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
+      </FiringArcs>
     </VehicleWeapon>
     <VehicleWeapon>
-      <FiringArcs>
-        <Fore>true</Fore>
-      </FiringArcs>
-      <Location>Forward</Location>
       <Key>TRACTHVY</Key>
       <Count>3</Count>
+      <Location>Forward</Location>
+      <FiringArcs>
+        <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
+      </FiringArcs>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

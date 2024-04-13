@@ -6,7 +6,7 @@
     [H3]Dreadnought-Class Heavy Cruiser[h3]
 
 Considered old and outdated at the outbreak of the Clone Wars, Rendili StarDrive's Dreadnought-class heavy cruiser is still considered one of the more capable vessels of its class and size in use today. Designed with heavy space combat and planetary occupation in mind, these powerful ships serve both the Imperial and Rebel Alliance Navies as workhorse cruisers. They fill a number of roles and are typically employed in missions that larger vessels cannot or will not undertake. They mount a strong mix of weapon systems and can carry a single squadron of starfighters in a dedicated hangar, a feature that is extremely attractive to the Rebel Alliance, whose commanders rely so much on fighter tactics. Although once quite common, Dreadnoughts are becoming increasingly rare as they succumb to fatigue, accident, combat, and parts scarcity. With their large crew requirement and antiquated systems, Dreadnoughts are often simply left to deteriorate in shipyards or in orbit above planets when they break down, as the Empire considers them not worth the price of repair. This doesn't stop the Alliance from salvaging and refitting them, however, and many a former Imperial Dreadnought has found a new and loving home in the Alliance fleet. </Description>
-  <Source>Age of Rebellion Core Rulebook</Source>
+  <Source Page="279">Age of Rebellion Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <Type>Heavy Cruiser</Type>
   <Categories>
@@ -14,13 +14,16 @@ Considered old and outdated at the outbreak of the Clone Wars, Rendili StarDrive
     <Category>Starship</Category>
     <Category>Capital Ship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>4</HP>
   <Price>7200000</Price>
   <Rarity>6</Rarity>
+  <MaxAltitude />
   <HyperdrivePrimary>4</HyperdrivePrimary>
   <HyperdriveBackup>18</HyperdriveBackup>
   <StarFighters>Twelve starfighters</StarFighters>
   <NaviComputer>true</NaviComputer>
+  <SensorRangeValue>srMedium</SensorRangeValue>
   <Crew>9000 to 16000 officers, pilots, and enlisted</Crew>
   <EncumbranceCapacity>7500</EncumbranceCapacity>
   <Passengers>3000</Passengers>
@@ -41,14 +44,22 @@ Considered old and outdated at the outbreak of the Clone Wars, Rendili StarDrive
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOMED</Key>
@@ -56,13 +67,23 @@ Considered old and outdated at the outbreak of the Clone Wars, Rendili StarDrive
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
         <Aft>true</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Aft</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOMED</Key>
@@ -70,13 +91,23 @@ Considered old and outdated at the outbreak of the Clone Wars, Rendili StarDrive
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>3</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOLT</Key>
@@ -84,13 +115,23 @@ Considered old and outdated at the outbreak of the Clone Wars, Rendili StarDrive
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>3</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>TURBOLT</Key>
@@ -98,20 +139,35 @@ Considered old and outdated at the outbreak of the Clone Wars, Rendili StarDrive
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERHVY</Key>
       <Count>5</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERHVY</Key>
       <Count>5</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

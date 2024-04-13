@@ -5,51 +5,94 @@
   <Description>[H3]M12-L Kimogila Heavy Starfighter[h3]
 A long-range, multipurpose starfighter more durable than most craft used by the cartels, the Kimogila is the product of a contract between the Hutts and MandalMotors to design and build a ship to meet the kajidics' needs. The result was the M12-L Kimogila, a robust, heavily armed and armored starfighter able to fill the role of patrol ship, space superiority fighter, or attack craft. Though not as compact or nimble as earlier vessels built by MandalMotors for the Hutt kajidics, the Kimogila's strength, flexibility, and sheer firepower make it a match for virtually any other starfighter in the galaxy and a favorite of many freelance mercenaries, privateers, and wandering blades for hire.
 [P][I]Note: Proton torpedo can be swapped with a concussive missile launcher.[i]</Description>
-  <Source>Keeping the Peace</Source>
+  <Source Page="60">Keeping the Peace</Source>
   <Custom>DescOnly</Custom>
   <Type>Starfighter</Type>
   <Categories>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>2</HP>
   <Price>150000</Price>
   <Rarity>5</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <WeaponModifiers />
+  <MaxAltitude />
   <HyperdrivePrimary>2</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
   <NaviComputer>true</NaviComputer>
   <SensorRangeValue>srShort</SensorRangeValue>
   <Crew>One pilot</Crew>
   <EncumbranceCapacity>20</EncumbranceCapacity>
+  <Passengers>0</Passengers>
   <Consumables>Two weeks</Consumables>
   <Silhouette>4</Silhouette>
   <Speed>4</Speed>
   <Handling>-1</Handling>
   <DefFore>2</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>3</Armor>
   <HullTrauma>16</HullTrauma>
   <SystemStrain>14</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
   <SinglePilot>true</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>2</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZoneValue>None</DefZoneValue>
+          <QualReplace>false</QualReplace>
+          <SkillIsCareer>false</SkillIsCareer>
+          <SkillIsRanked>false</SkillIsRanked>
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
+          <InnateSkills />
+          <ActiveQualityKey />
+          <Failed>false</Failed>
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERHVY</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>PTL</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
+  <BuiltInAttachments />
   <SensorRange>Short</SensorRange>
 </Vehicle>

@@ -8,40 +8,64 @@
 The A-7 Hunter Interceptor was Kuat Drive Yards' updated snub fighter entry into the inexpensive starfighter market in the years following the Clone Wars. As KDY provided Imperial Star Destroyers and other starships to the Imperial fleet, many Imperial officers felt the company was the logical choice to supply fighters as well. Some arranged procurement of the A-7 for their own vessels. When Sienar Fleet Systems' cheaper TIE fighters became the standard Imperial fighter, the A-7 was relegated to lesser roles and locales. Eventually, the A-7s were sold off to planetary governments, corporations, and selected paramilitary organizations. They became a staple of mercenary units, and inevitably trickled into pirate and criminal fleets.
 
 [P]The A-7 is a basic short-range fighter, with no hyperdrive or shields, and limited weaponry. It is comparable to the TIE fighter, its main marketplace competitor.</Description>
-  <Source>Dangerous Covenants</Source>
+  <Source Page="65">Dangerous Covenants</Source>
   <Custom>DescOnly</Custom>
   <Type>Starfighter</Type>
   <Categories>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>1</HP>
   <Price>80000</Price>
   <Rarity>6</Rarity>
+  <Restricted>false</Restricted>
+  <MaxAltitude />
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
   <StarFighters>None</StarFighters>
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srClose</SensorRangeValue>
   <Crew>One pilot</Crew>
   <EncumbranceCapacity>4</EncumbranceCapacity>
+  <Passengers>0</Passengers>
   <Consumables>One day</Consumables>
   <Silhouette>3</Silhouette>
   <Speed>5</Speed>
   <Handling>2</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>2</Armor>
   <HullTrauma>6</HullTrauma>
   <SystemStrain>7</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERMED</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

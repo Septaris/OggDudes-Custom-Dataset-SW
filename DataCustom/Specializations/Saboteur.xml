@@ -4,8 +4,11 @@
   <Name>Saboteur</Name>
   <Description>
     [H4]Saboteur - Making Thing Stop[h4]
+
 Almost anathema to the usual technician's mentality, the Saboteur specializes in disrupting and destroying technical and mechanical assets. His job is to diminish the enemy's capacity to wage war by denying the enemy use of its weapons and vehicles. Of course, it takes a high degree of understanding about how something works in order to ensure it ceases working, or better still, to ensure it never works again.
+
 [P]For a Saboteur, [B]Coordination, Mechanics, Skulduggery,[b] and [B]Stealth[b] are all additional career skills, and if this is the first chosen specialization, the PC gains a free rank in two of these. Saboteurs are, by nature, covert operation specialists with a strong need to be able to sneak in and out of enemy facilities. In addition, they understand that disrupting the computer networks that run such facilities is a key to success.
+
 [P]Blowing things up is a popular way to commit sabotage, and Saboteurs are often the best at handling demolitions tasks (often using a combination of Mechanics and Skulduggery). However, there are many other ways to disrupt and destroy machinery, and the Saboteur knows them all. Most often, he will seek a way to cause the most damage and the most chaos at just the right moment. For the Saboteur (especially one with a sense of style), timing is everything.
 [P]The Alliance makes quiet yet effective use of its Saboteurs. Though terrorism is not a part of the battle plan (and is expressly forbidden by Mon Mothma and the rest of the Alliance Council), acts of military sabotage are known to be highly effective in evening the odds before a battle. Most commanders in the Rebellion will simply indicate a target and a time frame, allowing the Saboteur to use his creativity and resourcefulness to achieve the objective.</Description>
   <Source Page="86">Age of Rebellion Core Rulebook</Source>
@@ -18,6 +21,7 @@ Almost anathema to the usual technician's mentality, the Saboteur specializes in
   </CareerSkills>
   <TalentRows>
     <TalentRow>
+      <Index>0</Index>
       <Cost>5</Cost>
       <Talents>
         <Key>RESOLVE</Key>
@@ -29,8 +33,10 @@ Almost anathema to the usual technician's mentality, the Saboteur specializes in
         <Direction>
           <Down>true</Down>
         </Direction>
-        <Direction />
-        <Direction />
+        <Direction>
+        </Direction>
+        <Direction>
+        </Direction>
         <Direction>
           <Down>true</Down>
         </Direction>
@@ -51,18 +57,18 @@ Almost anathema to the usual technician's mentality, the Saboteur specializes in
           <Up>true</Up>
         </Direction>
         <Direction>
-          <Left>true</Left>
-          <Right>true</Right>
           <Down>true</Down>
+          <Right>true</Right>
+          <Left>true</Left>
         </Direction>
         <Direction>
+          <Down>true</Down>
           <Left>true</Left>
           <Right>true</Right>
-          <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>true</Left>
           <Up>true</Up>
+          <Left>true</Left>
         </Direction>
       </Directions>
     </TalentRow>
@@ -77,21 +83,21 @@ Almost anathema to the usual technician's mentality, the Saboteur specializes in
       </Talents>
       <Directions>
         <Direction>
+          <Down>true</Down>
           <Right>true</Right>
-          <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>true</Left>
+          <Down>true</Down>
           <Up>true</Up>
-          <Down>true</Down>
+          <Left>true</Left>
         </Direction>
         <Direction>
+          <Up>true</Up>
           <Right>true</Right>
-          <Up>true</Up>
         </Direction>
         <Direction>
-          <Left>true</Left>
           <Down>true</Down>
+          <Left>true</Left>
         </Direction>
       </Directions>
     </TalentRow>
@@ -109,17 +115,17 @@ Almost anathema to the usual technician's mentality, the Saboteur specializes in
           <Up>true</Up>
         </Direction>
         <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
           <Right>true</Right>
-          <Up>true</Up>
-          <Down>true</Down>
         </Direction>
         <Direction>
+          <Down>true</Down>
           <Left>true</Left>
-          <Down>true</Down>
         </Direction>
         <Direction>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
         </Direction>
       </Directions>
     </TalentRow>

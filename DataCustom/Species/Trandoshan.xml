@@ -16,7 +16,7 @@ Trandoshans are belligerent, lizard-like humanoids who have an avowed hatred of 
 [P]As Trandoshan society has evolved in the galactic community, the importance of the hunt has merged with other societal pursuits as well. Now, a Trandoshan doctor may "hunt" for a cure against a virulent disease threatening his people, or a Trandoshan engineer may "hunt" for better starship designs or more potent weaponry. In fact, almost any action that betters the Trandoshan people can be justified as a worthy "hunt" in the eyes of Trandoshan culture. Of course, this leaves little room for "frivolous" pursuits such as the arts. Homeworld: Most Trandoshans call their home planet Hsskor, though outlanders know it as Trandosha or 'Dosha. Trandosha shares the same star as the Wookiee homeworld of Kashyyyk. Trandoshans also colonized Trandosha's forest moon Wasskah.
 
 [P][B]Language:[b] The Trandoshan language, Dosh, sounds to the human ear like hisses and snarls. Trandoshans can learn and converse in Basic, though most of the words they speak carry a heavy sibilance. </Description>
-  <Source>Edge of the Empire Core Rulebook</Source>
+  <Source Page="50">Edge of the Empire Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>3</Brawn>
@@ -38,6 +38,15 @@ Trandoshans are belligerent, lizard-like humanoids who have an avowed hatred of 
       <RankLimit>2</RankLimit>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers>
+  </TalentModifiers>
+  <WeaponModifiers>
+    <WeaponModifier>
+      <AllSkillKey>BRAWL</AllSkillKey>
+      <DamageAdd>1</DamageAdd>
+      <Crit>3</Crit>
+    </WeaponModifier>
+  </WeaponModifiers>
   <OptionChoices>
     <OptionChoice>
       <Key>TRANDABREGEN</Key>
@@ -46,7 +55,7 @@ Trandoshans are belligerent, lizard-like humanoids who have an avowed hatred of 
         <Option>
           <Key>TRANDREGEN</Key>
           <Name>Wound Regeneration</Name>
-          <Description>Whenever a trandoshan would recover one or more wounds from natural rest or recuperation in a Bacta tank, he recovers one additional wound.  Trandoshans can regrow lost limbs as well, though it usually takes at least a month before the limb is usable.</Description>
+          <Description>Whenever a trandoshan would recover one or more wounds from natural rest or recuperation in a Bacta tank, he recovers one additional wound.  Trandoshans can regrow lost limbs as well, though it usully takes at least a month before the limb is usable.</Description>
         </Option>
       </Options>
     </OptionChoice>
@@ -62,12 +71,4 @@ Trandoshans are belligerent, lizard-like humanoids who have an avowed hatred of 
       </Options>
     </OptionChoice>
   </OptionChoices>
-  <WeaponModifiers>
-    <WeaponModifier>
-      <AllSkillKey>BRAWL</AllSkillKey>
-      <DamageAdd>1</DamageAdd>
-      <Crit>3</Crit>
-      <Range>Engaged</Range>
-    </WeaponModifier>
-  </WeaponModifiers>
 </Species>

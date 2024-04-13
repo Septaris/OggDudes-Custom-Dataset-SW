@@ -21,7 +21,7 @@
 
 [P]Of course, the most profitable cargoes are the ones that will land someone in the Kessel spice mines if he's caught with them.</Description>
   <Source Page="80">Edge of the Empire Core Rulebook</Source>
-  <Custom>DescOnly</Custom>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>COORD</Key>
     <Key>DECEP</Key>
@@ -34,12 +34,16 @@
   </CareerSkills>
   <Specializations>
     <Key>CHARMER</Key>
+    <Key>FORCEADHERENT</Key>
     <Key>GAMBLER</Key>
     <Key>GUNSLINGER</Key>
+    <Key>IMPERIALACADEMYCADET</Key>
+    <Key>PADAWANSURVIVOR</Key>
     <Key>PILOT</Key>
+    <Key>PIRATE</Key>
+    <Key>RETIREDCLONETROOPER</Key>
     <Key>SCOUND</Key>
+    <Key>SHIPCAPTAIN</Key>
     <Key>THIEF</Key>
   </Specializations>
-  <Attributes />
-  <FreeRanks>4</FreeRanks>
 </Career>

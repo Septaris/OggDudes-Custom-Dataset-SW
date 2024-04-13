@@ -9,7 +9,7 @@ garage, workshop, fabrication facility, and
 shelter, the L-120 modular motor pool is designed to hold ground vehicles and their support
 equipment. Little more than a large, lowceilinged
 open space with a large door taking
-up one long wall, the L-1 20 model modular
+up one long wall, the L-120 model modular
 motor pool can hold a number of land vehicles
 with silhouettes totaling no more than 6 and all
 the tools, lifts, and heavy equipment required to
@@ -19,14 +19,36 @@ keep them in working order.
   <Custom>DescOnly</Custom>
   <Type>Field Equipment</Type>
   <Categories />
+  <Encumbrance>0</Encumbrance>
+  <HP>0</HP>
   <Price>1200</Price>
   <Rarity>2</Rarity>
-  <StarFighters>Land vehicles totaling up to silhouette 6</StarFighters>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <WeaponModifiers />
+  <MaxAltitude />
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters>Land vehicles totalling up to silhouette 6</StarFighters>
+  <NaviComputer>false</NaviComputer>
   <SensorRangeValue>srNone</SensorRangeValue>
   <Crew>One to ten mechanics</Crew>
   <EncumbranceCapacity>200</EncumbranceCapacity>
+  <Passengers>0</Passengers>
+  <Consumables />
   <Silhouette>4</Silhouette>
+  <Speed>0</Speed>
+  <Handling>0</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
+  <Armor>0</Armor>
   <HullTrauma>18</HullTrauma>
   <SystemStrain>10</SystemStrain>
-  <SensorRange>No Sensors</SensorRange>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
+  <VehicleWeapons />
+  <BuiltInAttachments />
 </Vehicle>

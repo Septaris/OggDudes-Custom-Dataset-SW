@@ -4,7 +4,9 @@
   <Name>Advisor</Name>
   <Description>[H4]Advisor[h4]
 Not everyone who is skilled in the ways of the Force seeks to hold a position Of tremendous authority. In fact, some believe they would find it too easy to abuse their unique abilities if they placed themselves in a position of leadership. Instead, they choose to accept the Advisor's role to ensure they cannot be corrupted by the lure of power. Others feel their advice too valuable to limit to one planet or region and wander the stars, sowing the guidance of the Force wherever they might go. Socially adept and Force-sensitive characters with either of these philosophies can be excellent fits for the Advisor specialization.
+
 [P]Advisors acquire [B]Charm, Deception, Negotiation,[b] and [B]Streetwise[b] as additional career skills. If this is the characters starting specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. This combination enables Advisors to take a very pragmatic approach in working with others and offering them the guidance of the Force. An accomplished Advisor can quickly analyze the risks of a situation and then, using the necessary tools, influence the involved parties so that a desired outcome is rapidly achieved. A less scrupulous individual with these techniques could become a successful con artist. Advisors must be careful to avoid that fate.
+
 [P]Some Advisors attach themselves to a planetary government, helping to shape the rule of law and ensure fairness and justice for all. Many popular rulers have had wise Advisors at hand, helping ensure their policies do the most good for the greatest number. Other Advisors choose to work in less glamorous roles—often among the poor and the desperate. There, they try to counsel and guide individuals in dire straits, sometimes providing salvation to those who have lost all hope.</Description>
   <Source Page="81">Force and Destiny Core Rulebook</Source>
   <Custom>DescOnly</Custom>
@@ -16,6 +18,7 @@ Not everyone who is skilled in the ways of the Force seeks to hold a position Of
   </CareerSkills>
   <TalentRows>
     <TalentRow>
+      <Index>0</Index>
       <Cost>5</Cost>
       <Talents>
         <Key>PLAUSDEN</Key>
@@ -25,20 +28,33 @@ Not everyone who is skilled in the ways of the Force seeks to hold a position Of
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>10</Cost>
       <Talents>
         <Key>TOUGH</Key>
@@ -48,22 +64,33 @@ Not everyone who is skilled in the ways of the Force seeks to hold a position Of
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>15</Cost>
       <Talents>
         <Key>GRIT</Key>
@@ -73,26 +100,33 @@ Not everyone who is skilled in the ways of the Force seeks to hold a position Of
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
+          <Up>false</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>20</Cost>
       <Talents>
         <Key>NOBFOOL</Key>
@@ -102,6 +136,7 @@ Not everyone who is skilled in the ways of the Force seeks to hold a position Of
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
@@ -110,6 +145,7 @@ Not everyone who is skilled in the ways of the Force seeks to hold a position Of
           <Left>true</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
@@ -119,12 +155,14 @@ Not everyone who is skilled in the ways of the Force seeks to hold a position Of
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
     <TalentRow>
+      <Index>0</Index>
       <Cost>25</Cost>
       <Talents>
         <Key>DEDI</Key>
@@ -134,21 +172,63 @@ Not everyone who is skilled in the ways of the Force seeks to hold a position Of
       </Talents>
       <Directions>
         <Direction>
+          <Left>false</Left>
           <Right>true</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
+          <Up>false</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
           <Left>true</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
         <Direction>
+          <Left>false</Left>
+          <Right>false</Right>
           <Up>true</Up>
+          <Down>false</Down>
         </Direction>
       </Directions>
     </TalentRow>
   </TalentRows>
+  <Universal>false</Universal>
+  <Attributes>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
+    <Experience>0</Experience>
+    <ForceRating>0</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+    </Requirement>
+  </Attributes>
+  <Requirements>
+    <WoundThreshold>0</WoundThreshold>
+    <StrainThreshold>0</StrainThreshold>
+    <DefenseRanged>0</DefenseRanged>
+    <DefenseMelee>0</DefenseMelee>
+    <SoakValue>0</SoakValue>
+    <Experience>0</Experience>
+    <ForceRating>0</ForceRating>
+    <Requirement>
+      <WearingArmor>false</WearingArmor>
+      <Career>false</Career>
+      <Specialization>false</Specialization>
+      <NonCareer>false</NonCareer>
+      <SoakAtLeast>0</SoakAtLeast>
+    </Requirement>
+  </Requirements>
 </Specialization>

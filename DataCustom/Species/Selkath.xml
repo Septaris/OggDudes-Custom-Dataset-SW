@@ -4,9 +4,9 @@
   <Name>Selkath</Name>
   <Description>[H4]Selkath[h4]
 
-Selkath are the native species of the planet Manaan. An amphibious species, they are excellent swimmers and have the ability to hold their breath for very long periods of time when under water. Though they resemble anthropomorphic catfish and have aqua-coloured skin, they do not have gills. All members of the Selkath race have venom-tipped, retractable claws. Similar to the Wookiees, the use of these claws in any form of combat is considered dishonorable and a sign of madness.
+Selkath are the native species of the planet Manaan. An amphibious species, they are excellent swimmers and have the ability to hold their breath for very long periods of time when under water. Though they resemble anthropomorphic catfish and have aqua-coloured skin, they do not have gills. All members of the Selkath race have venom-tipped, retractable claws. Similar to the Wookiees, the use of these claws in any form of combat is considered dishonourable and a sign of madness.
 
-[P][B]Physiology:[b] As an aquatic species, the Selkath are skilled swimmers. They resemble anthropomorphic sting rays and have blue-,pink- or green-colored skin, which is patterned for underwater camouflage, and their mouths are bracketed by cephalic lobes. They tend to stroke these during conversation, analogous to the Human habit of stroking facial hair, such as mustaches.
+[P][B]Physiology:[b] As an aquatic species, the Selkath are skilled swimmers. They resemble anthropomorphic sting rays and have blue-, pink- or green-colored skin, which is patterned for underwater camouflage, and their mouths are bracketed by cephalic lobes. They tend to stroke these during conversation, analogous to the Human habit of stroking facial hair, such as mustaches.
 
 [P]All members of the Selkath race have retractable, venom-tipped claws. Similar to the Wookiees, the use of these claws in any form of combat or attack is considered dishonorable and a sign of madness; to do this is to give in to animal instincts unbecoming of a sentient species. The females Selkath differ from males by the presence of a number of tendrils at the back of their heads.
 
@@ -42,6 +42,7 @@ Selkath are the native species of the planet Manaan. An amphibious species, they
     <OptionChoice>
       <Key>SELKATHCH1</Key>
       <Name>Skills</Name>
+      <Description />
       <Options>
         <Option>
           <Key>SELKATHCH1OP1</Key>
@@ -54,6 +55,7 @@ one free rank in Medicine.</Description>
               <RankStart>1</RankStart>
             </SkillModifier>
           </SkillModifiers>
+          <TalentModifiers />
         </Option>
         <Option>
           <Key>SELKATHCH1OP2</Key>
@@ -66,12 +68,14 @@ one free rank in Negotiation.</Description>
               <RankStart>1</RankStart>
             </SkillModifier>
           </SkillModifiers>
+          <TalentModifiers />
         </Option>
       </Options>
     </OptionChoice>
     <OptionChoice>
       <Key>SELKATHCH2</Key>
       <Name>Swim</Name>
+      <Description />
       <Options>
         <Option>
           <Key>SELKATHCH2OP1</Key>

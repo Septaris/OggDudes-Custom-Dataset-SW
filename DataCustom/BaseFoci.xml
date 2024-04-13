@@ -9,7 +9,7 @@
 [B]Party Career Skill:[b] Negotiation
 
 [P]Entertainment venues include cantinas, nightclubs, casinos, and restaurants.</Description>
-    <Source>Far Horizons</Source>
+    <Source Page="84">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <CareerSkillKeys>
       <Key>CHARM</Key>
@@ -24,7 +24,7 @@
 [B]Party Career Skill:[b] Resilience
 
 [P]Farms grow crops for food or industrial purposes. </Description>
-    <Source>Far Horizons</Source>
+    <Source Page="84">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <CareerSkillKeys>
       <Key>RESIL</Key>
@@ -37,8 +37,10 @@
       [H4]Meeting Center[h4]
 
 At times, emissaries require a clandestine location where they can meet discreetly with representatives of groups that oppose the Empire. Bases that serve as private, secure meeting centers must have Improved Security. Additionally, they might benefit from a Landing Bay or an Armory.</Description>
-    <Source>Desperate Allies</Source>
+    <Source Page="88">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
+    <CareerSkillKeys>
+    </CareerSkillKeys>
   </BaseFocus>
   <BaseFocus>
     <Key>BASEMINE</Key>
@@ -49,7 +51,7 @@ At times, emissaries require a clandestine location where they can meet discreet
 [B]Party Career Skill:[b] Athletics
 
 [P]Mines extract natural resources from the environment.</Description>
-    <Source>Far Horizons</Source>
+    <Source Page="84">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <CareerSkillKeys>
       <Key>ATHL</Key>
@@ -65,7 +67,7 @@ At times, emissaries require a clandestine location where they can meet discreet
 
 [P]Ranches focus on raising animals for pets, food, or labor.
 </Description>
-    <Source>Far Horizons</Source>
+    <Source Page="84">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <CareerSkillKeys>
       <Key>SURV</Key>
@@ -76,8 +78,10 @@ At times, emissaries require a clandestine location where they can meet discreet
     <Name>Research Facility</Name>
     <Description>
       [H4]Research Facility[h4]</Description>
-    <Source>Desperate Allies</Source>
+    <Source Page="88">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
+    <CareerSkillKeys>
+    </CareerSkillKeys>
   </BaseFocus>
   <BaseFocus>
     <Key>BASERETAIL</Key>
@@ -89,7 +93,7 @@ At times, emissaries require a clandestine location where they can meet discreet
 
 [P]Retail shops stock and sell a single category of gear, such as ranged weapons, melee weapons, armor, communications, detection devices, medical, cybernetics, recreational entertainment, security, survival, tools, droids, ground vehicles, airspeeders, or starships.
     </Description>
-    <Source>Far Horizons</Source>
+    <Source Page="84">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <CareerSkillKeys>
       <Key>NEG</Key>
@@ -102,8 +106,10 @@ At times, emissaries require a clandestine location where they can meet discreet
       [H4]Safe House[h4]
 
 Some bases are designed to accommodate a small number of people deep within enemy territory providing them with a place for private communications as well as a facility to store contraband. A safe house would benefit from Improved Security and, in some instances, a Medical Facility.</Description>
-    <Source>Desperate Allies</Source>
+    <Source Page="88">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
+    <CareerSkillKeys>
+    </CareerSkillKeys>
   </BaseFocus>
   <BaseFocus>
     <Key>BASESERVICE</Key>
@@ -114,7 +120,7 @@ Some bases are designed to accommodate a small number of people deep within enem
 [B]Party Career Skill:[b] Choose either Mechanics, Computers, or a single applicable Knowledge skill for the entire party.
 
 [P]Service businesses might include a repair shop, medical clinic, gym, adventure travel firm, consulting firm, a taxi stand, or countless others. </Description>
-    <Source>Far Horizons</Source>
+    <Source Page="84">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <CareerSkillKeys>
       <Key>MECH</Key>
@@ -138,7 +144,7 @@ Some bases are designed to accommodate a small number of people deep within enem
 [B]Party Career Skill:[b] Piloting (Space)
 
 [P]The Space Station usually sells consumables, repairs, and entertainment to passing ships (although this could also be considered a business, its self-sufficiency makes the homestead rules more appropriate).</Description>
-    <Source>Far Horizons</Source>
+    <Source Page="84">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <CareerSkillKeys>
       <Key>PILOTSP</Key>
@@ -151,8 +157,10 @@ Some bases are designed to accommodate a small number of people deep within enem
       [H4]Training Camp[h4]
 
 A training camp prepares units in essential tactics. Some trainees might have already undergone some level of orientation, but often they are largely untrained. A training camp requires a Training Facility. Depending on the nature of the training, the base might also require an Armory, a Mechanic's Garage, a Landing Bay, or a Supply Depot.</Description>
-    <Source>Desperate Allies</Source>
+    <Source Page="88">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
+    <CareerSkillKeys>
+    </CareerSkillKeys>
   </BaseFocus>
   <BaseFocus>
     <Key>BASEWEAP</Key>
@@ -160,9 +168,12 @@ A training camp prepares units in essential tactics. Some trainees might have al
     <Description>
       [H4]Weapon Depot[h4]
 </Description>
-    <Source>Desperate Allies</Source>
+    <Source Page="88">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
+    <CareerSkillKeys>
+    </CareerSkillKeys>
   </BaseFocus>
+
   <BaseFocus>
     <Key>WORKCOMP</Key>
     <Name>Computer Shop</Name>
@@ -190,7 +201,7 @@ A training camp prepares units in essential tactics. Some trainees might have al
       <Key>MECH</Key>
     </CareerSkillKeys>
   </BaseFocus>
-<BaseFocus>
+  <BaseFocus>
     <Key>WORKMED</Key>
     <Name>Cybernetics Shop</Name>
     <Description>
@@ -204,4 +215,5 @@ A training camp prepares units in essential tactics. Some trainees might have al
       <Key>MED</Key>
     </CareerSkillKeys>
   </BaseFocus>
-  </BaseFoci>
+
+</BaseFoci>

@@ -3,7 +3,9 @@
   <Key>ASSAS</Key>
   <Name>Assassin</Name>
   <Description>[H4]Assassin - Instrument of Policy[h4]
+
 [P]Whereas most Bounty Hunters focus primarily on the capture of quarry, those who specialize as Assassins are generally tasked with the straightforward proposition of terminating their targets. The selection of additional skills for an Assassin very much points towards his focus: [B]Melee, Ranged (Heavy), Skulduggery,[b] and [B]Stealth[b]. These four skills become additional Career skills. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. Assassins tend to prefer getting in quietly, taking out targets (either up close or sniping from afar), and leaving just as silently as they entered. Their talents are very appropriate for this kind of work.
+
 [P]Despite their different methods, Assassins still adhere to many of the same ethics and practices of other Bounty Hunters. They take their work very seriously, avoid all needless bloodshed, and honor their contracts to the letter. Some treat their methods with reverence, even assigning a certain mystique to it. Others simply see themselves as cold killers, and are just fine with it.</Description>
   <Source Page="59">Edge of the Empire Core Rulebook</Source>
   <Custom>DescOnly</Custom>
@@ -15,6 +17,7 @@
   </CareerSkills>
   <TalentRows>
     <TalentRow>
+      <Index>0</Index>
       <Cost>5</Cost>
       <Talents>
         <Key>GRIT</Key>
@@ -48,26 +51,26 @@
       </Talents>
       <Directions>
         <Direction>
-          <Right>true</Right>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
+          <Right>true</Right>
         </Direction>
         <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
           <Left>true</Left>
           <Right>true</Right>
-          <Up>true</Up>
-          <Down>true</Down>
         </Direction>
         <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
           <Left>true</Left>
           <Right>true</Right>
-          <Up>true</Up>
-          <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>true</Left>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
+          <Left>true</Left>
         </Direction>
       </Directions>
     </TalentRow>
@@ -82,22 +85,22 @@
       </Talents>
       <Directions>
         <Direction>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
         </Direction>
         <Direction>
+          <Up>true</Up>
+          <Down>true</Down>
           <Right>true</Right>
-          <Up>true</Up>
-          <Down>true</Down>
         </Direction>
         <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
           <Left>true</Left>
-          <Up>true</Up>
-          <Down>true</Down>
         </Direction>
         <Direction>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
         </Direction>
       </Directions>
     </TalentRow>
@@ -112,22 +115,22 @@
       </Talents>
       <Directions>
         <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
           <Right>true</Right>
-          <Up>true</Up>
-          <Down>true</Down>
         </Direction>
         <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
           <Left>true</Left>
-          <Up>true</Up>
-          <Down>true</Down>
         </Direction>
         <Direction>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
         </Direction>
         <Direction>
-          <Up>true</Up>
           <Down>true</Down>
+          <Up>true</Up>
         </Direction>
       </Directions>
     </TalentRow>

@@ -9,29 +9,22 @@ Many Force users develop the ability to shift objects without physically handlin
 juggle heavy crates in the air. Other applications of the power allow for Force users to manipulate control panels or computer keyboards at a distance. There is thought to be no limit to what a Force user could move with the application of enough concentration.
 
 [P]When moving items, the default speed is slow and deliberate, not fast enough to inflict injury or accurate enough to allow for fine manipulation.</Description>
+  <Sources>
+    <Source Page="283">Edge of the Empire Core Rulebook</Source>
+    <Source Page="296">Age of Rebellion Core Rulebook</Source>
+    <Source Page="298">Force and Destiny Core Rulebook</Source>
+  </Sources>
   <Custom>DescOnly</Custom>
+  <MinForceRating>1</MinForceRating>
   <AbilityRows>
     <AbilityRow>
+      <Index>0</Index>
       <Abilities>
         <Key>MOVEBASIC</Key>
         <Key>MOVEBASIC</Key>
         <Key>MOVEBASIC</Key>
         <Key>MOVEBASIC</Key>
       </Abilities>
-      <Directions>
-        <Direction>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Down>true</Down>
-        </Direction>
-      </Directions>
       <AbilitySpan>
         <Span>4</Span>
         <Span>0</Span>
@@ -44,6 +37,20 @@ juggle heavy crates in the air. Other applications of the power allow for Force 
         <Cost>0</Cost>
         <Cost>0</Cost>
       </Costs>
+      <Directions>
+        <Direction>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+        </Direction>
+      </Directions>
     </AbilityRow>
     <AbilityRow>
       <Index>1</Index>
@@ -53,24 +60,6 @@ juggle heavy crates in the air. Other applications of the power allow for Force 
         <Key>MOVERANGE</Key>
         <Key>MOVERANGE</Key>
       </Abilities>
-      <Directions>
-        <Direction>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-      </Directions>
       <AbilitySpan>
         <Span>1</Span>
         <Span>1</Span>
@@ -83,6 +72,24 @@ juggle heavy crates in the air. Other applications of the power allow for Force 
         <Cost>5</Cost>
         <Cost>5</Cost>
       </Costs>
+      <Directions>
+        <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Up>true</Up>
+          <Down>true</Down>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
+        </Direction>
+      </Directions>
     </AbilityRow>
     <AbilityRow>
       <Index>2</Index>
@@ -92,24 +99,6 @@ juggle heavy crates in the air. Other applications of the power allow for Force 
         <Key>MOVECONTROL1</Key>
         <Key>MOVECONTROL1</Key>
       </Abilities>
-      <Directions>
-        <Direction>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-      </Directions>
       <AbilitySpan>
         <Span>1</Span>
         <Span>1</Span>
@@ -122,6 +111,24 @@ juggle heavy crates in the air. Other applications of the power allow for Force 
         <Cost>10</Cost>
         <Cost>0</Cost>
       </Costs>
+      <Directions>
+        <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
+        </Direction>
+      </Directions>
     </AbilityRow>
     <AbilityRow>
       <Index>3</Index>
@@ -131,24 +138,6 @@ juggle heavy crates in the air. Other applications of the power allow for Force 
         <Key>MOVECONTROL2</Key>
         <Key>MOVERANGE</Key>
       </Abilities>
-      <Directions>
-        <Direction>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-        <Direction>
-          <Up>true</Up>
-          <Down>true</Down>
-        </Direction>
-      </Directions>
       <AbilitySpan>
         <Span>1</Span>
         <Span>1</Span>
@@ -161,6 +150,24 @@ juggle heavy crates in the air. Other applications of the power allow for Force 
         <Cost>5</Cost>
         <Cost>15</Cost>
       </Costs>
+      <Directions>
+        <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Down>true</Down>
+          <Up>true</Up>
+        </Direction>
+      </Directions>
     </AbilityRow>
     <AbilityRow>
       <Index>4</Index>
@@ -170,20 +177,6 @@ juggle heavy crates in the air. Other applications of the power allow for Force 
         <Key>MOVECONTROL3</Key>
         <Key>MOVECONTROL3</Key>
       </Abilities>
-      <Directions>
-        <Direction>
-          <Up>true</Up>
-        </Direction>
-        <Direction>
-          <Up>true</Up>
-        </Direction>
-        <Direction>
-          <Up>true</Up>
-        </Direction>
-        <Direction>
-          <Up>true</Up>
-        </Direction>
-      </Directions>
       <AbilitySpan>
         <Span>1</Span>
         <Span>1</Span>
@@ -196,6 +189,20 @@ juggle heavy crates in the air. Other applications of the power allow for Force 
         <Cost>15</Cost>
         <Cost>0</Cost>
       </Costs>
+      <Directions>
+        <Direction>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Up>true</Up>
+        </Direction>
+        <Direction>
+          <Up>true</Up>
+        </Direction>
+      </Directions>
     </AbilityRow>
   </AbilityRows>
 </ForcePower>

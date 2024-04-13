@@ -2,7 +2,7 @@
 <Specialization>
   <Key>COURIER</Key>
   <Name>Courier</Name>
-  <Description>[H4] Courier – Ensuring Delivery[h4]
+  <Description>[H4] Courier - Ensuring Delivery[h4]
 There is more to military intelligence than stealing the enemy's secrets. That data must be secured and delivered to the specialists who can best exploit it. The Courier specializes in transporting critical information, often while working incognito far behind enemy lines. These experts take the necessary risks of repeatedly crossing through security checkpoints or even active battlefronts. They must be capable of operating under foes' scrutiny without drawing undue attention. To a certain extent, these Spies are a very specialized type of smuggler, dealing primarily in information rather than physical goods. Not surprisingly, many Couriers developed underworld contacts working as smugglers prior to joining the Rebellion.
 [P]Couriers acquire [B]Athletics, Deception, Streetwise,[b] and [B]Vigilance[b] as additional career skills. If this is the character's starting specialization, the player may choose two of these skills and gain one free rank in each without spending starting experience. In order to avoid Imperial entanglements, Couriers must be capable of operating without drawing attention to themselves. As they cannot expect to always succeed, these characters must also recognize the signs of trouble and have the ability to act quickly to escape entrapment. Because they often face overwhelming odds, personal speed is typically a higher priority than a trusted weapon.
 [P]Some Couriers prefer to work consistent routes as they shuttle information away from prying Imperial eyes. These specialists need a reliable cover story that they can use repeatedly. They might pose as merchants or transport drivers plying consistent trade routes. In a few instances, a Rebel might even take on the cover profession as a means of obtaining additional income, carrying innocuous cargo to market while smuggling critical information. Such Spies go to great lengths to ensure that their business interests are completely legitimate, so that they do not attract any undue attention. They also make sure that those interests are at least marginally profitable. A merchant who loses money consistently for years, after all, is just as likely to draw government attention as one who manages exorbitant profits. These individuals may even establish friendly relationships with the guards along their routes, and their frequent passage through Imperial territory becomes just a part of a station's routine traffic. In these cases, typically only a subset of their transits include military intelligence.
@@ -73,7 +73,7 @@ There is more to military intelligence than stealing the enemy's secrets. That d
         <Key>GRIT</Key>
         <Key>INDIS</Key>
         <Key>FREERUN</Key>
-        <Key>SHORTCUT</Key>
+        <Key>GRIT</Key>
       </Talents>
       <Directions>
         <Direction>

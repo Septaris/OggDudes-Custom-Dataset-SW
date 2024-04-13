@@ -2,9 +2,8 @@
 <Vehicle>
   <Key>FANGFIGHT</Key>
   <Name>Fang Fighter</Name>
-  <Description>[H3]Mandalorian Protectorate "Fang" Starfighter[h3]
-A starfighter used by the Mandalorian Protectors, an elite group of warriors sworn to defend the Concord Dawn system, the Fang fighter is a formidable ship designed specifically for close combat. Featuring wings which pivot around the central cockpit, providing vector thrust control, the Fang is able to perform maneuvers few other fighters are capable of matching. The intimidating ship is armed with wing-mounted laser cannons and a proton torpedo launcher beneath the cockpit.
-[P]The legendary Fenn Rau personally trains all Protectorate fighter pilots, making the combination of pilot and vessel hard for anyone to match in battle.</Description>
+  <Description>[H3]Protector Fang Fighter[h3]
+Built for the Protectors' exclusive use, this agile starfighter is based on the designs for the Death Watch Gauntlet fighter used in the Clone Wars. The Fang fighter, however, is more compact and agile. Combining blazing speeds rarely found in other snubfighters with a unique pivot wing design to allow for unmatched maneuverability, the Fang Fighter is almost unrivaled when it comes to dogfighting. With dual laser cannons mounted on its rotating wingtips and a hidden proton torpedo launcher in its underbelly, the Fang fighter is capable of quickly destroying more heavily armored starfighters. Unfortunately, its lack of heavy armor, which allows it to maintain precision maneuverability, means that the Fang fighter can be destroyed with a few well aimed laser blasts.</Description>
   <Sources>
     <Source Page="58">No Disintegrations</Source>
     <Source Page="62">Unlimited Power</Source>

@@ -16,7 +16,7 @@ Hutts are large, long-lived gastropods with remarkable physical and mental stren
 [P][B]Homeworld:[b] Although originally from the world of Varl, the Hutts have long since claimed a new homeworld: Nal Hutta, whose name means "Glorious Jewel" in Huttese. Nal Hutta is mostly a polluted, swampy wasteland, of little interest to anyone but the Hutts. However, Nal Hutta's fifth moon, Nar Shaddaa, is a major spaceport and trade hub.
 
 [P][B]Language:[b] The Hutt language, Huttese, is spoken by sentient beings throughout the galaxy. It is a major trade language whose universality rivals Galactic Basic, especially in the Outer Rim and Hutt Space. Hutts are perfectly capable of learning to speak Basic, or almost any other language, but some Hutts choose not to (or choose to pretend not to) as a means of establishing their dominance. Many Hutts use translators, either droids or "servants."</Description>
-  <Source>Lords of Nal Hutta</Source>
+  <Source Page="94">Lords of Nal Hutta</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>3</Brawn>
@@ -31,6 +31,8 @@ Hutts are large, long-lived gastropods with remarkable physical and mental stren
     <StrainThreshold>11</StrainThreshold>
     <Experience>70</Experience>
   </StartingAttrs>
+  <SkillModifiers>
+  </SkillModifiers>
   <TalentModifiers>
     <TalentModifier>
       <Key>ENDUR</Key>

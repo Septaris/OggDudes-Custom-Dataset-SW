@@ -45,7 +45,7 @@ To hear of a Magus, even during the time of the Galactic Republic, would be a ra
         <Key>CONF</Key>
         <Key>HEALTRANCE</Key>
         <Key>CHANAG</Key>
-        <Key>SECLORE</Key>
+        <Key>SECRETLORE</Key>
       </Talents>
       <Directions>
         <Direction>
@@ -74,7 +74,7 @@ To hear of a Magus, even during the time of the Galactic Republic, would be a ra
       <Cost>15</Cost>
       <Talents>
         <Key>HEALTRANCEIMP</Key>
-        <Key>SECLORE</Key>
+        <Key>SECRETLORE</Key>
         <Key>RESOLVE</Key>
         <Key>KNOWPOW</Key>
       </Talents>

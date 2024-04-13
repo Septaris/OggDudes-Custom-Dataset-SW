@@ -5,40 +5,69 @@
   <Description>[H3]Regulator-class Patrol-Vessel[h3]
 
 Sienar Fleet Systems' Regulator-class patrol vessels have been a staple of intersystem law enforcement across the galaxy for decades. First introduced during the Clone Wars, the Regulator-class was designed as a high-performance pursuit craft and heavy interceptor with an eye toward policing and customs enforcement. Regulator-class ships are small for patrol boats, with an aggressively styled hull, oversized engines, and weapons systems slightly out of scale for such a small craft. Dedicated in-system craft, the short-legged Regulators have no hyperdrives and carry little in the way of provisions. Their interiors are incredibly cramped, with most of the space given over to the power, drive, flight, and weapon systems. Aside from the bare minimum facilities required to support their two man crew, Regulators also have a prisoner lockup that can hold up to six individuals in safety if not in comfort.</Description>
-  <Source>Far Horizons</Source>
+  <Source Page="55">Far Horizons</Source>
   <Custom>DescOnly</Custom>
   <Type>Patrol Boat</Type>
   <Categories>
     <Category>Non-Fighter Starship</Category>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>2</HP>
   <Price>110000</Price>
   <Rarity>6</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
+  <MaxAltitude />
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srMedium</SensorRangeValue>
   <Crew>One pilot, one co-pilot/engineer</Crew>
+  <EncumbranceCapacity>0</EncumbranceCapacity>
   <Passengers>6</Passengers>
   <Consumables>Seven days</Consumables>
   <Silhouette>4</Silhouette>
   <Speed>4</Speed>
+  <Handling>0</Handling>
   <DefFore>2</DefFore>
   <DefAft>1</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>3</Armor>
   <HullTrauma>18</HullTrauma>
   <SystemStrain>14</SystemStrain>
   <Starship>true</Starship>
+  <Massive>0</Massive>
+  <SinglePilot>false</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
+          <VehicleWeaponUpgrades />
+          <SelectedVehicleWeaponIndex>-1</SelectedVehicleWeaponIndex>
+          <DieModifiers />
         </Quality>
       </Qualities>
       <Key>IONLT</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
@@ -47,11 +76,14 @@ Sienar Fleet Systems' Regulator-class patrol vessels have been a staple of inter
         <Port>true</Port>
         <Starboard>true</Starboard>
         <Dorsal>true</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>LASERQUAD</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
 </Vehicle>

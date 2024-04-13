@@ -14,24 +14,24 @@ Loronar Corporation is an old, respected, and well-diversified corporation based
 [P]Some of the larger ships in their class, the Explorer-class ships are built for endurance and reliability. The hull is low and long, with soft, curved lines and a silhouette reminiscent of a sea creature. It has a medium-sized cargo hold equipped with a convenient load-management and inventory computer that assists in loading, unloading, and tracking cargo. It also boasts a quartet of small but comfortable passenger berths, a common-crew berthing area, and a common galley/head. The command deck is directly forward and seats three of the four-man crew: the pilot, copilot, and engineer. The loadmaster's station is in the cargo hold.
 
 [P]Despite their age, Explorer-class ships have a considerably modern layout, making accessing the various compartments and holds easy and intuitive. With their powerful scouting sensor arrays, reliable engines and flight-control computers, and onboard weapon systems, the Explorer-class ships are perfectly suited for long-range scouting, exploration, and even light trade.</Description>
-  <Source>Enter the Unknown</Source>
+  <Source Page="62">Enter the Unknown</Source>
   <Custom>DescOnly</Custom>
-  <BuiltInAttachments>
-    <Key>ENGACCESS</Key>
-  </BuiltInAttachments>
   <Type>Patrol Boat</Type>
   <Categories>
     <Category>Non-Fighter Starship</Category>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>4</HP>
   <Price>120000</Price>
   <Rarity>6</Rarity>
+  <MaxAltitude />
   <HyperdrivePrimary>1</HyperdrivePrimary>
   <HyperdriveBackup>12</HyperdriveBackup>
   <StarFighters>None</StarFighters>
   <NaviComputer>true</NaviComputer>
-  <Crew>One pilot, one co-pilot, one engineer, one loadmaster</Crew>
+  <SensorRangeValue>srMedium</SensorRangeValue>
+  <Crew>One pilot, one co-pilot, one engineeer, one loadmaster</Crew>
   <EncumbranceCapacity>60</EncumbranceCapacity>
   <Passengers>4</Passengers>
   <Consumables>Six months</Consumables>
@@ -40,6 +40,8 @@ Loronar Corporation is an old, respected, and well-diversified corporation based
   <Handling>-1</Handling>
   <DefFore>1</DefFore>
   <DefAft>1</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
   <Armor>4</Armor>
   <HullTrauma>25</HullTrauma>
   <SystemStrain>14</SystemStrain>
@@ -52,16 +54,22 @@ Loronar Corporation is an old, respected, and well-diversified corporation based
         <Port>true</Port>
         <Starboard>true</Starboard>
         <Dorsal>true</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Dorsal</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERMED</Key>
+      <Count>1</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
@@ -69,18 +77,26 @@ Loronar Corporation is an old, respected, and well-diversified corporation based
         <Aft>true</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
         <Ventral>true</Ventral>
       </FiringArcs>
       <Turret>true</Turret>
       <Location>Ventral</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
           <Count>1</Count>
+          <Index>0</Index>
+          <MiscDesc />
+          <DefZone />
         </Quality>
       </Qualities>
       <Key>LASERMED</Key>
+      <Count>1</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Close</SensorRange>
+  <BuiltInAttachments>
+    <Key>ENGACCESS</Key>
+  </BuiltInAttachments>
 </Vehicle>

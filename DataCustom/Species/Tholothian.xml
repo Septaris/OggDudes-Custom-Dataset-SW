@@ -35,17 +35,20 @@ A near-human species from one of the oldest planets (at least politically) in th
     <SkillModifier>
       <Key>XEN</Key>
       <RankStart>1</RankStart>
+      <RankLimit>2</RankLimit>
     </SkillModifier>
   </SkillModifiers>
+  <TalentModifiers>
+  </TalentModifiers>
   <OptionChoices>
     <OptionChoice>
-      <Key>THOLOTHIANCH1</Key>
+      <Key>THOLOTHIANAB1</Key>
       <Name>Social</Name>
       <Options>
         <Option>
-          <Key>THOLOTHIANCH1OP1</Key>
+          <Key>THOLOTHIANAB1OP1</Key>
           <Name>Cultural Adopters</Name>
-          <Description>When making a social skill check to interact with non-Tholothians, Tholothians add automatic [AD] to results.</Description>
+          <Description>Tholothians add an automatic [AD] when making social skill checks to interact with non-Tholothians.</Description>
           <DieModifiers>
             <DieModifier>
               <SkillKey>CHARM</SkillKey>
@@ -72,13 +75,13 @@ A near-human species from one of the oldest planets (at least politically) in th
       </Options>
     </OptionChoice>
     <OptionChoice>
-      <Key>THOLOTHIANCH2</Key>
-      <Name>Physiology</Name>
+      <Key>THOLOTHIANAB2</Key>
+      <Name>Healing</Name>
       <Options>
         <Option>
-          <Key>THOLOTHIANCH2OP1</Key>
+          <Key>THOLOTHIANAB2OP1</Key>
           <Name>Natural Roots</Name>
-          <Description>When making a check to heal strain while in a natural or wild setting, Tholothians heal one additional strain.</Description>
+          <Description>When making a check to heal strain in a natural or wild setting, Tholothians heal one additional strain.</Description>
         </Option>
       </Options>
     </OptionChoice>

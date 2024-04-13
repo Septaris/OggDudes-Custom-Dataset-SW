@@ -2,7 +2,7 @@
 <Vehicle>
   <Key>MAELSTROM</Key>
   <Name>Maelstrom-Class Battle Cruiser</Name>
-  <Description>[H3][I]Maelstrom[i] -Class Battle Cruiser[h3]
+  <Description>[H3][I]Maelstrom[i]-Class Battle Cruiser[h3]
 The Maelstrom-class battle cruiser belongs to the
 family of dagger-shaped proto-Star Destroyers,
 such as the Venator and Acclamator classes, used by
@@ -17,7 +17,7 @@ most impressive, vessels in the Republic Navy. Armed
 to the teeth and heavily armored, they were optimized
 for fleet command duties, with additional fleet carrier
 and planetary siege capabilities. They carried an
-entire wing of starfighters—1 20 ships and their attendant
+entire wing of starfighters—120 ships and their attendant
 support staff and facilities—and a full army of
 clones with weapons, vehicles, and assorted gear, and
 they were equipped with sophisticated command and
@@ -67,19 +67,24 @@ home in the Alliance Navy.</Description>
     <Category>Non-Fighter Starship</Category>
     <Category>Starship</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>2</HP>
   <Price>158000000</Price>
   <Rarity>8</Rarity>
   <Restricted>true</Restricted>
   <BaseMods>
     <Mod>
+      <Key />
       <Count>1</Count>
       <MiscDesc>[B]Inspiring Presence 2[b]: When this ship is engaged with the enemy, all allies gain [BO][BO] to any Cool or Discipline checks to resist fear caused by combat.</MiscDesc>
     </Mod>
   </BaseMods>
+  <WeaponModifiers />
+  <MaxAltitude />
   <HyperdrivePrimary>3</HyperdrivePrimary>
   <HyperdriveBackup>15</HyperdriveBackup>
   <StarFighters>96 starfighters, numerous shuttles and military craft</StarFighters>
+  <NaviComputer>false</NaviComputer>
   <SensorRangeValue>srLong</SensorRangeValue>
   <Crew>45,000 officers, pilots, and enlisted crew</Crew>
   <EncumbranceCapacity>12500</EncumbranceCapacity>
@@ -95,14 +100,22 @@ home in the Alliance Navy.</Description>
   <Armor>8</Armor>
   <HullTrauma>125</HullTrauma>
   <SystemStrain>65</SystemStrain>
+  <Starship>false</Starship>
   <Massive>2</Massive>
+  <SinglePilot>false</SinglePilot>
   <VehicleWeapons>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
@@ -115,9 +128,15 @@ home in the Alliance Navy.</Description>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
@@ -130,10 +149,15 @@ home in the Alliance Navy.</Description>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Ventral</Location>
+      <Retractable>false</Retractable>
       <Qualities>
         <Quality>
           <Key>LINKED</Key>
@@ -145,48 +169,94 @@ home in the Alliance Navy.</Description>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>IONMED</Key>
       <Count>10</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>IONMED</Key>
       <Count>10</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Forward</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>PTL</Key>
       <Count>10</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Port</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>PTL</Key>
       <Count>10</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
+        <Fore>false</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Starboard</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>PTL</Key>
       <Count>10</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
+        <Port>false</Port>
+        <Starboard>false</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Ventral</Location>
       <Retractable>true</Retractable>
       <Qualities>
@@ -201,23 +271,35 @@ home in the Alliance Navy.</Description>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Ventral</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>TRACTMED</Key>
       <Count>20</Count>
     </VehicleWeapon>
     <VehicleWeapon>
       <FiringArcs>
         <Fore>true</Fore>
+        <Aft>false</Aft>
         <Port>true</Port>
         <Starboard>true</Starboard>
+        <Dorsal>false</Dorsal>
+        <Ventral>false</Ventral>
       </FiringArcs>
+      <Turret>false</Turret>
       <Location>Ventral</Location>
+      <Retractable>false</Retractable>
+      <Qualities />
       <Key>TRACTHVY</Key>
       <Count>10</Count>
     </VehicleWeapon>
   </VehicleWeapons>
-  <SensorRange>Long</SensorRange>
+  <BuiltInAttachments />
 </Vehicle>

@@ -43,7 +43,7 @@ During the era of the Galactic Republic, the Jedi Order never embraced alchemy. 
       <Talents>
         <Key>RESEARCH</Key>
         <Key>STIMAP</Key>
-        <Key>ALCHARTS</Key>
+        <Key>ALCARTS</Key>
         <Key>GRIT</Key>
       </Talents>
       <Directions>
@@ -102,7 +102,7 @@ During the era of the Galactic Republic, the Jedi Order never embraced alchemy. 
         <Key>STIMAPIMP</Key>
         <Key>KNOWHEAL</Key>
         <Key>GRIT</Key>
-        <Key>ALCHARTS</Key>
+        <Key>ALCARTS</Key>
       </Talents>
       <Directions>
         <Direction>
@@ -128,7 +128,7 @@ During the era of the Galactic Republic, the Jedi Order never embraced alchemy. 
       <Cost>25</Cost>
       <Talents>
         <Key>FORCERAT</Key>
-        <Key>IDENING</Key>
+        <Key>IDING</Key>
         <Key>DEDI</Key>
         <Key>IMPCONC</Key>
       </Talents>

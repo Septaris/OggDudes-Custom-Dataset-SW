@@ -6,23 +6,40 @@
     [H3]A-A3 Dray Light Speeder Truck[h3]
 
 Smaller and lighter than the heavy A-A5 speeder truck, the A-A3 Dray by Trast Heavy Transports is a common sight throughout the galaxy. Designed as a light duty speeder truck and marketed to craftsmen and contractors as work vehicles and light cargo haulers, Drays feature an enclosed cab that seats three abreast and a long, open bed that can carry cargo or passengers. Numerous aftermarket accessories for the Dray, such as soft and hard-top covers for the bed, cargo-handling systems, and reinforced structures, and the ease with which the speeder can be repaired and modified make the Dray a popular exploration and backcountry sporting vehicle as well as a reliable workhorse.</Description>
-  <Source>Force and Destiny Core Rulebook</Source>
+  <Source Page="255">Force and Destiny Core Rulebook</Source>
   <Custom>DescOnly</Custom>
   <Type>Speeder Truck</Type>
   <Categories>
     <Category>Land Vehicle</Category>
   </Categories>
+  <Encumbrance>0</Encumbrance>
   <HP>3</HP>
   <Price>7000</Price>
   <Rarity>2</Rarity>
+  <Restricted>false</Restricted>
+  <BaseMods />
   <MaxAltitude>8 meters</MaxAltitude>
+  <HyperdrivePrimary>0</HyperdrivePrimary>
+  <HyperdriveBackup>0</HyperdriveBackup>
+  <StarFighters />
+  <NaviComputer>false</NaviComputer>
+  <SensorRangeValue>srClose</SensorRangeValue>
   <Crew>One pilot</Crew>
   <EncumbranceCapacity>135</EncumbranceCapacity>
   <Passengers>10</Passengers>
+  <Consumables />
   <Silhouette>3</Silhouette>
   <Speed>1</Speed>
+  <Handling>0</Handling>
+  <DefFore>0</DefFore>
+  <DefAft>0</DefAft>
+  <DefPort>0</DefPort>
+  <DefStarboard>0</DefStarboard>
+  <Armor>0</Armor>
   <HullTrauma>8</HullTrauma>
   <SystemStrain>8</SystemStrain>
+  <Starship>false</Starship>
+  <Massive>0</Massive>
   <SinglePilot>true</SinglePilot>
-  <SensorRange>Close</SensorRange>
+  <VehicleWeapons />
 </Vehicle>
