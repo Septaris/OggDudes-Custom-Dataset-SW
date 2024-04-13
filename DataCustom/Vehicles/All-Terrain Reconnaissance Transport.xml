@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>ATRT2</Key>
   <Name>All-Terrain Reconnaissance Transport</Name>
   <Description>[H3]All-Terrain Reconnaissance Transport[h3]

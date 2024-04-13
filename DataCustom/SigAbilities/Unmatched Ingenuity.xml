@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<SigAbility xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<SigAbility>
   <Key>UNMATCHEDINGEN</Key>
   <Name>Unmatched Ingenuity</Name>
   <Description>There are few things Engineers love more than to tinker with their equipment Prior to going in to battle (or even in the midst of it, given the opportunity), any Engineers worth their hydrospanners will rebuild slugthrower feeds, reposition missile detonator sensors, or reroute power ducting in blasters. In the minds of Engineers. there is nothing that cannot be improved, and using weaponry as it arrived from the logistics supply sources is a sign of laziness or lack of skill. It is a point of pride for them to always add some ingenious improvement to not only their own weapons, but the weapons of their fellow Alliance soldiers.</Description>

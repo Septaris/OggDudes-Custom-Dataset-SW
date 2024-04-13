@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<SigAbility xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<SigAbility>
   <Key>PROPHECY</Key>
   <Name>Prophecy</Name>
   <Description>The future is always in motion, and trying to predict it through the Force is a tricky and even dangerous endeavor. Even if one can sift through the shifting strands of fate and pick out the future most likely to occur, trying to bring about or stop that future may cause one to take actions that end up having the opposite effect. Nevertheless, many Force users delve into the dangerous art of prophecy, because if they succeed, the rewards can be great beyond measure.</Description>

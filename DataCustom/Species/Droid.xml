@@ -1,24 +1,24 @@
-<?xml version="1.0"?>
-<Species xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Species>
   <Key>DROID</Key>
   <Name>Droid</Name>
   <Description>
     [H4]Droid[h4]
 
-A typical fringer may ridicule his droid to no end, yet without it, he is usually lost. Droids serve a variety of roles on the fringe, including security and conflict resolution, surgery and medicine, mechanical repairs, construction, astrogation and piloting, and mechanical labor. While many of these droids have only rudimentary intelligence, some are capable of independent thought. 
+A typical fringer may ridicule his droid to no end, yet without it, he is usually lost. Droids serve a variety of roles on the fringe, including security and conflict resolution, surgery and medicine, mechanical repairs, construction, astrogation and piloting, and mechanical labor. While many of these droids have only rudimentary intelligence, some are capable of independent thought.
 
-[H3]PLAYING A DROID[h3] 
+[H3]PLAYING A DROID[h3]
 
-[P]Creating droid characters in [B]Edge of the Empire[b] is easy. Treat them as a separate species, with bonuses and abilities that reinforce their robotic natures. Players should be creative when coming up with their description, and also with how the droid uses its equipment. Instead of a droid wearing Laminate Armor, for example, it could have reinforced metal plates attached directly to its chassis, and instead of carrying a blaster pistol, it could have one built into its arm. 
+[P]Creating droid characters in [B]Edge of the Empire[b] is easy. Treat them as a separate species, with bonuses and abilities that reinforce their robotic natures. Players should be creative when coming up with their description, and also with how the droid uses its equipment. Instead of a droid wearing Laminate Armor, for example, it could have reinforced metal plates attached directly to its chassis, and instead of carrying a blaster pistol, it could have one built into its arm.
 
 [P]The personality of a droid is a more delicate matter. The very fact that the droid is a Player Character means that it is self-aware and independent-minded (unless the player wants to play a character who is completely subservient to the surrounding biologicals, of course). Players who want to make a droid character should remember the droid's origins and try to incorporate elements of their original function into their personality, even if their droid character has taken on roles far beyond what he was originally pro
-grammed for. A traffic control droid, for example, may take up the career of a mechanic, but still grumble endlessly whenever his pilot colleague breaks local flight and traffic laws. 
+grammed for. A traffic control droid, for example, may take up the career of a mechanic, but still grumble endlessly whenever his pilot colleague breaks local flight and traffic laws.
 
 [P][B]Physical Description:[b] Droids are assembled in many different body types, from chassis that follow bipedal standards, to those of various animals, to completely utilitarian boxes or cylinders.
 
-[P][B]Society:[b] Smugglers have long traded rumors of "droid worlds," where automatons and cyborgs govern a society of their own. Aside from such tall tales, droids do not have their own society, instead laboring within the society of their human and non-human masters. Unless a droid's personality has reprogrammed its cogni-tive faculties, droids are built to obey, and they do. 
+[P][B]Society:[b] Smugglers have long traded rumors of "droid worlds," where automatons and cyborgs govern a society of their own. Aside from such tall tales, droids do not have their own society, instead laboring within the society of their human and non-human masters. Unless a droid's personality has reprogrammed its cogni-tive faculties, droids are built to obey, and they do.
 
-[P]However, the droids played by PCs present a special case. Over the millennia there have been countless examples of droids that have transcended their original programming to become self-aware and self operating. Some of these automata last for hundreds of years, repairing and upgrading themselves to remain at peak efficiency. 
+[P]However, the droids played by PCs present a special case. Over the millennia there have been countless examples of droids that have transcended their original programming to become self-aware and self operating. Some of these automata last for hundreds of years, repairing and upgrading themselves to remain at peak efficiency.
 
 [P]Some of these droids take pride and satisfaction in continuing to do the jobs they were designed for as well as possible, such as an R2 unit that constantly works to become a better pilot and astrogator. Others break with their programming entirely and choose new enterprises to pursue. The infamous 4-LOM started out life as a protocol droid, before becoming a jewel thief and eventually one of the galaxy's most well-known bounty hunters.</Description>
   <Sources>

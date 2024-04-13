@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<SigAbility xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<SigAbility>
   <Key>MYCITY</Key>
   <Name>My City</Name>
   <Description>Once per game session when in a chosen urban setting, the character may spend 2 Destiny Points and make a [B]Hard ([DI][DI][DI]) Knowledge (Core Worlds)[b] or [B]Knowledge (Outer Rim) check[b] (depending on the location). If successful, for the remainder of the game session, the character may suffer 2 strain to recall or learn the location of any individual, group, or establishment within that city, along with any relevant information such as reputation, rumored or open ties to the Empire or Rebellion, criminal nature (if any).</Description>

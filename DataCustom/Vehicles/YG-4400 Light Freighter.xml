@@ -1,13 +1,13 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>YG4400FREIGHTER</Key>
   <Name>YG-4400 Light Freighter</Name>
   <Description>
     [H3]YG-4400 Light Freighter[h3]
 
-Although the design is almost 50 years old, the YG-4400 still holds a sentimental place in most Corellians' hearts. A purpose-built smuggling vessel, the YG-4400 is a small, stocky ship with a blocky body and three bulky engines aft. The powerful engines provide impressive straight-line speed, at the cost of maneuverability. However, this is part of the YG-4400's overall design. 
+Although the design is almost 50 years old, the YG-4400 still holds a sentimental place in most Corellians' hearts. A purpose-built smuggling vessel, the YG-4400 is a small, stocky ship with a blocky body and three bulky engines aft. The powerful engines provide impressive straight-line speed, at the cost of maneuverability. However, this is part of the YG-4400's overall design.
 
-[P]Between the three engines, CEC's engineers nestled a "getaway" concussion missile launcher. When the YG-4400 makes a run for it, any ships in pursuit find themselves taking point-blank missile-fire. This tends to discourage even the most die-hard customs enforcers. 
+[P]Between the three engines, CEC's engineers nestled a "getaway" concussion missile launcher. When the YG-4400 makes a run for it, any ships in pursuit find themselves taking point-blank missile-fire. This tends to discourage even the most die-hard customs enforcers.
 
 [P]Law enforcement officials have long tried to gain injunctions to stop CEC from producing the YG-4400. Of course, megacorporations as powerful as CEC can usually laugh off these legal maneuverings, and CEC keeps full time staff in Coronet simply to deal with such attempts.</Description>
   <Source>Suns of Fortune</Source>

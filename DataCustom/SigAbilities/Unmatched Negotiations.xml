@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<SigAbility xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<SigAbility>
   <Key>UNMATCHEDNEGOTIATIONS</Key>
   <Name>Unmatched Negotiations</Name>
   <Description>The best negotiators do not just see any conflict as a potential negotiated settlement waiting to be resolved; they also have the foresight to anticipate any potential pitfalls, mistakes, or points of contention before the negotiations even begin. When they sit down at the bargaining table, these negotiators ensure that whether the negotiations succeed or fail, everyone involved (especially the negotiator!) avoids any unintended slights, insults, or unfortunate verbal mistakes.</Description>

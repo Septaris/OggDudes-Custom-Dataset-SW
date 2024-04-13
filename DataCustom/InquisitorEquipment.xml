@@ -1,5 +1,29 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <InquisitorEquipment>
+  <InquisitorEquipmentItem>
+    <Type>Armor</Type>
+    <Key>AC</Key>
+  </InquisitorEquipmentItem>
+  <InquisitorEquipmentItem>
+    <Type>Armor</Type>
+    <Key>ARMROBE</Key>
+  </InquisitorEquipmentItem>
+<InquisitorEquipmentItem>
+    <Type>Weapon</Type>
+    <Key>BLASTPISHVY</Key>
+  </InquisitorEquipmentItem>
+  <InquisitorEquipmentItem>
+    <Type>Weapon</Type>
+    <Key>BLASTPISHVY</Key>
+  </InquisitorEquipmentItem>
+  <InquisitorEquipmentItem>
+    <Type>Weapon</Type>
+    <Key>BLASTRIFHVY</Key>
+  </InquisitorEquipmentItem>
+  <InquisitorEquipmentItem>
+    <Type>Weapon</Type>
+    <Key>ELECSTAFF</Key>
+  </InquisitorEquipmentItem>
   <InquisitorEquipmentItem>
     <Type>Weapon</Type>
     <Key>LTSABERBASIC</Key>
@@ -12,28 +36,4 @@
     <Type>Weapon</Type>
     <Key>LTSABERDBL</Key>
   </InquisitorEquipmentItem>
-  <InquisitorEquipmentItem>
-    <Type>Weapon</Type>
-    <Key>ELECSTAFF</Key>
-  </InquisitorEquipmentItem>
-  <InquisitorEquipmentItem>
-    <Type>Weapon</Type>
-    <Key>BLASTRIFHVY</Key>
-  </InquisitorEquipmentItem>
-  <InquisitorEquipmentItem>
-    <Type>Weapon</Type>
-    <Key>BLASTPISHVY</Key>
-  </InquisitorEquipmentItem>
-  <InquisitorEquipmentItem>
-    <Type>Weapon</Type>
-    <Key>BLASTPISHVY</Key>
-  </InquisitorEquipmentItem>
-  <InquisitorEquipmentItem>
-    <Type>Armor</Type>
-    <Key>AC</Key>
-  </InquisitorEquipmentItem>
-  <InquisitorEquipmentItem>
-    <Type>Armor</Type>
-    <Key>ARMROBE</Key>
-  </InquisitorEquipmentItem>
-</InquisitorEquipment>
+  </InquisitorEquipment>

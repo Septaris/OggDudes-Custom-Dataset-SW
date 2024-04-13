@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>RUSHTRNSPORT</Key>
   <Name>Rush Troop Transport Speeder</Name>
   <Description>
     [H3]Rush Troop Transport Speeder[h3]
 
-Speed is the main focus of Mekuun's Rush Troop Transport speeder. The speeder darts around the battlefield at increased speed, thanks to a specialized turbine booster that produces a sudden burst of acceleration. The compact turbine runs for 30 seconds at a time before it powers down for a minute to recharge and cool down. While troops and commanders like the speeder's acceleration and speed, they are less happy with shrill whine that erupts when the booster kicks in. It is effective, but deprives the speeder of the advantage of surprise. 
+Speed is the main focus of Mekuun's Rush Troop Transport speeder. The speeder darts around the battlefield at increased speed, thanks to a specialized turbine booster that produces a sudden burst of acceleration. The compact turbine runs for 30 seconds at a time before it powers down for a minute to recharge and cool down. While troops and commanders like the speeder's acceleration and speed, they are less happy with shrill whine that erupts when the booster kicks in. It is effective, but deprives the speeder of the advantage of surprise.
 
 [P]The pilot and gunners sit in a narrow, triangular three seat cockpit, while the passengers occupy a long, narrow compartment behind them. The passengers may deploy out the sides or the back of the speeder.</Description>
   <Source>Dangerous Covenants</Source>

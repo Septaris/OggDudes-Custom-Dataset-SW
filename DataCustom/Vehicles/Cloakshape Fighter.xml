@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>CLOAKSHAPE</Key>
   <Name>Cloakshape Fighter</Name>
   <Description>
       [H3]Cloakshape Fighter[h3]
 
-The KSE CloakShape is an aerospace fighter first built by the now-defunct Kuat Systems Engineering in the decades leading up to the Clone Wars. With their relatively aerodynamic, lifting body fuselages, CloakShapes were designed as aerospace superiority fighters with an emphasis on atmospheric and near-orbital combat. They are powered by a pair of KSE 807b/9 afterburning ion engines backed up by a light repulsorlift, a setup that gives the fighter respectable speed but marginal agility. They have no hyperdrive and carry no shields; to compensate, CloakShape fighters have reinforced, heavily armored hulls, which makes them incredibly durable. Despite their lackluster performance, short range, and limited scope, CloakShape fighters have soldiered on for decades now thanks to two important features: they are inexpensive and are easily customizable. 
+The KSE CloakShape is an aerospace fighter first built by the now-defunct Kuat Systems Engineering in the decades leading up to the Clone Wars. With their relatively aerodynamic, lifting body fuselages, CloakShapes were designed as aerospace superiority fighters with an emphasis on atmospheric and near-orbital combat. They are powered by a pair of KSE 807b/9 afterburning ion engines backed up by a light repulsorlift, a setup that gives the fighter respectable speed but marginal agility. They have no hyperdrive and carry no shields; to compensate, CloakShape fighters have reinforced, heavily armored hulls, which makes them incredibly durable. Despite their lackluster performance, short range, and limited scope, CloakShape fighters have soldiered on for decades now thanks to two important features: they are inexpensive and are easily customizable.
 
 [P]It's often said that there's no such thing as a stock Cloak-Shape fighter. The fighter's simple design, modular components, and plethora of universal power and computer couplings make these ships prime candidates for modification. Over the decades, numerous aftermarket systems have been designed and sold for the CloakShape, and their ease of installation and use has allowed these fighters to compete against modern starfighters with some success. The most common are upgraded powerplants, hyperdrives and navicomputers, shield generators, heavier weapons, and more sophisticated communications and sensor systems. This makes the nominally obsolete starfighter an attractive option to budget-minded individuals.</Description>
   <Source>Edge of the Empire Core Rulebook</Source>

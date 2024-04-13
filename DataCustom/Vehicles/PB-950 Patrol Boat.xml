@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>PB950</Key>
   <Name>PB-950 Patrol Boat</Name>
   <Description>
     [H3]PB-950 Patrol Boat[h3]
 
-An old model patrol boat in production for nearly three centuries, the PB-950 can still be found in service with Imperial Customs and local system defense forces throughout the galaxy, particularly beyond the Inner Rim. A rugged, reliable ship, the clunky PB-950 is known for its ability to withstand considerable punishment, as well as for possessing enough firepower to deal with starfighters and other small vessels it might encounter. While the venerable patrol boat is slowly being phased out in favor of newer models, PB-950 has become increasingly popular among smugglers and pirates, who still appreciate many of its qualities. 
+An old model patrol boat in production for nearly three centuries, the PB-950 can still be found in service with Imperial Customs and local system defense forces throughout the galaxy, particularly beyond the Inner Rim. A rugged, reliable ship, the clunky PB-950 is known for its ability to withstand considerable punishment, as well as for possessing enough firepower to deal with starfighters and other small vessels it might encounter. While the venerable patrol boat is slowly being phased out in favor of newer models, PB-950 has become increasingly popular among smugglers and pirates, who still appreciate many of its qualities.
 
 [P]Mounted in turrets on either side of the ship's command deck are two medium ion cannons. Intended to immobilize smugglers' vessels before they could escape, pirates use stock ion cannons to disable their prey. The PB-950 also has a concussion missile launcher and an aft turret-mounted quad laser for dealing with starfighters.</Description>
   <Source>Suns of Fortune</Source>

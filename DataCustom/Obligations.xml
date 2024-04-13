@@ -1,98 +1,5 @@
-<?xml version="1.0"?>
-<Obligations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Obligation>
-    <Key>UNFINBUS</Key>
-    <Name>Unfinished Business</Name>
-    <Description>
-      [H4]Unfinished Business[h4]
-The PC is working on a long-term project such as a complex computer program or a light freighter refit. It may be personal or commissioned work. While long breaks may be acceptable, the Obligation cannot be totally fulfilled until the unfinished business is complete and it weighs heavily on the PC's mind whenever the character chooses to postpone working on it for any reason.
-    </Description>
-    <Source Page="18">Special Modifications</Source>
-    <Custom>DescOnly</Custom>
-  </Obligation>
-  <Obligation>
-    <Key>CONTRACT</Key>
-    <Name>Contract</Name>
-    <Description>
-      [H4]Contract[h4]
-The PC has a pressing contract to fulfill, whether it is legally binding or an informal deal. The contract may be for providing, installing or repairing technical items, or on call services. Fulfilling terms of the contract reduces the character's obligation, while putting them off or incurring expenses for the sake of fulfilling the contract might increase it.</Description>
-    <Source Page="18">Special Modifications</Source>
-    <Custom>DescOnly</Custom>
-  </Obligation>
-  <Obligation>
-    <Key>FAILEDREP</Key>
-    <Name>Failed Installation/Repair</Name>
-    <Description>
-      [H4]Failed Installation/Repair[h4]
-A botched modification, installation, or repair job has publicly damaged the character's reputation and rendered the device, droid or vehicle inoperable. The PC must take action to restore the damaged item, and find a way to socially engineer a return to good standing in the public eye.</Description>
-    <Source Page="18">Special Modifications</Source>
-    <Custom>DescOnly</Custom>
-  </Obligation>
-  <Obligation>
-    <Key>CREW</Key>
-    <Name>Crew</Name>
-    <Description>
-      [H4]Crew[h4]
-The PC has an Obligation to keep a work crew or ship's complement safe, healthy and in work. Whether or not the PC usually travels with the work crew, this character serves as a mediator between the crew and outside individuals. The PC might owe the debt due from a time the crew saved the PC's career or even life through hard work and sacrifice.</Description>
-    <Source Page="18">Special Modifications</Source>
-    <Custom>DescOnly</Custom>
-  </Obligation>
-  <Obligation>
-    <Key>FAME</Key>
-    <Name>Fame</Name>
-    <Description>
-      [H4]Fame[h4]
-The character's reputation casts a long shadow. Perhaps the PC took a famous and difficult bounty, or owns a recognizable and deadly ship, or has beaten another well-known hunter to the punch in the past. Whatever the case, it is hard for the character to move unnoticed throughout the galaxy. This makes covert operations more difficult, but also means that informants are more likely to spill what they know when he PC arrives.</Description>
-    <Source Page="19">No Disintegrations</Source>
-    <Custom>DescOnly</Custom>
-  </Obligation>
-  <Obligation>
-    <Key>RULEBREAKER</Key>
-    <Name>Rule Breaker</Name>
-    <Description>
-      [H4]Rule Breaker[h4]
-Either the character very publicly and flagrantly broke one of the rules laid down in the bounty hunter's code, or everyone wrongly believes she did. Whatever the case, this breach of the rules of the code affects the character's personal and professional life in a very real way. Contracts dry up, colleagues refuse to speak to or help the character, or the character is treated in a condescending or irritatingly sympathetic manner.</Description>
-    <Source Page="19">No Disintegrations</Source>
-    <Custom>DescOnly</Custom>
-  </Obligation>
-  <Obligation>
-    <Key>KEEPERFAITH</Key>
-    <Name>Keeper of the Faith</Name>
-    <Description>
-      [H4]Keeper of the Faith[h4]
-Much to many other freelancers' amusement, this character has sworn to faithfully uphold both the spirit and the letter of some code of honor. The PC believes very strongly in these edicts and adheres to them with an almost religious fervor. The character never knowingly breaks any of the rules laid down in the code, and may turn on colleagues who do so.</Description>
-    <Source Page="19">No Disintegrations</Source>
-    <Custom>DescOnly</Custom>
-  </Obligation>
-  <Obligation>
-    <Key>THRILLSEEK</Key>
-    <Name>Thrill Seeker</Name>
-    <Description>
-      [H4]Thrill Seeker[h4]
-Some people are addicted to alcohol or chems, others to gambling or other seedy vices. This character, however, is a confirmed adrenaline junkie, and chooses bounties not by their challenge or price, but by how exciting or dangerous they are. Avoiding the Obligation—perhaps by being a responsible business operator and considering every job's cost benefit analysis—results in an almost immediate case of excitement withdrawal. When inactive, the character is edgy, moody, easily distracted, and generally unpleasant to be around.
-    </Description>
-    <Source Page="19">No Disintegrations</Source>
-    <Custom>DescOnly</Custom>
-  </Obligation>
-  <Obligation>
-    <Key>VIGILANTE</Key>
-    <Name>Vigilante</Name>
-    <Description>
-      [H4]Vigilante[h4]
-The character has seen the wheels of justice grind up the innocent and let the guilty walk free. The character has sworn to take the law—or a version of it, at any rate—and bring  justice to those who deserve it. When taking on contracts, this character tends to pursue the most hardened criminals.
-    </Description>
-    <Source Page="19">No Disintegrations</Source>
-    <Custom>DescOnly</Custom>
-  </Obligation>
-  <Obligation>
-    <Key>SCORE</Key>
-    <Name>A Score to Settle</Name>
-    <Description>
-      [H4]A Score to Settle[h4]
-      he character has always been rough-and-tumble, but somewhere along the way someone wronged him, and he never forgets a debt, real or imagined This could be as simple as someone promising him backup who then disappeared or someone bad-mouthing him in front of a prospective client Now, the character is always looking for ways to even the score.</Description>
-    <Source Page="17">Dangerous Covenants</Source>
-    <Custom>DescOnly</Custom>
-  </Obligation>
+<?xml version='1.0' encoding='utf-8'?>
+<Obligations>
   <Obligation>
     <Key>ADD</Key>
     <Name>Addiction</Name>
@@ -192,12 +99,30 @@ In the pursuit of a past contract, the character was careless. He accidentally d
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
+    <Key>CONTRACT</Key>
+    <Name>Contract</Name>
+    <Description>
+      [H4]Contract[h4]
+The PC has a pressing contract to fulfill, whether it is legally binding or an informal deal. The contract may be for providing, installing or repairing technical items, or on call services. Fulfilling terms of the contract reduces the character's obligation, while putting them off or incurring expenses for the sake of fulfilling the contract might increase it.</Description>
+    <Source Page="18">Special Modifications</Source>
+    <Custom>DescOnly</Custom>
+  </Obligation>
+  <Obligation>
     <Key>CONTRACTED</Key>
     <Name>Contracted</Name>
     <Description>
       [H4]Contracted[h4]
      The Colonist has entered into a long-term contract with a corporation or government related to his work at a colony. In many cases, these contracts are how colonists pay their passage to the new world - a form of indentured servitude. Colonists might be contracted to provide bookkeeping, labor, or any other number of services. Failure to live up to a contract can result in financial penalties, imprisonment, deportation, or earning a bounty.</Description>
     <Source Page="17">Far Horizons</Source>
+    <Custom>DescOnly</Custom>
+  </Obligation>
+  <Obligation>
+    <Key>CREW</Key>
+    <Name>Crew</Name>
+    <Description>
+      [H4]Crew[h4]
+The PC has an Obligation to keep a work crew or ship's complement safe, healthy and in work. Whether or not the PC usually travels with the work crew, this character serves as a mediator between the crew and outside individuals. The PC might owe the debt due from a time the crew saved the PC's career or even life through hard work and sacrifice.</Description>
+    <Source Page="18">Special Modifications</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
@@ -256,6 +181,15 @@ The PC has a deep sense of duty that he feels compelled to fulfill, such as mili
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
+    <Key>FAILEDREP</Key>
+    <Name>Failed Installation/Repair</Name>
+    <Description>
+      [H4]Failed Installation/Repair[h4]
+A botched modification, installation, or repair job has publicly damaged the character's reputation and rendered the device, droid or vehicle inoperable. The PC must take action to restore the damaged item, and find a way to socially engineer a return to good standing in the public eye.</Description>
+    <Source Page="18">Special Modifications</Source>
+    <Custom>DescOnly</Custom>
+  </Obligation>
+  <Obligation>
     <Key>FAM</Key>
     <Name>Family</Name>
     <Description>
@@ -267,6 +201,15 @@ The character has deep ties with his family that require a great deal of time an
       <Source Page="17">Far Horizons</Source>
       <Source Page="17">Fly Casual</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
+  </Obligation>
+  <Obligation>
+    <Key>FAME</Key>
+    <Name>Fame</Name>
+    <Description>
+      [H4]Fame[h4]
+The character's reputation casts a long shadow. Perhaps the PC took a famous and difficult bounty, or owns a recognizable and deadly ship, or has beaten another well-known hunter to the punch in the past. Whatever the case, it is hard for the character to move unnoticed throughout the galaxy. This makes covert operations more difficult, but also means that informants are more likely to spill what they know when he PC arrives.</Description>
+    <Source Page="19">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
@@ -311,6 +254,15 @@ The character is possessed of a powerful drive to act based on religious or spir
 The Smuggler just can't help it, he has to take the most dangerous jobs and play for the highest stakes. He is a victim of his own pride, and his ego often lands him in trouble. This Smuggler has something to prove and, when challenged, he cannot help but take the opportunity to display his bravery, even if this puts himself and his party in harm's way.
 </Description>
     <Source Page="17">Fly Casual</Source>
+    <Custom>DescOnly</Custom>
+  </Obligation>
+  <Obligation>
+    <Key>KEEPERFAITH</Key>
+    <Name>Keeper of the Faith</Name>
+    <Description>
+      [H4]Keeper of the Faith[h4]
+Much to many other freelancers' amusement, this character has sworn to faithfully uphold both the spirit and the letter of some code of honor. The PC believes very strongly in these edicts and adheres to them with an almost religious fervor. The character never knowingly breaks any of the rules laid down in the code, and may turn on colleagues who do so.</Description>
+    <Source Page="19">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
@@ -363,6 +315,16 @@ Colonies tend to be small places, and if a being gets around, word about it has 
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
+    <Key>PRICENAME</Key>
+    <Name>The Price of a Name</Name>
+    <Description>
+      [H4]The Price of a Name[h4]
+The character claimed to be someone else, taking credit for his accomplishments in a past negotiation in the hopes of a higher payday. The wronged party, either the person impersonated or the hiring party, is now angry. This enemy might respond by chasing down the character, spreading news of the duplicity, or demanding restitution to his reputation or his credit account.
+    </Description>
+    <Source Page="17">Dangerous Covenants</Source>
+    <Custom>DescOnly</Custom>
+  </Obligation>
+  <Obligation>
     <Key>RESP</Key>
     <Name>Responsibility</Name>
     <Description>
@@ -372,6 +334,24 @@ A character with the Responsibility Obligation feels a strong sense of accountab
       <Source Page="39">Edge of the Empire Core Rulebook</Source>
       <Source Page="17">Far Horizons</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
+  </Obligation>
+  <Obligation>
+    <Key>RULEBREAKER</Key>
+    <Name>Rule Breaker</Name>
+    <Description>
+      [H4]Rule Breaker[h4]
+Either the character very publicly and flagrantly broke one of the rules laid down in the bounty hunter's code, or everyone wrongly believes she did. Whatever the case, this breach of the rules of the code affects the character's personal and professional life in a very real way. Contracts dry up, colleagues refuse to speak to or help the character, or the character is treated in a condescending or irritatingly sympathetic manner.</Description>
+    <Source Page="19">No Disintegrations</Source>
+    <Custom>DescOnly</Custom>
+  </Obligation>
+  <Obligation>
+    <Key>SCORE</Key>
+    <Name>A Score to Settle</Name>
+    <Description>
+      [H4]A Score to Settle[h4]
+      he character has always been rough-and-tumble, but somewhere along the way someone wronged him, and he never forgets a debt, real or imagined This could be as simple as someone promising him backup who then disappeared or someone bad-mouthing him in front of a prospective client Now, the character is always looking for ways to even the score.</Description>
+    <Source Page="17">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
@@ -394,13 +374,13 @@ Although the Smuggler might act like he's his own boss, he is actually the prope
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
-    <Key>PRICENAME</Key>
-    <Name>The Price of a Name</Name>
+    <Key>THRILLSEEK</Key>
+    <Name>Thrill Seeker</Name>
     <Description>
-      [H4]The Price of a Name[h4]
-The character claimed to be someone else, taking credit for his accomplishments in a past negotiation in the hopes of a higher payday. The wronged party, either the person impersonated or the hiring party, is now angry. This enemy might respond by chasing down the character, spreading news of the duplicity, or demanding restitution to his reputation or his credit account.
+      [H4]Thrill Seeker[h4]
+Some people are addicted to alcohol or chems, others to gambling or other seedy vices. This character, however, is a confirmed adrenaline junkie, and chooses bounties not by their challenge or price, but by how exciting or dangerous they are. Avoiding the Obligation—perhaps by being a responsible business operator and considering every job's cost benefit analysis—results in an almost immediate case of excitement withdrawal. When inactive, the character is edgy, moody, easily distracted, and generally unpleasant to be around.
     </Description>
-    <Source Page="17">Dangerous Covenants</Source>
+    <Source Page="19">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
@@ -411,6 +391,26 @@ The character claimed to be someone else, taking credit for his accomplishments 
 The Smuggler is under contract to obtain rare goods, transport volatile cargo, or provide difficult services. He can only put this off for so long. This Obligation is similar to Debt, but it allows the player and the GM a wider range of possibilities when determining the nature of the contract.
     </Description>
     <Source Page="17">Fly Casual</Source>
+    <Custom>DescOnly</Custom>
+  </Obligation>
+  <Obligation>
+    <Key>UNFINBUS</Key>
+    <Name>Unfinished Business</Name>
+    <Description>
+      [H4]Unfinished Business[h4]
+The PC is working on a long-term project such as a complex computer program or a light freighter refit. It may be personal or commissioned work. While long breaks may be acceptable, the Obligation cannot be totally fulfilled until the unfinished business is complete and it weighs heavily on the PC's mind whenever the character chooses to postpone working on it for any reason.
+    </Description>
+    <Source Page="18">Special Modifications</Source>
+    <Custom>DescOnly</Custom>
+  </Obligation>
+  <Obligation>
+    <Key>VIGILANTE</Key>
+    <Name>Vigilante</Name>
+    <Description>
+      [H4]Vigilante[h4]
+The character has seen the wheels of justice grind up the innocent and let the guilty walk free. The character has sworn to take the law—or a version of it, at any rate—and bring  justice to those who deserve it. When taking on contracts, this character tends to pursue the most hardened criminals.
+    </Description>
+    <Source Page="19">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>

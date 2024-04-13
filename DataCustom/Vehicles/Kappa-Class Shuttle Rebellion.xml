@@ -1,12 +1,12 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>KAPPASHUTREB</Key>
   <Name>Kappa-Class Shuttle (Rebellion)</Name>
   <Description>[H3][I]Kappa[i]-Class Shuttle (Rebellion)[h3]
 
-The Kappa-class shuttle holds a curious place among the starships of the galaxy. Now considered an Imperial ship class by many, the Kappa was originally produced for the Old Republic. It was designed for use in conjunction with hardware of that era that is now considered obsolete, such as the AT-PT walkers commonly stowed in the shuttle's vehicle bay. The Empire has not wasted the shuttles they inherited from the Republic. However, additional production runs are rarely called for, and the Kappa is generally considered an outmoded relic, replaced by newer models such as the Lambda-class that eventually succeeded it. 
+The Kappa-class shuttle holds a curious place among the starships of the galaxy. Now considered an Imperial ship class by many, the Kappa was originally produced for the Old Republic. It was designed for use in conjunction with hardware of that era that is now considered obsolete, such as the AT-PT walkers commonly stowed in the shuttle's vehicle bay. The Empire has not wasted the shuttles they inherited from the Republic. However, additional production runs are rarely called for, and the Kappa is generally considered an outmoded relic, replaced by newer models such as the Lambda-class that eventually succeeded it.
 
-[P]The Rebellion has access to a number of Kappa-class vessels pulled from Old Republic stores on sympathetic worlds or stolen from Imperials. Their use is regarded with mixed feelings, as their history does not redeem their present deployment by the Empire. 
+[P]The Rebellion has access to a number of Kappa-class vessels pulled from Old Republic stores on sympathetic worlds or stolen from Imperials. Their use is regarded with mixed feelings, as their history does not redeem their present deployment by the Empire.
 [P]The Kappa-class has a long, flat hull capable of transporting up to 40 troops with equipment and support vehicles. The slim, boxy troop compartment is flanked by short, fin-like wings and fronted by an angular bridge that resembles that of the Lambda shuttles that replaced it. Although the Kappa-class is considerably larger than its replacement, its weight is well-distributed, and no space within the vessel is wasted, allowing it to handle with surprising ease.</Description>
   <Source Page="63">Desperate Allies</Source>
   <Custom>DescOnly</Custom>

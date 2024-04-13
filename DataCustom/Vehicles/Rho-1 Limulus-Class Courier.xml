@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>RHO1LUMULUS</Key>
   <Name>Rho-1 Limulus-Class Courier</Name>
   <Description>[H3]Kuat Systems Engineering Rho-1 [I]Limulus[i]-Class Courier[h3]

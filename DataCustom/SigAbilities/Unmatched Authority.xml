@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<SigAbility xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<SigAbility>
   <Key>UNMATCHEDAUTH</Key>
   <Name>Unmatched Authority</Name>
   <Description>Few realize the true strain of command. Balancing

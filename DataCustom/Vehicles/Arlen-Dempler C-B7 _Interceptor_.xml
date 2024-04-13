@@ -1,9 +1,9 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>CB7INTCEPTOR</Key>
   <Name>Arlen-Dempler C-B7 "Interceptor"</Name>
   <Description>[H3]Arlen-Dempler C-B7 "Interceptor"[h3]
-A boutique maker of luxury, high-performance landspeeders, Arlen-Dempler is based on the rainswept planet Iceni in the Corporate Sector. Its latest offering, the C-B7 Interceptor, is sleek, fast, and extremely well appointed. The Interceptor is a five-seat, two-door vehicle designed primarily for touring and long-range planetary trips. Each of these luxurious speeders comes standard with a high-end passenger entertainment system, high-performance handling package, environmental protection, and numerous other safety and comfort systems designed to protect and pamper the pilot and passengers. The C-B7 is highly modifiable, something rarely mentioned in selling points but a valued fact all intelligence agencies use to great advantage. 
+A boutique maker of luxury, high-performance landspeeders, Arlen-Dempler is based on the rainswept planet Iceni in the Corporate Sector. Its latest offering, the C-B7 Interceptor, is sleek, fast, and extremely well appointed. The Interceptor is a five-seat, two-door vehicle designed primarily for touring and long-range planetary trips. Each of these luxurious speeders comes standard with a high-end passenger entertainment system, high-performance handling package, environmental protection, and numerous other safety and comfort systems designed to protect and pamper the pilot and passengers. The C-B7 is highly modifiable, something rarely mentioned in selling points but a valued fact all intelligence agencies use to great advantage.
 [P]Despite all the luxury and performance, these landspeeders are remarkably simple machines under their attractive skins. They use numerous off-the-shelf parts from various vehicle manufacturers, particularly SoroSuub and Incom, and both their design and construction are clean and intelligently laid out. This makes for easily maintained and modified vehicles with readily available parts. C-B7s are often issued to intelligence agents operating in classier parts of the Core Worlds and Mid Rim, where a certain amount of wealth and style is a requirement for a successful cover identity.</Description>
   <Source Page="61">Cyphers and Masks</Source>
   <Custom>DescOnly</Custom>

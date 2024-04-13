@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<SigAbility xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<SigAbility>
   <Key>HARDERTHEYFALL</Key>
   <Name>The Harder They Fall</Name>
   <Description>While it might be loathsome or insulting to their professional pride, all Alliance Engineers realize they are fighting in a war, and that a great part of war involves destruction. This includes the destruction of buildings, fortifications, ships, and droids-the very things they work so hard to create and maintain. Their expertise in these areas, though, makes for excellent combat abilities. Drawing on their know ledge of technological vulnerabilities. Engineers can help ensure maximum efficiencies in attacks they and their comrades make.</Description>

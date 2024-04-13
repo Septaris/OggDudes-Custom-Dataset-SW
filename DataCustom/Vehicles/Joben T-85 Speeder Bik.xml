@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>T85JOBEN</Key>
   <Name>Joben T-85 Speeder Bik</Name>
   <Description>[H3]Joben T-85 Speeder Bik[h3]

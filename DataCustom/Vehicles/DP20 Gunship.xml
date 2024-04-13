@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>DP20</Key>
   <Name>DP20 Gunship</Name>
   <Description>
     [H3]DP20 Gunship[h3]
 
-Known colloquially as the "Corellian Gunship," the DP20 is designed from the keel up as a pure, single-purpose military vessel. Built by CEC for the fleets of the Galactic Republic, DP2Os were deployed in response to increased threats from both droid starfighters and rogue bands of pirates fielding fleets of secondhand snubfighters. Composed of three hull sections strung along a single long reinforced multi-decked corridor, these ships are powered by an oversized ionization reactor giving it significant speed. 
+Known colloquially as the "Corellian Gunship," the DP20 is designed from the keel up as a pure, single-purpose military vessel. Built by CEC for the fleets of the Galactic Republic, DP2Os were deployed in response to increased threats from both droid starfighters and rogue bands of pirates fielding fleets of secondhand snubfighters. Composed of three hull sections strung along a single long reinforced multi-decked corridor, these ships are powered by an oversized ionization reactor giving it significant speed.
 
 [P]Bristling with turbolasers, quad laser turrets, and concussion missile launchers, these ships are dedicated starfighter killers. They are heavily armed and shielded to protect them from massed fighter attacks, and are equipped with powerful targeting computers that allow the weapons to track and traverse fast and agile starfighters. This means the Corellian Gunship is a consummate anti-starfighter and anti-capital ship vessel. However, despite their utility, few of these ships see active duty with the Imperial Navy of today.</Description>
   <Source>Edge of the Empire Core Rulebook</Source>

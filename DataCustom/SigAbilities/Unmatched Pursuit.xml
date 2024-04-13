@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<SigAbility xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<SigAbility>
   <Key>UNMATCHEDPURSUIT</Key>
   <Name>Unmatched Pursuit</Name>
   <Description>Once per game session, as an out of turn incidental, the character may spend 2 Destiny Points and designate one enemy character or vehicle within medium range (either personal or planetary scale) as his quarry. For the next 3 rounds if the designated target would successfully elude his pursuit, the character may voluntarily suffer 2 strain to keep pace, preventing the target from escaping him.</Description>

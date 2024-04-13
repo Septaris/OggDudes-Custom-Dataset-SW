@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Species xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Species>
   <Key>VERPINE</Key>
   <Name>Verpine</Name>
   <Description>[H4]Verpine[h4]
@@ -8,13 +8,13 @@ Verpine are an insectoid sentient species from the Roche asteroids. Best known f
 
 [P][B]Physiology:[b] Verpine are thin bipedal insectoids, standing 1.9 meters tall on average. Unlike many insectoids, including the Kibnon to which they are distantly related, the Verpine have only four limbs (two arms and two legs), though there are instances of Verpine growing vestigial wings. Their heads are dominated by large compound eyes. They also have two antennae, one located behind each eye. Their hardened carapace, composed of a green chitinous substance called carahide, is as flexible as the skin of other creatures, yet tough enough to deflect a blade or even absorb a glancing blaster bolt. The Verpine circulatory system does not contain a heart — at least, not an organ which Human physiologists would identify as a heart.
 
-[P]Verpine eyes are keen enough to pick out microscopic details. Their antennae contain tympanic nerves which pick up sound. Their antennae are also sensitive to radio waves, giving Verpine the natural ability to sense and transmit radio waves to communicate with another Verpine in their language over distances on the order of one hundred kilometers. Some observers mistake this nearly instant, silent communication for true telepathy. Thanks to their natural radio communication network, their colonies are run as a consensus democracy, with all Verpine instantly consulted on questions affecting the hive. Given their reliance on radio communication, Verpine frequently suffer negative consequences when their antenna are damaged. 
+[P]Verpine eyes are keen enough to pick out microscopic details. Their antennae contain tympanic nerves which pick up sound. Their antennae are also sensitive to radio waves, giving Verpine the natural ability to sense and transmit radio waves to communicate with another Verpine in their language over distances on the order of one hundred kilometers. Some observers mistake this nearly instant, silent communication for true telepathy. Thanks to their natural radio communication network, their colonies are run as a consensus democracy, with all Verpine instantly consulted on questions affecting the hive. Given their reliance on radio communication, Verpine frequently suffer negative consequences when their antenna are damaged.
 
 [P]Verpine come in two types—intelligent, hermaphroditic Verpine and unintelligent worker drones. At the time of their entrance into Galactic society, only five percent of Verpine were intelligent, but the demands of technological civilization required the Verpine to restructure their society. After the change, egg-laying Verpine use a special enzyme to ensure all eggs laid develop into intelligent Verpine. Any drones needed by a Verpine hive are produced via cloning.
 
 [P]When a Verpine hive need more members, some of the fertile Verpine will be asked to lay eggs, while others will be assigned to fertilize them. The eggs are cared for in colony incubators, and hatchlings are cared for by the entire hive.
 
-[P]While hermaphrodite, there is evidence to indicate that individual Verpine have definite genders, either permanently or at some point of their existences. 
+[P]While hermaphrodite, there is evidence to indicate that individual Verpine have definite genders, either permanently or at some point of their existences.
 
 [P]The fungus Magenge, which grows inside the asteroid colonies of the Verpine, form the basis of the Verpine diet.
 

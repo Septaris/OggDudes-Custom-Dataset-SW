@@ -1,5 +1,113 @@
-<?xml version="1.0"?>
-<ForceAbilities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<ForceAbilities>
+  <ForceAbility>
+    <Key>ALTERBASIC</Key>
+    <Name>Alter Basic Power</Name>
+    <Description>The Force user can tap into the Living Force of their surroundings, manipulating the nearby environs.
+[P]The Force user may spend [FP] to make all terrain currently within short range difficult terrain until the end of their next turn.
+[P]The Force user may spend [FP] to make all terrain currently within short range normal terrain until the end of their next turn.</Description>
+    <Source Page="43">Unlimited Power</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Alter</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ALTERCONTROL1</Key>
+    <Name>Control: Supplies</Name>
+    <Description>Spend [FP] and make an [B]Average ([DI][DI]) Survival check[b] to instantly discover food, water, or other critical supplies within extreme range.
+</Description>
+    <Source Page="43">Unlimited Power</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Alter</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ALTERCONTROL2</Key>
+    <Name>Control: Concealment</Name>
+    <Description>The Force user may spend [FP] to give all characters within short range of the user concealment.
+</Description>
+    <Source Page="43">Unlimited Power</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Alter</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ALTERCONTROL3</Key>
+    <Name>Control: Animals</Name>
+    <Description>Spend [FP] to share the senses of animals within range of this power, adding [BO] to Perception and Vigilance checks, and gaining other benefits.
+</Description>
+    <Source Page="43">Unlimited Power</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Alter</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ALTERCONTROL4</Key>
+    <Name>Control: Firm Terrain</Name>
+    <Description>The power can affect firm terrain, such as packed earth, stone, or ice.
+</Description>
+    <Source Page="43">Unlimited Power</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Alter</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ALTERCONTROL5</Key>
+    <Name>Control: Impassible</Name>
+    <Description>Spend [FP][FP] to make a small patch of terrain within the affected area impassible.
+</Description>
+    <Source Page="43">Unlimited Power</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Alter</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ALTERCONTROL6</Key>
+    <Name>Control: Corrosive</Name>
+    <Description>Spend [FP][FP] to create a corrosive atmosphere in a small area within the affected area.</Description>
+    <Source Page="43">Unlimited Power</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Alter</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ALTERCONTROL7</Key>
+    <Name>Control: Upgrade</Name>
+    <Description>Spend [FP][FP] to upgrade the difficulty of all checks made by opponents while in the power's area of effect once.
+</Description>
+    <Source Page="43">Unlimited Power</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Alter</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ALTERDURATION</Key>
+    <Name>Duration</Name>
+    <Description>Commit [FO] after successfully activating the power to sustain its effects while the user remains within range of the affected area.
+</Description>
+    <Source Page="43">Unlimited Power</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Alter</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ALTERMASTERY</Key>
+    <Name>Mastery</Name>
+    <Description>When the user activates this power without spending [FP] generated from [DA] results, add [LI] to all other Force power checks made within this power's area of effect.
+[P]When the user activates this power without spending [FP] generated from [LI] results, add [DA] to all other Force power checks made within this power's area of effect.</Description>
+    <Source Page="43">Unlimited Power</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Alter</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ALTERRANGE</Key>
+    <Name>Range</Name>
+    <Description>Spend [FP][FP] to increase power's range by a number of range bands equal to Range upgrades purchased.
+</Description>
+    <Source Page="43">Unlimited Power</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Alter</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ALTERSTRENGTH</Key>
+    <Name>Strength</Name>
+    <Description>Spend [FP] to allow a number of targets equal to the number of Strength upgrades to ignore this power's effects.
+</Description>
+    <Source Page="43">Unlimited Power</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Alter</Power>
+  </ForceAbility>
   <ForceAbility>
     <Key>BATMEDBASIC</Key>
     <Name>Battle Meditation Basic Power</Name>
@@ -7,95 +115,6 @@
 [P]The user may spend [FP] to add one automatic [SU] to all checks made by a number of engaged friendly targets to up his Presence before the end of his next turn. If the user used any [DA] to generate [FP], reduce each target's Willpower by 1 (to a minimum of 1) until the end of the encounter.</Description>
     <Source>Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>SENSEBASIC</Key>
-    <Name>Sense Basic Power</Name>
-    <Description>[P]The Force user can sense the Force interacting with the world around him.
-[P]The user may spend [FP] to sense all living things within short range (including sentient and non-sentient beings).
-[P]The user may spend [FP] to sense the current emotional state of one living target with whom he is engaged.</Description>
-    <Sources>
-      <Source>Edge of the Empire Core Rulebook</Source>
-      <Source>Force and Destiny Core Rulebook</Source>
-    </Sources>
-    <Custom>DescOnly</Custom>
-    <Power>Sense</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>SENSECONTROL1</Key>
-    <Name>Control: Upgrade Difficulty</Name>
-    <Description>Ongoing Effect: Commit [FO]. Once per round, when an attack targets the Force user, he upgrades the difficulty of the pool once.</Description>
-    <Sources>
-      <Source>Edge of the Empire Core Rulebook</Source>
-      <Source>Force and Destiny Core Rulebook</Source>
-    </Sources>
-    <Custom>DescOnly</Custom>
-    <Power>Sense</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>SENSEDURATION</Key>
-    <Name>Duration</Name>
-    <Description>Sense's ongoing effect may be triggered one additional time per round.</Description>
-    <Sources>
-      <Source>Edge of the Empire Core Rulebook</Source>
-      <Source>Force and Destiny Core Rulebook</Source>
-    </Sources>
-    <Custom>DescOnly</Custom>
-    <Power>Sense</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>SENSESTRENGTH</Key>
-    <Name>Strength</Name>
-    <Description>When using Sense's ongoing effects, upgrade the pool twice, instead of once.</Description>
-    <Sources>
-      <Source>Edge of the Empire Core Rulebook</Source>
-      <Source>Force and Destiny Core Rulebook</Source>
-    </Sources>
-    <Custom>DescOnly</Custom>
-    <Power>Sense</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>SENSECONTROL3</Key>
-    <Name>Control: Upgrade Ability</Name>
-    <Description>Ongoing Effect: Commit [FO]. Once per round, when the Force user makes a combat check, he upgrades the ability of that check once.</Description>
-    <Sources>
-      <Source>Edge of the Empire Core Rulebook</Source>
-      <Source>Force and Destiny Core Rulebook</Source>
-    </Sources>
-    <Custom>DescOnly</Custom>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>SENSECONTROL2</Key>
-    <Name>Control: Sense Thoughts</Name>
-    <Description>Effect: Spend [FP]. The Force user senses the current thoughts of one living target with whom he is engaged.</Description>
-    <Sources>
-      <Source>Edge of the Empire Core Rulebook</Source>
-      <Source>Force and Destiny Core Rulebook</Source>
-    </Sources>
-    <Custom>DescOnly</Custom>
-    <Power>Sense</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>SENSEMAGNITUDE</Key>
-    <Name>Magnitude</Name>
-    <Description>Spend [FP] to increase number of targets affected by power equal to magnitude upgrades purchased.</Description>
-    <Sources>
-      <Source>Edge of the Empire Core Rulebook</Source>
-      <Source>Force and Destiny Core Rulebook</Source>
-    </Sources>
-    <Custom>DescOnly</Custom>
-    <Power>Sense</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>SENSERANGE</Key>
-    <Name>Range</Name>
-    <Description>Spend [FP] to increase power's range by a number of range bands equal to Range upgrades purchased.</Description>
-    <Sources>
-      <Source>Edge of the Empire Core Rulebook</Source>
-      <Source>Force and Destiny Core Rulebook</Source>
-    </Sources>
-    <Custom>DescOnly</Custom>
-    <Power>Sense</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>BATMEDCONTROL1</Key>
@@ -216,6 +235,238 @@
     <Source>Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <Power>Bind</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>CONJUREBASIC</Key>
+    <Name>Conjure Basic Power</Name>
+    <Description>The Force user calls forth a spectral object to their hand, which lasts for a short time.
+[P]The user may spend [FP] to create a facsimile of a Brawl or Melee weapon anywhere within engaged range. At the end of the user's next turn, this item dissipates. At the GM's discretion, the user can instead conjure a simple tool and other useful low-tech item with an encumbrance no greater than 1.
+</Description>
+    <Source Page="40">Unlimited Power</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Conjure</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>CONJURECONTROL1</Key>
+    <Name>Control: Defensive, Deflection, Stun</Name>
+    <Description>Spend [FP] to add 1 of the following weapon qualities to the conjuration: Defensive 1, Deflection 1, Stun 4.</Description>
+    <Source Page="40">Unlimited Power</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Conjure</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>CONJURECONTROL2</Key>
+    <Name>Control: Burn, Pierce, Vicious</Name>
+    <Description>Spend [FP] to add 1 of the following weapon qualities to the conjuration: Burn 3, Pierce 3, Vicious 3.</Description>
+    <Source Page="40">Unlimited Power</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Conjure</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>CONJUREDURATION</Key>
+    <Name>Duration</Name>
+    <Description>Commit [FO] to sustain 1 conjuration per Duration upgrade purchased while it remains at medium range.</Description>
+    <Source Page="40">Unlimited Power</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Conjure</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>CONJUREMAGNITUDE</Key>
+    <Name>Magnitude</Name>
+    <Description>Spend [FP] to increase the maximum encumbrance of the facsimile that can be conjured by 2 per Magnitude upgrade purchased.
+</Description>
+    <Source Page="40">Unlimited Power</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Conjure</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>CONJUREMASTERY</Key>
+    <Name>Mastery</Name>
+    <Description>Spend [FP][FP][FP] to summon the facsimile of a creature of silhouette 1 or smaller instead of an object. This creature is bound to the user's will, and mindlessly follows that character's commands until the end of the Force user's next turn. If the user has the corpse of the creature being conjured to imbue with false life, this facsimile lasts until the end of the encounter instead, but the user gains 7 conflict for doing so.</Description>
+    <Source Page="40">Unlimited Power</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Conjure</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>CONJURENUMBER</Key>
+    <Name>Number</Name>
+    <Description>Spend [FP][FP] to create additional, identical conjurations equal to ranks in Number upgrade purchased.
+</Description>
+    <Source Page="40">Unlimited Power</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Conjure</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>CONJURERANGE</Key>
+    <Name>Range</Name>
+    <Description>Spend [FP] to increase the range at which the facsimile can be conjured and sustained by 1 (to a maximum of extreme).
+</Description>
+    <Source Page="40">Unlimited Power</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Conjure</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>EBBFLOWBASIC</Key>
+    <Name>Ebb/Flow Basic Power</Name>
+    <Description>The Force user's action empowers himself or saps strength from his foes.
+[P][B]Ebb:[b] When the Force user makes a skill check, he may roll an [B]Ebb power check[b] as part of the roll. The user may spend [FP] to suffer 1 strain, then inflict 1 strain on all other engaged characters. The Force user may not activate this multiple times.
+[P][B]Flow:[b] When the Force user makes a skill check, he may roll an [B]Flow power check[b] as part of the roll. The user may spend [FP] to heal 1 strain, then inflict 1 strain on all other engaged characters. The Force user may not activate this multiple times.</Description>
+    <Source Page="39">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Ebb/Flow</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>EBBFLOWCONTROL1</Key>
+    <Name>Control: Question</Name>
+    <Description>Spend [FP] [FP] [FP] once per encounter to ask the GM a single "yes or no" question.</Description>
+    <Source Page="39">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Ebb/Flow</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>EBBFLOWCONTROL2</Key>
+    <Name>Control: Threat/Advantage</Name>
+    <Description>[B]Ebb:[b] When making a [B]combined Ebb power check[b], may spend [FP] to add [TH] to any checks made by engaged opponents until the end of next turn.
+[P][B]Flow:[b] When making a [B]combined Flow power check[b], may spend [FP] to add [AD] to any checks using the same skill until the end of next turn.</Description>
+    <Source Page="39">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Ebb/Flow</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>EBBFLOWCONTROL3</Key>
+    <Name>Control: Failure/Success</Name>
+    <Description>[B]Ebb:[b] When making a [B]combined Ebb power check[b], may spend [FP] to add [FA] to any checks made by engaged opponents until the end of next turn.
+[P][B]Flow:[b] When making a [B]combined Flow power check[b], may spend [FP] to add [SU] to any checks using the same skill until the end of next turn.</Description>
+    <Source Page="39">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Ebb/Flow</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>EBBFLOWCONTROL4</Key>
+    <Name>Control: Skill Checks</Name>
+    <Description>Commit [FO] until the end of the current encounter. For the remainder of the current encounter, add [FO] to all skill checks. Each [LI] and [DA] adds either [SU] or [AD] to the check; each [DA] causes the user to suffer 1 strain and gain 1 Conflict.</Description>
+    <Source Page="39">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Ebb/Flow</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>EBBFLOWCONTROL5</Key>
+    <Name>Mastery</Name>
+    <Description>[B]Ebb:[b] Once per session, if a target suffered at least 5 strain from this power, add [DE] to the target's next check.
+
+[P][B]Flow:[b] Once per session, if the user healed at least 5 strain from this power, add [TR] to user's next check.</Description>
+    <Source Page="39">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Ebb/Flow</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>EBBFLOWMAGNITUDE</Key>
+    <Name>Magnitude</Name>
+    <Description>Spend [FP] to exclude number of targets equal to Magnitude upgrades purchased from being affected.</Description>
+    <Source Page="39">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Ebb/Flow</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>EBBFLOWRANGE</Key>
+    <Name>Range</Name>
+    <Description>Spend [FP] [FP] to affect all other characters at short range.</Description>
+    <Source Page="39">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Ebb/Flow</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>EBBFLOWSTRENGTH</Key>
+    <Name>Strength: Strain</Name>
+    <Description>The Force user may spend [FP] to increase the strain healed or inflicted by 1.</Description>
+    <Source Page="39">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Ebb/Flow</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>EBBFLOWSTRENGTH2</Key>
+    <Name>Strength: Threat/Advantage</Name>
+    <Description>The Force user may spend [FP] to increase the [TH] or [AD] added by 1.</Description>
+    <Source Page="39">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Ebb/Flow</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>EBBFLOWSTRENGTH3</Key>
+    <Name>Strength: Failure/Success</Name>
+    <Description>The Force user may spend [FP] to increase the [FA] or [SU] added by 1.</Description>
+    <Source Page="39">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Ebb/Flow</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ENDUREBASIC</Key>
+    <Name>Endure Basic Power</Name>
+    <Description>When the character suffers a Critical Injury with a severity rating no greater than [B]Easy ([DI])[b], the character may activate Endure as an out-of-turn incidental and commit [FO] to temporarily ignore the effects of that injury. The character does not apply results from the Critical Injury or add +10 to further rolls on the Critical Injury Result table while [FO] remains committed. When this ongoing effect ends, the character suffers all effects of the Critical Injury (unless it has been treated).
+</Description>
+    <Source Page="37">Knights of Fate</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Endure</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ENDURECONTROL</Key>
+    <Name>Control</Name>
+    <Description>The character can commit one additional [FO] to temporarily ignore one additional Critical Injury per Control upgrade purchased.
+</Description>
+    <Source Page="37">Knights of Fate</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Endure</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ENDUREDEATH</Key>
+    <Name>Strength: Dead</Name>
+    <Description>The character can use Endure to temporarily ignore a Critical Injury result of Dead.
+</Description>
+    <Source Page="37">Knights of Fate</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Endure</Power>
+  </ForceAbility>
+<ForceAbility>
+    <Key>ENDUREDURATION</Key>
+    <Name>Duration</Name>
+    <Description>As an incidental, the character can activate Endure to temporarily ignore a Critical Injury the character is already suffering, and which is of a severity that Endure could affect normally.</Description>
+    <Source Page="37">Knights of Fate</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Endure</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ENDUREMAGNITUDE</Key>
+    <Name>Magnitude</Name>
+    <Description>The character can use Endure to affect allies at short range. The ongoing effect ends if the distance between the characters increases beyond short for any reason.</Description>
+    <Source Page="37">Knights of Fate</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Endure</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ENDUREMASTERY</Key>
+    <Name>Mastery</Name>
+    <Description>When activating Endure, the character may make an Endure power check, making a Discipline check with a difficulty equal to the severity of the Critical Injury and adding [FO] up to the character's Force rating. If the character succeeds on the check and generates [FP] equal to the Severity of the Critical Injury, the Critical Injury is not suffered.
+</Description>
+    <Source Page="37">Knights of Fate</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Endure</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ENDURERANGE</Key>
+    <Name>Range</Name>
+    <Description>The character can use Endure to affect allies within medium range. The ongoing effect ends if the distance between the characters increases beyond medium for any reason.</Description>
+    <Source Page="37">Knights of Fate</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Endure</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ENDURESTRENGTH</Key>
+    <Name>Strength</Name>
+    <Description>Increase the severity of Critical Injury that can be affected by one per Strength upgrade purchased.
+</Description>
+    <Source Page="37">Knights of Fate</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Endure</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>ENHANCEBASIC</Key>
@@ -387,6 +638,87 @@
     <Power>Enhance</Power>
   </ForceAbility>
   <ForceAbility>
+    <Key>FARSIGHTBASIC</Key>
+    <Name>Farsight Basic Power</Name>
+    <Description>The Force user expands normal visual senses through a connection to the Force.
+[BR]The user may spend [FP] to ignore the effects of darkness or blindness and see normally at up to medium range for the remainder of the round (or for one minute).  This allows the user to view everything mst sentients could normally be able to see on a well lit day.</Description>
+    <Source Page="36">Savage Spirits</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Farsight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FARSIGHTCONTROL1</Key>
+    <Name>Control: Microscopic Details</Name>
+    <Description>Spend [FP] to see microscopic details of a single object within engaged range.</Description>
+    <Source Page="36">Savage Spirits</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Farsight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FARSIGHTCONTROL2</Key>
+    <Name>Control: Transparent</Name>
+    <Description>Spend [FP] to see through a single object at medium range as though it were transparent.</Description>
+    <Source Page="36">Savage Spirits</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Farsight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FARSIGHTCONTROL3</Key>
+    <Name>Control: Vigilance</Name>
+    <Description>When making a Vigilance or Perception check, make a Farsight power check as part of the pool and spend [FP] to gain [SU] or [AD] on the check.</Description>
+    <Source Page="36">Savage Spirits</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Farsight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FARSIGHTCONTROL4</Key>
+    <Name>Control: Perception</Name>
+    <Description>This power gains the ongoing effect: Commit [FO] after successfully activating the Farsight power to increase ranks in Perception by 1.</Description>
+    <Source Page="36">Savage Spirits</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Farsight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FARSIGHTCONTROL5</Key>
+    <Name>Control: Panoramic Vision</Name>
+    <Description>Spend [FP][FP] to see in every direction simultaneously, noticing and observing things in a full 360 degree arc.</Description>
+    <Source Page="36">Savage Spirits</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Farsight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FARSIGHTCONTROL6</Key>
+    <Name>Control: Fine Details</Name>
+    <Description>Spend [FP] to make out fine details on a single object within medium range.</Description>
+    <Source Page="36">Savage Spirits</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Farsight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FARSIGHTDURATION</Key>
+    <Name>Duration</Name>
+    <Description>Spend [FP] to increase duration by number of rounds for minutes equal to Duration upgrades purchased.</Description>
+    <Source Page="36">Savage Spirits</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Farsight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FARSIGHTMASTERY</Key>
+    <Name>Mastery</Name>
+    <Description>Spend [FP][FP]. The user now can see as though from a spot within  close range (planetary scale) of the user's body.</Description>
+    <Source Page="36">Savage Spirits</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Farsight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FARSIGHTRANGE</Key>
+    <Name>Range</Name>
+    <Description>Spend [FP] to increase power's range by one range band equal to Range upgrades purchased.</Description>
+    <Source Page="36">Savage Spirits</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Farsight</Power>
+  </ForceAbility>
+  <ForceAbility>
     <Key>FORSEEBASIC</Key>
     <Name>Foresee Basic Power</Name>
     <Description>The Force user can feel the Force flowing around everything, seeing what is and what will be.
@@ -556,6 +888,64 @@
     <Power>Heal/Harm</Power>
   </ForceAbility>
   <ForceAbility>
+    <Key>IMBUEBASIC</Key>
+    <Name>Imbue Basic Power</Name>
+    <Description>The Force user lends strength to allies, making them more potent, resourceful, or resilient for a time.
+[P]The user may spend [FP] [FP] to increase one of another engaged character's characteristics by 1 (to a maximum of 6) until the end of the Force user's next turn.
+[P]This can only be used once per character per encounter. If the user uses [DA] to generate [FP], the target increases a second characteristic by 1 (to a maximum of 6) until the end of the user's next turn, but both the Force user and target suffer 3 strain.</Description>
+    <Source Page="37">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Imbue</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>IMBUECONTROL1</Key>
+    <Name>Control: Skill Ranks</Name>
+    <Description>Spend [FP] to allow the target to count as having ranks in a skill equal to user's ranks in the skill.</Description>
+    <Source Page="37">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Imbue</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>IMBUEDURATION</Key>
+    <Name>Duration</Name>
+    <Description>Commit [FO] [FO] to sustain the effects of this power as long as the target remains in range.</Description>
+    <Source Page="37">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Imbue</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>IMBUEDURATION2</Key>
+    <Name>Duration</Name>
+    <Description>Commit [FO] to sustain the effects of this power as long as the target remains in range.</Description>
+    <Source Page="37">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Imbue</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>IMBUEMASTERY</Key>
+    <Name>Mastery</Name>
+    <Description>Increase characteristics boosted by this power by 2 (to a maximum of 7) instead of 1 (to a maximum of 6).</Description>
+    <Source Page="37">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Imbue</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>IMBUERANGE</Key>
+    <Name>Range</Name>
+    <Description>Spend [FP] [FP] to increase power's range by a number of range bands equal to Range upgrades purchased.</Description>
+    <Source Page="37">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Imbue</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>IMBUESTRENGTH</Key>
+    <Name>Strength</Name>
+    <Description>If no [DA] were used to generate [FP], decrease all Critical Injuries suffered and inflicted by the target by 10 per Strength upgrade purchased. If no [LI] were used to generate [FP], increase all Critical Injuries suffered and inflicted by 10 per Strength upgrade purchased.</Description>
+    <Source Page="37">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Imbue</Power>
+  </ForceAbility>
+  <ForceAbility>
     <Key>INFLUENCEBASIC</Key>
     <Name>Influence Basic Power</Name>
     <Description>The character may attempt to guide, shape, and even twist the thoughts and feelings of others.
@@ -655,6 +1045,173 @@
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Influence</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>JERINFBASIC</Key>
+    <Name>Jerserra's Influence Basic Power</Name>
+    <Description>The Force use can project terrifying visions onto foes, forcing them to face their greatest fears.
+[P]The user may spend [FP] to target one character within short range. That character must immediately make an [B]Average ([DI][DI]) fear check[b] as an out of turn incidental.
+</Description>
+    <Source Page="13">Ghosts of Dathomir</Source>
+    <Custom>AddedItem</Custom>
+    <Power>Jerserra's Influence</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>JERINFCONTROL1</Key>
+    <Name>Control: Strain</Name>
+    <Description>If the target suffers strain as a result of Jerserra's Influence, the Force user recovers an equal amount of strain.
+</Description>
+    <Source Page="13">Ghosts of Dathomir</Source>
+    <Custom>AddedItem</Custom>
+    <Power>Jerserra's Influence</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>JERINFCONTROL2</Key>
+    <Name>Control: Fear</Name>
+    <Description>When making a fear check, the Force user can roll a [B]Jerserra's Influence power check[b] as part of the pool. The user may spend [FP] to gain [SU] or [AD] (user's choice) on the check.</Description>
+    <Source Page="13">Ghosts of Dathomir</Source>
+    <Custom>AddedItem</Custom>
+    <Power>Jerserra's Influence</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>JERINFCONTROL3</Key>
+    <Name>Control: Willpower</Name>
+    <Description>Ongoing effect. Commit [FO]. The user increases his Willpower characteristic by 1 (to a maximum of 6).
+</Description>
+    <Source Page="13">Ghosts of Dathomir</Source>
+    <Custom>AddedItem</Custom>
+    <Power>Jerserra's Influence</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>JERINFMAGNITUDE</Key>
+    <Name>Magnitude</Name>
+    <Description>Spend [FP] to increase the number of targets affected by a number equal to Magnitude upgrades purchased.</Description>
+    <Source Page="13">Ghosts of Dathomir</Source>
+    <Custom>AddedItem</Custom>
+    <Power>Jerserra's Influence</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>JERINFMASTERY1</Key>
+    <Name>Mastery</Name>
+    <Description>The Force user may target one character within short range and make an [B]opposed Discipline vs. Discipline check[b] combined with a [B]Jerserra's Influence power check[b]. If the user spends [FP] and succeeds on the check, he may commit [FO] and force the target to also commit [FO]. Both dice remain committed until the Force user uncommits that [FO] or the encounter ends.
+</Description>
+    <Source Page="13">Ghosts of Dathomir</Source>
+    <Custom>AddedItem</Custom>
+    <Power>Jerserra's Influence</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>JERINFMASTERY2</Key>
+    <Name>Mastery</Name>
+    <Description>Once per session, after a target fails a fear check caused by this power, the Force user may have the target perform one action as an out of turn incidental. The Force user gains 3 Conflict.</Description>
+    <Source Page="13">Ghosts of Dathomir</Source>
+    <Custom>AddedItem</Custom>
+    <Power>Jerserra's Influence</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>JERINFRANGE</Key>
+    <Name>Range</Name>
+    <Description>Spend [FP] to increase the power's range by a number of range bands equal to Range upgrades purchased.</Description>
+    <Source Page="13">Ghosts of Dathomir</Source>
+    <Custom>AddedItem</Custom>
+    <Power>Jerserra's Influence</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>JERINFSTRENGTH</Key>
+    <Name>Strength</Name>
+    <Description>The Force user may spend [FP] to increase the difficulty of the fear check by a number of times equal to Strength upgrades purchased.
+</Description>
+    <Source Page="13">Ghosts of Dathomir</Source>
+    <Custom>AddedItem</Custom>
+    <Power>Jerserra's Influence</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MANIPULATEBASIC</Key>
+    <Name>Manipulate Basic Power</Name>
+    <Description>The Force user shapes machine components on a molecular level, allowing him to mend damaged mechanical systems.
+[BR]The Force user may spend [FP] to cause one vehicle or starship he is engaged with to recover one system strain. The user may activate this multiple times.</Description>
+    <Source Page="37">Endless Vigil</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Manipulate</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MANIPULATECONTROL1</Key>
+    <Name>Control: Item Damage</Name>
+    <Description>Ongoing effect: Commit [FO] One damaged weapon or item counts as being undamaged.</Description>
+    <Source Page="37">Endless Vigil</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Manipulate</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MANIPULATECONTROL2</Key>
+    <Name>Control: Increase System Strain</Name>
+    <Description>Ongoing effect: Commit [FO] Increase the system strain threshold of 1 vehicle or starship at engaged range by 3 per [FO] committed.</Description>
+    <Source Page="37">Endless Vigil</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Manipulate</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MANIPULATECONTROL3</Key>
+    <Name>Control: Mechanics</Name>
+    <Description>When making a Mechanics skill check, the user may roll a Manipulate power check as part of the pool and may spend [FP] to gain [SU] or [AD] (user's choice) on the check.</Description>
+    <Source Page="37">Endless Vigil</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Manipulate</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MANIPULATECONTROL4</Key>
+    <Name>Control: Heal Droid</Name>
+    <Description>The user may spend [FP] to heal a number of wounds equal to his Intellect in an engaged droid.</Description>
+    <Source Page="37">Endless Vigil</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Manipulate</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MANIPULATECONTROL5</Key>
+    <Name>Control: Inflict Strain</Name>
+    <Description>When performing a combat check against a droid, ship, vehicle or other mechanical construct within engaged ranged, the user may spend [FP] to inflict 1 additional strain or system strain on the target.</Description>
+    <Source Page="37">Endless Vigil</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Manipulate</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MANIPULATECONTROL6</Key>
+    <Name>Control: Increase Hull Trauma</Name>
+    <Description>Ongoing effect: Commit [FO]. Increase the hull trauma threshold of 1 vehicle or starship at engaged range by 3 per [FO] committed.</Description>
+    <Source Page="37">Endless Vigil</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Manipulate</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MANIPULATECONTROL7</Key>
+    <Name>Control: Upgrade Computers and Mechanics</Name>
+    <Description>Ongoing effect: Commit [FO]. Upgrade the ability of Computers and Mechanics check once.</Description>
+    <Source Page="37">Endless Vigil</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Manipulate</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MANIPULATEMASTERY</Key>
+    <Name>Mastery</Name>
+    <Description>When performing Manipulate power check as part of a Mechanics skill check, the user may spend [FP][FP] to gain [TR] on the check.</Description>
+    <Source Page="37">Endless Vigil</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Manipulate</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MANIPULATERANGE</Key>
+    <Name>Range</Name>
+    <Description>Spend [FP] to increase the power's range by a number of range bands equal to Range upgrades purchased.</Description>
+    <Source Page="37">Endless Vigil</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Manipulate</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MANIPULATESTRENGTH</Key>
+    <Name>Strength</Name>
+    <Description>When using this power spend [FP] to cause targets to recover 1 additional strain or system strain or heal 1 additional wound for every Strength upgrade purchased.</Description>
+    <Source Page="37">Endless Vigil</Source>
+    <Custom>DescOnly</Custom>
+    <Power>Manipulate</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MISDIRBASIC</Key>
@@ -926,107 +1483,99 @@
     <Power>Seek</Power>
   </ForceAbility>
   <ForceAbility>
-    <Key>WARFORBASIC</Key>
-    <Name>Warde's Foresight Basic Power</Name>
-    <Description>[P]The Force user can feel the Force flowing around another specific individual to gain insight into what that person might do. The user may spend [FP] to gain hints about what another individual within short range is likely to do in the near future.</Description>
-    <Source>Chronicles of the Gatekeeper</Source>
+    <Key>SENSEBASIC</Key>
+    <Name>Sense Basic Power</Name>
+    <Description>[P]The Force user can sense the Force interacting with the world around him.
+[P]The user may spend [FP] to sense all living things within short range (including sentient and non-sentient beings).
+[P]The user may spend [FP] to sense the current emotional state of one living target with whom he is engaged.</Description>
+    <Sources>
+      <Source>Edge of the Empire Core Rulebook</Source>
+      <Source>Force and Destiny Core Rulebook</Source>
+    </Sources>
     <Custom>DescOnly</Custom>
-    <Power>Warde's Foresight</Power>
+    <Power>Sense</Power>
   </ForceAbility>
   <ForceAbility>
-    <Key>WARFORRANGE</Key>
-    <Name>Range</Name>
-    <Description>[P]Spend [FP] to increase power's range by a number of range bands equal to Range upgrades purchased.</Description>
-    <Source>Chronicles of the Gatekeeper</Source>
+    <Key>SENSECONTROL1</Key>
+    <Name>Control: Upgrade Difficulty</Name>
+    <Description>Ongoing Effect: Commit [FO]. Once per round, when an attack targets the Force user, he upgrades the difficulty of the pool once.</Description>
+    <Sources>
+      <Source>Edge of the Empire Core Rulebook</Source>
+      <Source>Force and Destiny Core Rulebook</Source>
+    </Sources>
     <Custom>DescOnly</Custom>
-    <Power>Warde's Foresight</Power>
+    <Power>Sense</Power>
   </ForceAbility>
   <ForceAbility>
-    <Key>WARFORDURATION</Key>
+    <Key>SENSECONTROL2</Key>
+    <Name>Control: Sense Thoughts</Name>
+    <Description>Effect: Spend [FP]. The Force user senses the current thoughts of one living target with whom he is engaged.</Description>
+    <Sources>
+      <Source>Edge of the Empire Core Rulebook</Source>
+      <Source>Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Power>Sense</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>SENSECONTROL3</Key>
+    <Name>Control: Upgrade Ability</Name>
+    <Description>Ongoing Effect: Commit [FO]. Once per round, when the Force user makes a combat check, he upgrades the ability of that check once.</Description>
+    <Sources>
+      <Source>Edge of the Empire Core Rulebook</Source>
+      <Source>Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>SENSEDURATION</Key>
     <Name>Duration</Name>
-    <Description>[P]Spend [FP][FP] to have the bonuses the power grants apply to all checks for rounds equal to Duration upgrades purchased.</Description>
-    <Source>Chronicles of the Gatekeeper</Source>
+    <Description>Sense's ongoing effect may be triggered one additional time per round.</Description>
+    <Sources>
+      <Source>Edge of the Empire Core Rulebook</Source>
+      <Source>Force and Destiny Core Rulebook</Source>
+    </Sources>
     <Custom>DescOnly</Custom>
-    <Power>Warde's Foresight</Power>
+    <Power>Sense</Power>
   </ForceAbility>
   <ForceAbility>
-    <Key>WARFORSTRENGTH</Key>
-    <Name>Strength</Name>
-    <Description>[P]Spend [FP][FP]to add [BO] equal to Strength upgrades purchased to user's next check against the target.</Description>
-    <Source>Chronicles of the Gatekeeper</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Warde's Foresight</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>WARFORMAGNITUDE</Key>
+    <Key>SENSEMAGNITUDE</Key>
     <Name>Magnitude</Name>
-    <Description>[P]When performing a Warde’s Foresight power check as part of an Initiative check, spend [FP] to add [SU] or [AD] to ally's first check this encounter.</Description>
-    <Source>Chronicles of the Gatekeeper</Source>
+    <Description>Spend [FP] to increase number of targets affected by power equal to magnitude upgrades purchased.</Description>
+    <Sources>
+      <Source>Edge of the Empire Core Rulebook</Source>
+      <Source>Force and Destiny Core Rulebook</Source>
+    </Sources>
     <Custom>DescOnly</Custom>
-    <Power>Warde's Foresight</Power>
+    <Power>Sense</Power>
   </ForceAbility>
   <ForceAbility>
-    <Key>WARFORCONTROL2</Key>
-    <Name>Control: Maneuver</Name>
-    <Description>[P]Once per encounter, use the basic power as a maneuver.</Description>
-    <Source>Chronicles of the Gatekeeper</Source>
+    <Key>SENSERANGE</Key>
+    <Name>Range</Name>
+    <Description>Spend [FP] to increase power's range by a number of range bands equal to Range upgrades purchased.</Description>
+    <Sources>
+      <Source>Edge of the Empire Core Rulebook</Source>
+      <Source>Force and Destiny Core Rulebook</Source>
+    </Sources>
     <Custom>DescOnly</Custom>
-    <Power>Warde's Foresight</Power>
+    <Power>Sense</Power>
   </ForceAbility>
   <ForceAbility>
-    <Key>WARFORCONTROL3</Key>
-    <Name>Control: Initiative</Name>
-    <Description>[P]When performing a Warde’s Foresight power check as part of an Initiative check, spend [FP] to add [AD] on user’s first check this encounter.</Description>
-    <Source Page="10">Chronicles of the Gatekeeper</Source>
+    <Key>SENSESTRENGTH</Key>
+    <Name>Strength</Name>
+    <Description>When using Sense's ongoing effects, upgrade the pool twice, instead of once.</Description>
+    <Sources>
+      <Source>Edge of the Empire Core Rulebook</Source>
+      <Source>Force and Destiny Core Rulebook</Source>
+    </Sources>
     <Custom>DescOnly</Custom>
-    <Power>Warde's Foresight</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>WARFORCONTROL1</Key>
-    <Name>Control: Successes</Name>
-    <Description>[P]When performing a Warde’s Foresight power check as part of an Initiative check, if the user did not use [DA] to generate [FP] each ally adds automatic [DA] to the results of his Initiative check. If the user used % to generate [FP] the user may immediately perform an action before the encounter begins, but each enemy in the encounter adds automatic [SU] to the results of his Initiative check.
-</Description>
-    <Source>Chronicles of the Gatekeeper</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Warde's Foresight</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>WARFORCONTROL4</Key>
-    <Name>Control: Ally Initiative</Name>
-    <Description>[P]When performing a Warde’s Foresight power check as part of an Initiative check, if the user did not use [DA] to generate [FP] each ally adds automatic [SU] to the results of his Initiative check. If the user used [DA] to generate [FP] the user may immediately perform an action before the encounter begins, but each enemy in the encounter adds automatic [SU] to the results of his Initiative check.</Description>
-    <Source>Chronicles of the Gatekeeper</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Warde's Foresight</Power>
+    <Power>Sense</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>SUPPRESSBASIC</Key>
     <Name>Suppress Basic Power</Name>
     <Description>[P]The Force user can dampen the effect of incoming force powers, dramatically diminishing their effects on himself and his allies.
 [P]The user may spend [FP] to add automatic [FA] to force power checks made against him or any ally within short range until the end of his next turn.</Description>
-    <Source>Keeping the Peace</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Suppress</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>SUPPRESSRANGE</Key>
-    <Name>Range</Name>
-    <Description>[P]Spend [FP] to increase power's range by a number of range bands equal to Range upgrades purchased.</Description>
-    <Source>Keeping the Peace</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Suppress</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>SUPPRESSCONTROL3</Key>
-    <Name>Control: Strain</Name>
-    <Description>[P]Whenever a Force user targets a character affected by Suppress with a hostile Force power, if that opponent used [DA] to generate [FP] on the check, he suffers strain equal to the user's ranks in Discipline.</Description>
-    <Source>Keeping the Peace</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Suppress</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>SUPPRESSMASTERY</Key>
-    <Name>Mastery</Name>
-    <Description>[P]The user may make a Suppress power check along with an opposed Discipline vs. Discipline check targeting another Force user within short range. If the user spends [FP][FP] and succeeds on the check, the target Force user immediately uncommits all [FO] and ends all ongoing effects of Force powers and Force talents that required committed [FO].</Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <Power>Suppress</Power>
@@ -1048,9 +1597,9 @@
     <Power>Suppress</Power>
   </ForceAbility>
   <ForceAbility>
-    <Key>SUPPRESSSTRENGTH</Key>
-    <Name>Strength</Name>
-    <Description>[P]Spend [FP] to add additional [FA] equal to Strength upgrades purchased to hostile Force power checks.</Description>
+    <Key>SUPPRESSCONTROL3</Key>
+    <Name>Control: Strain</Name>
+    <Description>[P]Whenever a Force user targets a character affected by Suppress with a hostile Force power, if that opponent used [DA] to generate [FP] on the check, he suffers strain equal to the user's ranks in Discipline.</Description>
     <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <Power>Suppress</Power>
@@ -1064,649 +1613,100 @@
     <Power>Suppress</Power>
   </ForceAbility>
   <ForceAbility>
-    <Key>FARSIGHTCONTROL2</Key>
-    <Name>Control: Transparent</Name>
-    <Description>Spend [FP] to see through a single object at medium range as though it were transparent.</Description>
-    <Source Page="36">Savage Spirits</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Farsight</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>FARSIGHTMASTERY</Key>
+    <Key>SUPPRESSMASTERY</Key>
     <Name>Mastery</Name>
-    <Description>Spend [FP][FP]. The user now can see as though from a spot within  close range (planetary scale) of the user's body.</Description>
-    <Source Page="36">Savage Spirits</Source>
+    <Description>[P]The user may make a Suppress power check along with an opposed Discipline vs. Discipline check targeting another Force user within short range. If the user spends [FP][FP] and succeeds on the check, the target Force user immediately uncommits all [FO] and ends all ongoing effects of Force powers and Force talents that required committed [FO].</Description>
+    <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
-    <Power>Farsight</Power>
+    <Power>Suppress</Power>
   </ForceAbility>
   <ForceAbility>
-    <Key>FARSIGHTCONTROL3</Key>
-    <Name>Control: Vigilance</Name>
-    <Description>When making a Vigilance or Perception check, make a Farsight power check as part of the pool and spend [FP] to gain [SU] or [AD] on the check.</Description>
-    <Source Page="36">Savage Spirits</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Farsight</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>FARSIGHTDURATION</Key>
-    <Name>Duration</Name>
-    <Description>Spend [FP] to increase duration by number of rounds for minutes equal to Duration upgrades purchased.</Description>
-    <Source Page="36">Savage Spirits</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Farsight</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>MANIPULATECONTROL3</Key>
-    <Name>Control: Mechanics</Name>
-    <Description>When making a Mechanics skill check, the user may roll a Manipulate power check as part of the pool and may spend [FP] to gain [SU] or [AD] (user's choice) on the check.</Description>
-    <Source Page="37">Endless Vigil</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Manipulate</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>MANIPULATERANGE</Key>
+    <Key>SUPPRESSRANGE</Key>
     <Name>Range</Name>
-    <Description>Spend [FP] to increase the power's range by a number of range bands equal to Range upgrades purchased.</Description>
-    <Source Page="37">Endless Vigil</Source>
+    <Description>[P]Spend [FP] to increase power's range by a number of range bands equal to Range upgrades purchased.</Description>
+    <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
-    <Power>Manipulate</Power>
+    <Power>Suppress</Power>
   </ForceAbility>
   <ForceAbility>
-    <Key>MANIPULATEMASTERY</Key>
-    <Name>Mastery</Name>
-    <Description>When performing Manipulate power check as part of a Mechanics skill check, the user may spend [FP][FP] to gain [TR] on the check.</Description>
-    <Source Page="37">Endless Vigil</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Manipulate</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>MANIPULATECONTROL5</Key>
-    <Name>Control: Inflict Strain</Name>
-    <Description>When performing a combat check against a droid, ship, vehicle or other mechanical construct within engaged ranged, the user may spend [FP] to inflict 1 additional strain or system strain on the target.</Description>
-    <Source Page="37">Endless Vigil</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Manipulate</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>MANIPULATESTRENGTH</Key>
+    <Key>SUPPRESSSTRENGTH</Key>
     <Name>Strength</Name>
-    <Description>When using this power spend [FP] to cause targets to recover 1 additional strain or system strain or heal 1 additional wound for every Strength upgrade purchased.</Description>
-    <Source Page="37">Endless Vigil</Source>
+    <Description>[P]Spend [FP] to add additional [FA] equal to Strength upgrades purchased to hostile Force power checks.</Description>
+    <Source>Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
-    <Power>Manipulate</Power>
+    <Power>Suppress</Power>
   </ForceAbility>
   <ForceAbility>
-    <Key>MANIPULATECONTROL4</Key>
-    <Name>Control: Heal Droid</Name>
-    <Description>The user may spend [FP] to heal a number of wounds equal to his Intellect in an engaged droid.</Description>
-    <Source Page="37">Endless Vigil</Source>
+    <Key>WARFORBASIC</Key>
+    <Name>Warde's Foresight Basic Power</Name>
+    <Description>[P]The Force user can feel the Force flowing around another specific individual to gain insight into what that person might do. The user may spend [FP] to gain hints about what another individual within short range is likely to do in the near future.</Description>
+    <Source>Chronicles of the Gatekeeper</Source>
     <Custom>DescOnly</Custom>
-    <Power>Manipulate</Power>
+    <Power>Warde's Foresight</Power>
   </ForceAbility>
   <ForceAbility>
-    <Key>MANIPULATECONTROL1</Key>
-    <Name>Control: Item Damage</Name>
-    <Description>Ongoing effect: Commit [FO] One damaged weapon or item counts as being undamaged.</Description>
-    <Source Page="37">Endless Vigil</Source>
+    <Key>WARFORCONTROL1</Key>
+    <Name>Control: Successes</Name>
+    <Description>[P]When performing a Warde’s Foresight power check as part of an Initiative check, if the user did not use [DA] to generate [FP] each ally adds automatic [DA] to the results of his Initiative check. If the user used % to generate [FP] the user may immediately perform an action before the encounter begins, but each enemy in the encounter adds automatic [SU] to the results of his Initiative check.
+</Description>
+    <Source>Chronicles of the Gatekeeper</Source>
     <Custom>DescOnly</Custom>
-    <Power>Manipulate</Power>
+    <Power>Warde's Foresight</Power>
   </ForceAbility>
   <ForceAbility>
-    <Key>MANIPULATECONTROL2</Key>
-    <Name>Control: Increase System Strain</Name>
-    <Description>Ongoing effect: Commit [FO] Increase the system strain threshold of 1 vehicle or starship at engaged range by 3 per [FO] committed.</Description>
-    <Source Page="37">Endless Vigil</Source>
+    <Key>WARFORCONTROL2</Key>
+    <Name>Control: Maneuver</Name>
+    <Description>[P]Once per encounter, use the basic power as a maneuver.</Description>
+    <Source>Chronicles of the Gatekeeper</Source>
     <Custom>DescOnly</Custom>
-    <Power>Manipulate</Power>
+    <Power>Warde's Foresight</Power>
   </ForceAbility>
   <ForceAbility>
-    <Key>MANIPULATEBASIC</Key>
-    <Name>Manipulate Basic Power</Name>
-    <Description>The Force user shapes machine components on a molecular level, allowing him to mend damaged mechanical systems.
-[BR]The Force user may spend [FP] to cause one vehicle or starship he is engaged with to recover one system strain. The user may activate this multiple times.</Description>
-    <Source Page="37">Endless Vigil</Source>
+    <Key>WARFORCONTROL3</Key>
+    <Name>Control: Initiative</Name>
+    <Description>[P]When performing a Warde’s Foresight power check as part of an Initiative check, spend [FP] to add [AD] on user’s first check this encounter.</Description>
+    <Source Page="10">Chronicles of the Gatekeeper</Source>
     <Custom>DescOnly</Custom>
-    <Power>Manipulate</Power>
+    <Power>Warde's Foresight</Power>
   </ForceAbility>
   <ForceAbility>
-    <Key>MANIPULATECONTROL7</Key>
-    <Name>Control: Upgrade Computers and Mechanics</Name>
-    <Description>Ongoing effect: Commit [FO]. Upgrade the ability of Computers and Mechanics check once.</Description>
-    <Source Page="37">Endless Vigil</Source>
+    <Key>WARFORCONTROL4</Key>
+    <Name>Control: Ally Initiative</Name>
+    <Description>[P]When performing a Warde’s Foresight power check as part of an Initiative check, if the user did not use [DA] to generate [FP] each ally adds automatic [SU] to the results of his Initiative check. If the user used [DA] to generate [FP] the user may immediately perform an action before the encounter begins, but each enemy in the encounter adds automatic [SU] to the results of his Initiative check.</Description>
+    <Source>Chronicles of the Gatekeeper</Source>
     <Custom>DescOnly</Custom>
-    <Power>Manipulate</Power>
+    <Power>Warde's Foresight</Power>
   </ForceAbility>
   <ForceAbility>
-    <Key>MANIPULATECONTROL6</Key>
-    <Name>Control: Increase Hull Trauma</Name>
-    <Description>Ongoing effect: Commit [FO]. Increase the hull trauma threshold of 1 vehicle or starship at engaged range by 3 per [FO] committed.</Description>
-    <Source Page="37">Endless Vigil</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Manipulate</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>FARSIGHTCONTROL6</Key>
-    <Name>Control: Fine Details</Name>
-    <Description>Spend [FP] to make out fine details on a single object within medium range.</Description>
-    <Source Page="36">Savage Spirits</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Farsight</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>FARSIGHTCONTROL4</Key>
-    <Name>Control: Perception</Name>
-    <Description>This power gains the ongoing effect: Commit [FO] after successfully activating the Farsight power to increase ranks in Perception by 1.</Description>
-    <Source Page="36">Savage Spirits</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Farsight</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>FARSIGHTCONTROL5</Key>
-    <Name>Control: Panoramic Vision</Name>
-    <Description>Spend [FP][FP] to see in every direction simultaneously, noticing and observing things in a full 360 degree arc.</Description>
-    <Source Page="36">Savage Spirits</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Farsight</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>FARSIGHTBASIC</Key>
-    <Name>Farsight Basic Power</Name>
-    <Description>The Force user expands normal visual senses through a connection to the Force.
-[BR]The user may spend [FP] to ignore the effects of darkness or blindness and see normally at up to medium range for the remainder of the round (or for one minute).  This allows the user to view everything mst sentients could normally be able to see on a well lit day.</Description>
-    <Source Page="36">Savage Spirits</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Farsight</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>FARSIGHTCONTROL1</Key>
-    <Name>Control: Microscopic Details</Name>
-    <Description>Spend [FP] to see microscopic details of a single object within engaged range.</Description>
-    <Source Page="36">Savage Spirits</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Farsight</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>FARSIGHTRANGE</Key>
-    <Name>Range</Name>
-    <Description>Spend [FP] to increase power's range by one range band equal to Range upgrades purchased.</Description>
-    <Source Page="36">Savage Spirits</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Farsight</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>IMBUEBASIC</Key>
-    <Name>Imbue Basic Power</Name>
-    <Description>The Force user lends strength to allies, making them more potent, resourceful, or resilient for a time.
-[P]The user may spend [FP] [FP] to increase one of another engaged character's characteristics by 1 (to a maximum of 6) until the end of the Force user's next turn.
-[P]This can only be used once per character per encounter. If the user uses [DA] to generate [FP], the target increases a second characteristic by 1 (to a maximum of 6) until the end of the user's next turn, but both the Force user and target suffer 3 strain.</Description>
-    <Source Page="37">Disciples of Harmony</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Imbue</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>IMBUESTRENGTH</Key>
-    <Name>Strength</Name>
-    <Description>If no [DA] were used to generate [FP], decrease all Critical Injuries suffered and inflicted by the target by 10 per Strength upgrade purchased. If no [LI] were used to generate [FP], increase all Critical Injuries suffered and inflicted by 10 per Strength upgrade purchased.</Description>
-    <Source Page="37">Disciples of Harmony</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Imbue</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>IMBUECONTROL1</Key>
-    <Name>Control: Skill Ranks</Name>
-    <Description>Spend [FP] to allow the target to count as having ranks in a skill equal to user's ranks in the skill.</Description>
-    <Source Page="37">Disciples of Harmony</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Imbue</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>IMBUEMASTERY</Key>
-    <Name>Mastery</Name>
-    <Description>Increase characteristics boosted by this power by 2 (to a maximum of 7) instead of 1 (to a maximum of 6).</Description>
-    <Source Page="37">Disciples of Harmony</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Imbue</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>IMBUERANGE</Key>
-    <Name>Range</Name>
-    <Description>Spend [FP] [FP] to increase power's range by a number of range bands equal to Range upgrades purchased.</Description>
-    <Source Page="37">Disciples of Harmony</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Imbue</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>IMBUEDURATION</Key>
+    <Key>WARFORDURATION</Key>
     <Name>Duration</Name>
-    <Description>Commit [FO] [FO] to sustain the effects of this power as long as the target remains in range.</Description>
-    <Source Page="37">Disciples of Harmony</Source>
+    <Description>[P]Spend [FP][FP] to have the bonuses the power grants apply to all checks for rounds equal to Duration upgrades purchased.</Description>
+    <Source>Chronicles of the Gatekeeper</Source>
     <Custom>DescOnly</Custom>
-    <Power>Imbue</Power>
+    <Power>Warde's Foresight</Power>
   </ForceAbility>
   <ForceAbility>
-    <Key>IMBUEDURATION2</Key>
-    <Name>Duration</Name>
-    <Description>Commit [FO] to sustain the effects of this power as long as the target remains in range.</Description>
-    <Source Page="37">Disciples of Harmony</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Imbue</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>EBBFLOWMAGNITUDE</Key>
+    <Key>WARFORMAGNITUDE</Key>
     <Name>Magnitude</Name>
-    <Description>Spend [FP] to exclude number of targets equal to Magnitude upgrades purchased from being affected.</Description>
-    <Source Page="39">Disciples of Harmony</Source>
+    <Description>[P]When performing a Warde’s Foresight power check as part of an Initiative check, spend [FP] to add [SU] or [AD] to ally's first check this encounter.</Description>
+    <Source>Chronicles of the Gatekeeper</Source>
     <Custom>DescOnly</Custom>
-    <Power>Ebb/Flow</Power>
+    <Power>Warde's Foresight</Power>
   </ForceAbility>
   <ForceAbility>
-    <Key>EBBFLOWBASIC</Key>
-    <Name>Ebb/Flow Basic Power</Name>
-    <Description>The Force user's action empowers himself or saps strength from his foes.
-[P][B]Ebb:[b] When the Force user makes a skill check, he may roll an [B]Ebb power check[b] as part of the roll. The user may spend [FP] to suffer 1 strain, then inflict 1 strain on all other engaged characters. The Force user may not activate this multiple times.
-[P][B]Flow:[b] When the Force user makes a skill check, he may roll an [B]Flow power check[b] as part of the roll. The user may spend [FP] to heal 1 strain, then inflict 1 strain on all other engaged characters. The Force user may not activate this multiple times.</Description>
-    <Source Page="39">Disciples of Harmony</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Ebb/Flow</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>EBBFLOWRANGE</Key>
+    <Key>WARFORRANGE</Key>
     <Name>Range</Name>
-    <Description>Spend [FP] [FP] to affect all other characters at short range.</Description>
-    <Source Page="39">Disciples of Harmony</Source>
+    <Description>[P]Spend [FP] to increase power's range by a number of range bands equal to Range upgrades purchased.</Description>
+    <Source>Chronicles of the Gatekeeper</Source>
     <Custom>DescOnly</Custom>
-    <Power>Ebb/Flow</Power>
+    <Power>Warde's Foresight</Power>
   </ForceAbility>
   <ForceAbility>
-    <Key>EBBFLOWSTRENGTH</Key>
-    <Name>Strength: Strain</Name>
-    <Description>The Force user may spend [FP] to increase the strain healed or inflicted by 1.</Description>
-    <Source Page="39">Disciples of Harmony</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Ebb/Flow</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>EBBFLOWSTRENGTH3</Key>
-    <Name>Strength: Failure/Success</Name>
-    <Description>The Force user may spend [FP] to increase the [FA] or [SU] added by 1.</Description>
-    <Source Page="39">Disciples of Harmony</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Ebb/Flow</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>EBBFLOWSTRENGTH2</Key>
-    <Name>Strength: Threat/Advantage</Name>
-    <Description>The Force user may spend [FP] to increase the [TH] or [AD] added by 1.</Description>
-    <Source Page="39">Disciples of Harmony</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Ebb/Flow</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>EBBFLOWCONTROL2</Key>
-    <Name>Control: Threat/Advantage</Name>
-    <Description>[B]Ebb:[b] When making a [B]combined Ebb power check[b], may spend [FP] to add [TH] to any checks made by engaged opponents until the end of next turn.
-[P][B]Flow:[b] When making a [B]combined Flow power check[b], may spend [FP] to add [AD] to any checks using the same skill until the end of next turn.</Description>
-    <Source Page="39">Disciples of Harmony</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Ebb/Flow</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>EBBFLOWCONTROL1</Key>
-    <Name>Control: Question</Name>
-    <Description>Spend [FP] [FP] [FP] once per encounter to ask the GM a single "yes or no" question.</Description>
-    <Source Page="39">Disciples of Harmony</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Ebb/Flow</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>EBBFLOWCONTROL3</Key>
-    <Name>Control: Failure/Success</Name>
-    <Description>[B]Ebb:[b] When making a [B]combined Ebb power check[b], may spend [FP] to add [FA] to any checks made by engaged opponents until the end of next turn.
-[P][B]Flow:[b] When making a [B]combined Flow power check[b], may spend [FP] to add [SU] to any checks using the same skill until the end of next turn.</Description>
-    <Source Page="39">Disciples of Harmony</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Ebb/Flow</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>EBBFLOWCONTROL4</Key>
-    <Name>Control: Skill Checks</Name>
-    <Description>Commit [FO] until the end of the current encounter. For the remainder of the current encounter, add [FO] to all skill checks. Each [LI] and [DA] adds either [SU] or [AD] to the check; each [DA] causes the user to suffer 1 strain and gain 1 Conflict.</Description>
-    <Source Page="39">Disciples of Harmony</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Ebb/Flow</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>EBBFLOWCONTROL5</Key>
-    <Name>Mastery</Name>
-    <Description>[B]Ebb:[b] Once per session, if a target suffered at least 5 strain from this power, add [DE] to the target's next check.
-
-[P][B]Flow:[b] Once per session, if the user healed at least 5 strain from this power, add [TR] to user's next check.</Description>
-    <Source Page="39">Disciples of Harmony</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Ebb/Flow</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>JERINFBASIC</Key>
-    <Name>Jerserra's Influence Basic Power</Name>
-    <Description>The Force use can project terrifying visions onto foes, forcing them to face their greatest fears.
-[P]The user may spend [FP] to target one character within short range. That character must immediately make an [B]Average ([DI][DI]) fear check[b] as an out of turn incidental.
-</Description>
-    <Source Page="13">Ghosts of Dathomir</Source>
-    <Custom>AddedItem</Custom>
-    <Power>Jerserra's Influence</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>JERINFRANGE</Key>
-    <Name>Range</Name>
-    <Description>Spend [FP] to increase the power's range by a number of range bands equal to Range upgrades purchased.</Description>
-    <Source Page="13">Ghosts of Dathomir</Source>
-    <Custom>AddedItem</Custom>
-    <Power>Jerserra's Influence</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>JERINFCONTROL1</Key>
-    <Name>Control: Strain</Name>
-    <Description>If the target suffers strain as a result of Jerserra's Influence, the Force user recovers an equal amount of strain.
-</Description>
-    <Source Page="13">Ghosts of Dathomir</Source>
-    <Custom>AddedItem</Custom>
-    <Power>Jerserra's Influence</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>JERINFCONTROL2</Key>
-    <Name>Control: Fear</Name>
-    <Description>When making a fear check, the Force user can roll a [B]Jerserra's Influence power check[b] as part of the pool. The user may spend [FP] to gain [SU] or [AD] (user's choice) on the check.</Description>
-    <Source Page="13">Ghosts of Dathomir</Source>
-    <Custom>AddedItem</Custom>
-    <Power>Jerserra's Influence</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>JERINFMAGNITUDE</Key>
-    <Name>Magnitude</Name>
-    <Description>Spend [FP] to increase the number of targets affected by a number equal to Magnitude upgrades purchased.</Description>
-    <Source Page="13">Ghosts of Dathomir</Source>
-    <Custom>AddedItem</Custom>
-    <Power>Jerserra's Influence</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>JERINFSTRENGTH</Key>
+    <Key>WARFORSTRENGTH</Key>
     <Name>Strength</Name>
-    <Description>The Force user may spend [FP] to increase the difficulty of the fear check by a number of times equal to Strength upgrades purchased.
-</Description>
-    <Source Page="13">Ghosts of Dathomir</Source>
-    <Custom>AddedItem</Custom>
-    <Power>Jerserra's Influence</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>JERINFCONTROL3</Key>
-    <Name>Control: Willpower</Name>
-    <Description>Ongoing effect. Commit [FO]. The user increases his Willpower characteristic by 1 (to a maximum of 6).
-</Description>
-    <Source Page="13">Ghosts of Dathomir</Source>
-    <Custom>AddedItem</Custom>
-    <Power>Jerserra's Influence</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>JERINFMASTERY1</Key>
-    <Name>Mastery</Name>
-    <Description>The Force user may target one character within short range and make an [B]opposed Discipline vs. Discipline check[b] combined with a [B]Jerserra's Influence power check[b]. If the user spends [FP] and succeeds on the check, he may commit [FO] and force the target to also commit [FO]. Both dice remain committed until the Force user uncommits that [FO] or the encounter ends.
-</Description>
-    <Source Page="13">Ghosts of Dathomir</Source>
-    <Custom>AddedItem</Custom>
-    <Power>Jerserra's Influence</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>JERINFMASTERY2</Key>
-    <Name>Mastery</Name>
-    <Description>Once per session, after a target fails a fear check caused by this power, the Force user may have the target perform one action as an out of turn incidental. The Force user gains 3 Conflict.</Description>
-    <Source Page="13">Ghosts of Dathomir</Source>
-    <Custom>AddedItem</Custom>
-    <Power>Jerserra's Influence</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>CONJUREBASIC</Key>
-    <Name>Conjure Basic Power</Name>
-    <Description>The Force user calls forth a spectral object to their hand, which lasts for a short time.
-[P]The user may spend [FP] to create a facsimile of a Brawl or Melee weapon anywhere within engaged range. At the end of the user's next turn, this item dissipates. At the GM's discretion, the user can instead conjure a simple tool and other useful low-tech item with an encumbrance no greater than 1.
-</Description>
-    <Source Page="40">Unlimited Power</Source>
+    <Description>[P]Spend [FP][FP]to add [BO] equal to Strength upgrades purchased to user's next check against the target.</Description>
+    <Source>Chronicles of the Gatekeeper</Source>
     <Custom>DescOnly</Custom>
-    <Power>Conjure</Power>
+    <Power>Warde's Foresight</Power>
   </ForceAbility>
-  <ForceAbility>
-    <Key>CONJUREDURATION</Key>
-    <Name>Duration</Name>
-    <Description>Commit [FO] to sustain 1 conjuration per Duration upgrade purchased while it remains at medium range.</Description>
-    <Source Page="40">Unlimited Power</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Conjure</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>CONJURENUMBER</Key>
-    <Name>Number</Name>
-    <Description>Spend [FP][FP] to create additional, identical conjurations equal to ranks in Number upgrade purchased.
-</Description>
-    <Source Page="40">Unlimited Power</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Conjure</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>CONJUREMAGNITUDE</Key>
-    <Name>Magnitude</Name>
-    <Description>Spend [FP] to increase the maximum encumbrance of the facsimile that can be conjured by 2 per Magnitude upgrade purchased.
-</Description>
-    <Source Page="40">Unlimited Power</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Conjure</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>CONJURECONTROL1</Key>
-    <Name>Control: Defensive, Deflection, Stun</Name>
-    <Description>Spend [FP] to add 1 of the following weapon qualities to the conjuration: Defensive 1, Deflection 1, Stun 4.</Description>
-    <Source Page="40">Unlimited Power</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Conjure</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>CONJURECONTROL2</Key>
-    <Name>Control: Burn, Pierce, Vicious</Name>
-    <Description>Spend [FP] to add 1 of the following weapon qualities to the conjuration: Burn 3, Pierce 3, Vicious 3.</Description>
-    <Source Page="40">Unlimited Power</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Conjure</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>CONJUREMASTERY</Key>
-    <Name>Mastery</Name>
-    <Description>Spend [FP][FP][FP] to summon the facsimile of a creature of silhouette 1 or smaller instead of an object. This creature is bound to the user's will, and mindlessly follows that character's commands until the end of the Force user's next turn. If the user has the corpse of the creature being conjured to imbue with false life, this facsimile lasts until the end of the encounter instead, but the user gains 7 conflict for doing so.</Description>
-    <Source Page="40">Unlimited Power</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Conjure</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>CONJURERANGE</Key>
-    <Name>Range</Name>
-    <Description>Spend [FP] to increase the range at which the facsimile can be conjured and sustained by 1 (to a maximum of extreme).
-</Description>
-    <Source Page="40">Unlimited Power</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Conjure</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>ALTERBASIC</Key>
-    <Name>Alter Basic Power</Name>
-    <Description>The Force user can tap into the Living Force of their surroundings, manipulating the nearby environs.
-[P]The Force user may spend [FP] to make all terrain currently within short range difficult terrain until the end of their next turn.
-[P]The Force user may spend [FP] to make all terrain currently within short range normal terrain until the end of their next turn.</Description>
-    <Source Page="43">Unlimited Power</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Alter</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>ALTERCONTROL1</Key>
-    <Name>Control: Supplies</Name>
-    <Description>Spend [FP] and make an [B]Average ([DI][DI]) Survival check[b] to instantly discover food, water, or other critical supplies within extreme range.
-</Description>
-    <Source Page="43">Unlimited Power</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Alter</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>ALTERRANGE</Key>
-    <Name>Range</Name>
-    <Description>Spend [FP][FP] to increase power's range by a number of range bands equal to Range upgrades purchased.
-</Description>
-    <Source Page="43">Unlimited Power</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Alter</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>ALTERCONTROL2</Key>
-    <Name>Control: Concealment</Name>
-    <Description>The Force user may spend [FP] to give all characters within short range of the user concealment.
-</Description>
-    <Source Page="43">Unlimited Power</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Alter</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>ALTERCONTROL3</Key>
-    <Name>Control: Animals</Name>
-    <Description>Spend [FP] to share the senses of animals within range of this power, adding [BO] to Perception and Vigilance checks, and gaining other benefits.
-</Description>
-    <Source Page="43">Unlimited Power</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Alter</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>ALTERCONTROL4</Key>
-    <Name>Control: Firm Terrain</Name>
-    <Description>The power can affect firm terrain, such as packed earth, stone, or ice.
-</Description>
-    <Source Page="43">Unlimited Power</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Alter</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>ALTERDURATION</Key>
-    <Name>Duration</Name>
-    <Description>Commit [FO] after successfully activating the power to sustain its effects while the user remains within range of the affected area.
-</Description>
-    <Source Page="43">Unlimited Power</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Alter</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>ALTERSTRENGTH</Key>
-    <Name>Strength</Name>
-    <Description>Spend [FP] to allow a number of targets equal to the number of Strength upgrades to ignore this power's effects.
-</Description>
-    <Source Page="43">Unlimited Power</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Alter</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>ALTERCONTROL5</Key>
-    <Name>Control: Impassible</Name>
-    <Description>Spend [FP][FP] to make a small patch of terrain within the affected area impassible.
-</Description>
-    <Source Page="43">Unlimited Power</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Alter</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>ALTERCONTROL6</Key>
-    <Name>Control: Corrosive</Name>
-    <Description>Spend [FP][FP] to create a corrosive atmosphere in a small area within the affected area.</Description>
-    <Source Page="43">Unlimited Power</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Alter</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>ALTERCONTROL7</Key>
-    <Name>Control: Upgrade</Name>
-    <Description>Spend [FP][FP] to upgrade the difficulty of all checks made by opponents while in the power's area of effect once.
-</Description>
-    <Source Page="43">Unlimited Power</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Alter</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>ALTERMASTERY</Key>
-    <Name>Mastery</Name>
-    <Description>When the user activates this power without spending [FP] generated from [DA] results, add [LI] to all other Force power checks made within this power's area of effect.
-[P]When the user activates this power without spending [FP] generated from [LI] results, add [DA] to all other Force power checks made within this power's area of effect.</Description>
-    <Source Page="43">Unlimited Power</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Alter</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>ENDUREBASIC</Key>
-    <Name>Endure Basic Power</Name>
-    <Description>When the character suffers a Critical Injury with a severity rating no greater than [B]Easy ([DI])[b], the character may activate Endure as an out-of-turn incidental and commit [FO] to temporarily ignore the effects of that injury. The character does not apply results from the Critical Injury or add +10 to further rolls on the Critical Injury Result table while [FO] remains committed. When this ongoing effect ends, the character suffers all effects of the Critical Injury (unless it has been treated).
-</Description>
-    <Source Page="37">Knights of Fate</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Endure</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>ENDURESTRENGTH</Key>
-    <Name>Strength</Name>
-    <Description>Increase the severity of Critical Injury that can be affected by one per Strength upgrade purchased.
-</Description>
-    <Source Page="37">Knights of Fate</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Endure</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>ENDURECONTROL</Key>
-    <Name>Control</Name>
-    <Description>The character can commit one additional [FO] to temporarily ignore one additional Critical Injury per Control upgrade purchased.
-</Description>
-    <Source Page="37">Knights of Fate</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Endure</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>ENDUREDURATION</Key>
-    <Name>Duration</Name>
-    <Description>As an incidental, the character can activate Endure to temporarily ignore a Critical Injury the character is already suffering, and which is of a severity that Endure could affect normally.</Description>
-    <Source Page="37">Knights of Fate</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Endure</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>ENDUREMAGNITUDE</Key>
-    <Name>Magnitude</Name>
-    <Description>The character can use Endure to affect allies at short range. The ongoing effect ends if the distance between the characters increases beyond short for any reason.</Description>
-    <Source Page="37">Knights of Fate</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Endure</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>ENDURERANGE</Key>
-    <Name>Range</Name>
-    <Description>The character can use Endure to affect allies within medium range. The ongoing effect ends if the distance between the characters increases beyond medium for any reason.</Description>
-    <Source Page="37">Knights of Fate</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Endure</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>ENDUREMASTERY</Key>
-    <Name>Mastery</Name>
-    <Description>When activating Endure, the character may make an Endure power check, making a Discipline check with a difficulty equal to the severity of the Critical Injury and adding [FO] up to the character's Force rating. If the character succeeds on the check and generates [FP] equal to the Severity of the Critical Injury, the Critical Injury is not suffered.
-</Description>
-    <Source Page="37">Knights of Fate</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Endure</Power>
-  </ForceAbility>
-  <ForceAbility>
-    <Key>ENDUREDEATH</Key>
-    <Name>Strength: Dead</Name>
-    <Description>The character can use Endure to temporarily ignore a Critical Injury result of Dead.
-</Description>
-    <Source Page="37">Knights of Fate</Source>
-    <Custom>DescOnly</Custom>
-    <Power>Endure</Power>
-  </ForceAbility>
-</ForceAbilities>
+  </ForceAbilities>

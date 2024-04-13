@@ -1,13 +1,13 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>STYPESLOOP</Key>
   <Name>S-Type Racing Sloop</Name>
   <Description>
     [H3]S-Type Racing Sloop[h3]
 
-The Nubia Star Drives S-type Racing Sloop is one of the latest racing vessels created by the design collective and offered to discriminating buyers. Built entirely for interstellar racing, these ships have nevertheless found a valuable niche as couriers for sensitive messages and high-value, extremely compact cargos. 
+The Nubia Star Drives S-type Racing Sloop is one of the latest racing vessels created by the design collective and offered to discriminating buyers. Built entirely for interstellar racing, these ships have nevertheless found a valuable niche as couriers for sensitive messages and high-value, extremely compact cargos.
 
-[P]These ships feature long, narrow, and blocky hulls that sweep backwards into large engines built into the hull above and below the inset cockpit. The cockpit holds a pilot, navigator, and can also carry two passengers in foldable jump-seats (although this space is often used by experienced racers to store food or supplies). The entire living space is horribly cramped, and traveling long distances quickly becomes an ordeal. 
+[P]These ships feature long, narrow, and blocky hulls that sweep backwards into large engines built into the hull above and below the inset cockpit. The cockpit holds a pilot, navigator, and can also carry two passengers in foldable jump-seats (although this space is often used by experienced racers to store food or supplies). The entire living space is horribly cramped, and traveling long distances quickly becomes an ordeal.
 
 [P]In tandem, the engines can accelerate the vessel to incredible speeds. However, this stretches the Racing Sloop's power plant to the maximum. Little remains for shields, and none for weapons.</Description>
   <Source>Suns of Fortune</Source>

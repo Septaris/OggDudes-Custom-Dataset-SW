@@ -1,10 +1,10 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>YT1760</Key>
   <Name>YT-1760 Small Transport</Name>
   <Description>[H3]YT-1760 Small Transport[h3]
 
-Released roughly thirty years before the Battle of Yavin, the VT 1760 is a small, fast, and agile light freighter in the vein of the older HWK-series. CEC's designers packed the new vessel with more powerful engines, upgraded maneuvering thrusters, and a sophisticated avionics package. Unfortunately, in their zeal, the 1760's designers went a little too far with their upgrades and produced a ship that, while fast and agile, was also high-maintenance, difficult to fly, fragile, and had a vastly reduced cargo capacity. 
+Released roughly thirty years before the Battle of Yavin, the VT 1760 is a small, fast, and agile light freighter in the vein of the older HWK-series. CEC's designers packed the new vessel with more powerful engines, upgraded maneuvering thrusters, and a sophisticated avionics package. Unfortunately, in their zeal, the 1760's designers went a little too far with their upgrades and produced a ship that, while fast and agile, was also high-maintenance, difficult to fly, fragile, and had a vastly reduced cargo capacity.
 
 [P]Never a company to let a few niggling problems hold them back, CEC put the YT-1760 into production despite its obvious shortcomings and poor focus testing. Initially, sales were quite robust. Its speed and small size attracted many small time shipping concerns and budget-minded planetary governments who used it as a courier, VIP shuttle, or for transporting small, delicate cargoes. Eventually, however, many owners discovered that the amount of time and money needed to keep the fragile little ship in space was more than the ship itself was worth, and sales dropped off dramatically. The introduction of the YT-1300 sounded the death knell for the 1760, and within five years, production of the 1760 was shut down.</Description>
   <Source>Age of Rebellion Beta Rulebook</Source>

@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>DELTA12STAR</Key>
   <Name>Delta-12 Skysprite</Name>
   <Description>
     [H3]Delta-12 Skysprite[h3]
 
-The Delta-12 Skysprite-class is a rare two-seat version of the Delta-7 Aethersprite light interceptor. Designed by KSE as both a trainer and long-range reconnaissance fighter, the Skysprite features the same hull and internal systems, with an elongated cockpit that seats two individuals in tandem. Thanks to their speed, stores, and limited amenities, Skysprites were often used by the Jedi Order as VIP couriers. 
+The Delta-12 Skysprite-class is a rare two-seat version of the Delta-7 Aethersprite light interceptor. Designed by KSE as both a trainer and long-range reconnaissance fighter, the Skysprite features the same hull and internal systems, with an elongated cockpit that seats two individuals in tandem. Thanks to their speed, stores, and limited amenities, Skysprites were often used by the Jedi Order as VIP couriers.
 
 [P]Delta-12s feature stronger shields, stronger armor, and a more powerful sensor suite. The Delta-12s were stripped of their weapons, which made their sale to civilian organizations easier. The internal systems remained intact, however, and with a small amount of work and an upgrade to the ship's computer systems, the Skysprite can carry a respectable armament of light or even medium laser cannons.</Description>
   <Source>Force and Destiny Core Rulebook</Source>

@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>CONSCRUIS</Key>
   <Name>Consular-Class Light Assault Cruiser</Name>
   <Description>
     [H3]Consular-Class Light Assault Cruiser[h3]
 
-In service since before the Clone Wars, CEC's Consular-class light cruiser is yet another outdated, outgunned ship pressed back into combat duty by the cash-strapped Rebel Alliance. Related to Corellian Engineering's CR70 and CR90 corvettes, the Consular-class served the Old Republic as an unarmed VIP transport, carrying diplomats and other government officials throughout the galaxy on official business. In the deep crimson livery of the Republic Diplomatic Corps, these ships cut a dashing figure with their bluff-bowed, wasp-waisted profile. Lightly crewed, they carried their VIPs in style in a detachable, modular "salon pod" slung beneath the ship's command deck. Large enough for a handful of people, and extremely well-appointed with all of the privacy and communications technology required by a diplomatic mission, the Consulars were among the most recognizable vessels in space before the fall of the Old Republic. 
+In service since before the Clone Wars, CEC's Consular-class light cruiser is yet another outdated, outgunned ship pressed back into combat duty by the cash-strapped Rebel Alliance. Related to Corellian Engineering's CR70 and CR90 corvettes, the Consular-class served the Old Republic as an unarmed VIP transport, carrying diplomats and other government officials throughout the galaxy on official business. In the deep crimson livery of the Republic Diplomatic Corps, these ships cut a dashing figure with their bluff-bowed, wasp-waisted profile. Lightly crewed, they carried their VIPs in style in a detachable, modular "salon pod" slung beneath the ship's command deck. Large enough for a handful of people, and extremely well-appointed with all of the privacy and communications technology required by a diplomatic mission, the Consulars were among the most recognizable vessels in space before the fall of the Old Republic.
 
 [P]Few of these once proud ships survived the rise of the Empire. Many were destroyed, and those that weren't were mothballed or broken apart and recycled. However, a few have been brought back into service by the Alliance, armed with a motley array of laser cannons and turbolasers and used as light assault carriers and command ships. While they are often outclassed by Imperial ships, Consular-class cruisers still perform well, and they are well liked by their Rebel crews and those who must travel in them. </Description>
   <Source>Age of Rebellion Core Rulebook</Source>

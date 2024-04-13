@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<SigAbility xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<SigAbility>
   <Key>UNPROT</Key>
   <Name>Unmatched Protection</Name>
   <Description>Some of the toughest sentients in the galaxy are Hired Guns. A lifetime of conflict leaves them covered in scars from countless wounds. However, this also leaves them as tough and resilient as durasteel.</Description>

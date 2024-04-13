@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>T2EPETARD</Key>
   <Name>T2-E Petard-Class Combat Engineering Vehicle</Name>
   <Description>[H3]T2-E [I]Petard[i]-Class Combat Engineering Vehicle[h3]

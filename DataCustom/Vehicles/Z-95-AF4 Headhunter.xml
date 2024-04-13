@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>Z95AF4</Key>
   <Name>Z-95-AF4 Headhunter</Name>
   <Description>
       [H3]Z-95-AF4 Headhunter[h3]
 
-Designed as part of a joint venture between Incom Corporation and Subpro Corporation during the early days of the Clone Wars, the tiny Z-95 was considered one of the most capable starfighters of its day. Small, lightly armored, and shielded, the Headhunter is a one-man, short-range fighter powered by an lncom 44-a5 multi-reactor. The aerodynamic fuselage combined with an incredible thrust-to-weight ratio makes the Z-95 quite fast and agile. Initially classified as an interceptor and armed with wing-mounted triple blaster cannons, the Headhunter quickly proved itself a competent space superiority fighter. It has gone through numerous redesigns, and today, most sport twin laser cannons and concussion missile launchers. 
+Designed as part of a joint venture between Incom Corporation and Subpro Corporation during the early days of the Clone Wars, the tiny Z-95 was considered one of the most capable starfighters of its day. Small, lightly armored, and shielded, the Headhunter is a one-man, short-range fighter powered by an lncom 44-a5 multi-reactor. The aerodynamic fuselage combined with an incredible thrust-to-weight ratio makes the Z-95 quite fast and agile. Initially classified as an interceptor and armed with wing-mounted triple blaster cannons, the Headhunter quickly proved itself a competent space superiority fighter. It has gone through numerous redesigns, and today, most sport twin laser cannons and concussion missile launchers.
 
 [P]Despite their age, the Z-95 remains a popular starfighter. Considered outdated compared to modern fighters such as Koensayr's Y-wing and Incom's brand new X-wing (a fighter that shares more than a passing resemblance to the Headhunter), sales of the little fighter are still brisk in the Outer Rim territories.</Description>
   <Source>Edge of the Empire Core Rulebook</Source>

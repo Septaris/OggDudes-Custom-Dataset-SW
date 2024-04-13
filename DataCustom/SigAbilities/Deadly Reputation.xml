@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<SigAbility xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<SigAbility>
   <Key>DEADLYREP</Key>
   <Name>Deadly Reputation</Name>
   <Description>Many accomplished Warriors reach a point in their life when their reputation precedes them. Whether famous or infamous, a reputation as a fighter and killer carries with it a warning and threat of danger. Such a reputation may color all of the Warrior's interactions to some degree.

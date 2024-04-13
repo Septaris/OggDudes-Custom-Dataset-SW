@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>M3ASCYK</Key>
   <Name>M3-A Scyk Interceptor</Name>
   <Description>[H3]MandalMotors M3-A Scyk Interceptor[h3]

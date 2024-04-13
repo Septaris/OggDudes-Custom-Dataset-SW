@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>KV9T9B</Key>
   <Name>KV 9T9-B Wasp</Name>
   <Description>[H3]KV 9T9-B Wasp[h3]

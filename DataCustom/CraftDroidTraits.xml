@@ -1,77 +1,5 @@
-<?xml version="1.0"?>
-<CraftDroidTraits xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <CraftDroidTrait>
-    <Key>POS1</Key>
-    <Name>Loyal</Name>
-    <Description>The droid puts its creator's needs above its own, and always looks for ways to help—whether asked or not.
-</Description>
-    <Source Page="83">Special Modifications</Source>
-    <Custom>DescOnly</Custom>
-  </CraftDroidTrait>
-  <CraftDroidTrait>
-    <Key>POS2</Key>
-    <Name>Resourceful</Name>
-    <Description>Some droids can adapt to problems quickly, and do not get trapped in their own overly narrow programming.
-</Description>
-    <Source Page="83">Special Modifications</Source>
-    <Custom>DescOnly</Custom>
-  </CraftDroidTrait>
-  <CraftDroidTrait>
-    <Key>POS3</Key>
-    <Name>Patient</Name>
-    <Description>Unlike organic beings, droids are theoretically immortal as long as they receive proper maintenance. Thus, a droid can have a capacity for patience that even the most long-lived organic beings lack.
-</Description>
-    <Source Page="83">Special Modifications</Source>
-    <Custom>DescOnly</Custom>
-  </CraftDroidTrait>
-  <CraftDroidTrait>
-    <Key>POS4</Key>
-    <Name>Enthusiastic</Name>
-    <Description>The droid has a boundless capacity to see opportunities, and it frequently points them out.
-</Description>
-    <Source Page="83">Special Modifications</Source>
-    <Custom>DescOnly</Custom>
-  </CraftDroidTrait>
-  <CraftDroidTrait>
-    <Key>POS5</Key>
-    <Name>Compassionate</Name>
-    <Description>Some droids are very caring, and seek to nurture the best in those around them.
-</Description>
-    <Source Page="83">Special Modifications</Source>
-    <Custom>DescOnly</Custom>
-  </CraftDroidTrait>
-  <CraftDroidTrait>
-    <Key>POS6</Key>
-    <Name>Efficient</Name>
-    <Description>The droid abhors waste, and does everything in the most timely and precise manner it can muster.
-</Description>
-    <Source Page="83">Special Modifications</Source>
-    <Custom>DescOnly</Custom>
-  </CraftDroidTrait>
-  <CraftDroidTrait>
-    <Key>POS7</Key>
-    <Name>Well-Mannered</Name>
-    <Description>This droid always maintains perfect etiquette, even when dealing with individuals it does not particularly like.
-</Description>
-    <Source Page="83">Special Modifications</Source>
-    <Custom>DescOnly</Custom>
-  </CraftDroidTrait>
-  <CraftDroidTrait>
-    <Key>POS8</Key>
-    <Name>Cheerful</Name>
-    <Description>A good attitude is the first step to success (or so says this droid anyway).
-</Description>
-    <Source Page="83">Special Modifications</Source>
-    <Custom>DescOnly</Custom>
-  </CraftDroidTrait>
-  <CraftDroidTrait>
-    <Key>POS9</Key>
-    <Name>Reliable</Name>
-    <Description>This droid always comes through for its creator or friends.
-</Description>
-    <Source Page="83">Special Modifications</Source>
-    <Custom>DescOnly</Custom>
-  </CraftDroidTrait>
+<?xml version='1.0' encoding='utf-8'?>
+<CraftDroidTraits>
   <CraftDroidTrait>
     <Key>NEG1</Key>
     <Name>Cowardly</Name>
@@ -153,4 +81,76 @@
     <Custom>DescOnly</Custom>
     <IsNegative>true</IsNegative>
   </CraftDroidTrait>
-</CraftDroidTraits>
+<CraftDroidTrait>
+    <Key>POS1</Key>
+    <Name>Loyal</Name>
+    <Description>The droid puts its creator's needs above its own, and always looks for ways to help—whether asked or not.
+</Description>
+    <Source Page="83">Special Modifications</Source>
+    <Custom>DescOnly</Custom>
+  </CraftDroidTrait>
+  <CraftDroidTrait>
+    <Key>POS2</Key>
+    <Name>Resourceful</Name>
+    <Description>Some droids can adapt to problems quickly, and do not get trapped in their own overly narrow programming.
+</Description>
+    <Source Page="83">Special Modifications</Source>
+    <Custom>DescOnly</Custom>
+  </CraftDroidTrait>
+  <CraftDroidTrait>
+    <Key>POS3</Key>
+    <Name>Patient</Name>
+    <Description>Unlike organic beings, droids are theoretically immortal as long as they receive proper maintenance. Thus, a droid can have a capacity for patience that even the most long-lived organic beings lack.
+</Description>
+    <Source Page="83">Special Modifications</Source>
+    <Custom>DescOnly</Custom>
+  </CraftDroidTrait>
+  <CraftDroidTrait>
+    <Key>POS4</Key>
+    <Name>Enthusiastic</Name>
+    <Description>The droid has a boundless capacity to see opportunities, and it frequently points them out.
+</Description>
+    <Source Page="83">Special Modifications</Source>
+    <Custom>DescOnly</Custom>
+  </CraftDroidTrait>
+  <CraftDroidTrait>
+    <Key>POS5</Key>
+    <Name>Compassionate</Name>
+    <Description>Some droids are very caring, and seek to nurture the best in those around them.
+</Description>
+    <Source Page="83">Special Modifications</Source>
+    <Custom>DescOnly</Custom>
+  </CraftDroidTrait>
+  <CraftDroidTrait>
+    <Key>POS6</Key>
+    <Name>Efficient</Name>
+    <Description>The droid abhors waste, and does everything in the most timely and precise manner it can muster.
+</Description>
+    <Source Page="83">Special Modifications</Source>
+    <Custom>DescOnly</Custom>
+  </CraftDroidTrait>
+  <CraftDroidTrait>
+    <Key>POS7</Key>
+    <Name>Well-Mannered</Name>
+    <Description>This droid always maintains perfect etiquette, even when dealing with individuals it does not particularly like.
+</Description>
+    <Source Page="83">Special Modifications</Source>
+    <Custom>DescOnly</Custom>
+  </CraftDroidTrait>
+  <CraftDroidTrait>
+    <Key>POS8</Key>
+    <Name>Cheerful</Name>
+    <Description>A good attitude is the first step to success (or so says this droid anyway).
+</Description>
+    <Source Page="83">Special Modifications</Source>
+    <Custom>DescOnly</Custom>
+  </CraftDroidTrait>
+  <CraftDroidTrait>
+    <Key>POS9</Key>
+    <Name>Reliable</Name>
+    <Description>This droid always comes through for its creator or friends.
+</Description>
+    <Source Page="83">Special Modifications</Source>
+    <Custom>DescOnly</Custom>
+  </CraftDroidTrait>
+  </CraftDroidTraits>

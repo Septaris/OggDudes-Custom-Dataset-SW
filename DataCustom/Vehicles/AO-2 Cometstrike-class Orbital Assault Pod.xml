@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>AO2ORBASPOD</Key>
   <Name>AO-2 Cometstrike-class Orbital Assault Pod</Name>
   <Description>[H3]AO-2 Cometstrike-class Orbital Assault Pod[h3]

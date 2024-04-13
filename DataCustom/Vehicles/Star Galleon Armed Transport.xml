@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>STARGALLEON</Key>
   <Name>Star Galleon Armed Transport</Name>
   <Description>
     [H3]Star Galleon Armed Transport[h3]
 
-Used primarily by the Imperial Navy's Logistics Corps as a long-haul heavy cargo lifter, the Star Galleon is yet another sturdy and well founded ship from the shipwrights at Kuat Drive Yards. A massive, plodding, humpbacked vessel, this frigate-sized transport carries 100,000 tons of bulk cargo in its cavernous modular cargo holds. The ship itself is as utilitarian as a ship can be. The forward quarter of the vessel contains the bridge, crew quarters, and primary systems. The remainder of the ship is given over to cargo space. Abaft the command decks is a hulking, multi-decked cargo hold equipped with countless sliding bulkheads, retractable decks, sophisticated anti-boarding systems, and a state-of-the-art cargo handling system. The two hull sections are, in fact, detachable, in case the ship is ever in danger of losing its cargo. Both the command section and the cargo hold are hyperspace capable. The forward section has a traditional hyperdrive and navicomputer, while the cargo section uses an automated emergency escape system that transitions it into hyperspace as soon as it is jettisoned, to keep it out of the hands of pirates. 
+Used primarily by the Imperial Navy's Logistics Corps as a long-haul heavy cargo lifter, the Star Galleon is yet another sturdy and well founded ship from the shipwrights at Kuat Drive Yards. A massive, plodding, humpbacked vessel, this frigate-sized transport carries 100,000 tons of bulk cargo in its cavernous modular cargo holds. The ship itself is as utilitarian as a ship can be. The forward quarter of the vessel contains the bridge, crew quarters, and primary systems. The remainder of the ship is given over to cargo space. Abaft the command decks is a hulking, multi-decked cargo hold equipped with countless sliding bulkheads, retractable decks, sophisticated anti-boarding systems, and a state-of-the-art cargo handling system. The two hull sections are, in fact, detachable, in case the ship is ever in danger of losing its cargo. Both the command section and the cargo hold are hyperspace capable. The forward section has a traditional hyperdrive and navicomputer, while the cargo section uses an automated emergency escape system that transitions it into hyperspace as soon as it is jettisoned, to keep it out of the hands of pirates.
 
 [P]Due to their size, durability, and heavy armament, Star Galleons are used by the Empire to transport high-value cargoes without needing escort vessels.</Description>
   <Source>Edge of the Empire Core Rulebook</Source>

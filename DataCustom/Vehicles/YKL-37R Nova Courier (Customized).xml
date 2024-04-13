@@ -1,10 +1,10 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>NOVACOURIERYKL37R</Key>
   <Name>YKL-37R Nova Courier (Customized)</Name>
   <Description>
     [H3]YKL-37R Nova Courier (Customized)[h3]
-    
+
 The last ship produced by Gallofree Yards before its
 bankruptcy, the YKL-37R Nova Courier was a last ditch
 effort to save the struggling starship manufacturer.

@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<SigAbility xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<SigAbility>
   <Key>UNMATCHEDCOURAGE</Key>
   <Name>Unmatched Courage</Name>
   <Description>Once per game session, as an  out of turn incidental, the character may spend 2 Destiny Points to ignore the effects of all Critical Injuries for 2 rounds (he still suffers these Critical Injuries, even though he ignores their effects). When this effect ends at the end of the third round, he immediately suffers the effects of all Critical Injuries he is suffering as normal.</Description>
