@@ -1,10 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Vehicle>
   <Key>ATPT</Key>
   <Name>All-Terrain Personal Transport</Name>
   <Description>
       [H3]All-Terrain Personal Transport[h3]
 
-Developed by the Republic during the Clone Wars, the AT-PT is a small, one person infantry walker designed to carry a single trooper into battle in even the most hostile environments. Known for their sturdy and relatively simple construction, these vehicles are composed of a well armored central command pod suspended between two dextrous, reverse-articulated legs. The central pod houses a cramped, environmentally sealed cockpit with just enough room for the pilot, a sidearm, and an emergency kit. The AT-PT easily traverses a wide variety of terrains from thick forest to plains and cramped urban centers, fording shallow bodies of water and climbing inclines up to forty-five degrees. 
+Developed by the Republic during the Clone Wars, the AT-PT is a small, one person infantry walker designed to carry a single trooper into battle in even the most hostile environments. Known for their sturdy and relatively simple construction, these vehicles are composed of a well armored central command pod suspended between two dextrous, reverse-articulated legs. The central pod houses a cramped, environmentally sealed cockpit with just enough room for the pilot, a sidearm, and an emergency kit. The AT-PT easily traverses a wide variety of terrains from thick forest to plains and cramped urban centers, fording shallow bodies of water and climbing inclines up to forty-five degrees.
 
 [P]AT-PTs are armed with a versatile array of anti-personnel weaponry, including a powerful twin blaster cannon and a repeating concussion grenade launcher in the walker's "chin," allowing it to destroy troops and light vehicles. While their sensors are, at best, rudimentary, they are equipped with a powerful, encrypted comlink that allows a squad of these small walkers to work extremely efficiently together.</Description>
   <Source Page="252">Edge of the Empire Core Rulebook</Source>

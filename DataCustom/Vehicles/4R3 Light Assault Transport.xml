@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>4R3LIGHTASSAULT</Key>
   <Name>4R3 Light Assault Transport</Name>
   <Description>
     [H3]4R3 Light Assault Transport[h3]
 
-Officially, the 4R3 is classified as light freighter instead of a military assault craft. This major deception actually originated in a deal between Telgorn and the Corporate Sector Authority, who commissioned the ship to carry out surprise attacks on pirates and smugglers. The original ships were delivered to the CSA and recorded into the B.O.S.S. systems as freighters. The deception was eventually discovered, but correcting the designation proved problematic. Subsequent galaxy-wide updates often caused more confusion than clarity in the minds of law enforcement and other agencies. As the 4R3 was slowly delivered to other buyers and trickled out into the galaxy at large, in the minds of most it remained a freighter, if a heavily armed one. 
+Officially, the 4R3 is classified as light freighter instead of a military assault craft. This major deception actually originated in a deal between Telgorn and the Corporate Sector Authority, who commissioned the ship to carry out surprise attacks on pirates and smugglers. The original ships were delivered to the CSA and recorded into the B.O.S.S. systems as freighters. The deception was eventually discovered, but correcting the designation proved problematic. Subsequent galaxy-wide updates often caused more confusion than clarity in the minds of law enforcement and other agencies. As the 4R3 was slowly delivered to other buyers and trickled out into the galaxy at large, in the minds of most it remained a freighter, if a heavily armed one.
 
 [P]The 4R3's main mission is as a clandestine assault ship. It is designed to look like an unarmed freighter in order to advance on and dock with enemy or pirate craft—before their opponents realize their mistake. The ship's weaponry is completely concealed within the ship's hull, and is deployed within a few seconds when required. The 4R3 is also deployed in pirate-heavy regions of space, as bait in a trap intended to draw the criminals out for a head-on engagement.</Description>
   <Source Page="67">Dangerous Covenants</Source>

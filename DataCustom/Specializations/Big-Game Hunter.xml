@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Specialization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Specialization>
   <Key>BGMHUNTER</Key>
   <Name>Big-Game Hunter</Name>
   <Description>[H4]Big-Game Hunter - The Thrill of the Hunt[h4]

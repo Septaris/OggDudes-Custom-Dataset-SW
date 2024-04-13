@@ -1,10 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Vehicle>
   <Key>CR90</Key>
   <Name>CR90 Corvette</Name>
   <Description>
     [H3]CR90 Corvette[h3]
 
-A versatile light capital ship, Corellian Engineering's fast, reliable CR90 class corvette is a small multi-purpose vessel popular with both militaries and civilian organizations. Long and sleek, the CR90 has a distinctive, wasp-waisted profile with a narrow midships section flanked by a massive bank of eleven Girodyne ion turbine engines aft and a broad, hammerhead bridge and crew section forward. CR9Os are remarkably fast and agile for ships of their size, and can be configured as a troop carrier, cargo hauler, a passenger liner or consular ship, or even a heavily armed escort vessel. 
+A versatile light capital ship, Corellian Engineering's fast, reliable CR90 class corvette is a small multi-purpose vessel popular with both militaries and civilian organizations. Long and sleek, the CR90 has a distinctive, wasp-waisted profile with a narrow midships section flanked by a massive bank of eleven Girodyne ion turbine engines aft and a broad, hammerhead bridge and crew section forward. CR9Os are remarkably fast and agile for ships of their size, and can be configured as a troop carrier, cargo hauler, a passenger liner or consular ship, or even a heavily armed escort vessel.
 
 [P]The corvettes usually mount a pair of T&amp;B twin turbolasers in dorsal and ventral midships turrets as their main weapons. Along with the turbolasers are four light turbolasers, two to a side, mounted dorsally in turrets on the midships hull section. This makes them well suited to running blockades and acting as heavy escorts for cash-strapped militaries.</Description>
   <Sources>

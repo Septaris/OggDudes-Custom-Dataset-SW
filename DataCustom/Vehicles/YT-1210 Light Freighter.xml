@@ -1,13 +1,13 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>YT1210FREIGHTER</Key>
   <Name>YT-1210 Light Freighter</Name>
   <Description>
     [H3]YT-1210 Light Freighter[h3]
 
-An older, reliable light freighter, the YT-1210 was a variant of another freighter in the YT series, the 1200. Since the release of the famous YT-1300, sales of the YT-1210 have slipped; doubly so because the ship competes with its close cousin, the YT-1200. 
+An older, reliable light freighter, the YT-1210 was a variant of another freighter in the YT series, the 1200. Since the release of the famous YT-1300, sales of the YT-1210 have slipped; doubly so because the ship competes with its close cousin, the YT-1200.
 
-[P]After the successful release of the YT-1200 (a reliable stock light freighter), Corellian Engineering Corporation designed a derivative design in an attempt to appeal directly to Corellians. Simply put, the YT-1210 is much like the YT-1200, only faster. A third main engine in the rear propels the ship to higher speeds, giving a freighter that can match some starfighters on a straight run. 
+[P]After the successful release of the YT-1200 (a reliable stock light freighter), Corellian Engineering Corporation designed a derivative design in an attempt to appeal directly to Corellians. Simply put, the YT-1210 is much like the YT-1200, only faster. A third main engine in the rear propels the ship to higher speeds, giving a freighter that can match some starfighters on a straight run.
 
 [P]Sadly, the freighter did not prove any more maneuverable, and the added engine reduced cargo space and armor-carrying capacity. The cost of manufacturing the YT-1210 also proved higher than anticipated. While the model still sells reasonably well, sales tend to be limited to Corellia and the surrounding sector.</Description>
   <Source Page="112">Suns of Fortune</Source>

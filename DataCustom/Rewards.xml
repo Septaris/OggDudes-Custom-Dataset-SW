@@ -1,9 +1,103 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <Rewards>
+  <Reward>
+    <Key>ALLY</Key>
+    <Name>Ally</Name>
+    <Description>[H3]Ally[h3]
+Allies are individuals who have benefited from the Warrior's actions. They can come from a variety of backgrounds, and each has a life and job separate from the Warrior. Most allies feel as though they owe the Warrior a favor, and they are willing to help as best they can in times of need. [P]
+Allies can serve as a combined knowledge base for a Warrior. Once per session, the Warrior can ask an ally, either in person or via a comlink or other method of long-distance communication, to make a single Knowledge, Skulduggery, or Streetwise check on the Warrior's behalf. Depending on the ally, the GM may permit any Knowledge skill or restrict the ally to one or more Knowledge skills. The time it takes for the Warrior to receive an answer depends on the method of communication, and generating [TH] on the check can delay the answer.
+
+[P]Please see page 94 of the Knights of Fate Sourcebook for details.
+    </Description>
+    <Sources>
+      <Source Page="94">Knights of Fate</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <RewardTitle>rteName</RewardTitle>
+    <OptionChoices>
+      <OptionChoice>
+        <Key>ALLYAB1</Key>
+        <Name>Disposition</Name>
+        <Options>
+          <Option>
+            <Key>ALLYAB1OP1</Key>
+            <Name>Grateful Ally</Name>
+            <Description>Once per session, ally may make one Knowledge, Skulduggery, or Streetwise check with [AB][AB][AB].</Description>
+            <StartingAttributes>
+              <Experience>5</Experience>
+            </StartingAttributes>
+          </Option>
+          <Option>
+            <Key>ALLYAB1OP2</Key>
+            <Name>Indebted Ally</Name>
+            <Description>Once per session, ally may make one Knowledge, Skulduggery, or Streetwise check with [AB][AB][PR].</Description>
+            <StartingAttributes>
+              <Experience>10</Experience>
+            </StartingAttributes>
+          </Option>
+          <Option>
+            <Key>ALLYAB1OP3</Key>
+            <Name>Loyal Ally</Name>
+            <Description>Once per session, ally may make one Knowledge, Skulduggery, or Streetwise check with [AB][AB][PR][PR].</Description>
+            <StartingAttributes>
+              <Experience>15</Experience>
+            </StartingAttributes>
+          </Option>
+        </Options>
+      </OptionChoice>
+    </OptionChoices>
+  </Reward>
+
+  <Reward>
+    <Key>APPRENTICE</Key>
+    <Name>Apprentice</Name>
+    <Description>[H3]Apprentice[h3]
+The Warrior might attract a particularly enthusiastic follower who becomes an apprentice. This NPC hopes to learn the Warrior's martial skills and help others as the Warrior helped them. Taking on an apprentice can provide a Warrior with great roleplaying moments, and the student's character arc might culminate in running a school for other students hoping to learn the Warrior's chosen form of combat. While some Warriors find annoyance with an apprentice's constant admiration and pestering, apprentices are also useful for invoking titles Warriors are too humble to bring up themselves.[P]
+Once per session, for an entire combat encounter. the apprentice can join the Warrior in combat. Rather than having an adversary profile and taking individual turns in combat, the apprentice fights in unison with the Warrior, augmenting the PC's combat checks or aiding the PC's defense. The GM can spend [TH] on any combat check the Warrior makes to have the apprentice incapacitated for the rest of the encounter or otherwise defeated, and the benefits of the apprentice end immediately. A Warrior can benefit from only one apprentice at a time.
+[P]Please see page 94 of the Knights of Fate Sourcebook for details.
+    </Description>
+    <Sources>
+      <Source Page="94">Knights of Fate</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <RewardTitle>rteName</RewardTitle>
+    <OptionChoices>
+      <OptionChoice>
+        <Key>APPRAB1</Key>
+        <Name>Competency</Name>
+        <Options>
+          <Option>
+            <Key>APPRAB1OP1</Key>
+            <Name>Novice Apprentice</Name>
+            <Description>Add [BO] to all combat checks.</Description>
+            <StartingAttributes>
+              <Experience>5</Experience>
+            </StartingAttributes>
+          </Option>
+          <Option>
+            <Key>APPRAB1OP2</Key>
+            <Name>Trained Apprentice</Name>
+            <Description>Add automatic [AD] to all combat checks, or add +1 melee defense (PC's choice at start of turn).</Description>
+            <StartingAttributes>
+              <Experience>10</Experience>
+            </StartingAttributes>
+          </Option>
+          <Option>
+            <Key>APPRAB1OP3</Key>
+            <Name>Experienced Apprentice</Name>
+            <Description>Add automatic [SU][AD] to all combat checks, or add +2 melee defense (PC's choice at start of turn).</Description>
+            <StartingAttributes>
+              <Experience>15</Experience>
+            </StartingAttributes>
+          </Option>
+        </Options>
+      </OptionChoice>
+    </OptionChoices>
+  </Reward>
   <Reward>
     <Key>BS</Key>
     <Name>Battle Scar</Name>
-    <Description>[H3]Battle Scar[h3]  
+    <Description>[H3]Battle Scar[h3]
 Each battle scar is as unique as the story behind it, and players and GMs should work together to craft the narrative for how a particular injury or scar manifests in the corresponding talent. Still, the majority of battle scars fit into certain categories. Each of the following types of battle scar includes a list of recommended Critical Injury results and talents. After the GM grants a character a battle scar, that PC's player should find the Critical Injury result his character suffered and select one of the corresponding talents, then work with the GM to devise an explanation for the mechanical benefit. These categories and lists are only recommendations, however, and players and GMs might decide that particularly unusual or interesting wounds lend themselves to talents not listed here. [BR][BR] The GM always has the final say on what talents are available for a given battle scar, regardless of the recommendations given below. As a general rule an individual PC should not be able to acquire more than three battle scars-though, at the GM's discretion, a PC might be able to replace an old battle scar with a new one, exchanging one talent for another, more potent selection.[BR][BR]
 [H4]Impressive Scar[h4][B]Suggested Critical Injuries:[b] Discouraging Wound, Fearsome Wound, Crippled, Gruesome Injury.[BR][B]Suggested Talents:[b] Commanding Presence, Confidence, Intimidating, Steely Nerves, Street Smarts.[BR][BR][H4]Head Trauma[h4][B]Suggested Critical Injuries:[b] Stunned, Head Ringer, Slightly Dazed, Scattered Senses, Blinded, Knocked Senseless, Gruesome Injury.[BR][B]Suggested Talents:[b] Grit, Hard Headed, Heightened Awareness, Resolve, Sixth Sense.[H4]What Doesn't Kill Me[h4][B]Suggested Critical Injuries:[b] Agonizing Wound, Hamstrung, Compromised, Horrific Injury, Bleeding Out.[BR][B]Suggested Talents:[b] Blooded, Confidence, Durable, Rapid Recovery, Second Wind, Toughened. [H4]Close Call[h4][B]Suggested Critical Injuries:[b] Bowled Over, Winded, Temporarily Lame, Bleeding Out.[BR][B]Suggested Talents:[b] Defensive Stance, Dodge, Jump Up, Rapid Reaction, Spare Clip, Time to Go.[P]
 Please see pages 95-96 of Forged in Battle for more information on Battle Scars.</Description>
@@ -282,220 +376,43 @@ Please see pages 95-96 of Forged in Battle for more information on Battle Scars.
     </OptionChoices>
   </Reward>
   <Reward>
-    <Key>MAKERSMARK</Key>
-    <Name>Maker's Mark</Name>
-    <Description>[H3]Maker's Mark[h3]
-The greatest of crafters and artisans are known the galaxy over, and their work is easily recognizable by any expert in such matters. Whether it is an actual stamp bearing the name of the creator or the creator's company, a special feature, or an inimitable quirk of design, such a maker's mark is a sign of quality and distinctiveness. [P]
+    <Key>DECORATIONS</Key>
+    <Name>Military/Civilian Decoration</Name>
+    <Description>[H3]Military or Civilian Decoration[h3]
+Every military in the galaxy, from the most backward planetary defense force to the mighty Imperial Navy, has ways of recognizing exceptional performance in its personnel. The following are just a few of the many awards granted by the Alliance Military to its personnel and its civilian allies.
+[H4]OTHER MILITARY AND CIVILIAN DECORATIONS[h4]
+The number of common military and civilian decorations bestowed by the Alliance is truly staggering. While not as prestigious as the Corellian Cross, or even the Star of Alderaan, these decorations nevertheless carry some cachet. Nearly any job done by, or service provided to, Alliance forces carries with it the chance for some exceptional recognition. Below are some of the more ubiquitous decorations found throughout the Alliance.
 
-In [B]Age of Rebellion[b], a maker's mark represents an Engineer character's unique approach to crafting a particular variety of item. Any Engineer character may develop a maker's mark, with the GM's permission. Once a character has reached an appropriate point in the game's narrative, based on the character's experience with and success as a crafter, the player and GM can work together to decide the form that Engineer's mark takes in game, as well as the mechanical benefits. [P]
-
-See Pages 95-96 of Fully Operational for additional information on Maker's Mark. </Description>
-    <Sources>
-      <Source Page="95">Fully Operational</Source>
-    </Sources>
-    <Custom>DescOnly</Custom>
-    <RewardTitle>rteMakersMark</RewardTitle>
-    <OptionChoices>
-      <OptionChoice>
-        <Key>MMAbb1</Key>
-        <Name>Crafting</Name>
-        <Options>
-          <Option>
-            <Key>MMAB1OP1</Key>
-            <Name>Reduced Cost of Crafting Improvement</Name>
-            <Description>May reduce cost of selected crafting improvement by [AD] for all future crafting checks.</Description>
-            <SelectCraftImprovement>true</SelectCraftImprovement>
-          </Option>
-        </Options>
-      </OptionChoice>
-    </OptionChoices>
-  </Reward>
-  <Reward>
-    <Key>PROVENEXP</Key>
-    <Name>Proven Expertise</Name>
-    <Description>[H3]Proven Expertise[h3]
-Even within a given specialization, an Engineer might demonstrate truly remarkable proficiency in a narrower field. Whether a Mechanic whose modified blasters are the envy of fighters the galaxy over or a Droid Specialist whose astromechs are known for unerring accuracy, an Engineer with proven expertise is a truly exceptional craftsman in a narrow area of specialty. This stellar proficiency In turn brings rewards. [P]
-Proven expertise is available to Engineer PCs at the GM's discretion. In order to qualify, the character must demonstrate in-game exceptional ability in designing or constructing a specific type of equipment or in carrying out a particular task. The GM and player should work together to define this area of expertise and sum it up as briefly as possible. For instance, a character might have proven expertise in blasters, starfighters, weapon attachments, or battlefield repairs. 
-[P]
-See page 95 of the Fully Operational Sourcebook for more details.
+[P]Please see page 95 of the Lead by Example Sourcebook for details.
     </Description>
     <Sources>
-      <Source Page="95">Fully Operational</Source>
+      <Source Page="95">Lead by Example</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <RewardTitle>rteProvenExpertise</RewardTitle>
     <OptionChoices>
       <OptionChoice>
-        <Key>PEAB1</Key>
-        <Name>Skill Checks</Name>
+        <Key>DECAB1</Key>
+        <Name>Decoration</Name>
         <Options>
           <Option>
-            <Key>PEAB1OP1</Key>
-            <Name>Expertise in a Field</Name>
-            <Description>May spend [AD][AD] as [SU] on skill checks relevant to the area of expertise.</Description>
-          </Option>
-        </Options>
-      </OptionChoice>
-    </OptionChoices>
-  </Reward>
-  <Reward>
-    <Key>REP</Key>
-    <Name>Reputation</Name>
-    <Description>[H3]Reputation[h3]
-Reputation is not a universal resource PCs simply accumulate. Rather, it rises and falls within different spheres in which the PCs operate based on the choices that they make. Renown and notoriety both have benefits and drawbacks, and the GM can use the tools here to help show the lasting impacts of the PCs’ actions.[P]
-If GM wants to use reputations, he should begin by identifying a handful of spheres important to his campaign. These can be institutional, cultural, or geographic, based on the scope of the campaign. Spheres of influence can be as broad or narrow as the campaign demands. Some possible examples include:[BR]
-• Mos Eisley[BR]
-• The Hutt Kajidics[BR]
-• The Hydian Way[BR]
-• Corellia[BR]
-• Core Worlds High Society[BR]
-• Soldiers of the Empire and Rebel Alliance[BR]
-• Pirates in Hutt Space[BR]
-• Promise Colony[BR]
-• The Corporate Sector[P]
-At the end of a plot arc or adventure, if the PCs were publicly associated with a major positive event (setting a new record for a smuggling route, saving a town from pirates, slaying a dangerous beast), the GM can increase the level of their Reputation by 1 in the relevant spheres. On the other hand, if the PCs were publicly associated with a major negative event (betraying and killing a Hutt crime lord, performing a destructive heist, causing massive collateral damage), the GM could decrease the level of their Reputation by 1 in the affected spheres.
-[P]
-Please see page 92 of the Keeping the Peace Sourcebook, or page 95 of the Fly Casual Sourcebook, for details.
-    </Description>
-    <Sources>
-      <Source Page="92">Keeping the Peace</Source>
-      <Source Page="95">Fly Casual</Source>
-    </Sources>
-    <Custom>DescOnly</Custom>
-    <RewardTitle>rteSphereOfInfluence</RewardTitle>
-    <OptionChoices>
-      <OptionChoice>
-        <Key>REPAB1</Key>
-        <Name>Reputation Level</Name>
-        <Options>
-          <Option>
-            <Key>REPAB1OP1</Key>
-            <Name>Level 3: Beloved</Name>
-            <Description>Add [BO][BO][BO] to Charm and Negotiation checks.  Add [SE][SE][SE] to Coercion checks. May spend Destiny Point to find a person or place in need of defense.</Description>
+            <Key>DECAB1OP1</Key>
+            <Name>Redbird Badge</Name>
+            <Description>You have earned the Redbird badge for being wounded in the line of duty.</Description>
           </Option>
           <Option>
-            <Key>REPAB1OP2</Key>
-            <Name>Level 2: Renowned</Name>
-            <Description>Add [BO][BO] to Charm and Negotiation checks.  Add [SE][SE] to Coercion checks. May spend Destiny Point to find where PC is most needed.</Description>
+            <Key>DECAB1OP2</Key>
+            <Name>Distinguished Flying Medal</Name>
+            <Description>You have earned the Distinguished Flying Medal.</Description>
           </Option>
           <Option>
-            <Key>REPAB1OP3</Key>
-            <Name>Level 1: Respected</Name>
-            <Description>Add [BO] to Charm and Negotiation checks.  Add [SE] to Coercion checks.</Description>
+            <Key>DECAB1OP3</Key>
+            <Name>Aviator's Wings</Name>
+            <Description>You have earned your Aviator's Wings as a pilot with the Alliance.</Description>
           </Option>
           <Option>
-            <Key>REPAB1OP4</Key>
-            <Name>Level 0: Neutral</Name>
-            <Description>Add [BO] or [SE] based upon individual interactions.</Description>
-          </Option>
-          <Option>
-            <Key>REPAB1OP5</Key>
-            <Name>Level -1: Feared</Name>
-            <Description>Add [BO] to Coercion checks.  Add [SE] to Charm and Negotiation checks.</Description>
-          </Option>
-          <Option>
-            <Key>REPAB1OP6</Key>
-            <Name>Level -2: Notorious</Name>
-            <Description>Add [BO][BO] to Coercion checks.  Add [SE][SE] to Charm and Negotiation checks. May spend Destiny Point to have individual overlook one of PC's misdeeds.</Description>
-          </Option>
-          <Option>
-            <Key>REPAB1OP7</Key>
-            <Name>Level -3: Dreaded</Name>
-            <Description>Add [BO][BO][BO] to Coercion checks.  Add [SE][SE][SE] to Charm and Negotiation checks. May spend Destiny Point to have individual overlook one of PC's misdeeds, or have minion group flee in terror.</Description>
-          </Option>
-        </Options>
-      </OptionChoice>
-    </OptionChoices>
-  </Reward>
-  <Reward>
-    <Key>ALLY</Key>
-    <Name>Ally</Name>
-    <Description>[H3]Ally[h3]
-Allies are individuals who have benefited from the Warrior's actions. They can come from a variety of backgrounds, and each has a life and job separate from the Warrior. Most allies feel as though they owe the Warrior a favor, and they are willing to help as best they can in times of need. [P]
-Allies can serve as a combined knowledge base for a Warrior. Once per session, the Warrior can ask an ally, either in person or via a comlink or other method of long-distance communication, to make a single Knowledge, Skulduggery, or Streetwise check on the Warrior's behalf. Depending on the ally, the GM may permit any Knowledge skill or restrict the ally to one or more Knowledge skills. The time it takes for the Warrior to receive an answer depends on the method of communication, and generating [TH] on the check can delay the answer. 
-
-[P]Please see page 94 of the Knights of Fate Sourcebook for details.
-    </Description>
-    <Sources>
-      <Source Page="94">Knights of Fate</Source>
-    </Sources>
-    <Custom>DescOnly</Custom>
-    <RewardTitle>rteName</RewardTitle>
-    <OptionChoices>
-      <OptionChoice>
-        <Key>ALLYAB1</Key>
-        <Name>Disposition</Name>
-        <Options>
-          <Option>
-            <Key>ALLYAB1OP1</Key>
-            <Name>Grateful Ally</Name>
-            <Description>Once per session, ally may make one Knowledge, Skulduggery, or Streetwise check with [AB][AB][AB].</Description>
-            <StartingAttributes>
-              <Experience>5</Experience>
-            </StartingAttributes>
-          </Option>
-          <Option>
-            <Key>ALLYAB1OP2</Key>
-            <Name>Indebted Ally</Name>
-            <Description>Once per session, ally may make one Knowledge, Skulduggery, or Streetwise check with [AB][AB][PR].</Description>
-            <StartingAttributes>
-              <Experience>10</Experience>
-            </StartingAttributes>
-          </Option>
-          <Option>
-            <Key>ALLYAB1OP3</Key>
-            <Name>Loyal Ally</Name>
-            <Description>Once per session, ally may make one Knowledge, Skulduggery, or Streetwise check with [AB][AB][PR][PR].</Description>
-            <StartingAttributes>
-              <Experience>15</Experience>
-            </StartingAttributes>
-          </Option>
-        </Options>
-      </OptionChoice>
-    </OptionChoices>
-  </Reward>
-
-  <Reward>
-    <Key>APPRENTICE</Key>
-    <Name>Apprentice</Name>
-    <Description>[H3]Apprentice[h3]
-The Warrior might attract a particularly enthusiastic follower who becomes an apprentice. This NPC hopes to learn the Warrior's martial skills and help others as the Warrior helped them. Taking on an apprentice can provide a Warrior with great roleplaying moments, and the student's character arc might culminate in running a school for other students hoping to learn the Warrior's chosen form of combat. While some Warriors find annoyance with an apprentice's constant admiration and pestering, apprentices are also useful for invoking titles Warriors are too humble to bring up themselves.[P] 
-Once per session, for an entire combat encounter. the apprentice can join the Warrior in combat. Rather than having an adversary profile and taking individual turns in combat, the apprentice fights in unison with the Warrior, augmenting the PC's combat checks or aiding the PC's defense. The GM can spend [TH] on any combat check the Warrior makes to have the apprentice incapacitated for the rest of the encounter or otherwise defeated, and the benefits of the apprentice end immediately. A Warrior can benefit from only one apprentice at a time. 
-[P]Please see page 94 of the Knights of Fate Sourcebook for details.
-    </Description>
-    <Sources>
-      <Source Page="94">Knights of Fate</Source>
-    </Sources>
-    <Custom>DescOnly</Custom>
-    <RewardTitle>rteName</RewardTitle>
-    <OptionChoices>
-      <OptionChoice>
-        <Key>APPRAB1</Key>
-        <Name>Competency</Name>
-        <Options>
-          <Option>
-            <Key>APPRAB1OP1</Key>
-            <Name>Novice Apprentice</Name>
-            <Description>Add [BO] to all combat checks.</Description>
-            <StartingAttributes>
-              <Experience>5</Experience>
-            </StartingAttributes>
-          </Option>
-          <Option>
-            <Key>APPRAB1OP2</Key>
-            <Name>Trained Apprentice</Name>
-            <Description>Add automatic [AD] to all combat checks, or add +1 melee defense (PC's choice at start of turn).</Description>
-            <StartingAttributes>
-              <Experience>10</Experience>
-            </StartingAttributes>
-          </Option>
-          <Option>
-            <Key>APPRAB1OP3</Key>
-            <Name>Experienced Apprentice</Name>
-            <Description>Add automatic [SU][AD] to all combat checks, or add +2 melee defense (PC's choice at start of turn).</Description>
-            <StartingAttributes>
-              <Experience>15</Experience>
-            </StartingAttributes>
+            <Key>DECAB1OP4</Key>
+            <Name>Infantryman's Badge</Name>
+            <Description>You have earned the Infantryman's Badge for completing your first combat mission.</Description>
           </Option>
         </Options>
       </OptionChoice>
@@ -506,7 +423,7 @@ Once per session, for an entire combat encounter. the apprentice can join the Wa
     <Name>Follower</Name>
     <Description>[H3]Follower[h3]
 Followers are inspired by the Warrior's example. and they do their best to aid the PC's efforts. They come from a variety of backgrounds, but many have left their old life behind to follow and help the Warrior. While not all are prepared to engage in combat, many are trying to learn and consider the Warrior their instructor. Followers possess a diverse set of skills from their lives before meeting the Warrior, and they are more than willing to help in any way they can.[P]
-Followers often have a degree of technical training from a past career. Once per session, they can make a single Computers, Mechanics, or Medicine check on behalf of the Warrior, at the GM's discretion. These checks generally require the followers to be on-site; the Warrior can't receive aid by comlink as with an ally benefit. Followers must physically follow the Warrior and be present to assist. This can pose some logistical challenges for a party. Followers also take up much of a Warrior's free time, as each hopes to learn how to fight straight from their hero. 
+Followers often have a degree of technical training from a past career. Once per session, they can make a single Computers, Mechanics, or Medicine check on behalf of the Warrior, at the GM's discretion. These checks generally require the followers to be on-site; the Warrior can't receive aid by comlink as with an ally benefit. Followers must physically follow the Warrior and be present to assist. This can pose some logistical challenges for a party. Followers also take up much of a Warrior's free time, as each hopes to learn how to fight straight from their hero.
 
 [P]Please see page 95 of the Knights of Fate Sourcebook for details.
     </Description>
@@ -549,47 +466,96 @@ Followers often have a degree of technical training from a past career. Once per
     </OptionChoices>
   </Reward>
   <Reward>
-    <Key>SCHOOL</Key>
-    <Name>School</Name>
-    <Description>[H3]School[h3]
-Many Warriors place a premium on passing on their skills. Training an apprentice can happen in the field, but training an entire student body requires a facility and a faculty. Warriors who establish a formal training facility provide their followers, allies, and apprentice a safe place in which to shut out distractions and focus on training. [P]
-Schools can grow over time. They might start out as a small local gym where students can exercise, spar, and work with training droids or in simulators. They can evolve into more respected institutions with better facilities and a reputation in the galaxy. Eventually, they might even turn into massive training compounds or a network of smaller gyms. GMs should work with players when they establish a school to discuss their goals for it. [P]
-Mechanically, schools improve all checks made by allies, apprentices, and followers. This bonus improves every check they make that is related to the benefits they provide the Warrior. Schools are often run by a Warrior's first apprentice, after the apprentice reaches the Experienced Apprentice tier. 
-[P]Please see page 95 of the Knights of Fate Sourcebook for details.
+    <Key>HONTITLE</Key>
+    <Name>Honored Title</Name>
+    <Description>[H3]Honored Title[h3]
+There are three basic types of titles, each with different effects. Classroom titles are ranks denoting a level of mastery earned in a martial tradition, and impact Coercion and Negotiation checks. Championship titles represent a victory in a competition and impact Charm and Deception checks. Finally, Legendary titles represent specific acts performed on the battlefield, and impact Coercion and Leadership checks. [P]
+To acquire a title, a character must pay the XP cost indicated. Titles must be acquired in order, from minor, to moderate, to major. Each new rank of the title replaces the one before it. To use a title to benefit a Social skill check, the PC or an ally must invoke it in conversation. Each title can be invoked once per encounter.
+
+[P]Please see page 92 of the Knights of Fate Sourcebook for details.
     </Description>
     <Sources>
-      <Source Page="95">Knights of Fate</Source>
+      <Source Page="92">Knights of Fate</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <RewardTitle>rteName</RewardTitle>
     <OptionChoices>
       <OptionChoice>
-        <Key>SCHOAB1</Key>
-        <Name>Facility</Name>
+        <Key>CLASSTITLEAB1</Key>
+        <Name>Type</Name>
         <Options>
           <Option>
-            <Key>SCHOAB1OP1</Key>
-            <Name>Local Gym</Name>
-            <Description>Add [BO] to follower and ally checks, and to checks aided by an apprentice.</Description>
+            <Key>CLASSTITLEAB1OP1</Key>
+            <Name>Classroom Title</Name>
+            <Description>Received for formalized study of a martial art.[BR][B]Applicable Social Skills[b]:Coercion, Negotiation</Description>
+          </Option>
+          <Option>
+            <Key>CLASSTITLEAB1OP2</Key>
+            <Name>Championship Title</Name>
+            <Description>Received for winning a competition.[BR][B]Applicable Social Skills[b]: Charm, Deception</Description>
+          </Option>
+          <Option>
+            <Key>CLASSTITLEAB1OP3</Key>
+            <Name>Legendary Title</Name>
+            <Description>Received for combat experience.[BR][B]Applicable Social Skills[b]: Coercion, Leadership</Description>
+          </Option>
+        </Options>
+      </OptionChoice>
+      <OptionChoice>
+        <Key>CLASSTITLEAB2</Key>
+        <Name>Benefits</Name>
+        <Options>
+          <Option>
+            <Key>CLASSTITLEAB2OP1</Key>
+            <Name>Minor Title</Name>
+            <Description>Once per encounter, add [BO][BO] to the next applicable social skill check.</Description>
             <StartingAttributes>
               <Experience>5</Experience>
             </StartingAttributes>
           </Option>
           <Option>
-            <Key>SCHOAB1OP2</Key>
-            <Name>Respected Dojo</Name>
-            <Description>Add [BO][BO] to follower and ally checks, and [AD] to checks aided by an apprentice.</Description>
+            <Key>CLASSTITLEAB2OP2</Key>
+            <Name>Moderate Title</Name>
+            <Description>Once per encounter, upgrade ability of the next applicable social skill check.</Description>
             <StartingAttributes>
               <Experience>10</Experience>
             </StartingAttributes>
           </Option>
           <Option>
-            <Key>SCHOAB1OP3</Key>
-            <Name>Training Academy</Name>
-            <Description>Upgrade ability of follower and ally checks, and add [AD][SU] to checks aided by an apprentice.</Description>
+            <Key>CLASSTITLEAB2OP3</Key>
+            <Name>Major Title</Name>
+            <Description>Once per encounter, add [SU][SU] to the next applicable social skill check.</Description>
             <StartingAttributes>
               <Experience>15</Experience>
             </StartingAttributes>
+          </Option>
+        </Options>
+      </OptionChoice>
+    </OptionChoices>
+  </Reward>
+<Reward>
+    <Key>MAKERSMARK</Key>
+    <Name>Maker's Mark</Name>
+    <Description>[H3]Maker's Mark[h3]
+The greatest of crafters and artisans are known the galaxy over, and their work is easily recognizable by any expert in such matters. Whether it is an actual stamp bearing the name of the creator or the creator's company, a special feature, or an inimitable quirk of design, such a maker's mark is a sign of quality and distinctiveness. [P]
+
+In [B]Age of Rebellion[b], a maker's mark represents an Engineer character's unique approach to crafting a particular variety of item. Any Engineer character may develop a maker's mark, with the GM's permission. Once a character has reached an appropriate point in the game's narrative, based on the character's experience with and success as a crafter, the player and GM can work together to decide the form that Engineer's mark takes in game, as well as the mechanical benefits. [P]
+
+See Pages 95-96 of Fully Operational for additional information on Maker's Mark. </Description>
+    <Sources>
+      <Source Page="95">Fully Operational</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <RewardTitle>rteMakersMark</RewardTitle>
+    <OptionChoices>
+      <OptionChoice>
+        <Key>MMAbb1</Key>
+        <Name>Crafting</Name>
+        <Options>
+          <Option>
+            <Key>MMAB1OP1</Key>
+            <Name>Reduced Cost of Crafting Improvement</Name>
+            <Description>May reduce cost of selected crafting improvement by [AD] for all future crafting checks.</Description>
+            <SelectCraftImprovement>true</SelectCraftImprovement>
           </Option>
         </Options>
       </OptionChoice>
@@ -693,107 +659,141 @@ Campaign medals and ribbons are issued to personnel who are or have served in sp
     </OptionChoices>
   </Reward>
   <Reward>
-    <Key>DECORATIONS</Key>
-    <Name>Military/Civilian Decoration</Name>
-    <Description>[H3]Military or Civilian Decoration[h3]
-Every military in the galaxy, from the most backward planetary defense force to the mighty Imperial Navy, has ways of recognizing exceptional performance in its personnel. The following are just a few of the many awards granted by the Alliance Military to its personnel and its civilian allies.
-[H4]OTHER MILITARY AND CIVILIAN DECORATIONS[h4]
-The number of common military and civilian decorations bestowed by the Alliance is truly staggering. While not as prestigious as the Corellian Cross, or even the Star of Alderaan, these decorations nevertheless carry some cachet. Nearly any job done by, or service provided to, Alliance forces carries with it the chance for some exceptional recognition. Below are some of the more ubiquitous decorations found throughout the Alliance.
-
-[P]Please see page 95 of the Lead by Example Sourcebook for details.
+    <Key>PROVENEXP</Key>
+    <Name>Proven Expertise</Name>
+    <Description>[H3]Proven Expertise[h3]
+Even within a given specialization, an Engineer might demonstrate truly remarkable proficiency in a narrower field. Whether a Mechanic whose modified blasters are the envy of fighters the galaxy over or a Droid Specialist whose astromechs are known for unerring accuracy, an Engineer with proven expertise is a truly exceptional craftsman in a narrow area of specialty. This stellar proficiency In turn brings rewards. [P]
+Proven expertise is available to Engineer PCs at the GM's discretion. In order to qualify, the character must demonstrate in-game exceptional ability in designing or constructing a specific type of equipment or in carrying out a particular task. The GM and player should work together to define this area of expertise and sum it up as briefly as possible. For instance, a character might have proven expertise in blasters, starfighters, weapon attachments, or battlefield repairs.
+[P]
+See page 95 of the Fully Operational Sourcebook for more details.
     </Description>
     <Sources>
-      <Source Page="95">Lead by Example</Source>
+      <Source Page="95">Fully Operational</Source>
     </Sources>
     <Custom>DescOnly</Custom>
+    <RewardTitle>rteProvenExpertise</RewardTitle>
     <OptionChoices>
       <OptionChoice>
-        <Key>DECAB1</Key>
-        <Name>Decoration</Name>
+        <Key>PEAB1</Key>
+        <Name>Skill Checks</Name>
         <Options>
           <Option>
-            <Key>DECAB1OP1</Key>
-            <Name>Redbird Badge</Name>
-            <Description>You have earned the Redbird badge for being wounded in the line of duty.</Description>
-          </Option>
-          <Option>
-            <Key>DECAB1OP2</Key>
-            <Name>Distinguished Flying Medal</Name>
-            <Description>You have earned the Distinguished Flying Medal.</Description>
-          </Option>
-          <Option>
-            <Key>DECAB1OP3</Key>
-            <Name>Aviator's Wings</Name>
-            <Description>You have earned your Aviator's Wings as a pilot with the Alliance.</Description>
-          </Option>
-          <Option>
-            <Key>DECAB1OP4</Key>
-            <Name>Infantryman's Badge</Name>
-            <Description>You have earned the Infantryman's Badge for completing your first combat mission.</Description>
+            <Key>PEAB1OP1</Key>
+            <Name>Expertise in a Field</Name>
+            <Description>May spend [AD][AD] as [SU] on skill checks relevant to the area of expertise.</Description>
           </Option>
         </Options>
       </OptionChoice>
     </OptionChoices>
   </Reward>
   <Reward>
-    <Key>HONTITLE</Key>
-    <Name>Honored Title</Name>
-    <Description>[H3]Honored Title[h3]
-There are three basic types of titles, each with different effects. Classroom titles are ranks denoting a level of mastery earned in a martial tradition, and impact Coercion and Negotiation checks. Championship titles represent a victory in a competition and impact Charm and Deception checks. Finally, Legendary titles represent specific acts performed on the battlefield, and impact Coercion and Leadership checks. [P]
-To acquire a title, a character must pay the XP cost indicated. Titles must be acquired in order, from minor, to moderate, to major. Each new rank of the title replaces the one before it. To use a title to benefit a Social skill check, the PC or an ally must invoke it in conversation. Each title can be invoked once per encounter.
-
-[P]Please see page 92 of the Knights of Fate Sourcebook for details.
+    <Key>REP</Key>
+    <Name>Reputation</Name>
+    <Description>[H3]Reputation[h3]
+Reputation is not a universal resource PCs simply accumulate. Rather, it rises and falls within different spheres in which the PCs operate based on the choices that they make. Renown and notoriety both have benefits and drawbacks, and the GM can use the tools here to help show the lasting impacts of the PCs’ actions.[P]
+If GM wants to use reputations, he should begin by identifying a handful of spheres important to his campaign. These can be institutional, cultural, or geographic, based on the scope of the campaign. Spheres of influence can be as broad or narrow as the campaign demands. Some possible examples include:[BR]
+• Mos Eisley[BR]
+• The Hutt Kajidics[BR]
+• The Hydian Way[BR]
+• Corellia[BR]
+• Core Worlds High Society[BR]
+• Soldiers of the Empire and Rebel Alliance[BR]
+• Pirates in Hutt Space[BR]
+• Promise Colony[BR]
+• The Corporate Sector[P]
+At the end of a plot arc or adventure, if the PCs were publicly associated with a major positive event (setting a new record for a smuggling route, saving a town from pirates, slaying a dangerous beast), the GM can increase the level of their Reputation by 1 in the relevant spheres. On the other hand, if the PCs were publicly associated with a major negative event (betraying and killing a Hutt crime lord, performing a destructive heist, causing massive collateral damage), the GM could decrease the level of their Reputation by 1 in the affected spheres.
+[P]
+Please see page 92 of the Keeping the Peace Sourcebook, or page 95 of the Fly Casual Sourcebook, for details.
     </Description>
     <Sources>
-      <Source Page="92">Knights of Fate</Source>
+      <Source Page="92">Keeping the Peace</Source>
+      <Source Page="95">Fly Casual</Source>
     </Sources>
     <Custom>DescOnly</Custom>
+    <RewardTitle>rteSphereOfInfluence</RewardTitle>
     <OptionChoices>
       <OptionChoice>
-        <Key>CLASSTITLEAB1</Key>
-        <Name>Type</Name>
+        <Key>REPAB1</Key>
+        <Name>Reputation Level</Name>
         <Options>
           <Option>
-            <Key>CLASSTITLEAB1OP1</Key>
-            <Name>Classroom Title</Name>
-            <Description>Received for formalized study of a martial art.[BR][B]Applicable Social Skills[b]:Coercion, Negotiation</Description>
+            <Key>REPAB1OP1</Key>
+            <Name>Level 3: Beloved</Name>
+            <Description>Add [BO][BO][BO] to Charm and Negotiation checks.  Add [SE][SE][SE] to Coercion checks. May spend Destiny Point to find a person or place in need of defense.</Description>
           </Option>
           <Option>
-            <Key>CLASSTITLEAB1OP2</Key>
-            <Name>Championship Title</Name>
-            <Description>Received for winning a competition.[BR][B]Applicable Social Skills[b]: Charm, Deception</Description>
+            <Key>REPAB1OP2</Key>
+            <Name>Level 2: Renowned</Name>
+            <Description>Add [BO][BO] to Charm and Negotiation checks.  Add [SE][SE] to Coercion checks. May spend Destiny Point to find where PC is most needed.</Description>
           </Option>
           <Option>
-            <Key>CLASSTITLEAB1OP3</Key>
-            <Name>Legendary Title</Name>
-            <Description>Received for combat experience.[BR][B]Applicable Social Skills[b]: Coercion, Leadership</Description>
+            <Key>REPAB1OP3</Key>
+            <Name>Level 1: Respected</Name>
+            <Description>Add [BO] to Charm and Negotiation checks.  Add [SE] to Coercion checks.</Description>
+          </Option>
+          <Option>
+            <Key>REPAB1OP4</Key>
+            <Name>Level 0: Neutral</Name>
+            <Description>Add [BO] or [SE] based upon individual interactions.</Description>
+          </Option>
+          <Option>
+            <Key>REPAB1OP5</Key>
+            <Name>Level -1: Feared</Name>
+            <Description>Add [BO] to Coercion checks.  Add [SE] to Charm and Negotiation checks.</Description>
+          </Option>
+          <Option>
+            <Key>REPAB1OP6</Key>
+            <Name>Level -2: Notorious</Name>
+            <Description>Add [BO][BO] to Coercion checks.  Add [SE][SE] to Charm and Negotiation checks. May spend Destiny Point to have individual overlook one of PC's misdeeds.</Description>
+          </Option>
+          <Option>
+            <Key>REPAB1OP7</Key>
+            <Name>Level -3: Dreaded</Name>
+            <Description>Add [BO][BO][BO] to Coercion checks.  Add [SE][SE][SE] to Charm and Negotiation checks. May spend Destiny Point to have individual overlook one of PC's misdeeds, or have minion group flee in terror.</Description>
           </Option>
         </Options>
       </OptionChoice>
+    </OptionChoices>
+  </Reward>
+  <Reward>
+    <Key>SCHOOL</Key>
+    <Name>School</Name>
+    <Description>[H3]School[h3]
+Many Warriors place a premium on passing on their skills. Training an apprentice can happen in the field, but training an entire student body requires a facility and a faculty. Warriors who establish a formal training facility provide their followers, allies, and apprentice a safe place in which to shut out distractions and focus on training. [P]
+Schools can grow over time. They might start out as a small local gym where students can exercise, spar, and work with training droids or in simulators. They can evolve into more respected institutions with better facilities and a reputation in the galaxy. Eventually, they might even turn into massive training compounds or a network of smaller gyms. GMs should work with players when they establish a school to discuss their goals for it. [P]
+Mechanically, schools improve all checks made by allies, apprentices, and followers. This bonus improves every check they make that is related to the benefits they provide the Warrior. Schools are often run by a Warrior's first apprentice, after the apprentice reaches the Experienced Apprentice tier.
+[P]Please see page 95 of the Knights of Fate Sourcebook for details.
+    </Description>
+    <Sources>
+      <Source Page="95">Knights of Fate</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <RewardTitle>rteName</RewardTitle>
+    <OptionChoices>
       <OptionChoice>
-        <Key>CLASSTITLEAB2</Key>
-        <Name>Benefits</Name>
+        <Key>SCHOAB1</Key>
+        <Name>Facility</Name>
         <Options>
           <Option>
-            <Key>CLASSTITLEAB2OP1</Key>
-            <Name>Minor Title</Name>
-            <Description>Once per encounter, add [BO][BO] to the next applicable social skill check.</Description>
+            <Key>SCHOAB1OP1</Key>
+            <Name>Local Gym</Name>
+            <Description>Add [BO] to follower and ally checks, and to checks aided by an apprentice.</Description>
             <StartingAttributes>
               <Experience>5</Experience>
             </StartingAttributes>
           </Option>
           <Option>
-            <Key>CLASSTITLEAB2OP2</Key>
-            <Name>Moderate Title</Name>
-            <Description>Once per encounter, upgrade ability of the next applicable social skill check.</Description>
+            <Key>SCHOAB1OP2</Key>
+            <Name>Respected Dojo</Name>
+            <Description>Add [BO][BO] to follower and ally checks, and [AD] to checks aided by an apprentice.</Description>
             <StartingAttributes>
               <Experience>10</Experience>
             </StartingAttributes>
           </Option>
           <Option>
-            <Key>CLASSTITLEAB2OP3</Key>
-            <Name>Major Title</Name>
-            <Description>Once per encounter, add [SU][SU] to the next applicable social skill check.</Description>
+            <Key>SCHOAB1OP3</Key>
+            <Name>Training Academy</Name>
+            <Description>Upgrade ability of follower and ally checks, and add [AD][SU] to checks aided by an apprentice.</Description>
             <StartingAttributes>
               <Experience>15</Experience>
             </StartingAttributes>
@@ -802,4 +802,4 @@ To acquire a title, a character must pay the XP cost indicated. Titles must be a
       </OptionChoice>
     </OptionChoices>
   </Reward>
-</Rewards>
+  </Rewards>

@@ -1,10 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Vehicle>
   <Key>CMCDIGGER</Key>
   <Name>CMC Digger Crawler</Name>
   <Description>
       [H3]CMC Digger Crawler[h3]
 
-Built by the Corellian Mining Corporation as a massive mobile mining and smelting facility, the digger crawler appears to be a treaded box that towers some 20 meters above the surrounding landscape. Corellian Mining intended the vehicles to serve as semi-autonomous mining operations on rough, frontier worlds: Their primitive but reliable nuclear fusion steam reactors and multiple treads ensure they seldom break down, and their weight and armor means they can survive the harshest environments. 
+Built by the Corellian Mining Corporation as a massive mobile mining and smelting facility, the digger crawler appears to be a treaded box that towers some 20 meters above the surrounding landscape. Corellian Mining intended the vehicles to serve as semi-autonomous mining operations on rough, frontier worlds: Their primitive but reliable nuclear fusion steam reactors and multiple treads ensure they seldom break down, and their weight and armor means they can survive the harshest environments.
 
 [P]Digger crawlers are robust and customizable enough that they can be found across the galaxy, and put to uses they were not originally designed for. A good example of this can be found on the planet Tatooine. There, countless digger crawlers were left behind by various mining consortiums over the years, only to be salvaged and repurposed by nomadic Jawa clans. Now these "sandcrawlers" roam the wastes of Tatooine, looking for scrap, and selling and trading to moisture farmers and other nomads.</Description>
   <Source Page="251">Edge of the Empire Core Rulebook</Source>

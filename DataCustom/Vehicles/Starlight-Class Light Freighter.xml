@@ -1,10 +1,10 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>STARLIGHTLTFREIGHTER</Key>
   <Name>Starlight-Class Light Freighter</Name>
   <Description>[H3]Starlight-Class Light Freighter[h3]
 
-A joint venture of the venerable Rendili StarDrive and Surron StarTech, the Starlight-class light freighter is a hybrid of human and Surronian design and technology. Renowned for their innovative starship designs, the insectoid inhabitants of Surron lacked the business and marketing savvy to make much of an impact on galactic markets, and a partnership with Rendili seemed mutually beneficial. From early on, major differences in design philosophies marred the project, ensuring that the Starlight was the first and last vessel produced by the Rendili-Surron union. 
+A joint venture of the venerable Rendili StarDrive and Surron StarTech, the Starlight-class light freighter is a hybrid of human and Surronian design and technology. Renowned for their innovative starship designs, the insectoid inhabitants of Surron lacked the business and marketing savvy to make much of an impact on galactic markets, and a partnership with Rendili seemed mutually beneficial. From early on, major differences in design philosophies marred the project, ensuring that the Starlight was the first and last vessel produced by the Rendili-Surron union.
 
 [P]Nonetheless, the final production version of the Starlight-class is a unique freighter that has seen some limited success. A large forward-swept wing with a Corellian-inspired cockpit and cylindrical hull on the starboard side, the Starlight-class light freighter is virtually impossible to mistake for any other ship traveling the space lanes. A sophisticated repulsorlift loading platform makes the freighter incredibly quick and efficient at loading and unloading cargo. While possessing a spacious cargo hold, the substandard Materials used by Rendili to cut costs resulted in a fairly weak frame, limiting the weight of goods the freighter can safely carry. In spite of its shortcomings, the Starlight-class has found a niche among free traders and smugglers.</Description>
   <Source Page="56">Fly Casual</Source>

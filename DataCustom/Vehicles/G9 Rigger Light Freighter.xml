@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>G9RIGGER</Key>
   <Name>G9 Rigger Light Freighter</Name>
   <Description>
     [H3]G9 Rigger Light Freighter[h3]
 
-Already considered an antique at the outset of the Clone Wars, Corellian Engineering Corporation's C9 Rigger-class light freighter is a rare sight in the modern spacelanes. A small, unremarkable craft, the G9 has a blocky, double-decked hull which resembles a speeder truck more than a starship. A single long, thin wing extends from the starboard side of the ship, and a short folding stabilizer is mounted to the vessel's ventral side. The forward third of the vessel contains the flight deck, engineering deck, and crew quarters on two spartan decks. The rest of the ship is given over to a single large cargo hold accessed by a large aft-loading ramp. 
+Already considered an antique at the outset of the Clone Wars, Corellian Engineering Corporation's C9 Rigger-class light freighter is a rare sight in the modern spacelanes. A small, unremarkable craft, the G9 has a blocky, double-decked hull which resembles a speeder truck more than a starship. A single long, thin wing extends from the starboard side of the ship, and a short folding stabilizer is mounted to the vessel's ventral side. The forward third of the vessel contains the flight deck, engineering deck, and crew quarters on two spartan decks. The rest of the ship is given over to a single large cargo hold accessed by a large aft-loading ramp.
 
 [P]Designed as a utilitarian, short-to-medium-range hauler, the Rigger-class has little in the way of amenities and only the most basic of defensive systems. Armament consists of dorsal auto-blasters and two light blaster cannons. Shields are a simple low-output Novaldex system, and the ship's armor is basic carbon-durasteel. Little thought was given to speed or handling, and while these ships aren't dangerously slow or sluggish, they are not high-performance by any stretch of the imagination. What they lack in frills and comfort, however, these little ships more than make up for in reliability, sturdiness, and ease of repair. In fact, so well-built are these ancient freighters that many are still operating, and operating quite well, with much of their original equipement.</Description>
   <Source Page="262">Force and Destiny Core Rulebook</Source>

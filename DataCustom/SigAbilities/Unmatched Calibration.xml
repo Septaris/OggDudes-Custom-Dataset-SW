@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<SigAbility xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<SigAbility>
   <Key>UNMATCHEDCALIBRATION</Key>
   <Name>Unmatched Calibration</Name>
   <Description>The character has the capacity to act with incredible accuracy and finesse, reacting dispassionately and deftly to problems and capitalizing on oppurtunites as they arise. Steady hands, sharp wits, and calm nerves developed while working on colatile engines, delicate instruments or ever-shifting Slicers' code give the Technician an edge in any situation. After all, composure and logical analysis are applicable to nearly any activity, whether that is defusing a bomb, calling up schematics in a hurry, or even participating in a firefight. Thus, even when facing novel, problems, the character can act efficiently and decisively, analyzing and dispatching the thorniest problems with practiced ease. To this technician, every problem is a puzzle to be solved, and there is always an optimal move to advance towards the answer.</Description>

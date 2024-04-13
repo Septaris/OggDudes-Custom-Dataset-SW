@@ -1,20 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Characteristics>
-  <Characteristic>
-    <Key>BR</Key>
-    <Name>Brawn</Name>
-    <Abbrev>Br</Abbrev>
-    <Description>
-    [H4]Brawn[h4]
-
-[P]A character's Brawn represents a blend of a character's brute power, strength, and overall toughness, as well as the ability to apply those attributes as needed. Characters with a high Brawn are physically fit and hardy, tend not to get sick often, and have strong constitutions. Brawn is used for a number of physical skills such as Athletics and Brawl. Brawn is also used to determine a character's starting wound threshold. </Description>
-    <Sources>
-      <Source Page="16">Edge of the Empire Core Rulebook</Source>
-      <Source Page="23">Age of Rebellion Core Rulebook</Source>
-      <Source Page="24">Force and Destiny Core Rulebook</Source>
-    </Sources>
-    <Custom>DescOnly</Custom>
-  </Characteristic>
   <Characteristic>
     <Key>AG</Key>
     <Name>Agility</Name>
@@ -31,17 +16,17 @@
     <Custom>DescOnly</Custom>
   </Characteristic>
   <Characteristic>
-    <Key>INT</Key>
-    <Name>Intellect</Name>
-    <Abbrev>Int</Abbrev>
+    <Key>BR</Key>
+    <Name>Brawn</Name>
+    <Abbrev>Br</Abbrev>
     <Description>
-    [H4]Intellect[h4]
+    [H4]Brawn[h4]
 
-[P]The Intellect characteristic measures a character's intelligence, education, mental acuity, and ability to reason and rationalize. Characters with a high Intellect can extrapolate or interpolate data, can recall details and draw from previous experience, and can think of long-term strategies and envision the ramifications of present actions. Intellect is used for a number of mental skills, such as Astrogation, Computers, and all the Knowledge skills, such as Lore and Xenology. </Description>
+[P]A character's Brawn represents a blend of a character's brute power, strength, and overall toughness, as well as the ability to apply those attributes as needed. Characters with a high Brawn are physically fit and hardy, tend not to get sick often, and have strong constitutions. Brawn is used for a number of physical skills such as Athletics and Brawl. Brawn is also used to determine a character's starting wound threshold. </Description>
     <Sources>
       <Source Page="16">Edge of the Empire Core Rulebook</Source>
       <Source Page="23">Age of Rebellion Core Rulebook</Source>
-      <Source Page="25">Force and Destiny Core Rulebook</Source>
+      <Source Page="24">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </Characteristic>
@@ -61,13 +46,13 @@
     <Custom>DescOnly</Custom>
   </Characteristic>
   <Characteristic>
-    <Key>WIL</Key>
-    <Name>Willpower</Name>
-    <Abbrev>Wil</Abbrev>
+    <Key>INT</Key>
+    <Name>Intellect</Name>
+    <Abbrev>Int</Abbrev>
     <Description>
-    [H4]Willpower[h4]
+    [H4]Intellect[h4]
 
-[P]The Willpower characteristic reflects a character's discipline, self-control, mental fortitude, and faith. Characters with a high Willpower can withstand stress and fatigue, remain composed during chaotic situations, and exert influence over the weaker-willed. Willpower is used for a number of skills, such as Coercion and Vigilance. Willpower is also used to determine a character's starting strain threshold. </Description>
+[P]The Intellect characteristic measures a character's intelligence, education, mental acuity, and ability to reason and rationalize. Characters with a high Intellect can extrapolate or interpolate data, can recall details and draw from previous experience, and can think of long-term strategies and envision the ramifications of present actions. Intellect is used for a number of mental skills, such as Astrogation, Computers, and all the Knowledge skills, such as Lore and Xenology. </Description>
     <Sources>
       <Source Page="16">Edge of the Empire Core Rulebook</Source>
       <Source Page="23">Age of Rebellion Core Rulebook</Source>
@@ -90,4 +75,19 @@
     </Sources>
     <Custom>DescOnly</Custom>
   </Characteristic>
-</Characteristics>
+<Characteristic>
+    <Key>WIL</Key>
+    <Name>Willpower</Name>
+    <Abbrev>Wil</Abbrev>
+    <Description>
+    [H4]Willpower[h4]
+
+[P]The Willpower characteristic reflects a character's discipline, self-control, mental fortitude, and faith. Characters with a high Willpower can withstand stress and fatigue, remain composed during chaotic situations, and exert influence over the weaker-willed. Willpower is used for a number of skills, such as Coercion and Vigilance. Willpower is also used to determine a character's starting strain threshold. </Description>
+    <Sources>
+      <Source Page="16">Edge of the Empire Core Rulebook</Source>
+      <Source Page="23">Age of Rebellion Core Rulebook</Source>
+      <Source Page="25">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+  </Characteristic>
+  </Characteristics>

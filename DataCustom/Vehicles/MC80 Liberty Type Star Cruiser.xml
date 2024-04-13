@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>MC80STARCRUIS</Key>
   <Name>MC80 Liberty Type Star Cruiser</Name>
   <Description>
     [H3]MC80 Liberty Type Star Cruiser[h3]
 
-Long and sleek with a decidedly bulbous, organic silhouette, these lovely vessels are among the few heavy line of battle ships possessed by the Rebel Alliance. Produced by Mon Calamari Shipyards, the MC80 ships were initially designed as long range exploration or pleasure craft, civilian vessels designed to cruise the stars for knowledge or carry passengers in luxury and style. Each one is unique, hand-crafted by talented Mon Calamari shipwrights to exacting specifications. Rivaling the Imperial II-class Star Destroyers in length and mass, these ships fell into the hands of the Alliance as the Mon Calamari people were liberated from their Imperial oppressors. Sturdy, well-built, and over-engineered, they were designed to stand up to the rigors of constant interstellar travel, a type of shipbuilding that took surprisingly well to combat roles. 
+Long and sleek with a decidedly bulbous, organic silhouette, these lovely vessels are among the few heavy line of battle ships possessed by the Rebel Alliance. Produced by Mon Calamari Shipyards, the MC80 ships were initially designed as long range exploration or pleasure craft, civilian vessels designed to cruise the stars for knowledge or carry passengers in luxury and style. Each one is unique, hand-crafted by talented Mon Calamari shipwrights to exacting specifications. Rivaling the Imperial II-class Star Destroyers in length and mass, these ships fell into the hands of the Alliance as the Mon Calamari people were liberated from their Imperial oppressors. Sturdy, well-built, and over-engineered, they were designed to stand up to the rigors of constant interstellar travel, a type of shipbuilding that took surprisingly well to combat roles.
 
 [P]Beneath the graceful, rolling lines of their hull plates, these ships mount a frightful array of heavy weapons, and their firepower and thickly armored hulls have taken more than one Imperial battlegroup by surprise. In addition to their firepower, MC80 ships also carry up to ten squadrons of fighters, along with numerous shuttles, landing ships, and utility craft. Extremely powerful and versatile, they are also difficult to maintain, as they are all unique and there is hardly any component commonality between ships. This fact more than anything causes the Alliance to show caution in how and where they deploy these vessels, as each one is nearly irreplaceable. </Description>
   <Source Page="284">Age of Rebellion Core Rulebook</Source>

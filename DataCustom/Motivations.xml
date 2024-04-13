@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Motivations>
   <Motivation>
     <Key>AMB</Key>
@@ -31,6 +31,32 @@ A character with this Motivation is driven by a specific goal. This Motivation i
       <Key>AMBSITH</Key>
       <Key>AMBENLIGHT</Key>
       <Key>AMBDISC</Key>
+    </SpecificMotivations>
+  </Motivation>
+  <Motivation>
+    <Key>BELIEF</Key>
+    <Name>Belief</Name>
+    <Description>
+		[H4]Belief[h4]
+
+A Player Character with a Motivation from this type is driven by a set of beliefs that form how he sees the galaxy and his role in it. He serves the Alliance because his beliefs support the goals of the Rebellion or are absolutely in contradiction with those of the Empire. He might not need to spread his beliefs to others, but he will epitomize those beliefs in word and deed, and he hopes that his beliefs will have a hand in building what will arise after the Empire falls.</Description>
+    <Source Page="105">Age of Rebellion Core Rulebook</Source>
+    <Custom>DescOnly</Custom>
+    <SpecificMotivations>
+      <Key>BELREPUBLIC</Key>
+      <Key>BELHONOR</Key>
+      <Key>BELFREEENT</Key>
+      <Key>BELTHEJEDI</Key>
+      <Key>BELJUSTICE</Key>
+      <Key>BELSPRIGHTS</Key>
+      <Key>BELPEACE</Key>
+      <Key>BELRELPHIL</Key>
+      <Key>BELLIBERTY</Key>
+      <Key>BELFREE</Key>
+      <Key>BELORDER</Key>
+      <Key>BELPROGRESS</Key>
+      <Key>BELFORCE</Key>
+      <Key>BELCRIME</Key>
     </SpecificMotivations>
   </Motivation>
   <Motivation>
@@ -68,132 +94,46 @@ Where the Ambition Motivation deals with an internal drive, the Cause Motivation
     </SpecificMotivations>
   </Motivation>
   <Motivation>
-    <Key>REL</Key>
-    <Name>Relationship</Name>
-    <Description>[H4]Relationship[h4]
-
-This Motivation focuses on a character's relationship with a specific person, creature, or even place. The relationship could be loving, respectful, and nurturing or antagonistic, competitive, or one-sided. The character looks out for the subject's best interests and will set aside his own needs to help when needed. This Motivation could be deeply personal or highly public.</Description>
-    <Source Page="96">Edge of the Empire Core Rulebook</Source>
+    <Key>CHALLENGE</Key>
+    <Name>Challenges</Name>
+    <Description>[H4]Challenges[h4]
+A Warrior is defined by the ability and willingness to fight. It is in the Warrior's nature to rise to challenges, and these challenges test the Warrior's mettle and hone their skills. It is by seeking out and overcoming challenges that a Warrior improves. The challenges a Warrior faces are not all on a battle field, but a Warrior approaches challenges of every type with the same determination and zeal.</Description>
+    <Source Page="32">Knights of Fate</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
-      <Key>RELORIGIN</Key>
-      <Key>RELPET</Key>
-      <Key>RELFRIEND</Key>
-      <Key>RELCOMRADES</Key>
-      <Key>RELSIB</Key>
-      <Key>RELMENTOR</Key>
-      <Key>RELPARENTS</Key>
-      <Key>RELFAMILY</Key>
-      <Key>RELDROID</Key>
-      <Key>RELNEMESIS</Key>
-      <Key>RELLOCALCIV</Key>
-      <Key>RELLOVER</Key>
-      <Key>RELRIVAL</Key>
-      <Key>RELTECH</Key>
+      <Key>CHALLENGE1</Key>
+      <Key>CHALLENGE2</Key>
+      <Key>CHALLENGE3</Key>
+      <Key>CHALLENGE4</Key>
+      <Key>CHALLENGE5</Key>
+      <Key>CHALLENGE6</Key>
+      <Key>CHALLENGE7</Key>
+      <Key>CHALLENGE8</Key>
+      <Key>CHALLENGE9</Key>
+      <Key>CHALLENGE10</Key>
     </SpecificMotivations>
   </Motivation>
   <Motivation>
-    <Key>BELIEF</Key>
-    <Name>Belief</Name>
+    <Key>CODE</Key>
+    <Name>Code</Name>
     <Description>
-		[H4]Belief[h4]
-
-A Player Character with a Motivation from this type is driven by a set of beliefs that form how he sees the galaxy and his role in it. He serves the Alliance because his beliefs support the goals of the Rebellion or are absolutely in contradiction with those of the Empire. He might not need to spread his beliefs to others, but he will epitomize those beliefs in word and deed, and he hopes that his beliefs will have a hand in building what will arise after the Empire falls.</Description>
-    <Source Page="105">Age of Rebellion Core Rulebook</Source>
+      [H4]Code[h4]
+The Motivations presented in the [B]Edge of the Empire[b] Core Rulebook necessarily cover as broad a spectrum as possible in an effort to serve the careers presented in [B]Chapter II[b]. For those players looking for a more tailored approach, [B]No Disintegrations[b] presents a number of Motivations designed specifically with Bounty Hunters in mind, called Codes.</Description>
+    <Source Page="37">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
-      <Key>BELREPUBLIC</Key>
-      <Key>BELHONOR</Key>
-      <Key>BELFREEENT</Key>
-      <Key>BELTHEJEDI</Key>
-      <Key>BELJUSTICE</Key>
-      <Key>BELSPRIGHTS</Key>
-      <Key>BELPEACE</Key>
-      <Key>BELRELPHIL</Key>
-      <Key>BELLIBERTY</Key>
-      <Key>BELFREE</Key>
-      <Key>BELORDER</Key>
-      <Key>BELPROGRESS</Key>
-      <Key>BELFORCE</Key>
-      <Key>BELCRIME</Key>
+      <Key>CODEPAID</Key>
+      <Key>CODEFINISH</Key>
+      <Key>CODELIVE</Key>
+      <Key>CODENEVER</Key>
+      <Key>CODECOLL</Key>
+      <Key>CODEQUIET</Key>
+      <Key>CODEREP</Key>
+      <Key>CODERULE</Key>
+      <Key>CODESURV</Key>
+      <Key>CODESCORE</Key>
     </SpecificMotivations>
   </Motivation>
-  <Motivation>
-    <Key>CONNECT</Key>
-    <Name>Connections</Name>
-    <Description>
-      [H4]Connections[h4]
-
-The Player Character has some kind of connection or relationship to the Alliance that draws him to its cause. He might not have had any desire to fight in the Rebellion otherwise, joining only because the Connection he is tied to is a part of it or because serving the Alliance somehow enhances the Connection. Over time, his commitment to the Rebellion could become more personally ingrained, but it all begins with the desires or influences of another.</Description>
-    <Source Page="106">Age of Rebellion Core Rulebook</Source>
-    <Custom>DescOnly</Custom>
-    <SpecificMotivations>
-      <Key>CONPOLITICAL</Key>
-      <Key>CONFAMILY</Key>
-      <Key>CONMILITARY</Key>
-      <Key>CONINTEL</Key>
-      <Key>CONFRIENDS</Key>
-      <Key>CONUNDERWORLD</Key>
-      <Key>CONECON</Key>
-      <Key>CONRIVAL</Key>
-      <Key>CONNOONE</Key>
-      <Key>CONRESCUE</Key>
-      <Key>CONEMPIRE</Key>
-      <Key>CONLOVE</Key>
-    </SpecificMotivations>
-  </Motivation>
-  <Motivation>
-    <Key>QUEST</Key>
-    <Name>Quest</Name>
-    <Description>
-      [H4]Quest[h4]
-
-A Player Character with this type of Motivation seeks something specific from his participation in the Rebel-lion. He joined as a means to complete his Quest, and he believes that serving the Alliance or defeating the Empire will result in the achievement of his ultimate goal. Some Quests have a specific object or person that is the target, while others are more open-ended and may never be fully complete. The quest might be the primary drive for the PC, yet he could also come to embrace the larger goals of the Rebellion as equally important, or perhaps ascendant over his own needs. </Description>
-    <Source Page="106">Age of Rebellion Core Rulebook</Source>
-    <Custom>DescOnly</Custom>
-    <SpecificMotivations>
-      <Key>QUEREDEM</Key>
-      <Key>QUEGLORY</Key>
-      <Key>QUEVENG</Key>
-      <Key>QUEINFLU</Key>
-      <Key>QUERESCUE</Key>
-      <Key>QUEJEDI</Key>
-      <Key>QUEFREEDOM</Key>
-      <Key>QUETREAS</Key>
-      <Key>QUETHRILL</Key>
-      <Key>QUEPURPOSE</Key>
-      <Key>QUERICHES</Key>
-      <Key>QUESITH</Key>
-    </SpecificMotivations>
-  </Motivation>
-  <!-- Enter the Unknown -->
-  <Motivation>
-    <Key>DISCOVERY</Key>
-    <Name>Discovery</Name>
-    <Description>
-      [H4]Discovery[h4]
-
-What drives an Explorer? What sends someone from the relative comfort and security of civilization into the vast void of space? What commits him to delving into the hidden places to seek that which has been lost? What moves him to hunt the most dangerous creatures ever encountered? What compels him to grab the stick of a pile of bolts, plastics, and rusted metal and push the machine beyond its breaking point over the most treacherous terrain imaginable? 
-
-[P]Explorers often have at the core of their very being an unyielding passion for Discovery: the powerful call to find something out there in the galaxy is their true Motivation. An Explorer may wish to discover the limits of a machine, the capabilities of an infamous beast, the lost secrets of an ancient civilization, the mercantile potential of a hidden society, the resources of a newly discovered planet, or the uncounted opportunities among the limitless stars. 
-
-[P]Often, what happens after making a Discovery is far less important than the journey to make it in the first place. Explorers regularly turn the task of exploiting and managing their Discoveries over to others (though usually at a tidy profit to themselves). Staying put is anathema to the Explorer; there are always new Discoveries out there waiting for him.</Description>
-    <Source Page="31">Enter the Unknown</Source>
-    <Custom>DescOnly</Custom>
-    <SpecificMotivations>
-      <Key>DISCOVERYSM1</Key>
-      <Key>DISCOVERYSM2</Key>
-      <Key>DISCOVERYSM3</Key>
-      <Key>DISCOVERYSM4</Key>
-      <Key>DISCOVERYSM5</Key>
-      <Key>DISCOVERYSM6</Key>
-      <Key>DISCOVERYSM7</Key>
-      <Key>DISCOVERYSM8</Key>
-      <Key>DISCOVERYSM9</Key>
-      <Key>DISCOVERYSM10</Key>
-    </SpecificMotivations>
-  </Motivation>
-  <!-- Dangerous Covenants -->
   <Motivation>
     <Key>CONFLICT</Key>
     <Name>Conflict</Name>
@@ -224,14 +164,38 @@ There are quite a few options for different Motivations found in the Core Rulebo
     </SpecificMotivations>
   </Motivation>
   <Motivation>
+    <Key>CONNECT</Key>
+    <Name>Connections</Name>
+    <Description>
+      [H4]Connections[h4]
+
+The Player Character has some kind of connection or relationship to the Alliance that draws him to its cause. He might not have had any desire to fight in the Rebellion otherwise, joining only because the Connection he is tied to is a part of it or because serving the Alliance somehow enhances the Connection. Over time, his commitment to the Rebellion could become more personally ingrained, but it all begins with the desires or influences of another.</Description>
+    <Source Page="106">Age of Rebellion Core Rulebook</Source>
+    <Custom>DescOnly</Custom>
+    <SpecificMotivations>
+      <Key>CONPOLITICAL</Key>
+      <Key>CONFAMILY</Key>
+      <Key>CONMILITARY</Key>
+      <Key>CONINTEL</Key>
+      <Key>CONFRIENDS</Key>
+      <Key>CONUNDERWORLD</Key>
+      <Key>CONECON</Key>
+      <Key>CONRIVAL</Key>
+      <Key>CONNOONE</Key>
+      <Key>CONRESCUE</Key>
+      <Key>CONEMPIRE</Key>
+      <Key>CONLOVE</Key>
+    </SpecificMotivations>
+  </Motivation>
+  <Motivation>
     <Key>CREATION</Key>
     <Name>Creations</Name>
     <Description>
       [H4]Creations[h4]
 
-Survival is always the first thing on every Colonist's mind—self-preservation, of course, but also survival of the colony. Even the most independent and self-sufficient Colonists need to be able to go into town for replacement parts. However, beyond those immediate concerns, there are often deeper-seeded motivations, things that could explain why a Colonist left what might have been a comfortable life on a Core world. 
+Survival is always the first thing on every Colonist's mind—self-preservation, of course, but also survival of the colony. Even the most independent and self-sufficient Colonists need to be able to go into town for replacement parts. However, beyond those immediate concerns, there are often deeper-seeded motivations, things that could explain why a Colonist left what might have been a comfortable life on a Core world.
 
-[P]The truth is that life in the Core is regulated. The most available jobs are in lower management, desk-riding, or menial labor. There are few jobs that allow for much sense of expression or accomplishment. The wide open spaces of the Rim are different. Life is harder, but a Colonist can create something new for himself and his fellows. 
+[P]The truth is that life in the Core is regulated. The most available jobs are in lower management, desk-riding, or menial labor. There are few jobs that allow for much sense of expression or accomplishment. The wide open spaces of the Rim are different. Life is harder, but a Colonist can create something new for himself and his fellows.
 
 [P]At their hearts, most Colonists are creative. The Entrepreneur, Politico, and Performer are especially creative, incorporating art and creativity into their daily lives. Many Scholars use scientific research and their knowledge of the past to dream up bright new futures they hope to help create. Doctors, like Entrepreneurs, are forced to be creative in their problem solving, trying to keep everyone healthy with minimal supplies or come up with new ways to treat maladies. The Marshal, as an individual, can have just as big a creative drive as anyone, but in his work, he first and foremost seeks to create a peaceful environment for his fellow Colonists to pursue their creative efforts.</Description>
     <Source Page="34">Far Horizons</Source>
@@ -247,64 +211,16 @@ Survival is always the first thing on every Colonist's mind—self-preservation,
       <Key>CREATIONSM8</Key>
     </SpecificMotivations>
   </Motivation>
-  <!-- Force and Destiny -->
-  <Motivation>
-    <Key>FAITH</Key>
-    <Name>Faith</Name>
-    <Description>
-      [H4]Faith[h4]
 
-Characters who select this Motivation have a deep and abiding trust in some recurring facet of galactic existence. They dedicate their lives to spreading this belief, in the hope that they can bring other beings to come to a similar understanding. In many cases. their proselytization becomes a central focus. In other cases, spreading their belief is far less important than simply reveling in it.</Description>
-    <Source Page="105">Force and Destiny Core Rulebook</Source>
-    <Custom>DescOnly</Custom>
-    <SpecificMotivations>
-      <Key>FAINAT</Key>
-      <Key>FAIGOODPEOP</Key>
-      <Key>FAIFRIENDFAM</Key>
-      <Key>FAICOSMICFOR</Key>
-      <Key>FAISCIENCE</Key>
-      <Key>FAIJEDICODE</Key>
-      <Key>FAIIMPRULE</Key>
-      <Key>FAIREBELLION</Key>
-      <Key>FAIRELCODE</Key>
-      <Key>FAINOTHING</Key>
-    </SpecificMotivations>
-  </Motivation>
-  <Motivation>
-    <Key>REWARD</Key>
-    <Name>Reward</Name>
-    <Description>
-      [H4]Reward[h4]
-
-Smugglers come in all shapes, sizes, colors, and creeds, but something they all have in common is the need for a Reward. It is in the nature of the job; the Smuggler moves the goods, and then he gets paid. The Reward is what drives him to risk his neck, transporting volatile cargo for dangerous people, dodging Imperial interference, and avoiding other trouble. A Smuggler's life keeps him on the edge of his seat, always one slip away from capture or worse. It's not an easy life, and he's only in it for the Reward. 
-
-[P]Of course, smuggling jobs are rarely as simple as they first seem, and neither are the people who choose such an unpredictable career. The Smuggler's real motivation, the Reward he really wants, may not be as straightforward as monetary payment. He might wish to earn respect or help his family, or perhaps he finds excitement of the job its own reward. Any Smuggler needs to receive payment occasionally—he has to keep his ship space-worthy somehow after all—but often there is another, equally pressing goal driving all he does. From the Pilot who wants to break the record for the fastest ship to win the Blockade Runner's Derby to the Charmer who just wants to meet new people to the Gambler who genuinely is only in it for the money, the particular Reward that drives a Smuggler reveals a lot about his character. 
-
-[P]The Smuggler's Motivation can also cast a new light on his background, and it plays a part in deter-mining how he might interact with others in a party. A Smuggler motivated by Independence may not like relying on other characters and find making group decisions difficult. On the other hand, a Smuggler motivated by Esteem will likely go out of his way to help his colleagues.</Description>
-    <Source Page="34">Fly Casual</Source>
-    <Custom>DescOnly</Custom>
-    <SpecificMotivations>
-      <Key>REWARDSM1</Key>
-      <Key>REWARDSM2</Key>
-      <Key>REWARDSM3</Key>
-      <Key>REWARDSM4</Key>
-      <Key>REWARDSM5</Key>
-      <Key>REWARDSM6</Key>
-      <Key>REWARDSM7</Key>
-      <Key>REWARDSM8</Key>
-      <Key>REWARDSM9</Key>
-      <Key>REWARDSM10</Key>
-    </SpecificMotivations>
-  </Motivation>
   <Motivation>
     <Key>CREED</Key>
     <Name>Creed</Name>
     <Description>
       [H4]Creed[h4]
 
-Diplomats play many roles in the Rebel Alliance, including leaders, motivators, and facilitators. Their words and actions stir comrades to action, guiding them in the right direction. Diplomats articulate the reasons for the Rebellion's existence, and they direct the Rebellion's success. Anyone can make an impassioned speech, but a Diplomat makes speeches that move hearts, minds, servos, and starships. 
+Diplomats play many roles in the Rebel Alliance, including leaders, motivators, and facilitators. Their words and actions stir comrades to action, guiding them in the right direction. Diplomats articulate the reasons for the Rebellion's existence, and they direct the Rebellion's success. Anyone can make an impassioned speech, but a Diplomat makes speeches that move hearts, minds, servos, and starships.
 
-[P]A Diplomat's Motivation is the source of the passion and counsel he shares. Where other Player Characters may be driven by vague ideals or desires, a Diplomat sometimes possesses the self-awareness to express his Motivation as a Creed, a singular thought that becomes his goal to enforce or espouse. This concept is entwined with the core of the character, inseparable from his identity. Even though the character may experience conflicting emotions and find predicaments that cause him to question his values, at the end of the day, his Creed is the code he lives by. 
+[P]A Diplomat's Motivation is the source of the passion and counsel he shares. Where other Player Characters may be driven by vague ideals or desires, a Diplomat sometimes possesses the self-awareness to express his Motivation as a Creed, a singular thought that becomes his goal to enforce or espouse. This concept is entwined with the core of the character, inseparable from his identity. Even though the character may experience conflicting emotions and find predicaments that cause him to question his values, at the end of the day, his Creed is the code he lives by.
 
 [P]Unlike other types of Motivation, the concrete nature of Creeds and the articulate nature of the Diplomat enable a character to express his Creed directly in words. Players should look for opportunities for their characters to mention their Creeds to others or proclaim their Creeds when the pressure is on. Of course, a character might instead opt to keep his Creed to himself; to some, such matters are very personal.</Description>
     <Source Page="36">Desperate Allies</Source>
@@ -323,28 +239,32 @@ Diplomats play many roles in the Rebel Alliance, including leaders, motivators, 
     </SpecificMotivations>
   </Motivation>
   <Motivation>
-    <Key>OATH</Key>
-    <Name>Oath</Name>
+    <Key>DISCOVERY</Key>
+    <Name>Discovery</Name>
     <Description>
-      [H4]Oath[h4]
-[P]Any being can be motivated by a belief or desire, but a Guardian is a special kind of person - one who puts preservation first, and often acts in the interests of others. In this case, sometimes a Guardian's driving force is represented by a promise that the Guardian has made, an oath of allegiance or fealty to a specific person, institution or concept.
-[P]A Guardian with an Oath always acts with this promise in mind, and defying it or subverting it weighs heavily on the character's mind. In rare cases, a Guardian might even strive to uphold an Oath against the express wishes of the person or organization the pledge represents.     
-</Description>
-    <Source Page="32">Keeping the Peace</Source>
+      [H4]Discovery[h4]
+
+What drives an Explorer? What sends someone from the relative comfort and security of civilization into the vast void of space? What commits him to delving into the hidden places to seek that which has been lost? What moves him to hunt the most dangerous creatures ever encountered? What compels him to grab the stick of a pile of bolts, plastics, and rusted metal and push the machine beyond its breaking point over the most treacherous terrain imaginable?
+
+[P]Explorers often have at the core of their very being an unyielding passion for Discovery: the powerful call to find something out there in the galaxy is their true Motivation. An Explorer may wish to discover the limits of a machine, the capabilities of an infamous beast, the lost secrets of an ancient civilization, the mercantile potential of a hidden society, the resources of a newly discovered planet, or the uncounted opportunities among the limitless stars.
+
+[P]Often, what happens after making a Discovery is far less important than the journey to make it in the first place. Explorers regularly turn the task of exploiting and managing their Discoveries over to others (though usually at a tidy profit to themselves). Staying put is anathema to the Explorer; there are always new Discoveries out there waiting for him.</Description>
+    <Source Page="31">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
-      <Key>OATHJUSTICE</Key>
-      <Key>OATHLEGACY</Key>
-      <Key>OATHLIFE</Key>
-      <Key>OATHREPUB</Key>
-      <Key>OATHBALANCE</Key>
-      <Key>OATHLOVE</Key>
-      <Key>OATHHOME</Key>
-      <Key>OATHDEPART</Key>
-      <Key>OATHSPECIES</Key>
-      <Key>OATHWARD</Key>
+      <Key>DISCOVERYSM1</Key>
+      <Key>DISCOVERYSM2</Key>
+      <Key>DISCOVERYSM3</Key>
+      <Key>DISCOVERYSM4</Key>
+      <Key>DISCOVERYSM5</Key>
+      <Key>DISCOVERYSM6</Key>
+      <Key>DISCOVERYSM7</Key>
+      <Key>DISCOVERYSM8</Key>
+      <Key>DISCOVERYSM9</Key>
+      <Key>DISCOVERYSM10</Key>
     </SpecificMotivations>
   </Motivation>
+
   <Motivation>
     <Key>DRIVE</Key>
     <Name>Drive</Name>
@@ -373,6 +293,114 @@ Core Rulebook.</Description>
       <Key>DRIVEEGO</Key>
       <Key>DRIVERETIRE</Key>
       <Key>DRIVESPIRIT</Key>
+    </SpecificMotivations>
+  </Motivation>
+  <Motivation>
+    <Key>FAITH</Key>
+    <Name>Faith</Name>
+    <Description>
+      [H4]Faith[h4]
+
+Characters who select this Motivation have a deep and abiding trust in some recurring facet of galactic existence. They dedicate their lives to spreading this belief, in the hope that they can bring other beings to come to a similar understanding. In many cases. their proselytization becomes a central focus. In other cases, spreading their belief is far less important than simply reveling in it.</Description>
+    <Source Page="105">Force and Destiny Core Rulebook</Source>
+    <Custom>DescOnly</Custom>
+    <SpecificMotivations>
+      <Key>FAINAT</Key>
+      <Key>FAIGOODPEOP</Key>
+      <Key>FAIFRIENDFAM</Key>
+      <Key>FAICOSMICFOR</Key>
+      <Key>FAISCIENCE</Key>
+      <Key>FAIJEDICODE</Key>
+      <Key>FAIIMPRULE</Key>
+      <Key>FAIREBELLION</Key>
+      <Key>FAIRELCODE</Key>
+      <Key>FAINOTHING</Key>
+    </SpecificMotivations>
+  </Motivation>
+  <Motivation>
+    <Key>GROWTH</Key>
+    <Name>Growth</Name>
+    <Description>
+      [H4]Growth[h4]
+Consulars reject complacency, striving to make themselves and their surroundings better than they were the day before. This drive for improvement can manifest itself in many ways, from self-improvement to helping feuding families resolve their differences. Other Consulars take a broader view and work toward nothing less than galactic peace.
+[P]In some instances, the desire not just for their own growth, but that of the party, might run counter to the goals of allied characters. This can create some intra-party tension and conflict, which the Consular is uniquely equipped to resolve peacefully. Still, it is important to note that Consulars with the Growth Motivation may put it ahead of more immediate concerns, or even initiate debates over compromised ideals at inopportune moments.</Description>
+    <Source Page="31">Disciples of Harmony</Source>
+    <Custom>DescOnly</Custom>
+    <SpecificMotivations>
+      <Key>GROWTH1</Key>
+      <Key>GROWTH2</Key>
+      <Key>GROWTH3</Key>
+      <Key>GROWTH4</Key>
+      <Key>GROWTH5</Key>
+      <Key>GROWTH6</Key>
+      <Key>GROWTH7</Key>
+      <Key>GROWTH8</Key>
+      <Key>GROWTH9</Key>
+      <Key>GROWTH10</Key>
+    </SpecificMotivations>
+  </Motivation>
+  <Motivation>
+    <Key>IMPROVE</Key>
+    <Name>Improvements</Name>
+    <Description>
+      [H4]Improvements[h4]
+For Engineers, there is nothing that cannot be improved with a bit of thought and effort. This conviction reinforces many in striving toward ending the Empire and replacing it with improved governance. The technological impetus carries over into the personal lives of most Engineers as well. Motivations related to these concepts help to determine why Engineers joined the Alliance and how they behave in combat and social challenges.
+    </Description>
+    <Source Page="31">Fully Operational</Source>
+    <Custom>DescOnly</Custom>
+    <SpecificMotivations>
+      <Key>IMPROVE1</Key>
+      <Key>IMPROVE2</Key>
+      <Key>IMPROVE3</Key>
+      <Key>IMPROVE4</Key>
+      <Key>IMPROVE5</Key>
+      <Key>IMPROVE6</Key>
+      <Key>IMPROVE7</Key>
+      <Key>IMPROVE8</Key>
+      <Key>IMPROVE9</Key>
+      <Key>IMPROVE10</Key>
+    </SpecificMotivations>
+  </Motivation>
+  <Motivation>
+    <Key>INJUSTICE</Key>
+    <Name>Injustice</Name>
+    <Description>
+      [H4]Injustice[h4]
+Similar to the Cause category of Motivation as presented in the [B]Force and Destiny[b] Core Rulebook, the new Injustice category represents social ills that motivate Sentinels. Unlike Causes, which can span worlds, Injustices (at least in the context of a Sentinel's Motivation) are less broad and affect a specific and known population. Injustices are abstract as a concept, but specific instances are concrete, as there is always a group of people suffering from the injustice.</Description>
+    <Source Page="32">Endless Vigil</Source>
+    <Custom>DescOnly</Custom>
+    <SpecificMotivations>
+      <Key>INJUSTICE1</Key>
+      <Key>INJUSTICE2</Key>
+      <Key>INJUSTICE3</Key>
+      <Key>INJUSTICE4</Key>
+      <Key>INJUSTICE5</Key>
+      <Key>INJUSTICE6</Key>
+      <Key>INJUSTICE7</Key>
+      <Key>INJUSTICE8</Key>
+      <Key>INJUSTICE9</Key>
+      <Key>INJUSTICE10</Key>
+    </SpecificMotivations>
+  </Motivation>
+  <Motivation>
+    <Key>INNOV</Key>
+    <Name>Innovation</Name>
+    <Description>
+      [H4]Innovation[h4]
+The [B]Edge of the Empire[b] Core Rulebook includes many Motivations, broken up into three categories: Ambition, Causes, and Relationships. [B]Special Modifications[b] adds a new, Technician-centric list of Motivations called Innovations. Though this category and its entries were created specifically for Technicians, characters of other careers may also use Innovation at the GM's discretion.</Description>
+    <Source Page="36">Special Modifications</Source>
+    <Custom>DescOnly</Custom>
+    <SpecificMotivations>
+      <Key>INNOVFAB</Key>
+      <Key>INNOVINV</Key>
+      <Key>INNOVMOD</Key>
+      <Key>INNOVIMP</Key>
+      <Key>INNOVWASTE</Key>
+      <Key>INNOVTECHFASC</Key>
+      <Key>INNOVTECHBUS</Key>
+      <Key>INNOVTECHHIST</Key>
+      <Key>INNOVTECHNECESS</Key>
+      <Key>INNOVTECHRIVAL</Key>
     </SpecificMotivations>
   </Motivation>
   <Motivation>
@@ -530,24 +558,47 @@ Weik is a fierce and untamed wilderness world, located in Wild Space far from es
     </SpecificMotivations>
   </Motivation>
   <Motivation>
-    <Key>INNOV</Key>
-    <Name>Innovation</Name>
-    <Description>
-      [H4]Innovation[h4]
-The [B]Edge of the Empire[b] Core Rulebook includes many Motivations, broken up into three categories: Ambition, Causes, and Relationships. [B]Special Modifications[b] adds a new, Technician-centric list of Motivations called Innovations. Though this category and its entries were created specifically for Technicians, characters of other careers may also use Innovation at the GM's discretion.</Description>
-    <Source Page="36">Special Modifications</Source>
+    <Key>MYSTERY</Key>
+    <Name>Mysteries</Name>
+    <Description>[H4]Mysteries[h4]
+
+Any being can be motivated by their ambition or a cause, but a Mystic tends to be deeply interested in the most fundamental mysteries of their universe. They want to understand their world on a profound, even instinctual level, and often eschew worldly things for such knowledge. Sometimes they seek answers to these mysteries for personal growth and enlightenment. Sometimes they seek them for power. And sometimes, as they seek one, they find the other as well.</Description>
+    <Source Page="34">Unlimited Power</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
-      <Key>INNOVFAB</Key>
-      <Key>INNOVINV</Key>
-      <Key>INNOVMOD</Key>
-      <Key>INNOVIMP</Key>
-      <Key>INNOVWASTE</Key>
-      <Key>INNOVTECHFASC</Key>
-      <Key>INNOVTECHBUS</Key>
-      <Key>INNOVTECHHIST</Key>
-      <Key>INNOVTECHNECESS</Key>
-      <Key>INNOVTECHRIVAL</Key>
+      <Key>MYSTERY1</Key>
+      <Key>MYSTERY2</Key>
+      <Key>MYSTERY3</Key>
+      <Key>MYSTERY4</Key>
+      <Key>MYSTERY5</Key>
+      <Key>MYSTERY6</Key>
+      <Key>MYSTERY7</Key>
+      <Key>MYSTERY8</Key>
+      <Key>MYSTERY9</Key>
+      <Key>MYSTERY10</Key>
+    </SpecificMotivations>
+  </Motivation>
+  <Motivation>
+    <Key>OATH</Key>
+    <Name>Oath</Name>
+    <Description>
+      [H4]Oath[h4]
+[P]Any being can be motivated by a belief or desire, but a Guardian is a special kind of person - one who puts preservation first, and often acts in the interests of others. In this case, sometimes a Guardian's driving force is represented by a promise that the Guardian has made, an oath of allegiance or fealty to a specific person, institution or concept.
+[P]A Guardian with an Oath always acts with this promise in mind, and defying it or subverting it weighs heavily on the character's mind. In rare cases, a Guardian might even strive to uphold an Oath against the express wishes of the person or organization the pledge represents.
+</Description>
+    <Source Page="32">Keeping the Peace</Source>
+    <Custom>DescOnly</Custom>
+    <SpecificMotivations>
+      <Key>OATHJUSTICE</Key>
+      <Key>OATHLEGACY</Key>
+      <Key>OATHLIFE</Key>
+      <Key>OATHREPUB</Key>
+      <Key>OATHBALANCE</Key>
+      <Key>OATHLOVE</Key>
+      <Key>OATHHOME</Key>
+      <Key>OATHDEPART</Key>
+      <Key>OATHSPECIES</Key>
+      <Key>OATHWARD</Key>
     </SpecificMotivations>
   </Motivation>
   <Motivation>
@@ -573,130 +624,79 @@ Seekers are often driven individuals and their Motivations might dominate their 
     </SpecificMotivations>
   </Motivation>
   <Motivation>
-    <Key>INJUSTICE</Key>
-    <Name>Injustice</Name>
+    <Key>QUEST</Key>
+    <Name>Quest</Name>
     <Description>
-      [H4]Injustice[h4]
-Similar to the Cause category of Motivation as presented in the [B]Force and Destiny[b] Core Rulebook, the new Injustice category represents social ills that motivate Sentinels. Unlike Causes, which can span worlds, Injustices (at least in the context of a Sentinel's Motivation) are less broad and affect a specific and known population. Injustices are abstract as a concept, but specific instances are concrete, as there is always a group of people suffering from the injustice.</Description>
-    <Source Page="32">Endless Vigil</Source>
-    <Custom>DescOnly</Custom>
-    <SpecificMotivations>
-      <Key>INJUSTICE1</Key>
-      <Key>INJUSTICE2</Key>
-      <Key>INJUSTICE3</Key>
-      <Key>INJUSTICE4</Key>
-      <Key>INJUSTICE5</Key>
-      <Key>INJUSTICE6</Key>
-      <Key>INJUSTICE7</Key>
-      <Key>INJUSTICE8</Key>
-      <Key>INJUSTICE9</Key>
-      <Key>INJUSTICE10</Key>
-    </SpecificMotivations>
-  </Motivation>
-  <Motivation>
-    <Key>CODE</Key>
-    <Name>Code</Name>
-    <Description>
-      [H4]Code[h4]
-The Motivations presented in the [B]Edge of the Empire[b] Core Rulebook necessarily cover as broad a spectrum as possible in an effort to serve the careers presented in [B]Chapter II[b]. For those players looking for a more tailored approach, [B]No Disintegrations[b] presents a number of Motivations designed specifically with Bounty Hunters in mind, called Codes.</Description>
-    <Source Page="37">No Disintegrations</Source>
-    <Custom>DescOnly</Custom>
-    <SpecificMotivations>
-      <Key>CODEPAID</Key>
-      <Key>CODEFINISH</Key>
-      <Key>CODELIVE</Key>
-      <Key>CODENEVER</Key>
-      <Key>CODECOLL</Key>
-      <Key>CODEQUIET</Key>
-      <Key>CODEREP</Key>
-      <Key>CODERULE</Key>
-      <Key>CODESURV</Key>
-      <Key>CODESCORE</Key>
-    </SpecificMotivations>
-  </Motivation>
-  <Motivation>
-    <Key>GROWTH</Key>
-    <Name>Growth</Name>
-    <Description>
-      [H4]Growth[h4]
-Consulars reject complacency, striving to make themselves and their surroundings better than they were the day before. This drive for improvement can manifest itself in many ways, from self-improvement to helping feuding families resolve their differences. Other Consulars take a broader view and work toward nothing less than galactic peace.
-[P]In some instances, the desire not just for their own growth, but that of the party, might run counter to the goals of allied characters. This can create some intra-party tension and conflict, which the Consular is uniquely equipped to resolve peacefully. Still, it is important to note that Consulars with the Growth Motivation may put it ahead of more immediate concerns, or even initiate debates over compromised ideals at inopportune moments.</Description>
-    <Source Page="31">Disciples of Harmony</Source>
-    <Custom>DescOnly</Custom>
-    <SpecificMotivations>
-      <Key>GROWTH1</Key>
-      <Key>GROWTH2</Key>
-      <Key>GROWTH3</Key>
-      <Key>GROWTH4</Key>
-      <Key>GROWTH5</Key>
-      <Key>GROWTH6</Key>
-      <Key>GROWTH7</Key>
-      <Key>GROWTH8</Key>
-      <Key>GROWTH9</Key>
-      <Key>GROWTH10</Key>
-    </SpecificMotivations>
-  </Motivation>
-  <Motivation>
-    <Key>IMPROVE</Key>
-    <Name>Improvements</Name>
-    <Description>
-      [H4]Improvements[h4]
-For Engineers, there is nothing that cannot be improved with a bit of thought and effort. This conviction reinforces many in striving toward ending the Empire and replacing it with improved governance. The technological impetus carries over into the personal lives of most Engineers as well. Motivations related to these concepts help to determine why Engineers joined the Alliance and how they behave in combat and social challenges.
-    </Description>
-    <Source Page="31">Fully Operational</Source>
-    <Custom>DescOnly</Custom>
-    <SpecificMotivations>
-      <Key>IMPROVE1</Key>
-      <Key>IMPROVE2</Key>
-      <Key>IMPROVE3</Key>
-      <Key>IMPROVE4</Key>
-      <Key>IMPROVE5</Key>
-      <Key>IMPROVE6</Key>
-      <Key>IMPROVE7</Key>
-      <Key>IMPROVE8</Key>
-      <Key>IMPROVE9</Key>
-      <Key>IMPROVE10</Key>
-    </SpecificMotivations>
-  </Motivation>
-  <Motivation>
-    <Key>MYSTERY</Key>
-    <Name>Mysteries</Name>
-    <Description>[H4]Mysteries[h4]
+      [H4]Quest[h4]
 
-Any being can be motivated by their ambition or a cause, but a Mystic tends to be deeply interested in the most fundamental mysteries of their universe. They want to understand their world on a profound, even instinctual level, and often eschew worldly things for such knowledge. Sometimes they seek answers to these mysteries for personal growth and enlightenment. Sometimes they seek them for power. And sometimes, as they seek one, they find the other as well.</Description>
-    <Source Page="34">Unlimited Power</Source>
+A Player Character with this type of Motivation seeks something specific from his participation in the Rebel-lion. He joined as a means to complete his Quest, and he believes that serving the Alliance or defeating the Empire will result in the achievement of his ultimate goal. Some Quests have a specific object or person that is the target, while others are more open-ended and may never be fully complete. The quest might be the primary drive for the PC, yet he could also come to embrace the larger goals of the Rebellion as equally important, or perhaps ascendant over his own needs. </Description>
+    <Source Page="106">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
-      <Key>MYSTERY1</Key>
-      <Key>MYSTERY2</Key>
-      <Key>MYSTERY3</Key>
-      <Key>MYSTERY4</Key>
-      <Key>MYSTERY5</Key>
-      <Key>MYSTERY6</Key>
-      <Key>MYSTERY7</Key>
-      <Key>MYSTERY8</Key>
-      <Key>MYSTERY9</Key>
-      <Key>MYSTERY10</Key>
+      <Key>QUEREDEM</Key>
+      <Key>QUEGLORY</Key>
+      <Key>QUEVENG</Key>
+      <Key>QUEINFLU</Key>
+      <Key>QUERESCUE</Key>
+      <Key>QUEJEDI</Key>
+      <Key>QUEFREEDOM</Key>
+      <Key>QUETREAS</Key>
+      <Key>QUETHRILL</Key>
+      <Key>QUEPURPOSE</Key>
+      <Key>QUERICHES</Key>
+      <Key>QUESITH</Key>
+    </SpecificMotivations>
+  </Motivation>
+
+  <Motivation>
+    <Key>REL</Key>
+    <Name>Relationship</Name>
+    <Description>[H4]Relationship[h4]
+
+This Motivation focuses on a character's relationship with a specific person, creature, or even place. The relationship could be loving, respectful, and nurturing or antagonistic, competitive, or one-sided. The character looks out for the subject's best interests and will set aside his own needs to help when needed. This Motivation could be deeply personal or highly public.</Description>
+    <Source Page="96">Edge of the Empire Core Rulebook</Source>
+    <Custom>DescOnly</Custom>
+    <SpecificMotivations>
+      <Key>RELORIGIN</Key>
+      <Key>RELPET</Key>
+      <Key>RELFRIEND</Key>
+      <Key>RELCOMRADES</Key>
+      <Key>RELSIB</Key>
+      <Key>RELMENTOR</Key>
+      <Key>RELPARENTS</Key>
+      <Key>RELFAMILY</Key>
+      <Key>RELDROID</Key>
+      <Key>RELNEMESIS</Key>
+      <Key>RELLOCALCIV</Key>
+      <Key>RELLOVER</Key>
+      <Key>RELRIVAL</Key>
+      <Key>RELTECH</Key>
     </SpecificMotivations>
   </Motivation>
   <Motivation>
-    <Key>CHALLENGE</Key>
-    <Name>Challenges</Name>
-    <Description>[H4]Challenges[h4]
-A Warrior is defined by the ability and willingness to fight. It is in the Warrior's nature to rise to challenges, and these challenges test the Warrior's mettle and hone their skills. It is by seeking out and overcoming challenges that a Warrior improves. The challenges a Warrior faces are not all on a battle field, but a Warrior approaches challenges of every type with the same determination and zeal.</Description>
-    <Source Page="32">Knights of Fate</Source>
+    <Key>REWARD</Key>
+    <Name>Reward</Name>
+    <Description>
+      [H4]Reward[h4]
+
+Smugglers come in all shapes, sizes, colors, and creeds, but something they all have in common is the need for a Reward. It is in the nature of the job; the Smuggler moves the goods, and then he gets paid. The Reward is what drives him to risk his neck, transporting volatile cargo for dangerous people, dodging Imperial interference, and avoiding other trouble. A Smuggler's life keeps him on the edge of his seat, always one slip away from capture or worse. It's not an easy life, and he's only in it for the Reward.
+
+[P]Of course, smuggling jobs are rarely as simple as they first seem, and neither are the people who choose such an unpredictable career. The Smuggler's real motivation, the Reward he really wants, may not be as straightforward as monetary payment. He might wish to earn respect or help his family, or perhaps he finds excitement of the job its own reward. Any Smuggler needs to receive payment occasionally—he has to keep his ship space-worthy somehow after all—but often there is another, equally pressing goal driving all he does. From the Pilot who wants to break the record for the fastest ship to win the Blockade Runner's Derby to the Charmer who just wants to meet new people to the Gambler who genuinely is only in it for the money, the particular Reward that drives a Smuggler reveals a lot about his character.
+
+[P]The Smuggler's Motivation can also cast a new light on his background, and it plays a part in deter-mining how he might interact with others in a party. A Smuggler motivated by Independence may not like relying on other characters and find making group decisions difficult. On the other hand, a Smuggler motivated by Esteem will likely go out of his way to help his colleagues.</Description>
+    <Source Page="34">Fly Casual</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
-      <Key>CHALLENGE1</Key>
-      <Key>CHALLENGE2</Key>
-      <Key>CHALLENGE3</Key>
-      <Key>CHALLENGE4</Key>
-      <Key>CHALLENGE5</Key>
-      <Key>CHALLENGE6</Key>
-      <Key>CHALLENGE7</Key>
-      <Key>CHALLENGE8</Key>
-      <Key>CHALLENGE9</Key>
-      <Key>CHALLENGE10</Key>
+      <Key>REWARDSM1</Key>
+      <Key>REWARDSM2</Key>
+      <Key>REWARDSM3</Key>
+      <Key>REWARDSM4</Key>
+      <Key>REWARDSM5</Key>
+      <Key>REWARDSM6</Key>
+      <Key>REWARDSM7</Key>
+      <Key>REWARDSM8</Key>
+      <Key>REWARDSM9</Key>
+      <Key>REWARDSM10</Key>
     </SpecificMotivations>
   </Motivation>
   <Motivation>

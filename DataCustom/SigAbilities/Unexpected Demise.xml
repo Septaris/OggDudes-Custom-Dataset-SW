@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<SigAbility xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<SigAbility>
   <Key>UNEXPECTEDDEMISE</Key>
   <Name>Unexpected Demise</Name>
   <Description>Once per session, as an action, the character may spend 2 Destiny Points and make a [B]Hard ([DI][DI][DI]) Perception check[b]. If successful, for the next two rounds the character may spend one maneuver to add on automatic [TR] to his next combat check made in that turn. In addition, for the next two rounds, when the character inflicts a Critical Injury on a rivel NPC, the target is immediately incapacitated in the same way as a minion NPC would be (see page 400 of the [B]Force and Destiny[b] Core Rulebook).</Description>

@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ForcePower>
   <Key>HEALHARM</Key>
   <Name>Heal/Harm</Name>
@@ -197,53 +197,7 @@ This power reflects a Force user's capacity to manipulate the living energy in t
         <Cost>15</Cost>
       </Costs>
     </AbilityRow>
-    <!--<AbilityRow>
-      <Index>0</Index>
-      <Abilities>
-        <Key />
-        <Key />
-        <Key>HEALHARMMAGNITUDE</Key>
-        <Key>HEALHARMMASTERY</Key>
-      </Abilities>
-      <Directions>
-        <Direction>
-          <Left>false</Left>
-          <Right>false</Right>
-          <Up>false</Up>
-          <Down>false</Down>
-        </Direction>
-        <Direction>
-          <Left>false</Left>
-          <Right>false</Right>
-          <Up>false</Up>
-          <Down>false</Down>
-        </Direction>
-        <Direction>
-          <Left>false</Left>
-          <Right>true</Right>
-          <Up>true</Up>
-          <Down>false</Down>
-        </Direction>
-        <Direction>
-          <Left>true</Left>
-          <Right>false</Right>
-          <Up>true</Up>
-          <Down>false</Down>
-        </Direction>
-      </Directions>
-      <AbilitySpan>
-        <Span>1</Span>
-        <Span>1</Span>
-        <Span>1</Span>
-        <Span>1</Span>
-      </AbilitySpan>
-      <Costs>
-        <Cost>5</Cost>
-        <Cost>5</Cost>
-        <Cost>5</Cost>
-        <Cost>20</Cost>
-      </Costs>
-    </AbilityRow>-->
+
   </AbilityRows>
   <MinForceRating>1</MinForceRating>
 </ForcePower>

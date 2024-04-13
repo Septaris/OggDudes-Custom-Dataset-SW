@@ -1,10 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Vehicle>
   <Key>SPACEMASTER</Key>
   <Name>Space Master Medium Transport</Name>
   <Description>
       [H3]Space Master Medium Transport[h3]
 
-The Space Master Medium transport is Kuat Drive Yards' version of Galloftee Yards BR-75. Slightly smaller, the Space Master follows a similar design concept to the GR-75, being built around a central spar with copious attachment points for modular cargo pods. A bulbous engine assembly provides mediocre thrust, and a saucer-shaped command section makes up the ship's bow. 
+The Space Master Medium transport is Kuat Drive Yards' version of Galloftee Yards BR-75. Slightly smaller, the Space Master follows a similar design concept to the GR-75, being built around a central spar with copious attachment points for modular cargo pods. A bulbous engine assembly provides mediocre thrust, and a saucer-shaped command section makes up the ship's bow.
 
 [P]The Space Master is slower and more ungainly than the GR-75, with slightly less cargo capacity. However, it possesses certain benefits over its competitor, including more spacious facilities for the ship's eight crew and integral weapon mounts for defensive laser cannons. These unassuming vessels operate across the galaxy moving freight from one location to another.</Description>
   <Source Page="262">Edge of the Empire Core Rulebook</Source>

@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>CSS1</Key>
   <Name>CSS-1 Corellian Star Shuttle</Name>
   <Description>
     [H3]CSS-1 Corellian Star Shuttle[h3]
 
-Designed to replace the old Consular-class star cruisers, the Corellian Star Shuttle was designed to transport senators, ambassadors, and other important dignitaries. Spacious and well-appointed, the CSS-1 can accommodate up to two hundred passengers in relative comfort, and can be fitted out for extended voyages for smaller numbers. These vessels saw extensive use by the Republic during the Clone Wars, and many more ended up in private hands following the establishment of the Galactic Empire. 
+Designed to replace the old Consular-class star cruisers, the Corellian Star Shuttle was designed to transport senators, ambassadors, and other important dignitaries. Spacious and well-appointed, the CSS-1 can accommodate up to two hundred passengers in relative comfort, and can be fitted out for extended voyages for smaller numbers. These vessels saw extensive use by the Republic during the Clone Wars, and many more ended up in private hands following the establishment of the Galactic Empire.
 
 [P]Being essentially diplomatic ships, Corellian Star Shuttles were unarmed, though their armor and shields provided significant protection from attack. While never intended to fulfill a combat role, many of these vessels were armed and reconfigured to be pressed into service as military transports during the Clone Wars.</Description>
   <Source Page="110">Suns of Fortune</Source>

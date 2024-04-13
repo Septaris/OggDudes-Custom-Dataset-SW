@@ -1,15 +1,15 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>XANTER</Key>
   <Name>Xanter-class Deep-Space Exploration Frigate</Name>
   <Description>
     [H3]Xanter-class Deep-Space Exploration Frigate[h3]
 
-The Xanter-class deep-space exploration frigate is an ancient vessel. Created by Rendilli Stardrives almost five hundred years ago to capitalize on one of the many Outer Rim expansion and colonization drives, the Xanter trades the weaponry of other, similar-sized vessels for unparalleled endurance. 
+The Xanter-class deep-space exploration frigate is an ancient vessel. Created by Rendilli Stardrives almost five hundred years ago to capitalize on one of the many Outer Rim expansion and colonization drives, the Xanter trades the weaponry of other, similar-sized vessels for unparalleled endurance.
 
-[P]The ship can last for years without resupply, and every aspect of living space is designed with long-term habitation in mind. The Xanter's crew quarters are spacious and well appointed, each crew member has his own berth to provide guaranteed privacy and personal space. The galley can create a wide variety of passable and varied food, and the recreational facilities provide a number of enjoyable amusements. There is even a hydroponic garden that doubles as an observation dome, providing fresh food and oxygen while also giving the crew a place to relax amongst vegetation and the vastness of space. 
+[P]The ship can last for years without resupply, and every aspect of living space is designed with long-term habitation in mind. The Xanter's crew quarters are spacious and well appointed, each crew member has his own berth to provide guaranteed privacy and personal space. The galley can create a wide variety of passable and varied food, and the recreational facilities provide a number of enjoyable amusements. There is even a hydroponic garden that doubles as an observation dome, providing fresh food and oxygen while also giving the crew a place to relax amongst vegetation and the vastness of space.
 
-[P]However, the Xanter is still a warship and exploration vessel. Emergency bulkheads can seal off most ppparts of the ship, and even the observation dome has a retractable cover of hardened durasteel. The YDFed ion drives and hyperdrive systems have triple redundancies built in, almost guaranteeing that the ship cannot be stranded in wild space. Finally, the Xanter mounts turbolasers, ion cannons, and heavy laser cannons for starfighter and capital-ship defense. 
+[P]However, the Xanter is still a warship and exploration vessel. Emergency bulkheads can seal off most ppparts of the ship, and even the observation dome has a retractable cover of hardened durasteel. The YDFed ion drives and hyperdrive systems have triple redundancies built in, almost guaranteeing that the ship cannot be stranded in wild space. Finally, the Xanter mounts turbolasers, ion cannons, and heavy laser cannons for starfighter and capital-ship defense.
 
 [P]Although the Xanter is no longer produced, it is still possible to find these ships amongst some corporations and expeditions in the Outer Rim. Tough, durable, and reliable ships such as these will always have a place in exploration.</Description>
   <Source Page="67">Enter the Unknown</Source>

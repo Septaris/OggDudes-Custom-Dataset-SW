@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>TX130TANK</Key>
   <Name>TX-130 Saber-Class Fighter Tank</Name>
   <Description>[H3]TX-130 [I]Saber[i]-class Fighter Tank[h3]

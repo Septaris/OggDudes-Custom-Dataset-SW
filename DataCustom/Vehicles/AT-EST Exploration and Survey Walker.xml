@@ -1,10 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Vehicle>
   <Key>ATEST</Key>
   <Name>AT-EST Exploration and Survey Walker</Name>
   <Description>
       [H3]AT-EST Exploration and Survey Walker[h3]
 
-Developed by Rothana Heavy Engineering to serve the needs of the Old Republic's civilian exploratory corps, the AT-EST is a six-legged, low-slung walker designed to haul both passengers and cargo through rough terrain and hazardous environments. Resembling a scaled-down version of the Old Republic's AT-TE combat walker, the AT-EST consists of a bulbous, heavily armored hull supported by six sturdy multi-jointed legs with broad, four-toed feet. The hull contains a forward cockpit, a central living and working area with tiny, two-person private berths, a common area, a workshop, and a secure cargo hold. 
+Developed by Rothana Heavy Engineering to serve the needs of the Old Republic's civilian exploratory corps, the AT-EST is a six-legged, low-slung walker designed to haul both passengers and cargo through rough terrain and hazardous environments. Resembling a scaled-down version of the Old Republic's AT-TE combat walker, the AT-EST consists of a bulbous, heavily armored hull supported by six sturdy multi-jointed legs with broad, four-toed feet. The hull contains a forward cockpit, a central living and working area with tiny, two-person private berths, a common area, a workshop, and a secure cargo hold.
 
 [P]In its role as an exploration and survey vehicle, the AT-EST is equipped with a number of sophisticated computers and sensors that can detect sound, radiation, and energy, as well as take samples and assess the exact nature of a world's environment. Since it is designed to operate on untamed worlds and in hostile environments, the entire vehicle is environmentally sealed. These walkers are a common sight among the worlds of the Outer Rim, and are in high demand among militaries and civilian groups alike.</Description>
   <Source Page="253">Edge of the Empire Core Rulebook</Source>

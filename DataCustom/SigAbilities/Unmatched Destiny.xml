@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<SigAbility xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<SigAbility>
   <Key>UNMATCHEDDESTINY</Key>
   <Name>Unmatched Destiny</Name>
   <Description>The most powerful Mystics have an unmatched mastery of the Force. Their connection is so deep and so instinctive that they can call upon it at will. However, this powerful connection has a cost, and these Mystics risk opening themselves to the dark side of the Force.</Description>

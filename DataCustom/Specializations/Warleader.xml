@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Specialization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Specialization>
   <Key>WARLEADER</Key>
   <Name>Warleader</Name>
   <Description>[H4]Warleader - The Shrewd Leader[h4]

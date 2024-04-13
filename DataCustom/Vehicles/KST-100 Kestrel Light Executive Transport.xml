@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>KESTRELTRANSPORT</Key>
   <Name>KST-100 Kestrel Light Executive Transport</Name>
   <Description>[H3]KST-100 Kestrel Light Executive Transport[h3]

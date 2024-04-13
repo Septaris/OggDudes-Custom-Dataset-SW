@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>L120MOD</Key>
   <Name>Modular Motor Pool</Name>
   <Description>[H3]Fac L-120 Modular Motor Pool[h3]

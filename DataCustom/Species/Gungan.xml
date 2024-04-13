@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>GUNGAN</Key>
   <Name>Gungan</Name>
@@ -52,24 +52,5 @@ while cities dominated by humans are located upon dry land. The two species have
       </Options>
     </OptionChoice>
   </OptionChoices>
-  <!--<SubSpeciesList>
-    <SubSpecies>
-      <Key>GUNGSUB1</Key>
-      <Name>Otolla</Name>
-      <Description>
-        The Otolla subspecies has long ears and eyes on extendable and
-        retractable stalks.  Otolla skin is either
-        orange or purple in hue.
-      </Description>
-    </SubSpecies>
-    <SubSpecies>
-      <Key>GUNGSUB2</Key>
-      <Name>Ankura</Name>
-      <Description>
-        The Ankuras have hooded eyes, broad wide heads, and green skin.
-        Like the Otolla, they also have long ears, which are sometimes tied together
-        behind the head.
-      </Description>
-    </SubSpecies>
-  </SubSpeciesList>-->
+
 </Species>

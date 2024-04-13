@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>YZ775</Key>
   <Name>YZ-775 Medium Transport</Name>
   <Description>
     [H3]YZ-775 Medium Transport[h3]
 
-The YZ-775 is a popular medium transport used by independent traders, smugglers and mercenaries across the galaxy. Typical of Corellian Engineering Corporation's transports, it is durable and easily modified. Its substantial defenses required special permission from the Imperial authorities, given that its weapons exceed the firepower typically approved for civilian craft. They are an effective deterrent to pirates, and even give customs cruisers pause. As such, it has also become a favorite craft for mercenaries, Rebel forces, the more successful smugglers, and the occasional bounty hunter. With a first-class hyperdrive, it is also a speedy ship. 
+The YZ-775 is a popular medium transport used by independent traders, smugglers and mercenaries across the galaxy. Typical of Corellian Engineering Corporation's transports, it is durable and easily modified. Its substantial defenses required special permission from the Imperial authorities, given that its weapons exceed the firepower typically approved for civilian craft. They are an effective deterrent to pirates, and even give customs cruisers pause. As such, it has also become a favorite craft for mercenaries, Rebel forces, the more successful smugglers, and the occasional bounty hunter. With a first-class hyperdrive, it is also a speedy ship.
 
 [P]The ship has an eight-person cockpit. It has two decks. The lower deck typically holds the living quarters and ship's systems, with the cargo holds on the upper deck. However, owners routinely reconfigure the ship's layout to their liking, and many prefer the holds on the lower deck for easier access.</Description>
   <Source Page="68">Dangerous Covenants</Source>

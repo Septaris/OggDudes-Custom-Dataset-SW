@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>CR92ACORVETTE</Key>
   <Name>CR92a Assassin-Class Corvette</Name>
   <Description>
     [H3]CR92a Assassin-Class Corvette[h3]
 
-Based on the highly successful CR90 corvette, the CR92a Assassin-class corvette is a more heavily armed and armored variant designed with naval and long-range patrol duties in mind. A sleek, purpose-built capital ship, the Assassin-class has been readily adopted by the Imperial Navy and Corellian defense fleet. These vessels fulfill several roles, serving as pickets and starfighter screens for larger ships, escorting convoys, or patrolling space lanes. Like most CEC-built vessels, the CR92a is fast and agile for a ship of its size, allowing it to rapidly react to threats or chase down pirates. 
+Based on the highly successful CR90 corvette, the CR92a Assassin-class corvette is a more heavily armed and armored variant designed with naval and long-range patrol duties in mind. A sleek, purpose-built capital ship, the Assassin-class has been readily adopted by the Imperial Navy and Corellian defense fleet. These vessels fulfill several roles, serving as pickets and starfighter screens for larger ships, escorting convoys, or patrolling space lanes. Like most CEC-built vessels, the CR92a is fast and agile for a ship of its size, allowing it to rapidly react to threats or chase down pirates.
 
 [P]The corvettes boast six Taim &amp; Bak dual turbolasers, two quad laser cannons for point defense, and a proton torpedo launcher. While the heavy armament of the CR92a allows it to outgun most ships of comparable size and even be a threat to frigates and light cruisers, starfighters can still pose a problem for these vessels. To contend with this shortcoming, Corellian doctrine typically pairs a CR92a with a DP20 gunship for long-range patrols. Such a patrol can readily deal with any threat it is likely to encounter.</Description>
   <Source Page="113">Suns of Fortune</Source>

@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>IC4ADROID</Key>
   <Name>I-C4a Combat Construction Droid</Name>
   <Description>[H3]I-C4a Combat Construction Droid[h3]

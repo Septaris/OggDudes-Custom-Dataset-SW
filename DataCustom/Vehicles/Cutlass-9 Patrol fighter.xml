@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicle>
   <Key>CUTLASS9</Key>
   <Name>Cutlass-9 Patrol fighter</Name>
   <Description>[H3][I]Cutlass-9[i] Patrol fighter[h3]

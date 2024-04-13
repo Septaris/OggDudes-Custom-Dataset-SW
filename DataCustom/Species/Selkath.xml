@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Species xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<Species>
   <Key>SELKATH</Key>
   <Name>Selkath</Name>
   <Description>[H4]Selkath[h4]
@@ -12,7 +12,7 @@ Selkath are the native species of the planet Manaan. An amphibious species, they
 
 [P][B]Society:[b] With the formation of the Republic, the Selkath did not join, but adopted a policy of strict neutrality. Many millennia later, their planet was allowed to keep this neutrality intact due to the advantageous position granted to them by their monopoly on the supply of kolto. Kolto, produced solely on Manaan, is a liquid that contains unique healing properties. When the liquid is applied to wounds it increases the healing rate, and patients can even be immersed in it in special tanks for greater effect. During conflicts, the Selkath threaten to cut off the supply of kolto, unless both sides respect their neutrality.
 
-[P][B]Homeworld:[b] Manaan is an aquatic planet in the Pyrshak system. It is home to the Selkath, an amphibious species. The planet is completely covered in water and is the only known source of the healing liquid, kolto, in the galaxy. Controlled by the Rakata during pre-Republic history, it became independent following the collapse of their Infinite Empire. In the years leading up to and during the Jedi Civil War, kolto was so important to the galaxy that the Selkath were able to use their monopoly to enforce their policy of neutrality and autonomy. 
+[P][B]Homeworld:[b] Manaan is an aquatic planet in the Pyrshak system. It is home to the Selkath, an amphibious species. The planet is completely covered in water and is the only known source of the healing liquid, kolto, in the galaxy. Controlled by the Rakata during pre-Republic history, it became independent following the collapse of their Infinite Empire. In the years leading up to and during the Jedi Civil War, kolto was so important to the galaxy that the Selkath were able to use their monopoly to enforce their policy of neutrality and autonomy.
 
 [P]The only above-surface settlement on Manaan is the floating Ahto City. During the Jedi Civil War, both the Sith Empire and the Galactic Republic attempted to get an upper hand in the war by creating secret deals that would give them more kolto. Ultimately, however, the Selkath banned the Sith from Manaan for trying to overthrow the government.
 
