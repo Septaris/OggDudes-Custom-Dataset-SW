@@ -25,21 +25,21 @@ def process_xml_file(file_path, logger):
         # Parse the XML file
         tree = ET.parse(file_path)
         root = tree.getroot()
-        
+
         # Extract elements to be sorted
         elements = root.findall('./*')
-        
+
         # Sort elements by key child
         elements.sort(key=sort_by_key)
 
-        
+
         # Standardize formatting
         for element in elements:
             # Normalize whitespace in child elements
             for child in element:
                 if child.text:
                     child.text = child.text.strip()
-            
+
             # Sort attributes alphabetically within each element
             element.attrib = dict(sorted(element.attrib.items()))
 
@@ -53,12 +53,12 @@ def process_xml_file(file_path, logger):
         # Add sorted elements back to the root to ensure they are in the correct order
         for element in elements_copy:
             root.append(element)
-        
+
         # Save modified XML file
         sorted_tree = ET.ElementTree(root)
         sorted_tree.write(file_path, encoding='utf-8')
         logger.info(f"Processed file: '{file_path}'")
-        
+
 
     except Exception as e:
         logger.error(f"Error processing file '{file_path}': {e}")
@@ -85,7 +85,7 @@ def main():
 
     # Process XML files in the directory
     process_xml_files(directory_path, logger)
-    sys.exit(0)
+    return 0
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
