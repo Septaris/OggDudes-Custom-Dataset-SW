@@ -41,21 +41,6 @@ def process_xml_file(file_path, logger):
         except MissingKeyError as err:
             logger.warning(f"Skipping sorting of file '{file_path}': {err}")
 
-        # Standardize formatting
-        for element in elements:
-            # Normalize whitespace in child elements
-            for child in element:
-                if child.text:
-                    child.text = child.text.strip()
-
-            # Sort attributes alphabetically within each element
-            element.attrib = dict(sorted(element.attrib.items()))
-
-            # sort child elements alphabetically
-            if len(element) > 0:
-                element[:] = sorted(element, key=lambda x: x.tag)
-
-
         if is_sorted:
             # create a copy of the elements list
             elements_copy = elements.copy()

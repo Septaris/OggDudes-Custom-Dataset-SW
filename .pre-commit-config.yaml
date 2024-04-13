@@ -1,4 +1,12 @@
 repos:
+  - repo: https://github.com/efrecon/pre-commit-hook-lxml
+    rev: v0.1.2
+    hooks:
+      - id: format-xml
+        args:
+          - --indent=2
+          - --endings=unix
+          - --write
   - repo: https://github.com/Lucas-C/pre-commit-hooks
     rev: v1.5.5
     hooks:
