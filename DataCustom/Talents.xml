@@ -7567,4 +7567,65 @@ Point to a light side Destiny Point.</Description>
     <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
+    <Talent>
+    <Key>FLOWTHINGS</Key>
+    <Name>Flows Through All Things</Name>
+    <Description>The character may perform a maneuver to recover strain equal to their Force rating.</Description>
+    <Sources/>
+    <Custom>DescOnly</Custom>
+    <Ranked>false</Ranked>
+    <ActivationValue>taManeuver</ActivationValue>
+    <ForceTalent>true</ForceTalent>
+  </Talent>
+    <Talent>
+    <Key>BOUNDTOG</Key>
+    <Name>Bound Together</Name>
+    <Description>Perform the Bound Together maneuver. Until the character's next turn, when the character or an ally within short range suffers strain, they reduce the amount by the current number of light side Destiny Points.</Description>
+    <Sources/>
+    <Custom>DescOnly</Custom>
+    <Ranked>false</Ranked>
+    <ActivationValue>taManeuver</ActivationValue>
+    <ForceTalent>true</ForceTalent>
+  </Talent>
+    <Talent>
+    <Key>POWERALLY</Key>
+    <Name>Powerful Ally</Name>
+    <Description>The character may spend a Destiny Point to use the base version of a Force power they have not purchased or apply the effects of a control upgrade to a power they have purchased.</Description>
+    <Sources/>
+    <Custom>DescOnly</Custom>
+    <Ranked>false</Ranked>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ForceTalent>true</ForceTalent>
+  </Talent>
+    <Talent>
+    <Key>MASTERORDER</Key>
+    <Name>Master of the Order</Name>
+    <Description>The character can spend 2 Destiny Points during a single action.</Description>
+    <Sources/>
+    <Custom>DescOnly</Custom>
+    <Ranked>false</Ranked>
+    <ActivationValue>taPassive</ActivationValue>
+    <ForceTalent>true</ForceTalent>
+  </Talent>
+    <Talent>
+    <Key>THERETRY</Key>
+    <Name>There is No Try</Name>
+    <Description>Once per session before an ally rolls the dice for a check, the character may spend 1 Destiny Point to allow the ally to automatically succeed at the check with one [SU] and no other results.</Description>
+    <Sources/>
+    <Custom>DescOnly</Custom>
+    <Ranked>false</Ranked>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ForceTalent>true</ForceTalent>
+  </Talent>
+    <Talent>
+    <Key>CENTERSUPR</Key>
+    <Name>Supreme Center of Being</Name>
+    <Description>When the character performs the Center of Being maneuver, until the start of their next turn they may spend [symbol] [symbol] or [symbol] from an attacker’s check to inflict one hit with a ranged weapon they are wielding.</Description>
+    <Sources/>
+    <Custom>DescOnly</Custom>
+    <Ranked>false</Ranked>
+    <ActivationValue>taManeuver</ActivationValue>
+    <ForceTalent>true</ForceTalent>
+  </Talent>
+
 </Talents>
