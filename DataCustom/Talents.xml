@@ -7512,4 +7512,59 @@ Point to a light side Destiny Point.</Description>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
+  <Talent>
+    <Key>SAVVY</Key>
+    <Name>Savvy</Name>
+    <Description>The character adds [BO] to Charm and Negotiation checks per rank of Savvy.</Description>
+      <Sources>
+        <Source Page="32">Collapse of the Republic</Source>
+      </Sources>
+    <Custom>DescOnly</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taPassive</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>NOBFOOLIMP</Key>
+    <Name>Nobody's Fool</Name>
+    <Description>The character may spend [DE] or [TH][TH][TH] from an incoming Charm, Coercion, or Deception check to inflict strain on the opponent equal to the character's ranks in Nobody's Fool.</Description>
+      <Sources>
+        <Source Page="32">Collapse of the Republic</Source>
+      </Sources>
+    <Custom>DescOnly</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taIncidental</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>BLATHER</Key>
+    <Name>Blather</Name>
+    <Description>Take the Blather action, making a Hard ([DI][DI][DI]) Charm or Deception check. If successful, one adversary per [SU] is Disoriented for a number of rounds equal to character's Presence. The character may spend [TR] from the check to Stagger one affected target.</Description>
+          <Sources>
+        <Source Page="32">Collapse of the Republic</Source>
+      </Sources>
+    <Custom>DescOnly</Custom>
+    <Ranked>false</Ranked>
+    <ActivationValue>taAction</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>DIPLOIMMUNITY</Key>
+    <Name>Diplomatic Immunity</Name>
+    <Description>As an out-of-turn incidental, the character spends one Destiny Point and adversaries cannot choose the target of a combat check until the end of their next turn.</Description>
+          <Sources>
+        <Source Page="32">Collapse of the Republic</Source>
+      </Sources>
+    <Custom>DescOnly</Custom>
+    <Ranked>false</Ranked>
+    <ActivationValue>taIncidental</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>RESOURCEALLOC</Key>
+    <Name>Resource Allocation</Name>
+    <Description>At the beginning of a Mass Combat, make a Hard ([DI][DI][DI]) Charm or Negotiation check to increase their force's strength by one step for the duration of the encounter. May spend [TR] from the check to upgrade the ability of their force's first Mass Combat check.</Description>
+          <Sources>
+        <Source Page="32">Collapse of the Republic</Source>
+      </Sources>
+    <Custom>DescOnly</Custom>
+    <Ranked>false</Ranked>
+    <ActivationValue>taAction</ActivationValue>
+  </Talent>
 </Talents>

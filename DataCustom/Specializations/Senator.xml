@@ -43,7 +43,7 @@ Despite their differing allegiances, Senators for the Republic and Separatist Al
       <Cost>10</Cost>
       <Talents>
         <Key>RESOLVE</Key>
-        <Key>SAVY</Key>
+        <Key>SAVVY</Key>
         <Key>CONGENIAL</Key>
         <Key>NOBFOOL</Key>
       </Talents>
@@ -76,7 +76,7 @@ Despite their differing allegiances, Senators for the Republic and Separatist Al
         <Key>GRIT</Key>
         <Key>INSPRHET</Key>
         <Key>PLAUSDEN</Key>
-        <Key>SAVY</Key>
+        <Key>SAVVY</Key>
       </Talents>
       <Directions>
         <Direction>
@@ -132,9 +132,9 @@ Despite their differing allegiances, Senators for the Republic and Separatist Al
       <Cost>25</Cost>
       <Talents>
         <Key>DEDI</Key>
-        <Key>BLAT</Key>
-        <Key>DIPIMM</Key>
-        <Key>RESALLO</Key>
+        <Key>BLATHER</Key>
+        <Key>DIPLOIMMUNITY</Key>
+        <Key>RESOURCEALLOC</Key>
       </Talents>
       <Directions>
         <Direction>
