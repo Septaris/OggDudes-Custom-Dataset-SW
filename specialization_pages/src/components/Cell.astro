@@ -1,0 +1,94 @@
+---
+export interface CellProps {
+  talent: {
+    name: string;
+    description: string;
+    connections: {
+      left: boolean;
+      right: boolean;
+      up: boolean;
+      down: boolean;
+    };
+  };
+}
+
+const { talent } = Astro.props;
+
+let cellClasses = Object.entries(talent.connections).filter((item) => item[1]).map((item) => `${item[0]}-arrow`).join(' ');
+
+
+console.log(cellClasses)
+
+
+
+
+
+---
+<div class="relative cell">
+  <!-- Arrow containers -->
+  {talent.connections.up && <div class="arrow up-arrow"></div>}
+  {talent.connections.down && <div class="arrow down-arrow"></div>}
+  {talent.connections.left && <div class="arrow left-arrow"></div>}
+  {talent.connections.right && <div class="arrow right-arrow"></div>}
+
+  <!-- Cell content -->
+  <div class="bg-gray-100 border border-gray-800 rounded-lg w-32 text-center p-2 shadow-md h-full">
+    <h3 class="text-sm font-semibold mb-1">{talent.name}</h3>
+    <p class="text-xs text-gray-600">{talent.description}</p>
+  </div>
+</div>
+
+<style>
+/* Base cell styling */
+.cell {
+  position: relative;
+  display: inline-block;
+}
+
+/* Arrow base styling */
+.arrow {
+  position: absolute;
+  width: 0;
+  height: 0;
+}
+
+/* Down Arrow */
+.down-arrow {
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  border-top: 10px solid #6A0136;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+}
+
+/* Up Arrow */
+.up-arrow {
+  top: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  border-bottom: 10px solid #6A0136;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+}
+
+/* Left Arrow */
+.left-arrow {
+  top: 50%;
+  left: -10px;
+  transform: translateY(-50%);
+  border-right: 10px solid #6A0136;
+  border-top: 20px solid transparent;
+  border-bottom: 20px solid transparent;
+}
+
+/* Right Arrow */
+.right-arrow {
+  top: 50%;
+  right: -10px;
+  transform: translateY(-50%);
+  border-left: 10px solid #6A0136;
+  border-top: 20px solid transparent;
+  border-bottom: 20px solid transparent;
+}
+</style>
