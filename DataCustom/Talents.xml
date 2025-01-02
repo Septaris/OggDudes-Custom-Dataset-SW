@@ -7627,5 +7627,52 @@ Point to a light side Destiny Point.</Description>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
-
+<Talent>
+  <Key>JETEXP</Key>
+  <Name>Jetpack Expertise</Name>
+  <Description>The character may spend [AD] from their checks to remove 1 system strain from their jetpack. (They may choose this effect multiple times when spending [AD]).</Description>
+  <Custom>DescOnly</Custom>
+  <Ranked>false</Ranked>
+  <ActivationValue>taIncidental</ActivationValue>
+</Talent>
+<Talent>
+  <Key>HITRUN</Key>
+  <Name>Hit and Run</Name>
+  <Description>After the character completes an attack targeting an opponent they are engaged with, they may immediately move to short range using a jetpack.</Description>
+  <Custom>DescOnly</Custom>
+  <Ranked>false</Ranked>
+  <ActivationValue>taIncidental</ActivationValue>
+</Talent>
+<Talent>
+  <Key>DTHFRABOVE</Key>
+  <Name>Death from Above</Name>
+  <Description>Once per encounter, inflict 1 system strain on jetpack and make a Hard ([DI][DI][DI]) Piloting check. For each [SU], one adversary in short range is knocked prone. May spend [TR] to stagger one affected target.</Description>
+  <Custom>DescOnly</Custom>
+  <Ranked>false</Ranked>
+  <ActivationValue>taIncidental</ActivationValue>
+</Talent>
+<Talent>
+  <Key>TOTHEDTH</Key>
+  <Name>To the Death</Name>
+  <Description>Once per session, suffer strain up to Willpower and add +10 per strain suffered to critical rolls the character inflicts or suffers until the end of the encounter.</Description>
+  <Custom>DescOnly</Custom>
+  <Ranked>false</Ranked>
+  <ActivationValue>taIncidental</ActivationValue>
+</Talent>
+<Talent>
+  <Key>SIDESTIMP</Key>
+  <Name>Improved Side Step</Name>
+  <Description>When the character performs the Side Step maneuver, until the start of their next turn they may spend [TH][TH][TH] or [DE] from an attacker’s check to inflict one hit with a ranged weapon they are wielding.</Description>
+  <Custom>DescOnly</Custom>
+  <Ranked>false</Ranked>
+  <ActivationValue>taIncidental</ActivationValue>
+</Talent>
+<Talent>
+  <Key>MOMTUM</Key>
+  <Name>Momentum</Name>
+  <Description>The character deals additional damage with their first hit equal to the number of range bands they have moved during the current round.</Description>
+  <Custom>DescOnly</Custom>
+  <Ranked>false</Ranked>
+  <ActivationValue>taPassive</ActivationValue>
+</Talent>
 </Talents>
