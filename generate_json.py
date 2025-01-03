@@ -87,14 +87,15 @@ def main(specialization_dirpath):
     # File paths
     talents_file = 'DataCustom/Talents.xml'
     for specialization_filepath in specialization_dirpath.glob('*.xml'):
-        output_file = pathlib.Path('output') / f'{specialization_filepath.stem.lower().replace(' ', '_')}.json' 
+        filename = specialization_filepath.stem.lower().replace(' ', '_')
+        output_file = pathlib.Path('output') / f'{filename}.json'
 
         # Run the script
         try:
             parse_talent_tree(specialization_filepath, talents_file, output_file)
         except Exception as err:
-            print(f'Exception {err} occured during parsing of {specialization_filepath}')
-            raise 
+            print(f'Exception {err} occurred during parsing of {specialization_filepath}')
+            raise
 
 
 if __name__ == "__main__":
