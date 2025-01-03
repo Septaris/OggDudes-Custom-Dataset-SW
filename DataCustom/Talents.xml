@@ -554,14 +554,11 @@ pool to the results.</Description>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
-    <Key>BLATHER</Key>
+    <Key>BLAT</Key>
     <Name>Blather</Name>
-    <Description>Take the Blather action, making a Hard ([DI][DI][DI]) Charm or Deception check. If successful, one adversary per [SU] is Disoriented for a number of rounds equal to character's Presence. The character may spend [TR] from the check to Stagger one affected target.</Description>
-    <Sources>
-      <Source Page="32">Collapse of the Republic</Source>
-    </Sources>
+    <Description>The character may take the Blather action, making a [B]Hard ([DI][DI][DI]) Charm[b] or [B]Deception check[b]. If the check is successful, one adversary per [SU] within medium range is disoriented for a number of rounds equal to the character's presence rating. The character may spend [TR] from the check to stagger one affected target for one round.</Description>
+    <Source Page="37">Collapse of the Republic</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -1290,6 +1287,15 @@ damage on an enemy.</Description>
     <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
+    <Key>COVN</Key>
+    <Name>Coven</Name>
+    <Description>The character may perform the Coven maneuver. On their next Force power check, they may reroll one [FO] for each ally within short range who also possesses the Coven talent.</Description>
+    <Source Page="38">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taManeuver</ActivationValue>
+    <ForceTalent>true</ForceTalent>
+  </Talent>
+  <Talent>
     <Key>CREATDES</Key>
     <Name>Creative Design</Name>
     <Description>As part of resolving a successful crafting check, the character may also apply a result equivalent to spending a number of [AD] equal to his ranks in Creative Design. The GM may then apply a result equivalent to spending that same number of [TH].</Description>
@@ -1332,6 +1338,14 @@ damage on an enemy.</Description>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>CRUELCOM</Key>
+    <Name>Cruel Commander</Name>
+    <Description>When upgrading the ability of a Mass Combat check in a mass combat in which the character is the commander of the acting force (or when upgrading the difficulty, if the character is the commander of the enemy force), the character may use ranks in Coercion instead of ranks in Leadership.</Description>
+    <Source Page="38">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
     <Key>CUNNINGSTUNT</Key>
@@ -4004,6 +4018,22 @@ not spend a Destiny Point to use this talent.
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
+    <Key>LEADBACK</Key>
+    <Name>Lead from the Back</Name>
+    <Description>Once per round when an enemy makes a successful combat check targeting the character, the character may spend 1 Destiny Point to perform the Lead from the Back incidental. The character chooses one allied NPC subordinate within short range, who becomes the target of the attack instead. At the GM's discretion, the character may select an allied NPC at a greater distance if they are between the character and the attacker.</Description>
+    <Source Page="41">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>LEADFRONT</Key>
+    <Name>Lead from the Front</Name>
+    <Description>After succeeding on a Leadership check or other check to inspire, lead, or rally an audience, the character may spend 1 Destiny Point to upgrade the ability of the next combat check made by each ally within short range once.</Description>
+    <Source Page="41">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+  </Talent>
+  <Talent>
     <Key>LEARNOPP</Key>
     <Name>Learning Opportunity</Name>
     <Description>[H4]Learning Opportunity[h4]
@@ -5877,7 +5907,14 @@ this characteristic in place of Brawn when making Lightsaber checks
       <Source Page="31">Fully Operational</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
+    <ActivationValue>taAction</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>RESALLO</Key>
+    <Name>Resource Allocation</Name>
+    <Description>At the beginning of a mass combat, the character may make a [B]Hard ([DI][DI][DI]) Charm[b] or [B]Negotiation check[b] to increase their force's strength by one step for the duration of the encounter. The character may spend [TR] from the check to upgrade the ability of their force's first Mass Combat check once.</Description>
+    <Source Page="43">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -6058,17 +6095,6 @@ to their ranks in Respected Delegate.</Description>
     <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
-    <Key>SAVVY</Key>
-    <Name>Savvy</Name>
-    <Description>The character adds [BO] to Charm and Negotiation checks per rank of Savvy.</Description>
-    <Sources>
-      <Source Page="32">Collapse of the Republic</Source>
-    </Sources>
-    <Custom>DescOnly</Custom>
-    <Ranked>true</Ranked>
-    <ActivationValue>taPassive</ActivationValue>
-  </Talent>
-  <Talent>
     <Key>SAVVYNEG</Key>
     <Name>Savvy Negotiator</Name>
     <Description>Remove [SE] per rank of Savvy Negotiator from all Negotiation and Streetwise checks.</Description>
@@ -6099,6 +6125,25 @@ to their ranks in Respected Delegate.</Description>
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>SAVY</Key>
+    <Name>Savvy</Name>
+    <Description>The character adds [BO] to Charm and Negotiation checks they make per rank of Savvy.</Description>
+    <Source Page="43">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taPassive</ActivationValue>
+    <DieModifiers>
+      <DieModifier>
+        <SkillKey>CHARM</SkillKey>
+        <BoostCount>1</BoostCount>
+      </DieModifier>
+      <DieModifier>
+        <SkillKey>NEG</SkillKey>
+        <BoostCount>1</BoostCount>
+      </DieModifier>
+    </DieModifiers>
   </Talent>
   <Talent>
     <Key>SCATH</Key>
