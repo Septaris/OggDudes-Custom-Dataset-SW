@@ -541,6 +541,17 @@ pool to the results.</Description>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
+    <Key>BLATHER</Key>
+    <Name>Blather</Name>
+    <Description>Take the Blather action, making a Hard ([DI][DI][DI]) Charm or Deception check. If successful, one adversary per [SU] is Disoriented for a number of rounds equal to character's Presence. The character may spend [TR] from the check to Stagger one affected target.</Description>
+    <Sources>
+      <Source Page="32">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Ranked>false</Ranked>
+    <ActivationValue>taAction</ActivationValue>
+  </Talent>
+  <Talent>
     <Key>BLINDSPOT</Key>
     <Name>Blind Spot</Name>
     <Description>The character and allies within short range add automatic [AD] to combat checks they make while benefiting from cover.</Description>
@@ -642,6 +653,16 @@ pool to the results.</Description>
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>BOUNDTOG</Key>
+    <Name>Bound Together</Name>
+    <Description>Perform the Bound Together maneuver. Until the character's next turn, when the character or an ally within short range suffers strain, they reduce the amount by the current number of light side Destiny Points.</Description>
+    <Sources />
+    <Custom>DescOnly</Custom>
+    <Ranked>false</Ranked>
+    <ActivationValue>taManeuver</ActivationValue>
+    <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
     <Key>BRA</Key>
@@ -827,6 +848,16 @@ When the character performs the Brace maneuver, the benefits apply to all allies
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
+    <ForceTalent>true</ForceTalent>
+  </Talent>
+  <Talent>
+    <Key>CENTERSUPR</Key>
+    <Name>Supreme Center of Being</Name>
+    <Description>When the character performs the Center of Being maneuver, until the start of their next turn they may spend [symbol] [symbol] or [symbol] from an attacker’s check to inflict one hit with a ranged weapon they are wielding.</Description>
+    <Sources />
+    <Custom>DescOnly</Custom>
+    <Ranked>false</Ranked>
+    <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
@@ -1590,6 +1621,17 @@ damage on an enemy.</Description>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
+    <Key>DIPLOIMMUNITY</Key>
+    <Name>Diplomatic Immunity</Name>
+    <Description>As an out-of-turn incidental, the character spends one Destiny Point and adversaries cannot choose the target of a combat check until the end of their next turn.</Description>
+    <Sources>
+      <Source Page="32">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Ranked>false</Ranked>
+    <ActivationValue>taIncidental</ActivationValue>
+  </Talent>
+  <Talent>
     <Key>DISARMSMILE</Key>
     <Name>Disarming Smile</Name>
     <Description>Take the Disarming Smile action; succeed at an opposed Charm check to lower all defenses of a target by ranks in Disarming Smile until the end of the encounter.</Description>
@@ -1810,6 +1852,14 @@ damage on an enemy.</Description>
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>DTHFRABOVE</Key>
+    <Name>Death from Above</Name>
+    <Description>Once per encounter, inflict 1 system strain on jetpack and make a Hard ([DI][DI][DI]) Piloting check. For each [SU], one adversary in short range is knocked prone. May spend [TR] to stagger one affected target.</Description>
+    <Custom>DescOnly</Custom>
+    <Ranked>false</Ranked>
+    <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
     <Key>DUELTRAIN</Key>
@@ -2319,6 +2369,16 @@ affect allied clones.
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>FLOWTHINGS</Key>
+    <Name>Flows Through All Things</Name>
+    <Description>The character may perform a maneuver to recover strain equal to their Force rating.</Description>
+    <Sources />
+    <Custom>DescOnly</Custom>
+    <Ranked>false</Ranked>
+    <ActivationValue>taManeuver</ActivationValue>
+    <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
     <Key>FONTPOW</Key>
@@ -2881,6 +2941,14 @@ After the character uses Parry or Reflect to reduce damage to an ally, that ally
     <Name>Hindering Shot</Name>
     <Description>Increase the difficulty of next Gunnery check by 1. If check deals damage, target starship or vehicle suffers system strain equal to speed when it moves until the end of the encounter..</Description>
     <Source Page="34">No Disintegrations</Source>
+    <Custom>DescOnly</Custom>
+    <Ranked>false</Ranked>
+    <ActivationValue>taIncidental</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>HITRUN</Key>
+    <Name>Hit and Run</Name>
+    <Description>After the character completes an attack targeting an opponent they are engaged with, they may immediately move to short range using a jetpack.</Description>
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
@@ -3500,6 +3568,14 @@ ships in the encounter.</Description>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
+    <Key>JETEXP</Key>
+    <Name>Jetpack Expertise</Name>
+    <Description>The character may spend [AD] from their checks to remove 1 system strain from their jetpack. (They may choose this effect multiple times when spending [AD]).</Description>
+    <Custom>DescOnly</Custom>
+    <Ranked>false</Ranked>
+    <ActivationValue>taIncidental</ActivationValue>
+  </Talent>
+  <Talent>
     <Key>JUMP</Key>
     <Name>Jump Up</Name>
     <Description>Once per round, may stand from seated or prone as an incidental.</Description>
@@ -4085,6 +4161,16 @@ their Cool and Negotiation checks.
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
+    <Key>MASTERORDER</Key>
+    <Name>Master of the Order</Name>
+    <Description>The character can spend 2 Destiny Points during a single action.</Description>
+    <Sources />
+    <Custom>DescOnly</Custom>
+    <Ranked>false</Ranked>
+    <ActivationValue>taPassive</ActivationValue>
+    <ForceTalent>true</ForceTalent>
+  </Talent>
+  <Talent>
     <Key>MEDTRANCE</Key>
     <Name>Meditative Trance</Name>
     <Description>When suffocating (see [B]Force and Destiny[b] Core Rulebook, page 221), the character suffers 1 strain each round instead of 3. When exposed to vacuum, the character suffers 1 wound each round instead of 3.</Description>
@@ -4183,6 +4269,14 @@ In any combination.)
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>MOMTUM</Key>
+    <Name>Momentum</Name>
+    <Description>The character deals additional damage with their first hit equal to the number of range bands they have moved during the current round.</Description>
+    <Custom>DescOnly</Custom>
+    <Ranked>false</Ranked>
+    <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
     <Key>MOREMACH</Key>
@@ -4583,6 +4677,17 @@ Gunnery or Ranged (Heavy) check.</Description>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>NOBFOOLIMP</Key>
+    <Name>Nobody's Fool</Name>
+    <Description>The character may spend [DE] or [TH][TH][TH] from an incoming Charm, Coercion, or Deception check to inflict strain on the opponent equal to the character's ranks in Nobody's Fool.</Description>
+    <Sources>
+      <Source Page="32">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
     <Key>NOESC</Key>
@@ -5077,6 +5182,16 @@ characters ship or allies.
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <Conflict>1</Conflict>
+  </Talent>
+  <Talent>
+    <Key>POWERALLY</Key>
+    <Name>Powerful Ally</Name>
+    <Description>The character may spend a Destiny Point to use the base version of a Force power they have not purchased or apply the effects of a control upgrade to a power they have purchased.</Description>
+    <Sources />
+    <Custom>DescOnly</Custom>
+    <Ranked>false</Ranked>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
     <Key>POWPAIN</Key>
@@ -5630,6 +5745,17 @@ this characteristic in place of Brawn when making Lightsaber checks
     <LessStrain>1</LessStrain>
   </Talent>
   <Talent>
+    <Key>RESOURCEALLOC</Key>
+    <Name>Resource Allocation</Name>
+    <Description>At the beginning of a Mass Combat, make a Hard ([DI][DI][DI]) Charm or Negotiation check to increase their force's strength by one step for the duration of the encounter. May spend [TR] from the check to upgrade the ability of their force's first Mass Combat check.</Description>
+    <Sources>
+      <Source Page="32">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Ranked>false</Ranked>
+    <ActivationValue>taAction</ActivationValue>
+  </Talent>
+  <Talent>
     <Key>RESOURCEREFIT</Key>
     <Name>Resourceful Refit</Name>
     <Description>May perform the Resourceful Refit action, make an [B]Average ([DI][DI]) Mechanics check[b] to scavenge an old attachment to construct a new one, reducing its price by that of the dismantled attachment.</Description>
@@ -5720,6 +5846,17 @@ to their ranks in Respected Delegate.</Description>
     <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
+  </Talent>
+  <Talent>
+    <Key>SAVVY</Key>
+    <Name>Savvy</Name>
+    <Description>The character adds [BO] to Charm and Negotiation checks per rank of Savvy.</Description>
+    <Sources>
+      <Source Page="32">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Ranked>true</Ranked>
+    <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
     <Key>SAVVYNEG</Key>
@@ -6105,6 +6242,14 @@ effects are cumulative.)
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>SIDESTIMP</Key>
+    <Name>Improved Side Step</Name>
+    <Description>When the character performs the Side Step maneuver, until the start of their next turn they may spend [TH][TH][TH] or [DE] from an attacker’s check to inflict one hit with a ranged weapon they are wielding.</Description>
+    <Custom>DescOnly</Custom>
+    <Ranked>false</Ranked>
+    <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
     <Key>SIGVEH</Key>
@@ -6985,6 +7130,16 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
+    <Key>THERETRY</Key>
+    <Name>There is No Try</Name>
+    <Description>Once per session before an ally rolls the dice for a check, the character may spend 1 Destiny Point to allow the ally to automatically succeed at the check with one [SU] and no other results.</Description>
+    <Sources />
+    <Custom>DescOnly</Custom>
+    <Ranked>false</Ranked>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ForceTalent>true</ForceTalent>
+  </Talent>
+  <Talent>
     <Key>THORASS</Key>
     <Name>Thorough Assessment</Name>
     <Description>Once per session, take a Thorough Assessment action: make a [B]Hard ([DI][DI][DI]) Knowledge check[b] to gain Boost dice equal to [SU] that can be distributed during the encounter.</Description>
@@ -7034,6 +7189,14 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <AddlHP>1</AddlHP>
+  </Talent>
+  <Talent>
+    <Key>TOTHEDTH</Key>
+    <Name>To the Death</Name>
+    <Description>Once per session, suffer strain up to Willpower and add +10 per strain suffered to critical rolls the character inflicts or suffers until the end of the encounter.</Description>
+    <Custom>DescOnly</Custom>
+    <Ranked>false</Ranked>
+    <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
     <Key>TOUCH</Key>
@@ -7512,167 +7675,4 @@ Point to a light side Destiny Point.</Description>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
-  <Talent>
-    <Key>SAVVY</Key>
-    <Name>Savvy</Name>
-    <Description>The character adds [BO] to Charm and Negotiation checks per rank of Savvy.</Description>
-      <Sources>
-        <Source Page="32">Collapse of the Republic</Source>
-      </Sources>
-    <Custom>DescOnly</Custom>
-    <Ranked>true</Ranked>
-    <ActivationValue>taPassive</ActivationValue>
-  </Talent>
-  <Talent>
-    <Key>NOBFOOLIMP</Key>
-    <Name>Nobody's Fool</Name>
-    <Description>The character may spend [DE] or [TH][TH][TH] from an incoming Charm, Coercion, or Deception check to inflict strain on the opponent equal to the character's ranks in Nobody's Fool.</Description>
-      <Sources>
-        <Source Page="32">Collapse of the Republic</Source>
-      </Sources>
-    <Custom>DescOnly</Custom>
-    <Ranked>true</Ranked>
-    <ActivationValue>taIncidental</ActivationValue>
-  </Talent>
-  <Talent>
-    <Key>BLATHER</Key>
-    <Name>Blather</Name>
-    <Description>Take the Blather action, making a Hard ([DI][DI][DI]) Charm or Deception check. If successful, one adversary per [SU] is Disoriented for a number of rounds equal to character's Presence. The character may spend [TR] from the check to Stagger one affected target.</Description>
-          <Sources>
-        <Source Page="32">Collapse of the Republic</Source>
-      </Sources>
-    <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
-    <ActivationValue>taAction</ActivationValue>
-  </Talent>
-  <Talent>
-    <Key>DIPLOIMMUNITY</Key>
-    <Name>Diplomatic Immunity</Name>
-    <Description>As an out-of-turn incidental, the character spends one Destiny Point and adversaries cannot choose the target of a combat check until the end of their next turn.</Description>
-          <Sources>
-        <Source Page="32">Collapse of the Republic</Source>
-      </Sources>
-    <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
-    <ActivationValue>taIncidental</ActivationValue>
-  </Talent>
-  <Talent>
-    <Key>RESOURCEALLOC</Key>
-    <Name>Resource Allocation</Name>
-    <Description>At the beginning of a Mass Combat, make a Hard ([DI][DI][DI]) Charm or Negotiation check to increase their force's strength by one step for the duration of the encounter. May spend [TR] from the check to upgrade the ability of their force's first Mass Combat check.</Description>
-          <Sources>
-        <Source Page="32">Collapse of the Republic</Source>
-      </Sources>
-    <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
-    <ActivationValue>taAction</ActivationValue>
-  </Talent>
-    <Talent>
-    <Key>FLOWTHINGS</Key>
-    <Name>Flows Through All Things</Name>
-    <Description>The character may perform a maneuver to recover strain equal to their Force rating.</Description>
-    <Sources/>
-    <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
-    <ActivationValue>taManeuver</ActivationValue>
-    <ForceTalent>true</ForceTalent>
-  </Talent>
-    <Talent>
-    <Key>BOUNDTOG</Key>
-    <Name>Bound Together</Name>
-    <Description>Perform the Bound Together maneuver. Until the character's next turn, when the character or an ally within short range suffers strain, they reduce the amount by the current number of light side Destiny Points.</Description>
-    <Sources/>
-    <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
-    <ActivationValue>taManeuver</ActivationValue>
-    <ForceTalent>true</ForceTalent>
-  </Talent>
-    <Talent>
-    <Key>POWERALLY</Key>
-    <Name>Powerful Ally</Name>
-    <Description>The character may spend a Destiny Point to use the base version of a Force power they have not purchased or apply the effects of a control upgrade to a power they have purchased.</Description>
-    <Sources/>
-    <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
-    <ActivationValue>taIncidental</ActivationValue>
-    <ForceTalent>true</ForceTalent>
-  </Talent>
-    <Talent>
-    <Key>MASTERORDER</Key>
-    <Name>Master of the Order</Name>
-    <Description>The character can spend 2 Destiny Points during a single action.</Description>
-    <Sources/>
-    <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
-    <ActivationValue>taPassive</ActivationValue>
-    <ForceTalent>true</ForceTalent>
-  </Talent>
-    <Talent>
-    <Key>THERETRY</Key>
-    <Name>There is No Try</Name>
-    <Description>Once per session before an ally rolls the dice for a check, the character may spend 1 Destiny Point to allow the ally to automatically succeed at the check with one [SU] and no other results.</Description>
-    <Sources/>
-    <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
-    <ActivationValue>taIncidental</ActivationValue>
-    <ForceTalent>true</ForceTalent>
-  </Talent>
-    <Talent>
-    <Key>CENTERSUPR</Key>
-    <Name>Supreme Center of Being</Name>
-    <Description>When the character performs the Center of Being maneuver, until the start of their next turn they may spend [symbol] [symbol] or [symbol] from an attacker’s check to inflict one hit with a ranged weapon they are wielding.</Description>
-    <Sources/>
-    <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
-    <ActivationValue>taManeuver</ActivationValue>
-    <ForceTalent>true</ForceTalent>
-  </Talent>
-<Talent>
-  <Key>JETEXP</Key>
-  <Name>Jetpack Expertise</Name>
-  <Description>The character may spend [AD] from their checks to remove 1 system strain from their jetpack. (They may choose this effect multiple times when spending [AD]).</Description>
-  <Custom>DescOnly</Custom>
-  <Ranked>false</Ranked>
-  <ActivationValue>taIncidental</ActivationValue>
-</Talent>
-<Talent>
-  <Key>HITRUN</Key>
-  <Name>Hit and Run</Name>
-  <Description>After the character completes an attack targeting an opponent they are engaged with, they may immediately move to short range using a jetpack.</Description>
-  <Custom>DescOnly</Custom>
-  <Ranked>false</Ranked>
-  <ActivationValue>taIncidental</ActivationValue>
-</Talent>
-<Talent>
-  <Key>DTHFRABOVE</Key>
-  <Name>Death from Above</Name>
-  <Description>Once per encounter, inflict 1 system strain on jetpack and make a Hard ([DI][DI][DI]) Piloting check. For each [SU], one adversary in short range is knocked prone. May spend [TR] to stagger one affected target.</Description>
-  <Custom>DescOnly</Custom>
-  <Ranked>false</Ranked>
-  <ActivationValue>taIncidental</ActivationValue>
-</Talent>
-<Talent>
-  <Key>TOTHEDTH</Key>
-  <Name>To the Death</Name>
-  <Description>Once per session, suffer strain up to Willpower and add +10 per strain suffered to critical rolls the character inflicts or suffers until the end of the encounter.</Description>
-  <Custom>DescOnly</Custom>
-  <Ranked>false</Ranked>
-  <ActivationValue>taIncidental</ActivationValue>
-</Talent>
-<Talent>
-  <Key>SIDESTIMP</Key>
-  <Name>Improved Side Step</Name>
-  <Description>When the character performs the Side Step maneuver, until the start of their next turn they may spend [TH][TH][TH] or [DE] from an attacker’s check to inflict one hit with a ranged weapon they are wielding.</Description>
-  <Custom>DescOnly</Custom>
-  <Ranked>false</Ranked>
-  <ActivationValue>taIncidental</ActivationValue>
-</Talent>
-<Talent>
-  <Key>MOMTUM</Key>
-  <Name>Momentum</Name>
-  <Description>The character deals additional damage with their first hit equal to the number of range bands they have moved during the current round.</Description>
-  <Custom>DescOnly</Custom>
-  <Ranked>false</Ranked>
-  <ActivationValue>taPassive</ActivationValue>
-</Talent>
 </Talents>
