@@ -306,6 +306,19 @@ an out-of-turn incidental.</Description>
     </SkillChars>
   </Talent>
   <Talent>
+    <Key>ATCOST</Key>
+    <Name>At Any Cost</Name>
+    <Description>May suffer a Critical Injury to reroll a Mass Combat check. At GM's discretion, may sacrifice an item or individual of personal significance instead.</Description>
+    <Source Page="37">Collapse of the Republic</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+  </Talent>
+  <Talent>
     <Key>BACKROOM</Key>
     <Name>Backroom Deal</Name>
     <Description>[H4]Backroom Deal[h4]
@@ -657,10 +670,9 @@ pool to the results.</Description>
   <Talent>
     <Key>BOUNDTOG</Key>
     <Name>Bound Together</Name>
-    <Description>Perform the Bound Together maneuver. Until the character's next turn, when the character or an ally within short range suffers strain, they reduce the amount by the current number of light side Destiny Points.</Description>
-    <Sources />
+    <Description>The character may perform the Bound Together maneuver. Until the start of the character's next turn, when the character or an ally within short range suffers strain involuntarily, they reduce the amount suffered by the current number of light side Destiny Points in the destiny pool.</Description>
+    <Source Page="37">Collapse of the Republic</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -852,12 +864,11 @@ When the character performs the Brace maneuver, the benefits apply to all allies
   </Talent>
   <Talent>
     <Key>CENTERSUPR</Key>
-    <Name>Supreme Center of Being</Name>
-    <Description>When the character performs the Center of Being maneuver, until the start of their next turn they may spend [symbol] [symbol] or [symbol] from an attacker’s check to inflict one hit with a ranged weapon they are wielding.</Description>
-    <Sources />
+    <Name>Center of Being (Supreme)</Name>
+    <Description>When the character performs the Center of Being maneuver, until the beginning of their next turn, ranged weapons also treat their critical rating as one higher per rank of Center of Being when attacking the character.</Description>
+    <Source Page="37">Collapse of the Republic</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
-    <ActivationValue>taManeuver</ActivationValue>
+    <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
@@ -902,6 +913,19 @@ of [SU] or [AD] (in any combination) to the results.
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>CLANKILLIMP</Key>
+    <Name>Clanker Killer (Improved)</Name>
+    <Description>Decrease the critical rating of Brawl and melee attacks targeting droids by 1 per rank of Clanker Killer, to a minimum of 1.</Description>
+    <Source Page="37">Collapse of the Republic</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>CLEVCOMM</Key>
@@ -1621,15 +1645,25 @@ damage on an enemy.</Description>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
-    <Key>DIPLOIMMUNITY</Key>
-    <Name>Diplomatic Immunity</Name>
-    <Description>As an out-of-turn incidental, the character spends one Destiny Point and adversaries cannot choose the target of a combat check until the end of their next turn.</Description>
-    <Sources>
-      <Source Page="32">Collapse of the Republic</Source>
-    </Sources>
-    <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
+    <Key>DETDROP</Key>
+    <Name>Get The Drop</Name>
+    <Description>Once per session, the character and any number of allies in the encounter may add [SU] equal to the character's rank in Stealth to their checks to determine initiative.</Description>
+    <Source Page="21">Collapse of the Republic</Source>
+    <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+  </Talent>
+  <Talent>
+    <Key>DIPIMM</Key>
+    <Name>Diplomatic Immunity</Name>
+    <Description>Once per encounter, the character may perform the Diplomatic Immunity incidental. The character spends one Destiny Point and adversaries cannot choose the character as the target of a combat check until after the end of the character's next turn. This effect ends if the character makes a combat check.</Description>
+    <Source Page="38">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
     <Key>DISARMSMILE</Key>
@@ -1854,12 +1888,20 @@ damage on an enemy.</Description>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
+    <Key>DROIDCOMM</Key>
+    <Name>Droid Commander</Name>
+    <Description>Once per encounter, the character may perform Field Commander as a maneuver instead of an action. All affected allies must be droids.</Description>
+    <Source Page="38">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+  </Talent>
+  <Talent>
     <Key>DTHFRABOVE</Key>
     <Name>Death from Above</Name>
-    <Description>Once per encounter, inflict 1 system strain on jetpack and make a Hard ([DI][DI][DI]) Piloting check. For each [SU], one adversary in short range is knocked prone. May spend [TR] to stagger one affected target.</Description>
+    <Description>Once per encounter while using a jetpack, the character may take the Death from Above action, inflicting 1 system strain on their jetpack and making a [B]Hard ([DI][DI][DI]) Piloting (Planetary) check[b]. If the check is successful, for each [SU], one adversary of silhouette 0 or 1 within short range is knocked prone. The character may spend [TR] from the check to stagger one affected adversary until the end of the adversary's next turn.</Description>
+    <Source Page="40">Collapse of the Republic</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
-    <ActivationValue>taIncidental</ActivationValue>
+    <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
     <Key>DUELTRAIN</Key>
@@ -1938,6 +1980,19 @@ damage on an enemy.</Description>
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>ENDPRES</Key>
+    <Name>Enduring Presence</Name>
+    <Description>Once per session the character may upgrade a Mass Combat check even if the character is not present or is prevented from communicating with their troops.</Description>
+    <Source Page="21">Collapse of the Republic</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>ENDUR</Key>
@@ -2054,6 +2109,15 @@ roll [CH] and add it to the check results.
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
+    <Key>EXEMPREP</Key>
+    <Name>Exemplar of the Republic</Name>
+    <Description>When making a Mass Combat check for which the character is the acting commander or takes a prominent role on the battlefield, the character may add [FO] no greater than their Force rating to the check. The character may spend [FP] to add [SU] or [AD] (character's choice) to the result.</Description>
+    <Source Page="39">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ForceTalent>true</ForceTalent>
+  </Talent>
+  <Talent>
     <Key>EXHANDLER</Key>
     <Name>Expert Handler</Name>
     <Description>Remove [SE] per rank of Expert Handler from Survival checks made to ride beasts.</Description>
@@ -2135,6 +2199,14 @@ roll [CH] and add it to the check results.
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
+  </Talent>
+  <Talent>
+    <Key>FALLBAK</Key>
+    <Name>Fall Back!</Name>
+    <Description>While engaged with an opponent, the character may suffer a number of strain up to their ranks in Leadership to allow an equal number of allies to immediately disengage from that opponent as an out-of-turn incidental.</Description>
+    <Source Page="39">Collapse of the Republic</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
     <Key>FAMSUNS</Key>
@@ -2372,12 +2444,11 @@ affect allied clones.
   </Talent>
   <Talent>
     <Key>FLOWTHINGS</Key>
-    <Name>Flows Through All Things</Name>
-    <Description>The character may perform a maneuver to recover strain equal to their Force rating.</Description>
-    <Sources />
+    <Name>Flow through all Things</Name>
+    <Description>Once per round, the character may perform the Flows through all Things maneuver to recover strain equal to their Force rating.</Description>
+    <Source Page="39">Collapse of the Republic</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
-    <ActivationValue>taManeuver</ActivationValue>
+    <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
@@ -2948,9 +3019,9 @@ After the character uses Parry or Reflect to reduce damage to an ally, that ally
   <Talent>
     <Key>HITRUN</Key>
     <Name>Hit and Run</Name>
-    <Description>After the character completes an attack targeting an opponent they are engaged with, they may immediately move to short range using a jetpack.</Description>
+    <Description>While the character is using a jetpack, after they complete an attack targeting an opponent they are engaged with, the character may immediately disengage as an incidental.</Description>
+    <Source Page="40">Collapse of the Republic</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3028,6 +3099,39 @@ ships in the encounter.</Description>
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>ICHBLADE</Key>
+    <Name>Ichor Blade</Name>
+    <Description>When the character purchases this talent, choose one Melee or Brawl weapon they possess that does not feature electronic or other high-tech parts. (For example, they could choose a sword or staff, but not a vibroknife or electrostaff.) The weapon gains the Cortosis and Pierce 2 item qualities and reduces its critical rating by one to a minimum of 1. In addition, any other character adds [SE] to checks they make to use this weapon. If the weapon is ever lost or destroyed, the character can apply Ichor Blade to a new weapon. If the weapon leaves the character's possession for longer than a single scene or encounter, it loses all effects of this talent until the character reacquires it.</Description>
+    <Source Page="40">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>ICHBLDIMP</Key>
+    <Name>Ichor Blade (Improved)</Name>
+    <Description>The weapon affected by the character's Ichor Blade talent also gains the Sunder and Defensive 1 item qualities, and increases its damage by 2.</Description>
+    <Source Page="40">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>ICHORRES</Key>
+    <Name>Ichor Reserve</Name>
+    <Description>Once per session, the character may suffer 2 strain to perform the Ichor Reserver maneuver. Their Force rating increases by 1 until the end of the scene or encounter. At the GM's discretion, the character may need to occasionally return to Dathomir to replenish their supply of magickal ichor.</Description>
+    <Source Page="40">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taManeuver</ActivationValue>
+    <ForceTalent>true</ForceTalent>
+  </Talent>
+  <Talent>
+    <Key>ICHTRANS</Key>
+    <Name>Ichor Transfusion</Name>
+    <Description>Once per encounter, the character may perform the Ichor Transfusion maneuver. The character may heal any number of their current wounds by suffering that number of strain +1. The character may instead heal any number of their current strain by suffering that number of wounds +1.</Description>
+    <Source Page="40">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
     <Key>IDEALIST</Key>
@@ -3255,6 +3359,19 @@ ships in the encounter.</Description>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
+    <Key>INGLOY</Key>
+    <Name>Ingrained Loyalty</Name>
+    <Description>When the character makes a Leadership check targeting one or more clones, they may change the result of one [CH] to any non-blank face.</Description>
+    <Source Page="21">Collapse of the Republic</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+  </Talent>
+  <Talent>
     <Key>INKNOW</Key>
     <Name>In The Know</Name>
     <Description>Once per session while in an enemy facility or vessel, may perform the Inside Knowledge action, make a [B]Hard ([DI][DI][DI]) Skulduggery check[b]. Character may then find a single personal scale item with a rarity no greater than Cunning plus 2 previously stashed here, or gain a narrative benefit.</Description>
@@ -3324,6 +3441,15 @@ ships in the encounter.</Description>
         <Key>PERC</Key>
       </NewSkills>
     </ChooseCareerSkills>
+  </Talent>
+  <Talent>
+    <Key>INSPKILL</Key>
+    <Name>Inspiring Kill</Name>
+    <Description>The character may spend one Destiny Point to perform an Inspiring Kill maneuver immediately after conducting a successful attack in which the target is incapacitated or suffers a Critical Injury. The character rolls [FO] no greater than their Force rating, and may spend [FP] to heal 2 strain from allies within medium range (and may do so multiple times). If the rules for Morality in [B]Force and Destiny[b] are in use, a character who has purchased this talent gains 1 Conflict at the beginning of each game session.</Description>
+    <Source Page="40">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taManeuver</ActivationValue>
+    <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
     <Key>INSPLEAD</Key>
@@ -3570,9 +3696,9 @@ ships in the encounter.</Description>
   <Talent>
     <Key>JETEXP</Key>
     <Name>Jetpack Expertise</Name>
-    <Description>The character may spend [AD] from their checks to remove 1 system strain from their jetpack. (They may choose this effect multiple times when spending [AD]).</Description>
+    <Description>The character may spend [AD] from checks they make to remove 1 system strain from a jetpack they are equipped with. (They may choose this effect multiple times when spending [AD].)</Description>
+    <Source Page="41">Collapse of the Republic</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3713,6 +3839,32 @@ ships in the encounter.</Description>
     <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
+    <Key>KNOWNPROG</Key>
+    <Name>Known Programming</Name>
+    <Description>Once per session, make a [B]Hard ([DI][DI][DI]) Vigilance check[b] to upgrade the difficulty of a certain droid model's check against the character, plus one ally per [SU] after the first, once for the rest of the encounter.</Description>
+    <Source Page="21">Collapse of the Republic</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+  </Talent>
+  <Talent>
+    <Key>KNOWNPROGIMP</Key>
+    <Name>Known Programming (Improved)</Name>
+    <Description>Allies affected by Known Programming also upgrade the ability of their checks targeting the chose droid model once.</Description>
+    <Source Page="21">Collapse of the Republic</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+  </Talent>
+  <Talent>
     <Key>KNOWPOW</Key>
     <Name>Knowledge is Power</Name>
     <Description>Once per session, when making a check count Force rating as being equal to ranks in Knowledge (Lore).</Description>
@@ -3778,6 +3930,15 @@ ships in the encounter.</Description>
       <TypeValue>stKnowledge</TypeValue>
       <SkillCount>1</SkillCount>
     </SkillChoice>
+  </Talent>
+  <Talent>
+    <Key>KNOWSTR</Key>
+    <Name>Knowledge is Strength</Name>
+    <Description>Once per session, when making a check, the character may increase their Force rating by their ranks in Knowledge (Warfare) for the duration of the check. If the rules for Morality in [B]Force and Destiny[b] are in use, a character who has purchased this talent gains 1 Conflict at the beginning of each game session.</Description>
+    <Source Page="41">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
     <Key>KNOWWEAK</Key>
@@ -4163,11 +4324,10 @@ their Cool and Negotiation checks.
   <Talent>
     <Key>MASTERORDER</Key>
     <Name>Master of the Order</Name>
-    <Description>The character can spend 2 Destiny Points during a single action.</Description>
-    <Sources />
+    <Description>The character may spend two Destiny Points during a single action.</Description>
+    <Source Page="41">Collapse of the Republic</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
-    <ActivationValue>taPassive</ActivationValue>
+    <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
@@ -4273,9 +4433,9 @@ In any combination.)
   <Talent>
     <Key>MOMTUM</Key>
     <Name>Momentum</Name>
-    <Description>The character deals additional damage with their first hit equal to the number of range bands they have moved during the current round.</Description>
+    <Description>When making a melee attack, the character deals additional damage equal to the number of range bands they moved during the current round.</Description>
+    <Source Page="41">Collapse of the Republic</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -4418,7 +4578,14 @@ In any combination.)
       <Source Page="153">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
+    <ActivationValue>taIncidental</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>NATCHAMP</Key>
+    <Name>Natural Champion</Name>
+    <Description>Once per game session, the character may reroll any one Leadership or Lightsaber check.</Description>
+    <Source Page="41">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4433,6 +4600,19 @@ In any combination.)
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>NATCOMMAN</Key>
+    <Name>Natural Commando</Name>
+    <Description>Once per session, the character may reroll one Ranged (Light) or Stealth check.</Description>
+    <Source Page="21">Collapse of the Republic</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>NATDOC</Key>
@@ -4680,14 +4860,11 @@ Gunnery or Ranged (Heavy) check.</Description>
   </Talent>
   <Talent>
     <Key>NOBFOOLIMP</Key>
-    <Name>Nobody's Fool</Name>
-    <Description>The character may spend [DE] or [TH][TH][TH] from an incoming Charm, Coercion, or Deception check to inflict strain on the opponent equal to the character's ranks in Nobody's Fool.</Description>
-    <Sources>
-      <Source Page="32">Collapse of the Republic</Source>
-    </Sources>
+    <Name>Nobody's Fool (Improved)</Name>
+    <Description>When targeted by a Charm, Coercion, or Deception check, the character may spend [DE] or [TH][TH][TH] from the check to inflict strain on the opponent equal to the character's ranks in Nobody's Fool.</Description>
+    <Source Page="42">Collapse of the Republic</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>true</Ranked>
-    <ActivationValue>taIncidental</ActivationValue>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
     <Key>NOESC</Key>
@@ -5186,10 +5363,9 @@ characters ship or allies.
   <Talent>
     <Key>POWERALLY</Key>
     <Name>Powerful Ally</Name>
-    <Description>The character may spend a Destiny Point to use the base version of a Force power they have not purchased or apply the effects of a control upgrade to a power they have purchased.</Description>
-    <Sources />
+    <Description>The character may spend a Destiny Point to use the basic version of a Force power their have not purchased or to apply the effects of a single unpurchased control upgrade to a power their have purchased.</Description>
+    <Source Page="42">Collapse of the Republic</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5205,6 +5381,19 @@ characters ship or allies.
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <Conflict>1</Conflict>
+  </Talent>
+  <Talent>
+    <Key>PRACTSTRAT</Key>
+    <Name>Practiced Strategist</Name>
+    <Description>Once per session, make an [B]opposed knowledge(Warfare) check[b] against a leader of enemy forces to gain a narrative advantage.</Description>
+    <Source Page="21">Collapse of the Republic</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>PRECAIM</Key>
@@ -5260,7 +5449,15 @@ characters ship or allies.
     <Description>May spend 1 Destiny Point to disengage from engaged enemy as an out-of-turn incidental.</Description>
     <Source Page="149">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <ForceTalent>true</ForceTalent>
+  </Talent>
+  <Talent>
+    <Key>PREINTER</Key>
+    <Name>Preemptive Intervention</Name>
+    <Description>Immediately after an opponent moves to engage an ally within short range of the character, the character may spend one Destiny Point to engage with that opponent as an out-of-turn incidental.</Description>
+    <Source Page="42">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5469,6 +5666,19 @@ characters ship or allies.
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>RAPFIRE</Key>
+    <Name>Rapid Fire</Name>
+    <Description>May add the Autofire item quality to a Ranged (Light) combat check. After resolving the attack, the weapon runs out of ammo.</Description>
+    <Source Page="21">Collapse of the Republic</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>RAPREA</Key>
@@ -6245,11 +6455,11 @@ effects are cumulative.)
   </Talent>
   <Talent>
     <Key>SIDESTIMP</Key>
-    <Name>Improved Side Step</Name>
-    <Description>When the character performs the Side Step maneuver, until the start of their next turn they may spend [TH][TH][TH] or [DE] from an attacker’s check to inflict one hit with a ranged weapon they are wielding.</Description>
+    <Name>Side Step (Improved)</Name>
+    <Description>When the character performs a Side Step maneuver, until the start of their next turn, they may spend [TH][TH][TH] or [DE] from a combat check targeting them to inflict one hit on that attacker from a Ranged (Heavy) or Ranged (Light) weapon the character is currently wielding. The hit deals its base damage plus any damage from applicable talents or abilities. This talent may not be used if the original attack incapacitates the character.</Description>
+    <Source Page="43">Collapse of the Republic</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
-    <ActivationValue>taIncidental</ActivationValue>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
     <Key>SIGVEH</Key>
@@ -6626,6 +6836,22 @@ the character heals 4 strain.</Description>
     </DieModifiers>
   </Talent>
   <Talent>
+    <Key>STANDFRM</Key>
+    <Name>Stand Firm!</Name>
+    <Description>Once per encounter, the character may take the Stand Firm! action, making a [B]Hard ([DI][DI][DI]) Leadership check[b]. If the check is successful, the character chooses one ally within medium range for each [SU] on the check. Until the end of the encounter, chosen allies increase their wound threshold by an amount equal to the character's Presence rating. (Multiple uses of this talent are not cumulative.)</Description>
+    <Source Page="44">Collapse of the Republic</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taAction</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>STANFIRMIMP</Key>
+    <Name>Stand Firm! (Improved)</Name>
+    <Description>Allies affected by Stand Firm! also increase their strain threshold by an amount equal to the character's Presence rating. (Multiple uses of this talent are not cumulative.)</Description>
+    <Source Page="44">Collapse of the Republic</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+  </Talent>
+  <Talent>
     <Key>STEADYAIM</Key>
     <Name>Steady Aim</Name>
     <Description>The character does not lose the benefits of the Aim maneuver if he performs other maneuvers (including moving) or actions. He does lose the benefits of the Aim maneuver if the encounter ends.</Description>
@@ -6637,7 +6863,6 @@ the character heals 4 strain.</Description>
       <TypeValue>stGeneral</TypeValue>
       <Type>General</Type>
     </ChooseCareerSkills>
-    <Activation>Passive</Activation>
   </Talent>
   <Talent>
     <Key>STEADYNERVES</Key>
@@ -6835,6 +7060,14 @@ the character heals 4 strain.</Description>
     <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
+    <Key>SUMMITEM</Key>
+    <Name>Summon Item</Name>
+    <Description>When the character purchases this talent, choose one item they own of encumbrance 4 or less. As a maneuver, the character can summon this item to their hand or dismiss it from their hand back to the depths of Dathomir, regardless of the character's location. Once per session, the character can spend one hour to ceremonially prepare a different item to be summoned. The character can have only one item prepared in this way at a time.</Description>
+    <Source Page="44">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taManeuver</ActivationValue>
+  </Talent>
+  <Talent>
     <Key>SUNDERIMP</Key>
     <Name>Sunder (Improved)</Name>
     <Description>Each [AD] spent to activate a weapon's Sunder quality damages an item two steps, instead of one.</Description>
@@ -6931,6 +7164,19 @@ the character heals 4 strain.</Description>
     <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
+    <Key>SURVINS</Key>
+    <Name>Survivor's Instincts</Name>
+    <Description>Once per session when the character suffers a Critical injury spend 1 Destiny Point. Then the attacker must roll two results for the Critical Injury and the player choose which will apply to their character.</Description>
+    <Source Page="21">Collapse of the Republic</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+  </Talent>
+  <Talent>
     <Key>SWIFT</Key>
     <Name>Swift</Name>
     <Description>Do not suffer usual penalties for moving through difficult terrain.</Description>
@@ -6974,6 +7220,32 @@ suffering strain).
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>TACTEVAS</Key>
+    <Name>Tactical Evasion</Name>
+    <Description>Upgrade the difficulty of ranged combat checks targeting the character a number of times equal to the number of maneuvers they performed to move during this round.</Description>
+    <Source Page="21">Collapse of the Republic</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
+  </Talent>
+  <Talent>
+    <Key>TACTPLAN</Key>
+    <Name>Tactical Planning</Name>
+    <Description>Once per session, the character may substitute a Knowledge(Warfare) skill check for another skill check.</Description>
+    <Source Page="21">Collapse of the Republic</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taIncidental</ActivationValue>
+    <ChooseCareerSkills>
+      <ChooseByType>true</ChooseByType>
+      <TypeValue>stGeneral</TypeValue>
+      <Type>General</Type>
+    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>TACTTRAIN</Key>
@@ -7131,12 +7403,11 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
   </Talent>
   <Talent>
     <Key>THERETRY</Key>
-    <Name>There is No Try</Name>
-    <Description>Once per session before an ally rolls the dice for a check, the character may spend 1 Destiny Point to allow the ally to automatically succeed at the check with one [SU] and no other results.</Description>
-    <Sources />
+    <Name>There is no Try</Name>
+    <Description>Once per session before an ally rolls the dice for a check, the character may spend a Destiny Point to allow the ally to automatically succeed at the check with one [SU] and no other results.</Description>
+    <Source Page="44">Collapse of the Republic</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
-    <ActivationValue>taIncidental</ActivationValue>
+    <ActivationValue>taIncidentalOOT</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
@@ -7192,11 +7463,11 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
   </Talent>
   <Talent>
     <Key>TOTHEDTH</Key>
-    <Name>To the Death</Name>
-    <Description>Once per session, suffer strain up to Willpower and add +10 per strain suffered to critical rolls the character inflicts or suffers until the end of the encounter.</Description>
+    <Name>To the Death!</Name>
+    <Description>Once per session, the character may take the To the Death! maneuver, suffering strain no greater than their Willpower rating. For each strain suffered this way, add +10 to Critical Injury rolls the character inflicts and suffers until the end of the encounter.</Description>
+    <Source Page="44">Collapse of the Republic</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
-    <ActivationValue>taIncidental</ActivationValue>
+    <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
     <Key>TOUCH</Key>
@@ -7662,6 +7933,17 @@ Point to a light side Destiny Point.</Description>
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>WITCHCRFT</Key>
+    <Name>Witchcraft</Name>
+    <Description>The character gains a Force rating of 1. If the character already has a Force rating of 1 or higher, there is no effect.</Description>
+    <Source Page="44">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+    <Attributes>
+      <ForceRating>1</ForceRating>
+    </Attributes>
   </Talent>
   <Talent>
     <Key>WORKLIKECHARM</Key>
