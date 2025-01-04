@@ -32,15 +32,9 @@
   <Specializations>
     <Key>CYBERTECH</Key>
     <Key>DROIDTECH</Key>
-    <Key>FORCEADHERENT</Key>
-    <Key>IMPERIALACADEMYCADET</Key>
     <Key>MECHANIC</Key>
     <Key>MODDER</Key>
     <Key>OUTLAW</Key>
-    <Key>PADAWANSURVIVOR</Key>
-    <Key>PIRATE</Key>
-    <Key>RETIREDCLONETROOPER</Key>
-    <Key>SHIPCAPTAIN</Key>
     <Key>SLICER</Key>
   </Specializations>
 </Career>

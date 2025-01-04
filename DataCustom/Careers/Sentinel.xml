@@ -32,17 +32,11 @@ The Sentinel's six career skills are [B]Computers, Deception, Knowledge (Core Wo
   </CareerSkills>
   <Specializations>
     <Key>ARTISAN</Key>
-    <Key>FORCEADHERENT</Key>
-    <Key>IMPERIALACADEMYCADET</Key>
     <Key>INVESTIGATOR</Key>
-    <Key>PADAWANSURVIVOR</Key>
-    <Key>PIRATE</Key>
     <Key>RACER</Key>
-    <Key>RETIREDCLONETROOPER</Key>
     <Key>SENTRY</Key>
     <Key>SHADOW</Key>
     <Key>SHIEN</Key>
-    <Key>SHIPCAPTAIN</Key>
   </Specializations>
   <Attributes>
     <WoundThreshold>0</WoundThreshold>

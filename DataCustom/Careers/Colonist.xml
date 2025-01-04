@@ -35,15 +35,9 @@
   <Specializations>
     <Key>DOCTOR</Key>
     <Key>ENTREPRENEUR</Key>
-    <Key>FORCEADHERENT</Key>
-    <Key>IMPERIALACADEMYCADET</Key>
     <Key>MARSHAL</Key>
-    <Key>PADAWANSURVIVOR</Key>
     <Key>PERFORMER</Key>
-    <Key>PIRATE</Key>
     <Key>POLITICO</Key>
-    <Key>RETIREDCLONETROOPER</Key>
     <Key>SCHOLAR</Key>
-    <Key>SHIPCAPTAIN</Key>
   </Specializations>
 </Career>

@@ -28,15 +28,9 @@ An Ace's eight career skills are [B]Astrogation, Cool, Gunnery, Mechanics, Perce
   <Specializations>
     <Key>BEASTRIDER</Key>
     <Key>DRIVER</Key>
-    <Key>FORCEADHERENT</Key>
     <Key>GUNNER</Key>
     <Key>HOTSHOT</Key>
-    <Key>IMPERIALACADEMYCADET</Key>
-    <Key>PADAWANSURVIVOR</Key>
     <Key>PILOT</Key>
-    <Key>PIRATE</Key>
-    <Key>RETIREDCLONETROOPER</Key>
     <Key>RIGGER</Key>
-    <Key>SHIPCAPTAIN</Key>
   </Specializations>
 </Career>

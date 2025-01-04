@@ -27,16 +27,10 @@ from the heart of galactic civilization. A Force adept who is willing and able t
   <Specializations>
     <Key>ATARU</Key>
     <Key>EXECUTIONER</Key>
-    <Key>FORCEADHERENT</Key>
     <Key>HERMIT</Key>
     <Key>HUNTER</Key>
-    <Key>IMPERIALACADEMYCADET</Key>
     <Key>NAVIGATOR</Key>
-    <Key>PADAWANSURVIVOR</Key>
     <Key>PATH</Key>
-    <Key>PIRATE</Key>
-    <Key>RETIREDCLONETROOPER</Key>
-    <Key>SHIPCAPTAIN</Key>
   </Specializations>
   <Attributes>
     <WoundThreshold>0</WoundThreshold>
