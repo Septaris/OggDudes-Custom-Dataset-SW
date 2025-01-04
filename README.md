@@ -13,7 +13,7 @@ Download the [OggDude's Character Generator](https://www.swrpgcommunity.com/gm-r
 Now you need to download the dataset. You can obtain it in two ways:
 
 1. Download the `DataCustom` zip file directly from the [Releases section](https://github.com/Septaris/OggDudes-Custom-Dataset-SW/releases/). Unzip the file and move the `DataCustom` folder into the `custom_dataset` folder.
-2. Download or clone the source code from this repository and keep only the `DataCustom` folder. 
+2. Download or clone the source code from this repository and keep only the `DataCustom` folder.
 
 ### Linking the dataset
 
@@ -29,11 +29,11 @@ To import the majority of item data into Foundry VTT, you can use the OggDude da
 
 1. From within your world, select **Compendium Packs**.
 2. Click **OggDude Dataset Importer** at the bottom of the list.
-5. Use the zipped `DataCustom` file:
+3. Use the zipped `DataCustom` file:
    - Select your zipped data file using the "Choose File" file picker.
    - Click **Load File**.
-6. Select the types of data you'd like to import.
-7. Click **Start Import**.
+4. Select the types of data you'd like to import.
+5. Click **Start Import**.
 
 The imported data will be added to a series of compendiums.
 
