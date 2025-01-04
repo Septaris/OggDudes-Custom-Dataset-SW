@@ -5992,17 +5992,6 @@ this characteristic in place of Brawn when making Lightsaber checks
     <LessStrain>1</LessStrain>
   </Talent>
   <Talent>
-    <Key>RESOURCEALLOC</Key>
-    <Name>Resource Allocation</Name>
-    <Description>At the beginning of a Mass Combat, make a Hard ([DI][DI][DI]) Charm or Negotiation check to increase their force's strength by one step for the duration of the encounter. May spend [TR] from the check to upgrade the ability of their force's first Mass Combat check.</Description>
-    <Sources>
-      <Source Page="32">Collapse of the Republic</Source>
-    </Sources>
-    <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
-    <ActivationValue>taAction</ActivationValue>
-  </Talent>
-  <Talent>
     <Key>RESOURCEREFIT</Key>
     <Name>Resourceful Refit</Name>
     <Description>May perform the Resourceful Refit action, make an [B]Average ([DI][DI]) Mechanics check[b] to scavenge an old attachment to construct a new one, reducing its price by that of the dismantled attachment.</Description>
