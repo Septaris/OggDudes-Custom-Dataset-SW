@@ -332,7 +332,7 @@ It's a tragic fact that all too often, the brave members of the Alliance fail to
     </BaseMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>ARMORINSERT</Key>
+    <Key>ARMINS</Key>
     <Name>Armor Insert</Name>
     <Description>[H3]Armor Insert[h3]
 Armor inserts are thin, flexible, plasteel and ballistic gel plates that can be sewn into clothing to give the wearer concealed armor protection. They can be added to any garment that is suitably large and alter- able, and they can be installed by any skilled tailor for a moderate fee. This attachment can be applied to any armor with a defense no greater than 0 and a soak of 1 or less.
@@ -1323,7 +1323,7 @@ command.
     </AddedMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>CLOAKDEVICE</Key>
+    <Key>CLOAKDEV</Key>
     <Name>Cloaking Device</Name>
     <Description>[H3]Cloaking Device[h3]
 Cloaking devices are exceedingly rare and typically only fitted to starships employed in gathering intelligence assignments. Fueled with either hibridium or stygium, these power-hungry systems render a ship completely invisible. Cloaking devices are illegal to own for non-military use, a fact that is largely lost on those few criminals, smugglers, and espionage freelancers who are wealthy enough to afford them. This attachment can be applied to any starship of silhouette 3 or larger.
@@ -1504,7 +1504,7 @@ A more drastic, but more effective, option is to alter a weapon or other device 
     </BaseMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>COMPONENTIZE</Key>
+    <Key>COMPONENT</Key>
     <Name>Componentization</Name>
     <Description>[H3]Componentization[h3]
 This mod allows a weapon to be broken down into a number of innocuous-looking pieces so that it can be smuggled into and out of places where weapons are not allowed or are highly regulated. When broken down, a componentized weapon looks like a collection of basic tools, comlinks, glow rods, datapad styluses, and other items any individual might be expected to carry. Each part also functions as that item as well. It takes two maneuvers to assemble or disassemble a weapon with this mod. Loss of or damage to a component ruins the weapon, and another will have to be acquired and modified. This attachment can be applied to any weapon with an encumbrance of 2 or less.
@@ -1742,7 +1742,7 @@ With the destruction of the Jedi, the Empire has begun to horde kyber crystals f
     <IsCrystal>true</IsCrystal>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>CRACKEDJEDHA</Key>
+    <Key>JEDHACR</Key>
     <Name>Cracked Jedha Crystal</Name>
     <Description>[H3]Cracked Jedha Crystal[h3]
 When a terrible mining accident destroyed Jedha City, the galaxy lost one of the last known sources of kyber crystals. The crystals produced on Jedha held great spiritual significance for the Jedi, the Church of the Force, and a number of other religious traditions. Jedha crystals were among the most popular kyber crystals for the Jedi. As a practical matter, Jedha crystals produce focused, potent lightsaber blades, but many Jedi valued the knowledge that their lightsaber housed an artifact from Jedha. For those who seek to follow in the Jedi's path, kyber crystals have become vanishingly rare in recent years. However, a small number of Jedha crystals have  been recovered from the ruins of Jedha City. Unfortunately, many of these crystals are cracked and damaged, producing unstable, ragged lightsaber beams.
@@ -3631,7 +3631,7 @@ A smoke generator creates thick black or grey smoke that inhibits line of sight.
     </BaseMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>FOHYPER4</Key>
+    <Key>HYPERMOD4</Key>
     <Name>Hyperdrive Class 4 Module</Name>
     <Description>[H3]Hyperdrive Class 4 Module[h3]
 Compared to sublight engines, hyperdrive modules require less thrust ducting and other complex integration work. Thus, they are handled as a starship attachment.</Description>
@@ -3671,7 +3671,7 @@ Compared to sublight engines, hyperdrive modules require less thrust ducting and
     <MustBeStarship>true</MustBeStarship>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>FOHYPER8</Key>
+    <Key>HYPERMOD8</Key>
     <Name>Hyperdrive Class 8 Module</Name>
     <Description>[H3]Hyperdrive Class 8 Module[h3]
 Compared to sublight engines, hyperdrive modules require less thrust ducting and other complex integration work. Thus, they are handled as a starship attachment.</Description>
@@ -4325,7 +4325,7 @@ Usually formed from rigid plates or packed with protective padding, most types o
     </BaseMods>
   </ItemAttachment>
 <ItemAttachment>
-    <Key>HIDDENCOMP</Key>
+    <Key>HIDCOMP</Key>
     <Name>Hidden Compartment</Name>
     <Description>[H3]Hidden Compartment[h3]
 These are typically very small, easily concealed compartments hidden in places such as the hollowed-out handle of a blaster pistol or the heel of a shoe. Due to size constraints, they can typically only hold items with an encumbrance of 0, such as mem-stiks and credit chips. Compartments that can hold items with an encumbrance of 1 or 2 can be built into larger items, such as a false bottom in a document case.
@@ -4408,7 +4408,7 @@ Life in the galaxy has arisen in all manner of biomes, from the deep seas of Mon
     </AddedMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>HOLOCONVERTER</Key>
+    <Key>HOLOCONV</Key>
     <Name>Holo Converter</Name>
     <Description>[H3]Holo Converter[h3]
 Holo converters are common holo scrambling devices that allow users to alter a holoprojector's outgoing signal. Using powerful alteration technologies, holo converters allow users to change their species, age, gender, and any other identifying features on camera to hide their identity. This can be used with any holographic recording/projecting device, and the converter can store four different alter egos in its database.
@@ -5313,7 +5313,7 @@ Laser cannons are the mainstay weapons of many ships, and manufacturers constant
     <PriceWeponCatMult>Laser</PriceWeponCatMult>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>LIGHTWEIGHTFRAME</Key>
+    <Key>LIGHTFR</Key>
     <Name>Lightweight Frame</Name>
     <Description>[H3]Lightweight Frame[h3]
 This mod reduces both the weight and bulk of ranged weapons to make them easier to handle and conceal. Along with a frame made of a lighter alloy, this mod also includes lightweight polycarbonate stocks, foregrips, and other pieces designed to lighten up a blaster pistol or slugthrower rifle. This attachment can be applied to any weapon.
@@ -6131,7 +6131,7 @@ Even vibroweapons can benefit from an edge sharpened to molecular thickness and 
     </AddedMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>MOBLISTPOST</Key>
+    <Key>MOBLISTEN</Key>
     <Name>Mobile Listening Post</Name>
     <Description>[H3]Mobile Listening Post[h3]
 Mobile listening posts are a common modification to vehicles used by law enforcement and intelligence agencies. They pack everything an agent or small group of agents needs for a long stakeout. Models commonly include comms interceptors, various powerful sensors and scanners, and of course a small but well stocked caf maker. This attachment can be applied to any enclosed vehicle of silhouette 5 or larger.
@@ -6155,7 +6155,6 @@ Mobile listening posts are a common modification to vehicles used by law enforce
     <Name>Modular Backpack Accessory Pouch</Name>
     <Description>
       [H3]Modular Backpack Accessory Pouch[h3]
-
 The Mk. IV Modular Backpack increases the user's encumbrance threshold by 3, plus an additional 1 point of encumbrance threshold for each accessory pouch to a maximum of 3.</Description>
     <Source Page="51">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
@@ -8239,7 +8238,7 @@ Specifically modified gas conversion enablers can allow a blaster pistol or rifl
     <MinSoak>2</MinSoak>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>REFLECADAPTIVESKIN</Key>
+    <Key>REFLADAPSKIN</Key>
     <Name>Reflec Adaptive Skin</Name>
     <Description>[H3]Reflec Adaptive Skin[h3]
 Reflec is an advanced polymer that possesses adaptive light-warping and sensor-damping properties. When applied to armor, reflec acts as an optical camouflage even in fully illuminated areas. This attachment can be applied to any armor.
@@ -8418,7 +8417,7 @@ Additional armor plating on the hands is a valuable upgrade for those who favor 
     <MinSoak>2</MinSoak>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>REINFMAGSHIELD</Key>
+    <Key>REMAGSH</Key>
     <Name>Reinforced Magnetic Shielding</Name>
     <Description>[H3]Reinforced Magnetic Shielding[h3]
 A delicately tuned magnetic field maintains the coherency of a lightsaber's plasma beam. Though this modification increases the strength of a lightsaber's magnetic shielding, the blade takes on some of the qualities of a solid weapon. With this modification, the wielder gives up some of the lightsaber's legendary penetrative capacity in order to deliver punishing electromagnetic impacts.
@@ -8608,7 +8607,7 @@ While lacking the range and power of a true jetpack, a repulsor pack provides a 
     </AddedMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>RETRACGARROTE</Key>
+    <Key>RETGARROTE</Key>
     <Name>Retractable Garrote</Name>
     <Description>[H3]Retractable Garrote[h3]
 This simple mod adds a garrote to any suitable item, typically a briefcase, comlink, bracelet, or shoe, but it can even be used on a stimpack or fusion lantern.
@@ -8897,7 +8896,7 @@ Commonly applied to blaster rifles and carbines, BlasTech's "Scattergun" Spread 
     </AddedMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>SCANNERPROOF</Key>
+    <Key>SCANPROOF</Key>
     <Name>Scanner-Proof Hardware</Name>
     <Description>[H3]Scanner-Proof Hardware[h3]
 Scanner-proof hardware is a collection of upgrades that together make a weapon virtually invisible to scanners. This mod typically replaces a weapon's stock, foregrip, and any other furniture with lightweight poly-carbonates woven with scanner-spoofing fibers. In addition, most if not all metallic parts—frame, trigger group, barrel, etc.—are replaced with fiber-reinforced polycarb pieces. This mod is extremely illegal. Being caught with a weapon that can pass through scanners without being detected is usually a one-way ticket to the nearest Imperial stockade. This attachment can be applied to any weapon.
@@ -8927,7 +8926,7 @@ Scanner-proof hardware is a collection of upgrades that together make a weapon v
     </AddedMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>SCANNERWEAVE</Key>
+    <Key>SCANWEAVE</Key>
     <Name>Scannerweave</Name>
     <Description>[H3]Scannerweave[h3]
 Scannerweave is a passive stealth system consisting of an advanced sensor-blocking textile. Armor modified with scannerweave tends to be quieter thanks to the nature of the soft, flexible fabric. More importantly, its inherent qualities make the wearer nearly invisible to the various scanners and security sensors found in security vaults and data facilities. This attachment can be applied to any armor.
@@ -9086,7 +9085,7 @@ No one seems to know where these crystals come from or how they make their way i
     <IsCrystal>true</IsCrystal>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>SELFDESTRUCTSYS</Key>
+    <Key>SELFDEST</Key>
     <Name>Self-Destruct System</Name>
     <Description>[H3]Self-Destruct System[h3]
 Self-destruct systems are found on many pieces of espionage gear, especially bags, attaché cases, and diplomatic pouches. They use small, low-yield, shaped-charge explosives to destroy the item in case of theft, emergency, or improper usage. For example, an attaché case could be equipped with a self-destruct system that activates when an incorrect lock combination is entered. The explosions are usually very contained, but can be modified to deal damage to others nearby when the device detonates.
@@ -9164,7 +9163,7 @@ Using combination of broad-spectrum transmissions and low-power targeted ion pul
     </AddedMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>SENSORSHUNT</Key>
+    <Key>SENSSHUNT</Key>
     <Name>Sensor Shunt</Name>
     <Description>[H3]Sensor Shunt[h3]
 Sensor shunts are passive stealth systems fitted to ships or vehicles to hide energy signatures. Unlike a scrambler, which draws attention to itself even as it fools sensors, shunts are quiet and unobtrusive. Ships or vehicles with these upgrades are nearly invisible to passive sensors and are difficult to detect with even active scanners. This attachment can be applied to any starship or vehicle.
@@ -9849,7 +9848,7 @@ The Starhawk has an unusual feature: it can be fitted with a sidecar, allowing i
     </BaseMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>STEALTHFIELD</Key>
+    <Key>STEALTHFGEN</Key>
     <Name>Stealth Field Generator</Name>
     <Description>[H3]Stealth Field Generator[h3]
 Produced by a number of stealth technology companies, stealth field generators are the final word in personal active stealth technology. They use a combination of optical camouflage, low-output cloaking technology, active electromagnetic dampers, electronic acoustic bafflers, and thermal shielding to make a user virtually invisible to both the naked eye and to most scanners. These systems are not perfect, however. Users still need to know how to move stealthily and how to use cover and shadows to their advantage. Users also cannot move faster than a walk, or the stealth field will break down. This attachment can be applied to any armor.
@@ -10056,7 +10055,7 @@ A stun pulse attachment deals an electric shock to the target, in addition to it
     </AddedMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>SUBMINHOLOCAM</Key>
+    <Key>SUBMINHOLO</Key>
     <Name>Subminiature Holocam</Name>
     <Description>[H3]Subminiature Holocam[h3]
 Subminiature holocams are small holorecorders equipped with a medium-sized fixed focal length lens. Able to record still images and video in numerous formats, they are often hidden in datapads, eyeglasses, goggles, or jewelry. Due to their size and the nature of the attached lens, they have relatively limited capabilities. The on-board storage can store only a handful of still images or a few minutes of video, and the images are all low-resolution. Unless the subminiature holocam is specifically built for the task, it can only reliably record up to a range of three meters. In addition, miniature holocams rarely, if ever, have networking capabilities; images and video footage must be removed manually by connecting the device to a datapad or computer.
@@ -10195,7 +10194,7 @@ enhance the squadron’s performance.
     </AddedMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>TAINTNIGHTSISCRYS</Key>
+    <Key>TAINTNIGHT</Key>
     <Name>Tainted Nightsister Crystal</Name>
     <Description>[H3]Tainted Nightsister Crystal[h3]
 The Nightsisters rose and fell as a faction untouched by the conflicts between Jedi and Sith. As such, they had little time to adopt the iconic lightsabers as their weapons of choice. This has not stopped dark side Mystics from trying to fuse Nightsister magic with Sith weaponry. Most experiments yield no fruit, but some have made for particularly terrifying advancements. Tainted Nightsister crystals were once pure Kyber crystals. Soaking them in Dathomiri Waters of Life perverts their connection to the Force. The resulting blade emits a choking, putrid green smoke when active.</Description>
@@ -10312,7 +10311,7 @@ data needed to make good strategic decisions in battle.
     </AddedMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>THISSSTABCOIL</Key>
+    <Key>THISSCOIL</Key>
     <Name>Thisspiasian Stabilizing Coils</Name>
     <Description>[H3]Thisspiasian Stabilizing Coils[h3]
 Thisspiasian weaponcraft focused, for centuries, on grace above all else. The antique manners of the Blood Court may embarrass the average citizen, but one can't argue with their results. Traditional weapons from Thisspias correct for even the clumsiest of maneuvers.
@@ -10335,7 +10334,7 @@ Thisspiasian weaponcraft focused, for centuries, on grace above all else. The an
     </BaseMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>THOLHEARTWOODHILT</Key>
+    <Key>THOLOHILT</Key>
     <Name>Tholothian Heartwood Hilt</Name>
     <Description>[H3]Tholothian Heartwood Hilt[h3]
 While most lightsabers have synthetic hilts, Tholothian Jedi preferred a more organic approach. At their height, they crafted heartwood hilts from the timber of still-living trees The wood was then preserved in a specialized ritual-one more often used when a heartwood tree was dying. The resulting hilt is resistant to decay and can house a lightsaber's apparatus. The resulting lightsabers are beautiful works of art as much as they are weapons. The resins used to preserve the timber increase its weight, and wielders must take appropriate care in using them. This often translates to a stronger and more deliberate strike when this weapon does connect.</Description>
@@ -10763,7 +10762,7 @@ An ungainly attachment, an underslung scattergun is a single-shot slugthrower th
     </WeaponModifiers>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>UNSTABLEKYBERCRYS</Key>
+    <Key>UNSTKYBER</Key>
     <Name>Unstable Kyber Crystal</Name>
     <Description>[H3]Unstable Kyber Crystal[h3]
 The Kyber crystal is the heart of a lightsaber, but as with the hearts of organic beings, there can be imperfections. There are many opportunities between mining and use for a crystal to become unstable. It could develop hairline fractures in initial transit. Its wielder might subject it to extreme stress in use. Either way, power can begin to leak out of the crystal itself.
@@ -11059,7 +11058,7 @@ Although most fights are resolved with exchanges of blaster fire, a close-range 
     </WeaponModifiers>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>WALKINGSTICKHILT</Key>
+    <Key>WALKHILT</Key>
     <Name>Walking Stick Hilt Disguise</Name>
     <Description>[H3]Walking Stick Hilt Disguise[h3]
 Often, particularly elderly Jedi constructed their lightsabers in the body of a sturdy walking stick. If the blade is a Jedi's life, why shouldn't it make things a little easier? The pure utility of this practice fell out of favor with the Jedi Order. Most elderly Jedi did not, after all, survive the Purge. Survivors, though, found a similar technique could hide their weapons in plain sight. This concealment does come with a cost. The awkward size and inconsistent weighting often interferes with use in heated combat.</Description>
@@ -11264,7 +11263,7 @@ Originally developed to allow species without opposable thumbs to use pistols, a
     </BaseMods>
   </ItemAttachment>
   <ItemAttachment>
-    <Key>XCITEROVERCHARGE</Key>
+    <Key>XCITEOVER</Key>
     <Name>XCiter Overcharge</Name>
     <Description>[H3]XCiter Overcharge[h3]
 A common—and dangerous—modification among espionage agents, an XCiter Overcharge allows an individual to empty a blaster's energy cell in a single, extremely powerful shot. This increases the output for an emergency kick, but it runs the risk of destroying the weapon and harming the user. While typically applied to holdout blasters, this attachment can be applied to any personal blaster weapon.
@@ -11346,4 +11345,932 @@ brain damage and even death.</Description>
       </Mod>
     </BaseMods>
   </ItemAttachment>
-  </ItemAttachments>
+    <ItemAttachment>
+    <Key>ASCENGUN</Key>
+    <Name>Ascension Gun</Name>
+    <Description>
+      [H3]Ascension Gun[h3]
+Ascension guns are tools used to traverse difficult environments, from steep cliffs to urban battlefields. The frame resembles a gun barrel, but instead of a blaster bolt, it fires a grappling hook and tether that can latch onto most surfaces, then reel in the gun and its bearer with a localized repulsor field. Some variations of the ascension gun also use magnetized grapnels that can stick to sheer surfaces. "Ascension gun" is something of a misnomer, other used to refer not only to the attachment, but to modified blasters.
+[P][B]Models Include:[b] SoroSuub S-A Grappling Launcher.
+    </Description>
+    <Type>Weapon</Type>
+    <Sources>
+      <Source Page="61">Rise of the Separatists</Source>
+    </Sources>
+	<Custom>DescOnly</Custom>
+    <CategoryLimit>
+      <Category>Blaster</Category>
+    </CategoryLimit>
+    <Price>500</Price>
+    <Encumbrance>1</Encumbrance>
+    <HP>1</HP>
+    <Rarity>4</Rarity>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>User may fire  ascension gun at an anchor point within medium range with an [B]Easy ([DI]) Ranged Light[b] or [B]Coordination check[b], adding [SE] for precise placement.  May asend one range band every round.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <MiscDesc>Add [BO] to checks to fire ascension gun</MiscDesc>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <MiscDesc>Increase ascension gun speed by one range band per round</MiscDesc>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>AUGVIBROMOTOR</Key>
+    <Name>Augmented Vibro-Motor</Name>
+    <Description>
+      [H3]Augmented Vibro-Motor[h3]
+The cutting edge of a vibro weapon's blade is made many times more dangerous than that of a standard blade by the power of the weapon's rapid vibro-motor, which turns the wielder's slightest motion into a powerful and potentioally lethal stroke. Naturally, those who favor such weapons often look to the vibro-motor first when modifying their weapon. Enhancing the output of a vibro weapon's motor can make the weapon even more powerful, capable of shearing through armored plating with ease-provided the wielder can control the weapon's more active motions.
+[P]This attachment can be installed on any vibro weapon.
+    </Description>
+    <Type>Weapon</Type>
+    <Sources>
+      <Source Page="61">Rise of the Separatists</Source>
+    </Sources>
+	<Custom>DescOnly</Custom>
+    <CategoryLimit>
+      <Category>Powered Melee</Category>
+      <Category>Powered Brawl</Category>
+    </CategoryLimit>
+    <Price>500</Price>
+    <Encumbrance>0</Encumbrance>
+    <HP>2</HP>
+    <Rarity>4</Rarity>
+    <BaseMods>
+      <Mod>
+        <Key>DAMADD</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>CUMBERSOME</Key>
+        <Count>3</Count>
+        <QualSet>true</QualSet>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>DAMADD</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>VICIOUS</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>CUMBERSOME</Key>
+        <Count>-1</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>BIOSUPPORT</Key>
+    <Name>Bio-Support Dispenser</Name>
+    <Description>
+      [H3]Bio-Support Dispenser[h3]
+Sophisticated medical technology integrated into armor can enhance the effects of in-combat treatments through carefully regulated and distributed dosages. This system applies medication automatically as the wearer's vitals begin to suffer, and it includes an internal bacta reservoir for sealing the most grievous injuries.
+[P]This attachment may only be installed on a fully enclosed suit of armor, such as laminate, clone trooper, or heavy battle armor.
+    </Description>
+    <Sources>
+      <Source Page="64">Rise of the Separatists</Source>
+    </Sources>
+	<Custom>DescOnly</Custom>
+    <Type>Armor</Type>
+    <CategoryLimit>
+      <Category>Full Body</Category>
+    </CategoryLimit>
+    <Price>4000</Price>
+    <Rarity>6</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>When healing strain at end of encounter, also heal 1 wound if suffered any wounds during encounter.</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>First time wounds exceed threshold in an encounter, armor automatically applies a stimpack.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <MiscDesc>Heal 1 additional wound at end of encounter</MiscDesc>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CEREADORN</Key>
+    <Name>Cermonial Adornment</Name>
+    <Description>
+      [H3]Cermonial Adornment[h3]
+Diplomats and their retinues typically avoid armor and weapons, the better to clearly signal their sincerity. However, at times, even diplomacy is dangerous enough to warrant looking into personal protection. Those who seek a compromise between protecting their lives and putting others at easy sometimes don ornamented armor with a ceremonial style that downplays its combat-oriented nature. The best armor of this type is as functional as it is beautiful, but usually brings an attendant cost in mobility due to the elaborate decorations over the protective wear.
+[P]This attachment may be installed on any armor, although the GM may alter its effects for particularly intimidating or heavy armor.
+    </Description>
+    <Sources>
+      <Source Page="65">Rise of the Separatists</Source>
+    </Sources>
+	<Custom>DescOnly</Custom>
+    <Type>Armor</Type>
+    <Price>2500</Price>
+    <Rarity>4</Rarity>
+    <HP>0</HP>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Removes [SE][SE] from social skill checks due to wearing armor in socially inappropriate situations.</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>Adds [SE] to Coordination checks.</MiscDesc>
+        <DieModifiers>
+          <DieModifier>
+            <SkillKey>COORD</SkillKey>
+            <AddSetbackCount>1</AddSetbackCount>
+          </DieModifier>
+        </DieModifiers>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <MiscDesc>Remove [SE] from Coordination checks</MiscDesc>
+        <Count>1</Count>
+        <DieModifiers>
+          <DieModifier>
+            <SkillKey>COORD</SkillKey>
+            <AddSetbackCount>-1</AddSetbackCount>
+          </DieModifier>
+        </DieModifiers>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CIVRETRO</Key>
+    <Name>Civilian Vehicle Retrofit</Name>
+    <Description>
+      [H3]Civilian Vehicle Retrofit[h3]
+Most civilian vehicles are not designed for heavy modification. However, dedicated engineers can typically find a workaround, sacrificing effectiveness in one area to add capabilities in another.[P]When retrofitting a civilian vehicle, a character may spend 500 credits and make a [B]Hard ([DI][DI][DI]) Mechanics check[b] to add a single hard point. Hard points added this way should be focused towards military use, and the GM has final say on how this retrofit is done and its purpose, as well as which vehicles are applicable for the work.
+[P]For each hard point added this way, though, one of the vehicles other capabilities also degrades. These degradations reflect the vehicle's systems being pushed well past their inbuilt tolerances. The GM may come up with a custom effect to reflect this limit breaking, or may choose one from five options provided.
+[P][I]Note: This attachment contains several custom effects that degrade the vehicle's performance. These are included as optional mods. Talk with your GM about which degradation to choose for your vehicle.[i]
+    </Description>
+    <Sources>
+      <Source Page="74">Fully Operational</Source>
+    </Sources>
+	<Custom>DescOnly</Custom>
+    <Type>Vehicle</Type>
+    <Price>500</Price>
+    <Rarity>0</Rarity>
+    <HP>0</HP>
+    <UseModPrice>true</UseModPrice>
+    <ModPrice>0</ModPrice>
+    <BaseMods>
+      <Mod>
+        <Key>HPADD</Key>
+        <Count>1</Count>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>HANDLINGSUB</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>SSTRAINSUB2</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <MiscDesc>Whenever the vehicle suffers system strain, it suffers one additional point of system strain</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>A [DE] on a piloting checks to control the vehicle causes the vehicle to immediately drop to Speed 0</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>A [DE] when using any of the vehicle's inbuilt systems or attachments cause the system or attachment to fail for the remainder of the encounter</MiscDesc>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CLONEFIRE</Key>
+    <Name>Clone Firing Key</Name>
+    <Description>
+      [H3]Clone Firing Key[h3]
+One of the early initiatives the Kaminoans considered when developing equipment for the clone troopers was to code their equipment specifically for the clone genetic sequence, to prevent looting and sabotage. The notion was eventually abandoned as an unnecessary cost, despite the savings from having a single genetic sequence shared across an entire army, but prototypes of the technology were made. In some cases, clone firing keys have been commissioned for clone units operating deep behind enemy lines. A weapon with this system installed reads the genetic sequence of the combatant holding it and does not fire unless the sequence matches that of an authorized wielder: normally, a clone.
+[P]This attachment can be installed on any personal blaster weapon.
+    </Description>
+    <Type>Weapon</Type>
+    <Sources>
+      <Source Page="61">Rise of the Separatists</Source>
+    </Sources>
+	<Custom>DescOnly</Custom>
+    <CategoryLimit>
+      <Category>Blaster</Category>
+    </CategoryLimit>
+    <Price>250</Price>
+    <Encumbrance>0</Encumbrance>
+    <HP>1</HP>
+    <Rarity>7</Rarity>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>This weapon functions only in the hands of a clone.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <MiscDesc>Authorize one non-clone genetic sequence.</MiscDesc>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>COMBTEST</Key>
+    <Name>Combat Tested</Name>
+    <Description>
+      [H3]Combat Tested[h3]
+Over the course of numerous battles, combatants can make a variety of minor personalizations and tweaks to their gear, from notches for successful missions or targets destroyed carved into the butts of rifles, to the attachment of trophies taken from enemy droids or the battlefield. Weapons customized in this way become comforting reminders of victories past, helping their wielders stay calm under fire and in tough situations, Such personalizations can be installed on any weapon that the owner has used through extended periods of combat, as determined by the GM.
+    </Description>
+    <Type>Weapon</Type>
+    <Sources>
+      <Source Page="62">Rise of the Separatists</Source>
+    </Sources>
+	<Custom>DescOnly</Custom>
+    <CategoryLimit>
+    </CategoryLimit>
+    <Price>50</Price>
+    <Encumbrance>0</Encumbrance>
+    <HP>0</HP>
+    <Rarity>3</Rarity>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Add [BO] to Discipline checks.</MiscDesc>
+        <DieModifiers>
+          <DieModifier>
+            <SkillKey>DISC</SkillKey>
+            <BoostCount>1</BoostCount>
+          </DieModifier>
+        </DieModifiers>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <MiscDesc>Add [BO] to check to resist fear.</MiscDesc>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CORTFOR</Key>
+    <Name>Cortosis Forging</Name>
+    <Description>
+      [H3]Cortosis Forging[h3]
+For most, dueling a Jedi is a fool's errand, and even more so in close combat, where their lightsaber ditate the terms of battle. If they can afford it, bounty hunters and Separatist agents who believe they might need to pit their blade against a lightsaber purchase a vibro weapon made of cortosis alloy. This can give them a fighting chance against the deadliest weapons in the galaxy.
+[P]This attachment can be installed on any Melee weapon.
+    </Description>
+    <Type>Weapon</Type>
+    <Sources>
+      <Source Page="62">Rise of the Separatists</Source>
+    </Sources>
+	<Custom>DescOnly</Custom>
+    <TypeLimit>
+      <Type>Melee</Type>
+    </TypeLimit>
+    <Price>8000</Price>
+    <Encumbrance>0</Encumbrance>
+    <HP>1</HP>
+    <Rarity>8</Rarity>
+    <BaseMods>
+      <Mod>
+        <Key>CORTOSIS</Key>
+        <Count>1</Count>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>PIERCE</Key>
+        <Count>2</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+<ItemAttachment>
+    <Key>INSFIRMECH</Key>
+    <Name>Insulated Firing Mechanism</Name>
+    <Description>
+      [H3]Insulated Firing Mechanism[h3]
+  One of the most insidious dangers of the battlefield comes not from the foes compatants face, but from the risks of their own gear failing. Regular maintenance and examination of weapons under heavy use is a must for soldiers and mercenaries alike, but sometimes modification of a weapon can make the concerns less grave. By removing complex, failure-prone regulatory circuitry and replacing it with more basic analog systems, blasters become easier to maintain and less prone to failure or damage.[P]This attachment can be installed on any personal-scale blaster weapon.
+  [P][B]Models Include:[b] Czerka Part Replacement Kit NX3-4r, BlasTech "My First Blaster" Safety Kit.
+    </Description>
+    <Type>Weapon</Type>
+    <Sources>
+      <Source Page="62">Rise of the Separatists</Source>
+    </Sources>
+	<Custom>DescOnly</Custom>
+    <CategoryLimit>
+      <Category>Blaster</Category>
+    </CategoryLimit>
+    <Price>1000</Price>
+    <Encumbrance>0</Encumbrance>
+    <HP>1</HP>
+    <Rarity>7</Rarity>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Increases [AD] or [TH] cost of any effect that damages the weapon (such as Sunder) by one.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Key>PREPARE</Key>
+        <Count>1</Count>
+        <QualSet>true</QualSet>
+      </Mod>
+      <Mod>
+        <MiscDesc>Repairs to the weapon cost half as much.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>PREPARE</Key>
+        <Count>-1</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>IONFOCCOIL</Key>
+    <Name>Ionizing Focusing Coils</Name>
+    <Description>
+      [H3]Ionizing Focusing Coils[h3]
+  Dealing with the droid army of the CIS has made advancements in ion technology a high priority for Republic military researchers and contractors, although research in the field has produced mixed results. In an effort to make blaster weapons more damaging against droids, some manufacturers have begun offering modified focusing voils that ionize blaster gas as it is fired, granting increased stopping power against mechanical targets. However, adequately shielding the internal circuits of the blasters against the ionized gas has proven difficult, making such weapons temperamental at best. Clone detachments with a chance to customize their gear sometimes requisition these altered coils, while independent operators who anticipate interference from droid security forces or similar threats may also invest in the technology.
+  [P][B]Models Include:[b] BlasTech "Sparker" Ionization Coils.
+    </Description>
+    <Type>Weapon</Type>
+    <Sources>
+      <Source Page="62">Rise of the Separatists</Source>
+    </Sources>
+	<Custom>DescOnly</Custom>
+    <CategoryLimit>
+      <Category>Blaster</Category>
+    </CategoryLimit>
+    <Price>800</Price>
+    <Encumbrance>0</Encumbrance>
+    <HP>2</HP>
+    <Rarity>5</Rarity>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Increases damage by +2 versus droids.</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>Opponents may spend [TH][TH] or [DE] to damage weapon by one step.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <MiscDesc>Increases damage by +1 versus droids</MiscDesc>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <MiscDesc>Decreases critical rating by 1 versus droids</MiscDesc>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <MiscDesc>Increases [TH] required to backfire by 1</MiscDesc>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>FUSIONSHUNT</Key>
+    <Name>Fusion Shunt</Name>
+    <Description>
+      [H3]Fusion Shunt[h3]
+A lightsaber is more than just a weapon. It is a symbol, a badge of office-and a tool. When its wielder is faced with a situation that requires that latter approach, a lightsaber can carve through obstacle or debric to clear a path forward. Some Jedi modify their lightsaber's power output to allow a secondary "fusion shunt" mode for the blade, amplifying the power and profile of the blade. The wielder must take great care to keep the blade's motions precise, as the energy pours forth from the emitter while the shunt is active.
+    </Description>
+    <Type>Weapon</Type>
+    <Sources>
+      <Source Page="63">Rise of the Separatists</Source>
+    </Sources>
+	<Custom>DescOnly</Custom>
+    <TypeLimit>
+      <Type>Lightsaber</Type>
+    </TypeLimit>
+    <Price>2000</Price>
+    <Encumbrance>0</Encumbrance>
+    <HP>1</HP>
+    <Rarity>6</Rarity>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Activating fusion shunt requires a maneuver.  All combat checks suffer [TH][TH][TH] when shunt is activated.</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>Lightsaber's Breach quality increases by 1 when shunt is active.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>IONEMIT</Key>
+    <Name>Ionizing Emitter Matrix</Name>
+    <Description>
+      [H3]Ionizing Emitter Matrix[h3]
+Few droids can stand up to a lightsaber, but some heavily reinforced droid models have been known to fight through the destruction of their limbs and even some of their core systems to achieve their objectives. Some Jedi have taken to tuning their lightsabers specifically to deal with these foes, the better to bring the war to a close by disabling the droid armies. With the right modifications, a lightsaber can be made to emit a low-level ion pulse as it strikes, although such modulation reduces its overall energy output.
+    </Description>
+    <Type>Weapon</Type>
+    <Sources>
+      <Source Page="63">Rise of the Separatists</Source>
+    </Sources>
+	<Custom>DescOnly</Custom>
+    <TypeLimit>
+      <Type>Lightsaber</Type>
+    </TypeLimit>
+    <Price>4000</Price>
+    <Encumbrance>0</Encumbrance>
+    <HP>2</HP>
+    <Rarity>6</Rarity>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Damage +2 versus droids and vehicles.</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>Damage -1 versus organic and other targets.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>THONTIIN</Key>
+    <Name>Thontiin Crystal</Name>
+    <Description>
+      [H3]Thontiin Crystal[h3]
+Although long recognized as kyber crystals, thontiin crystals were unheard of as lightsaber cores until recently. Instead, these crystals have been utilized for their unique properties as healing aids, capable of assisting a Jedi healer in easing the pain of a patient and making their treatment easier. The needs of the war have brought these crystals closer to the front lines. After one young Knight’s lightsaber suffered disastrous damage in battle, they attempted to replace their ruined crystal from Ilum with a thontiin crystal. In doing so, the Knight discovered that the crystals’ healing properties were focused through a carried lightsaber in new ways, allowing the bearer to fight through debilitating pain. The healers of the Jedi Order are reluctant to see these sacred artifacts turned into weapons, but the desperate circumstances of the war have caused a handful of them to be repurposed in this manner nevertheless.
+    </Description>
+    <Type>Weapon</Type>
+    <Sources>
+      <Source Page="63">Rise of the Separatists</Source>
+    </Sources>
+	<Custom>DescOnly</Custom>
+    <Type>Weapon</Type>
+    <ItemLimit />
+    <SkillLimit />
+    <TypeLimit />
+    <CategoryLimit>
+      <Category>Lightsaber</Category>
+    </CategoryLimit>
+    <Price>9000</Price>
+    <Rarity>9</Rarity>
+    <HP>2</HP>
+    <IsCrystal>true</IsCrystal>
+    <BaseMods>
+      <Mod>
+        <Key>DAMSET</Key>
+        <Count>6</Count>
+      </Mod>
+      <Mod>
+        <Key>CRITSET</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Key>BREACH</Key>
+        <Count>1</Count>
+        <QualSet>true</QualSet>
+      </Mod>
+      <Mod>
+        <Key>SUNDER</Key>
+      </Mod>
+      <Mod>
+        <MiscDesc>Once per encounter, ignore effects of an [B]Easy ([DI])[b] Critical Injury.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>DAMADD</Key>
+        <Count>3</Count>
+      </Mod>
+      <Mod>
+        <Key>CRITSUB</Key>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>ZOPHIS</Key>
+    <Name>Zophis Crystal</Name>
+    <Description>
+      [H3]Zophis Crystal[h3]
+In ancient days, the Outer Rim world of Zoph was well traveled by the Jedi, and some Padawans would sojourn to the distant world to seek their kyber crystal. As Ilum increased in prominence for the Jedi Order, such visits waned. Now, the world is held by Separatist forces, who would not look kindly upon Jedi crystal seekers. However, some records remain of the unusual kyber crystals gathered on that world, whose unique resonance made for devastating, if unstable, blades. A lightsaber fitted with a Zophis crystal can carve through durasteel plating with ease, but it is vulnerable to fluctuations in power from the crystal core.
+    </Description>
+    <Type>Weapon</Type>
+    <Sources>
+      <Source Page="64">Rise of the Separatists</Source>
+    </Sources>
+	<Custom>DescOnly</Custom>
+    <Type>Weapon</Type>
+    <ItemLimit />
+    <SkillLimit />
+    <TypeLimit />
+    <CategoryLimit>
+      <Category>Lightsaber</Category>
+    </CategoryLimit>
+    <Price>11000</Price>
+    <Rarity>10</Rarity>
+    <HP>2</HP>
+    <IsCrystal>true</IsCrystal>
+    <BaseMods>
+      <Mod>
+        <Key>DAMSET</Key>
+        <Count>8</Count>
+      </Mod>
+      <Mod>
+        <Key>CRITSET</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Key>BREACH</Key>
+        <Count>2</Count>
+        <QualSet>true</QualSet>
+      </Mod>
+      <Mod>
+        <Key>SUNDER</Key>
+      </Mod>
+      <Mod>
+        <Key>VICIOUS</Key>
+        <Count>1</Count>
+        <QualSet>true</QualSet>
+      </Mod>
+      <Mod>
+        <MiscDesc>When Sunder quality is activated, damage suffered is increased by one step.</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>[TH][TH][TH] or [DE] may be spent to disable the weapon until the wielder's next turn.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>DAMADD</Key>
+        <Count>2</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>SPYBRAIN</Key>
+    <Name>Spy Droid Brain</Name>
+    <Description>
+      [H3]Spy Droid Brain[h3]
+One of the more common modifications made to the Sheathipede-class is the replacement of the crew and flight deck with an integrated pilot droid brain. This increases the shuttle’s legroom and lifting capacity, and improves both safety and efficiency. Droid-brain shuttles are typically used on CIS bases, where they cover commonly used flight paths and provide regular ferry service. A few have also been packed full of sensors and electronic warfare/signals intelligence gear and sent into Republic territory to spy on fleet movements. These spy shuttles are equipped with cutting-edge technology and a powerful self-destruct system, which they use in case of imminent capture.
+[P]An automated Sheathipede-class shuttle can carry two additional passengers and has an encumbrance capacity of 100.
+[P]A spy ship has a sensor range of long, carries no passengers, and gains Computers 3, Perception 3, and Stealth 3. The ship’s sensor package grants it [AD] on any rolls made to intercept communications.
+[P]This attachment is limited to the Sheathipede-class shuttle.
+    </Description>
+    <Sources>
+      <Source Page="74">Rise of the Separatists</Source>
+    </Sources>
+	<Custom>DescOnly</Custom>
+    <Type>Vehicle</Type>
+    <ItemLimit>
+      <Key>SHEATHIPEDESPY</Key>
+    </ItemLimit>
+    <SkillLimit />
+    <TypeLimit />
+    <CategoryLimit>
+    </CategoryLimit>
+    <Price>0</Price>
+    <Rarity>6</Rarity>
+    <Restricted>false</Restricted>
+    <HP>0</HP>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Adds a Droid Brain with Computers 3, Perception 3, and Stealth 3.</MiscDesc>
+        <Count>1</Count>
+        <InnateSkills>
+          <InnateSkill>
+            <SkillKey>COMP</SkillKey>
+            <SkillRank>3</SkillRank>
+            <AbilityRank>0</AbilityRank>
+          </InnateSkill>
+          <InnateSkill>
+            <SkillKey>PERC</SkillKey>
+            <SkillRank>3</SkillRank>
+            <AbilityRank>0</AbilityRank>
+          </InnateSkill>
+          <InnateSkill>
+            <SkillKey>STEAL</SkillKey>
+            <SkillRank>3</SkillRank>
+            <AbilityRank>0</AbilityRank>
+          </InnateSkill>
+        </InnateSkills>
+      </Mod>
+	  <Mod>
+	    <MiscDesc>Sets sensor range to Long.</MiscDesc>
+	  </Mod>
+    </BaseMods>
+    <AddedMods>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>SQUADTACT</Key>
+    <Name>Squad Tactical Systems</Name>
+    <Description>
+      [H3]Squad Tactical Systems[h3]
+Sensor and comm systems are common installations on armor, but some groups take the practice a step further, equipping all their members with uniform packages designed to work in tandem. Squads of clone troopers and planetary militia are the most common users of these systems, but even groups of bounty hunters sometimes avail themselves of the advantages provided by operating in tandem. These sensor packages share information with all other nearby squad members equipped with the same gear, enhancing awareness and communication. This attachment may be installed in the helmet of any armor.
+[P][B]Models Include:[b] Fabritech Mk.II “Crosslink” Sensors.
+    </Description>
+    <Sources>
+      <Source Page="65">Rise of the Separatists</Source>
+    </Sources>
+	<Custom>DescOnly</Custom>
+    <Type>Armor</Type>
+    <Price>2000</Price>
+    <Rarity>5</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Add [BO] to Perception and Vigilance checks while within medium range of one or more allies also using armor with this attachment.</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>Includes integrated comlink.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>PERC</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>VIGIL</Key>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>PHYSENH</Key>
+    <Name>Physiological Enhancement System</Name>
+    <Description>
+      [H3]Physiological Enhancement System[h3]
+These advanced, custom-tailored systems provide medical diagnostics, ergonomic adjustments, and powered support systems tuned to the wearer’s motor functions. Stress and pain are greatly reduced by heart-rate regulation and temperature-control systems, and common physical tasks require considerably less effort. These benefits come at a significant cost, as the systems involved require careful calibration to the wearer’s specific needs and physique.
+[P]Although physiological support systems are normally tailored to individual physiology, they can be produced for clones using a standardized template, greatly reducing the cost. As such, the first cost listed is for clones, while the second, higher price is for a custom support system. This attachment may only be installed on fully enclosed suits of armor, such as laminate, clone trooper, or heavy battle armor.
+[P][B]Models Include:[b] Creshaldyne Industries LV-2 “Bio-Strong” Support Suite.
+    </Description>
+    <Sources>
+      <Source Page="65">Rise of the Separatists</Source>
+    </Sources>
+	<Custom>DescOnly</Custom>
+    <CategoryLimit>
+      <Category>Full Body</Category>
+    </CategoryLimit>
+    <Type>Armor</Type>
+    <Price>10000</Price>
+    <Rarity>7</Rarity>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Reduce strain suffered involuntarily by 1, to minimum of 1.</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>Adds [BO] to all Athletics, Coordination, and Resilience checks.</MiscDesc>
+        <DieModifiers>
+          <DieModifier>
+            <SkillKey>ATHL</SkillKey>
+            <BoostCount>1</BoostCount>
+          </DieModifier>
+          <DieModifier>
+            <SkillKey>COORD</SkillKey>
+            <BoostCount>1</BoostCount>
+          </DieModifier>
+          <DieModifier>
+            <SkillKey>RESIL</SkillKey>
+            <BoostCount>1</BoostCount>
+          </DieModifier>
+        </DieModifiers>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>ATHL</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>COORD</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>RESIL</Key>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>DAIBENDU</Key>
+    <Name>Dai Bendu Lessons</Name>
+    <Description>
+      [H3]Dai Bendu Lessons[h3]
+First attributed to the precursors of the Jedi, these objects remain a mystery. At the surface level, Dai Bendu holocrons resemble those produced by the Jedi. Each holocron contains six tracts, subdivided into four lessons apiece. Unlike ones made by the Jedi, Dai Bendu holocrons allow even the most unskilled of Force sensitives access. Their true key to mastery lies in study.
+[P]Completing each lesson in the tract requires an amount of study and meditation up to the GM’s decision. At its conclusion, the player must roll a Discipline check of one higher difficulty than it took to access that lesson. For example, to complete the first lesson, a Mystic must roll an [B]Average ([DI][DI]) Discipline check[b]. To complete the final lesson in a tract requires a [B]Formidable ([DI][DI][DI][DI][DI]) Discipline check[b].
+[P]When a Force-sensitive character completes a tract, the player selects one characteristic. Once per day, they may upgrade the ability dice pool of any single check related to that characteristic by two steps. The player has learned all they can from that tract, and must move on to another. Each subsequent tract provides the same benefit to another characteristic.
+    </Description>
+    <Sources>
+      <Source Page="52">Unlimited Power</Source>
+    </Sources>
+	<Custom>DescOnly</Custom>
+    <Type>Gear</Type>
+    <Price>0</Price>
+    <Rarity>0</Rarity>
+    <HP>0</HP>
+    <BaseMods>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <MiscDesc>[B]Brawn Tract[b]:  Once per day, may upgrade a Brawn-related check by two steps</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>[B]Agility Tract[b]:  Once per day, may upgrade an Agility-related check by two steps</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>[B]Intellect Tract[b]:  Once per day, may upgrade an Intellect-related check by two steps</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>[B]Cunning Tract[b]:  Once per day, may upgrade a Cunning-related check by two steps</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>[B]Willpower Tract[b]:  Once per day, may upgrade a Willpower-related check by two steps</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>[B]Presence Tract[b]:  Once per day, may upgrade a Presence-related check by two steps</MiscDesc>
+      </Mod>
+    </AddedMods>
+    <Hidden>true</Hidden>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>LASANCHRON</Key>
+    <Name>Lasan Chronicles Lessons</Name>
+    <Description>
+      [H3]Lasan Chronicles Bonuses[h3]
+Life since the fall of the Republic has grown difficult for the Lasat. The Empire exterminated them in droves, a gruesome example to those who seek to rebel. Many Lasat now search for meaning in an existence that seems to only want them destroyed. Many turn to their species’ most ancient teachings in hopes of finding some parallels, some guidance for a people adrift. One of the most frequent resources for this study has been the Chronicles of the Three. This collection of ancient parables follows the three Lasan mythic archetypes: the Child, the Fool, and the Warrior.
+[P]When a character studies the Chronicles, they may use Perception, Knowledge (Lore), or Discipline to decipher it. They must then spend an hour studying the Chronicles, succeeding at a [B]Hard ([DI][DI][DI]) check[b] of the appropriate skill at the end of it. Depending on their chosen skill, they receive a unique bonus that can be used once during the remainder of the session. Knowledge (Lore) grants the Perspicacity of the Child, whose desire to learn outstrips all else. The character may add [BO] to any one Knowledge skill check they make. Perception gives them the Insight of the Fool: in knowing nothing, they see everything. Once, when making a combat skill check, they may re-roll one [AB] of their choice. Using Discipline leaves them with the Purpose of the Warrior, whose devotion and aim overcomes all obstacles. They may re-roll one [SE] on a single skill check they make.
+    </Description>
+    <Sources>
+      <Source Page="52">Unlimited Power</Source>
+    </Sources>
+	<Custom>DescOnly</Custom>
+    <Type>Gear</Type>
+    <Price>0</Price>
+    <Rarity>0</Rarity>
+    <HP>0</HP>
+    <BaseMods>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <MiscDesc>[B]Perspicacity of the Child[b]:  During current session, may add [BO] to any one knowledge skill check</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>[B]Insight of the Fool[b]:  During current session, may re-roll one [AB] for any one combat check</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>[B]Purpose of the Warrior[b]:  During current session, may remove [SE] on a single skill check</MiscDesc>
+      </Mod>
+    </AddedMods>
+    <Hidden>true</Hidden>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>DUSTCRAWLER</Key>
+    <Name>Additional Cars</Name>
+    <Description>
+      [H3]Additional Cars[h3]
+The standard Dustcrawler features three connected cars, but Dustcrawlers are designed to be modular and customizable, so additional cars can be added to create a larger train. Adding cars to a Dustcrawler has the following effects upon the vehicle’s statistics:
+[P]Each additional car adds 1 to the Dustcrawler’s silhouette, an additional crewmember (a conductor, who coordinates their car with the others), and an additional +100 to encumbrance capacity. The passenger capacity increases by 10 for each additional car, and 2 additional hard points are added as well. Each car adds another 20,000 credits to the Dustcrawler’s price.
+[P]Dustcrawlers of four or more cars are often found in use as mass transit vehicles in airless environments. For example, Polis Massa Base uses 5-car Dustcrawlers to ferry workers between the living quarters and the mining operation, carrying an entire shift of workers at a time.
+[P][I]Note:  For each additional car, select one of each type of optional mod.  Up to 10 additional cars can be added in this way.[i]
+    </Description>
+    <Source Page="60">Unlimited Power</Source>
+	<Custom>DescOnly</Custom>
+    <Type>Vehicle</Type>
+    <ItemLimit>
+      <Key>DUSTCRAWLER</Key>
+    </ItemLimit>
+    <Price>0</Price>
+    <Rarity>5</Rarity>
+    <Restricted>false</Restricted>
+    <HP>0</HP>
+    <BaseMods>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>SILHADD</Key>
+        <Count>10</Count>
+      </Mod>
+      <Mod>
+        <Key>ENCCADD100</Key>
+        <Count>10</Count>
+      </Mod>
+      <Mod>
+        <Key>PASSADD10</Key>
+        <Count>10</Count>
+      </Mod>
+      <Mod>
+        <Key>HPADD2</Key>
+        <Count>10</Count>
+      </Mod>
+      <Mod>
+        <Key>PRICE20000</Key>
+        <Count>10</Count>
+      </Mod>
+    </AddedMods>
+    <Hidden>true</Hidden>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>REVENGARMOR</Key>
+    <Name>Reverse Engineering</Name>
+    <Description>
+      [H3]Reverse Engineering[h3]
+After working on the item, vehicle, or ship, the character’s comprehension of its technology becomes deep enough to rebuild it even better. The device has its number of hard points increased by one. This cannot be selected more than once per item.
+[P][I]Note:  Use this attachment on armor when you select the "Reverse Engineering" result from the chart on page 71.[i]
+    </Description>
+    <Sources>
+      <Source Page="71">Fully Operational</Source>
+    </Sources>
+	<Custom>DescOnly</Custom>
+    <Type>Armor</Type>
+    <Price>0</Price>
+    <Rarity>0</Rarity>
+    <HP>0</HP>
+    <BaseMods>
+      <Mod>
+        <Key>HPADD</Key>
+        <Count>1</Count>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>REVENGWEAP</Key>
+    <Name>Reverse Engineering</Name>
+    <Description>
+      [H3]Reverse Engineering[h3]
+After working on the item, vehicle, or ship, the character’s comprehension of its technology becomes deep enough to rebuild it even better. The device has its number of hard points increased by one. This cannot be selected more than once per item.
+[P][I]Note:  Use this attachment on weapons when you select the "Reverse Engineering" result from the chart on page 71.[i]
+    </Description>
+    <Sources>
+      <Source Page="71">Fully Operational</Source>
+    </Sources>
+	<Custom>DescOnly</Custom>
+    <Type>Weapon</Type>
+    <Price>0</Price>
+    <Rarity>0</Rarity>
+    <HP>0</HP>
+    <BaseMods>
+      <Mod>
+        <Key>HPADD</Key>
+        <Count>1</Count>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>REVENGGEAR</Key>
+    <Name>Reverse Engineering</Name>
+    <Description>
+      [H3]Reverse Engineering[h3]
+After working on the item, vehicle, or ship, the character’s comprehension of its technology becomes deep enough to rebuild it even better. The device has its number of hard points increased by one. This cannot be selected more than once per item.
+[P][I]Note:  Use this attachment on gear when you select the "Reverse Engineering" result from the chart on page 71.[i]
+    </Description>
+    <Sources>
+      <Source Page="71">Fully Operational</Source>
+    </Sources>
+	<Custom>DescOnly</Custom>
+    <Type>Gear</Type>
+    <Price>0</Price>
+    <Rarity>0</Rarity>
+    <HP>0</HP>
+    <BaseMods>
+      <Mod>
+        <Key>HPADD</Key>
+        <Count>1</Count>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>REVENGVEH</Key>
+    <Name>Reverse Engineering</Name>
+    <Description>
+      [H3]Reverse Engineering[h3]
+After working on the item, vehicle, or ship, the character’s comprehension of its technology becomes deep enough to rebuild it even better. The device has its number of hard points increased by one. This cannot be selected more than once per item.
+[P][I]Note:  Use this attachment on vehicles when you select the "Reverse Engineering" result from the chart on page 71.[i]
+    </Description>
+    <Sources>
+      <Source Page="71">Fully Operational</Source>
+    </Sources>
+	<Custom>DescOnly</Custom>
+    <Type>Vehicle</Type>
+    <Price>0</Price>
+    <Rarity>0</Rarity>
+    <HP>0</HP>
+    <BaseMods>
+      <Mod>
+        <Key>HPADD</Key>
+        <Count>1</Count>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+    </AddedMods>
+  </ItemAttachment>
+</ItemAttachments>
