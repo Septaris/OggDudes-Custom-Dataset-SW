@@ -42,10 +42,7 @@
   <Talent>
     <Key>ADAPT</Key>
     <Name>Adaptable</Name>
-    <Description>When resolving a check that uses a skill
-in which they nave no ranks, the character may spend
-one Destiny Point to remove [DE] from the check or to
-remove [TH] equal to their ranks in Cool from the check.</Description>
+    <Description>When resolving a check that uses a skill in which they nave no ranks, the character may spend one Destiny Point to remove [DE] from the check or to remove [TH] equal to their ranks in Cool from the check.</Description>
     <Sources>
       <Source Page="37">Rise of the Separatists</Source>
     </Sources>
@@ -105,16 +102,10 @@ remove [TH] equal to their ranks in Cool from the check.</Description>
   <Talent>
     <Key>ALTDEAL</Key>
     <Name>Altered Deal</Name>
-    <Description>Once per session may take the Altered Deal action and make [B]Hard ([DI][DI][DI]) Coercion check[b] to radically change a previously made deal or bargain to the character's advantage.
-</Description>
+    <Description>Once per session may take the Altered Deal action and make [B]Hard ([DI][DI][DI]) Coercion check[b] to radically change a previously made deal or bargain to the character's advantage.</Description>
     <Source Page="111">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Action</Activation>
   </Talent>
   <Talent>
@@ -162,8 +153,7 @@ remove [TH] equal to their ranks in Cool from the check.</Description>
   <Talent>
     <Key>ANIMALBONDIMP</Key>
     <Name>Animal Bond (Improved)</Name>
-    <Description>When spending a maneuver to direct a bonded animal, the character may suffer 1 strain to add [BO] to the animals next check.
-    </Description>
+    <Description>When spending a maneuver to direct a bonded animal, the character may suffer 1 strain to add [BO] to the animals next check.</Description>
     <Source Page="30">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
@@ -183,12 +173,7 @@ remove [TH] equal to their ranks in Cool from the check.</Description>
   <Talent>
     <Key>ANTREAS</Key>
     <Name>Another's Treasure</Name>
-    <Description>The condition of an item does not affect the price
-the character receives when selling it. In addition, the
-character can always find a buyer for an item, no matter its condition or how useless or worthless it may
-seem. The details of the transaction are subject to the
-GM’s discretion, as always, and a buyer might not be
-immediately (or easily) available.</Description>
+    <Description>The condition of an item does not affect the price the character receives when selling it. In addition, the character can always find a buyer for an item, no matter its condition or how useless or worthless it may seem. The details of the transaction are subject to the GM’s discretion, as always, and a buyer might not be immediately (or easily) available.</Description>
     <Sources>
       <Source Page="37">Rise of the Separatists</Source>
     </Sources>
@@ -248,26 +233,16 @@ immediately (or easily) available.</Description>
   <Talent>
     <Key>ASFORCEWILLS</Key>
     <Name>As the Force Wills It</Name>
-    <Description>May make an [B]Easy ([DI]) Knowledge (Lore) check[b] to heal strain at the end of an encounter. [TR] can be spent to heal all strain.
-</Description>
+    <Description>May make an [B]Easy ([DI]) Knowledge (Lore) check[b] to heal strain at the end of an encounter. [TR] can be spent to heal all strain.</Description>
     <Source Page="111">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
     <Key>ASSAULTDR</Key>
     <Name>Assault Drop</Name>
-    <Description>Once per session while piloting a vehicle or ship, the
-character may perform the Assault Drop incidental.
-All passengers aboard or allies engaged with the vehicle
-or ship may immediately disembark or embark as
-an out-of-turn incidental.</Description>
+    <Description>Once per session while piloting a vehicle or ship, the character may perform the Assault Drop incidental. All passengers aboard or allies engaged with the vehicle or ship may immediately disembark or embark as an out-of-turn incidental.</Description>
     <Sources>
       <Source Page="37">Rise of the Separatists</Source>
     </Sources>
@@ -309,26 +284,11 @@ an out-of-turn incidental.</Description>
     <Source Page="37">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>BACKROOM</Key>
     <Name>Backroom Deal</Name>
-    <Description>Once per encounter, the character may take the
-Backroom Deal action, making a [B]Hard ([DI][DI][DI])
-Negotiation check.[b] If the check succeeds the character
-(or player) reveals how their previously
-unknown
-dealings have a meaningful impact on the current scene or encounter. The nature of the revelation and
-its impact on the scene are ultimately subject to the
-GM's discretion, but they should give a significant
-advantage to the PCs. If the check fails and generates [DE],
-however, the GM may decide that the character's
-disastrously failed deal has negative repercussions.</Description>
+    <Description>Once per encounter, the character may take the Backroom Deal action, making a [B]Hard ([DI][DI][DI]) Negotiation check.[b] If the check succeeds the character (or player) reveals how their previously unknown dealings have a meaningful impact on the current scene or encounter. The nature of the revelation and its impact on the scene are ultimately subject to the GM's discretion, but they should give a significant advantage to the PCs. If the check fails and generates [DE], however, the GM may decide that the character's disastrously failed deal has negative repercussions.</Description>
     <Sources>
       <Source Page="37">Rise of the Separatists</Source>
     </Sources>
@@ -421,15 +381,7 @@ disastrously failed deal has negative repercussions.</Description>
   <Talent>
     <Key>BARREL</Key>
     <Name>Barrel Roll</Name>
-    <Description>When a vehicle or starship the character is piloting
-suffers a hit from a combat check, after damage is
-calculated but before armor is applied, the character
-may take a Barrel Roll incidental. Their ship suffers
-3 system strain, and the damage of that hit is reduced
-by an amount equal to their ranks in the Piloting skill
-used for that vehicle. This talent may only be used
-once per attack and only when the character is piloting
-a vehicle or starship of silhouette 3 or less.</Description>
+    <Description>When a vehicle or starship the character is piloting suffers a hit from a combat check, after damage is calculated but before armor is applied, the character may take a Barrel Roll incidental. Their ship suffers 3 system strain, and the damage of that hit is reduced by an amount equal to their ranks in the Piloting skill used for that vehicle. This talent may only be used once per attack and only when the character is piloting a vehicle or starship of silhouette 3 or less.</Description>
     <Sources>
       <Source Page="37">Rise of the Separatists</Source>
     </Sources>
@@ -440,10 +392,7 @@ a vehicle or starship of silhouette 3 or less.</Description>
   <Talent>
     <Key>BARRELIMP</Key>
     <Name>Barrel Roll (Improved)</Name>
-    <Description>When the character takes the Barrel Roll incidental,
-reduce the damage of all hits (instead of only one hit)
-of the attack by the character's ranks in the relevant
-Piloting skill.</Description>
+    <Description>When the character takes the Barrel Roll incidental, reduce the damage of all hits (instead of only one hit) of the attack by the character's ranks in the relevant Piloting skill.</Description>
     <Sources>
       <Source Page="37">Rise of the Separatists</Source>
     </Sources>
@@ -454,11 +403,7 @@ Piloting skill.</Description>
   <Talent>
     <Key>BARRELSUP</Key>
     <Name>Barrel Roll (Supreme)</Name>
-    <Description>When the character uses Barrel Roll to reduce the damage from a weapon with the Auto-fire, Blast, or Guided
-item qualities, they may spend [DE] or [TH][TH][TH] to inflict
-one hit on the attacker or another enemy vehicle or starship
-within close range after the initial attack resolves.
-The hit deals the base damage of the original attack.</Description>
+    <Description>When the character uses Barrel Roll to reduce the damage from a weapon with the Auto-fire, Blast, or Guided item qualities, they may spend [DE] or [TH][TH][TH] to inflict one hit on the attacker or another enemy vehicle or starship within close range after the initial attack resolves. The hit deals the base damage of the original attack.</Description>
     <Sources>
       <Source Page="37">Rise of the Separatists</Source>
     </Sources>
@@ -476,7 +421,6 @@ The hit deals the base damage of the original attack.</Description>
     <ActivationValue>taPassive</ActivationValue>
     <JuryRigged>false</JuryRigged>
     <ChooseCareerSkills>
-      <SkillCount>0</SkillCount>
       <NewSkills>
         <Key>BRAWL</Key>
         <Key>RANGLT</Key>
@@ -496,10 +440,7 @@ The hit deals the base damage of the original attack.</Description>
   <Talent>
     <Key>BEGLUCK</Key>
     <Name>Beginner's Luck</Name>
-    <Description>Once per session when the character
-makes a check , the character may add [SU] equal to
-the number of light side Destiny Points in the Destiny
-pool to the results.</Description>
+    <Description>Once per session when the character makes a check , the character may add [SU] equal to the number of light side Destiny Points in the Destiny pool to the results.</Description>
     <Sources>
       <Source Page="37">Rise of the Separatists</Source>
     </Sources>
@@ -618,8 +559,7 @@ pool to the results.</Description>
   <Talent>
     <Key>BODSUP</Key>
     <Name>Body Guard (Supreme)</Name>
-    <Description>Body Guard maneuver may protect a number of engaged characters up to ranks in Resilience.
-    </Description>
+    <Description>Body Guard maneuver may protect a number of engaged characters up to ranks in Resilience.</Description>
     <Sources>
       <Source Page="34">Forged in Battle</Source>
     </Sources>
@@ -681,13 +621,7 @@ pool to the results.</Description>
   <Talent>
     <Key>BRAIMP</Key>
     <Name>Brace (Improved)</Name>
-    <Description>When the character performs the Brace maneuver,
-they may choose one environmental circumstance.
-The benefits of Brace apply to that circumstance until
-the end of the encounter. (This benefit is not cumulative with
-further uses of the Brace maneuver, although
-the character may select additional circumstances
-with subsequent uses.)</Description>
+    <Description>When the character performs the Brace maneuver, they may choose one environmental circumstance. The benefits of Brace apply to that circumstance until the end of the encounter. (This benefit is not cumulative with further uses of the Brace maneuver, although the character may select additional circumstances with subsequent uses.)</Description>
     <Sources>
       <Source Page="38">Rise of the Separatists</Source>
     </Sources>
@@ -754,17 +688,11 @@ with subsequent uses.)</Description>
   <Talent>
     <Key>BYBOOK</Key>
     <Name>By the Book</Name>
-    <Description>Once per encounter before making a combat check, the character may suffer two strain to add [AD] to the results equal to his ranks in By the Book.
-</Description>
+    <Description>Once per encounter before making a combat check, the character may suffer two strain to add [AD] to the results equal to his ranks in By the Book.</Description>
     <Source Page="111">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Incidental</Activation>
   </Talent>
   <Talent>
@@ -887,12 +815,7 @@ with subsequent uses.)</Description>
   <Talent>
     <Key>CLANKILL</Key>
     <Name>Clanker Killer</Name>
-    <Description>Before rolling a combat check that targets a droid
-(including a droid vehicle or a vehicle piloted by a
-droid), the character may remove [BO] up to their ranks
-in Clanker Killer from the pool, and add an equal number
-of [SU] or [AD] (in any combination) to the results.
-</Description>
+    <Description>Before rolling a combat check that targets a droid (including a droid vehicle or a vehicle piloted by a droid), the character may remove [BO] up to their ranks in Clanker Killer from the pool, and add an equal number of [SU] or [AD] (in any combination) to the results.</Description>
     <Sources>
       <Source Page="38">Rise of the Separatists</Source>
     </Sources>
@@ -907,11 +830,6 @@ of [SU] or [AD] (in any combination) to the results.
     <Source Page="37">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>CLEVCOMM</Key>
@@ -974,11 +892,6 @@ of [SU] or [AD] (in any combination) to the results.
     <Source Page="111">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Action</Activation>
   </Talent>
   <Talent>
@@ -1000,11 +913,6 @@ of [SU] or [AD] (in any combination) to the results.
     <Custom>AddedItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <DieModifiers>
       <DieModifier>
         <SkillKey>BRAWL</SkillKey>
@@ -1062,17 +970,7 @@ of [SU] or [AD] (in any combination) to the results.
   <Talent>
     <Key>CONCOPT</Key>
     <Name>Consider our Options</Name>
-    <Description>The character may take the Consider Our Options
-action, makings [B]Hard ([DI][DI][DI]) Negotiation check.[b]
-If the check succeeds, until the start of the character's
-next turn, any enemy who attacks the character suffers
-2 strain, plus 1 strain per additional [SU][SU] on the
-character's check, before resolving the attack. (If this
-strain causes an adversary to become incapacitated,
-the GM may determine that adversary simply bows
-out of the fight.) The effect ends immediately if the
-character inflicts damage on an enemy.
-</Description>
+    <Description>The character may take the Consider Our Options action, makings [B]Hard ([DI][DI][DI]) Negotiation check.[b] If the check succeeds, until the start of the character's next turn, any enemy who attacks the character suffers 2 strain, plus 1 strain per additional [SU][SU] on the character's check, before resolving the attack. (If this strain causes an adversary to become incapacitated, the GM may determine that adversary simply bows out of the fight.) The effect ends immediately if the character inflicts damage on an enemy.</Description>
     <Sources>
       <Source Page="38">Rise of the Separatists</Source>
     </Sources>
@@ -1083,12 +981,7 @@ character inflicts damage on an enemy.
   <Talent>
     <Key>CONCOPTIMP</Key>
     <Name>Consider our Options (Improved)</Name>
-    <Description>When the character takes the Consider Our Options
-action, the character may choose to have the effects
-also apply to attacks that target the character’s allies
-who are within short range. The effects end for all
-characters if the character or an affected ally inflict
-damage on an enemy.</Description>
+    <Description>When the character takes the Consider Our Options action, the character may choose to have the effects also apply to attacks that target the character’s allies who are within short range. The effects end for all characters if the character or an affected ally inflict damage on an enemy.</Description>
     <Sources>
       <Source Page="38">Rise of the Separatists</Source>
     </Sources>
@@ -1335,30 +1228,6 @@ damage on an enemy.</Description>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
-    <Key>CUNNINGSTUNT</Key>
-    <Name>Cunning Stunt</Name>
-    <Description>Use Cunning instead of Presence for Cool checks.</Description>
-    <Source>User Data</Source>
-    <Custom>AddedItem</Custom>
-    <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <SkillChars>
-      <SkillChar>
-        <SkillKey>COOL</SkillKey>
-        <CharKey>CUN</CharKey>
-      </SkillChar>
-    </SkillChars>
-    <Activation>Passive</Activation>
-  </Talent>
-  <Talent>
     <Key>CUNNPERSON</Key>
     <Name>Cunning Persona</Name>
     <Description>The character may suffer 2 strain to perform a Charm check with Cunning instead of Presence.</Description>
@@ -1577,8 +1446,7 @@ damage on an enemy.</Description>
   <Talent>
     <Key>DEFTMAKER</Key>
     <Name>Deft Maker</Name>
-    <Description>Remove [SE] per rank of Deft Maker from checks to repair, modify, construct, or program droids. Reduce the material cost to craft droids by 50%.
-</Description>
+    <Description>Remove [SE] per rank of Deft Maker from checks to repair, modify, construct, or program droids. Reduce the material cost to craft droids by 50%.</Description>
     <Source Page="34">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
@@ -1652,11 +1520,6 @@ damage on an enemy.</Description>
     <Source Page="21">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>DIPIMM</Key>
@@ -1703,11 +1566,6 @@ damage on an enemy.</Description>
     <Custom>AddedItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Incidental</Activation>
   </Talent>
   <Talent>
@@ -1722,16 +1580,10 @@ damage on an enemy.</Description>
   <Talent>
     <Key>DISCSOUL</Key>
     <Name>Disciplined Soul</Name>
-    <Description>Spend one Destiny Point after making a Discipline check to spend a number of [TH] not exceeding ranks in Knowledge (Lore) as [AD].
-</Description>
+    <Description>Spend one Destiny Point after making a Discipline check to spend a number of [TH] not exceeding ranks in Knowledge (Lore) as [AD].</Description>
     <Source Page="112">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Incidental</Activation>
   </Talent>
   <Talent>
@@ -1760,16 +1612,10 @@ damage on an enemy.</Description>
   <Talent>
     <Key>DISSTRIKE</Key>
     <Name>Disorienting Strike</Name>
-    <Description>After failing a Lightsaber combat check, may spend [AD][AD] or [TR] to disorient opponents for three rounds.
-</Description>
+    <Description>After failing a Lightsaber combat check, may spend [AD][AD] or [TR] to disorient opponents for three rounds.</Description>
     <Source Page="112">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
@@ -1857,16 +1703,10 @@ damage on an enemy.</Description>
   <Talent>
     <Key>DOUBLETALK</Key>
     <Name>Double-Talk</Name>
-    <Description>The character may spend [AD][AD] or [TR] from a successful Charm or Deception check to disorient a number of opponents within short range equal to his Presence for remainder of round and next two rounds.
-</Description>
+    <Description>The character may spend [AD][AD] or [TR] from a successful Charm or Deception check to disorient a number of opponents within short range equal to his Presence for remainder of round and next two rounds.</Description>
     <Source Page="112">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
@@ -1989,11 +1829,6 @@ damage on an enemy.</Description>
     <Source Page="21">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>ENDUR</Key>
@@ -2014,8 +1849,7 @@ damage on an enemy.</Description>
   <Talent>
     <Key>ENERGTRANS</Key>
     <Name>Energy Transfer</Name>
-    <Description>May suffer 1 strain to use the Energy Transfer maneuver to power up an unpowered device or replenish exhausted ammunition for an energy weapon.
-</Description>
+    <Description>May suffer 1 strain to use the Energy Transfer maneuver to power up an unpowered device or replenish exhausted ammunition for an energy weapon.</Description>
     <Source Page="34">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
@@ -2024,8 +1858,7 @@ damage on an enemy.</Description>
   <Talent>
     <Key>ENGREDUN</Key>
     <Name>Engineered Redundancies</Name>
-    <Description>Gain the ability to use emergency repair patches to heal. Additionally, can be healed with Mechanics checks.
-</Description>
+    <Description>Gain the ability to use emergency repair patches to heal. Additionally, can be healed with Mechanics checks.</Description>
     <Source Page="34">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
@@ -2060,15 +1893,7 @@ damage on an enemy.</Description>
   <Talent>
     <Key>EXCEEDSPEC</Key>
     <Name>Exceed Specifications</Name>
-    <Description>Before making a check using an item, the character
-may take the Exceed Specifications incidental, adding [BO]
-to the check. The GM may spend [TH][TH] on the
-check to damage the item one step, or [DE] to damage
-it beyond usability (see [B]Table 5-4: Repairing Gear[b]
-in any core rulebook). [TH] or [DE] may have additional
-consequences depending on the nature of the item,
-at the GM's discretion.
-</Description>
+    <Description>Before making a check using an item, the character may take the Exceed Specifications incidental, adding [BO] to the check. The GM may spend [TH][TH] on the check to damage the item one step, or [DE] to damage it beyond usability (see [B]Table 5-4: Repairing Gear[b] in any core rulebook). [TH] or [DE] may have additional consequences depending on the nature of the item, at the GM's discretion.</Description>
     <Sources>
       <Source Page="39">Rise of the Separatists</Source>
     </Sources>
@@ -2079,10 +1904,7 @@ at the GM's discretion.
   <Talent>
     <Key>EXCEEDSPECIMP</Key>
     <Name>Exceed Specifications (Improved)</Name>
-    <Description>When the character takes the Exceed Specifications
-incidental, upgrade the ability of the check once
-instead of adding [BO].
-</Description>
+    <Description>When the character takes the Exceed Specifications incidental, upgrade the ability of the check once instead of adding [BO].</Description>
     <Sources>
       <Source Page="39">Rise of the Separatists</Source>
     </Sources>
@@ -2093,12 +1915,7 @@ instead of adding [BO].
   <Talent>
     <Key>EXCEEDSPECSUP</Key>
     <Name>Exceed Specifications (Supreme)</Name>
-    <Description>If the character's check benefitting from the Exceed
-Specifications incidental generates [TR], they may damage
-the item one step to roll one additional [PR] and
-add it to the check results. If the check generates [DE]
-roll [CH] and add it to the check results.
-</Description>
+    <Description>If the character's check benefitting from the Exceed Specifications incidental generates [TR], they may damage the item one step to roll one additional [PR] and add it to the check results. If the check generates [DE] roll [CH] and add it to the check results.</Description>
     <Sources>
       <Source Page="39">Rise of the Separatists</Source>
     </Sources>
@@ -2163,23 +1980,16 @@ roll [CH] and add it to the check results.
   <Talent>
     <Key>EXTREACH</Key>
     <Name>Extended Reach</Name>
-    <Description>While armed with a two-handed melee weapon, may suffer one strain to make a Melee combat check with that weapon targeting an enemy at up to short range (rather than engaged range).
-</Description>
+    <Description>While armed with a two-handed melee weapon, may suffer one strain to make a Melee combat check with that weapon targeting an enemy at up to short range (rather than engaged range).</Description>
     <Source Page="112">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Incidental</Activation>
   </Talent>
   <Talent>
     <Key>EYEDET</Key>
     <Name>Eye for Detail</Name>
-    <Description>After making a Mechanics or Computers check, may suffer strain up to ranks in Eye for Detail to convert that many [SU] to [AD].
-</Description>
+    <Description>After making a Mechanics or Computers check, may suffer strain up to ranks in Eye for Detail to convert that many [SU] to [AD].</Description>
     <Sources>
       <Source Page="34">Special Modifications</Source>
       <Source Page="30">Fully Operational</Source>
@@ -2250,11 +2060,6 @@ roll [CH] and add it to the check results.
     <Custom>AddedItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <DieModifiers>
       <DieModifier>
         <SkillKey>COERC</SkillKey>
@@ -2317,8 +2122,7 @@ roll [CH] and add it to the check results.
   <Talent>
     <Key>FINESSE</Key>
     <Name>Finesse</Name>
-    <Description>Use Agility instead of Brawn for Brawl or Melee checks.
-</Description>
+    <Description>Use Agility instead of Brawn for Brawl or Melee checks.</Description>
     <Source>User Data</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -2326,11 +2130,6 @@ roll [CH] and add it to the check results.
       <TypeValue>stGeneral</TypeValue>
       <Type>General</Type>
     </SkillChoice>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <SkillChars>
       <SkillChar>
         <SkillKey>MELEE</SkillKey>
@@ -2368,12 +2167,7 @@ roll [CH] and add it to the check results.
   <Talent>
     <Key>FIREREADY</Key>
     <Name>Fire When Ready</Name>
-    <Description>The character may take the Fire When Ready action,
-making a [B]Hard ([DI][DI][DI]) Leadership check.[b] If the
-check succeeds, the character chooses a number of
-crew aboard their ship equal to their Presence. Those
-crew members downgrade the difficulty of their next
-Gunnery check once, plus one time for every additional [SU][SU] on the check.</Description>
+    <Description>The character may take the Fire When Ready action, making a [B]Hard ([DI][DI][DI]) Leadership check.[b] If the check succeeds, the character chooses a number of crew aboard their ship equal to their Presence. Those crew members downgrade the difficulty of their next Gunnery check once, plus one time for every additional [SU][SU] on the check.</Description>
     <Sources>
       <Source Page="39">Rise of the Separatists</Source>
     </Sources>
@@ -2384,10 +2178,7 @@ Gunnery check once, plus one time for every additional [SU][SU] on the check.</D
   <Talent>
     <Key>FIRESUP</Key>
     <Name>Fire Support</Name>
-    <Description>After the character makes a successful combat check
-using a vehicle weapon, the next ally to make a check
-adds [BO] equal to the character's ranks of Fire Support.
-</Description>
+    <Description>After the character makes a successful combat check using a vehicle weapon, the next ally to make a check adds [BO] equal to the character's ranks of Fire Support.</Description>
     <Sources>
       <Source Page="39">Rise of the Separatists</Source>
     </Sources>
@@ -2398,12 +2189,7 @@ adds [BO] equal to the character's ranks of Fire Support.
   <Talent>
     <Key>FIRSTBRO</Key>
     <Name>First Among Brothers</Name>
-    <Description>When the character makes a check that does not
-result in any uncanceled [TH], add [AD] equal to the
-character's ranks in First Among Brothers to the check
-results. The character may only spend these additional [AD] to
-affect allied clones.
-</Description>
+    <Description>When the character makes a check that does not result in any uncanceled [TH], add [AD] equal to the character's ranks in First Among Brothers to the check results. The character may only spend theseadditional [AD] to affect allied clones.</Description>
     <Sources>
       <Source Page="39">Rise of the Separatists</Source>
     </Sources>
@@ -2569,27 +2355,16 @@ affect allied clones.
   <Talent>
     <Key>FORMTAC</Key>
     <Name>Formation Tactics</Name>
-    <Description>May take the Formation Tactics action by making a [B]Hard ([DI][DI][DI]) Leadership check[b]. If successful, he may choose a number of allies within short range equal to [SU] generated. Upgrade the difficulty of attacks against these allies once until the end of his next turn.
-</Description>
+    <Description>May take the Formation Tactics action by making a [B]Hard ([DI][DI][DI]) Leadership check[b]. If successful, he may choose a number of allies within short range equal to [SU] generated. Upgrade the difficulty of attacks against these allies once until the end of his next turn.</Description>
     <Source Page="112">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Action</Activation>
   </Talent>
   <Talent>
     <Key>FORREP</Key>
     <Name>For the Republic!</Name>
-    <Description>Once per encounter when an ally is incapacitated or
-killed, the character may perform the For the Republic! incidental. The character makes a [B]Daunting ([DI][DI][DI][DI]) Leadership check.[b] If the check succeeds,
-the ally is not incapacitated or killed until the end of
-the following round, instead. If the character's wounds
-or strain are reduced below their threshold before the
-end of the next round, they are not incapacitated.</Description>
+    <Description>Once per encounter when an ally is incapacitated or killed, the character may perform the For the Republic! incidental. The character makes a [B]Daunting ([DI][DI][DI][DI]) Leadership check.[b] If the check succeeds, the ally is not incapacitated or killed until the end of the following round, instead. If the character's wounds or strain are reduced below their threshold before theend of the next round, they are not incapacitated.</Description>
     <Sources>
       <Source Page="39">Rise of the Separatists</Source>
     </Sources>
@@ -3079,12 +2854,7 @@ end of the next round, they are not incapacitated.</Description>
   <Talent>
     <Key>HYPASSAULT</Key>
     <Name>Hyperspace Assault</Name>
-    <Description>The character may use Astrogation or Knowledge
-(Warfare) to determine their Initiative during an
-encounter in which they are piloting or commanding
-a starship. If they do so, they may spend [TR] from
-the check to choose the starting locations of all allied
-ships in the encounter.</Description>
+    <Description>The character may use Astrogation or Knowledge (Warfare) to determine their Initiative during an encounter in which they are piloting or commanding a starship. If they do so, they may spend [TR] from the check to choose the starting locations of all allied ships in the encounter.</Description>
     <Sources>
       <Source Page="39">Rise of the Separatists</Source>
     </Sources>
@@ -3137,8 +2907,7 @@ ships in the encounter.</Description>
   <Talent>
     <Key>IDING</Key>
     <Name>Identify Ingredients</Name>
-    <Description>After being exposed to a substance, as an out-of-turn incidental, may roll [FO] no greater than Force rating. Spend [FP][FP] to immediately identify its composition and effects.
-</Description>
+    <Description>After being exposed to a substance, as an out-of-turn incidental, may roll [FO] no greater than Force rating. Spend [FP][FP] to immediately identify its composition and effects.</Description>
     <Sources>
       <Source Page="32">Unlimited Power</Source>
     </Sources>
@@ -3160,23 +2929,16 @@ ships in the encounter.</Description>
   <Talent>
     <Key>IMPCOMARMS</Key>
     <Name>Comrades in Arms (Improved)</Name>
-    <Description>Spend [AD][AD][AD] or [TR] from Comrades in Arms check to also gain +1 soak or give one affected ally +1 soak.
-</Description>
+    <Description>Spend [AD][AD][AD] or [TR] from Comrades in Arms check to also gain +1 soak or give one affected ally +1 soak.</Description>
     <Source Page="111">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
     <Key>IMPCONC</Key>
     <Name>Improvised Concoction</Name>
-    <Description>Once per session, as an action, make a [B]Hard ([DI][DI][DI]) Knowledge (Xenology) check[b], adding [FO] no greater than Force rating to create 1 dose of a poison or drug with rarity of Intellect + [SU] + [FP] spent or lower.
-</Description>
+    <Description>Once per session, as an action, make a [B]Hard ([DI][DI][DI]) Knowledge (Xenology) check[b], adding [FO] no greater than Force rating to create 1 dose of a poison or drug with rarity of Intellect + [SU] + [FP] spent or lower.</Description>
     <Sources>
       <Source Page="32">Unlimited Power</Source>
     </Sources>
@@ -3224,11 +2986,6 @@ ships in the encounter.</Description>
     <Source Page="113">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taManeuver</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Maneuver</Activation>
   </Talent>
   <Talent>
@@ -3255,16 +3012,10 @@ ships in the encounter.</Description>
   <Talent>
     <Key>IMPPRIDEJOY</Key>
     <Name>Pride and Joy (Improved)</Name>
-    <Description>While inside his Pride and Joy vessel, recover 1 additional strain whenever recovering strain and spend [AD] on checks made to recover strain to allow an ally also within the vessel to recover one strain.
-</Description>
+    <Description>While inside his Pride and Joy vessel, recover 1 additional strain whenever recovering strain and spend [AD] on checks made to recover strain to allow an ally also within the vessel to recover one strain.</Description>
     <Source Page="115">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
@@ -3278,7 +3029,6 @@ ships in the encounter.</Description>
       <NewSkills>
         <Key>DISC</Key>
       </NewSkills>
-      <Type />
     </ChooseCareerSkills>
     <Activation>Passive</Activation>
   </Talent>
@@ -3357,11 +3107,6 @@ ships in the encounter.</Description>
     <Source Page="21">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>INKNOW</Key>
@@ -3450,11 +3195,6 @@ ships in the encounter.</Description>
     <Source Page="113">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Action</Activation>
   </Talent>
   <Talent>
@@ -3813,11 +3553,6 @@ ships in the encounter.</Description>
     <Source Page="113">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
@@ -3837,11 +3572,6 @@ ships in the encounter.</Description>
     <Source Page="21">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>KNOWNPROGIMP</Key>
@@ -3850,11 +3580,6 @@ ships in the encounter.</Description>
     <Source Page="21">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>KNOWPOW</Key>
@@ -3873,11 +3598,6 @@ ships in the encounter.</Description>
     <Source Page="113">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
@@ -3981,12 +3701,7 @@ ships in the encounter.</Description>
   <Talent>
     <Key>LATTHINK</Key>
     <Name>Lateral Thinking</Name>
-    <Description>Once per encounter after an enemy succeeds on a
-check targeting the character, the character may
-spend one Destiny Point to force the enemy to reroll
-the check. If the enemy is a droid, the character does
-not spend a Destiny Point to use this talent.
-</Description>
+    <Description>Once per encounter after an enemy succeeds on a check targeting the character, the character may spend one Destiny Point to force the enemy to reroll the check. If the enemy is a droid, the character does not spend a Destiny Point to use this talent.</Description>
     <Sources>
       <Source Page="40">Rise of the Separatists</Source>
     </Sources>
@@ -4013,9 +3728,7 @@ not spend a Destiny Point to use this talent.
   <Talent>
     <Key>LEARNOPP</Key>
     <Name>Learning Opportunity</Name>
-    <Description>Once per round, the character may spend [AD][AD][AD] from a check they fail to upgrade the ability of their
-next check once.
-</Description>
+    <Description>Once per round, the character may spend [AD][AD][AD] from a check they fail to upgrade the ability of their next check once.</Description>
     <Sources>
       <Source Page="40">Rise of the Separatists</Source>
     </Sources>
@@ -4053,9 +3766,7 @@ next check once.
   <Talent>
     <Key>LEVER</Key>
     <Name>Leverage</Name>
-    <Description>The character removes [SE] per rank of Leverage from
-their Cool and Negotiation checks.
-</Description>
+    <Description>The character removes [SE] per rank of Leverage from their Cool and Negotiation checks.</Description>
     <Sources>
       <Source Page="40">Rise of the Separatists</Source>
     </Sources>
@@ -4096,8 +3807,7 @@ their Cool and Negotiation checks.
   <Talent>
     <Key>MACHMEND</Key>
     <Name>Machine Mender</Name>
-    <Description>When making a Mechanics check to help a character heal wounds, the target heals 1 additional wound per rank of Machine Mender.
-</Description>
+    <Description>When making a Mechanics check to help a character heal wounds, the target heals 1 additional wound per rank of Machine Mender.</Description>
     <Sources>
       <Source Page="34">Special Modifications</Source>
       <Source Page="31">Fully Operational</Source>
@@ -4232,8 +3942,7 @@ their Cool and Negotiation checks.
   <Talent>
     <Key>MASMERC</Key>
     <Name>Master Merchant</Name>
-    <Description>When buying or selling goods, or paying off or taking Obligation, may suffer 2 strain to sell for 25% more, but for 25% less, pay off 1 more Obligation, or take 1 less.
-</Description>
+    <Description>When buying or selling goods, or paying off or taking Obligation, may suffer 2 strain to sell for 25% more, but for 25% less, pay off 1 more Obligation, or take 1 less.</Description>
     <Sources>
       <Source Page="138">Edge of the Empire Core Rulebook</Source>
       <Source Page="151">Age of Rebellion Core Rulebook</Source>
@@ -4420,13 +4129,7 @@ their Cool and Negotiation checks.
   <Talent>
     <Key>MISSCRIT</Key>
     <Name>Mission Critical</Name>
-    <Description>Once per session after rolling a Piloting (Planetary)
-or Piloting (Space) check but before resolving it, the
-character may spend a Destiny Point to add [SU] or [AD]
-to the results equal to their ranks in that skill. (The
-character may divide the results between [SU] and [AD]
-In any combination.)
-</Description>
+    <Description>Once per session after rolling a Piloting (Planetary) or Piloting (Space) check but before resolving it, the character may spend a Destiny Point to add [SU] or [AD] to the results equal to their ranks in that skill. (The character may divide the results between [SU] and [AD] In any combination.)</Description>
     <Sources>
       <Source Page="40">Rise of the Separatists</Source>
     </Sources>
@@ -4445,8 +4148,7 @@ In any combination.)
   <Talent>
     <Key>MOREMACH</Key>
     <Name>More Machine Than Man</Name>
-    <Description>Increase cybernetic implant cap by 1 per rank of More Machine than Man.
-</Description>
+    <Description>Increase cybernetic implant cap by 1 per rank of More Machine than Man.</Description>
     <Source Page="34">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
@@ -4456,16 +4158,10 @@ In any combination.)
   <Talent>
     <Key>MOSTIMP</Key>
     <Name>Most Impressive</Name>
-    <Description>Spend [TR] from any skill check to allow a number of allies not exceeding the character's rating in Presence within short range to add automatic [AD] to their next check.
-</Description>
+    <Description>Spend [TR] from any skill check to allow a number of allies not exceeding the character's rating in Presence within short range to add automatic [AD] to their next check.</Description>
     <Source Page="113">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Incidental</Activation>
   </Talent>
   <Talent>
@@ -4612,11 +4308,6 @@ In any combination.)
     <Source Page="21">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>NATDOC</Key>
@@ -4735,9 +4426,7 @@ In any combination.)
   <Talent>
     <Key>NATOP</Key>
     <Name>Natural Operator</Name>
-    <Description>Once per game session, the character may reroll any
-one Piloting (Planetary) or Piloting (Space) check.
-</Description>
+    <Description>Once per game session, the character may reroll any one Piloting (Planetary) or Piloting (Space) check.</Description>
     <Sources>
       <Source Page="40">Rise of the Separatists</Source>
     </Sources>
@@ -4822,8 +4511,7 @@ one Piloting (Planetary) or Piloting (Space) check.
   <Talent>
     <Key>NATTROOP</Key>
     <Name>Natural Trooper</Name>
-    <Description>Once per game session, the character may reroll anyone
-Gunnery or Ranged (Heavy) check.</Description>
+    <Description>Once per game session, the character may reroll any one Gunnery or Ranged (Heavy) check.</Description>
     <Sources>
       <Source Page="40">Rise of the Separatists</Source>
     </Sources>
@@ -4946,15 +4634,7 @@ Gunnery or Ranged (Heavy) check.</Description>
   <Talent>
     <Key>ONETRASH</Key>
     <Name>One Person's Trash</Name>
-    <Description>The character may make a Perception check in order
-to locate a particular item amid a battlefield, shipwreck,
-junkyard, or other location with potential
-salvage. The difficulty of the check is equal to half
-the item's rarity, rounded down. There is no cost to
-acquire an item this way, but the item is in need of
-Moderate repairs (see [B]Table 5-4: Repairing Gear[b] in
-any of the core rulebooks) when found.
-</Description>
+    <Description>The character may make a Perception check in order to locate a particular item amid a battlefield, shipwreck, junkyard, or other location with potential salvage. The difficulty of the check is equal to half the item's rarity, rounded down. There is no cost to acquire an item this way, but the item is in need of Moderate repairs (see [B]Table 5-4: Repairing Gear[b] in any of the core rulebooks) when found.</Description>
     <Sources>
       <Source Page="40">Rise of the Separatists</Source>
     </Sources>
@@ -4975,13 +4655,7 @@ any of the core rulebooks) when found.
   <Talent>
     <Key>ONORDER</Key>
     <Name>On My Order</Name>
-    <Description>The character may take the On My Order action,
-making a [B]Hard ([DI][DI][DI]) Leadership
-Check.[b] If the check succeeds, the character chooses a number of
-crew aboard their ship equal to their Presence. Those
-crew members upgrade the ability of their next Gunnery
-check once, plus one time for every additional [SU][SU] on the check.
-</Description>
+    <Description>The character may take the On My Order action, making a [B]Hard ([DI][DI][DI]) Leadership Check.[b] If the check succeeds, the character chooses a number of crew aboard their ship equal to their Presence. Those crew members upgrade the ability of their next Gunnery check once, plus one time for every additional [SU][SU] on the check.</Description>
     <Sources>
       <Source Page="40">Rise of the Separatists</Source>
     </Sources>
@@ -4992,12 +4666,7 @@ check once, plus one time for every additional [SU][SU] on the check.
   <Talent>
     <Key>ORDSAT</Key>
     <Name>Ordnance Saturation</Name>
-    <Description>When the character or an ally who is currently benefiting from On My Order or Fire When Ready activates
-the Blast quality of a planetary-scale weapon, all ships
-or vehicles within close range of the target suffer damage
-equal to the weapon's Blast quality (plus 1 per
-additional [SU] as usual).
-</Description>
+    <Description>When the character or an ally who is currently benefiting from On My Order or Fire When Ready activates the Blast quality of a planetary-scale weapon, all ships or vehicles within close range of the target suffer damage equal to the weapon's Blast quality (plus 1 peradditional [SU] as usual).</Description>
     <Sources>
       <Source Page="41">Rise of the Separatists</Source>
     </Sources>
@@ -5021,13 +4690,7 @@ additional [SU] as usual).
   <Talent>
     <Key>OUTMAN</Key>
     <Name>Outmaneuver</Name>
-    <Description>The character may take the Outmaneuver action, making a [B]Hard ([DI][DI][DI]) Knowledge (Warfare) check.[b] If the check succeeds, the character chooses
-one enemy ship or vehicle in the current encounter
-for each [SU]. Until the end of the character's next turn,
-the chosen ships must perform one extra maneuver in
-order to move or change range bands relative to the
-characters ship or allies.
-</Description>
+    <Description>The character may take the Outmaneuver action, making a [B]Hard ([DI][DI][DI]) Knowledge (Warfare) check.[b] If the check succeeds, the character chooses one enemy ship or vehicle in the current encounter for each [SU]. Until the end of the character's next turn, the chosen ships must perform one extra maneuver in order to move or change range bands relative to the characters ship or allies.</Description>
     <Sources>
       <Source Page="41">Rise of the Separatists</Source>
     </Sources>
@@ -5077,8 +4740,7 @@ characters ship or allies.
   <Talent>
     <Key>OVERCHARGEIMP</Key>
     <Name>Overcharge (Improved)</Name>
-    <Description>May spend [AD][AD] or [TR] from Overcharge action to immediately take another action.
-</Description>
+    <Description>May spend [AD][AD] or [TR] from Overcharge action to immediately take another action.</Description>
     <Source Page="35">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
@@ -5087,8 +4749,7 @@ characters ship or allies.
   <Talent>
     <Key>OVERCHARGESUP</Key>
     <Name>Supreme Overcharge</Name>
-    <Description>May perform the Overcharge action on any number of installed cybernetics. On [DE], one overcharged cybernetic shorts out.
-</Description>
+    <Description>May perform the Overcharge action on any number of installed cybernetics. On [DE], one overcharged cybernetic shorts out.</Description>
     <Source Page="35">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
@@ -5133,8 +4794,7 @@ characters ship or allies.
   <Talent>
     <Key>OVERWAURA</Key>
     <Name>Overwhelming Aura</Name>
-    <Description>Commit [FO]. Add [AD] to social checks equal to [FO] committed. Add [TH] to equal [FO] committed to enemy social checks in short range.
-</Description>
+    <Description>Commit [FO]. Add [AD] to social checks equal to [FO] committed. Add [TH] to equal [FO] committed to enemy social checks in short range.</Description>
     <Sources>
       <Source Page="33">Unlimited Power</Source>
     </Sources>
@@ -5146,8 +4806,7 @@ characters ship or allies.
   <Talent>
     <Key>OVERWAURAIMP</Key>
     <Name>Overwhelming Aura (Improved)</Name>
-    <Description>Characters affected by Overwhelming Aura add automatic [FA] to fear checks the character causes and automatic [SU] to fear checks not caused by the character.
-</Description>
+    <Description>Characters affected by Overwhelming Aura add automatic [FA] to fear checks the character causes and automatic [SU] to fear checks not caused by the character.</Description>
     <Sources>
       <Source Page="33">Unlimited Power</Source>
     </Sources>
@@ -5197,16 +4856,10 @@ characters ship or allies.
   <Talent>
     <Key>PERSTARGET</Key>
     <Name>Persistent Targeting</Name>
-    <Description>After making one or more successful combat checks against a target, add [BO] to combat checks against that same target for the remainder of the encounter.
-</Description>
+    <Description>After making one or more successful combat checks against a target, add [BO] to combat checks against that same target for the remainder of the encounter.</Description>
     <Source Page="114">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
@@ -5253,7 +4906,6 @@ characters ship or allies.
     <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
-      <SkillCount>0</SkillCount>
       <NewSkills>
         <Key>PILOTPL</Key>
         <Key>PILOTSP</Key>
@@ -5347,8 +4999,7 @@ characters ship or allies.
   <Talent>
     <Key>POWDARK</Key>
     <Name>Power of Darkness</Name>
-    <Description>Once per session, may perform the Power of Darkness maneuver. Increase wound threshold and strain threshold by 1 per Dark Side Destiny point currently in the Destiny pool until the end of the encounter.
-</Description>
+    <Description>Once per session, may perform the Power of Darkness maneuver. Increase wound threshold and strain threshold by 1 per Dark Side Destiny point currently in the Destiny pool until the end of the encounter.</Description>
     <Sources>
       <Source Page="33">Unlimited Power</Source>
     </Sources>
@@ -5387,11 +5038,6 @@ characters ship or allies.
     <Source Page="21">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>PRECAIM</Key>
@@ -5466,11 +5112,6 @@ characters ship or allies.
     <Source Page="115">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Action</Activation>
   </Talent>
   <Talent>
@@ -5512,16 +5153,10 @@ characters ship or allies.
   <Talent>
     <Key>PRIDEJOY</Key>
     <Name>Pride and Joy</Name>
-    <Description>Choose one starship or vehicle character owns with a silhouette or 4 or higher; it becomes his 'Pride and Joy' vessel. He upgrades the ability of all social skill checks he makes while within short range of the vessel once.
-</Description>
+    <Description>Choose one starship or vehicle character owns with a silhouette or 4 or higher; it becomes his 'Pride and Joy' vessel. He upgrades the ability of all social skill checks he makes while within short range of the vessel once.</Description>
     <Source Page="115">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
@@ -5554,11 +5189,6 @@ characters ship or allies.
     <Source Page="115">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Incidental</Activation>
   </Talent>
   <Talent>
@@ -5672,11 +5302,6 @@ characters ship or allies.
     <Source Page="21">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>RAPREA</Key>
@@ -5707,15 +5332,7 @@ characters ship or allies.
   <Talent>
     <Key>RAVAGE</Key>
     <Name>Ravage</Name>
-    <Description>Once per encounter, the character may
-suffer 3 strain to add [FO] up to their current Force
-rating to a combat check targeting an engaged opponent.
-The character may spend [FP] to add [SU] or
-[AD] to the results of the check. If the rules for Morality
-in [B]Force and Destiny[b] are in use, a character who
-has purchased this talent gains 1 Conflict at the
-beginning of each game session.
-</Description>
+    <Description>Once per encounter, the character may suffer 3 strain to add [FO] up to their current Force rating to a combat check targeting an engaged opponent. The character may spend [FP] to add [SU] or [AD] to the results of the check. If the rules for Morality in [B]Force and Destiny[b] are in use, a character who has purchased this talent gains 1 Conflict at the beginning of each game session.</Description>
     <Sources>
       <Source Page="41">Rise of the Separatists</Source>
     </Sources>
@@ -5834,9 +5451,7 @@ beginning of each game session.
   <Talent>
     <Key>RENFORM</Key>
     <Name>Renegade Form</Name>
-    <Description>When the character purchases this talent, they choose one characteristic. They may use
-this characteristic in place of Brawn when making Lightsaber checks
-</Description>
+    <Description>When the character purchases this talent, they choose one characteristic. They may use this characteristic in place of Brawn when making Lightsaber checks </Description>
     <Sources>
       <Source Page="42">Rise of the Separatists</Source>
     </Sources>
@@ -5866,8 +5481,7 @@ this characteristic in place of Brawn when making Lightsaber checks
   <Talent>
     <Key>REROUTEPROC</Key>
     <Name>Reroute Processors</Name>
-    <Description>Once per encounter, may take a Reroute Processors action, make an [B]Average ([DI][DI]) Computers check[b] to reduce one of a droid's characteristics by 1 and increase another of its characteristics by 1.
-</Description>
+    <Description>Once per encounter, may take a Reroute Processors action, make an [B]Average ([DI][DI]) Computers check[b] to reduce one of a droid's characteristics by 1 and increase another of its characteristics by 1.</Description>
     <Sources>
       <Source Page="35">Special Modifications</Source>
       <Source Page="31">Fully Operational</Source>
@@ -5969,10 +5583,7 @@ this characteristic in place of Brawn when making Lightsaber checks
   <Talent>
     <Key>RESPDEL</Key>
     <Name>Respected Delegate</Name>
-    <Description>The character downgrades the difficulty of social skill
-checks made to interact with government institutions
-outside of their homeworld a number of times equal
-to their ranks in Respected Delegate.</Description>
+    <Description>The character downgrades the difficulty of social skill checks made to interact with government institutions outside of their homeworld a number of times equal to their ranks in Respected Delegate.</Description>
     <Sources>
       <Source Page="42">Rise of the Separatists</Source>
     </Sources>
@@ -6028,8 +5639,7 @@ to their ranks in Respected Delegate.</Description>
   <Talent>
     <Key>SAPITHSUND</Key>
     <Name>Sapith Sundering</Name>
-    <Description>May add [FO] up to Force rating to Brawl checks; the attack gains the Sunder quality, and character may spend [FP] generated one the check as [AD] to activate the Sunder quality.
-</Description>
+    <Description>May add [FO] up to Force rating to Brawl checks; the attack gains the Sunder quality, and character may spend [FP] generated one the check as [AD] to activate the Sunder quality.</Description>
     <Sources>
       <Source Page="31">Knights of Fate</Source>
     </Sources>
@@ -6139,10 +5749,7 @@ to their ranks in Respected Delegate.</Description>
   <Talent>
     <Key>SCRAPEM</Key>
     <Name>Scrap 'Em!</Name>
-    <Description>After making a successful combat check, the character may suffer 2 strain to perform the Scrap 'em! incidental. The character selects a number of allies
-no greater than their ranks in Leadership. Those allies
-Add [BO] to their combat checks against the character's target until the start of the character's next turn.
-</Description>
+    <Description>After making a successful combat check, the character may suffer 2 strain to perform the Scrap 'em! incidental. The character selects a number of allies no greater than their ranks in Leadership. Those allies Add [BO] to their combat checks against the character's target until the start of the character's next turn.</Description>
     <Sources>
       <Source Page="42">Rise of the Separatists</Source>
     </Sources>
@@ -6153,11 +5760,7 @@ Add [BO] to their combat checks against the character's target until the start o
   <Talent>
     <Key>SCRAPEMIMP</Key>
     <Name>Scrap 'Em! (Improved)</Name>
-    <Description>When the character takes the Scrap 'em! incidental,
-they affect a number of allies no greater than twice
-their ranks In Leadership, and affected allies add [BO][BO]
-to combat checks (instead of [BO]).
-</Description>
+    <Description>When the character takes the Scrap 'em! incidental, they affect a number of allies no greater than twice their ranks In Leadership, and affected allies add [BO][BO] to combat checks (instead of [BO]).</Description>
     <Sources>
       <Source Page="42">Rise of the Separatists</Source>
     </Sources>
@@ -6180,9 +5783,7 @@ to combat checks (instead of [BO]).
   <Talent>
     <Key>SECRETFORCE</Key>
     <Name>Secrets of the Force</Name>
-    <Description>Knowledge (Lore) and Lightsaber become career skills
-for the character.
-</Description>
+    <Description>Knowledge (Lore) and Lightsaber become career skills for the character.</Description>
     <Sources>
       <Source Page="42">Rise of the Separatists</Source>
     </Sources>
@@ -6199,8 +5800,7 @@ for the character.
   <Talent>
     <Key>SECRETJEDI</Key>
     <Name>Secrets of the Jedi</Name>
-    <Description>Lightsaber becomes a career skill. He may also decrease to difficulty of checks made to construct or repair lightsaber hilts a number of times equal to half his ranks in Knowledge (Lore) (rounded up), to a minimum of [B]Easy ([DI])[b].
-</Description>
+    <Description>Lightsaber becomes a career skill. He may also decrease to difficulty of checks made to construct or repair lightsaber hilts a number of times equal to half his ranks in Knowledge (Lore) (rounded up), to a minimum of [B]Easy ([DI])[b].</Description>
     <Source Page="115">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -6208,17 +5808,13 @@ for the character.
       <NewSkills>
         <Key>LTSABER</Key>
       </NewSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
     </ChooseCareerSkills>
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
     <Key>SECRETLORE</Key>
     <Name>Secret Lore</Name>
-    <Description>Remove [SE] per rank or Secret Lore from all Knowledge (Lore) checks. Reduce the difficulty of all Knowledge (Lore) checks by 1.
-</Description>
+    <Description>Remove [SE] per rank or Secret Lore from all Knowledge (Lore) checks. Reduce the difficulty of all Knowledge (Lore) checks by 1.</Description>
     <Sources>
       <Source Page="33">Unlimited Power</Source>
     </Sources>
@@ -6253,16 +5849,10 @@ for the character.
   <Talent>
     <Key>SEENTHINGS</Key>
     <Name>Seen A Lot of Things</Name>
-    <Description>Whenever the character fails a Knowledge check, he may spend [AD][AD][AD] to roll the check again during his next turn.
-</Description>
+    <Description>Whenever the character fails a Knowledge check, he may spend [AD][AD][AD] to roll the check again during his next turn.</Description>
     <Source Page="115">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Passive</Activation>
   </Talent>
   <Talent>
@@ -6421,12 +6011,7 @@ for the character.
   <Talent>
     <Key>SIDEBYSIDE</Key>
     <Name>Side by Side</Name>
-    <Description>While the character is wielding a lightsaber and engaged with one or more allies also
-wielding a lightsaber, add [TH] to all combat checks that
-target the character or those allies. (If multiple allied
-characters in the engagement possess this talent, the
-effects are cumulative.)
-</Description>
+    <Description>While the character is wielding a lightsaber and engaged with one or more allies also wielding a lightsaber, add [TH] to all combat checks that target the character or those allies. (If multiple allied characters in the engagement possess this talent, the effects are cumulative.)</Description>
     <Sources>
       <Source Page="42">Rise of the Separatists</Source>
     </Sources>
@@ -6481,10 +6066,7 @@ effects are cumulative.)
   <Talent>
     <Key>SINFLAT</Key>
     <Name>Sincerest Flattery</Name>
-    <Description>Once per encounter when the character makes a
-check using a skill that another character has previously
-used during the encounter, they add [BO][BO].
-</Description>
+    <Description>Once per encounter when the character makes a check using a skill that another character has previously used during the encounter, they add [BO][BO].</Description>
     <Sources>
       <Source Page="42">Rise of the Separatists</Source>
     </Sources>
@@ -6666,9 +6248,7 @@ used during the encounter, they add [BO][BO].
   <Talent>
     <Key>SOMEPROVE</Key>
     <Name>Something to Prove</Name>
-    <Description>Once per session the character may suffer 4 strain in
-order to reroll a failed check. If the check succeeds,
-the character heals 4 strain.</Description>
+    <Description>Once per session the character may suffer 4 strain in order to reroll a failed check. If the check succeeds, the character heals 4 strain.</Description>
     <Sources>
       <Source Page="42">Rise of the Separatists</Source>
     </Sources>
@@ -6762,8 +6342,7 @@ the character heals 4 strain.</Description>
   <Talent>
     <Key>SPKBINIMP</Key>
     <Name>Speaks Binary (Improved)</Name>
-    <Description>When directing NPC droids, those droids grand additional [BO] in addition to other benefits.
-</Description>
+    <Description>When directing NPC droids, those droids grand additional [BO] in addition to other benefits.</Description>
     <Source Page="35">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
@@ -6772,8 +6351,7 @@ the character heals 4 strain.</Description>
   <Talent>
     <Key>SPKBINSUP</Key>
     <Name>Speaks Binary (Supreme)</Name>
-    <Description>Once per encounter, may perform the Speaks Binary maneuver. A number of NPC droids up to ranks in Speaks Binary may use the character's ranks for 1 skill of character's choice.
-</Description>
+    <Description>Once per encounter, may perform the Speaks Binary maneuver. A number of NPC droids up to ranks in Speaks Binary may use the character's ranks for 1 skill of character's choice.</Description>
     <Source Page="35">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
@@ -6851,11 +6429,6 @@ the character heals 4 strain.</Description>
     <Source Page="116">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>STEADYNERVES</Key>
@@ -7106,16 +6679,10 @@ the character heals 4 strain.</Description>
   <Talent>
     <Key>SUPPRIDEJOY</Key>
     <Name>Pride and Joy (Supreme)</Name>
-    <Description>When inside his Pride and Joy vessel, once per session as an incidental, the character may reduce its silhouette by 2 (to a minimum of 0) for the remainder of the round and the following round.
-</Description>
+    <Description>When inside his Pride and Joy vessel, once per session as an incidental, the character may reduce its silhouette by 2 (to a minimum of 0) for the remainder of the round and the following round.</Description>
     <Source Page="115">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Incidental</Activation>
   </Talent>
   <Talent>
@@ -7163,11 +6730,6 @@ the character heals 4 strain.</Description>
     <Source Page="21">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>SWIFT</Key>
@@ -7185,11 +6747,7 @@ the character heals 4 strain.</Description>
   <Talent>
     <Key>TACTADV</Key>
     <Name>Tactical Advance</Name>
-    <Description>While in cover, the character may suffer 2 strain to
-perform the Tactical Advance incidental. Until the end
-of the character's next turn, the character and allies
-within short range may move out of cover and continue
-to receive its benefits.</Description>
+    <Description>While in cover, the character may suffer 2 strain to perform the Tactical Advance incidental. Until the end of the character's next turn, the character and allies within short range may move out of cover and continue to receive its benefits.</Description>
     <Sources>
       <Source Page="43">Rise of the Separatists</Source>
     </Sources>
@@ -7200,11 +6758,7 @@ to receive its benefits.</Description>
   <Talent>
     <Key>TACTADVIMP</Key>
     <Name>Tactical Advance (Improved)</Name>
-    <Description>The character may spend [AD][AD] from any check they
-make or [TH][TH] from a combat check targeting them
-to perform the Tactical Advance incidental (instead of
-suffering strain).
-</Description>
+    <Description>The character may spend [AD][AD] from any check they make or [TH][TH] from a combat check targeting them to perform the Tactical Advance incidental (instead of suffering strain).</Description>
     <Sources>
       <Source Page="43">Rise of the Separatists</Source>
     </Sources>
@@ -7219,11 +6773,6 @@ suffering strain).
     <Source Page="21">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>TACTPLAN</Key>
@@ -7232,11 +6781,6 @@ suffering strain).
     <Source Page="21">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>TACTTRAIN</Key>
@@ -7247,7 +6791,6 @@ suffering strain).
     <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
-      <SkillCount>0</SkillCount>
       <NewSkills>
         <Key>MELEE</Key>
         <Key>RANGHVY</Key>
@@ -7285,11 +6828,6 @@ suffering strain).
     <Source Page="116">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Action</Activation>
   </Talent>
   <Talent>
@@ -7307,10 +6845,7 @@ suffering strain).
   <Talent>
     <Key>TEMPLETR</Key>
     <Name>Temple Training</Name>
-    <Description>Before making a Lightsaber skill check,
-the character may spend one Destiny Point to add
-damage to the attack equal to their ranks in Knowledge
-(Lore).</Description>
+    <Description>Before making a Lightsaber skill check, the character may spend one Destiny Point to add damage to the attack equal to their ranks in Knowledge (Lore).</Description>
     <Sources>
       <Source Page="43">Rise of the Separatists</Source>
     </Sources>
@@ -7326,29 +6861,8 @@ damage to the attack equal to their ranks in Knowledge
     <Source Page="116">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <ForceTalent>true</ForceTalent>
     <Activation>Incidental</Activation>
-  </Talent>
-  <Talent>
-    <Key>TENACIOUS</Key>
-    <Name>Tenacious</Name>
-    <Description>Upgrade the number of advantages needed to score a critical hit
-against the target a number of times equal to his ranks in Tenacious. Also, reduce a Critical Injury result he suffers by 10 per rank of Tenacious</Description>
-    <Source>User Data</Source>
-    <Custom>AddedItem</Custom>
-    <Ranked>true</Ranked>
-    <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
   </Talent>
   <Talent>
     <Key>TERRIFY</Key>
@@ -7567,26 +7081,15 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
     <Source Page="116">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>Action</Activation>
   </Talent>
   <Talent>
     <Key>TRUSTNO</Key>
     <Name>Trust No One</Name>
-    <Description>When targeted by a social check, may choose to suffer one strain to add automatic [FA] to the check. If the check fails with [DE], the character may immediately perform a maneuver as an out-of-turn incidental.
-</Description>
+    <Description>When targeted by a social check, may choose to suffer one strain to add automatic [FA] to the check. If the check fails with [DE], the character may immediately perform a maneuver as an out-of-turn incidental.</Description>
     <Source Page="116">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <Activation>OOT Incidental</Activation>
   </Talent>
   <Talent>
@@ -7739,9 +7242,7 @@ against the target a number of times equal to his ranks in Tenacious. Also, redu
   <Talent>
     <Key>UTILIMP</Key>
     <Name>Utility Belt (Improved)</Name>
-    <Description>Once per session when the character performs a
-Utility Belt incidental, they may produce up to five
-functionally identical items.</Description>
+    <Description>Once per session when the character performs a Utility Belt incidental, they may produce up to five functionally identical items.</Description>
     <Sources>
       <Source Page="43">Rise of the Separatists</Source>
     </Sources>
@@ -7796,7 +7297,6 @@ functionally identical items.</Description>
     <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
-      <SkillCount>0</SkillCount>
       <NewSkills>
         <Key>GUNN</Key>
         <Key>PILOTPL</Key>
@@ -7866,7 +7366,6 @@ functionally identical items.</Description>
     <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
-      <SkillCount>0</SkillCount>
       <NewSkills>
         <Key>CORE</Key>
         <Key>OUT</Key>
@@ -7888,9 +7387,7 @@ functionally identical items.</Description>
   <Talent>
     <Key>WILLFORCE</Key>
     <Name>Will of the Force</Name>
-    <Description>Once per round after failing a skill check,
-the character may convert one dark Side Destiny
-Point to a light side Destiny Point.</Description>
+    <Description>Once per round after failing a skill check, the character may convert one dark Side Destiny Point to a light side Destiny Point.</Description>
     <Sources>
       <Source Page="43">Rise of the Separatists</Source>
     </Sources>
