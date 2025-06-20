@@ -14,7 +14,7 @@ The character has a strong addiction he must keep feeding. Whether it's a physic
     <Name>Adrenaline Rush</Name>
     <Description>
       [H4]Adrenaline Rush[h4]
-The character is addicted to the rush of adrenaline he gets from battle. It was this character flaw that cost hi his position at the upper levels of society. Now he must feed the addiction or the results turn ugly indeed. The character cannot back down from a fight of any kind, and often goes in search of conflict when things get too tame for his tastes. Should the character go an entire session without combat of some kind, the GM may add a penalty of [SE] to any skill checks in the next session (or until the character gets a chance to fight).</Description>
+The character is addicted to the rush of adrenaline he gets from battle. It was this character flaw that cost him his position at the upper levels of society. Now he must feed the addiction or the results turn ugly indeed. The character cannot back down from a fight of any kind, and often goes in search of conflict when things get too tame for his tastes. Should the character go an entire session without combat of some kind, the GM may add a penalty of [SE] to any skill checks in the next session (or until the character gets a chance to fight).</Description>
     <Source Page="17">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
@@ -42,7 +42,7 @@ Whether deserved or not, some Smugglers find themselves with a reputation for be
     <Description>
       [H4]Base of Operation[h4]
   [B]Group Obligation:[b] When the base of operations Obligation triggers, the narrative events should relate to the base of operations. This could be
-as simple as unexpected bills or an afternoon of repairing moisture vaporators on the South Ridge. Alternatively, it could involve a rampaging gundark breaking into the pastureland or a rival mining baron deciding to execute a hostile takeover of the PCs' land. The GM is free to make the narrative effects of the Obligation triggering minimally invasive, if it would distract from an important ongoing plotline, or an unexpected and major issue for the PCs to deal with immediately and personally.</Description>
+as simple as unexpected bills or an afternoon of repairing moisture vaporators on the South Ridge. Alternatively, it could involve a rampaging gundark breaking into the pastureland or a rival mining baron deciding to execute a hostile takeover of the PCs' land. The GM is free to make the narrative effects of the Obligation triggering minimally invasive, if it would distract from an important ongoing plot line, or an unexpected and major issue for the PCs to deal with immediately and personally.</Description>
     <Source Page="82">Far Horizons</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
@@ -72,7 +72,7 @@ Someone has discovered one of the PC's dirty secrets and is using that knowledge
     <Name>Bounty</Name>
     <Description>
       [H4]Bounty[h4]
-or some reason, the character has a price on his head. This may be in the form of a legal warrant or contract by criminals, collection agencies, or even someone who felt his honor violated in some way. What he did to earn this mark is up to his background, and the severity of his actions can be based on the size of his Obligation.</Description>
+For some reason, the character has a price on his head. This may be in the form of a legal warrant or contract by criminals, collection agencies, or even someone who felt his honor violated in some way. What he did to earn this mark is up to his background, and the severity of his actions can be based on the size of his Obligation.</Description>
     <Sources>
       <Source Page="39">Edge of the Empire Core Rulebook</Source>
       <Source Page="17">Far Horizons</Source>
@@ -198,7 +198,7 @@ The character has deep ties with his family that require a great deal of time an
     <Name>Fame</Name>
     <Description>
       [H4]Fame[h4]
-The character's reputation casts a long shadow. Perhaps the PC took a famous and difficult bounty, or owns a recognizable and deadly ship, or has beaten another well-known hunter to the punch in the past. Whatever the case, it is hard for the character to move unnoticed throughout the galaxy. This makes covert operations more difficult, but also means that informants are more likely to spill what they know whent he PC arrives.</Description>
+The character's reputation casts a long shadow. Perhaps the PC took a famous and difficult bounty, or owns a recognizable and deadly ship, or has beaten another well-known hunter to the punch in the past. Whatever the case, it is hard for the character to move unnoticed throughout the galaxy. This makes covert operations more difficult, but also means that informants are more likely to spill what they know when the PC arrives.</Description>
     <Source Page="19">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
@@ -265,7 +265,7 @@ If a Smuggler has Notoriety Obligation, then he will be unable to travel incogni
     <Name>Oath</Name>
     <Description>
       [H4]Oath[h4]
-The character has sword some sort of oath that dictates his thoughts and actions, shaping his moral view of the world. This could be an oath to a deity, a way of living (such as the Jedi Code), or a willingness to sacrifice for the betterment of some group or cause. Whatever the case, the Oath should be both serious and make life difficult in some ways for the character. It is a personal and deep undertaking, possibly without a truly obtainable end goal in sight. Characters who do not live up to this oath face an internal and moral struggle.</Description>
+The character has sworn some sort of oath that dictates his thoughts and actions, shaping his moral view of the world. This could be an oath to a deity, a way of living (such as the Jedi Code), or a willingness to sacrifice for the betterment of some group or cause. Whatever the case, the Oath should be both serious and make life difficult in some ways for the character. It is a personal and deep undertaking, possibly without a truly obtainable end goal in sight. Characters who do not live up to this oath face an internal and moral struggle.</Description>
     <Source Page="39">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
@@ -349,7 +349,7 @@ Although the Smuggler might act like he's his own boss, he is actually the prope
     <Name>Sponsorship</Name>
     <Description>
       [H4]Sponsorship[h4]
-This represents a legitimate faction that has placed a great deal of resources in the hands of a character (or a team) for some established purposed. For many Explorers, it is the common Obligation they will incur. It could be a mercantile consortium that sponsors a Trader in order to open up trade with a new planet or civilization or an Imperial agency sponsoring a Scout to investigate a newly discovered star and its planets. Archaeologists are frequently sponsored by academies or other scholastically minded organizations for their expeditions, and Big-Game Hunters may well be sponsored by a conservation group to thin a particular population of beasts... or sponsored by less savory firms to completely eradicate a particular life-form.</Description>
+This represents a legitimate faction that has placed a great deal of resources in the hands of a character (or a team) for some established purpose. For many Explorers, it is the common Obligation they will incur. It could be a mercantile consortium that sponsors a Trader in order to open up trade with a new planet or civilization or an Imperial agency sponsoring a Scout to investigate a newly discovered star and its planets. Archaeologists are frequently sponsored by academies or other scholastically minded organizations for their expeditions, and Big-Game Hunters may well be sponsored by a conservation group to thin a particular population of beasts... or sponsored by less savory firms to completely eradicate a particular life-form.</Description>
     <Source Page="19">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
@@ -398,4 +398,4 @@ Some Colonists never would have chosen life on a distant backwater, but authorit
     <Source Page="17">Far Horizons</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
-  </Obligations>
+</Obligations>
