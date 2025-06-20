@@ -5,7 +5,6 @@
     <Name>Discovery</Name>
     <Description>
       [H4]Discovery[h4]
-
 Seeking out and discovering new worlds, information, or the wondrous secrets hidden among the galaxy's countless stars drives this character's actions. More than anything, he wants to find and experience things nobody else has.</Description>
     <Source Page="106">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -16,7 +15,6 @@ Seeking out and discovering new worlds, information, or the wondrous secrets hid
     <Name>Enlightenment</Name>
     <Description>
       [H4]Enlightenment[h4]
-
 The character seeks spiritual and Intellectual enlightenment above all else. He does not seek to bring enlightenment to others, for he realizes that such a goal is innately personal.</Description>
     <Source Page="106">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -27,7 +25,6 @@ The character seeks spiritual and Intellectual enlightenment above all else. He 
     <Name>Expertise</Name>
     <Description>
       [H4]Expertise[h4]
-
 The character wants to excel in his chosen profession and constantly practices to achieve perfection. Alternatively, this character picks a skill or two in which to excel.</Description>
     <Sources>
       <Source Page="95">Edge of the Empire Core Rulebook</Source>
@@ -41,7 +38,6 @@ The character wants to excel in his chosen profession and constantly practices t
     <Name>Fame</Name>
     <Description>
       [H4]Fame[h4]
-
 The character seeks the limelight and wants to be famous. He wants his deeds and actions to make the HoloNet for all to see and revels in the attention given by fans and supporters.</Description>
     <Source Page="95">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -52,7 +48,6 @@ The character seeks the limelight and wants to be famous. He wants his deeds and
     <Name>Freedom</Name>
     <Description>
       [H4]Freedom[h4]
-
 The character desires the freedom to do what he wants. This could be a passion to overcome one or more of his current Obligations or to see others freed from the shackles of bondage and servitude in all its forms.</Description>
     <Source Page="95">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -63,7 +58,6 @@ The character desires the freedom to do what he wants. This could be a passion t
     <Name>Friendship</Name>
     <Description>
       [H4]Friendship[h4]
-
 The character seeks to be liked by others and goes out of his way to make a good impression. He may or may not be gregarious, relying on his actions and deeds to foster friendship.</Description>
     <Source Page="95">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -74,7 +68,6 @@ The character seeks to be liked by others and goes out of his way to make a good
     <Name>Glory</Name>
     <Description>
       [H4]Glory[h4]
-
 Fame and the spotlight beckon to this character. He wants to perform great deeds, and be celebrated for them.</Description>
     <Source Page="106">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -85,7 +78,6 @@ Fame and the spotlight beckon to this character. He wants to perform great deeds
     <Name>Greed</Name>
     <Description>
       [H4]Greed[h4]
-
 Money is the prime motivator for this character. The character may be active in business, investing, or the tried-and-true method of theft to increase his credit bank.</Description>
     <Source Page="95">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -96,7 +88,6 @@ Money is the prime motivator for this character. The character may be active in 
     <Name>Become a Jedi</Name>
     <Description>
       [H4]Become a Jedi[h4]
-
 The character wants nothing more than to become a Jedi Knight, though he may not be sure how to do so.</Description>
     <Source Page="106">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -107,7 +98,6 @@ The character wants nothing more than to become a Jedi Knight, though he may not
     <Name>Love</Name>
     <Description>
       [H4]Love[h4]
-
 The character is driven by love or intimacy. The character already has a true love or strives to find the one he is meant to be with.</Description>
     <Source Page="95">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -118,7 +108,6 @@ The character is driven by love or intimacy. The character already has a true lo
     <Name>Power</Name>
     <Description>
       [H4]Power[h4]
-
 The character craves power and authority over others. His rule may not be despotic, but he wants to control his situation and those around him, often bettering himself in the process.</Description>
     <Sources>
       <Source Page="95">Edge of the Empire Core Rulebook</Source>
@@ -132,7 +121,6 @@ The character craves power and authority over others. His rule may not be despot
     <Name>Religion/Spirituality</Name>
     <Description>
       [H4]Religion/Spirituality[h4]
-
  The character is both drawn and follows the sway of a particular religious or spiritual calling. This could be the tenets of the Jedi or the Sith or some other belief.</Description>
     <Source Page="95">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -143,7 +131,6 @@ The character craves power and authority over others. His rule may not be despot
     <Name>Revenge</Name>
     <Description>
       [H4]Revenge[h4]
-
 At some point in the character's past, he was brutally wronged. Now he seeks vengeance, and he has a hard time focusing on anything else.</Description>
     <Source Page="106">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -154,7 +141,6 @@ At some point in the character's past, he was brutally wronged. Now he seeks ven
     <Name>Destroy the Sith</Name>
     <Description>
       [H4]Destroy the Sith[h4]
-
 Through ancient texts or diligent research, the character has learned of the Jedi's ancient enemies: the Sith. He has set out to defeat and destroy their order, or at the very least, do what he can to hinder them.</Description>
     <Source Page="106">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -165,7 +151,6 @@ Through ancient texts or diligent research, the character has learned of the Jed
     <Name>Status</Name>
     <Description>
       [H4]Status[h4]
-
 The character wants to elevate his social standing—gaining titles, commendations, and accolades. The character may come from humble beginnings or otherwise strive for a higher position than where he began.</Description>
     <Source Page="95">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -176,7 +161,6 @@ The character wants to elevate his social standing—gaining titles, commendatio
     <Name>Survival</Name>
     <Description>
       [H4]Survival[h4]
-
 In a galaxy where simply being a Force user can be a death sentence, the characters primary concern is survival. He's willing to do what it takes to make sure he lives another day.</Description>
     <Source Page="106">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -187,8 +171,7 @@ In a galaxy where simply being a Force user can be a death sentence, the charact
     <Name>Wanderlust/Novelty</Name>
     <Description>
       [H4]Wanderlust/Novelty[h4]
-
-The character is driven to explore the galaxy and rarely stays in one place for long. He's motivated to uncover remote or unexplored regions and seeing everything that can be seen. Alternatively, this character is driven to experience new sensations and activities, perhaps rather hedonistically.</Description>
+The character is driven to explore the galaxy and rarely stays in one place for long. He's motivated to uncover remote or unexplored regions and see everything that can be seen. Alternatively, this character is driven to experience new sensations and activities, perhaps rather hedonistically.</Description>
     <Source Page="95">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Ambition</Motivation>
@@ -198,7 +181,6 @@ The character is driven to explore the galaxy and rarely stays in one place for 
     <Name>Wealth</Name>
     <Description>
       [H4]Wealth[h4]
-
 Money motivates this character. Often, his choices are based less on the consequences of right and wrong, and are based more on what will be best for his credit account.</Description>
     <Source Page="106">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -209,7 +191,6 @@ Money motivates this character. Often, his choices are based less on the consequ
     <Name>Crime</Name>
     <Description>
       [H4]Crime[h4]
-
 The Player Character makes all or part of his living off of illegal dealings of some kind (such as smuggling) which has become increasingly difficult under the rule of the Empire. He believes that with a new order in place, new opportunities will arise for profit.</Description>
     <Source Page="105">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -229,7 +210,6 @@ The Player Character makes all or part of his living off of illegal dealings of 
     <Name>Freedom</Name>
     <Description>
       [H4]Freedom[h4]
-
 The absolute and autocratic rule of the Emperor is an offense to this Player Character's core beliefs about governments and politics. He might, in fact, oppose central authoritarianism in all forms, yet see the Alliance as a "lesser evil' he can deal with after the Empire is brought down.</Description>
     <Source Page="105">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -249,7 +229,6 @@ The absolute and autocratic rule of the Emperor is an offense to this Player Cha
     <Name>Honor</Name>
     <Description>
       [H4]Honor[h4]
-
 The Player Character has a code of honor by which he lives, derived either from personal ethics or the culture from which he hails. He sees the Empire as the antithesis of everything he stands for, and he will fight it to the end.</Description>
     <Source Page="105">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -260,7 +239,6 @@ The Player Character has a code of honor by which he lives, derived either from 
     <Name>Justice</Name>
     <Description>
       [H4]Justice[h4]
-
 The character has a strong, unshakable sense of right and wrong, and he sees the injustices of Imperial rule throughout the galaxy. He is committed to seeing justice brought back to the galaxy, and he wishes those who have betrayed it to receive the punishment they deserve.</Description>
     <Source Page="105">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -289,7 +267,6 @@ The character has a strong, unshakable sense of right and wrong, and he sees the
     <Name>Peace</Name>
     <Description>
       [H4]Peace[h4]
-
 The Player Character believes that as long as the Empire remains in power, the galaxy will forever know war, bloodshed, and violence. He hopes to bring peace to the galaxy by overthrowing the Empire as quickly as possible. In addition, if a peaceful resolution can be found for the war, he will embrace it.</Description>
     <Source Page="105">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -300,7 +277,6 @@ The Player Character believes that as long as the Empire remains in power, the g
     <Name>Progress</Name>
     <Description>
       [H4]Progress[h4]
-
 The Empire's tight control of galactic commerce has made it hard for anyone outside the Imperial military to create or acquire new technology. The Player Character believes that the only way to bring a new era of progress to the galaxy is to remove the Emperor from power.</Description>
     <Source Page="105">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -311,7 +287,6 @@ The Empire's tight control of galactic commerce has made it hard for anyone outs
     <Name>Religion/Philosophy</Name>
     <Description>
       [H4]Religion/Philosophy[h4]
-
 The PC is an adherent of a particular religious order or set of teachings, or is a follower of a set of philosophical principles. Whatever it is, this set of beliefs moves him to serve the Alliance.</Description>
     <Source Page="105">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -322,7 +297,6 @@ The PC is an adherent of a particular religious order or set of teachings, or is
     <Name>The Republic</Name>
     <Description>
       [H4]The Republic[h4]
-
 The Player Character believes in the Republic and all it stood for. He is determined to restore it in all its glory (and hopefully to what it was before corruption set in).</Description>
     <Source Page="105">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -333,7 +307,6 @@ The Player Character believes in the Republic and all it stood for. He is determ
     <Name>Species Rights</Name>
     <Description>
       [H4]Species Rights[h4]
-
 The Empire's dismissal of and outright antagonism toward non-humans is atrocious in every way, and this Player Character wants to put an end to it. The Alliance is his best means to see that non-humans gain the voice and the respect they deserve.</Description>
     <Source Page="105">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -344,7 +317,6 @@ The Empire's dismissal of and outright antagonism toward non-humans is atrocious
     <Name>The Jedi</Name>
     <Description>
       [H4]The Jedi[h4]
-
 The PC believes the Jedi were the greatest part of what was good in the galaxy and that their elimination destroyed the moral and ethical fabric of civilization. He is determined to help restore them to their rightful place. Alternatively, he simply believes in the philosophy and teachings of the Jedi and knows that fighting the Empire is what they would do.</Description>
     <Source Page="105">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -355,7 +327,6 @@ The PC believes the Jedi were the greatest part of what was good in the galaxy a
     <Name>Capitalism</Name>
     <Description>
       [H4]Capitalism[h4]
-
 The character is an unabashed capitalist and fights for the rights of merchants, trading organizations, and business, sometimes running counter to the wishes of both the Empire and some criminal groups.</Description>
     <Source Page="95">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -366,8 +337,7 @@ The character is an unabashed capitalist and fights for the rights of merchants,
     <Name>Crime</Name>
     <Description>
       [H4]Crime[h4]
-
-The character supports the idea of black markets, mercenaries, and other groups that fall outside of the law The character need not be a criminal himself. but may give aid to other criminals, especially if they are family members, childhood friends. or if corruption is deeply embedded in the character's originating culture.</Description>
+The character supports the idea of black markets, mercenaries, and other groups that fall outside of the law. The character need not be a criminal himself. but may give aid to other criminals, especially if they are family members, childhood friends. or if corruption is deeply embedded in the character's originating culture.</Description>
     <Source Page="95">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Cause</Motivation>
@@ -377,7 +347,6 @@ The character supports the idea of black markets, mercenaries, and other groups 
     <Name>Droid Rights</Name>
     <Description>
       [H4]Droid Rights[h4]
-
 The character believes that droids should be accepted as full members of galactic society, not merely tools or servants.</Description>
     <Source Page="95">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -388,8 +357,7 @@ The character believes that droids should be accepted as full members of galacti
     <Name>Emancipation</Name>
     <Description>
       [H4]Emancipation[h4]
-
-The character sees slavery and indentured servitude as an abomination that most be undone. He'll go out of his way to aid or attempt to free anyone kept in slavery.</Description>
+The character sees slavery and indentured servitude as an abomination that must be undone. He'll go out of his way to aid or attempt to free anyone kept in slavery.</Description>
     <Source Page="95">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Cause</Motivation>
@@ -399,7 +367,6 @@ The character sees slavery and indentured servitude as an abomination that most 
     <Name>Support the Empire</Name>
     <Description>
       [H4]Support the Empire[h4]
-
 The character actually supports the goals and methods of the Empire and does his best to advance its cause. He'll defend the Empire in conversation and may actively take up arms in its defense.</Description>
     <Source Page="95">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -410,7 +377,6 @@ The character actually supports the goals and methods of the Empire and does his
     <Name>Equality</Name>
     <Description>
       [H4]Equality[h4]
-
 All sentient beings deserve the right to be treated with respect and as peers by other beings, regardless of their state of technological sophistication. When the character finds those who do not possess equality, he seeks to better their lot in life.</Description>
     <Source Page="106">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -421,7 +387,6 @@ All sentient beings deserve the right to be treated with respect and as peers by
     <Name>Freedom</Name>
     <Description>
       [H4]Freedom[h4]
-
  All sentient beings must have the opportunity to make their own decisions. For good or for ill, and the right to face the consequences or receive the just rewards For their actions. The character seeks freedom for the enslaved and oppressed, and fights against organizations that promote slavery or subjugate their people.</Description>
     <Source Page="106">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -432,7 +397,6 @@ All sentient beings deserve the right to be treated with respect and as peers by
     <Name>Free Enterprise</Name>
     <Description>
       [H4]Free Enterprise[h4]
-
 Free and unimpeded trade between cultures can create opportunity, innovation, and understanding. Governments cannot be permitted to impede such interactions and the character seeks to do what he can to support this.</Description>
     <Source Page="106">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -443,7 +407,6 @@ Free and unimpeded trade between cultures can create opportunity, innovation, an
     <Name>Help the Helpless</Name>
     <Description>
       [H4]Help the Helpless[h4]
-
 In a galaxy full of momentous events and desperate struggle, it is all too easy to forget the poor, the weak, and the downtrodden. The character seeks to give voice to the voiceless, and help those who cannot help themselves.</Description>
     <Source Page="106">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -454,7 +417,6 @@ In a galaxy full of momentous events and desperate struggle, it is all too easy 
     <Name>Justice</Name>
     <Description>
       [H4]Justice[h4]
-
  In a galaxy full of wrongdoing, justice must be done. The character seeks to bring justice to those who deserve it, while helping victims of injustice to right the wrongs done to them.</Description>
     <Source Page="106">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -465,7 +427,6 @@ In a galaxy full of momentous events and desperate struggle, it is all too easy 
     <Name>Knowledge</Name>
     <Description>
       [H4]Knowledge[h4]
-
 All sentient beings deserve an education that gives them a broader view of the galaxy. This character promotes the discovery and dissemination of all knowledge, to improve the lives of everyone in the galaxy.</Description>
     <Source Page="106">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -476,7 +437,6 @@ All sentient beings deserve an education that gives them a broader view of the g
     <Name>Non-Human Rights</Name>
     <Description>
       [H4]Non-Human Rights[h4]
-
 The character fights for the rights of non-humans in the very xenophobic rule of the Empire.</Description>
     <Source Page="95">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -487,9 +447,7 @@ The character fights for the rights of non-humans in the very xenophobic rule of
     <Name>Overthrow the Empire</Name>
     <Description>
       [H4]Overthrow the Empire[h4]
-
-The character despises the Empire and everything that it stands for. He may or may not be an active member of the Rebellion, but he supports its goals and gives aid and comfort to those against Imperial tyranny.
-</Description>
+The character despises the Empire and everything that it stands for. He may or may not be an active member of the Rebellion, but he supports its goals and gives aid and comfort to those against Imperial tyranny.</Description>
     <Sources>
       <Source Page="95">Edge of the Empire Core Rulebook</Source>
       <Source Page="106">Force and Destiny Core Rulebook</Source>
@@ -502,7 +460,6 @@ The character despises the Empire and everything that it stands for. He may or m
     <Name>Galactic Peace</Name>
     <Description>
       [H4]Galactic Peace[h4]
-
 The galaxy has been torn and shattered by decades of warfare. The character wants nothing more than to see peace restored to the galaxy, and recognizes that concerted efforts must be made to resolve galactic warfare.</Description>
     <Source Page="106">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -513,7 +470,6 @@ The galaxy has been torn and shattered by decades of warfare. The character want
     <Name>Local Politics</Name>
     <Description>
       [H4]Local Politics[h4]
-
 The character supports some particular political cause, typically within a single planet or system. The character actively gets involved in campaigns and candidates. and may even fight on the behalf of a political organization.</Description>
     <Source Page="95">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -524,7 +480,6 @@ The character supports some particular political cause, typically within a singl
     <Name>Religion/Spirituality</Name>
     <Description>
       [H4]Religion/Spirituality[h4]
-
 The character actively supports some religious or spiritual organization or belief. This could include the tenets of the Jedi or Sith codes or some other belief.</Description>
     <Source Page="95">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -535,7 +490,6 @@ The character actively supports some religious or spiritual organization or beli
     <Name>Restore the Jedi</Name>
     <Description>
       [H4]Restore the Jedi[h4]
-
 The character wants to see the Jedi Order restored and rebuilt, although what he knows of the Jedi may be limited or even inaccurate. He may want to be a Jedi, or just want to see them return to being a presence in the galaxy.</Description>
     <Source Page="106">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -546,7 +500,6 @@ The character wants to see the Jedi Order restored and rebuilt, although what he
     <Name>Stop the Rebellion</Name>
     <Description>
       [H4]Stop the Rebellion[h4]
-
 The Rebel Alliance Is an organization of outlaws and malcontents who fight against their legitimate government. The character may not like the Empire, but he dislikes the Alliance more, and wants to see it stopped.</Description>
     <Source Page="106">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -557,7 +510,6 @@ The Rebel Alliance Is an organization of outlaws and malcontents who fight again
     <Name>The Weak/Charity</Name>
     <Description>
       [H4]The Weak/Charity[h4]
-
 The character fights for the underdog, disliking bullies and totalitarianism. He'll put the interests of those in need before his own and may donate time or money to aid the less fortunate.</Description>
     <Source Page="95">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -566,7 +518,8 @@ The character fights for the underdog, disliking bullies and totalitarianism. He
   <SpecificMotivation>
     <Key>CHALLENGE1</Key>
     <Name>Liberation</Name>
-    <Description>[H4]Liberation[h4]
+    <Description>
+      [H4]Liberation[h4]
 This character works against oppression of all kinds. Harsh masters, domineering societies, even overzealous companions can spark the need to rise up against oppression and liberate the helpless.</Description>
     <Source Page="32">Knights of Fate</Source>
     <Custom>DescOnly</Custom>
@@ -575,18 +528,18 @@ This character works against oppression of all kinds. Harsh masters, domineering
   <SpecificMotivation>
     <Key>CHALLENGE10</Key>
     <Name>Superiority</Name>
-    <Description>[H4]Superiority[h4]
-</Description>
+    <Description>
+      [H4]Superiority[h4]
+This character strives to prove their superiority by improving fighting skills, amassing credits or followers, or earning a reputation.</Description>
     <Source Page="32">Knights of Fate</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Challenges</Motivation>
   </SpecificMotivation>
-
-
   <SpecificMotivation>
     <Key>CHALLENGE2</Key>
     <Name>Birthright</Name>
-    <Description>[H4]Birthright[h4]
+    <Description>
+      [H4]Birthright[h4]
 This character's discovery of the Force awakened a need to claim forgotten teachings, martial techniques, and a forbidden way of life. Legends drive this character both to learn about and strive to emulate the Jedi of old.</Description>
     <Source Page="32">Knights of Fate</Source>
     <Custom>DescOnly</Custom>
@@ -595,7 +548,8 @@ This character's discovery of the Force awakened a need to claim forgotten teach
   <SpecificMotivation>
     <Key>CHALLENGE3</Key>
     <Name>Perfection</Name>
-    <Description>[H4]Perfection[h4]
+    <Description>
+      [H4]Perfection[h4]
 This character is determined to be the best, to uncover the best in others, and to seek out perfection in an imperfect universe. The impossibility of the goal is irrelevant, as all improvement is beneficial, and the intent matters. This character continually seeks betterment, resulting in brilliance or, more often, disappointment.</Description>
     <Source Page="32">Knights of Fate</Source>
     <Custom>DescOnly</Custom>
@@ -604,8 +558,9 @@ This character is determined to be the best, to uncover the best in others, and 
   <SpecificMotivation>
     <Key>CHALLENGE4</Key>
     <Name>Meaning</Name>
-    <Description>[H4]Meaning[h4]
-</Description>
+    <Description>
+      [H4]Meaning[h4]
+In a war-torn universe, any character might yearn for meaning in the chaos. This character may seek someone who can share wisdom, or may spend time studying and working with the Force, hoping for answers. The character might even seek meaning in Sith temples or other dangerous places.</Description>
     <Source Page="32">Knights of Fate</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Challenges</Motivation>
@@ -613,8 +568,9 @@ This character is determined to be the best, to uncover the best in others, and 
   <SpecificMotivation>
     <Key>CHALLENGE5</Key>
     <Name>Acceptance</Name>
-    <Description>[H4]Acceptance[h4]
-</Description>
+    <Description>
+      [H4]Acceptance[h4]
+This character seeks acceptance in a universe that persecutes Force sensitives, wishing for a satisfying role in a community, whether a colony or a crew.</Description>
     <Source Page="32">Knights of Fate</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Challenges</Motivation>
@@ -622,8 +578,9 @@ This character is determined to be the best, to uncover the best in others, and 
   <SpecificMotivation>
     <Key>CHALLENGE6</Key>
     <Name>Legacy</Name>
-    <Description>[H4]Legacy[h4]
-</Description>
+    <Description>
+      [H4]Legacy[h4]
+In a vast and varied galaxy, it is not easy for one character to make a significant difference. This character is eager to leave a lasting mark, to pass techniques on to a pupil, or to simply inspire others.</Description>
     <Source Page="32">Knights of Fate</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Challenges</Motivation>
@@ -631,8 +588,9 @@ This character is determined to be the best, to uncover the best in others, and 
   <SpecificMotivation>
     <Key>CHALLENGE7</Key>
     <Name>Recognition</Name>
-    <Description>[H4]Recognition[h4]
-</Description>
+    <Description>
+      [H4]Recognition[h4]
+Jedi once rose above the need for recognition, but for this character honing newfound abilities, it is a driving force. It is only natural to seek recognition of efforts and skills when they are so difficult to acquire and control.</Description>
     <Source Page="32">Knights of Fate</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Challenges</Motivation>
@@ -640,8 +598,9 @@ This character is determined to be the best, to uncover the best in others, and 
   <SpecificMotivation>
     <Key>CHALLENGE8</Key>
     <Name>Worthy Opponent</Name>
-    <Description>[H4]Worthy Opponents[h4]
-</Description>
+    <Description>
+      [H4]Worthy Opponents[h4]
+The character requires a worthy foe and wants to fight against a nemesis worthy of the name. This character seeks to test themself on the field of battle against multiple opponents or a seasoned Force user. The challenge has to be worth the character’s attention, and they may seek a specific opponent, such as a Sith or the Emperor himself.</Description>
     <Source Page="32">Knights of Fate</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Challenges</Motivation>
@@ -649,8 +608,9 @@ This character is determined to be the best, to uncover the best in others, and 
   <SpecificMotivation>
     <Key>CHALLENGE9</Key>
     <Name>Martial Mastery</Name>
-    <Description>[H4]Martial Mastery[h4]
-</Description>
+    <Description>
+      [H4]Martial Mastery[h4]
+This character seeks to master one or many martial arts, and so craves a teacher or experience. The battle itself is more important than the win, and defeat is acceptable as long as it enables the character to learn.</Description>
     <Source Page="32">Knights of Fate</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Challenges</Motivation>
@@ -660,7 +620,7 @@ This character is determined to be the best, to uncover the best in others, and 
     <Name>No Collateral Damage</Name>
     <Description>
       [H4]No Collateral Damage[h4]
-Though some particularly pernicious bounty hunters are willing to toss around thermal detonators on populated worlds, most try to minimize the civilian harm they cause, if only because it can be inconvenient to clean up. A few, however, are scrupulous about avoiding civilian casualities, to the point of letting a target escape to avoide escape to avoid hurting civilians.</Description>
+Though some particularly pernicious bounty hunters are willing to toss around thermal detonators on populated worlds, most try to minimize the civilian harm they cause, if only because it can be inconvenient to clean up. A few, however, are scrupulous about avoiding civilian casualties, to the point of letting a target escape to avoid hurting civilians.</Description>
     <Source Page="37">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Code</Motivation>
@@ -670,14 +630,11 @@ Though some particularly pernicious bounty hunters are willing to toss around th
     <Name>Finish the Job</Name>
     <Description>
       [H4]Finish the Job[h4]
-It is a rare bounty hunter who keeps pursuing preyeven when it becomes clear that the hnt is not economically viable. This bounty hunter is one of the rare exceptions; her word is irrevocable, and once she has taken a contract, the character pursues it at all costs. While a job might be put on hiatus, once the hunt begins, she can never abandon or forget it—perhaps even if the client rescinds the bounty.</Description>
+It is a rare bounty hunter who keeps pursuing prey even when it becomes clear that the hunt is not economically viable. This bounty hunter is one of the rare exceptions; her word is irrevocable, and once she has taken a contract, the character pursues it at all costs. While a job might be put on hiatus, once the hunt begins, she can never abandon or forget it—perhaps even if the client rescinds the bounty.</Description>
     <Source Page="37">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Code</Motivation>
   </SpecificMotivation>
-
-
-
   <SpecificMotivation>
     <Key>CODELIVE</Key>
     <Name>Live Capture</Name>
@@ -713,7 +670,7 @@ A bounty hunter who doesn;t get paid doesn't eat, and starving while maintaining
     <Name>Quiet Professionalism</Name>
     <Description>
       [H4]Quiet Professionalism[h4]
-There is an old saying in the bounty hunting trade that good work  makes little noise, and the character is the embodiment of that. Like a master artisan, the character pursues bounties with far greater care about attentiaon to detail than most. The PC sees little need for flashy accoutrement or ostenatious shows of prowess.</Description>
+There is an old saying in the bounty hunting trade that good work  makes little noise, and the character is the embodiment of that. Like a master artisan, the character pursues bounties with far greater care about attention to detail than most. The PC sees little need for flashy accoutrement or ostentatious shows of prowess.</Description>
     <Source Page="37">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Code</Motivation>
@@ -723,7 +680,7 @@ There is an old saying in the bounty hunting trade that good work  makes little 
     <Name>Reputation is Everything</Name>
     <Description>
       [H4]Reputation is Everything[h4]
-To a bounty hunter, maintaining the appearance of being an unrelenting, unstoppable force is often as important as acutally having the skills and strength of will to succeed in the chase. While false bravado usually falls apart in the face of the challenges a bounty hunter faces, many bounty hunters work hard to uphold their repuations, repaying slights and provocations with disproportionate violence.</Description>
+To a bounty hunter, maintaining the appearance of being an unrelenting, unstoppable force is often as important as actually having the skills and strength of will to succeed in the chase. While false bravado usually falls apart in the face of the challenges a bounty hunter faces, many bounty hunters work hard to uphold their reputations, repaying slights and provocations with disproportionate violence.</Description>
     <Source Page="37">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Code</Motivation>
@@ -743,7 +700,7 @@ There is nothing more important than the rule of law, and the character is sworn
     <Name>The Only Score that Matters</Name>
     <Description>
       [H4]The Only Score that Matters[h4]
-Only on thing matters to the character; having the highest body count. The PC only takes a bounty alive if it doesn't pay for the target dead, and is in constant competition with other like minded individuals to rack up the most kills.</Description>
+Only one thing matters to the character; having the highest body count. The PC only takes a bounty alive if it doesn't pay for the target dead, and is in constant competition with other like minded individuals to rack up the most kills.</Description>
     <Source Page="37">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Code</Motivation>
@@ -763,8 +720,7 @@ A code is hardly relevant if the bounty hunter is too dead to uphold it, and whi
     <Name>Economic</Name>
     <Description>
       [H4]Economic[h4]
-
-While many powerful corporations enjoy security and prosperity under the Empire's rule (and, often, patronage), other businesses suffer from lack of Imperial favor or from having had most or all of their assets were nationalized and brought directly under the Empire's logistical control. The Player Character has business interests directly tied to the Alliance, and he's around to make sure his interests are looking after.</Description>
+While many powerful corporations enjoy security and prosperity under the Empire's rule (and, often, patronage), other businesses suffer from lack of Imperial favor or from having had most or all of their assets nationalized and brought directly under the Empire's logistical control. The Player Character has business interests directly tied to the Alliance, and he's around to make sure his interests are looking after.</Description>
     <Motivation>Connections</Motivation>
     <Source Page="106">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -774,7 +730,6 @@ While many powerful corporations enjoy security and prosperity under the Empire'
     <Name>The Empire</Name>
     <Description>
       [H4]The Empire[h4]
-
 The Player Character used to be a part of the Empire. He was once a soldier, a spy, or even a high-ranking official, but something drove him not only to leave the oppressive regime, but to commit himself to its downfall.</Description>
     <Source Page="106">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -785,7 +740,6 @@ The Player Character used to be a part of the Empire. He was once a soldier, a s
     <Name>Family</Name>
     <Description>
       [H4]Family[h4]
-
 The Player Character's family believes in the cause of the Alliance. Many of them may have signed on to serve in one way or another. Some (or all) of them could have died in that service. Regardless of his personal feelings, the PC fights for the Rebellion due to his family's involvement.</Description>
     <Source Page="106">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -796,8 +750,7 @@ The Player Character's family believes in the cause of the Alliance. Many of the
     <Name>Mayhem</Name>
     <Description>
       [H4]Mayhem[h4]
-
- The character derives pleasure through destruction. He seldom passes up a chance to cause conflict and confusion m his work, even to the possible detriment of his own well-being. Extreme examples of this may even be forms of mental illness.</Description>
+ The character derives pleasure through destruction. He seldom passes up a chance to cause conflict and confusion in his work, even to the possible detriment of his own well-being. Extreme examples of this may even be forms of mental illness.</Description>
     <Sources>
       <Source Page="34">Dangerous Covenants</Source>
       <Source Page="34">Stay on Target</Source>
@@ -810,7 +763,6 @@ The Player Character's family believes in the cause of the Alliance. Many of the
     <Name>Life Debt</Name>
     <Description>
       [H4]Life Debt[h4]
-
 The character owes someone else, and owes them big. His life is in someone else's hands, and this debt requires him to fight. He may or may not enjoy this. but this motivation is so strong that it overrides his other desires.</Description>
     <Sources>
       <Source Page="34">Dangerous Covenants</Source>
@@ -835,7 +787,6 @@ may be a bit cold and distant toward non-veterans, he is a true and loyal friend
     <Name>Professional</Name>
     <Description>
       [H4]Professional[h4]
-
 Simply put, violence is this character's business, and that business is never in short supply. The character knows no other way to make his way in the galaxy. and thus treats his lethal work as any other job.</Description>
     <Source Page="34">Stay on Target</Source>
     <Custom>DescOnly</Custom>
@@ -858,7 +809,6 @@ whatever it takes to accomplish this.</Description>
     <Name>Retirement</Name>
     <Description>
       [H4]Retirement[h4]
-
 The character has long since lost his lust for battle, and fights not because he loves the violence, but because he is very close to being able to safely retire. This could represent awaiting the end of an enlistment, accumulating credits to pay off a debt, repaying a favor, or awaiting an opportunity to clear his name before he gives up his life of violence.</Description>
     <Source Page="34">Stay on Target</Source>
     <Custom>DescOnly</Custom>
@@ -869,7 +819,6 @@ The character has long since lost his lust for battle, and fights not because he
     <Name>Violent Conquest</Name>
     <Description>
       [H4]Violent Conquest[h4]
-
 The character is driven to conquer whatever and whomever he comes across. If they do not submit. he is more than willing to employ force against them.</Description>
     <Sources>
       <Source Page="34">Dangerous Covenants</Source>
@@ -883,7 +832,6 @@ The character is driven to conquer whatever and whomever he comes across. If the
     <Name>Squadmates</Name>
     <Description>
       [H4]Squadmates[h4]
-
 One can never truly know his colleagues until he serves with them in battle. While the character may be a bit distant from non-veterans, he is a true and loyal friend to anyone with whom he has fought.</Description>
     <Source Page="34">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
@@ -894,7 +842,6 @@ One can never truly know his colleagues until he serves with them in battle. Whi
     <Name>Blood Money</Name>
     <Description>
       [H4]Blood Money[h4]
-
 Simply put, violence is this character's business, and that business is never in short supply. The character knows no other way to make his way in the galaxy, and thus treats his bloody work as any other job.</Description>
     <Source Page="34">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
@@ -905,7 +852,6 @@ Simply put, violence is this character's business, and that business is never in
     <Name>Honor in Battle</Name>
     <Description>
       [H4]Honor in Battle[h4]
-
 The character holds true to a code of honor in warfare. This code could be an ancient tradition of one of the myriad civilizations in the galaxy or it could be his own personal beliefs. Whatever life case, his honor depends on following these tenets, even when it may be inconvenient.</Description>
     <Sources>
       <Source Page="34">Dangerous Covenants</Source>
@@ -919,7 +865,6 @@ The character holds true to a code of honor in warfare. This code could be an an
     <Name>Best in the Field</Name>
     <Description>
       [H4]Best in the Field[h4]
-
 Be the best: that's the creed by which this character lives. In this case, he strives to be the best combatant. He wants to be the last one standing on the field of battle, the consummate warrior. He is willing to do whatever it takes to accomplish this.</Description>
     <Source Page="34">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
@@ -930,7 +875,6 @@ Be the best: that's the creed by which this character lives. In this case, he st
     <Name>Revenge</Name>
     <Description>
       [H4]Revenge[h4]
-
 The character is driven by one of the oldest and most primal causes in the Galaxy—the desire to avenge some real or perceived wrong the character has suffered. The character's hunger for vengeance may be justified or not. but it is a cold, heartless master that can drive the character to obsession.</Description>
     <Sources>
       <Source Page="34">Dangerous Covenants</Source>
@@ -944,7 +888,6 @@ The character is driven by one of the oldest and most primal causes in the Galax
     <Name>Out of the Game</Name>
     <Description>
       [H4]Out of the Game[h4]
-
 The character works as a mercenary not because he loves the violence, but because he needs to earn enough to buy his way out. This could be trying to accumulate enough money to retire, pay off his debts, or even perform some action to repay a friend before he gives up his life of violence.</Description>
     <Source Page="34">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
@@ -955,7 +898,6 @@ The character works as a mercenary not because he loves the violence, but becaus
     <Name>Adrenaline Junky</Name>
     <Description>
       [H4]TAdrenaline Junky[h4]
-
 Excitement, adventure; the character loves every bit of it. He doesn't fight for money, revenge, or a thirst for blood. He fights because he can't get enough of the incredible thrill of risking his life and coming out on top.</Description>
     <Sources>
       <Source Page="34">Dangerous Covenants</Source>
@@ -969,7 +911,6 @@ Excitement, adventure; the character loves every bit of it. He doesn't fight for
     <Name>Friends</Name>
     <Description>
       [H4]Friends[h4]
-
 His friends left home and signed up. As soon as he was able, the Player Character did the same. He may or may not have been able to find any of them, or he may even have arrived right when they did. Regardless, he couldn't imagine staying at home once they left. Now he has to decide why he's really doing it.</Description>
     <Source Page="106">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -980,7 +921,6 @@ His friends left home and signed up. As soon as he was able, the Player Characte
     <Name>Intelligence</Name>
     <Description>
       [H4]Intelligence[h4]
-
 The Player Character has one or more contacts within the Alliance Intelligence network, and he has somehow been ensnared to do increasingly more for the cause of the Rebellion. He may owe more than a few favors, or he may genuinely care about the people with whom he's been working.</Description>
     <Source Page="106">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -991,7 +931,6 @@ The Player Character has one or more contacts within the Alliance Intelligence n
     <Name>Love Interest</Name>
     <Description>
       [H4]Love Interest[h4]
-
 The Player Character followed his heart right into the ranks of the Rebellion, either to be closer to the one he loves, or to find a way to help that person through rescue or protection. His connection may border on obsession if he's in too deep, yet he may also awaken to the greater threats he and his colleagues face.</Description>
     <Source Page="106">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -1002,8 +941,7 @@ The Player Character followed his heart right into the ranks of the Rebellion, e
     <Name>Military</Name>
     <Description>
       [H4]Military[h4]
-
-When the war broke out, the PC's unit, which was serving a specific planet or other political entity, was transferred directly to the Alliance forces. His immediate command structure may have stayed relatively intact, but the upper echelons not, answer to Alliance High Command. The variety of locations land food) makes it interesting, at least.</Description>
+When the war broke out, the PC's unit, which was serving a specific planet or other political entity, was transferred directly to the Alliance forces. His immediate command structure may have stayed relatively intact, but the upper echelons did not answer to Alliance High Command. The variety of locations land food) makes it interesting, at least.</Description>
     <Source Page="106">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Connections</Motivation>
@@ -1013,7 +951,6 @@ When the war broke out, the PC's unit, which was serving a specific planet or ot
     <Name>No One</Name>
     <Description>
       [H4]No One[h4]
-
 The Player Character is all alone in the galaxy. Whether he is just a loner or has lost everyone in a catastrophic Imperial attack, he has decided to join the Rebellion because he has nothing left to lose.</Description>
     <Source Page="106">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -1024,7 +961,6 @@ The Player Character is all alone in the galaxy. Whether he is just a loner or h
     <Name>Political</Name>
     <Description>
       [H4]Political[h4]
-
 The Player Character represents a faction, planet, or sector that is part of the Alliance. He is directly involved as that groups ambassador or emissary, and the goals and motives of that group often supersede his own interests and desires.</Description>
     <Source Page="106">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -1053,7 +989,6 @@ The Player Character represents a faction, planet, or sector that is part of the
     <Name>The Underworld</Name>
     <Description>
       [H4]The Underworld[h4]
-
 The Alliance depends heavily upon smugglers and illegal trade to get many of the resources it needs, and lately the Player Character has been aiding the Rebellion quite often. He may have already been involved in scrapes with the Empire, or that may be yet to come.</Description>
     <Source Page="106">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -1064,7 +999,6 @@ The Alliance depends heavily upon smugglers and illegal trade to get many of the
     <Name>Society</Name>
     <Description>
       [H4]Society[h4]
-
 Many Colonists don't just seek a new life for themselves, they seek to help create an entirely new form of civilization. These characters are always looking for that moment when they can influence the way a government interacts with its citizens, be it at a town hall or parliamentary building. What kind of society they want to create varies from one being to the next.</Description>
     <Source Page="34">Far Horizons</Source>
     <Custom>DescOnly</Custom>
@@ -1075,7 +1009,6 @@ Many Colonists don't just seek a new life for themselves, they seek to help crea
     <Name>Homestead</Name>
     <Description>
       [H4]Homestead[h4]
-
 Independence and self-sustainability are the quiet goals of those who seek to create their own homestead. These Colonists aren't interested in making a fortune. For the homesteader, it is enough to know that his success or failure is dependent on nothing but his own hard work. He desires to build his own home, and run it as he sees fit.</Description>
     <Source Page="34">Far Horizons</Source>
     <Custom>DescOnly</Custom>
@@ -1086,8 +1019,7 @@ Independence and self-sustainability are the quiet goals of those who seek to cr
     <Name>Legacy</Name>
     <Description>
       [H4]Legacy[h4]
-
-Most species in the galaxy are acutely aware of their own mortality Some come to grips with this by creating a lasting legacy that lives on long after their passing. On a new world, where there are new challenges to rise up against and the planet's early history is in the process of bong written, them is a much greater chance of creating or doing something that will live on. Characters with the Legacy motivation jump at any chance to do something that helps their name and deeds outlive them.</Description>
+Most species in the galaxy are acutely aware of their own mortality. Some come to grips with this by creating a lasting legacy that lives on long after their passing. On a new world, where there are new challenges to rise up against and the planet's early history is in the process of being written, there is a much greater chance of creating or doing something that will live on. Characters with the Legacy motivation jump at any chance to do something that helps their name and deeds outlive them.</Description>
     <Source Page="34">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Creations</Motivation>
@@ -1097,7 +1029,6 @@ Most species in the galaxy are acutely aware of their own mortality Some come to
     <Name>Family</Name>
     <Description>
       [H4]Family[h4]
-
  Many Colonists come to a new world as eligible single people, eager to learn a trade and attract a mate so they can settle down and have children. This is a humble motivation when compared to most but fitting for many characters who find it hard to care about events beyond their life on a simple backwater world.</Description>
     <Source Page="34">Far Horizons</Source>
     <Custom>DescOnly</Custom>
@@ -1108,7 +1039,6 @@ Most species in the galaxy are acutely aware of their own mortality Some come to
     <Name>Art</Name>
     <Description>
       [H4]Art[h4]
-
 Artists are inspired and influenced by their surroundings, and what inspiration could be better than a newly discovered planet? The open horizons, clear skies, and undiscovered species of flora and fauna can spark the creative impulse in anyone. Some of those on the frontier may seek to bring some art and culture into the new world. Others might seek to support the creation of art by acting as a patron.</Description>
     <Source Page="34">Far Horizons</Source>
     <Custom>DescOnly</Custom>
@@ -1119,7 +1049,6 @@ Artists are inspired and influenced by their surroundings, and what inspiration 
     <Name>Cure</Name>
     <Description>
       [H4]Cure[h4]
-
 Far from the cutting edge medicine of the Core, the fringe can seem an unhealthy place to live. But many seemingly worthless worlds may hold the key to wiping out deadly diseases. This might be the entire reason a character has chosen to be a Colonist to save a colony, a planet, or simply a friend or loved one from disease.</Description>
     <Source Page="34">Far Horizons</Source>
     <Custom>DescOnly</Custom>
@@ -1130,7 +1059,6 @@ Far from the cutting edge medicine of the Core, the fringe can seem an unhealthy
     <Name>Understanding</Name>
     <Description>
       [H4]Understanding[h4]
-
 Many Colonists take an interest in their adopted world, seeking to gain a greater knowledge of their new home. Characters who seek to create a better understanding of the world have an insatiable curiosity about anything pertaining to the planet. This motivation can also refer to creating a peace between settlers, or between settlers and indigenousness.</Description>
     <Source Page="34">Far Horizons</Source>
     <Custom>DescOnly</Custom>
@@ -1141,8 +1069,7 @@ Many Colonists take an interest in their adopted world, seeking to gain a greate
     <Name>Business</Name>
     <Description>
       [H4]Business[h4]
-
-Creating a new business to some an untapped market is a dream shared by many Colonists. Most of those traveling to a new world hope only to open up a shop where they can ply their trade, but some think bigger. A badness started on a small colony may eventually grow to be an enterprise that rivals Kuat Drive Yards or Corellian Engineering Corporation.</Description>
+Creating a new business to some untapped market is a dream shared by many Colonists. Most of those traveling to a new world hope only to open up a shop where they can ply their trade, but some think bigger. A badness started on a small colony may eventually grow to be an enterprise that rivals Kuat Drive Yards or Corellian Engineering Corporation.</Description>
     <Source Page="34">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Creations</Motivation>
@@ -1152,7 +1079,6 @@ Creating a new business to some an untapped market is a dream shared by many Col
     <Name>Power Corrupts</Name>
     <Description>
       [H4]Power Corrupts[h4]
-
 The galaxy abounds with examples of how power corrupts, and few are more aware of this than the Player Character. With the Empire in control, the PC sees too much power being consolidated in too few hands, with inevitable results. Ultimately, the PC seeks to disrupt the Empire's authority and encourage systems that distribute power more fairly.</Description>
     <Source Page="36">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
@@ -1163,19 +1089,16 @@ The galaxy abounds with examples of how power corrupts, and few are more aware o
     <Name>Living Memory</Name>
     <Description>
       [H4]Living Memory[h4]
-
 Convictions can become incredibly strong. Earlier in his life, the PC had no particular interest in fighting the Empire. Then someone close to him was lost as a result of the Empire's doing. Unable to simply let go, the PC carries on the cause in memory of his fallen comrade, because that is the only way to square his debt and bring about a future they could both be proud of.</Description>
     <Source Page="36">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Creed</Motivation>
   </SpecificMotivation>
-
   <SpecificMotivation>
     <Key>CREEDSM2</Key>
     <Name>Strive for Excellence</Name>
     <Description>
       [H4]Strive for Excellence[h4]
-
 Nobody is perfect, particularly the kind of scruff that joins the Rebel Alliance. However, the PC knows that the path to greatness requires continually striving to improve oneself. Those who live by this creed encourage everyone to live up to their ideals: to become stronger, faster, wiser, and more compassionate. By always aiming higher, the character builds a better team and a better self.</Description>
     <Source Page="36">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
@@ -1186,7 +1109,6 @@ Nobody is perfect, particularly the kind of scruff that joins the Rebel Alliance
     <Name>The Body Needs a Head</Name>
     <Description>
       [H4]The Body Needs a Head[h4]
-
 A group of individuals cannot act in unison for long with no one leading the way. The PC believes in the power of leadership and knows that he is the one for the job. The PC is willing to shoulder the burden of tough decisions, taking initiative to save others from stalling and indecisiveness. Nobody can be right all the time, but someone must step up to lead.</Description>
     <Source Page="36">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
@@ -1197,7 +1119,6 @@ A group of individuals cannot act in unison for long with no one leading the way
     <Name>Order from Chaos</Name>
     <Description>
       [H4]Order from Chaos[h4]
-
 Strangeness and unpredictability abound, but nothing is beyond the reach of sentient minds working to bring order to the galaxy. The PC's personal mission is to bring sense and structure to everything, to see the patterns, and to collect the outliers in the chaotic systems of existence. Every seemingly random outcome is governed by rules, and the PC is just waiting to find them.</Description>
     <Source Page="36">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
@@ -1208,7 +1129,6 @@ Strangeness and unpredictability abound, but nothing is beyond the reach of sent
     <Name>Never Alone</Name>
     <Description>
       [H4]Never Alone[h4]
-
 No one is ever alone. Through the vast webs of communication, trade, survival, and the Force, everything in the galaxy is connected to everything else. The PC knows that the best way to be happy is to bring happiness to others and deliver kindness to everyone. By spreading joy to others, the PC finds purpose and drive in life. </Description>
     <Source Page="36">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
@@ -1219,7 +1139,6 @@ No one is ever alone. Through the vast webs of communication, trade, survival, a
     <Name>Return the Favor</Name>
     <Description>
       [H4]Return the Favor[h4]
-
 The PC is among those who believe that every good turn deserves another and every slight deserves retaliation in kind. When the Empire treats others badly, then the PC is only too happy to return the favor. The PC is helpful to his friends, and merciless to his enemies.</Description>
     <Source Page="36">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
@@ -1230,7 +1149,6 @@ The PC is among those who believe that every good turn deserves another and ever
     <Name>Be Unique</Name>
     <Description>
       [H4]Be Unique[h4]
-
 Even in a galaxy teeming with countless lives, every sentient mind is different. Therefore, going along with the majority sacrifices individuality. The PC values individuality and subversive difference, siding with the Rebellion because it rejects the crushing uniformity of the existing order.</Description>
     <Source Page="36">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
@@ -1241,7 +1159,6 @@ Even in a galaxy teeming with countless lives, every sentient mind is different.
     <Name>People Are Counting on Me</Name>
     <Description>
       [H4]People Are Counting on Me[h4]
-
 The PC works not only for personal gain, but also for the interests of a group of people threatened by the Empire. Therefore, the PC acts with those people in mind. Drawing power from thoughts of those in need, he can do what no one else can. He finds the strength to carry on, because giving up would fail so many others as well.</Description>
     <Source Page="36">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
@@ -1252,7 +1169,6 @@ The PC works not only for personal gain, but also for the interests of a group o
     <Name>Balance Must Be Restored</Name>
     <Description>
       [H4]Balance Must Be Restored[h4]
-
 The PC believes that the fundamental nature of the galaxy is out of balance. Even those who are not Force-sensitive can see that the Empire is a nexus of evil. Therefore, a strong good must oppose it. The fight against the Empire is not just political or territorial. It is an ideological battle to cut the Empire down to size and restore the proper order.</Description>
     <Source Page="36">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
@@ -1263,7 +1179,6 @@ The PC believes that the fundamental nature of the galaxy is out of balance. Eve
     <Name>Self</Name>
     <Description>
       [H4]Self[h4]
-
 The Explorer may be pursuing any number of goals or simply wandering the galaxy until something catches his interest. His main purpose, however, is to discover who he truly is and what he is meant to do with his life. Each new path offers him a chance to learn something new about himself, and each challenge he faces gives him insight into what he is really capable of. For many Explorers, this is a journey that will only end with their deaths...and possibly not even then.</Description>
     <Source Page="32">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
@@ -1274,7 +1189,6 @@ The Explorer may be pursuing any number of goals or simply wandering the galaxy 
     <Name>"Anywhere But Here!"</Name>
     <Description>
       [H4]"Anywhere But Here!"[h4]
-
 Instead of pursuing any one specific Discovery, the Explorer is driven by the thrill of exploration in and of itself. He is never content with the accomplishments of his previous expeditions, and as soon as he has finished one such trek, he is already planning the next. sometimes even before he has found his present quarry.</Description>
     <Source Page="32">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
@@ -1285,7 +1199,6 @@ Instead of pursuing any one specific Discovery, the Explorer is driven by the th
     <Name>Civilization</Name>
     <Description>
       [H4]Civilization[h4]
-
 As vast as the galaxy is, there are untold cultures and societies that remain utterly unknown to the greater population. Many of these civilizations lived and died in total obscurity, while many others remain vital and ready to be encountered by someone dedicated and enterprising enough to search them out The Archaeologist career is especially suited for searching out and understanding the former, while the Trader will often find great joy in discovering the latter.</Description>
     <Source Page="32">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
@@ -1296,7 +1209,6 @@ As vast as the galaxy is, there are untold cultures and societies that remain ut
     <Name>Planets</Name>
     <Description>
       [H4]Planets[h4]
-
 As vast as planets are, the Empire is exponentially larger. Stars can go for long stretches of time being listed on astrogation charts without anyone knowing what planets may orbit them and what those planets may have in the way of resources and utility as livable places. Finding a planet of worth can make an Explorers mark in the galaxy, as well as his fortune if he sells the information to the right buyer. Scouts, in particular, are specialists in such Discoveries.</Description>
     <Source Page="32">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
@@ -1307,7 +1219,6 @@ As vast as planets are, the Empire is exponentially larger. Stars can go for lon
     <Name>Treasures</Name>
     <Description>
       [H4]Treasures[h4]
-
 Some hunt it for the glory. Some hunt it for the challenge. Most treasure hunters do so, however, for the opportunity to fill their accounts with more credits than they can imagine spending in one lifetime. Whether it's a cache of precious gems stashed away long ago by decades-dead pirates or the incalculable worth of art and crafts from an eons-dead civilization, treasure hunters know there are immense riches out there in the galaxy just waiting for them to find where X marks the spot.</Description>
     <Source Page="32">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
@@ -1318,7 +1229,6 @@ Some hunt it for the glory. Some hunt it for the challenge. Most treasure hunter
     <Name>Secrets</Name>
     <Description>
       [H4]Secrets[h4]
-
 For some, secrets are another kind of treasure, albeit one that provides access to power as well as wealth. Some seek out secrets at the behest of others, preferring to stay out of the direct conflicts caused by the possession of them, while others happily wield the secrets they've uncovered as weapons for their own pursuits. As powerful and wealth inducing as secrets can be, however, they can also be incredibly dangerous, many beings will kill to maintain important secrets, and many others will kill to obtain those who discover them in the first place.</Description>
     <Source Page="32">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
@@ -1329,7 +1239,6 @@ For some, secrets are another kind of treasure, albeit one that provides access 
     <Name>Knowledge</Name>
     <Description>
       [H4]Knowledge[h4]
-
 Akin to secrets, but not always quite as dangerous, lost and hidden knowledge can be a powerful asset. Eons of conflict caused vast storehouses of knowledge to be lost amid the rubble of destroyed cities, derelict ships, and abandoned space stations. Intrepid Explorers are the miners of that knowledge, bringing it back into the light of day for all to benefit from. Archaeologists are naturally inclined to search for knowledge, as are Fringers and Traders.</Description>
     <Source Page="32">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
@@ -1340,8 +1249,7 @@ Akin to secrets, but not always quite as dangerous, lost and hidden knowledge ca
     <Name>Resources</Name>
     <Description>
       [H4]Resources[h4]
-
-Credits are credits, but resources drive the economies of every system, as well as the Empire itself. Raw materials power the Imperial war machine, which is ever expanding. So, too, does the burgeoning Rebellion crave important resources as it struggles to build up some semblance of an organized resistance. Of course. there are also the millions of businesses, factions, and entrepreneurs who seek one source or another of some special kind of resource in order to enhance their trade position and power. Those who can uncover such sources—Scouts are particularly sought after for such work—can make very good money.</Description>
+Credits are credits, but resources drive the economies of every system, as well as the Empire itself. Raw materials power the Imperial war machine, which is ever expanding. So, too, does the burgeoning Rebellion crave important resources as it struggles to build up some semblance of an organized resistance. Of course, there are also the millions of businesses, factions, and entrepreneurs who seek one source or another of some special kind of resource in order to enhance their trade position and power. Those who can uncover such sources—Scouts are particularly sought after for such work—can make very good money.</Description>
     <Source Page="32">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Discovery</Motivation>
@@ -1351,7 +1259,6 @@ Credits are credits, but resources drive the economies of every system, as well 
     <Name>Technology</Name>
     <Description>
       [H4]Technology[h4]
-
 Billions of scientists, engineers, and inventors throughout the galaxy have been creating wonders of technology for thousands of years. Much of it has been lost due to war or merely the fall of a civilization. Other scientific marvels manifest on a daily basis, unknown to the galaxy at large. Clever Explorers seek out these technological Discoveries to bring to the general population, though usually through either corporate or Imperial channels. Fringers and Traders are most likely to have such a focus, though Drivers will obviously be interested in any vehicular technology they can uncover.</Description>
     <Source Page="32">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
@@ -1362,7 +1269,6 @@ Billions of scientists, engineers, and inventors throughout the galaxy have been
     <Name>The Lost</Name>
     <Description>
       [H4]The Lost[h4]
-
 Explorers know their way around the galaxy better than anyone. They know where the hidden places are, as well as the pathways and Interstellar routes that go unknown to all others. As such, Explorers are often called upon (either by others or by their own code) to seek out those who have become lost. Some seek to be lost, while many find they would no longer know the way home even if they wished to return. Many are unable to escape their current circumstances, needing to be found and liberated. Anyone with this specific Discovery result might wish to roll on the Relationship Motivation chart as well, determining who he is specifically seeking.</Description>
     <Source Page="32">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
@@ -1385,9 +1291,7 @@ expects his troops to lay down their own lives if necessary.</Description>
     <Name>Command</Name>
     <Description>
       [H4]Command[h4]
-The power or prestige of command drives this Commander. He strives to do his best in the line of duty so
-he can earn rank and renown. His ambitions drive every action he takes and fuel every order he gives. He’s willing to
-do just about anything to prove himself and achieve the authority he knows he deserves.</Description>
+The power or prestige of command drives this Commander. He strives to do his best in the line of duty so he can earn rank and renown. His ambitions drive every action he takes and fuel every order he gives. He’s willing to do just about anything to prove himself and achieve the authority he knows he deserves.</Description>
     <Source Page="37">Lead by Example</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Drive</Motivation>
@@ -1397,8 +1301,7 @@ do just about anything to prove himself and achieve the authority he knows he de
     <Name>Ego</Name>
     <Description>
       [H4]Ego[h4]
-This Commander feels he is the best at everything he does, and his ego drives him to maintain a nearly impossible
-status quo. Considering his plans to be flawless, he has a tendency to blame his own failures on his subordinates.</Description>
+This Commander feels he is the best at everything he does, and his ego drives him to maintain a nearly impossible status quo. Considering his plans to be flawless, he has a tendency to blame his own failures on his subordinates.</Description>
     <Source Page="37">Lead by Example</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Drive</Motivation>
@@ -1408,10 +1311,7 @@ status quo. Considering his plans to be flawless, he has a tendency to blame his
     <Name>The Game</Name>
     <Description>
       [H4]The Game[h4]
-War is a game, and this Commander sees every participant—including himself—as a playing piece on a
-board. He has a tendency to analyze battles tactically, dissecting them and learning from his mistakes. Every deed
-done is a series of moves or countermoves, every enemy officer is an opponent, and winning the game is the only
-acceptable outcome.</Description>
+War is a game, and this Commander sees every participant—including himself—as a playing piece on a board. He has a tendency to analyze battles tactically, dissecting them and learning from his mistakes. Every deed done is a series of moves or countermoves, every enemy officer is an opponent, and winning the game is the only acceptable outcome.</Description>
     <Source Page="37">Lead by Example</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Drive</Motivation>
@@ -1421,9 +1321,7 @@ acceptable outcome.</Description>
     <Name>Guilt</Name>
     <Description>
       [H4]Guilt[h4]
-The Commander is motivated to keep his troops alive due to the guilt he inevitably feels when they die under
-his command. He spends many waking hours analyzing his orders, as well as the events surrounding them, in an
-attempt to assuage his anguish for the lives he feels he's lost.</Description>
+The Commander is motivated to keep his troops alive due to the guilt he inevitably feels when they die under his command. He spends many waking hours analyzing his orders, as well as the events surrounding them, in an attempt to assuage his anguish for the lives he feels he's lost.</Description>
     <Source Page="37">Lead by Example</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Drive</Motivation>
@@ -1433,9 +1331,7 @@ attempt to assuage his anguish for the lives he feels he's lost.</Description>
     <Name>The Mission</Name>
     <Description>
       [H4]The Mission[h4]
-The current assignment or mission drives this Commander. He stops at nothing to see that the orders
-he's been given are carried out, and carried out well He doesn't give up easily, and he is considered to be a tenacious
-warrior by the troops who serve under him.</Description>
+The current assignment or mission drives this Commander. He stops at nothing to see that the orders he's been given are carried out, and carried out well He doesn't give up easily, and he is considered to be a tenacious warrior by the troops who serve under him.</Description>
     <Source Page="37">Lead by Example</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Drive</Motivation>
@@ -1445,9 +1341,7 @@ warrior by the troops who serve under him.</Description>
     <Name>Redemption</Name>
     <Description>
       [H4]Redemption[h4]
-This Commander has done something terrible in the line of duty and feels that he must somehow
-redeem himself. Whatever it is he thinks he’s done—sending troops to their deaths, giving an order that resulted in
-civilian casualties, or failing to accomplish an objective—influences every order he gives and every decision he makes.</Description>
+This Commander has done something terrible in the line of duty and feels that he must somehow redeem himself. Whatever it is he thinks he’s done—sending troops to their deaths, giving an order that resulted in civilian casualties, or failing to accomplish an objective—influences every order he gives and every decision he makes.</Description>
     <Source Page="37">Lead by Example</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Drive</Motivation>
@@ -1457,9 +1351,7 @@ civilian casualties, or failing to accomplish an objective—influences every or
     <Name>Retirement</Name>
     <Description>
       [H4]Retirement[h4]
-Leading troops in war is a horrible business, and this Commander wants nothing more than to retire and
-put it all behind him. Unfortunately, the conflict against the Empire is far from over. He must carry on and do his duty
-before he can reap the benefits of victory and live in peace.</Description>
+Leading troops in war is a horrible business, and this Commander wants nothing more than to retire and put it all behind him. Unfortunately, the conflict against the Empire is far from over. He must carry on and do his duty before he can reap the benefits of victory and live in peace.</Description>
     <Source Page="37">Lead by Example</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Drive</Motivation>
@@ -1469,10 +1361,7 @@ before he can reap the benefits of victory and live in peace.</Description>
     <Name>Spirit</Name>
     <Description>
       [H4]Spirit[h4]
-This Commander believes he is the tool of a higher power, be it a deity, the Force, or a lofty ideal such as
-the Republic. He makes his decisions based on his faith, and in times of great peril he takes comfort in it. He may
-seem strange to his subordinates, especially those who don’t share in his beliefs, but his guiding principles and moral
-character are obvious to anyone who takes the time to look.</Description>
+This Commander believes he is the tool of a higher power, be it a deity, the Force, or a lofty ideal such as the Republic. He makes his decisions based on his faith, and in times of great peril he takes comfort in it. He may seem strange to his subordinates, especially those who don’t share in his beliefs, but his guiding principles and moral character are obvious to anyone who takes the time to look.</Description>
     <Source Page="37">Lead by Example</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Drive</Motivation>
@@ -1482,9 +1371,7 @@ character are obvious to anyone who takes the time to look.</Description>
     <Name>Subordinates</Name>
     <Description>
       [H4]Subordinates[h4]
-The people who serve under this Commander are his sole motivation. He always keeps their best
-interests in mind, fosters their talents, and tries to ensure they have an opportunity to grow as soldiers. He's also a
-stickler for accountability; when his troops don’t perform to his expectations, he’s certain to let them know.</Description>
+The people who serve under this Commander are his sole motivation. He always keeps their best interests in mind, fosters their talents, and tries to ensure they have an opportunity to grow as soldiers. He's also a stickler for accountability; when his troops don’t perform to his expectations, he’s certain to let them know.</Description>
     <Source Page="37">Lead by Example</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Drive</Motivation>
@@ -1494,7 +1381,6 @@ stickler for accountability; when his troops don’t perform to his expectations
     <Name>The Cosmic Force</Name>
     <Description>
       [H4]The Cosmic Force[h4]
-
 The character understands on some level that everything that happens, has happened, or will happen in the galaxy is part of the Cosmic Force. The Force guides the galaxy and the individuals within it, and things happen for a reason.</Description>
     <Source Page="107">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -1505,7 +1391,6 @@ The character understands on some level that everything that happens, has happen
     <Name>Friends and Family</Name>
     <Description>
       [H4]Friends and Family[h4]
-
 The character believes in, and trusts, his close friends and family. He knows that unlike lofty ideals or strange religions, those close to him will always support him, and he supports them in turn.</Description>
     <Source Page="107">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -1516,7 +1401,6 @@ The character believes in, and trusts, his close friends and family. He knows th
     <Name>Goodness of People</Name>
     <Description>
       [H4]Goodness of People[h4]
-
 The character believes in the inherent goodness of most people. He believes that together, the majority of different beings in the galaxy can interact to create an all encompassing civilization that is greater than the sum of its parts.</Description>
     <Source Page="107">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -1527,7 +1411,6 @@ The character believes in the inherent goodness of most people. He believes that
     <Name>Imperial Rule</Name>
     <Description>
       [H4]Imperial Rule[h4]
-
 Though the Empire has done some terrible things, the order it brings to galactic society is still better than the moribund Republic that came before The character believes that the Galactic Empire is the best thing for the galaxy.</Description>
     <Source Page="107">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -1538,7 +1421,6 @@ Though the Empire has done some terrible things, the order it brings to galactic
     <Name>The Jedi Code</Name>
     <Description>
       [H4]The Jedi Code[h4]
-
 Though the Empire strives to suppress knowledge of the Jedi, the character knows the code of this ancient order. He follows it, feeling that It is something worth his belief and devotion.</Description>
     <Source Page="107">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -1549,7 +1431,6 @@ Though the Empire strives to suppress knowledge of the Jedi, the character knows
     <Name>Natural World</Name>
     <Description>
       [H4]Natural World[h4]
-
 The character believes in the spirits of the living things around him. Whether he recognizes this as the Living Force or has a more shamanistic approach to his beliefs, he respects the spirits of nature and even prays to them.</Description>
     <Source Page="107">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -1560,7 +1441,6 @@ The character believes in the spirits of the living things around him. Whether h
     <Name>Nothing</Name>
     <Description>
       [H4]Nothing[h4]
-
 The character refuses to put his faith in something greater. The galaxy is a chaotic and random place, and the only thing that someone can trust in is himself.</Description>
     <Source Page="107">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -1571,7 +1451,6 @@ The character refuses to put his faith in something greater. The galaxy is a cha
     <Name>The Rebellion</Name>
     <Description>
       [H4]The Rebellion[h4]
-
 The sooner the Galactic Empire is defeated, the better, The character believes absolutely that the Rebel Alliance is in the right and is doing what must be done to free the galaxy from tyranny.</Description>
     <Source Page="107">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -1582,8 +1461,7 @@ The sooner the Galactic Empire is defeated, the better, The character believes a
     <Name>Religious Code</Name>
     <Description>
       [H4]Religious Code[h4]
-
-There are countless religions In the galaxy, and the character adheres to one of his choice. Perhaps this is the religion of his family or his people. Perhaps he is a more recent convert. In any case, he adheres to It faithfully.</Description>
+There are countless religions in the galaxy, and the character adheres to one of his choice. Perhaps this is the religion of his family or his people. Perhaps he is a more recent convert. In any case, he adheres to It faithfully.</Description>
     <Source Page="107">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Faith</Motivation>
@@ -1593,7 +1471,6 @@ There are countless religions In the galaxy, and the character adheres to one of
     <Name>Science and Reason</Name>
     <Description>
       [H4]Science and Reason[h4]
-
 The character believes in reason, knowledge, and scientific understanding. Everything, even the Force, has a logical explanation and works according to certain rules, even If he doesn't understand what those rules are.</Description>
     <Source Page="107">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -1619,9 +1496,6 @@ Some Consulars are focused less on their own growth and more on the personal gro
     <Custom>DescOnly</Custom>
     <Motivation>Growth</Motivation>
   </SpecificMotivation>
-
-
-
   <SpecificMotivation>
     <Key>GROWTH2</Key>
     <Name>Friendship</Name>
@@ -1677,7 +1551,7 @@ Consulars know that achieving a lasting peace can only happen when lines of comm
     <Name>Community</Name>
     <Description>
       [H4]Community[h4]
-While many Consulars take a macro view of the galaxy, just as many find that perspective fat too detached from the beings who inhabit it. Consulars focused on community think small, believing that peace is a natural result when community members grow together and engage in the lives of their neighbors.</Description>
+While many Consulars take a macro view of the galaxy, just as many find that perspective far too detached from the beings who inhabit it. Consulars focused on community think small, believing that peace is a natural result when community members grow together and engage in the lives of their neighbors.</Description>
     <Source Page="32">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Growth</Motivation>
@@ -1739,7 +1613,7 @@ It would be easier to leave things as they are, but these Engineers view difficu
     <Name>Lethality</Name>
     <Description>
       [H4]Lethality[h4]
-It is clear to these Engineers that the more deadly the weapon, the better it is. They may also strive to make themselves as dangerous as possible through martial trainig and physical conditioning.
+It is clear to these Engineers that the more deadly the weapon, the better it is. They may also strive to make themselves as dangerous as possible through martial training and physical conditioning.
     </Description>
     <Source Page="32">Fully Operational</Source>
     <Custom>DescOnly</Custom>
@@ -1792,7 +1666,7 @@ Replacement items are always an issue, so everything in the Rebellion must last 
     <Name>Makeshift</Name>
     <Description>
       [H4]Makeshift[h4]
-Anyone can improve things given sufficient resources, but true artisans can take whatever might be around and craft mechanical art. While Rebels are often starved for parts, these Enginers might deliberately use improvised items to create personal works.</Description>
+Anyone can improve things given sufficient resources, but true artisans can take whatever might be around and craft mechanical art. While Rebels are often starved for parts, these Engineers might deliberately use improvised items to create personal works.</Description>
     <Source Page="32">Fully Operational</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Growth</Motivation>
@@ -1802,7 +1676,7 @@ Anyone can improve things given sufficient resources, but true artisans can take
     <Name>Simplicity</Name>
     <Description>
       [H4]Simplicity[h4]
-The best items are the ones that perform their functions in a basic manner, and Engineers work to eliminate anything that stands in the way of this goal. Lives are also lived best this way, but the Empire's harsh oversight or all aspects of its citizenry is in direct opposition to thie ideal.</Description>
+The best items are the ones that perform their functions in a basic manner, and Engineers work to eliminate anything that stands in the way of this goal. Lives are also lived best this way, but the Empire's harsh oversight of all aspects of its citizenry is in direct opposition to the ideal.</Description>
     <Source Page="32">Fully Operational</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Growth</Motivation>
@@ -1827,9 +1701,6 @@ Warfare is but one type of violent Injustice. Gang warfare, armed conflicts betw
     <Custom>DescOnly</Custom>
     <Motivation>Injustice</Motivation>
   </SpecificMotivation>
-
-
-
   <SpecificMotivation>
     <Key>INJUSTICE2</Key>
     <Name>Displacement</Name>
@@ -1845,7 +1716,7 @@ Without a home or a homeworld, a species not only loses resources but also the l
     <Name>Hunger</Name>
     <Description>
       [H4]Hunger[h4]
-Considered the most basice Injustice, the denial of food has made civilizations collapse. Sentinels often find a wide range of complex obstacles in solving this problem—apathy, poverty, logistics, and institutional stubbornness.</Description>
+Considered the most basic Injustice, the denial of food has made civilizations collapse. Sentinels often find a wide range of complex obstacles in solving this problem—apathy, poverty, logistics, and institutional stubbornness.</Description>
     <Source Page="32">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Injustice</Motivation>
@@ -1865,7 +1736,7 @@ Illness can devastate communities and finding a cure requires uncovering and und
     <Name>Imprisonment</Name>
     <Description>
       [H4]Imprisonment[h4]
-A just society isolates a troubled individual for rehabilitation and community protection, while an unjust one imprisons based on predjudice or a list for power. Sentinels bettling unjust imprisonment often find themselves fighting against corrupt police forces and legal system personnel, especially with a planet aligned with the Empire.</Description>
+A just society isolates a troubled individual for rehabilitation and community protection, while an unjust one imprisons based on prejudice or a list for power. Sentinels bettling unjust imprisonment often find themselves fighting against corrupt police forces and legal system personnel, especially with a planet aligned with the Empire.</Description>
     <Source Page="32">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Injustice</Motivation>
@@ -1875,7 +1746,7 @@ A just society isolates a troubled individual for rehabilitation and community p
     <Name>Oppression</Name>
     <Description>
       [H4]Oppression[h4]
-Similar to Disenfranchisement, this Injustice sees one group using culture, law or violence to abuse others usually a minority. Sentinels spend as much time fighting the oppressors as they do protecting the oppressed.</Description>
+Similar to Disenfranchisement, this Injustice sees one group using culture, law or violence to abuse others, usually a minority. Sentinels spend as much time fighting the oppressors as they do protecting the oppressed.</Description>
     <Source Page="32">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Injustice</Motivation>
@@ -1885,7 +1756,7 @@ Similar to Disenfranchisement, this Injustice sees one group using culture, law 
     <Name>Poverty</Name>
     <Description>
       [H4]Poverty[h4]
-Money makes modern civilization work. A lack of money results in not only an inability ot participate in modern society but also a dearth in access to resources that help a person earn an income in the first place. Money may not buy happiness, but the lack of money garantees misery and can lead to crime.</Description>
+Money makes modern civilization work. A lack of money results in not only an inability to participate in modern society but also a dearth in access to resources that help a person earn an income in the first place. Money may not buy happiness, but the lack of money guarantees misery and can lead to crime.</Description>
     <Source Page="32">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Injustice</Motivation>
@@ -1895,7 +1766,7 @@ Money makes modern civilization work. A lack of money results in not only an ina
     <Name>Prejudice</Name>
     <Description>
       [H4]Prejudice[h4]
-Sentinels fighting prejudice often operate as street-level diplomats, confronting individuals about their acts and stopping violence as it occers. Prejudice is usually personal and ingrained. Sentinals might find themselves arguing with bigots completely unaware or in denial of their bigotry.</Description>
+Sentinels fighting prejudice often operate as street-level diplomats, confronting individuals about their acts and stopping violence as it occurs. Prejudice is usually personal and ingrained. Sentinels might find themselves arguing with bigots completely unaware or in denial of their bigotry.</Description>
     <Source Page="32">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Injustice</Motivation>
@@ -1925,7 +1796,7 @@ The character likes building useful things. Some creations could be helpful to s
     <Name>Personal Improvement</Name>
     <Description>
       [H4]Personal Improvement[h4]
-The character does anything and everything to acquire enchanced abilities, whether to make up for a devastating injury or merely to exceed the limitations of nature. This character likely already has cybernetics and will be seeking to expand thier effectiveness. Other character might regard the character as dangerously willing to give new cybernetic program or device a try, no matter its source even if the potential downside could alter the character's life for the worse.</Description>
+The character does anything and everything to acquire enhanced abilities, whether to make up for a devastating injury or merely to exceed the limitations of nature. This character likely already has cybernetics and will be seeking to expand their effectiveness. Other character might regard the character as dangerously willing to give new cybernetic program or device a try, no matter its source even if the potential downside could alter the character's life for the worse.</Description>
     <Source Page="37">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Innovation</Motivation>
@@ -1935,7 +1806,7 @@ The character does anything and everything to acquire enchanced abilities, wheth
     <Name>Invention</Name>
     <Description>
       [H4]Invention[h4]
-The character constantly desires to create new devices, vehicles or programs. Sometimes, the character invents something new to overcome a specific problem, but more often than not, the act of inventing something new is its own reward. r course, the character's desire for novelty can sometimes get in the way of finding an espedient solution. After all, sometimes a simple tool is the best one for a given job. Still a character driven by this Motivation is likely to at least try reinventing the wheel from time to time, even if the results aren't particularly useful.</Description>
+The character constantly desires to create new devices, vehicles or programs. Sometimes, the character invents something new to overcome a specific problem, but more often than not, the act of inventing something new is its own reward. Of course, the character's desire for novelty can sometimes get in the way of finding an expedient solution. After all, sometimes a simple tool is the best one for a given job. Still a character driven by this Motivation is likely to at least try reinventing the wheel from time to time, even if the results aren't particularly useful.</Description>
     <Source Page="37">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Innovation</Motivation>
@@ -1955,7 +1826,7 @@ The character loves to extend the usefulness of a device or program by boosting 
     <Name>Technical Business Interests</Name>
     <Description>
       [H4]Technical Business Interests[h4]
-The character strives to own and operate a successful legal or outlaw business in a particular area of expertise. The business might consume all of the character's time when not out adventuring with the other PCs. It might run itself in the character's absence by way of employees or automation or it might go on hiatus whenever the character has to go galivanting across the galaxy. However, it is always on the character's mind, and the character is likely looking for ways to expand or improve it even when away.</Description>
+The character strives to own and operate a successful legal or outlaw business in a particular area of expertise. The business might consume all of the character's time when not out adventuring with the other PCs. It might run itself in the character's absence by way of employees or automation or it might go on hiatus whenever the character has to go gallivanting across the galaxy. However, it is always on the character's mind, and the character is likely looking for ways to expand or improve it even when away.</Description>
     <Source Page="37">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Innovation</Motivation>
@@ -1965,7 +1836,7 @@ The character strives to own and operate a successful legal or outlaw business i
     <Name>Technological Fascination</Name>
     <Description>
       [H4]Technological Fascination[h4]
-The character loves to work with a specific type of machine, sometimes to the point of exculding all others, be it firearms, starhips, droids, or some other more esoteric branch of technology. The character seeks out new information and the latest news pertaining to this area of fascination and knows the intricacies of various models and minute differences between them. The character might have favourite models, but this singular obsession is not usually limited to one specific object or design.</Description>
+The character loves to work with a specific type of machine, sometimes to the point of excluding all others, be it firearms, starhips, droids, or some other more esoteric branch of technology. The character seeks out new information and the latest news pertaining to this area of fascination and knows the intricacies of various models and minute differences between them. The character might have favourite models, but this singular obsession is not usually limited to one specific object or design.</Description>
     <Source Page="37">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Innovation</Motivation>
@@ -1985,7 +1856,7 @@ The character is very interested in historic or ancient technology and strives t
     <Name>Technological Necessity</Name>
     <Description>
       [H4]Technological Necessity[h4]
-The character has a great need to complete or acquire a specific device or program. The goal might be to save a world, a town or a life or to provide a workable solution to an important diplomatic or military situation. Whatever the specifics of this need, the character likely sees its completeion as a magnum opus and stakes a considerable amount of hope upon the promise of salvation the unfinished business represents.</Description>
+The character has a great need to complete or acquire a specific device or program. The goal might be to save a world, a town or a life or to provide a workable solution to an important diplomatic or military situation. Whatever the specifics of this need, the character likely sees its completion as a magnum opus and stakes a considerable amount of hope upon the promise of salvation the unfinished business represents.</Description>
     <Source Page="37">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Innovation</Motivation>
@@ -2005,7 +1876,7 @@ The character cultivates a rivalry with another Technician who works in the same
     <Name>Waste Not, Want Not</Name>
     <Description>
       [H4]Waste Not, Want Not[h4]
-The character hates to let anything go to waste and tries to devise ways of recycling or refubishing discarded parts, scrap metal, old technology and worn-out droids. Perhaps the character comes from a remot world where technology and materials are scarce and anything remotely technological is expensive. Perhaps the character simply hates the thought of later realizing that something thrown away was useful. While this character's workshop and living area are often cluttered, the character likely claims to know where everything is.</Description>
+The character hates to let anything go to waste and tries to devise ways of recycling or refurbishing discarded parts, scrap metal, old technology and worn-out droids. Perhaps the character comes from a remote world where technology and materials are scarce and anything remotely technological is expensive. Perhaps the character simply hates the thought of later realizing that something thrown away was useful. While this character's workshop and living area are often cluttered, the character likely claims to know where everything is.</Description>
     <Source Page="37">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Innovation</Motivation>
@@ -2233,8 +2104,9 @@ This character has lived a sheltered existence and views the galaxy at large as 
   <SpecificMotivation>
     <Key>MYSTERY1</Key>
     <Name>Death</Name>
-    <Description>[H4]Death[h4]
-</Description>
+    <Description>
+      [H4]Death[h4]
+What happens to beings when they die? Is death a necessary part of existence, or is something to be fought against at every opportunity? Can someone cheat death and, if so, what is the cost? These are the questions that drive the character.</Description>
     <Source Page="35">Unlimited Power</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Mysteries</Motivation>
@@ -2242,18 +2114,19 @@ This character has lived a sheltered existence and views the galaxy at large as 
   <SpecificMotivation>
     <Key>MYSTERY10</Key>
     <Name>Life</Name>
-    <Description>[H4]Life[h4]
-</Description>
+    <Description>
+      [H4]Life[h4]
+Is life simply a biological and chemical creation? Or is it something more? Force users have an understanding that the Force is linked to life, and life to the Force. However, what it means to be a living being is still largely not understood. They also grapple with the question of life itself: should sentient beings be protected? Or does life serve no meaning beyond its own instincts and needs? Sometimes, life itself must be assumed as a burden or gift alike.</Description>
     <Source Page="35">Unlimited Power</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Mysteries</Motivation>
   </SpecificMotivation>
-
   <SpecificMotivation>
     <Key>MYSTERY2</Key>
     <Name>The Force</Name>
-    <Description>[H4]The Force[h4]
-</Description>
+    <Description>
+      [H4]The Force[h4]
+What is the Force? How and why does it exist, and does it have a will of its own? Does the Force determine one’s actions, or obey one’s commands? Or is it both, and if that is true, how is that possible? Many ancient Jedi meditated on the mysteries of the Force, though to solve them all is likely impossible.</Description>
     <Source Page="35">Unlimited Power</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Mysteries</Motivation>
@@ -2261,8 +2134,9 @@ This character has lived a sheltered existence and views the galaxy at large as 
   <SpecificMotivation>
     <Key>MYSTERY3</Key>
     <Name>Destiny and Fate</Name>
-    <Description>[H4]Destiny and Fate[h4]
-</Description>
+    <Description>
+      [H4]Destiny and Fate[h4]
+The character wants to know if destiny truly exists. Do all beings have a fate set down for them at the moment of their creation? Can one thwart their fate, or is it an exercise in futility? And if one fulfills their destiny, what then? Above all, the character wants to know what their own destiny is, and must decide whether to fulfill or avoid it.</Description>
     <Source Page="35">Unlimited Power</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Mysteries</Motivation>
@@ -2270,8 +2144,9 @@ This character has lived a sheltered existence and views the galaxy at large as 
   <SpecificMotivation>
     <Key>MYSTERY4</Key>
     <Name>Happiness</Name>
-    <Description>[H4]Happiness[h4]
-</Description>
+    <Description>
+      [H4]Happiness[h4]
+What is happiness? What does it mean to be satisfied and happy with one’s life, and is it fair to obtain happiness while it is denied to others? The character strives to understand the true nature of happiness, and hopes that by unlocking this mystery, they may find happiness for themselves as well.</Description>
     <Source Page="35">Unlimited Power</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Mysteries</Motivation>
@@ -2279,8 +2154,9 @@ This character has lived a sheltered existence and views the galaxy at large as 
   <SpecificMotivation>
     <Key>MYSTERY5</Key>
     <Name>Balance</Name>
-    <Description>[H4]Balance[h4]
-</Description>
+    <Description>
+      [H4]Balance[h4]
+Does the universe require balance? For every good thing in the galaxy, must there be a bad thing as well? Can the light ever win out over the darkness, or must they always be locked in eternal struggle? The character strives to discover these mysteries, and may see themself as duty-bound to bring balance to the galaxy, for good or for ill.</Description>
     <Source Page="35">Unlimited Power</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Mysteries</Motivation>
@@ -2288,8 +2164,9 @@ This character has lived a sheltered existence and views the galaxy at large as 
   <SpecificMotivation>
     <Key>MYSTERY6</Key>
     <Name>Suffering</Name>
-    <Description>[H4]Suffering[h4]
-</Description>
+    <Description>
+      [H4]Suffering[h4]
+Why is there suffering in the galaxy? If the Force exists, created by life, why does it allow beings on countless worlds to spend lives in agony and pain? In fact, how could any benevolent higher power allow suffering to exist? By understanding the nature of suffering, the character hopes to unlock its role in existence, and gain some insight into why some people must bear burdens of pain and unhappiness.</Description>
     <Source Page="35">Unlimited Power</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Mysteries</Motivation>
@@ -2297,8 +2174,9 @@ This character has lived a sheltered existence and views the galaxy at large as 
   <SpecificMotivation>
     <Key>MYSTERY7</Key>
     <Name>The Jedi</Name>
-    <Description>[H4]The Jedi[h4]
-</Description>
+    <Description>
+      [H4]The Jedi[h4]
+The Jedi existed for thousands of years before being wiped out by the Sith and Darth Sidious. In that time, they grew and changed in many ways, until their origins were a mystery even to themselves. The character hopes that by uncovering the mysteries of the Jedi, they might finally understand the role this order played in the galaxy.</Description>
     <Source Page="35">Unlimited Power</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Mysteries</Motivation>
@@ -2306,8 +2184,9 @@ This character has lived a sheltered existence and views the galaxy at large as 
   <SpecificMotivation>
     <Key>MYSTERY8</Key>
     <Name>Other Force Traditions</Name>
-    <Description>[H4]Other Force Traditions[h4]
-</Description>
+    <Description>
+      [H4]Other Force Traditions[h4]
+The Jedi are not the only practitioners to try and understand, and even use, the Force. There have been many Force-using traditions throughout the galaxy, some of which still exist today. The character wishes to understand these other traditions. Perhaps they know some fundamental truth of the Force that the Jedi, or the Sith, never truly understood.</Description>
     <Source Page="35">Unlimited Power</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Mysteries</Motivation>
@@ -2315,8 +2194,9 @@ This character has lived a sheltered existence and views the galaxy at large as 
   <SpecificMotivation>
     <Key>MYSTERY9</Key>
     <Name>The Dark Side of the Force</Name>
-    <Description>[H4]The Dark Side of the Force[h4]
-</Description>
+    <Description>
+      [H4]The Dark Side of the Force[h4]
+What is the nature of evil? The character seeks to truly understand the Force’s dark side and, in doing so, hopes to gain some insight into what it means to be alive. The character may plot to use this knowledge to achieve their own aims, or hope to better understand how to combat the darkness. However, there is always the risk that by trying to understand evil, it may corrupt the character in some way.</Description>
     <Source Page="35">Unlimited Power</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Mysteries</Motivation>
@@ -2326,7 +2206,7 @@ This character has lived a sheltered existence and views the galaxy at large as 
     <Name>Balance of the Force</Name>
     <Description>
       [H4]Balance of the Force[h4]
-[P]It is said by some that the Force is out of balance, though the matter of what balance in the Force would look like has challenged its students since time immemorial. Still, a great darkness festers at the heart of the Empire, and all who know its oppression can feel its wicked core. As great an effort as it might entail to restore and maintain the very energy of the cosmos, the character has taken an oath to see the cosmic balance of the galaxy set right.      </Description>
+[P]It is said by some that the Force is out of balance, though the matter of what balance in the Force would look like has challenged its students since time immemorial. Still, a great darkness festers at the heart of the Empire, and all who know its oppression can feel its wicked core. As great an effort as it might entail to restore and maintain the very energy of the cosmos, the character has taken an oath to see the cosmic balance of the galaxy set right.</Description>
     <Source Page="33">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Oath</Motivation>
@@ -2336,7 +2216,7 @@ This character has lived a sheltered existence and views the galaxy at large as 
     <Name>Departed</Name>
     <Description>
       [H4]Departed[h4]
-[P]The character has lost someone, or perhaps too many someones, and carries on in that person's honor. Perhaps the dead were family, friends, or comrades-in-arms. Regardless of the specifics of their lives and deaths, they persist in the principles that guide this character. Questions of what the departed would want weigh heavily on this character's mind an help to form the character's moral compass.     </Description>
+[P]The character has lost someone, or perhaps too many someones, and carries on in that person's honor. Perhaps the dead were family, friends, or comrades-in-arms. Regardless of the specifics of their lives and deaths, they persist in the principles that guide this character. Questions of what the departed would want weigh heavily on this character's mind an help to form the character's moral compass.</Description>
     <Source Page="33">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Oath</Motivation>
@@ -2366,7 +2246,7 @@ The character is dedicated to making sure no good deed goes unrewarded, and no b
     <Name>Artistic Legacy</Name>
     <Description>
       [H4]Artistic Legacy[h4]
-[P]Somewhere out there is an art, philosophy, or collection of artifacts that the character holds in esteem without compare. The character has sworn to prioritize the collection (or dissemination) of that art, protecting its integrity and discovering any knowledge of it as a duty to civilization itself. While the art could vary from a form of swordsmanship to a mode of thought to an actual, physical collection of texts or relics, the importance it holds to the character is paramount. </Description>
+[P]Somewhere out there is an art, philosophy, or collection of artifacts that the character holds in esteem without compare. The character has sworn to prioritize the collection (or dissemination) of that art, protecting its integrity and discovering any knowledge of it as a duty to civilization itself. While the art could vary from a form of swordsmanship to a mode of thought to an actual, physical collection of texts or relics, the importance it holds to the character is paramount.</Description>
     <Source Page="33">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Oath</Motivation>
@@ -2468,7 +2348,7 @@ With a galaxy full of so many secrets, the character knows that the pursuit of k
     <Name>Deadliness</Name>
     <Description>
       [H4]Deadliness[h4]
-While death is not the character's goal, it cannot be avoided and so must be honed to an art. Never missing an oppurtunity to practice swordplay and aim, the PC views each combat as a test of personal lethality.</Description>
+While death is not the character's goal, it cannot be avoided and so must be honed to an art. Never missing an opportunity to practice swordplay and aim, the PC views each combat as a test of personal lethality.</Description>
     <Source Page="32">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Pursuit</Motivation>
@@ -2508,7 +2388,7 @@ Since finding a connection to the Force, the character has sought to learn more 
     <Name>Self-Reliance</Name>
     <Description>
       [H4]Self-Reliance[h4]
-It's a dangerous galaxy, with governments being overthrown and entire planets being destroyed. No matter where, the character always works to avoid any need for halp for there will always be times when either no one else is present or able to offer assistance.</Description>
+It's a dangerous galaxy, with governments being overthrown and entire planets being destroyed. No matter where, the character always works to avoid any need for help for there will always be times when either no one else is present or able to offer assistance.</Description>
     <Source Page="32">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Pursuit</Motivation>
@@ -2518,7 +2398,7 @@ It's a dangerous galaxy, with governments being overthrown and entire planets be
     <Name>Efficiency</Name>
     <Description>
       [H4]Efficiency[h4]
-Life is a precious resource, and the character strives to waste as little as possible. Not only are the character's own actions examples of economical, effective perfection, but the character also always seeks to similarly imrpve other sentients, technologies, and even nature where possible, to these standards.</Description>
+Life is a precious resource, and the character strives to waste as little as possible. Not only are the character's own actions examples of economical, effective perfection, but the character also always seeks to similarly improve other sentients, technologies, and even nature where possible, to these standards.</Description>
     <Source Page="32">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Pursuit</Motivation>
@@ -2528,7 +2408,6 @@ Life is a precious resource, and the character strives to waste as little as pos
     <Name>Freedom</Name>
     <Description>
       [H4]Freedom[h4]
-
 Whether his people are enslaved or he merely sees all Imperial rule as a form of slavery over the entire galaxy, this Player Character is driven to bring freedom to all. He serves in the Alliance for the sake of liberty, which means he will be watching carefully for any signs that the Rebellion might replace one form of tyranny with another.</Description>
     <Source Page="106">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -2539,7 +2418,6 @@ Whether his people are enslaved or he merely sees all Imperial rule as a form of
     <Name>Glory</Name>
     <Description>
       [H4]Glory[h4]
-
 The Player Character sees an incredible chance to do something hugely important in the galaxy, securing his place in history alongside other great heroes. He wants to fight in the biggest battles and do something so outrageous and daring that folks will talk about it for centuries. Such motivation can be dangerous for the PC's companions, yet it may also serve to inspire others.</Description>
     <Source Page="106">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -2550,7 +2428,6 @@ The Player Character sees an incredible chance to do something hugely important 
     <Name>Influence</Name>
     <Description>
       [H4]Influence[h4]
-
 Either for himself or for those he serves, the Player Character is in the Rebellion to ensure he attains a certain amount of influence when the war is over. He may seek to give his people a higher standing in the government that will follow or he may wish to gain political power for himself in the chaotic aftermath of the war Either way, his motivation involves the bigger picture.</Description>
     <Motivation>Quest</Motivation>
     <Source Page="106">Age of Rebellion Core Rulebook</Source>
@@ -2561,7 +2438,6 @@ Either for himself or for those he serves, the Player Character is in the Rebell
     <Name>The Jedi</Name>
     <Description>
       [H4]The Jedi[h4]
-
 The Great Jedi Purge that started with Order 66 at the end of the Clone Wars deprived the galaxy of the single most important source of justice and peacekeeping known, at least as far as this Player Character is concerned. He seeks to restore the light of the Jedi to the galaxy.</Description>
     <Source Page="106">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -2581,7 +2457,6 @@ The Great Jedi Purge that started with Order 66 at the end of the Clone Wars dep
     <Name>Redemption</Name>
     <Description>
       [H4]Redemption[h4]
-
 The Player Character seeks to atone for past sins or mistakes by serving in the Alliance. He may have served in the Empire; he may have been a criminal, bounty hunter, or followed some other pursuit that caused him to take actions he now regrets. Helping the Rebellion may be a way to regain his self-worth.</Description>
     <Source Page="106">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -2592,7 +2467,6 @@ The Player Character seeks to atone for past sins or mistakes by serving in the 
     <Name>Rescue</Name>
     <Description>
       [H4]Rescue[h4]
-
 The PC has a loved one, a family, a group of colleagues, or perhaps even an entire planet he is hoping to see rescued from Imperial control. He is in the Alliance because they offer the best chance he has to save those he seeks to rescue.</Description>
     <Source Page="106">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -2603,8 +2477,7 @@ The PC has a loved one, a family, a group of colleagues, or perhaps even an enti
     <Name>Riches</Name>
     <Description>
       [H4]Riches[h4]
-
-While many beings desire power, fame, or freedom. some are only interested in credits. This Player Character cares only about getting paid, and he sees the Rebellion as his best shot at that. If the Empire falls and a new order takes its place, those who helped it get there should be in a position to become very wealthy.</Description>
+While many beings desire power, fame, or freedom. Some are only interested in credits. This Player Character cares only about getting paid, and he sees the Rebellion as his best shot at that. If the Empire falls and a new order takes its place, those who helped it get there should be in a position to become very wealthy.</Description>
     <Source Page="106">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Quest</Motivation>
@@ -2614,7 +2487,6 @@ While many beings desire power, fame, or freedom. some are only interested in cr
     <Name>The Sith</Name>
     <Description>
       [H4]The Sith[h4]
-
 Whether a survivor of the Purges or merely a very apt student of Jedi history, this Player Character is part of the Rebellion as a means to seek out and stop whatever the Sith are doing. He may know about the involvement of the Sith in the formation of the Empire, or he may merely suspect them of taking advantage of the rampant chaos. Regardless, this motivation serves as his primary reason for fighting the Empire.</Description>
     <Source Page="106">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -2625,7 +2497,6 @@ Whether a survivor of the Purges or merely a very apt student of Jedi history, t
     <Name>Thrill</Name>
     <Description>
       [H4]Thrill[h4]
-
 There are few actions more dangerous than taking on the forces of the Empire in a head-on battle. It requires incredible speed, intelligence, and courage to climb into the cockpit of an X-wing or infiltrate an Imperial base. This Player Character seeks thrills and danger wherever he can find them, and he has joined the Rebellion to get a shot at taking on the most dangerous and well-trained fighting force in the galaxy.</Description>
     <Source Page="106">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -2645,8 +2516,7 @@ There are few actions more dangerous than taking on the forces of the Empire in 
     <Name>Vengeance</Name>
     <Description>
       [H4]Vengeance[h4]
-
-The Empire has committed an act the Player Character will never forgive. Every dead stormtrooper and every destroyed TIE fighter is another notch on his gun, marking his endless need to make them all pay. Such a motivation can lead to dangerous. even suicidal actions, especially if the PC doesn't find other feelings with which to temper it.</Description>
+The Empire has committed an act the Player Character will never forgive. Every dead stormtrooper and every destroyed TIE fighter is another notch on his gun, marking his endless need to make them all pay. Such a motivation can lead to dangerous, even suicidal actions, especially if the PC doesn't find other feelings with which to temper it.</Description>
     <Source Page="106">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Quest</Motivation>
@@ -2656,8 +2526,7 @@ The Empire has committed an act the Player Character will never forgive. Every d
     <Name>Comrades</Name>
     <Description>
       [H4]Comrades[h4]
-
-The character shows loyalty to the he serves alongside. This could be either the current group of PCs. former military buddies. or business associates.</Description>
+The character shows loyalty to those he serves alongside. This could be either the current group of PCs. former military buddies. or business associates.</Description>
     <Source Page="96">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Relationship</Motivation>
@@ -2667,7 +2536,6 @@ The character shows loyalty to the he serves alongside. This could be either the
     <Name>Droid Companion</Name>
     <Description>
       [H4]Droid Companion[h4]
-
 The character possesses a fondness for a particular droid. This could be a former family servant, his ship's astromech droid, or his trusty protocol droid. This may include a PC droid.</Description>
     <Source Page="96">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -2678,7 +2546,6 @@ The character possesses a fondness for a particular droid. This could be a forme
     <Name>Extended Family/Clan</Name>
     <Description>
       [H4]Extended Family/Clan[h4]
-
 The character has a large extended family, clan. or tribe that he deeply loves. He seeks both their comfort and approval despite the many voices clamoring in his ear for attention.</Description>
     <Source Page="96">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -2689,7 +2556,6 @@ The character has a large extended family, clan. or tribe that he deeply loves. 
     <Name>Childhood Friend</Name>
     <Description>
       [H4]Childhood Friend[h4]
-
 The character maintains ties with a friend from his childhood. Although the two may be a galaxy apart, the character desires only the best for his companion.</Description>
     <Source Page="96">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -2700,10 +2566,7 @@ The character maintains ties with a friend from his childhood. Although the two 
     <Name>Local Civilian</Name>
     <Description>
       [H4]Local Civilian[h4]
-Soldiers often form quick bonds with the people who live on worlds where they deploy. The connection
-may be with a farmer who sells produce to the troops, a local youth who shares a love of m ilitary technology, or a village
-elder whose venerable traditions strike a chord within the Soldier. This bond can be an asset, supplying the PC with
-unique inform ation on the region, but can also cause the Soldier em otional strife if this friend is dragged into the war.</Description>
+Soldiers often form quick bonds with the people who live on worlds where they deploy. The connection may be with a farmer who sells produce to the troops, a local youth who shares a love of military technology, or a village elder whose venerable traditions strike a chord within the Soldier. This bond can be an asset, supplying the PC with unique information on the region, but can also cause the Soldier emotional strife if this friend is dragged into the war.</Description>
     <Source Page="36">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Relationship</Motivation>
@@ -2713,8 +2576,7 @@ unique inform ation on the region, but can also cause the Soldier em otional str
     <Name>Lover</Name>
     <Description>
       [H4]Lover[h4]
-The Soldier might have a spouse or other romantic relationship back home or within the unit. This Soldier fights
-to ensure this person’s safety, and in the hopes of returning safely to this person once the Empire has been defeated.</Description>
+The Soldier might have a spouse or other romantic relationship back home or within the unit. This Soldier fights to ensure this person’s safety, and in the hopes of returning safely to this person once the Empire has been defeated.</Description>
     <Source Page="36">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Relationship</Motivation>
@@ -2724,7 +2586,6 @@ to ensure this person’s safety, and in the hopes of returning safely to this p
     <Name>Mentor</Name>
     <Description>
       [H4]Mentor[h4]
-
 The character is particularly close to a mentor, professor. teacher or other figure that provided support, knowledge, and wisdom to him in his early years.</Description>
     <Source Page="96">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -2735,7 +2596,6 @@ The character is particularly close to a mentor, professor. teacher or other fig
     <Name>Former Nemesis</Name>
     <Description>
       [H4]Former Nemesis[h4]
-
 The character formed a close bond with a former nemesis or rival. Although things are patched between them, the two could still be extremely competitive.</Description>
     <Source Page="96">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -2746,7 +2606,6 @@ The character formed a close bond with a former nemesis or rival. Although thing
     <Name>Place of Origin</Name>
     <Description>
       [H4]Place of Origin[h4]
-
 The character is deeply prideful of where he grew up. This could be a specific planet, town, space station. or ship. The character strives to better the place of origin and its people and will defend it with his life.</Description>
     <Source Page="96">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -2757,7 +2616,6 @@ The character is deeply prideful of where he grew up. This could be a specific p
     <Name>Parents</Name>
     <Description>
       [H4]Parents[h4]
-
 The character has close ties with his parents (or a single parent) and seeks their constant approval. This may or may not be a healthy or supportive situation.</Description>
     <Source Page="96">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -2768,7 +2626,6 @@ The character has close ties with his parents (or a single parent) and seeks the
     <Name>Pet</Name>
     <Description>
       [H4]Pet[h4]
-
 The character is close with a pet or animal companion of some sort. a relatively small non-combatant.</Description>
     <Source Page="96">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -2789,7 +2646,6 @@ The Soldier has a rivalry with someone, and whether this person is a friend or a
     <Name>Sibling/Siblings</Name>
     <Description>
       [H4]Sibling/Siblings[h4]
-
 The character has one or more siblings with whom he maintains close contact. The sibling or siblings are unlikely to be combatants and this Motivation may or may not fall in line with a character's Relationship Obligation.</Description>
     <Source Page="96">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -2800,20 +2656,16 @@ The character has one or more siblings with whom he maintains close contact. The
     <Name>Tech</Name>
     <Description>
       [H4]Tech[h4]
-A Soldier m ight have one very specific piece of technology that is especially precious, such as a droid, a vehicle
-or customized rifle. The character works hard to safeguard it, and spends any spare tim e or money on maintaining,
-repairing, or upgrading this cherished machine.</Description>
+A Soldier might have one very specific piece of technology that is especially precious, such as a droid, a vehicle or customized rifle. The character works hard to safeguard it, and spends any spare time or money on maintaining, repairing, or upgrading this cherished machine.</Description>
     <Source Page="36">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Relationship</Motivation>
   </SpecificMotivation>
-
   <SpecificMotivation>
     <Key>REWARDSM1</Key>
     <Name>Credits</Name>
     <Description>
       [H4]Credits[h4]
-
 The Smuggler just wants to get paid. Smuggling is a career after all, and no one works for free. He may be a very successful Smuggler, but is always greedy for more credits. Or maybe he's just scraping by and reliant on payment for each job before he can repair his ship, feed his crew, and move on to the next contract. Perhaps he wants what he's owed, fair and square, or maybe dreams of winning big in a sabacc game. In any case, he is in it for the money. Smuggling can be very lucrative if he goes about it the right way and has luck on his side. There is always the chance, particularly in illegal dealings, that the employer won't want to pay out such cases, the Smuggler with the Credits Motivation does everything he can to claim his due.</Description>
     <Source Page="35">Fly Casual</Source>
     <Custom>DescOnly</Custom>
@@ -2824,7 +2676,6 @@ The Smuggler just wants to get paid. Smuggling is a career after all, and no one
     <Name>Independence</Name>
     <Description>
       [H4]Independence[h4]
-
 Not everyone thrives under Imperial rule. For some, the ability to make their own decisions, and their own mistakes, means everything. This Smuggler wants to choose which jobs to take and which to pass on. He pays off debts as quickly as he can, so he is beholden to no one. Ultimately, he wants to be his own boss, which probably means owning his own ship and developing the skills to function independently.</Description>
     <Source Page="35">Fly Casual</Source>
     <Custom>DescOnly</Custom>
@@ -2835,8 +2686,7 @@ Not everyone thrives under Imperial rule. For some, the ability to make their ow
     <Name>Power</Name>
     <Description>
       [H4]Power[h4]
-
-For this Smuggler, success means having the skills, knowledge, credits, prestige, or contacts to wield some real power in the galaxy. Power comes in many forms. He might want to head his own smuggling ring one day, or maybe he hopes to work his way up the ranks of a larger organization like the Black Sun. If a he's a Charmer, he may feel powerful when manipulating others. If he's a Thief, it might be when he's taking their prized possessions. For any Smuggler with this Motivation, the thrill of being important, of having power over others as well as his own life, is what drives him.</Description>
+For this Smuggler, success means having the skills, knowledge, credits, prestige, or contacts to wield some real power in the galaxy. Power comes in many forms. He might want to head his own smuggling ring one day, or maybe he hopes to work his way up the ranks of a larger organization like the Black Sun. If he's a Charmer, he may feel powerful when manipulating others. If he's a Thief, it might be when he's taking their prized possessions. For any Smuggler with this Motivation, the thrill of being important, of having power over others as well as his own life, is what drives him.</Description>
     <Source Page="35">Fly Casual</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Reward</Motivation>
@@ -2846,7 +2696,6 @@ For this Smuggler, success means having the skills, knowledge, credits, prestige
     <Name>Victory</Name>
     <Description>
       [H4]Victory[h4]
-
 This Smuggler enjoys triumphing over others. He challenges himself to fly faster than anyone else, to deceive them, to shoot more accurately than they can, or to steal things out from under their nasal appendages. His need to be better than everyone else incites him to be the best Smuggler he can be, but since he might take on particularly dangerous jobs to prove that he can smuggle better than anyone else, this Motivation could also be his undoing.</Description>
     <Source Page="35">Fly Casual</Source>
     <Custom>DescOnly</Custom>
@@ -2857,7 +2706,6 @@ This Smuggler enjoys triumphing over others. He challenges himself to fly faster
     <Name>Beating the Odds</Name>
     <Description>
       [H4]Beating the Odds[h4]
-
 Smuggling is not an easy or safe career, but some Smugglers like the challenge of a difficult job, game, or situation. In this case it is true that the higher the risk the higher the reward, but the Smuggler still has some tricks up his sleeve to tip the odds more in his favor. When trying to beat the house during a high-stakes game, a Gambler can use skill or even cheat to appear lucky. The Gunslinger facing multiple opponents can use his particular talents to escape unscathed. This Smuggler makes his own luck. and his perilous career allows him to do so. The desired outcome is the satisfaction of succeeding despite the odds.</Description>
     <Source Page="35">Fly Casual</Source>
     <Custom>DescOnly</Custom>
@@ -2868,7 +2716,6 @@ Smuggling is not an easy or safe career, but some Smugglers like the challenge o
     <Name>Fame</Name>
     <Description>
       [H4]Fame[h4]
-
 This Smuggler wants to make a name for himself. He may take the most dangerous, difficult jobs or seemingly make the impossible happen. However, this means nothing to him unless someone witnesses his success and spreads the word afterwards. The jobs he takes must at least conclude in known space and, ideally, he has an audience when he presents the Hutt with the priceless cargo or reunites the wealthy merchant with his long-lost daughter. He wants the adventures that people will talk about from Coruscant to the Outer Rim and beyond.</Description>
     <Source Page="35">Fly Casual</Source>
     <Custom>DescOnly</Custom>
@@ -2879,8 +2726,7 @@ This Smuggler wants to make a name for himself. He may take the most dangerous, 
     <Name>Esteem</Name>
     <Description>
       [H4]Esteem[h4]
-
-Sometimes a Smuggler just wants to be good at what he does and impress those around him. Similar to Fame, but on a more personal scale, an Esteem Motivation makes a Smuggler crave the good opinion of his peers or the desire of the others. The Smuggler with this Motivation displays bravado in the face of danger, but he also works hard to ensure that his ship and crew are up to the challenging jobs he wants to take.</Description>
+Sometimes a Smuggler just wants to be good at what he does and impress those around him. Similar to Fame, but on a more personal scale, an Esteem Motivation makes a Smuggler crave the good opinion of his peers or the desire of others. The Smuggler with this Motivation displays bravado in the face of danger, but he also works hard to ensure that his ship and crew are up to the challenging jobs he wants to take.</Description>
     <Source Page="35">Fly Casual</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Reward</Motivation>
@@ -2890,7 +2736,6 @@ Sometimes a Smuggler just wants to be good at what he does and impress those aro
     <Name>Experience</Name>
     <Description>
       [H4]Experience[h4]
-
 The galaxy is a vast and varied place, with a myriad of species and landscapes to encounter. The career of a Smuggler offers a chance to explore, make new contacts, and turn a profit at the same time. It is a great choice of career for anyone who wants to see the galaxy but lacks the funding to do so at his leisure. Any Smuggler who values experience will look for jobs that allow him to learn new skills, try new technology, visit new places, or meet new people. He also likely possesses an eclectic mix of skills and knowledge.</Description>
     <Source Page="35">Fly Casual</Source>
     <Custom>DescOnly</Custom>
@@ -2901,7 +2746,6 @@ The galaxy is a vast and varied place, with a myriad of species and landscapes t
     <Name>Moral</Name>
     <Description>
       [H4]Moral[h4]
-
 Sometimes helping others is a reward in itself. Altruism may be a rare virtue, but smuggling attracts all sorts, and being a criminal does not mean the Smuggler has no moral code. A Smuggler might get a kick out of helping others, or he hopes to change the galaxy one good deed at a time. Either way, he wants to feel good about himself based on his own criteria. Whether he gains recognition as a hero or not does not matter.</Description>
     <Source Page="35">Fly Casual</Source>
     <Custom>DescOnly</Custom>
@@ -2912,7 +2756,6 @@ Sometimes helping others is a reward in itself. Altruism may be a rare virtue, b
     <Name>Excitement</Name>
     <Description>
       [H4]Excitement[h4]
-
 Anyone craving adventure and excitement could easily end up as a Smuggler. For some, the jobs are not work but opportunities for adventure. The career is not dangerous but exciting and challenging. Risking everything in a game of chance delights this character, facing off against an armed opponent thrills him, and pushing his ship to its limits fleeing Imperial forces leaves him laughing like a maniac. Anyone traveling with this Smuggler is in for a wild ride.</Description>
     <Source Page="35">Fly Casual</Source>
     <Custom>DescOnly</Custom>
@@ -2921,8 +2764,9 @@ Anyone craving adventure and excitement could easily end up as a Smuggler. For s
   <SpecificMotivation>
     <Key>SECRET1</Key>
     <Name>Falsification</Name>
-    <Description>[H4]Falsification[h4]
-</Description>
+    <Description>
+      [H4]Falsification[h4]
+A secret is valuable only so long as people believe it to be true. As such, these Spies enjoy twisting facts and adding fictitious details, making it a better story but also one that enemy agents can easily (but erroneously) disprove.</Description>
     <Source Page="32">Cyphers and Masks</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Secrets</Motivation>
@@ -2930,8 +2774,9 @@ Anyone craving adventure and excitement could easily end up as a Smuggler. For s
   <SpecificMotivation>
     <Key>SECRET10</Key>
     <Name>Retrieval</Name>
-    <Description>[H4]Retrieval[h4]
-</Description>
+    <Description>
+      [H4]Retrieval[h4]
+Tradecraft often involves penetrating enemy security systems to gain access to secrets, and some find this the grandest game of all. Only when battling their opposite numbers and stealing their secrets do these Spies come alive.</Description>
     <Source Page="32">Cyphers and Masks</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Secrets</Motivation>
@@ -2939,8 +2784,9 @@ Anyone craving adventure and excitement could easily end up as a Smuggler. For s
 <SpecificMotivation>
     <Key>SECRET2</Key>
     <Name>Detection</Name>
-    <Description>[H4]Detection[h4]
-</Description>
+    <Description>
+      [H4]Detection[h4]
+The first step in learning the contents of a secret is to learn there is something secretive that actually exists. Seeking out areas where secrets exist drives these Spies, while the actual information may be of lesser concern.</Description>
     <Source Page="32">Cyphers and Masks</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Secrets</Motivation>
@@ -2948,8 +2794,9 @@ Anyone craving adventure and excitement could easily end up as a Smuggler. For s
   <SpecificMotivation>
     <Key>SECRET3</Key>
     <Name>Extraction</Name>
-    <Description>[H4]Extraction[h4]
-</Description>
+    <Description>
+      [H4]Extraction[h4]
+Sometimes the only way to learn a secret is to persuade those with the information to part with it. Spies motivated in this way often develop effective techniques for pulling secrets from Imperials, making themselves quite invaluable to the Alliance war effort.</Description>
     <Source Page="32">Cyphers and Masks</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Secrets</Motivation>
@@ -2957,8 +2804,9 @@ Anyone craving adventure and excitement could easily end up as a Smuggler. For s
   <SpecificMotivation>
     <Key>SECRET4</Key>
     <Name>Classification</Name>
-    <Description>[H4]Classification[h4]
-</Description>
+    <Description>
+      [H4]Classification[h4]
+By their very nature, secrets only exist when someone makes them so. The act of hiding information away or marking it as unfit for open dissemination is just as important as seeking it out for these Spies. Buried in multiple layers of operational security concerns, they decide who should and should not learn these secrets.</Description>
     <Source Page="32">Cyphers and Masks</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Secrets</Motivation>
@@ -2966,8 +2814,9 @@ Anyone craving adventure and excitement could easily end up as a Smuggler. For s
   <SpecificMotivation>
     <Key>SECRET5</Key>
     <Name>Analysis</Name>
-    <Description>[H4]Analysis[h4]
-</Description>
+    <Description>
+      [H4]Analysis[h4]
+Information often has no identifiable value, even if it is directly associated with important projects or people. Only when it is properly analyzed and contextualized can secrets be truly understood, and these Spies will sift through mounds of information from a variety of sources to fully grasp its importance.</Description>
     <Source Page="32">Cyphers and Masks</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Secrets</Motivation>
@@ -2975,8 +2824,9 @@ Anyone craving adventure and excitement could easily end up as a Smuggler. For s
   <SpecificMotivation>
     <Key>SECRET6</Key>
     <Name>Security</Name>
-    <Description>[H4]Security[h4]
-</Description>
+    <Description>
+      [H4]Security[h4]
+Without proper encryption or methods of physically securing information, secrecy is impossible. These Spies are consumed with means of security and ensuring that secrets stay hidden.</Description>
     <Source Page="32">Cyphers and Masks</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Secrets</Motivation>
@@ -2984,8 +2834,9 @@ Anyone craving adventure and excitement could easily end up as a Smuggler. For s
   <SpecificMotivation>
     <Key>SECRET7</Key>
     <Name>Revelation</Name>
-    <Description>[H4]Revelation[h4]
-</Description>
+    <Description>
+      [H4]Revelation[h4]
+Secrets, especially Imperial ones, have rarely been kept for good reasons. Allowing everyone to know the truth of the Empire drives these Spies, who strive to uncover secrets wherever possible.</Description>
     <Source Page="32">Cyphers and Masks</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Secrets</Motivation>
@@ -2993,8 +2844,9 @@ Anyone craving adventure and excitement could easily end up as a Smuggler. For s
   <SpecificMotivation>
     <Key>SECRET8</Key>
     <Name>Tracking</Name>
-    <Description>[H4]Tracking[h4]
-</Description>
+    <Description>
+      [H4]Tracking[h4]
+No secret exists on its own. Each one has a lineage and pedigree showing associated locations and persons of interest. Learning the true nature of secrets can consume these Spies, driving them to trace secrets back across years and parsecs, often uncovering other secrets along the way.</Description>
     <Source Page="32">Cyphers and Masks</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Secrets</Motivation>
@@ -3002,10 +2854,11 @@ Anyone craving adventure and excitement could easily end up as a Smuggler. For s
   <SpecificMotivation>
     <Key>SECRET9</Key>
     <Name>Preservation</Name>
-    <Description>[H4]Preservation[h4]
-</Description>
+    <Description>
+      [H4]Preservation[h4]
+Often the only way to keep a secret from unwanted revelation is to eliminate any who come into contact with the information. Guarding secrets drives such Spies, who ensure few learn the secret and live to tell others.</Description>
     <Source Page="32">Cyphers and Masks</Source>
     <Custom>DescOnly</Custom>
     <Motivation>Secrets</Motivation>
   </SpecificMotivation>
-  </SpecificMotivations>
+</SpecificMotivations>

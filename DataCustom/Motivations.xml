@@ -5,7 +5,6 @@
     <Name>Ambition</Name>
     <Description>
       [H4]Ambition[h4]
-
 A character with this Motivation is driven by a specific goal. This Motivation is internal and often abstract, and possibly selfish in nature. A character with the Ambition Motivation wants to better himself in some way—gaining love, status, power, or spiritual knowledge, for example. The player should determine the character's ultimate goal and why he does things the way that he does to get there.</Description>
     <Sources>
       <Source Page="95">Edge of the Empire Core Rulebook</Source>
@@ -37,8 +36,7 @@ A character with this Motivation is driven by a specific goal. This Motivation i
     <Key>BELIEF</Key>
     <Name>Belief</Name>
     <Description>
-		[H4]Belief[h4]
-
+      [H4]Belief[h4]
 A Player Character with a Motivation from this type is driven by a set of beliefs that form how he sees the galaxy and his role in it. He serves the Alliance because his beliefs support the goals of the Rebellion or are absolutely in contradiction with those of the Empire. He might not need to spread his beliefs to others, but he will epitomize those beliefs in word and deed, and he hopes that his beliefs will have a hand in building what will arise after the Empire falls.</Description>
     <Source Page="105">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -64,8 +62,7 @@ A Player Character with a Motivation from this type is driven by a set of belief
     <Name>Cause</Name>
     <Description>
       [H4]Cause[h4]
-
-Where the Ambition Motivation deals with an internal drive, the Cause Motivation is typically an external group or concept on which the character focuses. The Motivation is something so important that the character is willing to takes risks or operate outside his comfort zone. Although this Motivation focuses on the needs of others, belief in a cause need not be altruistic by nature or for the common good—the cause could support some tenets that are dangerous or harmful to others, in fact.</Description>
+Where the Ambition Motivation deals with an internal drive, the Cause Motivation is typically an external group or concept on which the character focuses. The Motivation is something so important that the character is willing to take risks or operate outside his comfort zone. Although this Motivation focuses on the needs of others, belief in a cause need not be altruistic by nature or for the common good—the cause could support some tenets that are dangerous or harmful to others, in fact.</Description>
     <Sources>
       <Source Page="96">Edge of the Empire Core Rulebook</Source>
       <Source Page="105">Force and Destiny Core Rulebook</Source>
@@ -96,8 +93,9 @@ Where the Ambition Motivation deals with an internal drive, the Cause Motivation
   <Motivation>
     <Key>CHALLENGE</Key>
     <Name>Challenges</Name>
-    <Description>[H4]Challenges[h4]
-A Warrior is defined by the ability and willingness to fight. It is in the Warrior's nature to rise to challenges, and these challenges test the Warrior's mettle and hone their skills. It is by seeking out and overcoming challenges that a Warrior improves. The challenges a Warrior faces are not all on a battle field, but a Warrior approaches challenges of every type with the same determination and zeal.</Description>
+    <Description>
+      [H4]Challenges[h4]
+A Warrior is defined by the ability and willingness to fight. It is in the Warrior's nature to rise to challenges, and these challenges test the Warrior's mettle and hone their skills. It is by seeking out and overcoming challenges that a Warrior improves. The challenges a Warrior faces are not all on a battlefield, but a Warrior approaches challenges of every type with the same determination and zeal.</Description>
     <Source Page="32">Knights of Fate</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
@@ -139,7 +137,6 @@ The Motivations presented in the [B]Edge of the Empire[b] Core Rulebook necessar
     <Name>Conflict</Name>
     <Description>
       [H4]Conflict[h4]
-
 There are quite a few options for different Motivations found in the Core Rulebook. However, since these Motivations have to serve a wide variety of characters, they are broad by necessity. [B]Dangerous Covenants[b] includes a number of Motivations tailored specifically for the Hired Gun career and its specializations. These new Motivations are grouped into the category of Conflicts.</Description>
     <Sources>
       <Source Page="34">Dangerous Covenants</Source>
@@ -168,7 +165,6 @@ There are quite a few options for different Motivations found in the Core Rulebo
     <Name>Connections</Name>
     <Description>
       [H4]Connections[h4]
-
 The Player Character has some kind of connection or relationship to the Alliance that draws him to its cause. He might not have had any desire to fight in the Rebellion otherwise, joining only because the Connection he is tied to is a part of it or because serving the Alliance somehow enhances the Connection. Over time, his commitment to the Rebellion could become more personally ingrained, but it all begins with the desires or influences of another.</Description>
     <Source Page="106">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -192,11 +188,8 @@ The Player Character has some kind of connection or relationship to the Alliance
     <Name>Creations</Name>
     <Description>
       [H4]Creations[h4]
-
 Survival is always the first thing on every Colonist's mind—self-preservation, of course, but also survival of the colony. Even the most independent and self-sufficient Colonists need to be able to go into town for replacement parts. However, beyond those immediate concerns, there are often deeper-seeded motivations, things that could explain why a Colonist left what might have been a comfortable life on a Core world.
-
 [P]The truth is that life in the Core is regulated. The most available jobs are in lower management, desk-riding, or menial labor. There are few jobs that allow for much sense of expression or accomplishment. The wide open spaces of the Rim are different. Life is harder, but a Colonist can create something new for himself and his fellows.
-
 [P]At their hearts, most Colonists are creative. The Entrepreneur, Politico, and Performer are especially creative, incorporating art and creativity into their daily lives. Many Scholars use scientific research and their knowledge of the past to dream up bright new futures they hope to help create. Doctors, like Entrepreneurs, are forced to be creative in their problem solving, trying to keep everyone healthy with minimal supplies or come up with new ways to treat maladies. The Marshal, as an individual, can have just as big a creative drive as anyone, but in his work, he first and foremost seeks to create a peaceful environment for his fellow Colonists to pursue their creative efforts.</Description>
     <Source Page="34">Far Horizons</Source>
     <Custom>DescOnly</Custom>
@@ -217,11 +210,8 @@ Survival is always the first thing on every Colonist's mind—self-preservation,
     <Name>Creed</Name>
     <Description>
       [H4]Creed[h4]
-
 Diplomats play many roles in the Rebel Alliance, including leaders, motivators, and facilitators. Their words and actions stir comrades to action, guiding them in the right direction. Diplomats articulate the reasons for the Rebellion's existence, and they direct the Rebellion's success. Anyone can make an impassioned speech, but a Diplomat makes speeches that move hearts, minds, servos, and starships.
-
 [P]A Diplomat's Motivation is the source of the passion and counsel he shares. Where other Player Characters may be driven by vague ideals or desires, a Diplomat sometimes possesses the self-awareness to express his Motivation as a Creed, a singular thought that becomes his goal to enforce or espouse. This concept is entwined with the core of the character, inseparable from his identity. Even though the character may experience conflicting emotions and find predicaments that cause him to question his values, at the end of the day, his Creed is the code he lives by.
-
 [P]Unlike other types of Motivation, the concrete nature of Creeds and the articulate nature of the Diplomat enable a character to express his Creed directly in words. Players should look for opportunities for their characters to mention their Creeds to others or proclaim their Creeds when the pressure is on. Of course, a character might instead opt to keep his Creed to himself; to some, such matters are very personal.</Description>
     <Source Page="36">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
@@ -243,11 +233,8 @@ Diplomats play many roles in the Rebel Alliance, including leaders, motivators, 
     <Name>Discovery</Name>
     <Description>
       [H4]Discovery[h4]
-
 What drives an Explorer? What sends someone from the relative comfort and security of civilization into the vast void of space? What commits him to delving into the hidden places to seek that which has been lost? What moves him to hunt the most dangerous creatures ever encountered? What compels him to grab the stick of a pile of bolts, plastics, and rusted metal and push the machine beyond its breaking point over the most treacherous terrain imaginable?
-
 [P]Explorers often have at the core of their very being an unyielding passion for Discovery: the powerful call to find something out there in the galaxy is their true Motivation. An Explorer may wish to discover the limits of a machine, the capabilities of an infamous beast, the lost secrets of an ancient civilization, the mercantile potential of a hidden society, the resources of a newly discovered planet, or the uncounted opportunities among the limitless stars.
-
 [P]Often, what happens after making a Discovery is far less important than the journey to make it in the first place. Explorers regularly turn the task of exploiting and managing their Discoveries over to others (though usually at a tidy profit to themselves). Staying put is anathema to the Explorer; there are always new Discoveries out there waiting for him.</Description>
     <Source Page="31">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
@@ -264,22 +251,12 @@ What drives an Explorer? What sends someone from the relative comfort and securi
       <Key>DISCOVERYSM10</Key>
     </SpecificMotivations>
   </Motivation>
-
   <Motivation>
     <Key>DRIVE</Key>
     <Name>Drive</Name>
     <Description>
       [H4]Drive[h4]
-The [B]Age of Rebellion[b] Core Rulebook includes
-an ample list of Motivations, broken into three distinct
-types: Beliefs, Connections, and Quests. When
-a character is created, players either freely
-choose Motivations for their characters or
-roll randomly on the Motivation tables to
-select them. The rules for determining a
-character’s Motivation can be found starting
-on page 104 of the [B]Age of Rebellion[b]
-Core Rulebook.</Description>
+The [B]Age of Rebellion[b] Core Rulebook includes an ample list of Motivations, broken into three distinct types: Beliefs, Connections, and Quests. When a character is created, players either freely choose Motivations for their characters or roll randomly on the Motivation tables to select them. The rules for determining a character’s Motivation can be found starting on page 104 of the [B]Age of Rebellion[b]Core Rulebook.</Description>
     <Source Page="37">Lead by Example</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
@@ -300,7 +277,6 @@ Core Rulebook.</Description>
     <Name>Faith</Name>
     <Description>
       [H4]Faith[h4]
-
 Characters who select this Motivation have a deep and abiding trust in some recurring facet of galactic existence. They dedicate their lives to spreading this belief, in the hope that they can bring other beings to come to a similar understanding. In many cases. their proselytization becomes a central focus. In other cases, spreading their belief is far less important than simply reveling in it.</Description>
     <Source Page="105">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -428,7 +404,7 @@ one of the few absolute laws in their otherwise anarchic political system.
 Auratera is situated in one of the oldest civilized areas of the galaxy, in the same galactic neighborhood as many worlds historically important to the Jedi, Sith, and other Force users in the Outer Rim. Despite its proximity to these worlds and the equally ancient, busy Salin Corridor hyperspace route, Auratera is a near-forgotten world. Thousands of years ago, Auratera was a known, if not common, destination for Jedi Masters and Sith Lords drawn to the powerful Acablas vergence in the Force. The world shifted its allegiance between the Republic and various Sith Empires over the millennia, aligning with whichever government controlled the surrounding systems. About a thousand years ago, after the fall of yet another Sith Empire, the Jedi sought to conceal Auratera and the Acablas vergence from possible future Sith or other dark side Force users.
 [P]Most of the world’s population had fled Sith invaders and had not returned. The number of inhabitants had plummeted, and those who remained had enough of the Sith. They and the Jedi secretly altered official Republic records and star maps to misclassify the system in astronavigational databases as one rendered uninhabitable during the war. Though the Jedi retained the correct data, the deception has remained in place ever since, passing from Republic to Imperial charts.
 [P]Currently, Auratera has only a few widely scattered isolationist towns and settlements. In hiding themselves from the galaxy, they have cut ties with the few remaining trading partners they had when the last Sith Empire fell. Many
-settlements have reverted to more primitive technology to make themselves self-sufficient. While vehicles are common in the settlements, starships are a rare commodity. Haying no central world government, the different communities govern themselves as they like. There is some trade between groups, and each year a ship or two quietly visits nearby systems to purchase supplies, parts, and vehicles, and to check in on galactic events.</Description>
+settlements have reverted to more primitive technology to make themselves self-sufficient. While vehicles are common in the settlements, starships are a rare commodity. Having no central world government, the different communities govern themselves as they like. There is some trade between groups, and each year a ship or two quietly visits nearby systems to purchase supplies, parts, and vehicles, and to check in on galactic events.</Description>
     <Source Page="114">Nexus of Power</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
@@ -460,7 +436,7 @@ mountain ranges, warm seas, lush forests, and long beaches. It has few hostile n
     <Name>Location: Devaron</Name>
     <Description>
       [H4]Location: Devaron[h4]
-Devaron is home to one of the galaxy’s . oldest spacefaring species, the Devaronians. Despite its long history in the exploration and development of the galaxy, the world remains relatively sparsely populated. Though it has some urbanized and industrial areas that have been active since the days of the Republic, much of Devaron is still untamed wilderness. While this is partly due to the rugged jungles that cover the low mountainous terrain and strikingly deep valleys, it is also a result of Devaronian cultural norms. Devaronians prefer to preserve the wild spaces of their homeworld, and Devaronian males tend to exhibit elements of wanderlust (which in the modern era also means the do a great deal of exploring the wider galaxy). Female Devaronians, on the other hand, prefer to build and maintain stable societies both on- and off-world (although this does not impact their enjoyment of the Devaronian wilderness).
+Devaron is home to one of the galaxy’s oldest spacefaring species, the Devaronians. Despite its long history in the exploration and development of the galaxy, the world remains relatively sparsely populated. Though it has some urbanized and industrial areas that have been active since the days of the Republic, much of Devaron is still untamed wilderness. While this is partly due to the rugged jungles that cover the low mountainous terrain and strikingly deep valleys, it is also a result of Devaronian cultural norms. Devaronians prefer to preserve the wild spaces of their homeworld, and Devaronian males tend to exhibit elements of wanderlust (which in the modern era also means the do a great deal of exploring the wider galaxy). Female Devaronians, on the other hand, prefer to build and maintain stable societies both on- and off-world (although this does not impact their enjoyment of the Devaronian wilderness).
 Devaron’s dense jungles are dominated by monstrously thick vines growing in a great tangle across the landscape. They provide undulating walkways, forming high arches over the jungle that plunge back into the deep-green thicket of vegetation, sometimes bridging surprisingly large landforms such as hills and valleys. Natural shelters, the tangles offer a multitude of places for animals to live and lurk in.
 [P]Devaronian cities usually feature low structures built on cleared ground or amid some of the less dense vegetation. Most are located in mountainous terrain. They provide the technical and industrial needs of a modern society, but development is strictly controlled by the government and largely restrained to what Devaronian society requires. Devaron is largely a subsistence world, exporting very little,
 and concentrating imports on goods difficult to create or obtain on the planet.
@@ -496,7 +472,7 @@ ships entering and leaving than they do in most other star systems. Acquiring a 
       [H4]Location: Lothal[h4]
 Lothal is a relatively nondescript, sparsely populated frontier world located in the Outer Rim. Lothal system is a small, primarily terrestrial world of broad rolling prairies and vast savannahs punctuated by tall, conical rock formations. A number of long, low mountain ranges crisscross the planet, and a handful of shallow freshwater seas provide ample water and homes for a variety of aquatic flora and fauna.
 [P]Lothal’s plains are dotted with spires of striped, layered rock, which make for a distinctive site rising out of the seas of golden grass. The size of these rocks varies from a few meters to dozens of meters tall. In places, the rock formations cluster together, creating tangled mazes of canyons and ravines between each of the conical spires. Despite local (and now Imperial) efforts, some of these rock formations end up as hideouts for criminals, smugglers, and even Rebel sympathizers.
-[P]Although the planet has been settled for some time, the only major metropolitan center is the literally named Capital City. Most the population is scattered among a host of farming communities and small towns all across the prairies and savannahs that stretch across the interior of Lothal’s continents.
+[P]Although the planet has been settled for some time, the only major metropolitan center is the literally named Capital City. Most of the population is scattered among a host of farming communities and small towns all across the prairies and savannahs that stretch across the interior of Lothal’s continents.
 [P]For much of its history, Lothal has been an agricultural world, exporting grain-based foodstuffs, nerf-meat, and leather products to its galactic neighbors. However, ever since the Empire has taken control of Lothal, it has begun introducing various heavy industries to the planet. Now Lothal helps produce starships and their components, including TIE fighters to help reinforce the Empire’s war machine.</Description>
     <Source Page="114">Nexus of Power</Source>
     <Custom>DescOnly</Custom>
@@ -513,8 +489,7 @@ Lothal is a relatively nondescript, sparsely populated frontier world located in
       [H4]Location: Naboo[h4]
 Naboo is a wealthy, cultured world located in the Mid Rim Territories. The capital world of the Chommell sector, Naboo was a member of the Galactic Senate for nearly a thousand years, until the Senate was disbanded by Emperor Palpatine. In that time, this civic-minded world turned out a number of well-respected legislators who worked tirelessly to improve the lot not only of their homeworld, but of the galaxy at large.
 [P]The third planet of the Naboo system, Naboo orbits a healthy, main sequence yellow star that is also named Naboo. Three small moons—Ohma-D’un, Rori, and a nameless mass that is little more than an overgrown asteroid—house small colonies as well as a handful of offworld and orbital shipyards and factories. Naboo is a geological oddity, with a planetary makeup that defies scientific classification. On the surface, it seems a commonplace world, if one blessed with an overabundance of natural beauty. Naboo’s geography is a mix of grassy plains, lakes, rivers, and low hills, with some small mountain ranges. Beneath Naboo’s surface, however, the planet is anything but common.
-[P]Naboo’s core is a massive, seething ball of molten matter classified by scientists long ago as plasma. This plasmic core surrounds a small, exceedingly dense solid core composed of common ores. Throughout the
-countless millennia of the planet’s existence, the volatile plasma has eaten away at the planet’s substance, honeycombing the world with labyrinths of tunnels, vents, and chambers. Over time, these abyssal labyrinths filled with seawater, leading to the formation of vast underground oceans and rivers. As a result, Naboo is essentially hollow, with a thin crust covering a planetwide network of waterways. These waterways were extensively mapped long ago by the aquatic Gungans, who use the tunnels to travel undetected to and from virtually any point on the planet’s surface. It is rumored that insurgent cells operate in the subsurface labyrinths, striking wherever they like and retreating deep underground, where they are safe from Imperial reprisals.</Description>
+[P]Naboo’s core is a massive, seething ball of molten matter classified by scientists long ago as plasma. This plasmic core surrounds a small, exceedingly dense solid core composed of common ores. Throughout the countless millennia of the planet’s existence, the volatile plasma has eaten away at the planet’s substance, honeycombing the world with labyrinths of tunnels, vents, and chambers. Over time, these abyssal labyrinths filled with seawater, leading to the formation of vast underground oceans and rivers. As a result, Naboo is essentially hollow, with a thin crust covering a planetwide network of waterways. These waterways were extensively mapped long ago by the aquatic Gungans, who use the tunnels to travel undetected to and from virtually any point on the planet’s surface. It is rumored that insurgent cells operate in the subsurface labyrinths, striking wherever they like and retreating deep underground, where they are safe from Imperial reprisals.</Description>
     <Source Page="114">Nexus of Power</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
@@ -531,8 +506,7 @@ countless millennia of the planet’s existence, the volatile plasma has eaten a
 An ancient world that legend suggests is tied to the origins of the Jedi, Ossus has long been sought by treasure hunters and academics. The Qel-Droma Epics claim Ossus was a Jedi retreat and knowledge repository, decimated when Sith Lord Naga Sadow triggered stars in the nearby Cron Cluster to become supernovae. Death and destruction washed over Ossus, leaving a barren and scarred world.
 [P]The Cron Drift asteroid field is an astronomically new feature to the Auril sector, estimated to have occurred thousands of years ago, and the powerful gravitational fluctuations within it make it nearly impossible to traverse. The danger hasn’t stopped thrill-seekers from trying to find a way through the drift. Thousands of expeditions for Ossus have departed and never returned, presumably suffering some catastrophic hyperspace mishap in the Cron Drift. However, others swear they have reached Ossus, presenting astrogation charts and recovered artifacts as proof, though almost none have stood up to basic academic scrutiny. Nonetheless, scoundrels along the Perlemian Trade Route near the Cron Drift prey on the naive and desperate by selling forged star charts and artifacts.
 [P]The Imperials have no official stance on the veracity of Ossus’s existence, but the Imperial Navy actively restricts traffic to the Cron Drift, and it has hyperspace checkpoints at the best jump points from the Perlemian Trade Route. Less patrolled, however, are the nearby Salin Corridor and Tion Cluster, where an entire cottage industry supporting treasure hunters exists on worlds like Belderone and Foran Tutha.
-[P]Legends tell of Jedi survivors who hid deep within the caves of the Eocho Mountains, and of their Force-sensitive descendants, the Ysanna. According to these accounts, the planet is still recovering, and powerful lightning storms
-ravage the surface. Force-sensitive shamans among the Ysanna, known as storm shepherds, have learned to predict the lighting storms, allowing their tribes to return to the surface to grow food.</Description>
+[P]Legends tell of Jedi survivors who hid deep within the caves of the Eocho Mountains, and of their Force-sensitive descendants, the Ysanna. According to these accounts, the planet is still recovering, and powerful lightning storms ravage the surface. Force-sensitive shamans among the Ysanna, known as storm shepherds, have learned to predict the lighting storms, allowing their tribes to return to the surface to grow food.</Description>
     <Source Page="114">Nexus of Power</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
@@ -561,7 +535,6 @@ Weik is a fierce and untamed wilderness world, located in Wild Space far from es
     <Key>MYSTERY</Key>
     <Name>Mysteries</Name>
     <Description>[H4]Mysteries[h4]
-
 Any being can be motivated by their ambition or a cause, but a Mystic tends to be deeply interested in the most fundamental mysteries of their universe. They want to understand their world on a profound, even instinctual level, and often eschew worldly things for such knowledge. Sometimes they seek answers to these mysteries for personal growth and enlightenment. Sometimes they seek them for power. And sometimes, as they seek one, they find the other as well.</Description>
     <Source Page="34">Unlimited Power</Source>
     <Custom>DescOnly</Custom>
@@ -607,7 +580,7 @@ Any being can be motivated by their ambition or a cause, but a Mystic tends to b
     <Description>
       [H4]Pursuit[h4]
 Seekers are often driven individuals and their Motivations might dominate their desires and goals. These goals can be as common as Wealth or Happiness; or more specific such as Vengeance, or ongoing ones such as Exploration. Pursuits can help Seekers to improve themselves as well, becoming better in dealing death or connecting to the Force. Players can use Pursuits to guide and strengthen the narrative gameplay for their Seeker characters.
-[P]During character creation, players can choose the Motivation that fits their character, or they can roll randomly for one. To choose randomly from the expanded list, they first roll on [B]Table 1-2: Random Seeker Motivation[b] instead of using the corresponding [B]Table 2-3: Random Motivation[b] from page 105 of the [B]Force and Destiny[b] Core Rulebook. Player who roll Pursuit then roll again [B]Table 1-3: Specific Pursuits[b] to determine which Pursuit the appropriate table in the [B]Force and Destiny[b] Core Rulebook for the catagory rolled.</Description>
+[P]During character creation, players can choose the Motivation that fits their character, or they can roll randomly for one. To choose randomly from the expanded list, they first roll on [B]Table 1-2: Random Seeker Motivation[b] instead of using the corresponding [B]Table 2-3: Random Motivation[b] from page 105 of the [B]Force and Destiny[b] Core Rulebook. Players who roll Pursuit then roll again [B]Table 1-3: Specific Pursuits[b] to determine which Pursuit the appropriate table in the [B]Force and Destiny[b] Core Rulebook for the category rolled.</Description>
     <Source Page="32">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
@@ -628,8 +601,7 @@ Seekers are often driven individuals and their Motivations might dominate their 
     <Name>Quest</Name>
     <Description>
       [H4]Quest[h4]
-
-A Player Character with this type of Motivation seeks something specific from his participation in the Rebel-lion. He joined as a means to complete his Quest, and he believes that serving the Alliance or defeating the Empire will result in the achievement of his ultimate goal. Some Quests have a specific object or person that is the target, while others are more open-ended and may never be fully complete. The quest might be the primary drive for the PC, yet he could also come to embrace the larger goals of the Rebellion as equally important, or perhaps ascendant over his own needs. </Description>
+A Player Character with this type of Motivation seeks something specific from his participation in the Rebel-lion. He joined as a means to complete his Quest, and he believes that serving the Alliance or defeating the Empire will result in the achievement of his ultimate goal. Some Quests have a specific object or person that is the target, while others are more open-ended and may never be fully complete. The quest might be the primary drive for the PC, yet he could also come to embrace the larger goals of the Rebellion as equally important, or perhaps ascendant over his own needs.</Description>
     <Source Page="106">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
@@ -647,12 +619,10 @@ A Player Character with this type of Motivation seeks something specific from hi
       <Key>QUESITH</Key>
     </SpecificMotivations>
   </Motivation>
-
   <Motivation>
     <Key>REL</Key>
     <Name>Relationship</Name>
     <Description>[H4]Relationship[h4]
-
 This Motivation focuses on a character's relationship with a specific person, creature, or even place. The relationship could be loving, respectful, and nurturing or antagonistic, competitive, or one-sided. The character looks out for the subject's best interests and will set aside his own needs to help when needed. This Motivation could be deeply personal or highly public.</Description>
     <Source Page="96">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -678,11 +648,8 @@ This Motivation focuses on a character's relationship with a specific person, cr
     <Name>Reward</Name>
     <Description>
       [H4]Reward[h4]
-
 Smugglers come in all shapes, sizes, colors, and creeds, but something they all have in common is the need for a Reward. It is in the nature of the job; the Smuggler moves the goods, and then he gets paid. The Reward is what drives him to risk his neck, transporting volatile cargo for dangerous people, dodging Imperial interference, and avoiding other trouble. A Smuggler's life keeps him on the edge of his seat, always one slip away from capture or worse. It's not an easy life, and he's only in it for the Reward.
-
-[P]Of course, smuggling jobs are rarely as simple as they first seem, and neither are the people who choose such an unpredictable career. The Smuggler's real motivation, the Reward he really wants, may not be as straightforward as monetary payment. He might wish to earn respect or help his family, or perhaps he finds excitement of the job its own reward. Any Smuggler needs to receive payment occasionally—he has to keep his ship space-worthy somehow after all—but often there is another, equally pressing goal driving all he does. From the Pilot who wants to break the record for the fastest ship to win the Blockade Runner's Derby to the Charmer who just wants to meet new people to the Gambler who genuinely is only in it for the money, the particular Reward that drives a Smuggler reveals a lot about his character.
-
+[P]Of course, smuggling jobs are rarely as simple as they first seem, and neither are the people who choose such an unpredictable career. The Smuggler's real motivation, the Reward he really wants, may not be as straightforward as monetary payment. He might wish to earn respect or help his family, or perhaps he finds the excitement of the job its own reward. Any Smuggler needs to receive payment occasionally—he has to keep his ship space-worthy somehow after all—but often there is another, equally pressing goal driving all he does. From the Pilot who wants to break the record for the fastest ship to win the Blockade Runner's Derby to the Charmer who just wants to meet new people to the Gambler who genuinely is only in it for the money, the particular Reward that drives a Smuggler reveals a lot about his character.
 [P]The Smuggler's Motivation can also cast a new light on his background, and it plays a part in deter-mining how he might interact with others in a party. A Smuggler motivated by Independence may not like relying on other characters and find making group decisions difficult. On the other hand, a Smuggler motivated by Esteem will likely go out of his way to help his colleagues.</Description>
     <Source Page="34">Fly Casual</Source>
     <Custom>DescOnly</Custom>
