@@ -11,8 +11,7 @@
   <Talent>
     <Key>ACKLAYSCST</Key>
     <Name>Acklay's Scything Strike</Name>
-    <Description>Brawl attacks gain Pierce equal to Force rating.
-</Description>
+    <Description>Brawl attacks gain Pierce equal to Force rating.</Description>
     <Sources>
       <Source Page="30">Knights of Fate</Source>
     </Sources>
@@ -39,7 +38,7 @@
   <Talent>
     <Key>ADAPT</Key>
     <Name>Adaptable</Name>
-    <Description>When resolving a check that uses a skill in which they nave no ranks, the character may spend one Destiny Point to remove [DE] from the check or to remove [TH] equal to their ranks in Cool from the check.</Description>
+    <Description>When resolving a check that uses a skill in which they have no ranks, the character may spend one Destiny Point to remove [DE] from the check hr to remove [TH] equal to their ranks in Cool from the check.</Description>
     <Sources>
       <Source Page="37">Rise of the Separatists</Source>
     </Sources>
@@ -2056,7 +2055,7 @@
   <Talent>
     <Key>FIRSTBRO</Key>
     <Name>First Among Brothers</Name>
-    <Description>When the character makes a check that does not result in any uncanceled [TH], add [AD] equal to the character's ranks in First Among Brothers to the check results. The character may only spend theseadditional [AD] to affect allied clones.</Description>
+    <Description>When the character makes a check that does not result in any uncanceled [TH], add [AD] equal to the character's ranks in First Among Brothers to the check results. The character may only spend these additional [AD] to affect allied clones.</Description>
     <Sources>
       <Source Page="39">Rise of the Separatists</Source>
     </Sources>
@@ -2221,7 +2220,7 @@
   <Talent>
     <Key>FORREP</Key>
     <Name>For the Republic!</Name>
-    <Description>Once per encounter when an ally is incapacitated or killed, the character may perform the For the Republic! incidental. The character makes a [B]Daunting ([DI][DI][DI][DI]) Leadership check.[b] If the check succeeds, the ally is not incapacitated or killed until the end of the following round, instead. If the character's wounds or strain are reduced below their threshold before theend of the next round, they are not incapacitated.</Description>
+    <Description>Once per encounter when an ally is incapacitated or killed, the character may perform the For the Republic! incidental. The character makes a [B]Daunting ([DI][DI][DI][DI]) Leadership check.[b] If the check succeeds, the ally is not incapacitated or killed until the end of the following round, instead. If the character's wounds or strain are reduced below their threshold before the end of the next round, they are not incapacitated.</Description>
     <Sources>
       <Source Page="39">Rise of the Separatists</Source>
     </Sources>
@@ -2310,7 +2309,7 @@
   <Talent>
     <Key>FULLTHIMP</Key>
     <Name>Full Throttle (Improved)</Name>
-    <Description>Suffer 1 strain to attempt Full Throttle as a maneuver and decrease its difficultly to [B]Average ([DI][DI])[b].</Description>
+    <Description>Suffer 1 strain to attempt Full Throttle as a maneuver and decrease its difficulty to [B]Average ([DI][DI])[b].</Description>
     <Sources>
       <Source Page="136">Edge of the Empire Core Rulebook</Source>
       <Source Page="148">Age of Rebellion Core Rulebook</Source>
@@ -3124,7 +3123,7 @@
   <Talent>
     <Key>INTUITSHOT</Key>
     <Name>Intuitive Shot</Name>
-    <Description>When aimng a Ranged (Heavy) or Range (Light) combat check, add [FO] no greater than Force rating to the check. May spend [FP] to add [SU] or [AD].</Description>
+    <Description>When aiming a Ranged (Heavy) or Range (Light) combat check, add [FO] no greater than Force rating to the check. May spend [FP] to add [SU] or [AD].</Description>
     <Source Page="145">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -3376,7 +3375,7 @@
   <Talent>
     <Key>KNOWROPES</Key>
     <Name>Knows the Ropes</Name>
-    <Description>Add [BO] to checks made to escape from restraints equal to ranks in Knowledge (Underworld). Spend [TR] to free all other allies withing short range.</Description>
+    <Description>Add [BO] to checks made to escape from restraints equal to ranks in Knowledge (Underworld). Spend [TR] to free all other allies within short range.</Description>
     <Source Page="113">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -4368,7 +4367,7 @@
   <Talent>
     <Key>ORDSAT</Key>
     <Name>Ordnance Saturation</Name>
-    <Description>When the character or an ally who is currently benefiting from On My Order or Fire When Ready activates the Blast quality of a planetary-scale weapon, all ships or vehicles within close range of the target suffer damage equal to the weapon's Blast quality (plus 1 peradditional [SU] as usual).</Description>
+    <Description>When the character or an ally who is currently benefiting from On My Order or Fire When Ready activates the Blast quality of a planetary-scale weapon, all ships or vehicles within close range of the target suffer damage equal to the weapon's Blast quality (plus 1 per additional [SU] as usual).</Description>
     <Sources>
       <Source Page="41">Rise of the Separatists</Source>
     </Sources>
@@ -4786,7 +4785,7 @@
   <Talent>
     <Key>PREPBOARD</Key>
     <Name>Prepare to be Boarded!</Name>
-    <Description>Once per encounter may take Prepare to be Boarded! action and make [B]opposed Coercion vs. Discipline check[b] against enemy ship captain. If successful, the enemy suffers 1 strain per uncanceled [SU] and surrenders ship if he exceeds strain threshold. May also spend [TR] or [AD][AD][AD][AD] to inflict strain equal to ranks in Coercion.</Description>
+    <Description>Once per encounter may take Prepare to be Boarded! action and make [B]opposed Coercion vs. Discipline check[b] against enemy ship captain. If successful, the enemy suffers 1 strain per uncancelled [SU] and surrenders ship if he exceeds strain threshold. May also spend [TR] or [AD][AD][AD][AD] to inflict strain equal to ranks in Coercion.</Description>
     <Source Page="115">Dawn of Rebellion</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
@@ -6978,6 +6977,7 @@
       <Source Page="159">Age of Rebellion Core Rulebook</Source>
       <Source Page="33">Fly Casual</Source>
     </Sources>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
 </Talents>
