@@ -1,12 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Talents>
   <Talent>
     <Key>AAO</Key>
     <Name>Against All Odds</Name>
     <Description>When incapacitated, perform Against All Odds action, making [B]Hard ([DI][DI][DI]) Resilience check[b] with [FO] equal to Force rating. Heal wounds equal to [SU], spend [FP] to add [SU].</Description>
     <Source Page="138">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -19,7 +17,6 @@
       <Source Page="30">Knights of Fate</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <ItemChanges>
@@ -47,7 +44,6 @@
       <Source Page="37">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -71,7 +67,6 @@
       <Source Page="28">Disciples of Harmony</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -96,7 +91,6 @@
       <Source Page="34">No Disintegrations</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -113,7 +107,6 @@
     <Description>Once per round while benefiting from cover, may make the Ambush maneuver. Add damage equal to Stealth skill to one hit of next successful combat check against a target within short range before the end of the turn.</Description>
     <Source Page="34">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -124,7 +117,6 @@
       <Source Page="30">Cyphers and Masks</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -136,7 +128,6 @@
       <Source Page="142">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -145,7 +136,6 @@
     <Description>Develop long-term bond with single animal of silhouette no greater than half Force rating rounded down.</Description>
     <Source Page="138">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -155,7 +145,6 @@
     <Description>When spending a maneuver to direct a bonded animal, the character may suffer 1 strain to add [BO] to the animals next check.</Description>
     <Source Page="30">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -165,7 +154,6 @@
     <Description>When making checks to handle or tame animals, add [FO] no greater than Force rating to the check. Spend [FP] to add [SU] or [AD] to the check.</Description>
     <Source Page="139">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -177,7 +165,6 @@
       <Source Page="37">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -190,7 +177,6 @@
       <Source Page="37">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <Attributes>
       <SoakValue>1</SoakValue>
@@ -209,7 +195,6 @@
       <Source Page="37">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <Attributes>
       <DefenseRanged>1</DefenseRanged>
@@ -226,7 +211,6 @@
     <Description>Once per round, when the character suffers a Critical Injury, he may suffer 3 strain to take the Armor Master incidental. If he does he reduces the Critical Injury result that he suffers by 10 per point of his soak, to a minimum of 1.</Description>
     <Source Page="30">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -245,7 +229,6 @@
       <Source Page="37">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -256,7 +239,6 @@
       <Source Page="30">Cyphers and Masks</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -265,7 +247,6 @@
     <Description>When making a check using the Lightsaber skill, the character may use Agility instead of Brawn.</Description>
     <Source Page="139">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <SkillChars>
@@ -291,7 +272,6 @@
       <Source Page="37">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -327,7 +307,6 @@
       <Source Page="143">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -336,7 +315,6 @@
     <Description>Once per session, choose an organization and make a [B]Hard ([DI][DI][DI]) Deception check[b]. On success, organization members have their wound thresholds reduced by 1, plus 1 per [SU][SU][SU], until the end of the session.</Description>
     <Source Page="32">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -348,7 +326,6 @@
       <Source Page="143">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -358,7 +335,6 @@
     <Description>When targeted by combat check from within medium range, may spend a Destiny Point to upgrade the difficulty of the check a number of times equal to ranks in Coercion.</Description>
     <Source Page="30">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <Conflict>1</Conflict>
@@ -383,7 +359,6 @@
       <Source Page="37">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -394,7 +369,6 @@
       <Source Page="37">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -405,7 +379,6 @@
       <Source Page="37">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -414,7 +387,6 @@
     <Description>Brawl and Ranged (Light) become career skills.</Description>
     <Source Page="143">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <NewSkills>
@@ -440,7 +412,6 @@
       <Source Page="37">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -450,7 +421,6 @@
     <Description>Take a Better Luck Next Time action; make a [B]Hard([DI][DI][DI]) Cool check[b] to force a competitor to suffer a major misfortune.</Description>
     <Source Page="30">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -459,7 +429,6 @@
     <Description>Once per session, may take a Biggest Fan action; make a [B]Hard ([DI][DI][DI]) Charm check[b] to turn one NPC into the character's biggest fan.</Description>
     <Source Page="32">Far Horizons</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -477,7 +446,6 @@
     <Description>When an NPC exceeds his strain threshold, may spend 1 Destiny Point to convince that NPC to perform a single task of choice instead.</Description>
     <Source Page="32">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -497,7 +465,6 @@
       <Source Page="34">Forged in Battle</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -521,7 +488,6 @@
       <Source Page="32">Unlimited Power</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -546,7 +512,6 @@
       <Source Page="34">Forged in Battle</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -557,7 +522,6 @@
       <Source Page="34">Forged in Battle</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -586,7 +550,6 @@
       <Source Page="34">No Disintegrations</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -619,7 +582,6 @@
       <Source Page="38">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -630,7 +592,6 @@
       <Source Page="38">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -642,7 +603,6 @@
       <Source Page="144">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -651,7 +611,6 @@
     <Description>Once per attack, spend 1 Destiny Point to add damage to a single hit equal to target's Brawn value.</Description>
     <Source Page="30">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -705,7 +664,6 @@
     <Description>Do not add [SE] to combat checks due to the use of the Aim maneuver.</Description>
     <Source Page="32">Fly Casual</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -714,7 +672,6 @@
     <Description>When an opponent targets character with a Force power, reduce [FP] generated by 1.</Description>
     <Source Page="140">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -724,7 +681,6 @@
     <Description>Spend a maneuver and suffer 2 strain to extend Calming Aura's effects to allies equal to Willpower at short range until start of next turn.</Description>
     <Source Page="140">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -734,7 +690,6 @@
     <Description>May use ranks in Cool to upgrade Mass Combat checks instead of ranks in Leadership.</Description>
     <Source Page="33">Lead by Example</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -746,7 +701,6 @@
       <Source Page="38">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -765,7 +719,6 @@
     <Description>Suffer 1 strain to perform Center of Being maneuver as an incidental.</Description>
     <Source Page="140">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -800,7 +753,6 @@
       <Source Page="38">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -829,7 +781,6 @@
     <Description>May use ranks in Knowledge (Warfare) to upgrade Mass Combat checks instead of ranks in Leadership.</Description>
     <Source Page="33">Lead by Example</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -842,7 +793,6 @@
       <Source Page="30">Endless Vigil</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -893,7 +843,6 @@
       <Source Page="30">Fully Operational</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -944,7 +893,6 @@
     <Description>Once per session, may take Commanding Presence action; make an opposed [B]Cool vs. Discipline[b] check to force target to leave the encounter.</Description>
     <Source Page="33">Lead by Example</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -953,7 +901,6 @@
     <Description>Take Comprehend Technology action; make an [B]Average ([DI][DI]) Knowledge (Education) check[b] to use Force rating as ranks in skills to use a single item.</Description>
     <Source Page="141">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -965,7 +912,6 @@
       <Source Page="38">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -976,7 +922,6 @@
       <Source Page="38">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -1020,7 +965,6 @@
     <Description>My spend [TR] on a fear check to steady the nerves of other allies making the same fear check. If the character does so, each ally within short range who makes the fear check adds automatic [SU] equal to the character's ranks in Confidence to the results of the check.</Description>
     <Source Page="33">Lead by Example</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1054,7 +998,6 @@
     <Description>May always use Vigilance when making checks to determine initiative.</Description>
     <Source Page="30">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1067,7 +1010,6 @@
       <Source Page="38">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -1079,7 +1021,6 @@
       <Source Page="141">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -1125,7 +1066,6 @@
       <Source Page="34">No Disintegrations</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -1134,7 +1074,6 @@
     <Description>Take a Corellian Sendoff action targeting two ships or vehicles at Close range; make a [B]Hard ([DI][DI][DI]) Cool check[b] to cause the targets to suffer a minor collision.</Description>
     <Source Page="32">Stay on Target</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -1143,7 +1082,6 @@
     <Description>When performing a Corellian Sendoff, the targets suffer a major collision instead.</Description>
     <Source Page="32">Stay on Target</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1152,7 +1090,6 @@
     <Description>When an attack misses the character and generates [DE] or [TH][TH], may upgrade next Lightsaber (Cunning) check against attacker during encounter once.</Description>
     <Source Page="141">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -1182,7 +1119,6 @@
     <Description>Reduce the crit rating of improvised weapons by 2 (to a minimum of 1).</Description>
     <Source Page="145">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1195,7 +1131,6 @@
       <Source Page="141">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -1225,7 +1160,6 @@
       <Source Page="30">Cyphers and Masks</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -1234,7 +1168,6 @@
     <Description>Once per encounter as an action, may create a trap. Any other character who moves to engaged range of the trap must make an [B]Opposed Vigilance vs. Survival check[b] to avoid harm and ill effects.</Description>
     <Source Page="34">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -1260,7 +1193,6 @@
     <Description>May add 2 additional hard points to Signature Vehicles.</Description>
     <Source Page="34">Special Modifications</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <Rigger>
       <BaseMods>
@@ -1277,7 +1209,6 @@
     <Description>Once per encounter, when making a Coercion skill check, the character may use Deception skill instead.</Description>
     <Source Page="33">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -1298,7 +1229,6 @@
       <Source Page="145">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -1329,7 +1259,6 @@
       <Source Page="145">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -1338,7 +1267,6 @@
     <Description>After making a successful attack with a non-starship/vehicle weapon, the character may spend one Destiny Point to add damage equal to his Willpower to one hit of the successful attack.</Description>
     <Source Page="30">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1347,7 +1275,6 @@
     <Description>Once per session, may make Deceptive Taunt action. Make opposed Deception check. If successful, one adversary must attack the character during adversary's next turn.</Description>
     <Source Page="32">Far Horizons</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -1374,7 +1301,6 @@
     <Description>May take the Defensive Circle action, making a [B]Hard ([DI][DI][DI]) Lightsaber (Intellect) check[b]. The character, plus one ally within short range per [SU], gains X defense until the beginning of next turn. X equals 1, plus 1 per [AD][AD].</Description>
     <Source Page="141">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -1416,7 +1342,6 @@
       <Source Page="145">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1476,7 +1401,6 @@
       <Source Page="34">No Disintegrations</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -1498,7 +1422,6 @@
       <Source Page="30">Fully Operational</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -1541,7 +1464,6 @@
     <Description>The Distracting Behavior maneuver inflicts [TH][TH] on NPC's checks when NPC's target character's allies.</Description>
     <Source Page="33">Far Horizons</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1559,7 +1481,6 @@
     <Description>Once per encounter, take the Discredit action, make a [B]Hard ([DI][DI][DI]) Deception check[b] to upgrade the difficulty of one character's social checks once, plus once for every [AD][AD], until of the encounter.</Description>
     <Source Page="33">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -1589,7 +1510,6 @@
     <Description>Perform Disruptive Strike action; make a Lightsaber (Cunning) combat check, adding [FO] no greater than Force rating. Spend [FP] to add [FA] to the next combat check the target makes.</Description>
     <Source Page="142">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -1607,7 +1527,6 @@
     <Description>After using Reflect, may spend 1 Destiny Point to perform Move maneuver as out-of-turn incidental to close distance with or engage opponent.</Description>
     <Source Page="142">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -1643,7 +1562,6 @@
       <Source Page="30">Knights of Fate</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -1652,7 +1570,6 @@
     <Description>Once per session as an action, make a [B]Hard ([DI][DI][DI]) Charm check[b]. On a success, cannot be target of combat checks until the end of the encounter or until making a combat check.</Description>
     <Source Page="32">Fly Casual</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -1661,7 +1578,6 @@
     <Description>Suffer 2 strain to perform the Double or Nothing incidental to increase the difficulty of the next check by one. Then, after canceling opposing symbols, double the amount of remaining [AD]</Description>
     <Source Page="32">Fly Casual</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1670,7 +1586,6 @@
     <Description>When performing the Double or Nothing incidental, after canceling opposing symbols, also double the amount of remaining [SU].</Description>
     <Source Page="32">Fly Casual</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1679,7 +1594,6 @@
     <Description>When performing the Double or Nothing incidental, also double the number of [TR] and [DE].</Description>
     <Source Page="32">Fly Casual</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1696,7 +1610,6 @@
     <Description>Perform Draw Closer action; make a Lightsaber (Willpower) combat check against one silhouette 1 target within medium range, adding [FO] no greater than Force rating to check. Spend [FP] to move target one range band closer or to add [SU] to check.</Description>
     <Source Page="142">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -1706,7 +1619,6 @@
     <Description>The Inquisitor may spend [TR] or [AD][AD][AD] on a missed Brawl, Melee, or Lightsaber combat check to force target to make a move maneuver in a direction of the Inquisitor's choice.</Description>
     <Source Page="419">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1731,7 +1643,6 @@
     <Description>Add [BO] to Melee and Lightsaber checks when engaged with only one opponent.</Description>
     <Source Page="142">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1753,7 +1664,6 @@
     <Description>When making a ranged attack while engaged with an opponent, may suffer 2 strain to reduce the ranged modifier by 1.</Description>
     <Source Page="146">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -1776,7 +1686,6 @@
       <Source Page="28">Disciples of Harmony</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -1786,7 +1695,6 @@
     <Description>Upgrade the difficulty of checks to decrypt this character's coded messages without the proper cipher a number of times equal to Computers skill.</Description>
     <Source Page="33">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1798,7 +1706,6 @@
       <Source Page="28">Disciples of Harmony</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -1831,7 +1738,6 @@
     <Description>May suffer 1 strain to use the Energy Transfer maneuver to power up an unpowered device or replenish exhausted ammunition for an energy weapon.</Description>
     <Source Page="34">Special Modifications</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -1840,7 +1746,6 @@
     <Description>Gain the ability to use emergency repair patches to heal. Additionally, can be healed with Mechanics checks.</Description>
     <Source Page="34">Special Modifications</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1849,7 +1754,6 @@
     <Description>When making a Leadership check, add [FO] no greater than Force rating. Spend [FP] to add [SU] or [AD] to the result.</Description>
     <Source Page="142">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <DieModifiers>
@@ -1865,7 +1769,6 @@
     <Description>When making a non-Gunnery combat check, the character may add [FO] no greater than his Force rating to the check. The character may spend [FP] to add [AD] or [FP][FP][FP] to add [TR] (character's choice) to the result.</Description>
     <Source Page="30">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -1877,7 +1780,6 @@
       <Source Page="39">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -1888,7 +1790,6 @@
       <Source Page="39">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1899,7 +1800,6 @@
       <Source Page="39">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -1928,7 +1828,6 @@
       <Source Page="30">Cyphers and Masks</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -1940,7 +1839,6 @@
       <Source Page="142">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -1982,7 +1880,6 @@
     <Description>Suffer 2 strain to add damage equal to Brawn to next Lightsaber combat check made that turn.</Description>
     <Source Page="142">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -2003,7 +1900,6 @@
       <Source Page="146">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -2015,7 +1911,6 @@
       <Source Page="34">Special Modifications</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -2051,7 +1946,6 @@
     <Description>Perform the Fear the Shadows action: make a [B]Hard ([DI][DI][DI]) Deception check[b] to force a single minion group or rival to flee the encounter.</Description>
     <Source Page="30">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <Conflict>1</Conflict>
@@ -2136,7 +2030,6 @@
     <Description>Take the Fire Control action; all combat checks made from current starship or vehicle count their target's silhouette as one higher than normal until the beginning of next turn. Does not stack.</Description>
     <Source Page="147">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -2147,7 +2040,6 @@
       <Source Page="39">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -2182,7 +2074,6 @@
       <Source Page="101">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -2195,7 +2086,6 @@
       <Source Page="143">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -2215,7 +2105,6 @@
       <Source Page="32">Unlimited Power</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -2229,7 +2118,6 @@
       <Source Page="147">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -2238,7 +2126,6 @@
     <Description>Once per session, may suffer 2 strain to perform Force power action as maneuver.</Description>
     <Source Page="153">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -2248,7 +2135,6 @@
     <Description>Spend [TR] or [AD][AD][AD] on a missed Lightsaber (Willpower) combat check to immediately perform Move Force power action as maneuver.</Description>
     <Source Page="143">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -2258,7 +2144,6 @@
     <Description>When the character performs a Survival or Knowledge(Xenology) skill check, he may roll [FO] no greater than his Force rating. The character may spend [FP] to add [SU] or [AD] (character's choice) to the result.</Description>
     <Source Page="30">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <DieModifiers>
@@ -2305,7 +2190,6 @@
     <Description>Once per session, make one skill check using Willpower rather than the characteristic linked to that skill.</Description>
     <Source Page="147">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2324,7 +2208,6 @@
     <Description>Allies equal to ranks in Leadership in close range gain the benefits of the Gain the Advantage action.</Description>
     <Source Page="147">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -2343,7 +2226,6 @@
       <Source Page="39">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -2352,7 +2234,6 @@
     <Description>Once per session as an incidental, suffer 2 strain to flip one dark side Destiny Point to light side.</Description>
     <Source Page="32">Fly Casual</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2381,7 +2262,6 @@
       <Source Page="30">Cyphers and Masks</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2390,7 +2270,6 @@
     <Description>Suffer 4 strain when making a move maneuver to move to any location within medium range.</Description>
     <Source Page="30">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2414,7 +2293,6 @@
       <Source Page="30">Enter the Unknown</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -2427,7 +2305,6 @@
       <Source Page="143">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -2440,7 +2317,6 @@
       <Source Page="30">Endless Vigil</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -2453,7 +2329,6 @@
       <Source Page="31">Endless Vigil</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -2515,7 +2390,6 @@
       <Source Page="28">Disciples of Harmony</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2527,7 +2401,6 @@
       <Source Page="34">No Disintegrations</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -2563,7 +2436,6 @@
       <Source Page="39">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -2573,7 +2445,6 @@
     <Description>As an incidental, suffer 2 Strain to avoid increasing the difficulty of a Ranged (Light) check to attack with two weapons.</Description>
     <Source Page="33">Fly Casual</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2582,7 +2453,6 @@
     <Description>Whenever the character's bonded animal makes a successful combat check against a target, it may forgo inflicting damage to upgrade the difficulty of the target's next check once instead.</Description>
     <Source Page="30">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -2618,7 +2488,6 @@
       <Source Page="30">Knights of Fate</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -2639,7 +2508,6 @@
       <Source Page="30">Knights of Fate</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2658,7 +2526,6 @@
     <Description>When healing wounds due to Healing Trance, make a Resilience check to heal a Critical Injury. Difficulty of the check equals severity of the Critical Injury.</Description>
     <Source Page="144">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -2671,7 +2538,6 @@
       <Source Page="35">Forged in Battle</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2684,7 +2550,6 @@
       <Source Page="145">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -2697,7 +2562,6 @@
       <Source Page="145">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2709,7 +2573,6 @@
       <Source Page="35">Forged in Battle</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2732,7 +2595,6 @@
       <Source Page="30">Cyphers and Masks</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -2753,7 +2615,6 @@
     <Description>Increase the difficulty of next Gunnery check by 1. If check deals damage, target starship or vehicle suffers system strain equal to speed when it moves until the end of the encounter..</Description>
     <Source Page="34">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2773,7 +2634,6 @@
       <Source Page="149">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2782,7 +2642,6 @@
     <Description>When making an Astrogation skill check, the character may spend one Destiny Point to remove [DE], or to remove [TH] equal to his ranks in Perception.</Description>
     <Source Page="30">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -2807,7 +2666,6 @@
       <Source Page="30">Savage Spirits</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -2820,7 +2678,6 @@
       <Source Page="30">Savage Spirits</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -2831,7 +2688,6 @@
       <Source Page="39">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -2884,7 +2740,6 @@
       <Source Page="32">Unlimited Power</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -2894,7 +2749,6 @@
     <Description>Take the Imbue Item maneuver; suffer 1 strain and commit [FO] to grant one weapon, piece of armor, or item an improvement while [FO] remains committed. Suffer 1 strain every round [FO] remains committed.</Description>
     <Source Page="145">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -2914,7 +2768,6 @@
       <Source Page="32">Unlimited Power</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -2926,7 +2779,6 @@
       <Source Page="30">Fully Operational</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -2938,7 +2790,6 @@
       <Source Page="30">Fully Operational</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -2947,7 +2798,6 @@
     <Description>Reduce the difficulty of Improvise Detonation to [B]Average ([DI][DI]) and increase damage to twice ranks in Mechanics.</Description>
     <Source Page="32">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -2964,7 +2814,6 @@
     <Description>Once per session, perform Impossible Fall incidental when falling: make Force power check and spend [FP][FP] to decrease fall by one range band and land somewhere safe. Spend [FP] to decrease distance by one additional range band.</Description>
     <Source Page="31">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -2976,7 +2825,6 @@
       <Source Page="31">Fully Operational</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -3006,7 +2854,6 @@
     <Description>Once per session, may take an Incite Rebellion action; make a [B]Hard ([DI][DI][DI]) Coercion check[b] to cause a number of beings up to ranks in Coercion to become rebellious until the end of the encounter.</Description>
     <Source Page="149">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -3017,7 +2864,6 @@
       <Source Page="30">Cyphers and Masks</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -3041,7 +2887,6 @@
       <Source Page="30">Cyphers and Masks</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -3052,7 +2897,6 @@
       <Source Page="30">Knights of Fate</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -3065,7 +2909,6 @@
       <Source Page="34">No Disintegrations</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3091,7 +2934,6 @@
     <Description>Once per session, make an [B]opposed Deception vs Vigilance[b] check with the difficulty downgraded once per rank of In the Know to have a target NPC believe specific false intelligence.</Description>
     <Source Page="33">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -3113,7 +2955,6 @@
       <Source Page="30">Cyphers and Masks</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -3124,7 +2965,6 @@
       <Source Page="31">Cyphers and Masks</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3136,7 +2976,6 @@
       <Source Page="149">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <ChooseCareerSkills>
@@ -3173,7 +3012,6 @@
       <Source Page="32">Unlimited Power</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -3186,7 +3024,6 @@
       <Source Page="32">Unlimited Power</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -3198,7 +3035,6 @@
       <Source Page="149">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3211,7 +3047,6 @@
       <Source Page="28">Disciples of Harmony</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -3224,7 +3059,6 @@
       <Source Page="145">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -3233,7 +3067,6 @@
     <Description>After another character makes a social check, suffer 3 strain to take an interjection incidental make an [B]Average ([DI][DI]) Vigilance check[b] to add [SU] or [FA] equal to [SU], and [AD] or [TH] equal to [AD] to the check.</Description>
     <Source Page="34">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -3265,7 +3098,6 @@
     <Description>When making check to craft or repair item, may add [FO] no greater than Force rating to check. Spend [FP][FP] to increase hard points by 1, to max of +2.</Description>
     <Source Page="145">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <HPPerItem>2</HPPerItem>
@@ -3276,7 +3108,6 @@
     <Description>When performing an Astrogation or Knowledge (Outer Rim) skill check, the character may roll [FO] no greater than his Force rating. The character may spend [FP] to ass [SU] or [AD] (character's choice) to the result.</Description>
     <Source Page="30">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <DieModifiers>
@@ -3296,7 +3127,6 @@
     <Description>When aimng a Ranged (Heavy) or Range (Light) combat check, add [FO] no greater than Force rating to the check. May spend [FP] to add [SU] or [AD].</Description>
     <Source Page="145">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <DieModifiers>
@@ -3316,7 +3146,6 @@
     <Description>When making a combat check with a planetary scale weapon, add [FO] no greater than Force rating to the check. Spend [FP][FP] to add [SU] or [AD].</Description>
     <Source Page="145">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -3339,7 +3168,6 @@
     <Description>Once per encounter, may add [FO] to a check using Brawn or Agility made by an ally in short range [LI] add [SU] and [DA] add [TH].</Description>
     <Source Page="150">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -3379,7 +3207,6 @@
       <Source Page="28">Disciples of Harmony</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -3388,7 +3215,6 @@
     <Description>Once per session when an ally would suffer a Critical Injury, may take an It's Not That Bad action; make a [B]Hard ([DI][DI][DI]) Medicine check[b] to stop the ally from gaining the Critical Injury.</Description>
     <Source Page="150">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -3409,7 +3235,6 @@
       <Source Page="146">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3432,7 +3257,6 @@
     <Description>Once per round as an incidental spend 1 Destiny Point to ignore [DE] generated on a social check by the character or any ally in short range.</Description>
     <Source Page="33">Fly Casual</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3443,7 +3267,6 @@
       <Source Page="31">Knights of Fate</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <Conflict>1</Conflict>
@@ -3499,7 +3322,6 @@
       <Source Page="150">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -3508,7 +3330,6 @@
     <Description>Once per session, perfectly recall an important fact previously learned as if a Destiny Point had been spent.</Description>
     <Source Page="34">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3525,7 +3346,6 @@
     <Description>When healing an ally, spend 1 Destiny Point to heal additional wounds equal to ranks in Knowledge (Xenology).</Description>
     <Source Page="146">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -3550,7 +3370,6 @@
     <Description>Once per session, when making a check count Force rating as being equal to ranks in Knowledge (Lore).</Description>
     <Source Page="103">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -3572,7 +3391,6 @@
       <Source Page="40">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -3633,7 +3451,6 @@
       <Source Page="31">Cyphers and Masks</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -3642,7 +3459,6 @@
     <Description>When an opponent has gained the advantage on a starship or vehicle being piloted, may perform a Koiogran Turn maneuver to remove the effects.</Description>
     <Source Page="32">Stay on Target</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -3668,7 +3484,6 @@
       <Source Page="40">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -3695,7 +3510,6 @@
       <Source Page="40">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3722,7 +3536,6 @@
       <Source Page="40">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3752,7 +3565,6 @@
     <Description>When an ally engaged with the character makes a successful Charm, Deception, or Negotiation check, the character adds [AD] per rank in Coercion to the ally's check.</Description>
     <Source Page="32">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -3763,7 +3575,6 @@
       <Source Page="31">Cyphers and Masks</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -3786,7 +3597,6 @@
       <Source Page="31">Cyphers and Masks</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -3795,7 +3605,6 @@
     <Description>Take the Makashi Finish action; Perform a Lightsaber (Presence) combat check against engaged target, adding [FO] no greater than Force rating. Spend [FP] to add +10 to any resulting Critical Injury rolls.</Description>
     <Source Page="146">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -3805,7 +3614,6 @@
     <Description>Once per encounter, perform Makashi Flourish action. Make an [B]Average ([DI][DI]) Lightsaber (Presence) check[b]. 1 engaged opponent suffers strain equal to [SU], and heal an equal amount of strain.</Description>
     <Source Page="146">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -3815,7 +3623,6 @@
     <Description>When making a check using the Lightsaber skill, the character may use Presence instead of Brawn.</Description>
     <Source Page="146">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <SkillChars>
@@ -3831,7 +3638,6 @@
     <Description>Take the Marked for Death maneuver; committing [FO]. Add [AD][AD] to combat checks against target while [FO] remains committed but cannot use this talent again until the original target is incapacitated or the session ends. </Description>
     <Source Page="30">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -3844,7 +3650,6 @@
     <Source Page="35">No Disintegrations</Source>
     <Source Page="31">Knights of Fate</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3856,7 +3661,6 @@
       <Source Page="151">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3865,7 +3669,6 @@
     <Description>Once per round when driving a vehicle, may suffer 2 strain to perform any action as a maneuver.</Description>
     <Source Page="151">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3877,7 +3680,6 @@
       <Source Page="32">Dangerous Covenants</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -3889,7 +3691,6 @@
       <Source Page="29">Disciples of Harmony</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -3898,7 +3699,6 @@
     <Description>Once per round, suffer 2 strain to decrease difficulty of the next Leadership check by one, to a minimum of [B]Easy ([DI]).[b]</Description>
     <Source Page="151">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3910,7 +3710,6 @@
       <Source Page="151">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3923,7 +3722,6 @@
       <Source Page="40">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3936,7 +3734,6 @@
       <Source Page="146">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3948,7 +3745,6 @@
       <Source Page="151">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3961,7 +3757,6 @@
       <Source Page="31">Savage Spirits</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3970,7 +3765,6 @@
     <Description>Once per phase during a mass combat, may suffer 2 strain to decrease difficulty of a Mass Combat check once.</Description>
     <Source Page="33">Lead by Example</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -3982,7 +3776,6 @@
       <Source Page="31">Fully Operational</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3993,7 +3786,6 @@
       <Source Page="31">Fully Operational</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -4013,7 +3805,6 @@
       <Source Page="29">Disciples of Harmony</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -4023,7 +3814,6 @@
     <Description>Enemy within short range of the character's bonded animal adds [SE] to next Combat check made against the character.</Description>
     <Source Page="31">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -4033,7 +3823,6 @@
     <Description>May perform the Mental Bond action. Commit [FO]. While committed, may communicate with bonded animal at long range and see and hear through its senses.</Description>
     <Source Page="147">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -4047,7 +3836,6 @@
       <Source Page="147">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4056,7 +3844,6 @@
     <Description>Always count as having the right tools for the job when performing Mechanics checks.</Description>
     <Source Page="147">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -4068,7 +3855,6 @@
       <Source Page="29">Disciples of Harmony</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <Conflict>1</Conflict>
@@ -4083,7 +3869,6 @@
       <Source Page="32">Unlimited Power</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -4094,7 +3879,6 @@
       <Source Page="40">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4147,7 +3931,6 @@
     <Description>Difficulty for training this beast is not upgraded. </Description>
     <Source Page="85">Stay on Target</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -4156,7 +3939,6 @@
     <Description>This mount can fly. When on the ground, its Speed is reduced to 1. </Description>
     <Source Page="85">Stay on Target</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -4192,7 +3974,6 @@
     <Description>Add [BO] to Lightsaber, Brawl, and Melee checks when engaged with multiple opponents.</Description>
     <Source Page="147">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -4201,7 +3982,6 @@
     <Description>Once per session, take Museum Worthy action, make a [B]Hard ([DI][DI][DI]) Knowledge (Education) check[b] to ascertain information regarding a relic, ruin, or piece of history.</Description>
     <Source Page="30">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -4213,7 +3993,6 @@
       <Source Page="31">Cyphers and Masks</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4222,7 +4001,6 @@
     <Description>Once per session, may reroll any 1 Lightsaber or Melee check.</Description>
     <Source Page="147">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4254,7 +4032,6 @@
       <Source Page="147">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4275,7 +4052,6 @@
       <Source Page="148">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4284,7 +4060,6 @@
     <Description>Once per session, may reroll any 1 Piloting (Planetary) or Gunnery check.</Description>
     <Source Page="153">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4296,7 +4071,6 @@
       <Source Page="153">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4309,7 +4083,6 @@
       <Source Page="105">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4318,7 +4091,6 @@
     <Description>Once per session, may reroll one Discipline or Leadership check.</Description>
     <Source Page="33">Lead by Example</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4331,7 +4103,6 @@
       <Source Page="40">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4343,7 +4114,6 @@
       <Source Page="153">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4352,7 +4122,6 @@
     <Description>Once per session, may reroll any 1 Streetwise or Negotiation check.</Description>
     <Source Page="33">Far Horizons</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4361,7 +4130,6 @@
     <Description>Once per session, may reroll any 1 Force power check.</Description>
     <Source Page="148">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -4375,7 +4143,6 @@
       <Source Page="148">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4386,7 +4153,6 @@
       <Source Page="40">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4399,7 +4165,6 @@
       <Source Page="148">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4411,7 +4176,6 @@
       <Source Page="153">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4423,7 +4187,6 @@
       <Source Page="153">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4435,7 +4198,6 @@
       <Source Page="153">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4447,7 +4209,6 @@
       <Source Page="153">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4460,7 +4221,6 @@
       <Source Page="148">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4471,7 +4231,6 @@
       <Source Page="40">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4480,7 +4239,6 @@
     <Description>When making a Lightsaber skill check, the character may use Willpower instead of Brawn.</Description>
     <Source Page="148">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <SkillChars>
@@ -4517,7 +4275,6 @@
     <Description>May spend [AD][AD] from a Coercion check or [TH][TH] from a foe's Discipline check; that target cannot perform a free maneuver during his next turn.</Description>
     <Source Page="30">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -4527,7 +4284,6 @@
     <Description>Once per session, spend a Destiny Point to save Signature Vehicle from destruction.</Description>
     <Source Page="33">Stay on Target</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4538,7 +4294,6 @@
       <Source Page="29">Disciples of Harmony</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ForceTalent>true</ForceTalent>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
@@ -4548,7 +4303,6 @@
     <Description>Once per session, take Now You See Me action. Make a [B]Hard ([DI][DI][DI]) Deception check[b] to make a number of NPC's equal to Cunning within medium range forget about character.</Description>
     <Source Page="148">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -4558,7 +4312,6 @@
     <Description>As a maneuver, suffer system strain up to vehicle's highest defense to upgrade the difficulty of target's next Piloting check that many times.</Description>
     <Source Page="35">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -4569,7 +4322,6 @@
       <Source Page="29">Disciples of Harmony</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -4582,7 +4334,6 @@
       <Source Page="35">Forged in Battle</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -4593,7 +4344,6 @@
       <Source Page="40">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -4602,7 +4352,6 @@
     <Description>Once per session, mediate, then perform One with the Universe action; make [B]Average ([DI][DI]) Astrogation check[b]. If successful, add [LI] to all Force power checks in next encounter. If successful with [TH], add [DA] instead.</Description>
     <Source Page="149">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -4614,7 +4363,6 @@
       <Source Page="40">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -4625,7 +4373,6 @@
       <Source Page="41">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -4649,7 +4396,6 @@
       <Source Page="41">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -4679,7 +4425,6 @@
       <Source Page="35">No Disintegrations</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -4688,7 +4433,6 @@
     <Description>Once per encounter, may use the Overcharge action. Make a [B]Hard ([DI][DI][DI]) Mechanics check[b]. On success one installed cybernetic provides additional benefits. On [DE], overcharged cybernetic shorts out.</Description>
     <Source Page="35">Special Modifications</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -4697,7 +4441,6 @@
     <Description>May spend [AD][AD] or [TR] from Overcharge action to immediately take another action.</Description>
     <Source Page="35">Special Modifications</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -4706,7 +4449,6 @@
     <Description>May perform the Overcharge action on any number of installed cybernetics. On [DE], one overcharged cybernetic shorts out.</Description>
     <Source Page="35">Special Modifications</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -4727,7 +4469,6 @@
     <Description>May add [FO] per Force Rating to Charm, Coercion, or Deception checks. [LI] and [DA] add [SU] to some checks and [FA] to others.</Description>
     <Source Page="141">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <DieModifiers>
@@ -4765,7 +4506,6 @@
       <Source Page="33">Unlimited Power</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <Conflict>1</Conflict>
@@ -4792,7 +4532,6 @@
       <Source Page="41">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -4801,7 +4540,6 @@
     <Description>If the user did not make a combat check during his previous turn, may suffer 1 strain to use Parry.</Description>
     <Source Page="149">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -4853,7 +4591,6 @@
       <Source Page="31">Cyphers and Masks</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <NewSkills>
@@ -4868,7 +4605,6 @@
     <Description>Take Pin action; make an [B]Opposed athletics check[b] to immobilize an engaged opponent until the end of the character's next turn. Spend [TR] to extend duration one round.</Description>
     <Source Page="30">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -4912,7 +4648,6 @@
     <Description>Take an Improved Plausible Deniability action makes a [B]Hard ([DI][DI][DI]) Coercion check[b] to convince one bystander per rank of Plausible Deniability to depart quietly.</Description>
     <Source Page="34">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -4942,7 +4677,6 @@
     <Description>Once per session, if no PC's Duty triggered, make a [B]Daunting ([DI][DI][DI][DI]) Charm check[b] with the difficulty decreased once rank of Positive Spin to have one PC's Duty trigger.</Description>
     <Source Page="34">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -4953,7 +4687,6 @@
       <Source Page="33">Unlimited Power</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <Conflict>1</Conflict>
@@ -4975,7 +4708,6 @@
       <Source Page="31">Knights of Fate</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <Conflict>1</Conflict>
@@ -5010,7 +4742,6 @@
       <Source Page="31">Knights of Fate</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -5022,7 +4753,6 @@
       <Source Page="31">Knights of Fate</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -5033,7 +4763,6 @@
       <Source Page="36">No Disintegrations</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -5071,7 +4800,6 @@
       <Source Page="31">Cyphers and Masks</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -5080,7 +4808,6 @@
     <Description>Add [BO] to all Ranged (Light) checks unless the target is immune to Force powers.</Description>
     <Source Page="31">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5124,7 +4851,6 @@
     <Description>While benefiting from an Aim maneuver, [DE] from the character's Ranged (Heavy) and Ranged (Light) checks cannot cause attacks to hit allies engaged with the target.</Description>
     <Source Page="31">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5144,7 +4870,6 @@
       <Source Page="31">Fully Operational</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -5184,7 +4909,6 @@
       <Source Page="149">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -5193,7 +4917,6 @@
     <Description>May use Quick Draw twice per round.</Description>
     <Source Page="33">Fly Casual</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -5202,7 +4925,6 @@
     <Description>Once per session, make one skill check using Agility rather than the characteristic linked to that skill.</Description>
     <Source Page="154">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -5211,7 +4933,6 @@
     <Description>Suffer 2 strain to perform the Quick Movement incidental; add [FO] no greater than Force rating to next check. May spend [FP][FP] to perform one additional Move maneuver after action.</Description>
     <Source Page="150">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5237,7 +4958,6 @@
       <Source Page="35">Forged in Battle</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -5282,7 +5002,6 @@
       <Source Page="41">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <Conflict>1</Conflict>
@@ -5302,7 +5021,6 @@
     <Description>When making Cool or Vigilance checks to determine Initiative order, may spend [TR] to add [SU] equal to ranks in Ready for Anything.</Description>
     <Source Page="34">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -5314,7 +5032,6 @@
       <Source Page="36">No Disintegrations</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -5326,7 +5043,6 @@
       <Source Page="154">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -5351,7 +5067,6 @@
       <Source Page="42">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5361,7 +5076,6 @@
     <Description>If the user did not make a combat check during previous turn, may suffer 1 strain to use Reflect.</Description>
     <Source Page="150">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5371,7 +5085,6 @@
     <Description>Signature Vehicle gains Massive 1: when making an attack targeting the ship or vehicle, the Critical rating of any weapon used counts as 1 higher.</Description>
     <Source Page="33">Stay on Target</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <Rigger>
       <BaseMods>
@@ -5388,7 +5101,6 @@
     <Description>Take the Reinforce Item maneuver: commit [LI][LI] to grant one weapon or piece of armor the Cortosis quality while [LI][LI] remains committed. Suffer 3 strain every round [LI][LI] remain committed.</Description>
     <Source Page="31">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5400,7 +5112,6 @@
       <Source Page="42">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <Conflict>1</Conflict>
@@ -5447,7 +5158,6 @@
     <Description>Suffer 2 strain to avoid being disarmed or have weapon damaged or destroyed.</Description>
     <Source Page="151">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -5475,7 +5185,6 @@
     <Description>On a successful Knowledge check, character and allies gain automatic [AD] per rank of Researcher on checks to act on those facts until the end of his next turn.</Description>
     <Source Page="34">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -5486,7 +5195,6 @@
       <Source Page="31">Cyphers and Masks</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -5497,7 +5205,6 @@
       <Source Page="31">Cyphers and Masks</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -5520,7 +5227,6 @@
     <Description>May perform the Resourceful Refit action, make an [B]Average ([DI][DI]) Mechanics check[b] to scavenge an old attachment to construct a new one, reducing its price by that of the dismantled attachment.</Description>
     <Source Page="35">Special Modifications</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -5552,7 +5258,6 @@
     <Description>Perform the Saber Swarm maneuver; suffer 1 strain to make next Lightsaber (Agility) combat check this turn gain the Linked item quality equal to Force rating during check.</Description>
     <Source Page="151">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5565,7 +5270,6 @@
       <Source Page="42">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5575,7 +5279,6 @@
     <Description>When performing the Saber Throw action, may increase the range to long range. When attacking a target at long range, spend [FP][FP] to have weapon return to hand.</Description>
     <Source Page="31">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5587,7 +5290,6 @@
       <Source Page="31">Knights of Fate</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5597,7 +5299,6 @@
     <Description>Increase difficulty of Lightsaber check by 1 to perform Sarlacc Sweep action. May spend [AD][AD] to hit additional engaged targets.</Description>
     <Source Page="151">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5630,7 +5331,6 @@
       <Source Page="30">Disciples of Harmony</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -5662,7 +5362,6 @@
       <Source Page="33">Unlimited Power</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -5674,7 +5373,6 @@
       <Source Page="155">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -5686,7 +5384,6 @@
       <Source Page="155">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -5697,7 +5394,6 @@
       <Source Page="42">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -5708,7 +5404,6 @@
       <Source Page="42">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -5731,7 +5426,6 @@
       <Source Page="42">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <NewSkills>
@@ -5802,7 +5496,6 @@
     <Description>Once per session, as a maneuver, may make a [B]Hard ([DI][DI][DI]) Athletics check[b]. On success, other PCs may take their turns immediately.</Description>
     <Source Page="35">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -5824,7 +5517,6 @@
       <Source Page="151">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5838,7 +5530,6 @@
       <Source Page="42">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ForceTalent>true</ForceTalent>
     <ActivationValue>taPassive</ActivationValue>
     <DieModifiers>
@@ -5862,7 +5553,6 @@
     <Description>Once per session, may add [SE][SE] to 1 NPC's skill check.</Description>
     <Source Page="151">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5872,7 +5562,6 @@
     <Description>Perform the Sense the Scene action; make a [B]Hard ([DI][DI][DI]) Perception check[b] and add [FO] no greater than Force rating. If successful, spend [FP] to identify the emotional characteristics of one person involved in the crime.</Description>
     <Source Page="31">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5882,7 +5571,6 @@
     <Description>May perform the Share Pain incidental when bonded animal suffers wounds. Reduce wounds suffered to half, then character suffers wounds equal to number reduced.</Description>
     <Source Page="151">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5892,7 +5580,6 @@
     <Description>When making a check using the Lightsaber skill, the character may use Cunning instead of Brawn.</Description>
     <Source Page="151">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <SkillChars>
@@ -5926,7 +5613,6 @@
       <Source Page="36">No Disintegrations</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -5935,7 +5621,6 @@
     <Description>When making a check in a starship or vehicle, may suffer 2 strain to gain [TR] on success or [DE] on failure.</Description>
     <Source Page="33">Stay on Target</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -5944,7 +5629,6 @@
     <Description>The character may spend 1 Destiny Point to make himself undetectable via Force powers and make his own powers go unnoticed for the remainder of the encounter.</Description>
     <Source Page="151">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5956,7 +5640,6 @@
       <Source Page="42">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5990,7 +5673,6 @@
       <Source Page="35">Special Modifications</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <Rigger>
       <ChooseVehicle>true</ChooseVehicle>
@@ -6011,7 +5693,6 @@
       <Source Page="42">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -6020,7 +5701,6 @@
     <Description>Allies with short range of the vehicle add [BO] to their Perception and Vigilance checks. Allies within close range add [BO][BO] instead.</Description>
     <Source Page="156">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -6033,7 +5713,6 @@
       <Source Page="152">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <Attributes>
       <DefenseRanged>1</DefenseRanged>
@@ -6082,7 +5761,6 @@
       <Source Page="156">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -6110,7 +5788,6 @@
     <Description>If under the effects of a Force power, perform the Slippery Minded action; make a [B]Hard ([DI][DI][DI]) Deception check[b] to immediately end effects of power.</Description>
     <Source Page="152">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -6122,7 +5799,6 @@
       <Source Page="31">Fully Operational</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -6169,7 +5845,6 @@
       <Source Page="152">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -6193,7 +5868,6 @@
       <Source Page="42">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -6205,7 +5879,6 @@
       <Source Page="31">Savage Spirits</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -6214,7 +5887,6 @@
     <Description>When making a Lightsaber skill check, the character may use Intellect instead of Brawn.</Description>
     <Source Page="152">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <SkillChars>
@@ -6233,7 +5905,6 @@
       <Source Page="43">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -6254,7 +5925,6 @@
       <Source Page="157">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -6263,7 +5933,6 @@
     <Description>After a successful combined check with two Ranged (Light) weapons, additional hits can be allocated to other targets within range of the weapon.</Description>
     <Source Page="33">Fly Casual</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -6285,7 +5954,6 @@
     <Description>When directing NPC droids, those droids grand additional [BO] in addition to other benefits.</Description>
     <Source Page="35">Special Modifications</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -6294,7 +5962,6 @@
     <Description>Once per encounter, may perform the Speaks Binary maneuver. A number of NPC droids up to ranks in Speaks Binary may use the character's ranks for 1 skill of character's choice.</Description>
     <Source Page="35">Special Modifications</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -6303,7 +5970,6 @@
     <Description>Take a Spur action; make a [B]Hard ([DI][DI][DI]) Survival check[b] to increase a beast's top speed by 1. The beast suffers 2 strain every round it stays spurred.</Description>
     <Source Page="33">Stay on Target</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -6312,7 +5978,6 @@
     <Description>Suffer 1 strain to attempt Spur as a maneuver and decrease its difficult to [B]Average ([DI][DI]).[b]</Description>
     <Source Page="33">Stay on Target</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -6321,7 +5986,6 @@
     <Description>When activating and maintaining Spur, the beast only suffers 1 strain instead of 2.</Description>
     <Source Page="33">Stay on Target</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -6399,7 +6063,6 @@
       <Source Page="33">Unlimited Power</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -6412,7 +6075,6 @@
       <Source Page="33">Unlimited Power</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -6424,7 +6086,6 @@
       <Source Page="157">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -6449,7 +6110,6 @@
       <Source Page="152">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -6458,7 +6118,6 @@
     <Description>May take the Strategic Form action, making a [B]Hard ([DI][DI][DI]) Lightsaber check[b] rolling [FO] no greater than Force rating. If successful, 1 target within short range may only attack character for 1 round. Spend [FP] to extend effects for 1 target for 1 round.</Description>
     <Source Page="152">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -6471,7 +6130,6 @@
       <Source Page="157">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -6483,7 +6141,6 @@
       <Source Page="157">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -6518,7 +6175,6 @@
       <Source Page="36">No Disintegrations</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -6527,7 +6183,6 @@
     <Description>When making a Streetwise or Survival skill check to navigate on a world, the character may use Intellect instead of Cunning.</Description>
     <Source Page="31">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -6539,7 +6194,6 @@
       <Source Page="157">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -6551,7 +6205,6 @@
       <Source Page="157">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -6560,7 +6213,6 @@
     <Description>May spend [TR] or [AD][AD] with a successful Lightsaber check to disarm opponent.</Description>
     <Source Page="152">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -6580,7 +6232,6 @@
       <Source Page="30">Disciples of Harmony</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -6589,7 +6240,6 @@
     <Description>Once per session, after generating [DE] on a Piloting check cancel the [DE] and add [SU] equal to ranks in Cool.</Description>
     <Source Page="31">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -6632,7 +6282,6 @@
       <Source Page="157">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <Attributes>
       <DefenseMelee>1</DefenseMelee>
@@ -6657,7 +6306,6 @@
     <Description>Once per session, when making a single check the character may treat his Force rating as being equal to ranks in Survival.</Description>
     <Source Page="31">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -6679,7 +6327,6 @@
       <Source Page="153">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -6690,7 +6337,6 @@
       <Source Page="43">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -6701,7 +6347,6 @@
       <Source Page="43">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -6726,7 +6371,6 @@
     <Description>Melee and Ranged (Heavy) become career skills.</Description>
     <Source Page="158">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <NewSkills>
@@ -6744,7 +6388,6 @@
       <Source Page="31">Endless Vigil</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -6756,7 +6399,6 @@
       <Source Page="158">Age of Rebellion Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -6787,7 +6429,6 @@
       <Source Page="43">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -6806,7 +6447,6 @@
     <Description>Take the Terrify action; make a [B]Hard ([DI][DI][DI]) Coercion check[b], adding [FO] no greater than Force rating. Disorient one target within medium range per [SU]. Spend [AD][AD] to extend duration and spend [FP] to immobilize affected target.</Description>
     <Source Page="153">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <Conflict>1</Conflict>
@@ -6817,7 +6457,6 @@
     <Description>Reduce the difficulty of Terrify's check to [B]Average ([DI][DI])[b] and may spend [TR] to stagger an affected target.</Description>
     <Source Page="153">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -6827,7 +6466,6 @@
     <Description>The character may spend 1 Destiny Point to take the Terrifying Kill mane.</Description>
     <Source Page="31">Savage Spirits</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <Conflict>1</Conflict>
@@ -6856,7 +6494,6 @@
     <Description>Once per session, take a Thorough Assessment action: make a [B]Hard ([DI][DI][DI]) Knowledge check[b] to gain Boost dice equal to [SU] that can be distributed during the encounter.</Description>
     <Source Page="34">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -6865,7 +6502,6 @@
     <Description>At beginning of session, spend 100 credits to ignore strain threshold penalty due to triggered Obligation.</Description>
     <Source Page="33">Far Horizons</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -6874,7 +6510,6 @@
     <Description>The character may spend 1 Destiny Point to perform a Move maneuver as an incidental to attempt to move into cover or out of the blast range of a weapon or explosion.</Description>
     <Source Page="158">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -6883,7 +6518,6 @@
     <Description>When activating Time to Go, allow 1 engaged ally to also perform an out of turn Move maneuver as an incidental to attempt to move into cover or out of the blast range of a weapon or explosion.</Description>
     <Source Page="158">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -6918,7 +6552,6 @@
       <Source Page="153">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -6946,7 +6579,6 @@
       <Source Page="31">Knights of Fate</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -6957,7 +6589,6 @@
       <Source Page="43">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -6968,7 +6599,6 @@
       <Source Page="33">Unlimited Power</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <DieModifiers>
@@ -6993,7 +6623,6 @@
       <Source Page="153">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -7050,7 +6679,6 @@
       <Source Page="33">Unlimited Power</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -7062,7 +6690,6 @@
       <Source Page="31">Knights of Fate</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -7111,7 +6738,6 @@
     <Description>If a missed combat check generates [TR] or [AD][AD][AD], may spend to perform Force power targeting allies as a maneuver.</Description>
     <Source Page="153">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -7124,7 +6750,6 @@
       <Source Page="31">Endless Vigil</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -7133,7 +6758,6 @@
     <Description>When targeted by a Deception check that fails, may spend 1 Destiny Point to add [DE] to results.</Description>
     <Source Page="33">Far Horizons</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -7145,7 +6769,6 @@
       <Source Page="31">Knights of Fate</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -7167,7 +6790,6 @@
       <Source Page="43">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -7178,7 +6800,6 @@
       <Source Page="43">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -7201,7 +6822,6 @@
       <Source Page="31">Knights of Fate</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -7215,7 +6835,6 @@
       <Source Page="43">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -7224,7 +6843,6 @@
     <Description>Gunnery and Piloting (Planetary) become career skills.</Description>
     <Source Page="159">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <NewSkills>
@@ -7239,7 +6857,6 @@
     <Description>The character may spend 1 Destiny Point to add damage equal to his ranks in Streetwise to one hit of a successful Brawl check.</Description>
     <Source Page="33">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -7250,7 +6867,6 @@
       <Source Page="31">Fully Operational</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -7259,7 +6875,6 @@
     <Description>Choose any 3 Knowledge skills. They permanently become career skills.</Description>
     <Source Page="34">Lead by Example</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <SkillCount>3</SkillCount>
@@ -7293,7 +6908,6 @@
       <Source Page="30">Disciples of Harmony</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <NewSkills>
@@ -7322,7 +6936,6 @@
       <Source Page="43">Rise of the Separatists</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -7334,7 +6947,6 @@
       <Source Page="30">Disciples of Harmony</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -7345,7 +6957,6 @@
       <Source Page="30">Disciples of Harmony</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -7367,8 +6978,6 @@
       <Source Page="159">Age of Rebellion Core Rulebook</Source>
       <Source Page="33">Fly Casual</Source>
     </Sources>
-    <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
 </Talents>
