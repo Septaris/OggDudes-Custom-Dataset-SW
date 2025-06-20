@@ -319,7 +319,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>BADM</Key>
@@ -419,7 +418,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <JuryRigged>false</JuryRigged>
     <ChooseCareerSkills>
       <NewSkills>
         <Key>BRAWL</Key>
@@ -435,12 +433,11 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>BEGLUCK</Key>
     <Name>Beginner's Luck</Name>
-    <Description>Once per session when the character makes a check , the character may add [SU] equal to the number of light side Destiny Points in the Destiny pool to the results.</Description>
+    <Description>Once per session when the character makes a check, the character may add [SU] equal to the number of light side Destiny Points in the Destiny pool to the results.</Description>
     <Sources>
       <Source Page="37">Rise of the Separatists</Source>
     </Sources>
@@ -466,7 +463,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>BLA</Key>
@@ -1359,7 +1355,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>DEDI</Key>
@@ -1546,7 +1541,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>DISBEHIMP</Key>
@@ -1556,7 +1550,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>DISCLORE</Key>
@@ -2532,7 +2525,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>GOWITHOUT</Key>
@@ -4257,7 +4249,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>NATBLADE</Key>
@@ -4398,7 +4389,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>NATMYSTIC</Key>
@@ -6931,7 +6921,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>TIME2GO</Key>
@@ -7203,7 +7192,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>UNSTOP</Key>
