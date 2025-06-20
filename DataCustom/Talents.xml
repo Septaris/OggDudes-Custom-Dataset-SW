@@ -548,7 +548,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>BODSUP</Key>
@@ -1450,7 +1449,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ForceTalent>false</ForceTalent>
     <ItemChanges>
       <ItemChange>
         <ItemType>Weapon</ItemType>
@@ -1647,7 +1645,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>DONTSHOOT</Key>
@@ -1736,7 +1733,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>DURA</Key>
@@ -1770,7 +1766,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <ForceTalent>false</ForceTalent>
     <Conflict>1</Conflict>
   </Talent>
   <Talent>
@@ -2080,7 +2075,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>FERSTR</Key>
@@ -2647,7 +2641,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>HEALTRANCE</Key>
@@ -3111,7 +3104,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>INSIDEKNOW</Key>
@@ -3464,7 +3456,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ForceTalent>false</ForceTalent>
     <DieModifiers>
       <DieModifier>
         <SkillKey>PERC</SkillKey>
@@ -3536,7 +3527,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>KNOWNPROG</Key>
@@ -3994,7 +3984,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>MASTDEMO</Key>
@@ -4096,7 +4085,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>MISSCRIT</Key>
@@ -4206,7 +4194,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>MUSEUMWORTHY</Key>
@@ -4237,7 +4224,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>NATBRAW</Key>
@@ -4598,7 +4584,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>ONETRASH</Key>
@@ -4797,7 +4782,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>PARRYIMP</Key>
@@ -4810,7 +4794,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>PARRYSUP</Key>
@@ -4838,7 +4821,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>PHYSTRAIN</Key>
@@ -4900,7 +4882,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>PLAUSDEN</Key>
@@ -5115,7 +5096,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>PRIDEJOY</Key>
@@ -5336,7 +5316,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>REDUNSYS</Key>
@@ -5470,7 +5449,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>RESEARCH</Key>
@@ -5950,7 +5928,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>SHOWBOAT</Key>
@@ -6552,7 +6529,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>STUNBL</Key>
@@ -6972,7 +6948,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>TRANSERR</Key>
@@ -7242,7 +7217,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>VEHTRAIN</Key>
