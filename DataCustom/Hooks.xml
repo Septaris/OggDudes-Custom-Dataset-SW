@@ -238,9 +238,6 @@ Economics is the study of resource allocation, but deep in its heart, it is the 
 Simply put, the character rubbed someone the wrong way and found himself fleeing his former life. Even if the player decides that the enemy may not be the source of an Obligation, or may not be around any more to cause the character grief, this could be used as a hook to reintroduce the enemy later on in a campaign.
     </Description>
     <Source Page="38">Edge of the Empire Core Rulebook</Source>
-    <Sources>
-      <Source Page="38">Edge of the Empire Core Rulebook</Source>
-    </Sources>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -324,9 +321,6 @@ There are millions - perhaps billions - of noble families throughout the galaxy,
 	  [H4]A Failure of Character[h4]
 Some inherent flaw in the character causes him to leave behind the life he knew for the unknown. This background hook ties in well with some Obligations such as Addiction, Obsession, or Betrayal. Regardless of the cause, the character finds himself shut out from his former society, left to deal with his own problems. However, the character may view this in a positive light, seeing himself freed from the pressures of scrutiny or keeping on the move to leave trouble behind.</Description>
     <Source Page="38">Edge of the Empire Core Rulebook</Source>
-    <Sources>
-      <Source Page="38">Edge of the Empire Core Rulebook</Source>
-    </Sources>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -671,7 +665,6 @@ Refugees have escaped violence, starvation, and persecution only to face similar
     <Source Page="14">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
   </Hook>
-
   <Hook>
     <Key>RELECSTATIC</Key>
     <Name>Religious Ecstatic</Name>
@@ -889,9 +882,6 @@ Curiosity? Boredom? Tragic circumstances? A desire for something more? Whatever 
       [H4]Wrong Place, Wrong Time[h4]
 The character finds himself embroiled in a life of adventure through no fault of his own. He could have been captured by pirates, the sole survivor of a deadly plague, or even something as mundane as being unemployed and forced to find some new way to bring in the credits. Regardless of the method for the character's push from society, he finds it nearly impossible to return to the way that things used to be. The character must quickly adapt to his new and dangerous situation.</Description>
     <Source Page="38">Edge of the Empire Core Rulebook</Source>
-    <Sources>
-      <Source Page="38">Edge of the Empire Core Rulebook</Source>
-    </Sources>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
