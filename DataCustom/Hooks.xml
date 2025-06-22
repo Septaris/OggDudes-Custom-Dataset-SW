@@ -6,9 +6,7 @@
     <Description>
       [H4]Academic[h4]
 For the student who seeks history, science, and other knowledge beyond the halls of academia, the stars can be an undeniable siren's song. First-hand experience can mean the difference between theoretical knowledge and true understanding, and the academic who understands the importance of the latter is the true master of his field.
-
 [P]True exploration requires an appreciation for all that is already known, as well as a desire to add to that knowledge. An Explorer with a strong foundation in academia is armed with the knowledge to see himself and his team safely through many situations in which ignorance is a lethal failing. Big guns, fast ships, and all the credits in the galaxy cannot overcome a problem if there isn't sufficient understanding of what the problem is.
-
 [P]Most academics learn quickly that life out in the Rim requires adaptation and versatility. One learns how to fight, how to survive, and many other skills as necessary if he doesn't want to end up a footnote in someone's journal. One also learns to make the right kinds of friends, trading knowledge for protection and expertise for mutual benefit.</Description>
     <Sources>
       <Source Page="13">Enter the Unknown</Source>
@@ -21,12 +19,9 @@ For the student who seeks history, science, and other knowledge beyond the halls
     <Name>The Accidental Rebel</Name>
     <Description>
       [H4]The Accidental Rebel[h4]
-
 The vast majority of the sentient beings of the galaxy have no desire to join the Alliance or serve in the Rebellion. They may not be ardent supporters of the Empire, but this doesn't mean they are willing to drop everything in their lives to go blasting away at hordes of stormtroopers or weaving a dilapidated starship through swarms of TIE fighters. They would rather go about their business and live their lives, hopefully out of the way of any battles or other trouble.
 [P]Unfortunately for some hapless individuals, the galaxy has other plans. Cases of mistaken identity can result in innocents becoming wanted for crimes they never even considered. Receiving goods marked for Alliance use may find one or more PCs fleeing for their lives from Imperial agents or hired mercenaries. A friend's—or even casual acquaintance's—involvement with the Rebellion can saddle a character with unintended guilt by association. Of course, there are times when people simply find themselves in the wrong place at the wrong time and have no choice but to become heroes.
-
-[P]Alternately, unexpected situations may cause an epiphany for someone who was previously not interested in getting involved. While it may be easy to ignore tales of injustice and atrocity when they happen far away from an individual's daily life, many individuals have altogether different reactions when they come face-to-face with the horror of the Empire's policies. Apathy is difficult to maintain when someone watches another sentient executed for speaking out, a family enslaved because of their species, or an entire population wiped out for political expediency.
-
+[P]Alternately, unexpected situations may cause an epiphany for someone who was previously not interested in getting involved. While it may be easy to ignore tales of injustice and atrocity when they happen far away from an individual's daily life, many individuals have altogether different reactions when they come face-to-face with the horror of the Empire's policies. Apathy is difficult to maintain when someone watches another sentient executed for seeking out, a family enslaved because of their species, or an entire population wiped out for political expediency.
 [P]In such situations, a person's apathy can quickly turn to anger. That anger, in turn, often turns to action, usually with violent and irrevocable consequences. Once steps are taken toward open and direct opposition, such a character has joined the Rebellion in spirit, even if not yet in fact.</Description>
     <Source Page="45">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -44,7 +39,7 @@ Many Sentinels start off as activists in some form of another. Even unawaked to 
     <Key>ANCIENTORDER</Key>
     <Name>Ancient Order</Name>
     <Description>
-    [H4]Ancient Order[h4]
+      [H4]Ancient Order[h4]
 [P]Some characters become Guardians because they are chosen to follow an order with a long history, which naturally prepares them for their eventual role. Such characters have likely known their intended destiny for a long time, many trained from birth. Their teachers may have also been Force-sensitive, or they might have been completely unaware of the mystical powers their students possessed. No matter how an individual Guardian reached this place, The PC's skills are a natural fit for this specific role that years of training entail.
 [P]Guardians of this sort tend to be guided by a concrete code passed down by their ancestors or predecessors, though invariably, some rebel against even the most ironclad of laws and codes of honor.</Description>
     <Source Page="12">Keeping the Peace</Source>
@@ -72,7 +67,8 @@ Aristocrats have (or had) money and perhaps a title. They may belong to an actua
   <Hook>
     <Key>ARTIST</Key>
     <Name>Artist</Name>
-    <Description>[H4]Artist[h4]
+    <Description>
+	  [H4]Artist[h4]
 The Force grants people thoughts, visions, and emotions that some can't process, so they turn to other means to communicate these ideas. These artists often find themselves frustrated, driven to express an idea bigger than the artistic medium. While most artists create in order to find an audience, Mystic artists create to find answers. The answers can be personal, to seek enlightenment. The answers can be social, motivating others to be and do better. Because of art's emotional nature, however, artists can be tempted to the dark side. These artists use their work to shock, provoke, and upset-not to illustrate a greater truth, but to enhance those dark feelings, reinforcing hate and anger.</Description>
     <Source Page="10">Unlimited Power</Source>
     <Custom>DescOnly</Custom>
@@ -80,7 +76,8 @@ The Force grants people thoughts, visions, and emotions that some can't process,
   <Hook>
     <Key>AUGUR</Key>
     <Name>Augur</Name>
-    <Description>[H4]Augur[h4]
+    <Description>
+	  [H4]Augur[h4]
 Augurs served a straightforward function: they exposed the truth to those who listened. They could have been anything from a fortune-teller to a psychologist, offering insights on what people should do, but also revealing hidden truths to help people make their own decisions. Some augurs received academic or institutionalized training, while others simply had an uncanny intuition (such as a village elder or community leader). Most were content with this role. The few who had the humility to delve deeper discovered the Force as the source of their wisdom.
 [P]Augurs who fell to the dark side encouraged their victims' darkest desires and instincts, enhancing their anger and pushing them toward violence. These augurs sometimes inflicted harm on others, mistaking pain, deprivaton. and violence for a means to understanding.</Description>
     <Source Page="12">Unlimited Power</Source>
@@ -92,10 +89,7 @@ Augurs served a straightforward function: they exposed the truth to those who li
     <Description>
       [H4]The Avenger[h4]
 Some say a man who seeks vengeance should dig two graves: one for his target, and one for himself. However, these words never seem to reach the beings who need to hear it most. Following the one that wronged him, this character is in pursuit of righteous vengeance, leaving everything else he knew and loved behind. He lives a life of quiet desperation, planning his revenge and stalking his prey. The character does what he has to do to survive until he delivers retribution. He is proud to wield a blaster for any employer, especially if that gets him closer to his goal.
-
-[P]Characters with this backstory should consider choosing their Obligation (with GM approval) instead of rolling randomly, so that it aligns with their background. Alternately, they can tie their Motivation into their background instead.
-
-    </Description>
+[P]Characters with this backstory should consider choosing their Obligation (with GM approval) instead of rolling randomly, so that it aligns with their background. Alternately, they can tie their Motivation into their background instead.</Description>
     <Sources>
       <Source Page="14">Dangerous Covenants</Source>
       <Source Page="12">Forged in Battle</Source>
@@ -107,7 +101,7 @@ Some say a man who seeks vengeance should dig two graves: one for his target, an
     <Key>BATTLEADER</Key>
     <Name>Battlefield Leader</Name>
     <Description>
-    [H4]Battlefield Leader[h4]
+      [H4]Battlefield Leader[h4]
 [P]Being the first to battle necessarily means putting oneself in harm's way. A Guardian who jumps into the fray first and leads every charge has likely taken a lifetime's worth of hits. Guardians of this sort often leap before they look, and consider risks to themselves to be acceptable as long as they can protect the ones they lead in battle.
 [P]Characters of this sort also tend to make moral judgments on the fly, doing what they see as right in the moment rather than binding themselves to any specific code. Still, some - especially those who go on to command - develop a concrete philosophy of right or wrong over time, based on their own past experiences rather than ancient texts.</Description>
     <Source Page="14">Keeping the Peace</Source>
@@ -127,7 +121,7 @@ Some characters take to tinkering as children or as adolescents, displaying a pr
     <Name>Born and Bred</Name>
     <Description>
       [H4]Born and Bred[h4]
-  Some Smugglers have never been anything else. They may come from a long line of Smugglers. They may not know where they came from, but were forced into the life of a Smuggler before they were old enough to make a decision for themselves. Either way, smuggling is all this Smuggler knows, and he does it well.</Description>
+ Some Smugglers have never been anything else. They may come from a long line of Smugglers. They may not know where they came from, but were forced into the life of a Smuggler before they were old enough to make a decision for themselves. Either way, smuggling is all this Smuggler knows, and he does it well.</Description>
     <Source Page="15">Fly Casual</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -143,7 +137,8 @@ Citizen soldiers are commoners from across the galaxy who fight to protect their
   <Hook>
     <Key>CONARTIST</Key>
     <Name>Con Artist</Name>
-    <Description>[H4]Con Artist[h4]
+    <Description>
+	  [H4]Con Artist[h4]
 Force sensitives don't necessarily need to come from a background of enlightenment and self-reflection. Especially during these tumultuous times, Mystics can emerge even from a history of gambling, trickery, and swindling. Some used their abilities to con the wealthy or powerful, rationalizing that two wrongs do make a right. Others pulled cons to make a living while doing what they could to mitigate harm. A few did their best to ignore their conscience. What united these con artists wasn't their criminal skills, but a nagging sense that life could offer something greater. While a criminal life doesn't usually lead to enlightenment, when these con artists sought  answers, they found them rather quickly. After all, they could recognize a good con, and when the Force turned out to be the real thing, they became ardent true believers.</Description>
     <Source Page="13">Unlimited Power</Source>
     <Custom>DescOnly</Custom>
@@ -154,9 +149,7 @@ Force sensitives don't necessarily need to come from a background of enlightenme
     <Description>
       [H4]Criminal[h4]
 The reasons for pursuing a life of crime are as varied as the types of crime one can commit. Some are born into it. Some find it the only way to survive. Some are anxious to grab the "quick score" rather than work for a living. Some pursue crime as a way of life, understanding that it is a profession like any other and indeed one that requires immense skill and a little luck.
-
 [P]Naturally, the farther one travels from the center of Imperial power, the easier a life of criminal activity can be. Criminals may well become Explorers due to sheer necessity, mastering the skills and talents required to find places to hide, ways to pursue their agendas, and means to survive and thrive.
-
 [P]Additionally, the life of a criminal is not often one that is consciously chosen; instead, it is thrust upon a person because he has a horrible streak of bad luck, winding up in the wrong place at the wrong time. Grasping at any means of survival is the natural response, yet it can be nearly impossible to escape the life of a criminal once that path is chosen.</Description>
     <Sources>
       <Source Page="13">Stay on Target</Source>
@@ -176,7 +169,7 @@ These Warriors may have encountered someone who chose them to champion a cause. 
     <Name>Cynical</Name>
     <Description>
       [H4]Cynical[h4]
-   Some of the most prized possessions of a Smuggler are the stories he can tell, both tales of his exploits and rumors he has heard on his travels. The cynical Smuggler has one definitive story: the moment that not only changed the course of his life but his whole view of the galaxy. Due to a traumatic even, this Smuggler carries a big chip on his shoulder. He's lost faith in law, order, or people in general. In a galaxy of infinite possibilities, this event could be anything from the destruction of his homeworld to a personal betrayal.</Description>
+Some of the most prized possessions of a Smuggler are the stories he can tell, both tales of his exploits and rumors he has heard on his travels. The cynical Smuggler has one definitive story: the moment that not only changed the course of his life but his whole view of the galaxy. Due to a traumatic even, this Smuggler carries a big chip on his shoulder. He's lost faith in law, order, or people in general. In a galaxy of infinite possibilities, this event could be anything from the destruction of his homeworld to a personal betrayal.</Description>
     <Source Page="14">Fly Casual</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -185,20 +178,7 @@ These Warriors may have encountered someone who chose them to champion a cause. 
     <Name>Defector</Name>
     <Description>
       [H4]Defector[h4]
-Prior to joining the Rebel Alliance, defector characters
-were among the ranks of an enemy. Their former
-master was most likely the Empire, but even
-criminal organizations or regional governments that
-have crossed swords with the Alliance are possible.
-[P]For whatever reason—a moral quandary, disillusionment,
-or disgrace—such characters have
-defected from their original organization and offered
-their loyalty to the Alliance. Though accepted by the
-Rebels, defectors have yet to earn their complete
-trust. To make matters worse, defectors are fugitives
-who face certain death should they be captured by
-their former masters.
-</Description>
+Prior to joining the Rebel Alliance, defector characters were among the ranks of an enemy. Their former master was most likely the Empire, but even criminal organizations or regional governments that have crossed swords with the Alliance are possible. [P]For whatever reason—a moral quandary, disillusionment, or disgrace—such characters have defected from their original organization and offered their loyalty to the Alliance. Though accepted by the Rebels, defectors have yet to earn their complete trust. To make matters worse, defectors are fugitives who face certain death should they be captured by their former masters.</Description>
     <Source Page="13">Lead by Example</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -207,9 +187,7 @@ their former masters.
     <Name>Desire for Understanding</Name>
     <Description>
       [H4]Desire for Understanding[h4]
-
-Having realized he has some untapped power at his disposal, the character now wishes to know what this power is. Simple research on his home planet or via the HoloNet has yielded nothing, so he must set out into the wider galaxy to see what he can learn about his odd abilities..
-    </Description>
+Having realized he has some untapped power at his disposal, the character now wishes to know what this power is. Simple research on his home planet or via the HoloNet has yielded nothing, so he must set out into the wider galaxy to see what he can learn about his odd abilities..</Description>
     <Source Page="47">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -218,8 +196,7 @@ Having realized he has some untapped power at his disposal, the character now wi
     <Name>Disadvantaged</Name>
     <Description>
       [H4]Disadvantaged[h4]
-      For most beings in the galaxy, life is a constant battle for survival. Whether on a planet under strict Imperial rule or some backwater moon far from any trade route, the career of a Smuggler becomes an attractive prospect, a way of exchanging the familiar daily struggle for a life full of potential. Work as a Smuggler is not easy, but the dream of one great score to set him up forever keeps him running the hyperlanes.
-
+ For most beings in the galaxy, life is a constant battle for survival. Whether on a planet under strict Imperial rule or some backwater moon far from any trade route, the career of a Smuggler becomes an attractive prospect, a way of exchanging the familiar daily struggle for a life full of potential. Work as a Smuggler is not easy, but the dream of one great score to set him up forever keeps him running the hyperlanes.
 [P]The Smuggler with a disadvantage background is tough and a little rough around the edges. He may have lived in poverty, been a slave, worked for an oppressive employer, or otherwise had it hard growing up.</Description>
     <Source Page="13">Fly Casual</Source>
     <Custom>DescOnly</Custom>
@@ -229,14 +206,11 @@ Having realized he has some untapped power at his disposal, the character now wi
     <Name>Dissident Artist</Name>
     <Description>
       [H4]Dissident Artist[h4]
-
 Some people have a creative drive that cannot be stilled, and craft works that not only give expression to their thoughts and emotions but also push others to question their own positions. The PC has always been an uncompromising artist, and his controversial works eventually drew the ire of the Empire. In the face of pressure to tone down his creations, the PC refused to compromise his art and redoubled his efforts, challenging the establishment and inspiring the resistance. He became wanted as a political dissident of the Empire, but is now a welcome asset to the Alliance.
-
 [P]The value of an artist should not be underestimated. The character might possess an uncanny insight into how people of all species think, or he might have honed his skills and ingenuity through countless crafts and creations. Further, many artists have a level of celebrity that gives them unique access to people and places across the galaxy.</Description>
     <Source Page="15">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
   </Hook>
-
   <Hook>
     <Key>ECCENTRIC</Key>
     <Name>Eccentric</Name>
@@ -250,7 +224,8 @@ Eccentrics pursue engineering and science with reckless abandon. Though often hi
   <Hook>
     <Key>ECONOMIST</Key>
     <Name>Economist</Name>
-    <Description>[H4]Economist[h4]
+    <Description>
+	  [H4]Economist[h4]
 Economics is the study of resource allocation, but deep in its heart, it is the study of people and their choices. These proto-Mystics saw patterns, an invisible hand that moved resources to people in need, enriched planets, and connected disparate communities, defying the black-and-white morality of a profit spreadsheet. Cold economic theories and practices can clash with the warmth and light of the Force, however. If a policy can make five million people ten times as wealthy, but at the oppression of one million, could that be argued as good policy? What promotes a fall to the dark side more than turning suffering into mere numbers to be manipulated?</Description>
     <Source Page="13">Unlimited Power</Source>
     <Custom>DescOnly</Custom>
@@ -263,9 +238,6 @@ Economics is the study of resource allocation, but deep in its heart, it is the 
 Simply put, the character rubbed someone the wrong way and found himself fleeing his former life. Even if the player decides that the enemy may not be the source of an Obligation, or may not be around any more to cause the character grief, this could be used as a hook to reintroduce the enemy later on in a campaign.
     </Description>
     <Source Page="38">Edge of the Empire Core Rulebook</Source>
-    <Sources>
-      <Source Page="38">Edge of the Empire Core Rulebook</Source>
-    </Sources>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -274,9 +246,7 @@ Simply put, the character rubbed someone the wrong way and found himself fleeing
     <Description>
       [H4]Entrepreneur[h4]
 The galaxy is overflowing with opportunities for those willing to search for them. The best of those opportunities - especially for someone with more imagination than money - can be found far from the galactic center, where societies and technology are still developing.
-
 [P]A successful Entrepreneur in the outer reaches will surround himself with a team possessed of various skills. He may have a business plan, or he may simply seize upon whatever jumps out at him as he explores his environment. Regardless, Entrepreneurs who leave the safety and security of the Core Worlds are true pioneers, and they have to be adaptable and quick on their feet to survive, much less to thrive.
-
 [P]The old saying about larger risks being necessary for larger rewards holds especially true for the Entrepreneur who explores opportunities in the far corners of the galaxy. Of course, without a great deal of luck and a few allies, the penalty for failure can be quite lethal.</Description>
     <Source Page="15">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
@@ -297,9 +267,7 @@ While many Seekers choose their paths, some are set upon them by events beyond t
     <Description>
       [H4]Ex-Imperial Operator[h4]
 The Empire's bureaucracy and its military employ billions of beings. The vast majority are happy with their lot in life, even under the harsh rule of the Emperor.
-
 [P]Yet there are plenty who, for one reason or another, find themselves departed from their service. Some are simply fired. Others leave Imperial service hoping for something more. More than a few find reasons to escape serving the Empire because their freedom, or even their very lives, depend on it.
-
 [P]The safety of such a move depends a great deal upon what kind of role the character played within the Empire before his departure. A minor functionary with little access to important information will probably be able to simply quit or resign, moving on to private pursuits. Someone who knows where bodies are buried and who did what to whom as the Empire rose to power, however, may find his way out very difficult indeed.</Description>
     <Source Page="16">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
@@ -309,8 +277,7 @@ The Empire's bureaucracy and its military employ billions of beings. The vast ma
     <Name>Ex-Military</Name>
     <Description>
       [H4]Ex-Military[h4]
-The galaxy is full of armies, from numerous planetary defense forces to the awesome might of the Imperial Military. Countless millions of sentients fight in the ranks of these forces, but countless more have served their time and left the military. While some manage the transition back to civilian life, many former soldiers find that their most marketable skill is their fighting ability. For them, mercenary work or even criminal enterprise is a lucrative (if dangerous) career choice.
-    </Description>
+The galaxy is full of armies, from numerous planetary defense forces to the awesome might of the Imperial Military. Countless millions of sentients fight in the ranks of these forces, but countless more have served their time and left the military. While some manage the transition back to civilian life, many former soldiers find that their most marketable skill is their fighting ability. For them, mercenary work or even criminal enterprise is a lucrative (if dangerous) career choice.</Description>
     <Sources>
       <Source Page="13">Dangerous Covenants</Source>
       <Source Page="14">Fly Casual</Source>
@@ -332,19 +299,7 @@ Not all who served in the now-destroyed Jedi Order rose to the rank of Knight. I
     <Name>The Failed Leader</Name>
     <Description>
       [H4]The Failed Leader[h4]
-Not everyone is born to lead. Many individuals are
-thrust into positions of power against their will, or discover
-their shortcomings as leaders when it’s too late.
-These characters are such souls, who, through lack of
-skill or blatant misfortune, have failed in their attempts
-to command their people. Whether they have learned
-from their mistakes, or even recognize the mistakes for
-what they are, can be a pivotal decision when creating
-such Commanders. What remains to be seen is how
-they use the lessons they’ve learned, if they’ve learned
-them at all, and whether they can earn back the respect
-they’ve lost—that of their peers, as well as their own.
-</Description>
+Not everyone is born to lead. Many individuals are thrust into positions of power against their will, or discover their shortcomings as leaders when it’s too late. These characters are such souls, who, through lack of skill or blatant misfortune, have failed in their attempts to command their people. Whether they have learned from their mistakes, or even recognize the mistakes for what they are, can be a pivotal decision when creating such Commanders. What remains to be seen is how they use the lessons they’ve learned, if they’ve learned them at all, and whether they can earn back the respect they’ve lost—that of their peers, as well as their own.</Description>
     <Source Page="15">Lead by Example</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -354,9 +309,7 @@ they’ve lost—that of their peers, as well as their own.
     <Description>
       [H4]Fallen Noble[h4]
 There are millions - perhaps billions - of noble families throughout the galaxy, and quite a few of them have black sheep. An aristocrat with a poor reputation finds life in the Core Worlds difficult, perhaps even impossible. The outer reaches offer opportunities for redemption, or at least a chance to start over, for the noble who needs to escape scandal or worse.
-
 [P]Nobles rarely have to pursue any kind of profession. Many, however, enjoy various hobbies and intellectual pursuits, which they invariably learn how to parley into an actual occupation once forced out of their comfortable lifestyles. Naturally, a noble may have to engage in a great deal of on-the-job training to really understand his pursuits. Necessity can be a wonderful motivator in such circumstances.
-
 [P]Whether others even know if one is a noble has a lot to do with the measures he takes to maintain that secret. He may decide that being open about it will somehow give him advantages when dealing with others. If he's smart, however, he will likely go out of his way to suppress that part of his background, preferring to avoid attention on his troubled past.</Description>
     <Source Page="16">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
@@ -364,12 +317,10 @@ There are millions - perhaps billions - of noble families throughout the galaxy,
   <Hook>
     <Key>FLAW</Key>
     <Name>A Failure of Character</Name>
-    <Description>[H4]A Failure of Character[h4]
+    <Description>
+	  [H4]A Failure of Character[h4]
 Some inherent flaw in the character causes him to leave behind the life he knew for the unknown. This background hook ties in well with some Obligations such as Addiction, Obsession, or Betrayal. Regardless of the cause, the character finds himself shut out from his former society, left to deal with his own problems. However, the character may view this in a positive light, seeing himself freed from the pressures of scrutiny or keeping on the move to leave trouble behind.</Description>
     <Source Page="38">Edge of the Empire Core Rulebook</Source>
-    <Sources>
-      <Source Page="38">Edge of the Empire Core Rulebook</Source>
-    </Sources>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -377,7 +328,6 @@ Some inherent flaw in the character causes him to leave behind the life he knew 
     <Name>Fleeing the Empire</Name>
     <Description>
       [H4]Fleeing the Empire[h4]
-
 The Empire hunts down Force users diligently and enthusiastically. The character may have betrayed his affinity to the Force in some way, perhaps by anticipating someone's thoughts or saving someone's life by stopping a crashing speeder with his mind. Whatever the cause, the character is now hunted by Imperial agents and must flee his former life or be destroyed.</Description>
     <Source Page="47">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -385,7 +335,8 @@ The Empire hunts down Force users diligently and enthusiastically. The character
   <Hook>
     <Key>FREERUNNER</Key>
     <Name>Freerunner</Name>
-    <Description>[H4]Freerunner[h4]
+    <Description>
+	  [H4]Freerunner[h4]
 Freerunners turn movement into a highly skilled and specialized art form, using speed, strength, and agility to traverse terrain and cityscapes via quick, unexpected, and sometimes risky routes. To keep moving, they use any reachable surface, whether horizontal, vertical, or somewhere in between. They rapidly cross otherwise impassable or difficult terrain, and their fast and erratic movements make pursuit extremely difficult, if not impossible, for untrained pursuers.
 [P]Freerunner-style drivers and pilots use their techniques to achieve similar results in vehicles and starships. Some were once stunt pilots or drivers trained to use their abilities in live and recorded performances. Other might have received formal training in tactical driving as bodyguards or security personnel.
 [P]With a high degree of training and talent, drivers might spin a vehicle around in a nearly impossibly small amount of space. They can make spectacular jumps while rotating the vehicle about its axis in death-defying and gut-wrenching fashion.
@@ -416,7 +367,6 @@ Gang leaders don't always organize their groups purely for violence. Some toughs
     <Name>With Great Power...</Name>
     <Description>
       [H4]With Great Power...[h4]
-
 Some individuals cannot stand idly by while watching the evils the Empire inflicts on the galaxy. The character knows he's been given a gift that few others have. To squander it while innocents suffer would be the height of irresponsibility.</Description>
     <Source Page="47">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -447,8 +397,7 @@ Even in the rough-and-tumble world of [B]Edge of the Empire[b], there are those 
     <Name>The Idealist</Name>
     <Description>
       [H4]The Idealist[h4]
-      Many Colonists are exiles from more populous worlds, fleeing armed foes or haunting memories. Other Colonists, though, leave the Core Worlds not out of necessity or fear, but with more selfless intentions. The Outer Rim is home to countless settlements of sentients, and many of them are plagued by political instability, impoverished, or oppressed by local powers. From mining colonies threatened by pirates to worlds wracked by plagues brought by careless travelers, the point of light in the vast darkness of untamed space are threatened by many problems unknown in the Core.
-
+Many Colonists are exiles from more populous worlds, fleeing armed foes or haunting memories. Other Colonists, though, leave the Core Worlds not out of necessity or fear, but with more selfless intentions. The Outer Rim is home to countless settlements of sentients, and many of them are plagued by political instability, impoverished, or oppressed by local powers. From mining colonies threatened by pirates to worlds wracked by plagues brought by careless travelers, the point of light in the vast darkness of untamed space are threatened by many problems unknown in the Core.
 [P] Most natives of the Core Worlds would not consider anything as radical as leaving the comfort of their everyday routines to aid individuals they have never laid eyes on before. Apart from the discomfort of leaving familiar surroundings, the Outer Rim can be extremely dangerous. Still, some individuals feel the inexorable pull of empathy urging them to leave their homes and routines to help their fellow sentients, while others see rendering such aid as a matter of duty, a personal debt to society that must be repaid to those less fortunate than themselves. Each individual has unique motives, but it is certain that there are many idealists to be found amongst those who strike out beyond the Core.</Description>
     <Source Page="15">Far Horizons</Source>
     <Custom>DescOnly</Custom>
@@ -458,20 +407,8 @@ Even in the rough-and-tumble world of [B]Edge of the Empire[b], there are those 
     <Name>Idealistic Recruit</Name>
     <Description>
       [H4]Idealistic Recruit[h4]
-While those victimized by the Empire make up a significant portion of rebel forces, as do Imperial defectors, their numbers aren’t enough to threaten a single
-Imperial fortress world, let alone engage in conventional warfare with the Empire on multiple fronts. The
-Alliance Army is dependent on a steady stream of
-young, wide-eyed recruits willing to give their all in
-an attempt to restore peace and justice to the galaxy. Fresh faces drawn from every corner of the galaxy travel to secret rebel bases to undergo the basic
-training the Alliance can provide before deployment.
-[P]Recruits come from all social and economic backgrounds, but those from the Outer Rim are most eager
-to join, having only heard about Imperial atrocities
-secondhand. Brave recruiters carefully spread propaganda vids across backwater planets and arrange
-meetings to discuss how the Empire impacts the galaxy, eventually swaying local youth to join the Alliance.
-Most rimfolk already possess most of the skills the rebels want in their recruits. Life on the Rim often teaches
-them resilience in the face of adversity, familiarity with
-ranged weaponry, basic equipment repair skills, and an
-eagerness for any life that gets them offworld.</Description>
+While those victimized by the Empire make up a significant portion of rebel forces, as do Imperial defectors, their numbers aren’t enough to threaten a single Imperial fortress world, let alone engage in conventional warfare with the Empire on multiple fronts. The Alliance Army is dependent on a steady stream of young, wide-eyed recruits willing to give their all in an attempt to restore peace and justice to the galaxy. Fresh faces drawn from every corner of the galaxy travel to secret rebel bases to undergo the basic training the Alliance can provide before deployment.
+[P]Recruits come from all social and economic backgrounds, but those from the Outer Rim are most eager to join, having only heard about Imperial atrocities secondhand. Brave recruiters carefully spread propaganda vids across backwater planets and arrange meetings to discuss how the Empire impacts the galaxy, eventually swaying local youth to join the Alliance. Most rimfolk already possess most of the skills the rebels want in their recruits. Life on the Rim often teaches them resilience in the face of adversity, familiarity with ranged weaponry, basic equipment repair skills, and an eagerness for any life that gets them offworld.</Description>
     <Source Page="14">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -480,9 +417,7 @@ eagerness for any life that gets them offworld.</Description>
     <Name>Imperial Outcast</Name>
     <Description>
       [H4]Imperial Outcast[h4]
-
 For obedient citizens of the Empire, success is said to come from joining the forces of law and order. Whether through Officer School, or as a bureaucrat in one of many local puppet governments, or merely as a low-level desk jockey, people from all worlds are encouraged to contribute to their government and reap the rewards of status and power. The PC started down this road, but events conspired to change his path. Perhaps the character became disillusioned with the chain of authority after being given an unsavory order, or he became a victim of the corruption and discrimination rampant within the Empire.
-
 [P]Forgetting the mindset that comes from years of training in the Empire is no simple task, and the character is likely to feel isolated, like a traitor who abandoned everything he had. However, he is likely to find, amid the ranks of the Rebel Alliance, others who began as the Empire's brightest and eventually realized that they, too, had to leave. </Description>
     <Source Page="12">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
@@ -492,9 +427,7 @@ For obedient citizens of the Empire, success is said to come from joining the fo
     <Name>Industrialist</Name>
     <Description>
       [H4]Industrialist[h4]
-
 The galaxy is home to a dazzling array of shipyards, factories, and industrial complexes manufacturing all manner of equipment, such as weapons, droids, capital ships, mundane tools, and luxury items. The PC comes from a life of work in such operations, perhaps employed as a labor captain, shift supervisor, bureaucrat, or possibly even as the partial or sole owner of such a corporation. Running an operation that makes and distributes complicated equipment is no easy task, but the PC has made a career of making sure everyone in the business operates in unison to get things built. An astute knowledge of resource management can prove a boon to the beleaguered Alliance.
-
 [P]Unfortunately, many of the challenges facing the Alliance come to rest at the industrialist's doorstep. The Rebel forces are disparate, poorly funded, and frequently constrained to operating in secret. In sec-tors where the Empire's control is tight and regulations are strict, the character must reach into the depths of his experience to make ends meet.</Description>
     <Source Page="14">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
@@ -539,7 +472,8 @@ Law and order is not typically the first thing that comes to mind when consideri
   <Hook>
     <Key>LAWENF</Key>
     <Name>Law Enforcement Agent</Name>
-    <Description>[H4]Law Enforcement Agent[h4]
+    <Description>
+	  [H4]Law Enforcement Agent[h4]
 Plenty of current and former law enforcement agents dislike Imperial laws and enforcement methods. Personnel who observe or are forced to participate in the Empire’s oppressive operations may become sympathizers or join the Rebellion outrights. Officers and detectives have many skills suitable for a Spy career.
 [P]Detectives, investigators, and profilers use deductive reasoning and similar skills to analyse new information. These individuals might act as field agents, or they may review incoming data. Patrol officers might have a combination of investigation and fighting skills.
 [P]Law officer training depends largely on earlier experience, ability, and residence. Agents on Core Worlds usually receive high-quality training, and are well-versed in Imperial laws, with access to excellent resources and support staff. Agents from less populated or remote worlds are likely to have less training, staff, and resources and depend more on their own skills and experience.
@@ -553,15 +487,15 @@ Plenty of current and former law enforcement agents dislike Imperial laws and en
     <Name>The Local Leader</Name>
     <Description>
       [H4]The Local Leader[h4]
-     Many colonies, especially the smaller ones, contain a core cadre of prominent individuals. These business-people, ranchers, professionals, and other citizens in good standing have a strong influence on a local community. A small colony might lack an established political system or authoritative central government. Instead, these local leaders step in to fill the void, doing what they can to keep their community running smoothly.
-</Description>
+     Many colonies, especially the smaller ones, contain a core cadre of prominent individuals. These business-people, ranchers, professionals, and other citizens in good standing have a strong influence on a local community. A small colony might lack an established political system or authoritative central government. Instead, these local leaders step in to fill the void, doing what they can to keep their community running smoothly.</Description>
     <Source Page="14">Far Horizons</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>MAKEUP</Key>
     <Name>Makeup Artist</Name>
-    <Description>[H4]Makeup Artist[h4]
+    <Description>
+	  [H4]Makeup Artist[h4]
 Espionage field agents live in a world of deception and misdirection. Their true identities must be kept secret through technological, visual, audial means. It is perfectly acceptable to publicly wear helmets and masks in some parts of the galaxy, but that typically is too conspicuous when penetrating Imperial targets. While fake identities and falsified records can provide a degree of protection, sometimes it simply isn’t wise, or possible, for an agent’s true appearance to be seen.
 [P]Makeup artists and costumers provide the required skills and techniques to turn someone into just about anyone else. The change could be subtle, with slight alterations to hairstyle, facial hair, and eyes. Radical transformations are also possible using high-quality theatrical masks, prosthetics, and even full bodysuits.
 [P]Master holographic technicians may know exotic techniques for transforming an individual using advanced holographic imaging. Holomasks and full-body holographic disguise matrices can be extremely useful (though expensive) in the right conditions.
@@ -583,9 +517,6 @@ Not every Soldier of the Rebellion fights for the high and mighty ideals of the 
     </Sources>
     <Custom>DescOnly</Custom>
   </Hook>
-
-
-
   <Hook>
     <Key>MILITARY</Key>
     <Name>Military</Name>
@@ -601,9 +532,7 @@ Not every Soldier of the Rebellion fights for the high and mighty ideals of the 
     <Name>Minority Voice</Name>
     <Description>
       [H4]Minority Voice[h4]
-
 The Empire has built much of its power by taking advantage of conflict, ostracizing and exploiting smaller populations for its own gain. Some species, such as the Wookiees, are enslaved on their own worlds. Others are merely denied the privileges of the common citizen. Rather than choose to accept this injustice silently, the PC spoke up for a group victimized by the Empire's abuses. As a champion who fights for fairness for these outcasts, the PC highlights the injustices brought upon them. The Empire does not tolerate dissent, but the Rebel Alliance welcomes such voices.
-
 [P]The minority voice is likely to be an outspoken member of the Alliance. With a specific cause to champion, the character has good reason to push the group to do more to help those in need.</Description>
     <Source Page="13">Desperate Allies</Source>
     <Custom>DescOnly</Custom>
@@ -613,11 +542,8 @@ The Empire has built much of its power by taking advantage of conflict, ostraciz
     <Name>The New Recruit</Name>
     <Description>
       [H4]The New Recruit[h4]
-
 Under the guidance of such wise administrators as Mon Mothma, the Alliance began recruiting efforts very early in its inception. Those skilled in the ways of intelligence, oration, and sheer talent scouting were employed from the start to build growing networks dedicated to finding those who had cause to oppose the Empire as well as the capability and the will to take action against it. As the conflict grows, so, too, does this network dedicated to finding bodies to fill the ranks and serve the needs of the Alliance.
-
 [P]A Player Character may well be a part of the Rebellion because he was discovered by someone in this network—someone who saw his potential and recognized his willingness to fight against the current regime imposed by Emperor Palpatine. It might not even have been someone normally tasked with recruitment who found the PC; chance encounters by those connected to the Alliance with those who might be able to help occur all the time, and risks are frequently taken if it means an opportunity to gain the services of a capable and savvy ally.
-
 [P]The cellular nature of most Alliance operations minimizes the risk of betrayal fairly well. Such recruits are tested considerably before they are ever given access to sensitive material or plans, and their awareness of the extent of the network they are connected to is kept to a minimum until they have truly earned the trust of their superiors.</Description>
     <Source Page="44">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -648,7 +574,7 @@ The simplest reason for a character to live on the fringes of society is the bas
     <Name>The Opportunist</Name>
     <Description>
       [H4]The Opportunist[h4]
-     Founding a colony is hard work, but a generation or two later, when the hardest work is done but opportunity still abounds, the opportunist moves in with fresh resources. These characters are often looked down upon by already established families, especially those opportunists seeking a leadership position before the landing ramp is even fully extended. There are also colonies with corporate or Imperial interests, where a bureaucrat offworld might send in new leadership that has minimal experience. Opportunists are, at their core, enthusiastic and willing to take any risk, but often lack a key understanding of the beings they intend to influence. In truth, this understanding can only come with time.</Description>
+Founding a colony is hard work, but a generation or two later, when the hardest work is done but opportunity still abounds, the opportunist moves in with fresh resources. These characters are often looked down upon by already established families, especially those opportunists seeking a leadership position before the landing ramp is even fully extended. There are also colonies with corporate or Imperial interests, where a bureaucrat offworld might send in new leadership that has minimal experience. Opportunists are, at their core, enthusiastic and willing to take any risk, but often lack a key understanding of the beings they intend to influence. In truth, this understanding can only come with time.</Description>
     <Source Page="11">Far Horizons</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -668,7 +594,6 @@ The simplest reason for a character to live on the fringes of society is the bas
     <Description>
       [H4]Peace Turned To War[h4]
 While many Hired Guns get their start in some sort of violent enterprise, not all mercenaries or marauders begin their lives as warriors. Some spent a great deal of their lives in an honest career or some other peaceful labor, before some pivotal event set them on the path to become the hardened veteran they are today. Whatever that event was, the character's personality is still defined by the work he did beforehand.
-
     </Description>
     <Source Page="15">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
@@ -697,8 +622,7 @@ Political experts found themselves able to see the bigger picture and used their
     <Name>Privileged</Name>
     <Description>
       [H4]Privileged[h4]
-     Whether wealth is won, earned or inherited some people just have a lot more credits than anyone else. However, bad luck, poor choices in trade, or extravagant lifestyle can quickly turn a rich person into a poor one. Some Smugglers have lived the good life but lost everything. Some may have even purposefully left wealth behind, tired of the strings attached or dreaming of a life of adventure and glory.
-
+Whether wealth is won, earned or inherited some people just have a lot more credits than anyone else. However, bad luck, poor choices in trade, or extravagant lifestyle can quickly turn a rich person into a poor one. Some Smugglers have lived the good life but lost everything. Some may have even purposefully left wealth behind, tired of the strings attached or dreaming of a life of adventure and glory.
 [P]The Smuggler who has known wealth, whether he frittered it away or had it forcibly taken, is not likely to have lost his privileged attitude.</Description>
     <Source Page="13">Fly Casual</Source>
     <Custom>DescOnly</Custom>
@@ -741,11 +665,11 @@ Refugees have escaped violence, starvation, and persecution only to face similar
     <Source Page="14">Endless Vigil</Source>
     <Custom>DescOnly</Custom>
   </Hook>
-
   <Hook>
     <Key>RELECSTATIC</Key>
     <Name>Religious Ecstatic</Name>
-    <Description>[H4]Religious Ecstatic[h4]
+    <Description>
+	  [H4]Religious Ecstatic[h4]
 Ecstatics allowed the Force to flow through them uninhibited. These people interpreted the Force through their own religions, adding insights and ideas that for some illuminated, others perplexed, and a few terrified. This "madness" and speaking for the gods were actually their attempts to describe their thoughts and feelings of the Force. When they discovered the Force to be a universal power, they didn't abandon their religion, but simply found the truths within, forging a new yet still traditional path.
 [P]Allowing unchecked emotion to fuel religious fervor, however, can take an ecstatic toward the dark side. Mistaking fear and anger for religious insight can lead people toward victimizing innocents. Instead of listening to the Force, these ecstatics listened only to pain, rage, and terror, and then channeled it right back into the world.</Description>
     <Source Page="15">Unlimited Power</Source>
@@ -770,8 +694,7 @@ Not all Spy recruits come from honourable professions. Many already operate in t
     <Source Page="15">Cyphers and Masks</Source>
     <Custom>DescOnly</Custom>
   </Hook>
-
-<Hook>
+  <Hook>
     <Key>RESPECT</Key>
     <Name>Respectable</Name>
     <Description>
@@ -794,9 +717,7 @@ Knowledge can be a dangerous thing and rogue scholars know this. Emperor Palpati
     <Name>Scion of a Legacy</Name>
     <Description>
       [H4]Scion of a Legacy[h4]
-One of the most powerful motivations in a character's life can be his parents or other mentors. Many children follow in the footsteps of their fathers or mothers, even if they do so because that is what is expected of them. However, living up to the reputation of an elder can be difficult even when that is what the character desires most. At some point the character's own life, personality, and morality might come in conflict with the reputation of his forebears, and he must change himself or break with the past.
-
-    </Description>
+One of the most powerful motivations in a character's life can be his parents or other mentors. Many children follow in the footsteps of their fathers or mothers, even if they do so because that is what is expected of them. However, living up to the reputation of an elder can be difficult even when that is what the character desires most. At some point the character's own life, personality, and morality might come in conflict with the reputation of his forebears, and he must change himself or break with the past.</Description>
     <Source Page="15">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -805,11 +726,8 @@ One of the most powerful motivations in a character's life can be his parents or
     <Name>The Searching Insurgent</Name>
     <Description>
       [H4]The Searching Insurgent[h4]
-
 Once they make the decision to oppose the terror and atrocities of the Empire, many individuals go looking for a way to contact and join up with the Rebellion. As badly as the Alliance needs people, though, it's not necessarily easy to find Alliance members to talk to about signing on. The vastly superior forces and assets of the Empire make it very dangerous for anyone to openly support the Alliance, as many planets and people discovered in the immediate aftermath of the Declaration of Rebellion. Imperial Intelligence and related agencies—not to mention countless bounty hunters—are constantly searching for any and all beings connected to the Rebellion, so secrecy is paramount to survival.
-
-[p]As such, finding a way to join the Alliance's efforts against the Empire can be a quest all its own. It could even be the basis for the start of an [B]Age of Rebellion[b] campaign. Hopefuls need to do a lot of research, investigation, and sneaking around to discover clues about the Rebellion and to avoid the attention of Imperial agents. At the same time, they must prove themselves capable and trustworthy to anyone with whom they might make contact. Such an endeavor is a very tense, very delicate game of cat and mouse at first; the searchers might even fall under Alliance observation for a time, not knowing they are being observed and judged while they continue to try to find a way in.
-
+[P]As such, finding a way to join the Alliance's efforts against the Empire can be a quest all its own. It could even be the basis for the start of an [B]Age of Rebellion[b] campaign. Hopefuls need to do a lot of research, investigation, and sneaking around to discover clues about the Rebellion and to avoid the attention of Imperial agents. At the same time, they must prove themselves capable and trustworthy to anyone with whom they might make contact. Such an endeavor is a very tense, very delicate game of cat and mouse at first; the searchers might even fall under Alliance observation for a time, not knowing they are being observed and judged while they continue to try to find a way in.
 [P]Many who want to join the Rebellion do so in rather dramatic fashion, taking it upon themselves to simply start striking against Imperial forces and assets. Such acts can be foolhardy and stupid, but they can also be brave and daring. If the would-be Rebels manage to succeed without getting themselves killed in the process, they may well draw the attention of Alliance operatives who are willing to talk to them about joining.</Description>
     <Source Page="45">Age of Rebellion Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -819,9 +737,7 @@ Once they make the decision to oppose the terror and atrocities of the Empire, m
     <Name>Bush Pilot</Name>
     <Description>
       [H4]Bush Pilot[h4]
-
 Most agriworlds in the galaxy are the same: vast fields used to grow crops or graze herds, with long distances between neighbors. The farmers and ranchers of the galaxy typically use airspeeders as utility vehicles for crop dusting, herding, and transport into town. The bored youth of most quiet agriworlds almost universally chase adventure by buzzing the fields and threading the canyons of their homeworlds, imagining they are anywhere else in the galaxy. These young bush pilots often meet up and race through dangerous terrain unsupervised, and are among the most underrated pilots in the galaxy thanks to their extremely informal training.
-
 [P]Perhaps the most famous bush pilot in the galaxy is Luke Skywalker, who honed his skills flying a T-16 Skyhopper across Tatooine's Beggar's Canyon and moisture farms with his friends. Skywalker went on to become the hero of the Battle of Yavin and a key leader in the elite Rogue Squadron. Countless pilots of the Rebellion come From similar, humble origins, and sometimes their lack of formal training enables them to surprise opponents trained in traditional combat tactics. </Description>
     <Source Page="14">Stay on Target</Source>
     <Custom>DescOnly</Custom>
@@ -831,11 +747,8 @@ Most agriworlds in the galaxy are the same: vast fields used to grow crops or gr
     <Name>Clone Wars Veteran</Name>
     <Description>
       [H4]Clone Wars Veteran[h4]
-
 While many think of the Clone Wars as a conflict between Jedi-led clone armies and Separatist droids, the truth of the matter is that most combatants were part of local defense forces and resistance movements. Veterans of the Clone Wars are valued as instructors first, who pass on their valuable combat experience to bush pilots and freighter captains joining the fight. Still, when called upon to suit up, veterans are able to shake any rust quickly, and become lethal presences in any skirmish.
-
-[p]The Clone Wars gave many Aces the chance to establish heroic legacies, which thrust them into prominent military or political roles in the subsequent Galactic Empire. Others quietly retired, any lust for combat they might have once possessed satisfied ten-fold. On the other hand, most Separatist veterans languished in exile on the Outer Rim or rotted in Imperial prisons. When the Rebellion against the Empire took shape, a number of veteran Aces defected from the Empire, came out of retirement, or were freed by the Rebels to assist in their struggle.
-
+[P]The Clone Wars gave many Aces the chance to establish heroic legacies, which thrust them into prominent military or political roles in the subsequent Galactic Empire. Others quietly retired, any lust for combat they might have once possessed satisfied ten-fold. On the other hand, most Separatist veterans languished in exile on the Outer Rim or rotted in Imperial prisons. When the Rebellion against the Empire took shape, a number of veteran Aces defected from the Empire, came out of retirement, or were freed by the Rebels to assist in their struggle.
 [P]The list of Clone Wars veterans among Rebel ranks is extensive, including Garven Dreis, immortalized for his sacrifice at the Battle of Yavin under the call sign Red Leader. During the Clone Wars, Dreis was a local defense force pilot at Virujansi, and flew alongside Anakin Skywalker.</Description>
     <Sources>
       <Source Page="15">Stay on Target</Source>
@@ -848,9 +761,7 @@ While many think of the Clone Wars as a conflict between Jedi-led clone armies a
     <Name>Entertainer</Name>
     <Description>
       [H4]Entertainer[h4]
-
 Among civilians, there are few events more popular than a day at the racetrack. Spectators gather from across the planet to witness some of the bravest beings in the galaxy compete to find out who is the fastest. Between races, competitors often participate in exhibitions to hone their skills, test their vehicles, and dazzle spectators with heart-stopping maneuvers.
-
 [P]Most competition pilots are peaceful, living only for the thrill of victory, and for feeling that unique bond with their vehicle that only comes from pushing it to the limit with daredevil stunts and holo finishes. However, if pushed into choosing a side in the Galactic Civil War, entertainers possess the precise control over their vehicles required to make them lethal combatants. </Description>
     <Source Page="13">Stay on Target</Source>
     <Custom>DescOnly</Custom>
@@ -860,7 +771,6 @@ Among civilians, there are few events more popular than a day at the racetrack. 
     <Name>Imperial Defector</Name>
     <Description>
       [H4]Imperial Defector[h4]
-
 Imperial academies at Carida, Raithal, Corulag, and Prefsbelt turn out a never-ending stream of officers, stormtroopers, and pilots for the Empire. The academy teaches standard Imperial tactics and maneuvers, so that graduates can assimilate into military units throughout Imperial space. The program weans out undesirables by design, and a fair percentage of each class of trainees washes out.
 [P]While the curriculum emphasizes loyalty to the Empire, many cadets find themselves unable to execute what they see as unjust orders. These graduates often desert or defect to the Rebellion. A famous example is the mutiny of the Rand Ecliptic, which was led by recent academy graduates Biggs Darklighter and Derek "Hobbie" Klivian. Once in command of the vessel, Biggs, Hobbie, and a number of other sympathetic TIE pilots joined up with the Rebellion.</Description>
     <Sources>
@@ -874,7 +784,6 @@ Imperial academies at Carida, Raithal, Corulag, and Prefsbelt turn out a never-e
     <Name>Prototype Tester</Name>
     <Description>
       [H4]Prototype Tester[h4]
-
 The tester's job is to stress new, experimental vehicles until they break. He pushes the limits until all the various ceilings and tolerances are defined, refined, and improved. Then, he tries to break the vehicle all over again so corporations can put out a reliable, thoroughly tested vehicle. When an Ace comes from a prototype testing background, he brings nerves of durasteel and more than a little luck with him. Of all the Ace backgrounds, the tester is the most experienced at dealing with a malfunctioning vehicle and making emergency landings.</Description>
     <Source Page="14">Stay on Target</Source>
     <Custom>DescOnly</Custom>
@@ -895,7 +804,7 @@ The lives of Seekers can be about more than just establishing their own path. So
     <Description>
       [H4]Talented Amateur[h4]
 Talented amateurs are almost the polar opposite of the academics, with little to no formal training. Instead, they are passionate autodidacts, self-taught tinkerers, or innate savants. While they typically cannot compare to professionals, they are often more creative in their approaches and think outside the bow more easily than those steeping in rigid and hide-bound academia.
-[P] These talented and driven amateurs can be found throughout the galaxy. From the far reaches of the Outer Rim, to glittering Coruscant, amateurs live wherever machines and technology are readily available. While those who serve in the Rebel Alliance are from an incredibly diverse cross section of galactic species, cultures, and societies, they are bound together by passion and a common love of learning.</Description>
+[P]These talented and driven amateurs can be found throughout the galaxy. From the far reaches of the Outer Rim, to glittering Coruscant, amateurs live wherever machines and technology are readily available. While those who serve in the Rebel Alliance are from an incredibly diverse cross section of galactic species, cultures, and societies, they are bound together by passion and a common love of learning.</Description>
     <Source Page="15">Fully Operational</Source>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -917,14 +826,11 @@ The hunting of sentient beings is said by some to be the most thrilling and trea
     <Source Page="16">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
   </Hook>
-
-
   <Hook>
     <Key>ULTAB</Key>
     <Name>Ultimate Abilities</Name>
     <Description>
       [H4]Ultimate Abilities[h4]
-
 Some characters see their strange abilities as a sign that they are destined for greatness. They can do things that others around them cannot. Clearly, this means they are a cut above the general population. To leave their life behind is merely the first step in a journey that may see them rise to become the ultimate power in the universe. Whether or not they use that power for good—or for evil—remains to be seen.</Description>
     <Source Page="47">Force and Destiny Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -952,8 +858,7 @@ In the [B]Edge of The Empire[b], it can be hard to avoid occasionally interactin
     <Name>Wanderer</Name>
     <Description>
       [H4]Wanderer[h4]
-Curiosity? Boredom? Tragic circumstances? A desire for something more? Whatever it is that drives someone to wander away from his home and set out among the stars, it must be a powerful force to overcome the fear of the unknown. Most beings are simply overwhelmed by the sheer vastness of the galaxy, much less the uncountable dangers they must face each day as they ramble across the hyperlanes from planet to planet. The hardy soul who does so merely because he is drawn to is either exceptionally brave or a touch mad. Perhaps he is both.
-</Description>
+Curiosity? Boredom? Tragic circumstances? A desire for something more? Whatever it is that drives someone to wander away from his home and set out among the stars, it must be a powerful force to overcome the fear of the unknown. Most beings are simply overwhelmed by the sheer vastness of the galaxy, much less the uncountable dangers they must face each day as they ramble across the hyperlanes from planet to planet. The hardy soul who does so merely because he is drawn to is either exceptionally brave or a touch mad. Perhaps he is both.</Description>
     <Sources>
       <Source Page="18">Enter the Unknown</Source>
       <Source Page="15">Savage Spirits</Source>
@@ -964,25 +869,19 @@ Curiosity? Boredom? Tragic circumstances? A desire for something more? Whatever 
     <Key>WAYFARER</Key>
     <Name>Wayfarer</Name>
     <Description>
-    [H4]Wayfarer[h4]
+      [H4]Wayfarer[h4]
 [P]Some who follow the path of the Guardian are not content, or able to stay in one place. The galaxy is a big place, with countless planets, all sorts of strange creatures and civilizations, and naturally, innumerable beings who need protection. Guardians who follow the winds - or the call of the Force - often find others counting on them.  A wayfaring Guardian rises to the occasion, but neither allies nor accolades can keep this character rooted. After all, hyperspace is calling just as surely as the voices of the weak, the powerless, and the oppressed.
-[P]Indeed, perhaps the need to protect others keeps this Guardian traveling - lingering too long in one place risks drawing the wrath of the Empire upon the very people the Guardian sought to safeguard. Guardians of this sort often follow only the call of their own conscience, unbound by structured regulations or explicit codes. Still, there are always exceptions; some who wander do so to fulfill oaths, uphold obligations, or pursue more esoteric ends.[P][H4]
-  </Description>
+[P]Indeed, perhaps the need to protect others keeps this Guardian traveling - lingering too long in one place risks drawing the wrath of the Empire upon the very people the Guardian sought to safeguard. Guardians of this sort often follow only the call of their own conscience, unbound by structured regulations or explicit codes. Still, there are always exceptions; some who wander do so to fulfill oaths, uphold obligations, or pursue more esoteric ends.</Description>
     <Source Page="15">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>
   </Hook>
-
   <Hook>
     <Key>WRONG</Key>
     <Name>Wrong Place, Wrong Time</Name>
     <Description>
       [H4]Wrong Place, Wrong Time[h4]
-The character finds himself embroiled in a life of adventure through no fault of his own. He could have been captured by pirates, the sole survivor of a deadly plague, or even something as mundane as being unemployed and forced to find some new way to bring in the credits. Regardless of the method for the character's push from society, he finds it nearly impossible to return to the way that things used to be. The character must quickly adapt to his new and dangerous situation.
-</Description>
+The character finds himself embroiled in a life of adventure through no fault of his own. He could have been captured by pirates, the sole survivor of a deadly plague, or even something as mundane as being unemployed and forced to find some new way to bring in the credits. Regardless of the method for the character's push from society, he finds it nearly impossible to return to the way that things used to be. The character must quickly adapt to his new and dangerous situation.</Description>
     <Source Page="38">Edge of the Empire Core Rulebook</Source>
-    <Sources>
-      <Source Page="38">Edge of the Empire Core Rulebook</Source>
-    </Sources>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -990,9 +889,8 @@ The character finds himself embroiled in a life of adventure through no fault of
     <Name>Yesterday's Hero</Name>
     <Description>
       [H4]Yesterday's Hero[h4]
- Once this character was the man of the hour, toasted in every shadowport from Kothlis to Nar Shaddaa. However, everything in this life passes in time, and whether through the machinations of a political enemy, the natural ebb and flow of popularity, or a legitimate mistake or miscalculation, the character has now fallen from grace. Where he once commanded legions, now he only commands the blaster at his hip. Where once he had limitless resources, now he scrounges for credits, his days of glory a distant and probably bitter memory. Regaining his former success might be his overriding goal, but it is just as possible that the character has given up on himself and simply wishes to avoid any reminders of his past.
-</Description>
+ Once this character was the man of the hour, toasted in every shadowport from Kothlis to Nar Shaddaa. However, everything in this life passes in time, and whether through the machinations of a political enemy, the natural ebb and flow of popularity, or a legitimate mistake or miscalculation, the character has now fallen from grace. Where he once commanded legions, now he only commands the blaster at his hip. Where once he had limitless resources, now he scrounges for credits, his days of glory a distant and probably bitter memory. Regaining his former success might be his overriding goal, but it is just as possible that the character has given up on himself and simply wishes to avoid any reminders of his past.</Description>
     <Source Page="13">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
   </Hook>
-  </Hooks>
+</Hooks>
