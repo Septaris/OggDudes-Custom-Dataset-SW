@@ -3,7 +3,9 @@
   <Key>MUNIFICENTFRIG</Key>
   <Name>Munificent-Class Heavy Frigate</Name>
   <Description>[H3][I]Munificent[i] - Class Heavy Frigate[h3]
-Please see page 77 of the Rise of the Separatists Sourcebook for details.</Description>
+Often referred to as “pocket cruisers,” Munificent-class frigates are powerful, multi-role ships used with great effect by the CIS navy. Fast, lightly armored, and almost laughably overgunned, Munificent-class frigates are designed to operate in squadrons with small-ship support to take down larger capital ships. To this end, they mount a large array of turbolasers, ion cannons, flak cannons, and ordnance launchers. Deadly and efficient, they are among the most feared ships in the Confederacy navy.
+[P]Munificent-class frigates are almost entirely automated. They have a nominal crew of around 200, who see to maintenance and daily running of the ship. The rest of the ships’ interior space is given over to machinery, redundant systems, hangar facilities for the four squadrons of vulture droids typically carried, and storage space for thousands of battle droids.
+[P]These ships are more than a match for anything the Republic Navy possesses of similar size and force. Munificents have been at space for decades protecting the Banking Clan’s far-flung assets, and their crews have more experience fighting and surviving in space than most of the Republic Navy and GAR.</Description>
   <Source Page="77">Rise of the Separatists</Source>
   <Custom>AddedItem</Custom>
   <Type>Frigate</Type>

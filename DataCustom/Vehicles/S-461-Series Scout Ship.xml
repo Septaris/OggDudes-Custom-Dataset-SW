@@ -3,7 +3,7 @@
   <Key>S461SCOUT</Key>
   <Name>S-461-Series Scout Ship</Name>
   <Description>[H3]S-461-Series Scout Ship[h3]
-Please see page 88 of the Cyphers and Masks Sourcebook for details.</Description>
+This S-46I series ship is approximately T-shaped. It has sensors, transmitters, and receivers built into the underside of the crossbar in the form of three large concave, dish-like sections depressed into the hull. The top side of the hull has a transmitter shaped into one larger concave section at the intersection of the T. The Darkflare’s hull is matte black with dark-gray depressions. Beyond the typical rooms required by any starship, the Darkflare has three dedicated sensor suites and a sophisticated communications and analysis control room. The crew includes communications specialists, sensor savants, field analysts, and a variety of maintenance, protocol, and analysis droids.</Description>
   <Source Page="88">Cyphers and Masks</Source>
   <Custom>AddedItem</Custom>
   <Type>Scout Ship</Type>

@@ -522,7 +522,7 @@ Not every Soldier of the Rebellion fights for the high and mighty ideals of the 
     <Name>Military</Name>
     <Description>
       [H4]Military[h4]
-      Please see page 14 of the Knights of Fate Sourcebook for details.
+Military groups create effective Warriors. Characters with a military background are likely to be highly skilled and disciplined, having trained with an organized planetary militia or in the army of the Empire itself. Warriors who have left the military may have gone into hiding because of emerging Force abilities, or they may have simply lost the stomach for the Empire’s domination; either way, they retain all the skills and knowledge their training provided. No longer soldiers with colleagues to fight alongside, these characters are lone Warriors who may either harbor bitterness or revel in newfound freedom.
     </Description>
     <Source Page="14">Knights of Fate</Source>
     <Custom>DescOnly</Custom>

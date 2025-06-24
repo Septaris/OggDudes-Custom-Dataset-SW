@@ -3,7 +3,9 @@
   <Key>DROCH</Key>
   <Name>Droch-Class Boarding Ship</Name>
   <Description>[H3][I]Droch[i] -Class Boarding Ship[h3]
-Please see page 72 of the Rise of the Separatists Sourcebook for details.</Description>
+A common sight aboard CIS warships, the Droch-class boarding ship is one of many boarding and utility ships used by the CIS Navy. Drochs are small, awkward-looking, starfighter-sized vessels with a strange bell-shaped hull based loosely on the toothspike raptor from Colla IV. The engines are mounted where a bell’s yoke would be, and around the broad base are four long, retractable spikes. Centered inside the base is a hatch that provides access to a cramped passenger compartment and a single-seat flight deck.
+[P]As the name suggests, these fast little vessels are designed for boarding actions against enemy ships. Launched en masse from their mother ships, Drochs each carry six fully equipped troops or battle droids. They fly at their target at full speed, then use their long spikes to pierce the enemy ship’s hull and anchor themselves. Once a Droch is attached, a plasma cutting ring burns a hole through the enemy’s hull, a short boarding tube extends from the hatch, and the troops can enter the target ship with ease.
+[P]When not being used for their primary purpose, Droch-class ships fill a number of utility roles from maintenance checks and salvage to drop ships and even makeshift escape pods.</Description>
   <Source Page="72">Rise of the Separatists</Source>
   <Custom>AddedItem</Custom>
   <Type>Boarding Vessel</Type>

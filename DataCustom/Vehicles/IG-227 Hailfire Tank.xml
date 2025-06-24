@@ -3,7 +3,8 @@
   <Key>IG227HAILFIRETANK</Key>
   <Name>IG-227 Hailfire Tank</Name>
   <Description>[H3]IG-227 Hailfire Tank[h3]
-Please see page 68 of the Rise of the Separatists Sourcebook for details.</Description>
+One of the stranger droid-controlled vehicles fielded by the CIS, Haor Chall’s IG-227 is one of the Confederacy’s more common fighting vehicles. Also called the “wheel droid,” the IG-227 is a highly mobile, dedicated missile platform designed to provide standoff support fire for CIS ground forces. To that end, the IG-227 is lightweight, lightly armored, and equipped with massive tracked wheels nearly nine meters across. These wheels render the droid exceptionally fast and agile, able to accelerate nearly instantly, and capable of achieving speeds over broken terrain that rival those of many landspeeders.
+[P]The Hailfire’s primary weapon system is a pair of multirail long-range missile launchers. The droid also mounts a pair of auto-blasters to defend against approaching infantry and vehicles. Since it was designed for speed and agility, the IG-227 has very little armor, leaving it vulnerable even to heavy blaster rifles. Despite its relative fragility, the IG-227 is a terror on the battlefield; when platoons of these deadly droids roll on to the field, they are often targeted first.</Description>
   <Source Page="68">Rise of the Separatists</Source>
   <Custom>AddedItem</Custom>
   <Type>Droid-Operated Vehicle</Type>

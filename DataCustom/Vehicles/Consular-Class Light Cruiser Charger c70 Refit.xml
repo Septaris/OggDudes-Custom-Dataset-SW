@@ -3,7 +3,8 @@
   <Key>CONSULARC70</Key>
   <Name>Consular-Class Light Cruiser Charger c70 Refit</Name>
   <Description>[H3][I]Consular[i] - Class Light Cruiser Charger c70 Refit[h3]
-Please see page 77 of the Rise of the Separatists Sourcebook for details.
+At the beginning of the Clone Wars, the Republic Navy found itself woefully unprepared for such a dangerous and all-consuming conflict. As the war gains momentum, the Republic is trying frantically to provide the Navy with ships and starfighters. It is doing so by rushing long-abandoned or partially built ship classes into production and by retrofitting existing ships for combat. The Consular-class was chosen for a refit thanks to its speed and durability, and the Charger c70 was born.
+[P]Sourced from the Republic Diplomatic Corps, the ships chosen have been outfitted with thicker armor, sturdier shields, and an array of energy weapons and ordnance launchers, making them into superb scout and picket ships.
 </Description>
   <Source Page="77">Rise of the Separatists</Source>
   <Custom>AddedItem</Custom>

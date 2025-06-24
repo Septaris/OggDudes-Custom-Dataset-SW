@@ -3,7 +3,7 @@
   <Key>REPZ95</Key>
   <Name>Republic Z-95 Headhunter</Name>
   <Description>[H3]Republic Z-95 Headhunter[h3]
-Please see page 74 of the Rise of the Separatists Sourcebook for details.</Description>
+[P]A joint venture between Incom and Subpro, the Z-95 is the Republic Navy’s primary multi-role starfighter. The Z-95 Headhunter was designed specifically for the Navy to take advantage of clone pilots’ physical and mental capabilities. It is fast and agile, while its proton torpedo launchers give the fighter a punch well out of proportion to its size. So successful has the Z-95 Headhunter been, that Incom engineers have already begun work on a mass-market variant, and plan to use the design as the basis for future projects.</Description>
   <Source Page="74">Rise of the Separatists</Source>
   <Custom>AddedItem</Custom>
   <Type>Starfighter</Type>

@@ -3,7 +3,8 @@
   <Key>CK6SWOOP</Key>
   <Name>CK-6 Swoop</Name>
   <Description>[H3]CK-6 Swoop[h3]
-Please see page 67 of the Rise of the Separatists Sourcebook for details.</Description>
+Colloquially known as Freeco bikes—clone trooper shorthand for “freezing cold”—CK-6s are small, fast, one-position swoops optimized for use in sub-zero and arctic conditions. Essentially militarized JR-4 swoops, the CK-6s were ordered from Bespin Motors for cold-weather testing on Orto Plutonia, an ice planet known for its savage storms and bitter cold. They are long, thin swoops with a sealed bubble canopy enclosing the pilot and two thrusters mounted aft in port and starboard nacelles. In their short time in service with the GAR, these swoops have gained a reputation for ruggedness and reliability, and their range and agility is nearly unmatched by militarized swoops.
+[P]Most operational CK-6 swoops are in service with the handful of cold-weather assault units fielded by the GAR, which use them for reconnaissance, courier service, and basic battlefield mobility..</Description>
   <Source Page="67">Rise of the Separatists</Source>
   <Custom>AddedItem</Custom>
   <Type>Swoop</Type>

@@ -3,7 +3,8 @@
   <Key>VULTURESTAR</Key>
   <Name>Vulture-Class Droid Starfighter</Name>
   <Description>[H3][I]Vulture[i] - Class Droid Starfighter[h3]
-Please see page 74 of the Rise of the Separatists Sourcebook for details.</Description>
+Officially designated the Variable Geometry Self-Propelled Battle Droid Mk I, the Vulture-class droid starfighter is the most common aerospace superiority fighter in the CIS’s arsenal. Little more than a glorified combat remote, the Vulture-class droid starfighter is controlled by a central computer aboard its mothership. While the vulture droid is deadly, its central command protocols and low-intelligence droid brain tends to cause it to follow the same attack patterns over and over again, making it relatively simple to counter.
+[P]Equipped with a mix of blaster cannons and concussion missile launchers, vulture droids are formidable, if somewhat predictable, foes. In addition to possessing very real flying prowess, vulture droids can also transform into a kind of four-legged walker for patrol duties and to provide fire support for battle droid formations. This makes them surprisingly versatile, and more than one Republic pilot has been surprised when their formerly flying quarry suddenly landed, grew legs, and scampered off into cover.</Description>
   <Source Page="74">Rise of the Separatists</Source>
   <Custom>AddedItem</Custom>
   <Type>Variable Geometry Self-Propelled Battle Droid</Type>
