@@ -4324,7 +4324,7 @@ Usually formed from rigid plates or packed with protective padding, most types o
       </Mod>
     </BaseMods>
   </ItemAttachment>
-<ItemAttachment>
+  <ItemAttachment>
     <Key>HIDCOMP</Key>
     <Name>Hidden Compartment</Name>
     <Description>[H3]Hidden Compartment[h3]
@@ -11345,7 +11345,7 @@ brain damage and even death.</Description>
       </Mod>
     </BaseMods>
   </ItemAttachment>
-    <ItemAttachment>
+  <ItemAttachment>
     <Key>ASCENGUN</Key>
     <Name>Ascension Gun</Name>
     <Description>
@@ -11357,7 +11357,7 @@ Ascension guns are tools used to traverse difficult environments, from steep cli
     <Sources>
       <Source Page="61">Rise of the Separatists</Source>
     </Sources>
-	<Custom>DescOnly</Custom>
+    <Custom>DescOnly</Custom>
     <CategoryLimit>
       <Category>Blaster</Category>
     </CategoryLimit>
@@ -11393,7 +11393,7 @@ The cutting edge of a vibro weapon's blade is made many times more dangerous tha
     <Sources>
       <Source Page="61">Rise of the Separatists</Source>
     </Sources>
-	<Custom>DescOnly</Custom>
+    <Custom>DescOnly</Custom>
     <CategoryLimit>
       <Category>Powered Melee</Category>
       <Category>Powered Brawl</Category>
@@ -11439,7 +11439,7 @@ Sophisticated medical technology integrated into armor can enhance the effects o
     <Sources>
       <Source Page="64">Rise of the Separatists</Source>
     </Sources>
-	<Custom>DescOnly</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <CategoryLimit>
       <Category>Full Body</Category>
@@ -11473,7 +11473,7 @@ Diplomats and their retinues typically avoid armor and weapons, the better to cl
     <Sources>
       <Source Page="65">Rise of the Separatists</Source>
     </Sources>
-	<Custom>DescOnly</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <Price>2500</Price>
     <Rarity>4</Rarity>
@@ -11517,7 +11517,7 @@ Most civilian vehicles are not designed for heavy modification. However, dedicat
     <Sources>
       <Source Page="74">Fully Operational</Source>
     </Sources>
-	<Custom>DescOnly</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>500</Price>
     <Rarity>0</Rarity>
@@ -11562,7 +11562,7 @@ One of the early initiatives the Kaminoans considered when developing equipment 
     <Sources>
       <Source Page="61">Rise of the Separatists</Source>
     </Sources>
-	<Custom>DescOnly</Custom>
+    <Custom>DescOnly</Custom>
     <CategoryLimit>
       <Category>Blaster</Category>
     </CategoryLimit>
@@ -11593,7 +11593,7 @@ Over the course of numerous battles, combatants can make a variety of minor pers
     <Sources>
       <Source Page="62">Rise of the Separatists</Source>
     </Sources>
-	<Custom>DescOnly</Custom>
+    <Custom>DescOnly</Custom>
     <CategoryLimit>
     </CategoryLimit>
     <Price>50</Price>
@@ -11630,7 +11630,7 @@ For most, dueling a Jedi is a fool's errand, and even more so in close combat, w
     <Sources>
       <Source Page="62">Rise of the Separatists</Source>
     </Sources>
-	<Custom>DescOnly</Custom>
+    <Custom>DescOnly</Custom>
     <TypeLimit>
       <Type>Melee</Type>
     </TypeLimit>
@@ -11651,7 +11651,7 @@ For most, dueling a Jedi is a fool's errand, and even more so in close combat, w
       </Mod>
     </AddedMods>
   </ItemAttachment>
-<ItemAttachment>
+  <ItemAttachment>
     <Key>INSFIRMECH</Key>
     <Name>Insulated Firing Mechanism</Name>
     <Description>
@@ -11663,7 +11663,7 @@ For most, dueling a Jedi is a fool's errand, and even more so in close combat, w
     <Sources>
       <Source Page="62">Rise of the Separatists</Source>
     </Sources>
-	<Custom>DescOnly</Custom>
+    <Custom>DescOnly</Custom>
     <CategoryLimit>
       <Category>Blaster</Category>
     </CategoryLimit>
@@ -11703,7 +11703,7 @@ For most, dueling a Jedi is a fool's errand, and even more so in close combat, w
     <Sources>
       <Source Page="62">Rise of the Separatists</Source>
     </Sources>
-	<Custom>DescOnly</Custom>
+    <Custom>DescOnly</Custom>
     <CategoryLimit>
       <Category>Blaster</Category>
     </CategoryLimit>
@@ -11745,7 +11745,7 @@ A lightsaber is more than just a weapon. It is a symbol, a badge of office-and a
     <Sources>
       <Source Page="63">Rise of the Separatists</Source>
     </Sources>
-	<Custom>DescOnly</Custom>
+    <Custom>DescOnly</Custom>
     <TypeLimit>
       <Type>Lightsaber</Type>
     </TypeLimit>
@@ -11775,7 +11775,7 @@ Few droids can stand up to a lightsaber, but some heavily reinforced droid model
     <Sources>
       <Source Page="63">Rise of the Separatists</Source>
     </Sources>
-	<Custom>DescOnly</Custom>
+    <Custom>DescOnly</Custom>
     <TypeLimit>
       <Type>Lightsaber</Type>
     </TypeLimit>
@@ -11805,7 +11805,7 @@ Although long recognized as kyber crystals, thontiin crystals were unheard of as
     <Sources>
       <Source Page="63">Rise of the Separatists</Source>
     </Sources>
-	<Custom>DescOnly</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <ItemLimit />
     <SkillLimit />
@@ -11860,7 +11860,7 @@ In ancient days, the Outer Rim world of Zoph was well traveled by the Jedi, and 
     <Sources>
       <Source Page="64">Rise of the Separatists</Source>
     </Sources>
-	<Custom>DescOnly</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <ItemLimit />
     <SkillLimit />
@@ -11921,7 +11921,7 @@ One of the more common modifications made to the Sheathipede-class is the replac
     <Sources>
       <Source Page="74">Rise of the Separatists</Source>
     </Sources>
-	<Custom>DescOnly</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <ItemLimit>
       <Key>SHEATHIPEDESPY</Key>
@@ -11956,9 +11956,9 @@ One of the more common modifications made to the Sheathipede-class is the replac
           </InnateSkill>
         </InnateSkills>
       </Mod>
-	  <Mod>
-	    <MiscDesc>Sets sensor range to Long.</MiscDesc>
-	  </Mod>
+      <Mod>
+        <MiscDesc>Sets sensor range to Long.</MiscDesc>
+      </Mod>
     </BaseMods>
     <AddedMods>
     </AddedMods>
@@ -11974,7 +11974,7 @@ Sensor and comm systems are common installations on armor, but some groups take 
     <Sources>
       <Source Page="65">Rise of the Separatists</Source>
     </Sources>
-	<Custom>DescOnly</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <Price>2000</Price>
     <Rarity>5</Rarity>
@@ -12010,7 +12010,7 @@ These advanced, custom-tailored systems provide medical diagnostics, ergonomic a
     <Sources>
       <Source Page="65">Rise of the Separatists</Source>
     </Sources>
-	<Custom>DescOnly</Custom>
+    <Custom>DescOnly</Custom>
     <CategoryLimit>
       <Category>Full Body</Category>
     </CategoryLimit>
@@ -12067,7 +12067,7 @@ First attributed to the precursors of the Jedi, these objects remain a mystery. 
     <Sources>
       <Source Page="52">Unlimited Power</Source>
     </Sources>
-	<Custom>DescOnly</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Gear</Type>
     <Price>0</Price>
     <Rarity>0</Rarity>
@@ -12107,7 +12107,7 @@ Life since the fall of the Republic has grown difficult for the Lasat. The Empir
     <Sources>
       <Source Page="52">Unlimited Power</Source>
     </Sources>
-	<Custom>DescOnly</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Gear</Type>
     <Price>0</Price>
     <Rarity>0</Rarity>
@@ -12138,7 +12138,7 @@ The standard Dustcrawler features three connected cars, but Dustcrawlers are des
 [P][I]Note:  For each additional car, select one of each type of optional mod.  Up to 10 additional cars can be added in this way.[i]
     </Description>
     <Source Page="60">Unlimited Power</Source>
-	<Custom>DescOnly</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <ItemLimit>
       <Key>DUSTCRAWLER</Key>
@@ -12184,7 +12184,7 @@ After working on the item, vehicle, or ship, the character’s comprehension of 
     <Sources>
       <Source Page="71">Fully Operational</Source>
     </Sources>
-	<Custom>DescOnly</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <Price>0</Price>
     <Rarity>0</Rarity>
@@ -12209,7 +12209,7 @@ After working on the item, vehicle, or ship, the character’s comprehension of 
     <Sources>
       <Source Page="71">Fully Operational</Source>
     </Sources>
-	<Custom>DescOnly</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <Price>0</Price>
     <Rarity>0</Rarity>
@@ -12234,7 +12234,7 @@ After working on the item, vehicle, or ship, the character’s comprehension of 
     <Sources>
       <Source Page="71">Fully Operational</Source>
     </Sources>
-	<Custom>DescOnly</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Gear</Type>
     <Price>0</Price>
     <Rarity>0</Rarity>
@@ -12259,7 +12259,7 @@ After working on the item, vehicle, or ship, the character’s comprehension of 
     <Sources>
       <Source Page="71">Fully Operational</Source>
     </Sources>
-	<Custom>DescOnly</Custom>
+    <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>0</Price>
     <Rarity>0</Rarity>
