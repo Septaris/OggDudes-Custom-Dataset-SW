@@ -8652,29 +8652,9 @@ For those who operate on the edge of the law, firepower can be a valuable commod
     <Name>J-10 Dual Blaster Cannon</Name>
     <Description>
       [H3]J-10 Dual Blaster Cannon[h3]
-The Rebel Alliance obtains many of its weapons from
-battlefield salvage, military surplus, and black market
-dealers. In their search for new locations to establish
-hidden bases, Alliance scouts also discover abandoned Separatist weapons caches, where thousands
-of pristine, mass-produced weapons await distribution for their cause. Once used by the droid armies of
-the Confederacy, the J-10 dual blaster cannon is now
-common within outposts of the Rebellion.
-[P]Unfortunately, not all the weapons the Alliance
-obtains are of high quality. The J-10 dual blaster cannon is a more powerful version of the E-5 blaster carbine used by battle droid infantry. Like most Separatist equipment, the J-10 was produced on unregulated
-assembly lines run by droids inside factories where
-quantity was more important than quality. The J-10 is
-finicky at best—glitchy Calven pattern programming
-often leads to power fluctuations that overload the
-cannon, and imperfections in focusing crystals cause
-shots to drift without regular maintenance. Alliance
-technicians often  opt to replace the faulty cannons
-rather than conduct repairs.
-[P]The CM may spend [DI] or [TH][TH] from any combat
-check made with this weapon to have it overheat:
-the wielder suffers 2 strain and the weapon becomes
-damaged one step; from undamaged to Minor, Minor
-to Moderate, or Moderate to Major (see page 172 of
-the [B]Age of Rebellion[b] Core Rulebook).</Description>
+The Rebel Alliance obtains many of its weapons from battlefield salvage, military surplus, and black market dealers. In their search for new locations to establish hidden bases, Alliance scouts also discover abandoned Separatist weapons caches, where thousands of pristine, mass-produced weapons await distribution for their cause. Once used by the droid armies of the Confederacy, the J-10 dual blaster cannon is now common within outposts of the Rebellion.
+[P]Unfortunately, not all the weapons the Alliance obtains are of high quality. The J-10 dual blaster cannon is a more powerful version of the E-5 blaster carbine used by battle droid infantry. Like most Separatist equipment, the J-10 was produced on unregulated assembly lines run by droids inside factories where quantity was more important than quality. The J-10 is finicky at best—glitchy Calven pattern programming often leads to power fluctuations that overload the cannon, and imperfections in focusing crystals cause shots to drift without regular maintenance. Alliance technicians often  opt to replace the faulty cannons rather than conduct repairs.
+[P]The CM may spend [DI] or [TH][TH] from any combat check made with this weapon to have it overheat: the wielder suffers 2 strain and the weapon becomes damaged one step; from undamaged to Minor, Minor to Moderate, or Moderate to Major (see page 172 of the [B]Age of Rebellion[b] Core Rulebook).</Description>
     <Source Page="45">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>

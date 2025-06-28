@@ -3,7 +3,8 @@
   <Key>MULTITROOPTRANS</Key>
   <Name>Multi Troop Transport</Name>
   <Description>[H3]Multi Troop Transport[h3]
-Please see page 68 of the Rise of the Separatists Sourcebook for details.</Description>
+Produced by Baktoid Armor Workshop, the Multi Troop Transport is a heavy, broad-shouldered, snub-nosed vehicle designed to transport battle droids into combat. A massive, lumbering, imposing vehicle, the MTT is part troop carrier, part tank, and part siege ram. It is extremely hard to stop, and compared to the AAT, it is extremely capable in its role.
+[P]With its hulking forward hull, sloping front end, and small aft hull, the MTT has a vaguely elephantine silhouette. A small armored cockpit is mounted atop the towering hull, just above a huge, thick, circular hatch. Most of the vehicle’s internal space is given over to the droid deployment rack, a long rotating assembly that holds more than one hundred deactivated battle droids. To deploy its droids, an MTT must come to a halt, open its hatch, and extend the rack. From there, the droids quickly deploy and activate, creating an instant infantry formation.</Description>
   <Source Page="68">Rise of the Separatists</Source>
   <Custom>AddedItem</Custom>
   <Type>Landspeeder</Type>

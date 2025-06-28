@@ -3,7 +3,9 @@
   <Key>AAT1HOVERTANK</Key>
   <Name>AAT-1 Hover Tank</Name>
   <Description>[H3]AAT-1 Hover Tank[h3]
-Please see page 66 of the Rise of the Separatists Sourcebook for details.</Description>
+Baktoid Armor Workshop’s Armored Assault Tank Mk I, or AAT-1, is the CIS’s primary infantry fighting vehicle. Relatively small and compact, the AAT-1 consists of a heavily armored, spade-shaped lower hull topped with a lighter, secondary hull and rotating turret. It is crewed by four B1 pilot battle droids and can carry up to six additional droids via handholds and footholds on the hull. The AAT-1, due to its heavy armor, is neither quick nor agile on the battlefield.
+[P]The AAT-1 is an extremely versatile vehicle designed to handle nearly any opposition encountered on the battlefield. Its main weapon is a heavy laser cannon mounted in the top turret that provides the tank with 360 degrees of long-range firepower. Two medium laser cannons, one port and one starboard, provide excellent anti-vehicle firepower, and a pair of coaxial heavy blasters are mounted with the lasers for anti-personnel work. A six-barreled multiordnance launcher is mounted in the lower hull, which gives the AAT-1 anti-armor and even siege capabilities.
+[P]While formidable in theory, in practice, the AAT-1 is less than the sum of its parts. Its biggest weakness is its crew, the quartet of B1-series droids. While competent, the droid crew has neither the initiative nor the ability to improvise that a crew of sentients would have. This makes them predictable and easily countered by opponents who have tangled with this model before. In addition, their computer and electrical systems leave much to be desired, and a platoon of AAT-1s can easily be taken out by a handful of EMP grenades. Despite these shortcomings, these tanks do pose a considerable threat to clone infantry and armor forces and should not be underestimated. The AAT-1 has proven highly effective against planetary defense forces, and even a handful of tanks can keep local populations in line.</Description>
   <Source Page="66">Rise of the Separatists</Source>
   <Custom>AddedItem</Custom>
   <Type>Repulsor Tank</Type>

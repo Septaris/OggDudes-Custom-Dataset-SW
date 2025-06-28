@@ -45,7 +45,7 @@ o groups usually work together to harvest their world's meager resources. Develo
     <SubSpecies>
       <Key>MUSTAFARIANSUB1</Key>
       <Name>Northern Mustafarian</Name>
-      <Description>Please see page 26 of the Special Modifications Sourcebook for details.</Description>
+      <Description>Tall and spindly, many northern Mustafarians can be found working alongside their southern cousins in Mustafar’s many mining facilities. Though they are typically not as sturdy as southern Mustafarians, their faceted eyes are quite keen, helping them to pick out flaws in ore and machines alike.</Description>
       <TalentModifiers>
         <TalentModifier>
           <Key>EYEDET</Key>
@@ -71,7 +71,7 @@ o groups usually work together to harvest their world's meager resources. Develo
     <SubSpecies>
       <Key>MUSTAFARIANSUB2</Key>
       <Name>Southern Mustafarian</Name>
-      <Description>Please see page 26 of the Special Modifications Sourcebook for details.</Description>
+      <Description>Bulkier and tougher than their northern cousins thanks to their adaptation to relatively higher gravity in their homeland, southern Mustafarians do a great deal of the grunt work in Mustafar’s mining facilities. Their thick carapaces make them difficult to harm and help them survive the incredible heat and frequent accidents on the lava flows.</Description>
       <TalentModifiers>
         <TalentModifier>
           <Key>ENDUR</Key>

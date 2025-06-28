@@ -3,7 +3,7 @@
   <Key>QSIGNAL</Key>
   <Name>Q-Signal Messenger Drone</Name>
   <Description>[H3]Q-Signal Messenger Drone[h3]
-Please see page 53 of the Cyphers and Masks Sourcebook for details.</Description>
+The Q-Signal’s droid brain and its associated courier systems are housed in a small, dagger-shaped vessel roughly half the size of an average starfighter. Covered in sensor-absorbing stealth materials and painted in dull matte colors, the Q-Signal is nearly impossible to see against a starfield with the naked eye and hard to find with sensors. The vehicle carries no weapons, sensors, or comms array, and it has no propulsion system save for its hyperdrive and a small set of ion thrusters to slow its reentry into realspace and to keep its station while awaiting pickup.</Description>
   <Source Page="53">Cyphers and Masks</Source>
   <Custom>AddedItem</Custom>
   <Type>Drone</Type>

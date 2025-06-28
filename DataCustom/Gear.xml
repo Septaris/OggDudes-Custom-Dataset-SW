@@ -5,17 +5,8 @@
     <Name>3-MAL Secure Comlink</Name>
     <Description>
       [H3]3-MAL Secure Comlink[h3]
-Popular throughout the Rebel Alliance, the 3-MAL
-Comlink is a versatile comms system squeezed into a
-tiny, pill-shaped package. In addition to military-grade
-encryption, the 3-MAL scans popular civil defense,
-emergency services, and law enforcement frequencies. Like most comlinks on the market, the 3-MAL
-easily synchronizes with properly equipped droids,
-computers, sensors, and cyborg units, and can transm it either voice or data.
-[P]This comlink transmits up to medium range on the
-planetary scale. The 3-MAL’s encryption adds [SE] to
-any check made to intercept and unscramble the signal. Monitoring a standard clear frequency on a civilized world can add [BO][BO] to Knowledge checks related to current events or conditions at the GM’s discretion.
-    </Description>
+Popular throughout the Rebel Alliance, the 3-MAL Comlink is a versatile comms system squeezed into a tiny, pill-shaped package. In addition to military-grade encryption, the 3-MAL scans popular civil defense, emergency services, and law enforcement frequencies. Like most comlinks on the market, the 3-MAL easily synchronizes with properly equipped droids, computers, sensors, and cyborg units, and can transm it either voice or data.
+[P]This comlink transmits up to medium range on the planetary scale. The 3-MAL’s encryption adds [SE] to any check made to intercept and unscramble the signal. Monitoring a standard clear frequency on a civilized world can add [BO][BO] to Knowledge checks related to current events or conditions at the GM’s discretion.</Description>
     <Source Page="52">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <Type>Communications</Type>
@@ -3906,8 +3897,9 @@ Dendriton toxin is an exceedingly lethal neurotoxin favored by assassins who pre
     <Name>Destro-6 Demolition Charge</Name>
     <Description>
       [H3]Destro-6 Demolition Charge[h3]
-      Please see page 59 of the Rise of the Separatists Sourcebook for details.
-    </Description>
+These shaped detonite charges are favored for sabotage missions and clandestine raids: situations with hardened targets but limited actual fighting. Setting up the charges takes time and precision, although a sufficiently confident demolitionist can speed matters up by disabling certain safeties. Once in place, charges can be detonated via timer, with delays of up to six hours, or by a remote signal. Properly placed charges are capable of incapacitating armored vehicles or blasting major breaches in a fortification.
+[P]Setting up one or more Destro-6 charges with the safeties fully engaged requires an [B]Easy ([DI]) Mechanics[b] check and takes five minutes per charge. Disabling the safeties for a batch of charges halves the time required, but increases the difficulty of the check to [B]Hard ([DI][DI][DI])[b]. The GM may spend [TH][TH][TH], or [DE] on any Mechanics check using charges with disabled safety features to cause a premature detonation.
+[P}When a charge detonates, it deals 20 damage with the Breach 1 quality to every character and vehicle within short range. Each additional charge used increases the base damage by 5.</Description>
     <Source Page="59">Rise of the Separatists</Source>
     <Custom>DescOnly</Custom>
     <Price>750</Price>
@@ -4407,8 +4399,7 @@ Cam droids, or hovercams, are small, relatively simple droids equipped with repu
     <Name>Chameleon Droid</Name>
     <Description>
       [H3]Chameleon Droid[h3]
-      Please see page 106 of the Nexus of Power Sourcebook for details.
-    </Description>
+The Arakyd Industries spelunker droid was originally intended for mining purposes. The Confederacy of Independent Systems modified and armed these droids for combat purposes. Removing the heavy mining gear, they added a minelayer, blasters, and a holographic cloaking array. It is the last item that led to their new name, “chameleon droids.”    </Description>
     <Source Page="106">Nexus of Power</Source>
     <Custom>DescOnly</Custom>
     <Type>Droids</Type>
@@ -5184,8 +5175,8 @@ SR-series droids are produced by TransTech Droidworks for use as scouts and forw
     <Name>Stone Guardian</Name>
     <Description>
       [H3]Stone Guardian[h3]
-      Please see page 106 of the Nexus of Power Sourcebook for details.
-    </Description>
+Some facilities require discretion and art as much as they do security. Stone guardian droids are specifically designed for these situations. They provide a potent defense that is utterly in keeping with the overall tone of a site.
+[P]Despite the name, stone guardians are not actually constructed out of stone. Their armored shells are simply sculpted and painted to resemble some form of rock or marble. When inactive, stone guardians appear to be decorative statues. The statues might be freestanding, or they could appear to be a support pillar or a part of a wall. Only when they activate does their true nature become clear. A stone guardian’s passive detectors are extremely sensitive and rigged to detect any intruders who enter its domain. When they identify a threat, the droids activate and attempt to eliminate it.</Description>
     <Source Page="106">Nexus of Power</Source>
     <Custom>DescOnly</Custom>
     <Type>Droids</Type>
@@ -7964,7 +7955,8 @@ Standard phototropic camouflaging may be insufficient for the extended concealme
     <Name>Holo-Megacaster</Name>
     <Description>
       [H3]Holo-Megacaster[h3]
-      Please see page 59 of the Rise of the Separatists Sourcebook for details.
+One of the standard tools for a public speaker, a holo-megacaster is a variation on a standard holocomm system. Instead of patching into the HoloNet for long-distance communication, the megacaster projects its user’s voice and image nearby, but magnified to a great volume and size. A typical model is capable of projecting images ranging from centimeters up to ten meters in height. The volume controls are similarly adjustable, suitable for addresses to small, private audiences or vast populist rallies.
+[P]A character using a holo-megacaster adds [BO] to Presence-based checks to address a crowd, and allows the character’s image and voice to be clearly seen and heard at up to extreme range, depending on the settings used.
     </Description>
     <Source Page="59">Rise of the Separatists</Source>
     <Custom>DescOnly</Custom>
@@ -8976,7 +8968,7 @@ A mild narcotic popular among Hutts, Marcan herb can induce a sense of euphoria 
 [P]Also referred to as a "seeker droid" or "training remote", the MArksman-H by Industrial Automation is a versatile little droid that has found many niches, some of them unintended. This model of droid is employed variously as a basic security unit, a training tool, a pest controller, and even as a tiny assassin. Individuals the galaxy over continue to find new and innovative uses for this versatile droid.
 [P]Some Jedi once preferred the Marksman-H as a training tool when teaching Padawans to reflect blaster bolts with their lightsabers. Even after the fall of the Jedi Order, some of these same droids remain active. A Marksman-H can be a tenacious opponent. It respondds to a handheld signaleer which transmits high-pitched bursts of coded data, and can be programmed to receive verbal commands.
 [P]The Marksman-H is a small, spherical droid only fifteen centimeters in diameter. Its tiny repulsorlift unit propels it in seemingly random directions without warning, making it hard to track. Studded with a number of emitter nozzles which are factory-equipped with micro stun blasters, these droids are commonly programmed for use as security drones.
- [P][H4]&lt;font size=1&gt;Please see page 49 of the Keeping the Peace sourcebook for details.[h4]
+[P][H4]&lt;font size=1&gt;Please see page 49 of the Keeping the Peace sourcebook for details.[h4]
     </Description>
     <Source Page="49">Keeping the Peace</Source>
     <Custom>DescOnly</Custom>

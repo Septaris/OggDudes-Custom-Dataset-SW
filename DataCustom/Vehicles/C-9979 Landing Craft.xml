@@ -3,7 +3,9 @@
   <Key>C9979</Key>
   <Name>C-9979 Landing Craft</Name>
   <Description>[H3]C-9979 Landing Craft[h3]
-Please see page 70 of the Rise of the Separatists Sourcebook for details.</Description>
+The primary planetary landing craft used by the CIS navy is the C-9979. Designed and produced by Haor Chall Engineering, these vessels were based on antique Trade Federation mercantile barges. Surprisingly fast on a descent trajectory for ships of their size, C-9979s are modular, easily disassembled ships that are transported to battle in pieces, then quickly assembled and loaded in preparation for combat. Largely hollow inside, they were built to deliver hundreds of CIS fighting vehicles and thousands of battle droids—or entire wings of droid starfighters in carrier configuration—to a planet’s surface in the most efficient manner possible.
+[P]C-9979s are strange and ominous-looking ships, consisting primarily of four broad wings attached to a thick, trunk-like fuselage. Resembling massive insects more than starships, these ships are equipped with a number of specially designed loading and deployment systems to get their cargo loaded and unloaded quickly. Largely self-sufficient, they feature automated repair systems and on-board vehicle and droid repair bays to keep their troops operating at peak efficiency.
+[P]The CIS Navy has countless C-9979 craft at its disposal. The C-9979s’ ability to carry and deploy so many droids and vehicles in a short space of time gives the Separatists unparalleled mobility.</Description>
   <Source Page="70">Rise of the Separatists</Source>
   <Custom>AddedItem</Custom>
   <Type>Heavy Transport</Type>
