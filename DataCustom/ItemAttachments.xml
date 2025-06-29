@@ -352,14 +352,16 @@ Armor inserts are thin, flexible, plasteel and ballistic gel plates that can be 
         <MiscDesc>Characters can notice the inclusion of armor inserts in clothing by making an [B]Average ([DI][DI]) Perception check[b].</MiscDesc>
       </Mod>
       <Mod>
-        <Key>ENCADD</Key>
+        <Key>SOAKSET</Key>
         <Count>1</Count>
-        <MiscDesc>Increase Encumbrance by 1 as part of becoming armored clothing.</MiscDesc>
       </Mod>
       <Mod>
-        <Key>DEFADD</Key>
+        <Key>DEFSET</Key>
         <Count>1</Count>
-        <MiscDesc>Increase Defense by 1 as part of becoming armored clothing.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Armor inserts can be noticed by making an [B]Average ([DI][DI]) Perception check[b].</MiscDesc>
       </Mod>
     </BaseMods>
     <AddedMods>
@@ -377,7 +379,8 @@ Armor inserts are thin, flexible, plasteel and ballistic gel plates that can be 
       </Mod>
     </AddedMods>
     <MaxSoak>1</MaxSoak>
-    <MaxDefense>1</MaxDefense>
+    <ForceMinDefense>true</ForceMinDefense>
+    <ForceMaxDefense>true</ForceMaxDefense>
   </ItemAttachment>
   <ItemAttachment>
     <Key>ARMSPIKE</Key>
