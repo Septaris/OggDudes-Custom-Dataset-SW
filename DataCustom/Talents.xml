@@ -1630,11 +1630,11 @@
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
-    <Key>DTHFRABOVE</Key>
+    <Key>DEATHABOVE</Key>
     <Name>Death from Above</Name>
     <Description>Once per encounter while using a jetpack, the character may take the Death from Above action, inflicting 1 system strain on their jetpack and making a [B]Hard ([DI][DI][DI]) Piloting (Planetary) check[b]. If the check is successful, for each [SU], one adversary of silhouette 0 or 1 within short range is knocked prone. The character may spend [TR] from the check to stagger one affected adversary until the end of the adversary's next turn.</Description>
     <Source Page="40">Collapse of the Republic</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -2708,7 +2708,7 @@
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
-    <Key>ICHORTRANS</Key>
+    <Key>ICHORRES</Key>
     <Name>Ichor Reserve</Name>
     <Description>Once per session, the character may suffer 2 strain to perform the Ichor Reserver maneuver. Their Force rating increases by 1 until the end of the scene or encounter. At the GM's discretion, the character may need to occasionally return to Dathomir to replenish their supply of magickal ichor.</Description>
     <Source Page="40">Collapse of the Republic</Source>
