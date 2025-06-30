@@ -75,7 +75,7 @@ Cloning, training, mental implants, and programming pale in comparison to field 
       <Talents>
         <Key>GRIT</Key>
         <Key>LETHALBL</Key>
-        <Key>CLANKILLIMP</Key>
+        <Key>CLANKKILLIMP</Key>
         <Key>COMBATVET</Key>
       </Talents>
       <Directions>
@@ -131,7 +131,7 @@ Cloning, training, mental implants, and programming pale in comparison to field 
       <Cost>25</Cost>
       <Talents>
         <Key>SIXSENSE</Key>
-        <Key>SURVINS</Key>
+        <Key>SURVINST</Key>
         <Key>KNOWNPROGIMP</Key>
         <Key>DEDI</Key>
       </Talents>

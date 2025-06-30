@@ -72,7 +72,7 @@ The Empire trains cadets to be effective and unquestioning soldiers. To its dism
     <TalentRow>
       <Cost>15</Cost>
       <Talents>
-        <Key>FORMTAC</Key>
+        <Key>FORMTACT</Key>
         <Key>COM</Key>
         <Key>FULLTH</Key>
         <Key>KNOWSCH</Key>
@@ -102,7 +102,7 @@ The Empire trains cadets to be effective and unquestioning soldiers. To its dism
     <TalentRow>
       <Cost>20</Cost>
       <Talents>
-        <Key>IMPFORMTAC</Key>
+        <Key>FORMTACTIMP</Key>
         <Key>BYBOOK</Key>
         <Key>CONDITIONED</Key>
         <Key>KNOWSPEC</Key>

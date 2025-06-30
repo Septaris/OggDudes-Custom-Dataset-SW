@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
-  <Key>JEDIGEN</Key>
+  <Key>GENERAL</Key>
   <Name>General</Name>
   <Description>[H4]General[h4]
 A Jedi's connection to the Force helps them see the bigger picture and understand the larger objectives in wan Their practice controlling their fear and anger provides a powerful benefit on the battlefield  While the Jedi Council debates the Jedi's role in the war, certain Jedi step up to take on leadership positions that the Grand Army of the Republic sorely needs.
 [P]The histories of the Jedi Order and Galactic Republic are inseparable. The Jedi have always been on the forefront of conflicts and wars, though not leading armies. The Clone Wars have changed this relationship, but a relative few Jedi truly embody the role of General. Generals gain the additional career skills [B]Knowledge (Warfare), Leadership, Piloting (Planetary), and Vigilance[b]. If this   is the PC's first specialization, the PC gains one rank in each of two of these skills.</Description>
   <Source Page="26">Collapse of the Republic</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>LEAD</Key>
     <Key>PILOTPL</Key>
@@ -37,8 +37,8 @@ A Jedi's connection to the Force helps them see the bigger picture and understan
       <Cost>10</Cost>
       <Talents>
         <Key>PARRY</Key>
-        <Key>FALLBAK</Key>
-        <Key>STANDFRM</Key>
+        <Key>FALLBACK</Key>
+        <Key>STANDFIRM</Key>
         <Key>REFLECT</Key>
       </Talents>
       <Directions>
@@ -66,7 +66,7 @@ A Jedi's connection to the Force helps them see the bigger picture and understan
     <TalentRow>
       <Cost>15</Cost>
       <Talents>
-        <Key>PREINTER</Key>
+        <Key>PREEMPTINTER</Key>
         <Key>COMMPRES</Key>
         <Key>ENHLEAD</Key>
         <Key>GRIT</Key>
@@ -97,9 +97,9 @@ A Jedi's connection to the Force helps them see the bigger picture and understan
       <Cost>20</Cost>
       <Talents>
         <Key>TOUGH</Key>
-        <Key>INSPKILL</Key>
+        <Key>INSPIRKILL</Key>
         <Key>NATCHAMP</Key>
-        <Key>STANFIRMIMP</Key>
+        <Key>STANDFIRMIMP</Key>
       </Talents>
       <Directions>
         <Direction>

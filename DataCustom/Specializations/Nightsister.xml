@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
-  <Key>NIGHTSIS</Key>
+  <Key>NIGHTSISTER</Key>
   <Name>Nightsister</Name>
   <Description>[H4]Nightsister[h4]
 The sect known as the Nightsisters studies the Force in a much different way than the Jedi or even the Sith. The unique magickal ichor on Dathomir grants power and wisdom to those strong - or cruel - enough to wield it. In general, the Nightsisters consolidate and collect power, both through alchemy and magicks and through self-reliance and personal strength.
@@ -10,7 +10,7 @@ The sect known as the Nightsisters studies the Force in a much different way tha
 [P]Mother Talzin's clan has a variation on hanging coffins. The dead are sealed and stitched into large leather pods dangling from trees, signifying rebirth, the continual presence of death, and integration into the ecosystem. With practice, a Nightsister can commune with the dead and gain wisdom and even summon them to the material world. In this and in all things, the Nightsisters integrate their Magicks into their cultural practices and utilize those practices to ensure their survival.
 [P]Reflecting their individualism and acceptance of struggle as a necessary part of life and death, Nightsisters gain the career skills [B]Discipline, Knowledge (Lore), Stealth[b], and [B]Survival[b].</Description>
   <Source Page="30">Collapse of the Republic</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>DISC</Key>
     <Key>LORE</Key>
@@ -21,8 +21,8 @@ The sect known as the Nightsisters studies the Force in a much different way tha
     <TalentRow>
       <Cost>5</Cost>
       <Talents>
-        <Key>WITCHCRFT</Key>
-        <Key>SUMMITEM</Key>
+        <Key>WITCHCRAFT</Key>
+        <Key>SUMMONITEM</Key>
         <Key>GRIT</Key>
         <Key>EXTRACK</Key>
       </Talents>
@@ -45,7 +45,7 @@ The sect known as the Nightsisters studies the Force in a much different way tha
       <Cost>10</Cost>
       <Talents>
         <Key>SENSEADV</Key>
-        <Key>ICHBLADE</Key>
+        <Key>ICHORBLADE</Key>
         <Key>INTIM</Key>
         <Key>TOUGH</Key>
       </Talents>
@@ -72,7 +72,7 @@ The sect known as the Nightsisters studies the Force in a much different way tha
       <Cost>15</Cost>
       <Talents>
         <Key>BAL</Key>
-        <Key>ICHBLDIMP</Key>
+        <Key>ICHORBLADEIMP</Key>
         <Key>GRIT</Key>
         <Key>SIXSENSE</Key>
       </Talents>
@@ -100,9 +100,9 @@ The sect known as the Nightsisters studies the Force in a much different way tha
     <TalentRow>
       <Cost>20</Cost>
       <Talents>
-        <Key>COVN</Key>
-        <Key>ICHTRANS</Key>
-        <Key>SURVINS</Key>
+        <Key>COVEN</Key>
+        <Key>ICHORTRANS</Key>
+        <Key>SURVINST</Key>
         <Key>INTIM</Key>
       </Talents>
       <Directions>

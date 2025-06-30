@@ -11,6 +11,7 @@ Clone Soldiers form the backbone of the Grand Army of the Republic. They serve i
 [P]The clones' shared traits are a powerful asset to the individual soldiers and the army as a whole. They are universally competent in those areas required for them to be effective soldiers. They have a baseline level of training that is extremely consistent, so that the clones' commanders-including Jedi, career military officers, and other clones-can reliably expect them to perform as planned in the field. Further, the flexibility inherent to their organic makeup grants a significant advantage against their most common opponents: the droids of the Separatist army.
 </Description>
   <Source Page="18">Rise of the Separatists</Source>
+  <Source Page="18">Collapse of the Republic</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>ATHL</Key>
@@ -26,5 +27,8 @@ Clone Soldiers form the backbone of the Grand Army of the Republic. They serve i
     <Key>CLONEOFF</Key>
     <Key>CLONEPIL</Key>
     <Key>CLONETRO</Key>
+    <Key>CLONEARC</Key>
+    <Key>CLONECOM</Key>
+    <Key>CLONEVET</Key>
   </Specializations>
 </Career>

@@ -37,7 +37,7 @@ The bio geneticists on Kamino understand that a clone army needs specialized com
       <Cost>10</Cost>
       <Talents>
         <Key>CLANKILL</Key>
-        <Key>INGLOY</Key>
+        <Key>INGRAINLOY</Key>
         <Key>CLEVCOMM</Key>
         <Key>GRIT</Key>
       </Talents>
@@ -67,8 +67,8 @@ The bio geneticists on Kamino understand that a clone army needs specialized com
       <Talents>
         <Key>FIRSTBRO</Key>
         <Key>COMMPRES</Key>
-        <Key>ENDPRES</Key>
-        <Key>FORMTAC</Key>
+        <Key>ENDURPRES</Key>
+        <Key>FORMTACT</Key>
       </Talents>
       <Directions>
         <Direction>
@@ -95,7 +95,7 @@ The bio geneticists on Kamino understand that a clone army needs specialized com
         <Key>FIRSTBRO</Key>
         <Key>STNERV</Key>
         <Key>TACTPLAN</Key>
-        <Key>IMPFORMTAC</Key>
+        <Key>FORMTACTIMP</Key>
       </Talents>
       <Directions>
         <Direction>
@@ -121,10 +121,10 @@ The bio geneticists on Kamino understand that a clone army needs specialized com
     <TalentRow>
       <Cost>25</Cost>
       <Talents>
-        <Key>ATCOST</Key>
+        <Key>ATANYCOST</Key>
         <Key>DEDI</Key>
         <Key>OUTMAN</Key>
-        <Key>PRACTSTRAT</Key>
+        <Key>PRACSTRAT</Key>
       </Talents>
       <Directions>
         <Direction>
