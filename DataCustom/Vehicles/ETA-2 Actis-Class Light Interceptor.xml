@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<Vehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Key>ETA2ACTIS</Key>
+  <Name>ETA-2 Actis-Class Light Interceptor</Name>
+  <Description>[H3]ETA-2 [I]Actis[i] -Class Light Interceptor[h3]
+Kuat Systems Engineering's Eta-2 [I]Actis[i] is a small, fast, lightweight fighter descended from KSE's elderly [I]Delta[i]-series fighters. Part of the Republic Navy's late-war modernization program - along with the ARC-170 and the Alpha-3 [I]Nimbus[i] - the [I]Actis[i] was envisioned by its designers as a multi-role, medium-range fighter. 
+
+[P]Known colloquially as the Jedi starfighter due to its extensive use by the Jedi Order, the [I]Actis[i] is a fighter with an extremely minimalist design. A small, egg-shaped, single-position cockpit sits far aft between two long, variable-geometry, cranked-delta wings with extendable S-foils. Beneath the cockpit is a sub-fuselage that contains the fighter's powerful ion engines as well many of the ship's major systems. Like its [I]Delta[i]-series antecedents, the [I]Actis[i] is too small for a hyperdrive and therefore relies on carriers or hyperspace docking rings for long-range work. The ship does possess a full astromech socket, however; embarked droids can access the ship's maintenance systems and act as a navicomputer for hyperspace ring jumps. 
+
+[P]Despite its designation as a light fighter, the [I]Actis[i] almost comically overgunned. The fighter's primary armament consists of a pair of medium laser cannons that run the length of the wings' inner surfaces. These fire-linked cannons allow the [I]Actis[i] to punch well above its weight and give the fighter a longer reach than other ships of its class. In addition. the [I]Actis[i] mounts a pair of light ion cannons on the wings' leading edges. These weapons combined make the [I]Actis[i] a terror to other fightercraft and allow it to tangle with light gunboats and armed shuttlecraft as well.</Description>
+  <Source Page="71">Collapse of the Republic</Source>
+  <Custom>DescOnly</Custom>
+  <Type>Starfighter</Type>
+  <Categories>
+    <Category>Starship</Category>
+  </Categories>
+  <HP>1</HP>
+  <Price>290000</Price>
+  <Rarity>8</Rarity>
+  <Restricted>true</Restricted>
+  <Crew>One pilot, one astromech droid</Crew>
+  <EncumbranceCapacity>5</EncumbranceCapacity>
+  <Consumables>72 hours</Consumables>
+  <Silhouette>3</Silhouette>
+  <Speed>6</Speed>
+  <Handling>2</Handling>
+  <Armor>2</Armor>
+  <HullTrauma>10</HullTrauma>
+  <SystemStrain>8</SystemStrain>
+  <Starship>true</Starship>
+  <SinglePilot>true</SinglePilot>
+  <VehicleWeapons>
+    <VehicleWeapon>
+      <FiringArcs>
+        <Fore>true</Fore>
+      </FiringArcs>
+      <Location>Forward</Location>
+      <Qualities>
+        <Quality>
+          <Key>LINKED</Key>
+          <Count>1</Count>
+        </Quality>
+      </Qualities>
+      <Key>LASERMED</Key>
+    </VehicleWeapon>
+    <VehicleWeapon>
+      <FiringArcs>
+        <Fore>true</Fore>
+      </FiringArcs>
+      <Location>WingMounted</Location>
+      <Qualities>
+        <Quality>
+          <Key>LINKED</Key>
+          <Count>1</Count>
+        </Quality>
+      </Qualities>
+      <Key>IONLT</Key>
+      <Count>2</Count>
+    </VehicleWeapon>
+  </VehicleWeapons>
+  <SensorRange>Close</SensorRange>
+</Vehicle>
