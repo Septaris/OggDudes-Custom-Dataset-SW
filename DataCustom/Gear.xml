@@ -13590,4 +13590,106 @@ For untold ages, the spice called yarrock has been produced on Iridonia, created
     <Rarity>8</Rarity>
     <Type>Black Market</Type>
   </Gear>
+  <Gear>
+    <Key>AQUASUIT</Key>
+    <Name>Aquasuit</Name>
+    <Description> [H3]Aquasuit[h3]
+Jedi, soldiers, and diplomats need to function within the depths of water worlds such as Mon Cala. In order to do so, they don aquasuits. These form-fitting suits are pressurized, yet remain flexible and airtight due to the natural memory of the materials used. Integrated helmet optics and audio feeds dynamically adjust perception of the environment to suit the user's natural senses. Wearers can better deal with the unfamiliar costraints of operating hundreds of meters beneath the ocean's surface.
+[P]An aquasuit provides six hours of atmosphere to an air breather. During this time, the wearer also has access to fresh water, nutrition supplements, and other biological necessities. While wearing an aquasuit, a character does not suffer movement penalties for traveling through water.</Description>
+    <Source Page="58">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Survival</Type>
+    <Categories />
+    <Encumbrance>3</Encumbrance>
+    <Price>250</Price>
+    <Rarity>2</Rarity>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Provides six hours of atmosphere.</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>Wearer does not suffer movement penalties for traveling through water.</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </Gear>
+  <Gear>
+    <Key>JT12CJETPACK</Key>
+    <Name>JT-12C Jetpack</Name>
+    <Description>[H3]JT-12C Jetpack[h3]
+When clone troopers need to quickly deploy in the field, they are often equipped with the JT-12C jetpack. Merr-Sonn manufactures this modified version of the JT-12 for the Grand Army of the Republic. In addition to having increased production, this variant is modified to improve reliability for extended battlefield use. Intakes, turbines, and nozzels are hardened to reduce the need for field service. The modifications result in a slightly bulkier package. Consequently, soldiers may discard assigned units once they have depleted their fuel cells, to reduce their encumbrance on the battlefield.
+
+[P]A JT-12C jetpack allows a person to function as a silhouette 1, speed 2, handling 0, system strain 4 vehicle that can only operate in atmosphere and requires Piloting (Planetary) to operate. 
+[BR]
+      [P][I]Note:  For the vehicle version of this item, see the vehicle of the same name.[i]
+    </Description>
+    <Source Page="58">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Tools/Electronics</Type>
+    <Categories />
+    <Encumbrance>2</Encumbrance>
+    <Price>4750</Price>
+    <Rarity>7</Rarity>
+  </Gear>
+  <Gear>
+    <Key>NANODROIDS</Key>
+    <Name>Nano-Droids</Name>
+    <Description> [H3]Nano-Droids[h3]
+These microscopic machines typically take the form of spheres, invisible to the naked eye, that are stored in a suspension of electrolytic transfer fluid. Officially designated NM-K reconstitutors, these droids can reconfigure carbon-based matter -- an ability with many applications in the field of advanced electronics. However, due to the dire possibilities of misuse, nano-droids are prohibited by the Republic except for certain monitord and tightly controlled industrial applicates. The same capabilities that make them so useful for creating items allow nano-droids to rearrange molecules into explosively unstable configurations, turning a living being into a walking bomb.
+[P]Add [SE][SE][SE] to a character's Perception check to notice nano-droids, unless the searcher knows to look for them and has an appropriate scanner.
+[P]Nano-droids can be reprogrammed to explode. When activated, they deal 20 damage with the Breach 1 item quality to everything within short range, including the object in which they are contained.
+
+    </Description>
+    <Source Page="58">Collapse of the Republic</Source>
+    <Custom>CustomItem</Custom>
+    <Type>Tools/Electronics</Type>
+    <Categories />
+    <Price>50000</Price>
+    <Rarity>9</Rarity>
+    <Restricted>true</Restricted>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Add [SE][SE][SE] to Perception checks to notice nano-droids.</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>Can be reprogrammed to explode.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <WeaponModifiers>
+      <WeaponModifier>
+        <UnarmedName>Nano-Droid Bomb</UnarmedName>
+        <SkillKey>COMP</SkillKey>
+        <Damage>20</Damage>
+        <Qualities>
+          <Quality>
+            <Key>BREACH</Key>
+            <Count>1</Count>
+          </Quality>
+        </Qualities>
+        <BaseMods>
+          <Mod>
+            <MiscDesc>Damage is dealt to containing object or person, plus anything else within short range.</MiscDesc>
+          </Mod>
+        </BaseMods>
+        <RangeValue>wrShort</RangeValue>
+        <Range>Short</Range>
+      </WeaponModifier>
+    </WeaponModifiers>
+  </Gear>
+  <Gear>
+    <Key>Z6JETPACK</Key>
+    <Name>Z-6 Jetpack</Name>
+    <Description>[H3]Z-6 Jetpack[h3]
+When a soldier needs to make a swift and unexpected arrival, a jetpack provides one of the quickest and most surprising methods. The pack's small thrusters enable the wearer to blast into the air for a short time, achieving a vertical height of up to 70 meters. The pack uses a combination of verbal and wrist-mountred controls.
+[P]The Z-6 provides additional tactical flexibility by incorporating a mount point for a single rocket-fired missile. Different payloads can be incorporated based upon the needs of each objective. Mitrinomon Transports manufactors the Z-6, which -- alongside the JT-12 -- is popular among traditionally minded Mandalorians who prize the additional combat option.
+
+[P][I]Note:  For the vehicle version of this item, see the vehicle of the same name.[i]
+    </Description>
+    <Source Page="59">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Tools/Electronics</Type>
+    <Categories />
+    <Encumbrance>3</Encumbrance>
+    <Price>5250</Price>
+    <Rarity>7</Rarity>
+  </Gear>
 </Gears>
