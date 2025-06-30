@@ -1630,6 +1630,14 @@
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
+    <Key>DROIDCOMMIMP</Key>
+    <Name>Droid Commander (Improved)</Name>
+    <Description>Droid Commander maneuver affects droid allies equal to double Presence, and may spend [TR] to allow allies to suffer 1 strain and perform 1 free action instead.</Description>
+    <Source Page="144">Collapse of the Republic</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
+  </Talent>
+  <Talent>
     <Key>DEATHABOVE</Key>
     <Name>Death from Above</Name>
     <Description>Once per encounter while using a jetpack, the character may take the Death from Above action, inflicting 1 system strain on their jetpack and making a [B]Hard ([DI][DI][DI]) Piloting (Planetary) check[b]. If the check is successful, for each [SU], one adversary of silhouette 0 or 1 within short range is knocked prone. The character may spend [TR] from the check to stagger one affected adversary until the end of the adversary's next turn.</Description>
