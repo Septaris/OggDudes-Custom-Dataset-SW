@@ -12286,4 +12286,498 @@ After working on the item, vehicle, or ship, the character’s comprehension of 
     <AddedMods>
     </AddedMods>
   </ItemAttachment>
+  <ItemAttachment>
+    <Key>BAYONET</Key>
+    <Name>Bayonet</Name>
+    <Description>[H3]Bayonet[h3]
+In the heat of combat, a ranged conflict can quickly turn into a melee. While most soldiers carry some sort of melee weapon, the ability to also use a rifle in hand-to-hand combat can enable a trooper to act without thinking. A bayonet makes this a natural process and gives a weapon more reach and force than a simple knife. This attachement can only be used on rifle- and carbine-sized weapons.
+[BR][B]Models Include:[b] SoroSuub Mk IX Bayonet, BlasTech B-3 Field Knife.</Description>
+    <Sources>
+      <Source Page="60">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Rifle</Category>
+      <Category>Carbine</Category>
+      <Category>Heavy Rifle</Category>
+    </CategoryLimit>
+    <Price>50</Price>
+    <Rarity>1</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Adds a bayonet profile to the weapon.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>DEFENSIVE</Key>
+        <Count>1</Count>
+        <WeaponModifierIndex>0</WeaponModifierIndex>
+      </Mod>
+      <Mod>
+        <Key>PIERCE</Key>
+        <Count>1</Count>
+        <WeaponModifierIndex>0</WeaponModifierIndex>
+      </Mod>
+    </AddedMods>
+    <WeaponModifiers>
+      <WeaponModifier>
+        <UnarmedName>Bayonet</UnarmedName>
+        <SkillKey>MELEE</SkillKey>
+        <DamageAdd>1</DamageAdd>
+        <Crit>3</Crit>
+        <Range>Engaged</Range>
+      </WeaponModifier>
+    </WeaponModifiers>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CATFAILMOD</Key>
+    <Name>Catastrophic Failure Modification</Name>
+    <Description>[H3]Catastrophic Failure Modification[h3]
+Despite their deadliness, lightsabers are famously reliable for a trained user. However, it is possible for an expert in lightsaber construction to bypass the weapon's normal safegards in order to overload it, such as by inverting the emitter matrix, releasing a massive amount of plasma energy. For a Jedi to even consdier this course of action, the situation must be truly dire.</Description>
+    <Source Page="61">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Lightsaber</Category>
+    </CategoryLimit>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>When lightsaber is activated, it overloads, causing it to detonate at the end of the following round, dealing 20 damage with Breach 1 and Vicious 4, to all characters and objects within short range.  The lightsaber, but not the crystal, is destroyed in the processes.</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CHRISTOPHCRYS</Key>
+    <Name>Christophsis Crystal</Name>
+    <Description>[H3]Christophsis Crystal[h3]
+The crystal world of Christophsis was an early flash point in the Clone Wars, and it has seen continuing conflict throughout the war. Its importants to both the Republic and Separatists stems from a number of sources, but its importance to the Jedi lies in the pure kyber crystals that form in the world's crystalline forests. A lightsaber blade created by a Christophsis crystal amplifies kinetic energy in a unique way among lightsabers, resulting in powerful impacts.
+[P][B]Models Include:[b] None.</Description>
+    <Source Page="62">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <CategoryLimit>
+      <Category>Lightsaber</Category>
+    </CategoryLimit>
+    <Price>11000</Price>
+    <Rarity>8</Rarity>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <Key>DAMSET</Key>
+        <Count>7</Count>
+      </Mod>
+      <Mod>
+        <Key>CRITSET</Key>
+        <Count>3</Count>
+      </Mod>
+      <Mod>
+        <Key>BREACH</Key>
+        <Count>1</Count>
+        <QualSet>true</QualSet>
+      </Mod>
+      <Mod>
+        <Key>SUNDER</Key>
+        <QualSet>true</QualSet>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>BREACH</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>KNOCKDOWN</Key>
+      </Mod>
+      <Mod>
+        <Key>DAMADD</Key>
+        <Count>3</Count>
+      </Mod>
+      <Mod>
+        <Key>CRITSUB</Key>
+        <Count>2</Count>
+      </Mod>
+    </AddedMods>
+    <IsCrystal>true</IsCrystal>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>CLONEBIN</Key>
+    <Name>Clone Polarized Electrobinoculars</Name>
+    <Description>[H3]Clone Polarized Electrobinoculars[h3]
+Some clone troopers mount a pair of electrobinoculars to their helmet on a visor. These can be quickly lowered to the helmet's viewport to observe a distant target. The standard set of polarized electrobinoculars includes light filtering as well as image sharpening and stabilization. The Grand Army of the Republic-issue are battle hardened and every bit as durable as the other components of clone trooper armor.
+[P][B]Models Include:[b] Ziko 50C Macrovisor.</Description>
+    <Sources>
+      <Source Page="62">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Armor</Type>
+    <Price>500</Price>
+    <Rarity>4</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Adds [BO] to all sight-based Perception checks.</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>Removes [SE] from Perception checks due to distance or low-light conditions.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>PERC</Key>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>HAIRTRIG</Key>
+    <Name>Hair Trigger</Name>
+    <Description>[H3]Hair Trigger[h3]
+Many pistols are designed to cycle and fire as quickly as the trigger can be depressed. Replacing the standard firing mechanism with one that is more responsive allows the wielder to fire substantially more often. Hair triggers can only be installed on Ranged (Light) pistols that lack the Auto-fire quality.
+[P][B]Models Include:[b] Morellian MWC-HS Hyper Trigger, BlasTech Industries 009 Fastshot.
+    </Description>
+    <Sources>
+      <Source Page="60">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Weapon</Type>
+    <SkillLimit>
+      <Key>RANGLT</Key>
+    </SkillLimit>
+    <Price>250</Price>
+    <Rarity>2</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <Key>LINKED</Key>
+        <Count>1</Count>
+        <QualSet>true</QualSet>
+      </Mod>
+      <Mod>
+        <Key>INACCURATE</Key>
+        <Count>2</Count>
+        <QualSet>true</QualSet>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>INACCURATE</Key>
+        <Count>-1</Count>
+      </Mod>
+    </AddedMods>
+    <ExcludedMods>
+      <Key>AUTOFIRE</Key>
+    </ExcludedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>AMPCHAMBER</Key>
+    <Name>Amplifying Chamber</Name>
+    <Description>[H3]Amplifying Chamber[h3]
+A blaster fires using energy to excite a small amount of volatile cas into an explosive plasma. That transformation occurs within the weapon's chamger, which tightly controls the quantity and ratio of both the gas and the energy. A larger, reinforced chamber enables the weapon to emit a significantly more powerfly blast that can inflict its damage over a larger area. Over time, this increases the wear on the weapon and can lead to component breakdown, but most wielders are more than willing to accept this cost for the increase in effectiveness. This attachment can only be installed on blasters
+[BR][B]Models Include:[b] Rothana RX-99 AmpChamber, BlasTech A-13 Acceleration Chamber.
+    </Description>
+    <Sources>
+      <Source Page="60">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Blaster</Category>
+    </CategoryLimit>
+    <Price>350</Price>
+    <Rarity>4</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <Key>BLAST</Key>
+        <Count>4</Count>
+        <QualSet>true</QualSet>
+      </Mod>
+      <Mod>
+        <MiscDesc>Adds [SE] to all Mechanics checks to maintain or repair this weapon.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>DAMADD</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>BLAST</Key>
+        <Count>5</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>WHIPTHROW</Key>
+    <Name>Whipcord Thrower</Name>
+    <Description>[H3]Whipcord Thrower[h3]
+A whipcord thrower quickly deploys a length of high-tensile-strength cable, firing it over a distance in order to secure a target. Its convenient armor mounting allows the user to act quickly, whether to arrest their own freefall, secure a loose object, or entangle a suprised opponent.
+[P][B]Models Include:[b] Jeron Hookless Grapplers, Soro-Suub Whipcord Thrower.</Description>
+    <Sources>
+      <Source Page="63">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Armor</Type>
+    <Price>600</Price>
+    <Rarity>1</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Reduces the difficulty of climbing by one.</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>May support up to 200 kg.</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>May be used as a weapon.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <WeaponModifiers>
+      <WeaponModifier>
+        <UnarmedName>Whipcord Thrower</UnarmedName>
+        <SkillKey>MELEE</SkillKey>
+        <DamageAdd>1</DamageAdd>
+        <Crit>5</Crit>
+        <Qualities>
+          <Quality>
+            <Key>ENSNARE</Key>
+            <Count>2</Count>
+          </Quality>
+        </Qualities>
+        <RangeValue>wrShort</RangeValue>
+        <Range>Short</Range>
+      </WeaponModifier>
+    </WeaponModifiers>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>BARCSIDECAR</Key>
+    <Name>Mk I Sidecar for BARC Speeder</Name>
+    <Description>[H3]Mk I Sidecar for BARC Speeder[h3]
+The addition of a Mk I Sidecare increases a BARC speeder's passenger capacity and encumbrance at the cost of handling.  The sidecar can mount a light repeating blaster -- this weapon uses personal scale, not planetary scale (Fire Arc Forward; Damage 11; Critical 3; Range [Long]; Auto-fire; Pierce 1).
+    </Description>
+    <Sources>
+      <Source Page="65">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Vehicle</Type>
+    <ItemLimit>
+      <Key>BARCSPEEDER</Key>
+    </ItemLimit>
+    <BaseMods>
+      <Mod>
+        <Key>PASSADD</Key>
+        <Count>1</Count>
+      </Mod>
+      <Mod>
+        <Key>ENCCADD</Key>
+        <Count>5</Count>
+      </Mod>
+    </BaseMods>
+    <WeaponModifiers>
+      <WeaponModifier>
+        <UnarmedName>Light Repeating Blaster</UnarmedName>
+        <SkillKey>GUNN</SkillKey>
+        <Damage>11</Damage>
+        <Crit>3</Crit>
+        <Scale>wsPersonal</Scale>
+        <Qualities>
+          <Quality>
+            <Key>AUTOFIRE</Key>
+          </Quality>
+          <Quality>
+            <Key>PIERCE</Key>
+            <Count>1</Count>
+          </Quality>
+        </Qualities>
+        <VehicleWeaponProperties>
+          <Location>Forward</Location>
+          <FiringArcs>
+            <Fore>true</Fore>
+          </FiringArcs>
+        </VehicleWeaponProperties>
+        <RangeValue>wrLong</RangeValue>
+        <Range>Long</Range>
+      </WeaponModifier>
+    </WeaponModifiers>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>PERVIBROSAW</Key>
+    <Name>Personal Vibrosaw</Name>
+    <Description>[H3]Personal Vibrosaw[h3]
+Troopers may have to pass through a broad range of environments when on a mission or in pursuit of a target. Sometimes, this requires cutting through forest undergrowth or cutting through a bulkhead so that a unit can quickly bypass critical security systems. To expedite these situations, some troopers mount a personal vibrosaw on a bracer of their armor.  When deployed, the diamond-tipped chain rotates rappidly around a thin blade capable of cutting through virtually any material. In extreme situations, the vibrosaw may also be used as a weapon, but its rotating blades make it cumbersome to wield.
+[P][B]Models Include:[b] Greel Mk VI Vibrosaw.
+    </Description>
+    <Sources>
+      <Source Page="62">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Armor</Type>
+    <Price>900</Price>
+    <Rarity>1</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Adds a vibrosaw that can quickly cut through most materials in two or three rounds.</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>Adds a vibrosaw weapon profile.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <WeaponModifiers>
+      <WeaponModifier>
+        <UnarmedName>Vibrosaw</UnarmedName>
+        <SkillKey>MELEE</SkillKey>
+        <DamageAdd>4</DamageAdd>
+        <Crit>2</Crit>
+        <Qualities>
+          <Quality>
+            <Key>CUMBERSOME</Key>
+            <Count>4</Count>
+          </Quality>
+          <Quality>
+            <Key>PIERCE</Key>
+            <Count>2</Count>
+          </Quality>
+          <Quality>
+            <Key>SUNDER</Key>
+          </Quality>
+          <Quality>
+            <Key>UNWIELDY</Key>
+            <Count>4</Count>
+          </Quality>
+          <Quality>
+            <Key>VICIOUS</Key>
+            <Count>2</Count>
+          </Quality>
+        </Qualities>
+        <Range>Engaged</Range>
+      </WeaponModifier>
+    </WeaponModifiers>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>PLASMASHIELD</Key>
+    <Name>Portable Plasma Shield</Name>
+    <Description>[H3]Portable Plasma Shield[h3]
+Armor and weapon designs oppose one another in a cycle of endless escalation. Not surprisingly, many warriors seek out means to enhance their defenses in hopes that it will leave them free to make additional attacks. A small defensive shield can provide a substantial upgrade. Energy shields take this a step further, offering a near-impenetrable defense while requiring much less weight and bulk than a more traditional shield. A forearm-mounted plasma shield's biggest limitation is its size. One capable of completely protecting the wearer requires a bulky emitter and energy source. It can also interfere with the soldier's own weapons, making striking a blow awkward around the edge of the shield. 
+[P][B]Models Include:[b] Mili-Corp PS-8C Plasma Buckler, Krail 99 Guardian System</Description>
+    <Sources>
+      <Source Page="63">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Armor</Type>
+    <Price>2500</Price>
+    <Rarity>4</Rarity>
+    <HP>2</HP>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>May be activated or deactivated as an incidental.</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>When active, cannot wield two-handed weapons.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Key>DEFENSIVE</Key>
+        <Count>1</Count>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>DEFENSIVE</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Key>DEFLECTION</Key>
+        <Count>3</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>RETWRIST</Key>
+    <Name>Retractable Wrist Blades</Name>
+    <Description>[H3]Retractable Wrist Blades[h3]
+Knives are among the most universally developed and broadly useful tools. While its combat function is obvious, knives are also routinely used for modifying equipment, as makeshift prybars, for escaping restraints, and for countless other applications. Not surprisingly, many warriors like to have a blade readily at hand. Mounting retractable blades on one or both forearms of an armored suit provides a solution that is immediately available. In some cases, the mount point is furter reinforced, transforming the forearm blade mount into a small buckler.
+[P][B]Models Include:[b] Merr-Sonn SB-7 Spring Blades, Dolmax Model 9 Wrist Knife.
+    </Description>
+    <Sources>
+      <Source Page="63">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Armor</Type>
+    <Price>150</Price>
+    <Rarity>1</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Armor incorporates a wrist blade that can be readied as an incidental.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>DEFENSIVE</Key>
+        <Count>2</Count>
+        <WeaponModifierIndex>0</WeaponModifierIndex>
+      </Mod>
+    </AddedMods>
+    <WeaponModifiers>
+      <WeaponModifier>
+        <UnarmedName>Wrist Blade</UnarmedName>
+        <SkillKey>MELEE</SkillKey>
+        <DamageAdd>1</DamageAdd>
+        <Crit>3</Crit>
+        <Qualities>
+          <Quality>
+            <Key>PIERCE</Key>
+            <Count>1</Count>
+          </Quality>
+        </Qualities>
+        <Range>Engaged</Range>
+      </WeaponModifier>
+    </WeaponModifiers>
+  </ItemAttachment>
+  <ItemAttachment>
+    <Key>MANDOCHAMBER</Key>
+    <Name>Mandalorian Chamber</Name>
+    <Description>[H3]Mandalorian Chamber[h3]
+Many Mandalorian warriors customize their gear to an extraordinary degree. Some choose to go so far as to adjust the settings on their blaster's chamber, carefully manipulating the ratios of the volatile gas and energy mix. Reinforcing these chambers or adjusting the compnent's size can increase a weapon's stopping power or range. A relatively recent innovation commonly known as the Mandalorian chamber, which has become popular among these soldiers, enables the blaster to simultaneously apply characteristics of both the deadly and stun settings.  This attachment can only be installed on blasters.
+[P][B]Models Include:[b] None.</Description>
+    <Sources>
+      <Source Page="60">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Weapon</Type>
+    <CategoryLimit>
+      <Category>Blaster</Category>
+    </CategoryLimit>
+    <Price>250</Price>
+    <Rarity>5</Rarity>
+    <HP>1</HP>
+    <BaseMods>
+      <Mod>
+        <Key>STUN</Key>
+        <Count>3</Count>
+        <QualSet>true</QualSet>
+      </Mod>
+      <Mod>
+        <Key>RANGESUB</Key>
+        <Count>1</Count>
+        <QualSet>true</QualSet>
+      </Mod>
+    </BaseMods>
+    <AddedMods>
+      <Mod>
+        <Key>DISORIENT</Key>
+        <Count>3</Count>
+      </Mod>
+      <Mod>
+        <Key>STUN</Key>
+        <Count>2</Count>
+      </Mod>
+      <Mod>
+        <Key>RANGEADD</Key>
+        <Count>1</Count>
+      </Mod>
+    </AddedMods>
+  </ItemAttachment>
 </ItemAttachments>
