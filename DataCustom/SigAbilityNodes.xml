@@ -2179,4 +2179,132 @@ The difficulty of this combat check is increased by 1 for each successful combat
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Protection</SigAbility>
   </SigAbilityNode>
+  <SigAbilityNode>
+    <Key>PEERLESSINTERCEPACTIVATEQUAL</Key>
+    <Name>Activate Quality</Name>
+    <Description>When the character uses Improved Parry or Improved Reflect to inflict a hit on an attacker, they may activate one item quality.</Description>
+    <Source Page="47">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <SigAbility>Peerless Interception</SigAbility>
+  </SigAbilityNode>
+  <SigAbilityNode>
+    <Key>UNMATCHEDTEAMCAMARADERIE</Key>
+    <Name>Camaraderie</Name>
+    <Description>When the character provides assistance, they heal 2 strain from themself.</Description>
+    <Source Page="46">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <SigAbility>Unmatched Teamwork</SigAbility>
+  </SigAbilityNode>
+  <SigAbilityNode>
+    <Key>PEERLESSINTERCEPCRITCOUNT</Key>
+    <Name>Critical Counter</Name>
+    <Description>When the character spends [DE] to inflict a hit on their attacker using Improved Parry or Improved Reflect, they also inflict a critical injury.</Description>
+    <Source Page="47">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <SigAbility>Peerless Interception</SigAbility>
+  </SigAbilityNode>
+  <SigAbilityNode>
+    <Key>UNMATCHEDTEAMDESTINY</Key>
+    <Name>Destiny</Name>
+    <Description>Unmatched Teamwork costs 1 fewer Destiny Points to activate.</Description>
+    <Source Page="46">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <SigAbility>Unmatched Teamwork</SigAbility>
+  </SigAbilityNode>
+  <SigAbilityNode>
+    <Key>PEERLESSINTERCEPDESTINY</Key>
+    <Name>Destiny</Name>
+    <Description>Peerless Interception costs 1 fewer Destiny Point to activate.</Description>
+    <Source Page="47">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <SigAbility>Peerless Interception</SigAbility>
+  </SigAbilityNode>
+  <SigAbilityNode>
+    <Key>UNMATCHEDTEAMINCREASESUCADV</Key>
+    <Name>Increase Effect:  Success and Advantage</Name>
+    <Description>The character's assistance instead adds [SU][AD].</Description>
+    <Source Page="46">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <SigAbility>Unmatched Teamwork</SigAbility>
+  </SigAbilityNode>
+  <SigAbilityNode>
+    <Key>UNMATCHEDTEAMREMSETBACK</Key>
+    <Name>Remove Setback</Name>
+    <Description>The character's assistance also removes [SE].</Description>
+    <Source Page="46">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <SigAbility>Unmatched Teamwork</SigAbility>
+  </SigAbilityNode>
+  <SigAbilityNode>
+    <Key>PEERLESSINTERCEPEFFORTCOUNT</Key>
+    <Name>Effortless Counter</Name>
+    <Description>Once per round, the character may use Improved Parry or Improved Reflect to inflict a hit on their attacker without spending [TH] or [DE].</Description>
+    <Source Page="47">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <SigAbility>Peerless Interception</SigAbility>
+  </SigAbilityNode>
+  <SigAbilityNode>
+    <Key>PEERLESSINTERCEPINCREASEDUR</Key>
+    <Name>Increase Duration</Name>
+    <Description>Peerless Interception lasts for one additional round.</Description>
+    <Source Page="47">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <SigAbility>Peerless Interception</SigAbility>
+  </SigAbilityNode>
+  <SigAbilityNode>
+    <Key>UNMATCHEDTEAMINCREASESUC</Key>
+    <Name>Increase Effect:  Success</Name>
+    <Description>The character's assistance instead adds [SU].</Description>
+    <Source Page="46">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <SigAbility>Unmatched Teamwork</SigAbility>
+  </SigAbilityNode>
+  <SigAbilityNode>
+    <Key>PEERLESSINTERCEPREDUCESTR</Key>
+    <Name>Reduce Strain</Name>
+    <Description>The character only suffers strain the first time they use Parry or Reflect each round.</Description>
+    <Source Page="47">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <SigAbility>Peerless Interception</SigAbility>
+  </SigAbilityNode>
+  <SigAbilityNode>
+    <Key>UNMATCHEDTEAMINCREASERANGE</Key>
+    <Name>Increase Range</Name>
+    <Description>Increase the range at which the character can provide assistance by one range band.</Description>
+    <Source Page="46">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <SigAbility>Unmatched Teamwork</SigAbility>
+  </SigAbilityNode>
+  <SigAbilityNode>
+    <Key>PEERLESSINTERCEPBASE</Key>
+    <Name>Peerless Interception Base Ability</Name>
+    <Description>Once per session as an out-of-turn incidental, the character may spend 2 Destiny Points to activate Peerless Interception. For the next two rounds, when the character uses Parry or Reflect to reduce the damage of a hit, they reduce the damage by an additional amount equal to their Force rating.</Description>
+    <Source Page="47">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <SigAbility>Peerless Interception</SigAbility>
+  </SigAbilityNode>
+  <SigAbilityNode>
+    <Key>UNMATCHEDTEAMBASE</Key>
+    <Name>Unmatched Teamwork Base Ability</Name>
+    <Description>Once per session as an incidental, the character may spend 2 Destiny Points to activate Unmatched Teamwork. Until the end of the encounter, the character may assist another character as an incidental (instead of a maneuver) once per round.</Description>
+    <Source Page="46">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <SigAbility>Unmatched Teamwork</SigAbility>
+  </SigAbilityNode>
+  <SigAbilityNode>
+    <Key>UNMATCHEDTEAMINCREASETRI</Key>
+    <Name>Increase Effect:  Triumph</Name>
+    <Description>The character's assistance instead adds [TR].</Description>
+    <Source Page="46">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <SigAbility>Unmatched Teamwork</SigAbility>
+  </SigAbilityNode>
+  <SigAbilityNode>
+    <Key>PEERLESSINTERCEPINCFREQU</Key>
+    <Name>Increase Frequency</Name>
+    <Description>The character may activate Peerless Interception one additional time per session.</Description>
+    <Source Page="47">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <SigAbility>Peerless Interception</SigAbility>
+  </SigAbilityNode>
 </SigAbilityNodes>
