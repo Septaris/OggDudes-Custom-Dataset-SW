@@ -3637,4 +3637,190 @@ Stealth suits, produced by companies like Ayelixe/Kronbing Textiles and Creshald
     <Defense>1</Defense>
     <Soak>1</Soak>
   </Armor>
+  <Armor>
+    <Key>CLONEDIVE</Key>
+    <Name>Clone Dive Armor</Name>
+    <Description>      [H3]Clone Dive Armor[h3]
+Some battlefronts are on worlds such as Mon Cala, where clone troopers must fight while swimming through the depths. Clones are as ill suited for such environments as any other humans and they require armor that protects them from the ocean's pressure while also providing breathable air and assisting with aquatic maneuverability. By necessity, these suits are made of lighter-weight materials so that the wearer retains some degree of buoyancy. They also incorporate an underwater propulsion system, fins, and sensors for underwater visibility.
+[P]Clone dive armor provides twelve hours of oxygen. During this time, the wearer also has fresh water, nutrition supplements, and other biological necessities. While wearing clone dive armor, a character does not suffer movement penalties for moving through water and removes up to one [SE] from Perception checks due to underwater conditions.</Description>
+    <Sources>
+      <Source Page="56">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Categories>
+      <Category>Full Body</Category>
+      <Category>Hard</Category>
+      <Category>Hard Full Body</Category>
+    </Categories>
+    <Encumbrance>3</Encumbrance>
+    <HP>2</HP>
+    <Price>4500</Price>
+    <Rarity>7</Rarity>
+    <Restricted>true</Restricted>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Wearer does not suffer movement penalties for traveling through water.</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>Wearer removes [SE] from Perception checks due to underwater conditions.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <Soak>2</Soak>
+  </Armor>
+  <Armor>
+    <Key>CLONERECON</Key>
+    <Name>Clone Reconnaissance Armor</Name>
+    <Description>[H3]Clone Reconnaissance Armor[h3]
+Often, clone troopers need to operate in environments and situations where stealth is vital. Troopers tend to use clone reconnaissance armor for such missions. Its lighter weight, increased flexibility, and enhanced sensor suite aid soldiers during independent operations. Prior to each mission in a new environment, troopers typically repaint these suits with camouflage that integrates colors and patters typical of the terrain where they expect to deploy.
+[P]Characters wearing clone reconnaissance armor add [BO] to Stealth checks they make. These suits incorporate visors with integrated thermal and low-light sensors, allowing wearers to remove [SE] from visual Perception checks they make.</Description>
+    <Sources>
+      <Source Page="56">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Categories>
+      <Category>Full Body</Category>
+      <Category>Hard</Category>
+      <Category>Hard Full Body</Category>
+    </Categories>
+    <Encumbrance>3</Encumbrance>
+    <HP>2</HP>
+    <Price>4000</Price>
+    <Rarity>6</Rarity>
+    <Restricted>true</Restricted>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Wearer adds [BO] to Stealth checks.</MiscDesc>
+        <DieModifiers>
+          <DieModifier>
+            <SkillKey>STEAL</SkillKey>
+            <BoostCount>1</BoostCount>
+          </DieModifier>
+        </DieModifiers>
+      </Mod>
+      <Mod>
+        <MiscDesc>Remove [SE] from visual Perception checks.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <Soak>2</Soak>
+  </Armor>
+  <Armor>
+    <Key>JEDIRECON</Key>
+    <Name>Jedi Reconnaissance Armor</Name>
+    <Description>[H3]Jedi Reconnaissance Armor[h3]
+In the chaos of a major conflict, may clone troopers fear that the sheer volume of blaster bolts fired from both sides could catch even a Jedi Master unprepared. In an effort to ease the concerns of their allies, some Jedi wear lightweight armor that offers some protection, while still leaving them largely unencumbered for battle or overland travel.
+[P]Characters wearing Jedi reconnaissance armor add [BO] to Stealth checks they make.</Description>
+    <Sources>
+      <Source Page="56">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Categories>
+      <Category>Half Body</Category>
+      <Category>Heavy</Category>
+    </Categories>
+    <Encumbrance>2</Encumbrance>
+    <HP>2</HP>
+    <Price>4000</Price>
+    <Rarity>8</Rarity>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Wearer adds [BO] to Stealth checks.</MiscDesc>
+        <DieModifiers>
+          <DieModifier>
+            <SkillKey>STEAL</SkillKey>
+            <BoostCount>1</BoostCount>
+          </DieModifier>
+        </DieModifiers>
+      </Mod>
+    </BaseMods>
+    <Defense>1</Defense>
+    <Soak>1</Soak>
+  </Armor>
+  <Armor>
+    <Key>KATARNCOMM</Key>
+    <Name>Katarn-Class Commando Armor</Name>
+    <Description>[H3][I]Katarn[i] - Class Commando Armor[h3]
+Clone commandos often accept missions that have a particularly high risk assessment and require extended independent operations. [I]Katarn[i]-class commando armor was designed with these conditions in mind.  Its imposing form is named after a deadly predator native to the planet Kashyyyk, and its capabilities live up to that name.
+[P]Its duraplast construction provides good protection from most weapons, while its insulated bodysuit grants the wearer protection from heat, cold, radiation, and most known toxins. A six-hour air supply enables the wearer to function in hostile environments, including the vacuum of space. Integrated scanners and communications suites enable the wearer to track hostiles while keeping in touch with allies.
+[P]The armor's backpack is modular, enabling it to incorporate modifications suited to battlefield needs, such as survival gear, additional oxygen supplies, and field electronics.</Description>
+    <Sources>
+      <Source Page="56">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Categories>
+      <Category>Full Body</Category>
+      <Category>Hard</Category>
+      <Category>Hard Full Body</Category>
+      <Category>Sealed</Category>
+    </Categories>
+    <Encumbrance>4</Encumbrance>
+    <HP>3</HP>
+    <Price>6500</Price>
+    <Rarity>7</Rarity>
+    <Restricted>true</Restricted>
+    <Defense>1</Defense>
+    <Soak>2</Soak>
+  </Armor>
+  <Armor>
+    <Key>PHASEIIARC</Key>
+    <Name>Phase II ARC Trooper Armor</Name>
+    <Description>[H3]Phase II ARC Trooper Armor[h3]
+Advanced Recon Commandos, or ARC troopers, performed the initial field test of Phase II clone trooper armor. During the earliest tests, this armor was simply a modification of Phase I clone trooper armor, which also included a pauldron, kama, and a survival pack. 
+[P] Once the tests were completed, ARC troopers received armor that was similar to the standard Phase II clone trooper armor but retained the accessories. These inherent modifications left the suit slightly less capable of customization while providing better overall protection.
+[P]Phase II ARC trooper armor includes an integrated comlink with scrambler capable of using all standard Republic communications protocols. The survival pack incorporates emergency rations, a water filtration system, microfiber line, and a distress beacon.</Description>
+    <Sources>
+      <Source Page="57">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Categories>
+      <Category>Full Body</Category>
+      <Category>Hard</Category>
+      <Category>Hard Full Body</Category>
+    </Categories>
+    <Encumbrance>4</Encumbrance>
+    <HP>2</HP>
+    <Price>5500</Price>
+    <Rarity>7</Rarity>
+    <Restricted>true</Restricted>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Includes an integrated comlink with scrambler.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Incorporates emergency rations, water filtration, microfiber line, and distress beacon.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <Defense>1</Defense>
+    <Soak>2</Soak>
+  </Armor>
+  <Armor>
+    <Key>PHASEIICLONE</Key>
+    <Name>Phase II Clone Trooper Armor</Name>
+    <Description>[H3]Phase II Clone Trooper Armor[h3]
+Throughout the course of the Clone Wars, clone troopers have assumed a broad range of different battlefield roles. It has become increasingly obvious that the armor employed at the start of the conflict was insufficiently adaptable to the varying requirements of these roles. To remedy this situation, the Grand Army of the Republic gradually rolled out a new model of armor to all clone troopers.
+[P]The new armor incorporates a much greater level of modularity and adaptability so that individual clones can modify it as best suits their preferences and requirements. These improvements necessitate some cutbacks in basic systems, including the removal of the armor's internal life-support system. Modular components are available to replace all omitted functions, so clone troopers can always reconfigure their armor to incorporate those features necessary for a particular battlefield role.
+[P]Phase II clone trooper armor includes an integrated comlink with scrambler capable of using all standard Republic communications protocols.</Description>
+    <Sources>
+      <Source Page="57">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Categories>
+      <Category>Full Body</Category>
+      <Category>Hard</Category>
+      <Category>Hard Full Body</Category>
+    </Categories>
+    <Encumbrance>4</Encumbrance>
+    <HP>4</HP>
+    <Price>3000</Price>
+    <Rarity>6</Rarity>
+    <Restricted>true</Restricted>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Includes an integrated comlink with scrambler.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <Soak>2</Soak>
+  </Armor>
 </Armors>

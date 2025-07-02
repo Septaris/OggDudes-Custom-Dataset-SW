@@ -19507,9 +19507,9 @@ The greatsword requires two hands to wield.</Description>
     <Name>Welding Rod</Name>
     <Description>
       [H3]Welding Rod[h3]
-Technicians need not only the ability to cut metal apart quickly, but the capacity to fuse back together. A welding rod works on a simple principle, generating a jet of focused heat that liqefies small parts of two or more pieces of metal, creating a sturdy bond between the formerly separate pieces. The heat involved is in this process is extremely dangerous to organic creatures and can even sear clean through athe much sturdier limbs of droids. For good reason, welding rods are typically sold with instruction manuals that highlight the danger involved in their use - which some Technicians choose to actively ignore when threatened in their workshops.
+Technicians need not only the ability to cut metal apart quickly, but the capacity to fuse back together. A welding rod works on a simple principle, generating a jet of focused heat that liquefies small parts of two or more pieces of metal, creating a sturdy bond between the formerly separate pieces. The heat involved is in this process is extremely dangerous to organic creatures and can even sear clean through the much sturdier limbs of droids. For good reason, welding rods are typically sold with instruction manuals that highlight the danger involved in their use - which some Technicians choose to actively ignore when threatened in their workshops.
 [P]A welding rod adds automatic [SU] to Mechanics checks checks to repair droids, vehicles and starships.
-[P]The GM may spend [DE] on any check made with a welding rod to inflict a Criticaly Injury (see page 216 of the [B]Edge of The Empire[b] Core Rulebook) on the user.</Description>
+[P]The GM may spend [DE] on any check made with a welding rod to inflict a Critically Injury (see page 216 of the [B]Edge of The Empire[b] Core Rulebook) on the user.</Description>
     <Source Page="47">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Type>Tool</Type>
@@ -19780,7 +19780,7 @@ This missile contains a device allowing the target's movements to be tracked reg
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>After a character makes a successful combat check with an XX-23 tracer, he may make an [B]Average [DI][DI] Astrogation check[b] to determine the target's location anywhere in the galaxt until the tracer is removed.</MiscDesc>
+        <MiscDesc>After a character makes a successful combat check with an XX-23 tracer, he may make an [B]Average [DI][DI] Astrogation check[b] to determine the target's location anywhere in the galaxy until the tracer is removed.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>GUNN</SkillKey>
@@ -19804,7 +19804,7 @@ This missile contains a device allowing the target's movements to be tracked reg
     <Name>Z6 Riot Baton</Name>
     <Description>
       [H3]Z6 Riot Baton[h3]
-This extendable cudgel integrates a set of conductor contact vanes that can effectively subdue a target. The Z6 model was designed to partially collapse. This enables the wielder to carrier it at the waist with minimal inconvenience. When activated, the same power supply triggers an energy field that stabalizes the baton at its full ninety-centimeter size. In addition to serving as a shock prod, the energy field is capable of deflecting an attack from a plasma weapon, such as a lightsaber.</Description>
+This extendable cudgel integrates a set of conductor contact vanes that can effectively subdue a target. The Z6 model was designed to partially collapse. This enables the wielder to carrier it at the waist with minimal inconvenience. When activated, the same power supply triggers an energy field that stabilizes the baton at its full ninety-centimeter size. In addition to serving as a shock prod, the energy field is capable of deflecting an attack from a plasma weapon, such as a lightsaber.</Description>
     <Source Page="44">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -19884,5 +19884,440 @@ The Galactic Republic purchased many of its heavy weapons from Merr-Sonn Munitio
         <Count>1</Count>
       </Quality>
     </Qualities>
+  </Weapon>
+  <Weapon>
+    <Key>BESKAD</Key>
+    <Name>Beskad</Name>
+    <Description>[H3]Beskad[h3]
+Beskads are traditional Mandalorian sabers forged from beskar, or Mandalorian iron. Based on an ancient Taung design, these heavy, single-handed short swords are often unfavorably compared to the common machete. They have a broad, single-edged blade about the length of a grown human's arm mounted to a simple hilt with a rectangular crossguard. The blade's cutting edge curves sharply to a point, and its opposite side runs straight from hilt to tip. Designed to crack armor, these powerful blades are used like the humble machetes to which they are compared - to deliver short, powerful slashes. </Description>
+    <Sources>
+      <Source Page="53">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Melee</Type>
+    <Categories>
+      <Category>Cutting Edge Melee</Category>
+    </Categories>
+    <Encumbrance>4</Encumbrance>
+    <HP>2</HP>
+    <Price>6500</Price>
+    <Rarity>8</Rarity>
+    <Restricted>true</Restricted>
+    <SkillKey>MELEE</SkillKey>
+    <DamageAdd>3</DamageAdd>
+    <Crit>2</Crit>
+    <RangeValue>wrEngaged</RangeValue>
+    <Qualities>
+      <Quality>
+        <Key>CORTOSIS</Key>
+      </Quality>
+      <Quality>
+        <Key>CUMBERSOME</Key>
+        <Count>3</Count>
+      </Quality>
+      <Quality>
+        <Key>SUNDER</Key>
+      </Quality>
+      <Quality>
+        <Key>VICIOUS</Key>
+        <Count>3</Count>
+      </Quality>
+    </Qualities>
+    <Range>Engaged</Range>
+  </Weapon>
+  <Weapon>
+    <Key>SABERCANEHILT</Key>
+    <Name>Sabercane Hilt</Name>
+    <Description>[H3]Sabercane Hilt[h3]
+Sabercanes are a bit of an anomaly among the Jedi.  Essentially a basic lightsaber emitter built into a walking cane, they are typically used by elderly Jedi or by individuals who need to carry a lightsaber but keep it hidden. Most sabercanes consist of two parts: the hilt/handle and the shaft. The handle is a lightsaber hilt disguised as a cane handle. They come in a wide variety of styles and are as easy to use, modify, and maintain as basic lightsabers. Sabercane handles connect to their matching shafts via a simple bayonet fitting or custom quick-release mount. 
+
+[P]A sabercane's shaft is made from the same material as its handle and is typically solid-although they can be made hollow for carrying small, secret items. A wielder simply separates the two parts and activates the lightsaber to use it. The shaft may be used as an offhand weapon. Some sabercane shafts are even reinforced with Cortosis weave or beskar and can turn lightsaber blades as easily as lesser weapons. 
+
+[P]This weapon is a sabercane hilt equipped with an unmodded llum crystal. The crystal occupies two of the weapon's hard points. 
+
+[P]When installing a crystal into a lightsaber cane, reduce the damage of that crystal by one. 
+
+[P]Provided here are the hilts for the lightsabers listed in this chapter. Each requires a crystal to become a true weapon (otherwise they deal no damage, have no critical rating, and do not have many of their item qualities). However, a PC wanting to construct their own lightsabers should start with a hilt. If the PC wants to construct his own hilt out of available materials, the GM can still have him make a check to find the hilt, based on its rarity, and pay the cost. This represents the PC finding and paying for the raw materials. Then it is simply a matter of spending a few hours putting the materials together to build the hilt—no checks are necessary. </Description>
+    <Sources>
+      <Source Page="55">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Lightsaber</Type>
+    <Categories>
+      <Category>Lightsaber</Category>
+    </Categories>
+    <Encumbrance>1</Encumbrance>
+    <HP>3</HP>
+    <Price>500</Price>
+    <Rarity>6</Rarity>
+    <BaseMods>
+      <Mod>
+        <Key>DAMSUB</Key>
+        <Count>1</Count>
+      </Mod>
+    </BaseMods>
+    <SkillKey>LTSABER</SkillKey>
+    <RangeValue>wrEngaged</RangeValue>
+    <Qualities>
+      <Quality>
+        <Key>ACCURATE</Key>
+        <Count>1</Count>
+      </Quality>
+    </Qualities>
+    <Range>Engaged</Range>
+  </Weapon>
+  <Weapon>
+    <Key>SABERCANE</Key>
+    <Name>Sabercane</Name>
+    <Description>[H3]Sabercane[h3]
+Sabercanes are a bit of an anomaly among the Jedi.  Essentially a basic lightsaber emitter built into a walking cane, they are typically used by elderly Jedi or by individuals who need to carry a lightsaber but keep it hidden. Most sabercanes consist of two parts: the hilt/handle and the shaft. The handle is a lightsaber hilt disguised as a cane handle. They come in a wide variety of styles and are as easy to use, modify, and maintain as basic lightsabers. Sabercane handles connect to their matching shafts via a simple bayonet fitting or custom quick-release mount. 
+
+[P]A sabercane's shaft is made from the same material as its handle and is typically solid-although they can be made hollow for carrying small, secret items. A wielder simply separates the two parts and activates the lightsaber to use it. The shaft may be used as an offhand weapon. Some sabercane shafts are even reinforced with Cortosis weave or beskar and can turn lightsaber blades as easily as lesser weapons. 
+
+[P]This weapon is a sabercane hilt equipped with an unmodded llum crystal. The crystal occupies two of the weapon's hard points. 
+
+[P]When installing a crystal into a lightsaber cane, reduce the damage of that crystal by one. 
+    </Description>
+    <Sources>
+      <Source Page="55">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Lightsaber</Type>
+    <Categories>
+      <Category>Lightsaber</Category>
+    </Categories>
+    <Encumbrance>1</Encumbrance>
+    <HP>3</HP>
+    <Price>10000</Price>
+    <Rarity>10</Rarity>
+    <SkillKey>LTSABER</SkillKey>
+    <Damage>5</Damage>
+    <Crit>2</Crit>
+    <RangeValue>wrEngaged</RangeValue>
+    <Qualities>
+      <Quality>
+        <Key>ACCURATE</Key>
+        <Count>1</Count>
+      </Quality>
+      <Quality>
+        <Key>BREACH</Key>
+        <Count>1</Count>
+      </Quality>
+      <Quality>
+        <Key>SUNDER</Key>
+      </Quality>
+    </Qualities>
+    <Range>Engaged</Range>
+  </Weapon>
+  <Weapon>
+    <Key>DUSKBLADE</Key>
+    <Name>Dusk Blade</Name>
+    <Description>
+      [H3]Dusk Blade[h3]
+The mysterious Nightsisters use a number of bladed weapons, the most common of which is a deadly short sword. Carried both in battle and for ceremonial purposes, this weapon has a curved, single-edged blade similar to that of a scimitar or cutlass. The blade is broad at the tip and tapers toward the hilt, then flares out again where it meets the minimal handguard. It has a short, one-handed hilt and a guard on the outer edge below the cutting edge. Lightweight, flexible, and easy to handle, these swords are lethal in the hands of a trained user. 
+    </Description>
+    <Sources>
+      <Source Page="54">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Melee</Type>
+    <Categories>
+      <Category>Cutting Edge Melee</Category>
+    </Categories>
+    <Encumbrance>2</Encumbrance>
+    <HP>1</HP>
+    <Price>1800</Price>
+    <Rarity>8</Rarity>
+    <SkillKey>MELEE</SkillKey>
+    <DamageAdd>2</DamageAdd>
+    <Crit>3</Crit>
+    <RangeValue>wrEngaged</RangeValue>
+    <Qualities>
+      <Quality>
+        <Key>PIERCE</Key>
+        <Count>2</Count>
+      </Quality>
+      <Quality>
+        <Key>SUPERIOR</Key>
+      </Quality>
+    </Qualities>
+    <Range>Engaged</Range>
+  </Weapon>
+  <Weapon>
+    <Key>KALDAGGER</Key>
+    <Name>Kal Dagger</Name>
+    <Description> [H3]Kal Dagger[h3]
+The traditional accompaniment to the beskad, the kal is a short, deadly dagger typically wielded in a user's off hand. Forged entirely from beskar, the weapon consists of an elongated hexagonal blade with a rectangular cutout running along its center. The hilt is bare metal and has no crossguard, although the notch where the blade meets the hilt does provide some protection for the user's hand. While not as deadly as the beskad, the kal is still a formidable weapon in the hands of a skilled user. </Description>
+    <Sources>
+      <Source Page="54">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Melee</Type>
+    <Categories>
+      <Category>Cutting Edge Melee</Category>
+    </Categories>
+    <Encumbrance>1</Encumbrance>
+    <HP>1</HP>
+    <Price>4000</Price>
+    <Rarity>8</Rarity>
+    <Restricted>true</Restricted>
+    <SkillKey>MELEE</SkillKey>
+    <DamageAdd>2</DamageAdd>
+    <Crit>2</Crit>
+    <RangeValue>wrEngaged</RangeValue>
+    <Qualities>
+      <Quality>
+        <Key>CORTOSIS</Key>
+      </Quality>
+      <Quality>
+        <Key>SUNDER</Key>
+      </Quality>
+      <Quality>
+        <Key>VICIOUS</Key>
+        <Count>2</Count>
+      </Quality>
+    </Qualities>
+    <Range>Engaged</Range>
+  </Weapon>
+  <Weapon>
+    <Key>CRUSHGAUNTS</Key>
+    <Name>Crushgaunts</Name>
+    <Description>[H3]Crushgaunts[h3]
+Crushgaunts, also called shuk'orok in Mando'a, are strength-enhancing gloves designed centuries ago by the Mandalorians. They are constructed from a reactive, polymer-enhanced material reinforced by beskar plates. When worn, crushgaunts increase a wearer's grip strength to the point that they can shatter bone. crush durasteel, deflect weapons, and perform other deadly feats of strength. Thanks to their peculiar construction and beskar reinforcement, crushgaunts can even turn a lightsaber blade. 
+
+[P]A character wearing crushgaunts upgrades the ability of Brawn checks they make to grip, crush, or hold on to items one time. A Game Master may spend [DE] or [TH] [TH] [TH] generated on any checks made to crush or destroy something with crushgaunts to deal 2 wounds to the wearer. </Description>
+    <Sources>
+      <Source Page="54">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Brawling</Type>
+    <Categories>
+      <Category>Bludgeoning Brawl</Category>
+      <Category>Powered Brawl</Category>
+    </Categories>
+    <Encumbrance>1</Encumbrance>
+    <Price>5000</Price>
+    <Rarity>8</Rarity>
+    <Restricted>true</Restricted>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Upgrade ability of Brawn checks made to grip, crush, or hold onto items once.</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>GM may spend [TH][TH][TH] or [DE] on checks to crush or destroy to deal 2 wounds to the wearer.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <SkillKey>BRAWL</SkillKey>
+    <DamageAdd>4</DamageAdd>
+    <Crit>2</Crit>
+    <RangeValue>wrEngaged</RangeValue>
+    <Qualities>
+      <Quality>
+        <Key>CORTOSIS</Key>
+      </Quality>
+      <Quality>
+        <Key>SUNDER</Key>
+      </Quality>
+      <Quality>
+        <Key>VICIOUS</Key>
+        <Count>2</Count>
+      </Quality>
+    </Qualities>
+    <Range>Engaged</Range>
+  </Weapon>
+  <Weapon>
+    <Key>DC12UBEAM</Key>
+    <Name>DC-12U Beam Rifle</Name>
+    <Description>
+      [H3]DC-12U Beam Rifle[h3]
+BlasTech's DC-12U is an uncommon weapon designed for underwater operations. Built for the GAR's clone dive troopers, the DC-12U was developed from the C290, an older BlasTech blaster rifle built for use in wet, humid, or swampy environments. It's a heavy, two-barreled weapon equipped with a collapsing stock and an integrated under-barrel mount. It fires two low-output blaster bolts with one pull of the trigger and is devastating in the right hands. Thanks to its particular mix of blaster gases and the special focusing elements used to optimize underwater performance. the DC-1 2U fires blue bolts instead of the typical red bolts fired by most weapons. 
+
+[P]The under-barrel mount typically mounts a high-powered flashlight that removes [SE] due to darkness from any combat checks made with the weapon. When outside of an aquatic environment, the DC-12U has the Inaccurate 2 item quality. </Description>
+    <Sources>
+      <Source Page="51">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Energy Weapon</Type>
+    <Categories>
+      <Category>Rifle</Category>
+      <Category>Blaster Rifle</Category>
+      <Category>Blaster</Category>
+      <Category>Ranged</Category>
+    </Categories>
+    <Encumbrance>3</Encumbrance>
+    <HP>3</HP>
+    <Price>1600</Price>
+    <Rarity>7</Rarity>
+    <Restricted>true</Restricted>
+    <SkillKey>RANGHVY</SkillKey>
+    <Damage>7</Damage>
+    <Crit>3</Crit>
+    <RangeValue>wrMedium</RangeValue>
+    <Qualities>
+      <Quality>
+        <Key>LINKED</Key>
+        <Count>1</Count>
+      </Quality>
+    </Qualities>
+    <Range>Medium</Range>
+  </Weapon>
+  <Weapon>
+    <Key>WESTAR35</Key>
+    <Name>WESTAR-35 Blaster Pistol</Name>
+    <Description> [H3]WESTAR-35 Pistol[h3]
+The latest in the long-running WESTAR line, the WESTAR-35 is the standard-issue sidearm of Mandalorian law enforcement and military officers. It is a sleek, medium-frame blaster pistol encased in a sealed, low maintenance polycarbonate shell. It fires either blue or yellow blaster bolts (depending on the blaster gas source) is proof against water and hostile environments, and has the fit and finish expected from Mandalorian weapons. Like the GALAAR-15, the WESTAR-35 - in fact, all weapons from the GALAAR, WESTAR, and SHUKUR lines - was never intended for export. That said, many have found their way off Mandalore and into the hands of black marketeers. Thanks to its high-quality construction and Mandalorian cachet, this pistol demands a premium wherever it is sold.</Description>
+    <Sources>
+      <Source Page="53">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Energy Weapon</Type>
+    <Categories>
+      <Category>Pistol</Category>
+      <Category>Blaster Pistol</Category>
+      <Category>Blaster</Category>
+      <Category>Ranged</Category>
+    </Categories>
+    <Encumbrance>1</Encumbrance>
+    <HP>3</HP>
+    <Price>1200</Price>
+    <Rarity>8</Rarity>
+    <SkillKey>RANGLT</SkillKey>
+    <Damage>6</Damage>
+    <Crit>2</Crit>
+    <RangeValue>wrMedium</RangeValue>
+    <Qualities>
+      <Quality>
+        <Key>ACCURATE</Key>
+        <Count>1</Count>
+      </Quality>
+      <Quality>
+        <Key>STUNSETTING</Key>
+      </Quality>
+    </Qualities>
+    <Range>Medium</Range>
+  </Weapon>
+  <Weapon>
+    <Key>EE3BLASTER</Key>
+    <Name>EE-3 Blaster Carbine</Name>
+    <Description> [H3]EE-3 Blaster Carbine[h3]
+The rugged and reliable EE-3 blaster carbine is one of BlasTech's most popular nonmilitary weapons. Designed primarily for law enforcement and private security forces, the EE-3 is a short, lightweight carbine based on an older full-sized BlasTech rifle. It has a short, heavily shrouded barrel and comes equipped with a pistol grip, a solid stock, and an optical sight. The EE-3 is also a select-fire weapon and can fire single shots or automatic bursts, an oddity for this class of weapon. Due to its standard features, low price, and solid BlasTech construction, the EE-3 is extremely popular with bounty hunters and paramilitary groups. </Description>
+    <Sources>
+      <Source Page="52">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Energy Weapon</Type>
+    <Categories>
+      <Category>Carbine</Category>
+      <Category>Blaster Carbine</Category>
+      <Category>Blaster</Category>
+      <Category>Ranged</Category>
+    </Categories>
+    <Encumbrance>3</Encumbrance>
+    <HP>3</HP>
+    <Price>1500</Price>
+    <Rarity>6</Rarity>
+    <SkillKey>RANGHVY</SkillKey>
+    <Damage>8</Damage>
+    <Crit>3</Crit>
+    <RangeValue>wrMedium</RangeValue>
+    <Qualities>
+      <Quality>
+        <Key>AUTOFIRE</Key>
+      </Quality>
+      <Quality>
+        <Key>STUNSETTING</Key>
+      </Quality>
+    </Qualities>
+    <Range>Medium</Range>
+  </Weapon>
+  <Weapon>
+    <Key>E5BLASTER</Key>
+    <Name>E-5 Blaster Rifle</Name>
+    <Description>
+      [H3]E-5 Blaster Rifle[h3]
+The E-5 blaster rifle is a copy of a BlasTech design produced by Baktoid Armor Workshop for the Separatist armed forces. The standard-issue longarm of B1 battle droids, the E-5 is a squat, heavy, short-barreled weapon more like a carbine than a full-sized rifle. Despite its size, this weapon packs an incredible punch due to an oversized gas chamber and optimized galven pattern. Since the E-5 was built for use by droids, the safety features found on most blaster weapons were deleted from its design. Due to this, the E-5 is fragile and runs extremely hot. It is also relatively inaccurate due to substandard materials used in its construction. None of these issues are of particular worry to the CIS's battle droids. but they make the weapon unattractive to organic customers. 
+
+[P]If an E-5 suffers damage, it suffers one additional step of damage (see [B]Table 5-4: Repairing Gear in Chapter V: Gear and Equipment[b] in any of the core rulebooks). Game Masters may spend [DE] or [TH] [TH] [TH] generated on a combat check with an E-5 to cause the weapon to overheat. This damages the weapon and deals 2 wounds to the wielder if they are organic. </Description>
+    <Sources>
+      <Source Page="52">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Energy Weapon</Type>
+    <Categories>
+      <Category>Rifle</Category>
+      <Category>Blaster Rifle</Category>
+      <Category>Blaster</Category>
+      <Category>Ranged</Category>
+    </Categories>
+    <Encumbrance>2</Encumbrance>
+    <HP>2</HP>
+    <Price>600</Price>
+    <Rarity>4</Rarity>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>If an E-5 suffers damage, it suffers one additional step of damage.</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>May spend [TH][TH][TH] or [DE] to cause an E-5 to overheat. This damages the weapon and deals 2 wound to the wield if organic.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <SkillKey>RANGHVY</SkillKey>
+    <Damage>9</Damage>
+    <Crit>3</Crit>
+    <RangeValue>wrLong</RangeValue>
+    <Qualities>
+      <Quality>
+        <Key>STUNSETTING</Key>
+      </Quality>
+    </Qualities>
+    <Range>Long</Range>
+  </Weapon>
+  <Weapon>
+    <Key>DE10BLAST</Key>
+    <Name>DE-10 Blaster Pistol</Name>
+    <Description> [H3]DE-10 Blaster Pistol[h3]
+The DE-10 is a stylish and reliable heavy blaster produced by BlasTech subsidiary Antrech Arms, specialists in boutique and niche products. Vaunted for its reliability and ease of maintenance, this fine blaster pistol resembles nothing so much as a slugthrower revolver. It is constructed of high-quality materials and can stand up to immense punishment in the field. Unlike most blaster weapons, the DE-10 fires a distinctive bright-blue bolt, a feature designed simply to set it apart from its competition. All DE-10 pistols come standard with a telescopic optical sight. 
+
+[P]The DE-10's telescopic optical site reduces the difficulty of combat checks made at long and extreme range by one. A DE-10 in need of minor repairs does not add [SE] to checks. Add [BO] to checks made to repair a damaged DE-10</Description>
+    <Sources>
+      <Source Page="51">Collapse of the Republic</Source>
+    </Sources>
+    <Custom>DescOnly</Custom>
+    <Type>Energy Weapon</Type>
+    <Categories>
+      <Category>Pistol</Category>
+      <Category>Blaster Pistol</Category>
+      <Category>Blaster</Category>
+      <Category>Ranged</Category>
+    </Categories>
+    <Encumbrance>1</Encumbrance>
+    <HP>2</HP>
+    <Price>1400</Price>
+    <Rarity>8</Rarity>
+    <BaseMods>
+      <Mod>
+        <MiscDesc>Reduces difficulty of combat checks made at long and extreme range by one.</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>A DE-10 in need of minor repair does not add [SE] to checks.</MiscDesc>
+      </Mod>
+      <Mod>
+        <MiscDesc>Add [BO] to checks made to repair a DE-10.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <SkillKey>RANGLT</SkillKey>
+    <Damage>6</Damage>
+    <Crit>2</Crit>
+    <RangeValue>wrLong</RangeValue>
+    <Qualities>
+      <Quality>
+        <Key>ACCURATE</Key>
+        <Count>1</Count>
+      </Quality>
+      <Quality>
+        <Key>STUNSETTING</Key>
+      </Quality>
+    </Qualities>
+    <Range>Long</Range>
   </Weapon>
 </Weapons>

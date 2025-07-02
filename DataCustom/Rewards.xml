@@ -802,4 +802,33 @@ Mechanically, schools improve all checks made by allies, apprentices, and follow
       </OptionChoice>
     </OptionChoices>
   </Reward>
+  <Reward>
+    <Key>JEDI</Key>
+    <Name>Jedi</Name>
+    <Description>[H4]Jedi[h4]
+The General and Master specializations continue the Jedi career path that begins with the Padawan and Knight careers included in [B]Rise of the Separatists[b], the [I]Star Wars[i] Roleplaying sourcebook that covers the early days of the Clone Wars. Because of the Force Rating prerequisite for these specializations, it is not normally possible to create a Jedi career character with a starting specialization other than Padawan.
+[P]To create a Jedi character using [B]Collapse of the Republic[b], a player may, with the GM's permission, spend 30 XP of their starting XP to purchase a rank of the Force Rating talent (bringing their Force rating to 2). This might represent a novice Jedi thrust into the role of general thanks to the desperate state of the war, or even a Padawan acting as a commander of the clone troops. The GM can also make this option available to a player who wishes to select Knight as their character's starting specialization, which likewise could represent a Jedi whose training was cut short due to the needs of the war effort.</Description>
+    <Source Page="17">Collapse of the Republic</Source>
+    <Custom>DescOnly</Custom>
+    <OptionChoices>
+      <OptionChoice>
+        <Name>Jedi</Name>
+        <Options>
+          <Option>
+            <Name>Short Path to Power</Name>
+            <Description>May start with a rank in the Force Rating talent. You must already have a Force rating for this to take effect.</Description>
+            <StartingAttributes>
+              <Experience>30</Experience>
+            </StartingAttributes>
+            <TalentModifiers>
+              <TalentModifier>
+                <Key>FORCERAT</Key>
+                <RankAdd>1</RankAdd>
+              </TalentModifier>
+            </TalentModifiers>
+          </Option>
+        </Options>
+      </OptionChoice>
+    </OptionChoices>
+  </Reward>
   </Rewards>

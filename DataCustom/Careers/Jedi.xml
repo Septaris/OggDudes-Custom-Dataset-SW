@@ -24,8 +24,8 @@ The Jedi of today have different roles than those described in myths, legends, a
   <Specializations>
     <Key>JEDIKNIGHT</Key>
     <Key>PADAWAN</Key>
-    <Key>JEDIGEN</Key>
-    <Key>JEDIMASTER</Key>
+    <Key>GENERAL</Key>
+    <Key>MASTER</Key>
   </Specializations>
   <Attributes>
     <ForceRating>1</ForceRating>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
-  <Key>DWWAR</Key>
+  <Key>DEATHWATCHWARRIOR</Key>
   <Name>Death Watch Warrior</Name>
   <Description>[H4]Death Watch Warrior[h4]
 The Death Watch are either fanatics or patriots, depending which side of their blasters one faces. Historical revisionists and a terrorist group to the Republic, the Death Watch believes that the Mandalorians should return to their warrior roots. In order to reclaim their so-called heritage, they allied with the Separatists, performing commando raids and sabotage against the Republic in exchange for political support against the recognized Mandalorian government.
@@ -10,7 +10,7 @@ The Death Watch are either fanatics or patriots, depending which side of their b
 [P]A Death Watch Warrior also needs to express their aggression at the negotiation table. Compromise breeds weakness. Extortion, strong-arming, and even a little blackmail showcase power and command. The Death Watch doesn't need compromise; it needs victories.
 [P]The Death Watch has no disdain for the Mandalorian people, just for their misguided belief in peace. It merely needs to show them the glory of battle and the rewards of taking their birthright. To cleanse the peaceful rot in their society, Death Watch aims to eliminate leaders who cannot change and the Republic that backs them. If the Separatists refuse to give aid - or worse, dictate Mandalore's destiny - then the Death Watch intends to fight the whole galaxy to the end.</Description>
   <Source Page="28">Collapse of the Republic</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>COERC</Key>
     <Key>MECH</Key>
@@ -43,7 +43,7 @@ The Death Watch are either fanatics or patriots, depending which side of their b
         <Key>ARM</Key>
         <Key>SIDESTEP</Key>
         <Key>JUMP</Key>
-        <Key>JETEXP</Key>
+        <Key>JETPEXP</Key>
       </Talents>
       <Directions>
         <Direction>
@@ -98,8 +98,8 @@ The Death Watch are either fanatics or patriots, depending which side of their b
       <Talents>
         <Key>ARMIMP</Key>
         <Key>CONDITIONED</Key>
-        <Key>HITRUN</Key>
-        <Key>DTHFRABOVE</Key>
+        <Key>HITANDRUN</Key>
+        <Key>DEATHABOVE</Key>
       </Talents>
       <Directions>
         <Direction>
@@ -127,9 +127,9 @@ The Death Watch are either fanatics or patriots, depending which side of their b
       <Cost>25</Cost>
       <Talents>
         <Key>DEDI</Key>
-        <Key>TOTHEDTH</Key>
-        <Key>SIDESTIMP</Key>
-        <Key>MOMTUM</Key>
+        <Key>TOTHEDEATH</Key>
+        <Key>SIDESTEPIMP</Key>
+        <Key>MOMENTUM</Key>
       </Talents>
       <Directions>
         <Direction>
