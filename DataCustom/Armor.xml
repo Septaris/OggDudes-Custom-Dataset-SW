@@ -3641,8 +3641,8 @@ Stealth suits, produced by companies like Ayelixe/Kronbing Textiles and Creshald
     <Key>CLONEDIVE</Key>
     <Name>Clone Dive Armor</Name>
     <Description>      [H3]Clone Dive Armor[h3]
-Some battlefronts are on worlds such as Mon Cala, where clone troopers must fight while swimming through the depths. Clones are as ill suited for such environments as any other humansm and they require armor that protects them from the ocean's pressure while also providing breathable air and assisting with aquatic maneuverability. By necessity, these suits are made of lighter-weight materials so that the wearer retains some degree of buoyancy. They also incorporate an underwater propulsion system, fins, and sensors for underwater visibility.
-[P]Clone dive armor provides twelve hours of oxygen. During this time, the wearer also has fresh water, nutrition supplements, and other biological necessities. While wearing clone dive armor, a character does not suffer movement penalties for moving through wanter and removes up to one [SE] from Perception checks due to underwater conditions.</Description>
+Some battlefronts are on worlds such as Mon Cala, where clone troopers must fight while swimming through the depths. Clones are as ill suited for such environments as any other humans and they require armor that protects them from the ocean's pressure while also providing breathable air and assisting with aquatic maneuverability. By necessity, these suits are made of lighter-weight materials so that the wearer retains some degree of buoyancy. They also incorporate an underwater propulsion system, fins, and sensors for underwater visibility.
+[P]Clone dive armor provides twelve hours of oxygen. During this time, the wearer also has fresh water, nutrition supplements, and other biological necessities. While wearing clone dive armor, a character does not suffer movement penalties for moving through water and removes up to one [SE] from Perception checks due to underwater conditions.</Description>
     <Sources>
       <Source Page="56">Collapse of the Republic</Source>
     </Sources>
@@ -3671,7 +3671,7 @@ Some battlefronts are on worlds such as Mon Cala, where clone troopers must figh
     <Key>CLONERECON</Key>
     <Name>Clone Reconnaissance Armor</Name>
     <Description>[H3]Clone Reconnaissance Armor[h3]
-Often, clone troopers need to operate in environemtns and situations where stealth is vital. Troopers tend to use clone reconnaissance armor for such missions. Its lighter weight, increased flexibility, and enhanced sensor suite aid soldiers during independent operations. Prior to each mission in a new environment, troopers typically repaint these suits with camouflage that integrates colors and patters typical of the terrain where they expect to deploy.
+Often, clone troopers need to operate in environments and situations where stealth is vital. Troopers tend to use clone reconnaissance armor for such missions. Its lighter weight, increased flexibility, and enhanced sensor suite aid soldiers during independent operations. Prior to each mission in a new environment, troopers typically repaint these suits with camouflage that integrates colors and patters typical of the terrain where they expect to deploy.
 [P]Characters wearing clone reconnaissance armor add [BO] to Stealth checks they make. These suits incorporate visors with integrated thermal and low-light sensors, allowing wearers to remove [SE] from visual Perception checks they make.</Description>
     <Sources>
       <Source Page="56">Collapse of the Republic</Source>
@@ -3741,7 +3741,7 @@ In the chaos of a major conflict, may clone troopers fear that the sheer volume 
     <Description>[H3][I]Katarn[i] - Class Commando Armor[h3]
 Clone commandos often accept missions that have a particularly high risk assessment and require extended independent operations. [I]Katarn[i]-class commando armor was designed with these conditions in mind.  Its imposing form is named after a deadly predator native to the planet Kashyyyk, and its capabilities live up to that name.
 [P]Its duraplast construction provides good protection from most weapons, while its insulated bodysuit grants the wearer protection from heat, cold, radiation, and most known toxins. A six-hour air supply enables the wearer to function in hostile environments, including the vacuum of space. Integrated scanners and communications suites enable the wearer to track hostiles while keeping in touch with allies.
-[P]The armor's backpack is modular, enably it to incorporate modifications suited to battlefield needs, such as survival gear, additional oxygen supplies, and field electronics.</Description>
+[P]The armor's backpack is modular, enabling it to incorporate modifications suited to battlefield needs, such as survival gear, additional oxygen supplies, and field electronics.</Description>
     <Sources>
       <Source Page="56">Collapse of the Republic</Source>
     </Sources>
@@ -3798,7 +3798,7 @@ Advanced Recon Commandos, or ARC troopers, performed the initial field test of P
     <Key>PHASEIICLONE</Key>
     <Name>Phase II Clone Trooper Armor</Name>
     <Description>[H3]Phase II Clone Trooper Armor[h3]
-Throught the course of the Clone Wars, clone troopers have assumed a broad range of different battlefield roles. It has become increasingly obvious that the armor employed at the start of the conflict was insufficiently adaptable to the varying requirements of these roles. To remedy this situation, the Grand Army of the Republic gradually rolled out a new model of armor to all clone troopers.
+Throughout the course of the Clone Wars, clone troopers have assumed a broad range of different battlefield roles. It has become increasingly obvious that the armor employed at the start of the conflict was insufficiently adaptable to the varying requirements of these roles. To remedy this situation, the Grand Army of the Republic gradually rolled out a new model of armor to all clone troopers.
 [P]The new armor incorporates a much greater level of modularity and adaptability so that individual clones can modify it as best suits their preferences and requirements. These improvements necessitate some cutbacks in basic systems, including the removal of the armor's internal life-support system. Modular components are available to replace all omitted functions, so clone troopers can always reconfigure their armor to incorporate those features necessary for a particular battlefield role.
 [P]Phase II clone trooper armor includes an integrated comlink with scrambler capable of using all standard Republic communications protocols.</Description>
     <Sources>

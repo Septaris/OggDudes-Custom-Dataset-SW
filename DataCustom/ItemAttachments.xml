@@ -12290,7 +12290,7 @@ After working on the item, vehicle, or ship, the character’s comprehension of 
     <Key>BAYONET</Key>
     <Name>Bayonet</Name>
     <Description>[H3]Bayonet[h3]
-In the heat of combat, a ranged conflict can quickly turn into a melee. While most soldiers carry some sort of melee weapon, the ability to also use a rifle in hand-to-hand combat can enable a trooper to act without thinking. A bayonet makes this a natural process and gives a weapon more reach and force than a simple knife. This attachement can only be used on rifle- and carbine-sized weapons.
+In the heat of combat, a ranged conflict can quickly turn into a melee. While most soldiers carry some sort of melee weapon, the ability to also use a rifle in hand-to-hand combat can enable a trooper to act without thinking. A bayonet makes this a natural process and gives a weapon more reach and force than a simple knife. This attachment can only be used on rifle- and carbine-sized weapons.
 [BR][B]Models Include:[b] SoroSuub Mk IX Bayonet, BlasTech B-3 Field Knife.</Description>
     <Sources>
       <Source Page="60">Collapse of the Republic</Source>
@@ -12336,7 +12336,7 @@ In the heat of combat, a ranged conflict can quickly turn into a melee. While mo
     <Key>CATFAILMOD</Key>
     <Name>Catastrophic Failure Modification</Name>
     <Description>[H3]Catastrophic Failure Modification[h3]
-Despite their deadliness, lightsabers are famously reliable for a trained user. However, it is possible for an expert in lightsaber construction to bypass the weapon's normal safegards in order to overload it, such as by inverting the emitter matrix, releasing a massive amount of plasma energy. For a Jedi to even consdier this course of action, the situation must be truly dire.</Description>
+Despite their deadliness, lightsabers are famously reliable for a trained user. However, it is possible for an expert in lightsaber construction to bypass the weapon's normal safeguards in order to overload it, such as by inverting the emitter matrix, releasing a massive amount of plasma energy. For a Jedi to even consider this course of action, the situation must be truly dire.</Description>
     <Source Page="61">Collapse of the Republic</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -12353,7 +12353,7 @@ Despite their deadliness, lightsabers are famously reliable for a trained user. 
     <Key>CHRISTOPHCRYS</Key>
     <Name>Christophsis Crystal</Name>
     <Description>[H3]Christophsis Crystal[h3]
-The crystal world of Christophsis was an early flash point in the Clone Wars, and it has seen continuing conflict throughout the war. Its importants to both the Republic and Separatists stems from a number of sources, but its importance to the Jedi lies in the pure kyber crystals that form in the world's crystalline forests. A lightsaber blade created by a Christophsis crystal amplifies kinetic energy in a unique way among lightsabers, resulting in powerful impacts.
+The crystal world of Christophsis was an early flash point in the Clone Wars, and it has seen continuing conflict throughout the war. Its importance to both the Republic and Separatists stems from a number of sources, but its importance to the Jedi lies in the pure kyber crystals that form in the world's crystalline forests. A lightsaber blade created by a Christophsis crystal amplifies kinetic energy in a unique way among lightsabers, resulting in powerful impacts.
 [P][B]Models Include:[b] None.</Description>
     <Source Page="62">Collapse of the Republic</Source>
     <Custom>DescOnly</Custom>
@@ -12474,7 +12474,7 @@ Many pistols are designed to cycle and fire as quickly as the trigger can be dep
     <Key>AMPCHAMBER</Key>
     <Name>Amplifying Chamber</Name>
     <Description>[H3]Amplifying Chamber[h3]
-A blaster fires using energy to excite a small amount of volatile cas into an explosive plasma. That transformation occurs within the weapon's chamger, which tightly controls the quantity and ratio of both the gas and the energy. A larger, reinforced chamber enables the weapon to emit a significantly more powerfly blast that can inflict its damage over a larger area. Over time, this increases the wear on the weapon and can lead to component breakdown, but most wielders are more than willing to accept this cost for the increase in effectiveness. This attachment can only be installed on blasters
+A blaster fires using energy to excite a small amount of volatile gas into an explosive plasma. That transformation occurs within the weapon's chamber, which tightly controls the quantity and ratio of both the gas and the energy. A larger, reinforced chamber enables the weapon to emit a significantly more powerful blast that can inflict its damage over a larger area. Over time, this increases the wear on the weapon and can lead to component breakdown, but most wielders are more than willing to accept this cost for the increase in effectiveness. This attachment can only be installed on blasters
 [BR][B]Models Include:[b] Rothana RX-99 AmpChamber, BlasTech A-13 Acceleration Chamber.
     </Description>
     <Sources>
@@ -12513,7 +12513,7 @@ A blaster fires using energy to excite a small amount of volatile cas into an ex
     <Key>WHIPTHROW</Key>
     <Name>Whipcord Thrower</Name>
     <Description>[H3]Whipcord Thrower[h3]
-A whipcord thrower quickly deploys a length of high-tensile-strength cable, firing it over a distance in order to secure a target. Its convenient armor mounting allows the user to act quickly, whether to arrest their own freefall, secure a loose object, or entangle a suprised opponent.
+A whipcord thrower quickly deploys a length of high-tensile-strength cable, firing it over a distance in order to secure a target. Its convenient armor mounting allows the user to act quickly, whether to arrest their own freefall, secure a loose object, or entangle a surprised opponent.
 [P][B]Models Include:[b] Jeron Hookless Grapplers, Soro-Suub Whipcord Thrower.</Description>
     <Sources>
       <Source Page="63">Collapse of the Republic</Source>
@@ -12555,7 +12555,7 @@ A whipcord thrower quickly deploys a length of high-tensile-strength cable, firi
     <Key>BARCSIDECAR</Key>
     <Name>Mk I Sidecar for BARC Speeder</Name>
     <Description>[H3]Mk I Sidecar for BARC Speeder[h3]
-The addition of a Mk I Sidecare increases a BARC speeder's passenger capacity and encumbrance at the cost of handling.  The sidecar can mount a light repeating blaster -- this weapon uses personal scale, not planetary scale (Fire Arc Forward; Damage 11; Critical 3; Range [Long]; Auto-fire; Pierce 1).
+The addition of a Mk I Sidecar increases a BARC speeder's passenger capacity and encumbrance at the cost of handling.  The sidecar can mount a light repeating blaster -- this weapon uses personal scale, not planetary scale (Fire Arc Forward; Damage 11; Critical 3; Range [Long]; Auto-fire; Pierce 1).
     </Description>
     <Sources>
       <Source Page="65">Collapse of the Republic</Source>
@@ -12606,7 +12606,7 @@ The addition of a Mk I Sidecare increases a BARC speeder's passenger capacity an
     <Key>PERVIBROSAW</Key>
     <Name>Personal Vibrosaw</Name>
     <Description>[H3]Personal Vibrosaw[h3]
-Troopers may have to pass through a broad range of environments when on a mission or in pursuit of a target. Sometimes, this requires cutting through forest undergrowth or cutting through a bulkhead so that a unit can quickly bypass critical security systems. To expedite these situations, some troopers mount a personal vibrosaw on a bracer of their armor.  When deployed, the diamond-tipped chain rotates rappidly around a thin blade capable of cutting through virtually any material. In extreme situations, the vibrosaw may also be used as a weapon, but its rotating blades make it cumbersome to wield.
+Troopers may have to pass through a broad range of environments when on a mission or in pursuit of a target. Sometimes, this requires cutting through forest undergrowth or cutting through a bulkhead so that a unit can quickly bypass critical security systems. To expedite these situations, some troopers mount a personal vibrosaw on a bracer of their armor.  When deployed, the diamond-tipped chain rotates rapidly around a thin blade capable of cutting through virtually any material. In extreme situations, the vibrosaw may also be used as a weapon, but its rotating blades make it cumbersome to wield.
 [P][B]Models Include:[b] Greel Mk VI Vibrosaw.
     </Description>
     <Sources>
@@ -12697,7 +12697,7 @@ Armor and weapon designs oppose one another in a cycle of endless escalation. No
     <Key>RETWRIST</Key>
     <Name>Retractable Wrist Blades</Name>
     <Description>[H3]Retractable Wrist Blades[h3]
-Knives are among the most universally developed and broadly useful tools. While its combat function is obvious, knives are also routinely used for modifying equipment, as makeshift prybars, for escaping restraints, and for countless other applications. Not surprisingly, many warriors like to have a blade readily at hand. Mounting retractable blades on one or both forearms of an armored suit provides a solution that is immediately available. In some cases, the mount point is furter reinforced, transforming the forearm blade mount into a small buckler.
+Knives are among the most universally developed and broadly useful tools. While its combat function is obvious, knives are also routinely used for modifying equipment, as makeshift prybars, for escaping restraints, and for countless other applications. Not surprisingly, many warriors like to have a blade readily at hand. Mounting retractable blades on one or both forearms of an armored suit provides a solution that is immediately available. In some cases, the mount point is further reinforced, transforming the forearm blade mount into a small buckler.
 [P][B]Models Include:[b] Merr-Sonn SB-7 Spring Blades, Dolmax Model 9 Wrist Knife.
     </Description>
     <Sources>

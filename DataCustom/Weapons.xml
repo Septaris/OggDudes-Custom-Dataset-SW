@@ -19507,9 +19507,9 @@ The greatsword requires two hands to wield.</Description>
     <Name>Welding Rod</Name>
     <Description>
       [H3]Welding Rod[h3]
-Technicians need not only the ability to cut metal apart quickly, but the capacity to fuse back together. A welding rod works on a simple principle, generating a jet of focused heat that liqefies small parts of two or more pieces of metal, creating a sturdy bond between the formerly separate pieces. The heat involved is in this process is extremely dangerous to organic creatures and can even sear clean through athe much sturdier limbs of droids. For good reason, welding rods are typically sold with instruction manuals that highlight the danger involved in their use - which some Technicians choose to actively ignore when threatened in their workshops.
+Technicians need not only the ability to cut metal apart quickly, but the capacity to fuse back together. A welding rod works on a simple principle, generating a jet of focused heat that liquefies small parts of two or more pieces of metal, creating a sturdy bond between the formerly separate pieces. The heat involved is in this process is extremely dangerous to organic creatures and can even sear clean through the much sturdier limbs of droids. For good reason, welding rods are typically sold with instruction manuals that highlight the danger involved in their use - which some Technicians choose to actively ignore when threatened in their workshops.
 [P]A welding rod adds automatic [SU] to Mechanics checks checks to repair droids, vehicles and starships.
-[P]The GM may spend [DE] on any check made with a welding rod to inflict a Criticaly Injury (see page 216 of the [B]Edge of The Empire[b] Core Rulebook) on the user.</Description>
+[P]The GM may spend [DE] on any check made with a welding rod to inflict a Critically Injury (see page 216 of the [B]Edge of The Empire[b] Core Rulebook) on the user.</Description>
     <Source Page="47">Special Modifications</Source>
     <Custom>DescOnly</Custom>
     <Type>Tool</Type>
@@ -19780,7 +19780,7 @@ This missile contains a device allowing the target's movements to be tracked reg
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>After a character makes a successful combat check with an XX-23 tracer, he may make an [B]Average [DI][DI] Astrogation check[b] to determine the target's location anywhere in the galaxt until the tracer is removed.</MiscDesc>
+        <MiscDesc>After a character makes a successful combat check with an XX-23 tracer, he may make an [B]Average [DI][DI] Astrogation check[b] to determine the target's location anywhere in the galaxy until the tracer is removed.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>GUNN</SkillKey>
@@ -19804,7 +19804,7 @@ This missile contains a device allowing the target's movements to be tracked reg
     <Name>Z6 Riot Baton</Name>
     <Description>
       [H3]Z6 Riot Baton[h3]
-This extendable cudgel integrates a set of conductor contact vanes that can effectively subdue a target. The Z6 model was designed to partially collapse. This enables the wielder to carrier it at the waist with minimal inconvenience. When activated, the same power supply triggers an energy field that stabalizes the baton at its full ninety-centimeter size. In addition to serving as a shock prod, the energy field is capable of deflecting an attack from a plasma weapon, such as a lightsaber.</Description>
+This extendable cudgel integrates a set of conductor contact vanes that can effectively subdue a target. The Z6 model was designed to partially collapse. This enables the wielder to carrier it at the waist with minimal inconvenience. When activated, the same power supply triggers an energy field that stabilizes the baton at its full ninety-centimeter size. In addition to serving as a shock prod, the energy field is capable of deflecting an attack from a plasma weapon, such as a lightsaber.</Description>
     <Source Page="44">Disciples of Harmony</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>

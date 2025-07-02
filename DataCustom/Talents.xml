@@ -4973,7 +4973,7 @@
   <Talent>
     <Key>RAPIDFIRE</Key>
     <Name>Rapid Fire</Name>
-    <Description>May add the Autofire item quality to a Ranged (Light) combat check. After resolving the attack, the weapon runs out of ammo.</Description>
+    <Description>May add the Auto-fire item quality to a Ranged (Light) combat check. After resolving the attack, the weapon runs out of ammo.</Description>
     <Source Page="21">Collapse of the Republic</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
