@@ -2725,7 +2725,7 @@
     <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
-    <Key>ICHTRANS</Key>
+    <Key>ICHORTRANS</Key>
     <Name>Ichor Transfusion</Name>
     <Description>Once per encounter, the character may perform the Ichor Transfusion maneuver. The character may heal any number of their current wounds by suffering that number of strain +1. The character may instead heal any number of their current strain by suffering that number of wounds +1.</Description>
     <Source Page="40">Collapse of the Republic</Source>
