@@ -10,7 +10,7 @@ Despite their differing allegiances, Senators for the Republic and Separatist Al
 [P]To accomplish this never-ending mission, a Senator has the following career skills: [B]Charm, Deception, Knowledge (Education)[b], and [B]Negotiation[b]. Most Senators have received the best education available on their homeworld and have mastered the full breadth of rhetorical tactics. A successful Senator knows how to relate to their constituents and fellow politicians, when to lay the facts on the table, and when to obfuscate the truth.
 [P]Though many Senators in both governments spend the majority of their time in their respective Senates, some prefer a hands-on approach. After all, seeing disparity, atrocity, or disenfranchisement with their own eyes can make a problem more real and make arguments more impassioned. By traveling to affected worlds, a Senator can get more work done by personally organizing locals, investigating cover-ups, and gathering evidence. When a corrupt Senator is themself the cause of inequity, sometimes catching the criminal requires another Senator. In this case, the actions taken are closer to spy work, as the investigating Senator uses their guile, silver tongue, and status to lead the criminal into a trap and toward justice.</Description>
   <Source Page="32">Collapse of the Republic</Source>
-  <Custom>CustomItem</Custom>
+  <Custom>AddedItem</Custom>
   <CareerSkills>
     <Key>CHARM</Key>
     <Key>DECEP</Key>

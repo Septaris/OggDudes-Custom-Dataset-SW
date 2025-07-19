@@ -5348,7 +5348,7 @@
     <Name>Savvy</Name>
     <Description>The character adds [BO] to Charm and Negotiation checks they make per rank of Savvy.</Description>
     <Source Page="43">Collapse of the Republic</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <DieModifiers>
