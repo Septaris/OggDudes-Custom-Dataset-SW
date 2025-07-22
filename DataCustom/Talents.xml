@@ -4768,7 +4768,7 @@
   <Talent>
     <Key>PRECSTRSUP</Key>
     <Name>Precision Strike (Supreme)</Name>
-    <Description>When this character inflicts a Critical Injury with a Brawl, Melee, or Lightsaber weapon, may suffer 1 strain to change the result to any [B]Easy ([DI])[b] Critical Injury.</Description>
+    <Description>Once per session, when inflicting a Critical Injury with an unarmed attack, may suffer 3 strain to change the result to any [B]Hard ([DI])([DI])([DI])[b] Critical Injury.</Description>
     <Sources>
       <Source Page="36">No Disintegrations</Source>
     </Sources>
