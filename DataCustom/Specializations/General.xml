@@ -59,7 +59,6 @@ A Jedi's connection to the Force helps them see the bigger picture and understan
         </Direction>
         <Direction>
           <Left>true</Left>
-          <Down>true</Down>
         </Direction>
       </Directions>
     </TalentRow>
@@ -88,7 +87,6 @@ A Jedi's connection to the Force helps them see the bigger picture and understan
         </Direction>
         <Direction>
           <Left>true</Left>
-          <Up>true</Up>
           <Down>true</Down>
         </Direction>
       </Directions>

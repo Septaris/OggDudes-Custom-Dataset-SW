@@ -95,12 +95,10 @@
         <Direction>
           <Down>true</Down>
           <Up>true</Up>
-          <Right>true</Right>
         </Direction>
         <Direction>
           <Down>true</Down>
           <Up>true</Up>
-          <Left>true</Left>
         </Direction>
       </Directions>
     </TalentRow>

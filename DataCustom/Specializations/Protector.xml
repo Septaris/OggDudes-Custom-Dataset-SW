@@ -74,12 +74,12 @@ Guardians are often driven by their compassion for the plights of those who cann
         </Direction>
         <Direction>
           <Left>true</Left>
-          <Right>false</Right>
+          <Right>true</Right>
           <Up>true</Up>
           <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>false</Left>
+          <Left>true</Left>
           <Right>true</Right>
           <Up>false</Up>
           <Down>true</Down>

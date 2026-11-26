@@ -84,11 +84,9 @@ There comes a time in the life of most who feel the draw of the Force when they 
         </Direction>
         <Direction>
           <Left>true</Left>
-          <Right>true</Right>
           <Down>true</Down>
         </Direction>
         <Direction>
-          <Left>true</Left>
           <Down>true</Down>
         </Direction>
       </Directions>
