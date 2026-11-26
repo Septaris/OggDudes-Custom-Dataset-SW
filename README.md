@@ -1,4 +1,4 @@
-Dataset for OggDude's character generator 2.3.4.0.
+Dataset for OggDude's character generator 2.3.5.0.
 
 ## Installation
 
