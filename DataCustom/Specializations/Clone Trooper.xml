@@ -24,7 +24,7 @@ Standard infantry make up the largest portion of the soldiers in almost every ar
     <TalentRow>
       <Cost>5</Cost>
       <Talents>
-        <Key>PARRY</Key>
+        <Key>GRIT</Key>
         <Key>PHYSTRAIN</Key>
         <Key>TOUGH</Key>
         <Key>BRA</Key>
