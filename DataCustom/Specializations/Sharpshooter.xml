@@ -143,6 +143,7 @@ With a love of firearms and a pride in personal accuracy, the Sharpshooter is th
       <Directions>
         <Direction>
           <Right>true</Right>
+          <Up>true</Up>
         </Direction>
         <Direction>
           <Up>true</Up>

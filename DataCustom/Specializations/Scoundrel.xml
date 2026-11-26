@@ -147,6 +147,7 @@
         <Direction>
           <Left>true</Left>
           <Right>true</Right>
+          <Up>true</Up>
         </Direction>
         <Direction>
           <Up>true</Up>
