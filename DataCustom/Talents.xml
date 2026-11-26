@@ -2098,7 +2098,7 @@
   </Talent>
   <Talent>
     <Key>FLOWALL</Key>
-    <Name>Flow through all Things</Name>
+    <Name>Flows Through All Things</Name>
     <Description>Once per round, the character may perform the Flows through all Things maneuver to recover strain equal to their Force rating.</Description>
     <Source Page="39">Collapse of the Republic</Source>
     <Custom>DescOnly</Custom>
