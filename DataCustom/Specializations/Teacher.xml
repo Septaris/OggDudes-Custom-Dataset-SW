@@ -9,8 +9,8 @@ There comes a time in the life of most who feel the draw of the Force when they 
 [P]Some Teachers work closely with established schools and academies, perhaps echoing the techniques and traditions of the fallen Jedi Temple. Many of these work in the Outer Rim, far from the prying eyes of the Galactic Empire. Others, feeling no need for more advanced aids and accoutrements, content themselves with little more than a clearing or a log to sit their pupils upon, from which they might contemplate the mysteries of the galaxy together. Teachers are often keenly aware of their place in the scheme of life and seek to pass the peace and assurance of this knowledge on to their students, that their own purposes. No matter the particular goal of the moment, a Teacher will have advice and instruction to assist in its achievement.
 [P]In the course of a lifetime, any setting can turn into a classroom with a willing Teacher on one side and an apt pupil on the other. Whether in a dry, dusty hut in the middle of a desert, the sodden expanse of a humid swamp, or the cramped confines of a tramp freighter, Teachers will do what is needed to see that their students are prepared for the tasks that lie before them.
 [P]Often the path of the Teacher is not one that is selected, but one that is thrust upon one by circumstance. In the pursuit of expansive goals, it may be hard to realize that it is best left to others to achieve them, the responsibility of the Teacher being to assist them and shepherd them along. Having a Teacher in a group can be a great boon no matter the goal, given the versatility of Teachers' abilities and their capacity to assist other members of their group in any efforts they may make. When the need is greatest and a new generation must rise to confront the darkness, there can be no greater ally in the Force than knowledge passed down from the vantage of experience and understanding.</Description>
-  <Source Page="25">Disciples of Harmony</Source>
-  <Custom>DescOnly</Custom>
+  <Source Page="27">Disciples of Harmony</Source>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>EDU</Key>
     <Key>LEAD</Key>

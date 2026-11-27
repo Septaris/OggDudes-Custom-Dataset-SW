@@ -13,7 +13,7 @@ With a love of firearms and a pride in personal accuracy, the Sharpshooter is th
 
 [P]The focus on individual excellence within the Alliance elevates the Sharpshooter over his typical counterpart in the Empire. He is encouraged to train to higher degrees of proficiency, and he is encouraged to master techniques of survival, depending on his team to stay alive. The average stormtrooper is given a decent amount of training, but the lack of attention to personal excellence means he will never reach the pinnacle of accuracy and deadly effectiveness attained by a Sharpshooter in the Rebellion.</Description>
   <Source Page="93">Age of Rebellion Core Rulebook</Source>
-  <Custom>DescOnly</Custom>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>COOL</Key>
     <Key>PERC</Key>

@@ -12,7 +12,7 @@
 
 [P]In a Player Character group, the Scoundrel is a kind of all-purpose character. He's got enough underworld savvy and social ability to act as a "face" for the group, and he's no slouch in a fight. He may or may not be a pilot, but it's almost certain he's got many of the rogue-style abilities a group might need.</Description>
   <Source Page="84">Edge of the Empire Core Rulebook</Source>
-  <Custom>DescOnly</Custom>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>CHARM</Key>
     <Key>COOL</Key>
