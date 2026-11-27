@@ -13,7 +13,7 @@ Standard infantry make up the largest portion of the soldiers in almost every ar
 
 [P]Even within a unit, soldiers assume particular responsibilities. Often, one trooper is assigned to carry a heavier weapon—such as the Z-6 rotary blaster cannon—while others might wield alternative tools, such as explosives, communications gear, a medpac, or other equipment necessary to complete the mission at hand. Typically, Clone Troopers receive particular training to make use of any non-standard equipment they carry. However, Clone Troopers with less specialized training might redistribute such gear over the course of a mission.</Description>
   <Source Page="23">Rise of the Separatists</Source>
-  <Custom>DescOnly</Custom>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>GUNN</Key>
     <Key>PERC</Key>

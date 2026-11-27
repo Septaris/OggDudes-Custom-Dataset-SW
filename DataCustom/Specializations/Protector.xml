@@ -12,7 +12,7 @@ Guardians are often driven by their compassion for the plights of those who cann
 
 [P]Some Protectors might come to master their abilities while working in a military or law enforcement role. Some Force techniques might manifest spontaneously as they instinctively act to keep companions safe. This could be particularly relevant for individuals who have not recognized their connection to the Force. Its presence might enable them to save an ally from danger in a seemingly inexplicable fashion. However, once these individuals realize the power they have, they must decide whether to continue their career and keep it a secret, or leave the life they've known and explore their new abilities.</Description>
   <Source Page="76">Force and Destiny Core Rulebook</Source>
-  <Custom>DescOnly</Custom>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>ATHL</Key>
     <Key>MED</Key>
