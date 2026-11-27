@@ -15,8 +15,8 @@
 
 [P]Other Explorers scour the HoloNet and other data services, looking for groups, businesses, or organizations in need. This is why the most well-traveled Explorers are in the greatest demand: they have maps and information about places only a fraction of a percent of the galaxy's population might knows even exist. An Explorer with data about a planet a company wishes to exploit, or with a safe route to a part of the galaxy a group wishes to use for covert operations, can demand top prices.
 
-[P]Any Explorer relatively new to the trade finds himself in the classic conundrum—he needs experience in order to attain the choicest contracts, yet he cannot gain that experience because he cannot get hired. As such, many Explorers will take on any opportunity to travel and work in the Outer Rim, gathering what knowledge and leads they can in order to build up their contacts. resources, and their library of maps and routes. Most commonly, Explorers are able to parlay their astrogation and pilot skills into work opportunities.</Description>
-  <Source Page="67">Edge of the Empire Core Rulebook</Source>
+[P]Any Explorer relatively new to the trade finds himself in the classic conundrum—he needs experience in order to attain the choicest contracts, yet he cannot gain that experience because he cannot get hired. As such, many Explorers will take on any opportunity to travel and work in the Outer Rim, gathering what knowledge and leads they can in order to build up their contacts, resources, and their library of maps and routes. Most commonly, Explorers are able to parlay their astrogation and pilot skills into work opportunities.</Description>
+  <Source Page="68">Edge of the Empire Core Rulebook</Source>
   <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>ASTRO</Key>
