@@ -13,6 +13,7 @@ Force users often have precognitive flashes, experiencing waking dreams or visio
     <Source Page="290">Force and Destiny Core Rulebook</Source>
   </Sources>
   <Custom>DescOnly</Custom>
+  <MinForceRating>1</MinForceRating>
   <AbilityRows>
     <AbilityRow>
       <Abilities>
